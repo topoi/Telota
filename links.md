@@ -1,3 +1,5 @@
+[install existDB](https://exist-db.org/exist/apps/doc/basic-installation)
+
 [install docker (Debian 9)](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-debian-9)
 
 
