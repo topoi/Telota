@@ -13,6 +13,6 @@ um zu schauen, welche devices: lsblk
 wichtig: dhcp Pakete laden  
 (USB stick mounten, dann darauf kopieren)  
 
-arch-chroot: Umgebung für Instellation (Netzzugriff)    
+arch-chroot: Umgebung für Installation (Netzzugriff)    
 um Netzwerk einzurichten: dhcp daemon  
 https://www.archlinux.de/packages?search=dhcpcd  
