@@ -15,4 +15,5 @@ wichtig: dhcp Pakete laden
 
 arch-chroot: Umgebung für Installation (Netzzugriff)    
 um Netzwerk einzurichten: dhcp daemon  
+https://wiki.archlinux.de/title/DHCP  
 https://www.archlinux.de/packages?search=dhcpcd  
