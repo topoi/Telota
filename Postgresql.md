@@ -24,3 +24,6 @@ sudo systemctl restart postgresql.service
 
 **[postgres]$** psql  
 postgres=# \conninfo  (shows current connection)
+psql memphis_project  (connect to database)
+
+psql -d memphis_project -U grobian  (connect to database memphis_project as user grobian)  
