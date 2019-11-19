@@ -6,5 +6,5 @@ sudo -iu postgres
 
 **[postgres]$** exit  
 
-sudo systemctl start postgresql.service
+sudo systemctl start postgresql.service  
 sudo systemctl enable postgresql.service
