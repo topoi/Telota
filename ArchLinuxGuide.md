@@ -6,9 +6,14 @@ https://wiki.archlinux.de/title/Anleitung_f%C3%BCr_Einsteiger
 https://wiki.archlinux.de/title/Pacman
 
 Anmerkungen:  
-
-bei UEFI --> mkfs.fat -F32 ....    
+mkfs.ext4 /dev/sdX2
+bei UEFI --> mkfs.fat -F32 /dev/sdX1
 um zu schauen, welche devices: lsblk   
+
+GRUB:  
+nicht vergessen: pacman -S efibootmgr
+Syntax anders ls (hd0,1)  
+grub-mkconfig -o /boot/grub/grub.cfg  
 
 wichtig: dhcp Pakete laden  
 (USB stick mounten, dann darauf kopieren)  
