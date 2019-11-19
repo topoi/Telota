@@ -6,9 +6,9 @@ https://wiki.archlinux.de/title/Anleitung_f%C3%BCr_Einsteiger
 https://wiki.archlinux.de/title/Pacman
 
 Anmerkungen:  
-mkfs.ext4 /dev/sdX2
-bei UEFI --> mkfs.fat -F32 /dev/sdX1
-um zu schauen, welche devices: lsblk   
+mkfs.ext4 /dev/sdX2  
+bei UEFI --> mkfs.fat -F32 /dev/sdX1  
+um zu schauen, welche devices: lsblk     
 
 GRUB:  
 nicht vergessen: pacman -S efibootmgr
