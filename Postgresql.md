@@ -21,3 +21,6 @@ sudo systemctl enable postgresql.service
 *Adapt the IP address to your network, e.g. if your server has the IP 192.168.0.25 use 192.168.0.0/24 instead. This allows all clients in your network to access the database. For more information see https://en.wikipedia.org/wiki/Subnetwork*
 
 sudo systemctl restart postgresql.service
+
+psql  
+postgres=# \conninfo  (shows current connection)
