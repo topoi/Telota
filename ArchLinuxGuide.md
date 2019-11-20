@@ -11,7 +11,7 @@ bei UEFI --> mkfs.fat -F32 /dev/sdX1
 um zu schauen, welche devices: lsblk     
 
 GRUB:  
-nicht vergessen: pacman -S efibootmgr
+nicht vergessen: pacman -S efibootmgr  
 Syntax anders ls (hd0,1)  
 grub-mkconfig -o /boot/grub/grub.cfg  
 
