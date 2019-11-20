@@ -31,4 +31,5 @@ psql memphis_project  *(connect to database)*
 
 psql -d memphis_project -U grobian  *(connect to database memphis_project as user grobian)*    
 createdb -O postgres memphis_project_1120 *(create DB memphis_project_1120 for user postgres)*  
+dropdb 'database name' *(delete database)*  
 sudo -u postgres psql memphis_project < /home/gordon/Memphis/current_db/20190923memphis.sql *(Import SQL File into DB   memphis_project; user: postgres)*    
