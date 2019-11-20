@@ -26,7 +26,7 @@ sudo systemctl enable postgresql.service
 sudo systemctl restart postgresql.service
 
 **[postgres]$** psql  
-*- shows current connection*      
+*- current connection*      
 postgres=# \conninfo     
  
 *- connect to database*    
