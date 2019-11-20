@@ -1,4 +1,4 @@
-Installation von PostgreSQL unter Arch Linux  
+## Installation von PostgreSQL unter Arch Linux  
 
 sudo pacman -S postgresql  
 sudo -iu postgres  
