@@ -1,5 +1,8 @@
 ## Installation von PostgreSQL unter Arch Linux  
 
+https://wiki.archlinux.org/index.php/PostgreSQL  
+https://github.com/malnvenshorn/OctoPrint-FilamentManager/wiki/Setup-PostgreSQL-on-Arch-Linux  
+
 sudo pacman -S postgresql  
 sudo -iu postgres  
 **[postgres]$** initdb --locale=en_US.UTF-8 -E UTF8 -D /var/lib/postgres/data
