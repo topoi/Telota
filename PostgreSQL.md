@@ -26,10 +26,20 @@ sudo systemctl enable postgresql.service
 sudo systemctl restart postgresql.service
 
 **[postgres]$** psql  
-postgres=# \conninfo  *(shows current connection)*  
-psql memphis_project  *(connect to database)*  
+*(shows current connection)*      
+postgres=# \conninfo     
+ 
+*(connect to database)*    
+psql memphis_project    
 
-psql -d memphis_project -U grobian  *(connect to database memphis_project as user grobian)*    
-createdb -O postgres memphis_project_1120 *(create DB memphis_project_1120 for user postgres)*  
-dropdb 'database name' *(delete database)*  
-sudo -u postgres psql memphis_project < /home/gordon/Memphis/current_db/20190923memphis.sql *(Import SQL File into DB   memphis_project; user: postgres)*    
+*(connect to database memphis_project as user grobian)*      
+psql -d memphis_project -U grobian      
+
+*(create DB memphis_project_1120 for user postgres)*   
+createdb -O postgres memphis_project_1120    
+
+*(delete database)*    
+dropdb 'database name'  
+
+*(Import SQL File into DB   memphis_project; user: postgres)*      
+sudo -u postgres psql memphis_project < /home/gordon/Memphis/current_db/20190923memphis.sql   
