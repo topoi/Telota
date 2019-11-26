@@ -9,3 +9,6 @@
 
 ### Linux Kurs Werner Heuser:  
 https://docs.google.com/document/d/1MhX3R-_mMIfX8IicX4iAnG5DayKAG3nilByVjf_bpwc/edit
+
+### LDAP query:  
+https://www.linux.com/tutorials/managing-ldap-command-line-linux/
