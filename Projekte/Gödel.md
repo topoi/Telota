@@ -1,0 +1,6 @@
+## Projektbeschreibung:
+
+....
+
+# Daten   
+git clone  ...
