@@ -1,1 +1,7 @@
 
+## Projektbeschreibung:
+
+....
+
+# Daten   
+git clone     
