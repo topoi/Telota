@@ -12,6 +12,5 @@ Strg + S: Datei abspeichern
 Strg + Shift + C: Neue Transformation anwenden
 
 ## Ediarum    
-
-# Konflikte ediarum mit aktuelleren eXist DB 
+### Konflikte ediarum mit aktuelleren eXist DB 
 https://github.com/ediarum
