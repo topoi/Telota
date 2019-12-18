@@ -16,3 +16,5 @@ Strg + Shift + C: Neue Transformation anwenden
 ## Ediarum    
 ### Konflikte ediarum mit aktuelleren eXist DB 
 https://github.com/ediarum
+
+http://localhost:8080/exist/webdav/db/projects/Goedel_Gordon/data
