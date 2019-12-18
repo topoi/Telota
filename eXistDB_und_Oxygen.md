@@ -18,3 +18,4 @@ Strg + Shift + C: Neue Transformation anwenden
 https://github.com/ediarum
 
 http://localhost:8080/exist/webdav/db/projects/Goedel_Gordon/data
+http://localhost:8080/exist/apps/ediarum/projects/Goedel_Gordon/data.html?_cache=no#
