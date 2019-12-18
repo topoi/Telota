@@ -18,4 +18,10 @@ Strg + Shift + C: Neue Transformation anwenden
 https://github.com/ediarum
 
 http://localhost:8080/exist/webdav/db/projects/Goedel_Gordon/data   
-http://localhost:8080/exist/apps/ediarum/projects/Goedel_Gordon/data.html?_cache=no#
+http://localhost:8080/exist/apps/ediarum/projects/Goedel_Gordon/data.html?_cache=no#    
+
+Beginner Tutorial
+http://telota.bbaw.de/ediarum/manual/setup/#oxygen/tasks/t_projekt_anlegen.html   
+(Anmerkungen:   
+- Links überarbeiten
+- Unter Linux: beim Löschen in der Oxygen Datei darauf achten, dass in den lokalen Verzeichnissen nichts gelöscht wird.
