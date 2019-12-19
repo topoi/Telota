@@ -1,4 +1,7 @@
-## Tutorial   
+Stand: 18.12.2019   
+
+
+### Tutorial   
 http://telota.bbaw.de/ediarum/manual/setup/#ediarum_uebergreifend/concepts/c_ueberblick_setupDoku.html    
 
 Hinweis: ediarum nur bis eXist DB 4.4 getestet (neuere eXist DB ( > 5) nicht kompatibel mit ediarum.
