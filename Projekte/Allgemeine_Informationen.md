@@ -39,3 +39,6 @@ Mit ediarum erstellte Editionen (Auswahl):
 ** Editionsrichtilinien: https://edition-humboldt.de/richtlinien/index.html   
 * Ifflands dramaturgisches Archiv, https://iffland.bbaw.de    
 * Aloys Hirt, https://aloys-hirt.bbaw.de    
+
+Link von Andrea:    
+https://redmine.bbaw.de/projects/ediarum/wiki/Doku-uebersicht#F%C3%BCr-neue-Kolleginnen
