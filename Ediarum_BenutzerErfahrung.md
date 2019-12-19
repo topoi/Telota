@@ -4,9 +4,20 @@ Stand: 18.12.2019
 ### Tutorial   
 http://telota.bbaw.de/ediarum/manual/setup/#ediarum_uebergreifend/concepts/c_ueberblick_setupDoku.html    
 
-Hinweis: ediarum nur bis eXist DB 4.4 getestet (neuere eXist DB ( > 5) nicht kompatibel mit ediarum.
+**Hinweis:** ediarum nur bis eXist DB 4.4 getestet (neuere eXist DB ( > 5) nicht kompatibel mit ediarum.
+
+Eventuell wäre ein Schaubild der Verzahnung der 5 Komponenten:    
+Oxygen(Author,Editor)   
+eXistDB
+Ediarum     
+Author    
+Entwickler     
+
+hilfreich. 
 
 Im Tutorial bis Oxygen mit der Datenbank verbinden ist alles up to date und super erklärt (lokale Installation, XML Author 21.1 wurde verwendet).   
+
+
 
 ### Oxygen mit der Datenbank verbinden:     
 evtl. bei WebDAV noch mal klar machen, dass lokal der Name "ediarum" nicht im Pfad auftaucht(?)   
