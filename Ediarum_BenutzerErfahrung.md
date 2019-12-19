@@ -6,7 +6,7 @@ http://telota.bbaw.de/ediarum/manual/setup/#ediarum_uebergreifend/concepts/c_ueb
 
 **Hinweis:** ediarum nur bis eXist DB 4.4 getestet (neuere eXist DB ( > 5) nicht kompatibel mit ediarum.
 
-Eventuell wäre ein Schaubild der Verzahnung der 5 Komponenten:    
+**Allgemein:** Eventuell wäre ein Schaubild der Verzahnung der 5 Komponenten:    
 
 Oxygen(Author,Editor)      
 eXistDB   
