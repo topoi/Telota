@@ -39,7 +39,7 @@ In **Punkt 5** aktuellere Beispiele für die Angabe des Wertes (insbesondere bei
 ## Quellcode für eine eingefügte Benutzer Aktion in der Symbolleiste
 
 
- 											<String>authorExtensionDescriptor/actionDescriptors</String>
+<String>authorExtensionDescriptor/actionDescriptors</String>
  										</field>
  										<field name="index">
  											<Integer>163</Integer>
