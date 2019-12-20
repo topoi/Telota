@@ -7,9 +7,9 @@ xmledit
 xmlpublic   
 
 ### Kommado in der Konsole (Achtung /root/.ssh!!)
-ssh git.bbaw.de
-cd /git
+ssh git.bbaw.de   
+cd /git   
 
-*OLD: "ssh -i .ssh/bbaw_hosts gfischer@telotawebdev.bbaw.de"*    
+*OLD: "ssh -i .ssh/bbaw_hosts gfischer@telotawebdev.bbaw.de"*       
 
-https://redmine.bbaw.de/projects/team/wiki
+https://redmine.bbaw.de/projects/team/wiki    
