@@ -38,6 +38,10 @@ In **Punkt 5** aktuellere Beispiele für die Angabe des Wertes (insbesondere bei
 
 ## Quellcode für eine eingefügte Benutzer Aktion in der Symbolleiste
 
+
+
+
+    
 <myxml>
 <String>authorExtensionDescriptor/actionDescriptors</String>
  										</field>
