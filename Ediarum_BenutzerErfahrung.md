@@ -37,7 +37,7 @@ In **Punkt 5** aktuellere Beispiele für die Angabe des Wertes (insbesondere bei
 
 
 ## Quellcode für eine eingefügte Benutzer Aktion in der Symbolleiste
-### in diesem Falle einfach eine Texteingabe "FEHLER" beim Klick auf das Symbol!  
+### in diesem Falle einfach eine Textausgabe "FEHLER" nach dem aktuellen Cursor nach dem Klick auf das Symbol!  
 ```xml
 <String>authorExtensionDescriptor/actionDescriptors</String>
  		</field>
