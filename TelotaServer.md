@@ -10,6 +10,8 @@ xmlpublic
 ssh git.bbaw.de   
 cd /git   
 
+ssh gfischer@XXX.bbaw.de    
+
 *OLD: "ssh -i .ssh/bbaw_hosts gfischer@telotawebdev.bbaw.de"*       
 
 https://redmine.bbaw.de/projects/team/wiki    
