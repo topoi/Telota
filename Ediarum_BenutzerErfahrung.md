@@ -38,14 +38,12 @@ In **Punkt 5** aktuellere Beispiele für die Angabe des Wertes (insbesondere bei
 
 ## Quellcode für eine eingefügte Benutzer Aktion in der Symbolleiste
 
-
-
-
 ```xml
 <String>authorExtensionDescriptor/actionDescriptors</String>
- 										</field>
- 										<field name="index">
- 											<Integer>163</Integer>
+
+</field>
+<field name="index"
+       <Integer>163</Integer>
  										</field>
  										<field name="value">
  											<action>
