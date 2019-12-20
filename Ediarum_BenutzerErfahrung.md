@@ -35,3 +35,93 @@ Unter **Punkt 8** noch mal klar machen, dass man nicht auf ediarum.BASE.edit dop
 In **Punkt 5** aktuellere Beispiele für die Angabe des Wertes (insbesondere bei *${ediarum_project_domain}* und 
 *${ediarum_project_domain}*. Auch noch mal Unterschied zwischen lokaler Installation und serverbasierter Installation)
 
+
+## Quellcode für eine eingefügte Benutzer Aktion in der Symbolleiste
+
+
+ 											<String>authorExtensionDescriptor/actionDescriptors</String>
+ 										</field>
+ 										<field name="index">
+ 											<Integer>163</Integer>
+ 										</field>
+ 										<field name="value">
+ 											<action>
+ 												<field name="id">
+ 													<String>Goedel_Gordon_AddError</String>
+ 												</field>
+ 												<field name="name">
+ 													<String>Fehler</String>
+ 												</field>
+ 												<field name="description">
+ 													<String>Füge die Bermerkung "FEHLER" hinzu</String>
+ 												</field>
+ 												<field name="largeIconPath">
+ 													<String>file:/home/gordon/Bilder/Latex.png</String>
+ 												</field>
+ 												<field name="smallIconPath">
+ 													<String>file:/home/gordon/Bilder/Latex.png</String>
+ 												</field>
+ 												<field name="accessKey">
+ 													<String></String>
+ 												</field>
+ 												<field name="accelerator">
+ 													<null/>
+ 												</field>
+ 												<field name="actionModes">
+ 													<actionMode-array>
+ 														<actionMode>
+ 															<field name="xpathCondition">
+ 																<String>ancestor-or-self::text</String>
+ 															</field>
+ 															<field name="argValues">
+ 																<serializableOrderedMap>
+ 																	<entry>
+ 																		<String>text</String>
+ 																		<String>FEHLER</String>
+ 																	</entry>
+ 																</serializableOrderedMap>
+ 															</field>
+ 															<field name="operationID">
+ 																<String>ro.sync.ecss.extensions.commons.operations.InsertOrReplaceTextOperation</String>
+ 															</field>
+ 														</actionMode>
+ 													</actionMode-array>
+ 												</field>
+ 												<field name="enabledInReadOnlyContext">
+ 													<Boolean>false</Boolean>
+ 												</field>
+ 											</action>
+ 										</field>
+ 										<field name="patchHandling">
+ 											<String>addIndex</String>
+ 										</field>
+ 										<field name="anchor">
+ 											<null/>
+ 										</field>
+ 									</poPatch>
+ 									<poPatch>
+ 										<field name="fieldPath">
+ 												</field>
+ 											</toolbarItem>
+ 										</field>
+ 										<field name="patchHandling">
+ 											<String>addIndex</String>
+ 										</field>
+ 										<field name="anchor">
+ 											<null/>
+ 										</field>
+ 									</poPatch>
+ 									<poPatch>
+ 										<field name="fieldPath">
+ 											<String>authorExtensionDescriptor/toolbarDescriptor/toolbarEntriesDescriptorList</String>
+ 										</field>
+ 										<field name="index">
+ 											<Integer>10</Integer>
+ 										</field>
+ 										<field name="value">
+ 											<toolbarItem>
+ 												<field name="actionID">
+ 													<String>Goedel_Gordon_AddError</String>
+
+
+
