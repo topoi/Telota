@@ -38,7 +38,7 @@ In **Punkt 5** aktuellere Beispiele für die Angabe des Wertes (insbesondere bei
 
 ## Quellcode für eine eingefügte Benutzer Aktion in der Symbolleiste
 
-
+<myxml>
 <String>authorExtensionDescriptor/actionDescriptors</String>
  										</field>
  										<field name="index">
@@ -122,6 +122,6 @@ In **Punkt 5** aktuellere Beispiele für die Angabe des Wertes (insbesondere bei
  											<toolbarItem>
  												<field name="actionID">
  													<String>Goedel_Gordon_AddError</String>
-
+</myxml>
 
 
