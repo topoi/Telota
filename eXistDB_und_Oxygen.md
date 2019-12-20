@@ -25,3 +25,5 @@ http://telota.bbaw.de/ediarum/manual/setup/#oxygen/tasks/t_projekt_anlegen.html
 (Anmerkungen:   
 - Links überarbeiten
 - Unter Linux: beim Löschen in der Oxygen Datei darauf achten, dass in den lokalen Verzeichnissen nichts gelöscht wird.
+
+https://www.oxygenxml.com/xml_editor/eXist_support.html#data-source-explorer-view
