@@ -75,6 +75,7 @@ chmod ugo+x
 
 #um Bilddateien zu komprimieren  
 find *.JPG -exec convert -sample 50% {} out/{} \;  
+find *.JPG -exec convert -sample 50% {} {} \;
 #um Bilder in einem Ordner umzubenennen  
 for i in *.JPG; do mv $i ${i%.JPG}_small.JPG; done  
  
