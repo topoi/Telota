@@ -8,8 +8,8 @@ https://exist-db.org/exist/apps/doc/basic-installation
 ### eXist DB releases
 https://github.com/eXist-db/exist/releases
 
-### ZUgriff auf eXist DB via Apache ANT   
-#### check targets    
+### Zugriff auf eXist DB via Apache ANT   
+#### check targets:
 ./build.sh -projecthelp -f build/scripts/jarsigner.xml 
 
 ## Oxygen   
