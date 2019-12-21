@@ -1,16 +1,16 @@
-## eXist DB   
-### eXistDB installieren
+# eXist DB   
+## 1. eXistDB installieren
 
 https://linuxize.com/post/install-java-on-ubuntu-18-04/
 
 https://exist-db.org/exist/apps/doc/basic-installation
 
-### eXistDB de-installieren
-#### in lokalem Installationspfad:   
+## 2. eXistDB de-installieren
+#### 2.1 in lokalem Installationspfad:   
 uninstall.jar   
 
 
-### eXist DB releases
+## eXist DB releases
 https://github.com/eXist-db/exist/releases
 
 ### Zugriff auf eXist DB via Apache ANT   
