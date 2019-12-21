@@ -17,7 +17,7 @@ https://github.com/eXist-db/exist/releases
 #### check targets:
 ./build.sh -projecthelp -f build/scripts/jarsigner.xml 
 
-### run clien.sh
+### run client.sh
 setze JAVA_HOME=/usr/lib/jvm/java-\*\*-openjdk    
 dann in Installationspfad (z.B. /usr/local/eXistDB:   
 bin/client.sh   
