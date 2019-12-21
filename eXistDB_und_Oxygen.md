@@ -27,3 +27,23 @@ http://telota.bbaw.de/ediarum/manual/setup/#oxygen/tasks/t_projekt_anlegen.html
 - Unter Linux: beim Löschen in der Oxygen Datei darauf achten, dass in den lokalen Verzeichnissen nichts gelöscht wird.
 
 https://www.oxygenxml.com/xml_editor/eXist_support.html#data-source-explorer-view
+
+
+LizenzKey Oxygen
+Registration_Name=gordonthegerman @ gmx.de
+
+Company=-
+
+Category=Enterprise
+
+Component=XML-Editor, XSLT-Debugger, Saxon-SA
+
+Version=21
+
+Number_of_Licenses=1
+
+Date=12-16-2019
+
+Trial=31
+
+SGN=MC0CFAUESvLhHpU9AO6m0J/g4Mt9cWWdAhUAlRBQg3zcdeAuyuLwo05C+AgJU/8\=
