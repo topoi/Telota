@@ -13,7 +13,7 @@ uninstall.jar
 ### 1.2. eXist DB releases
 https://github.com/eXist-db/exist/releases
 
-### 1.3. Zugriff auf eXist DB via Apache ANT   
+### 1.3. Zugriff auf eXist DB
 #### 1.3.1 check targets:
 ./build.sh -projecthelp -f build/scripts/jarsigner.xml 
 
