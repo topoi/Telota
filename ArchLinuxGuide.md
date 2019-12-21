@@ -25,3 +25,9 @@ https://www.archlinux.de/packages?search=dhcpcd
 
 ### snap    
 https://snapcraft.io/install/ant/arch
+
+### nach Upgrade/Update Kernel-Versionen abgleichen   
+$ uname -r    
+.....   
+$ pacman -Q linux   
+.....   
