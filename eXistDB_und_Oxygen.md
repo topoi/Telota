@@ -1,11 +1,16 @@
-## eXistDB installieren
+## eXist DB   
+### eXistDB installieren
 
 https://linuxize.com/post/install-java-on-ubuntu-18-04/
 
 https://exist-db.org/exist/apps/doc/basic-installation
 
-# eXist DB releases
+### eXist DB releases
 https://github.com/eXist-db/exist/releases
+
+### ZUgriff auf eXist DB via Apache ANT   
+#### check targets    
+./build.sh -projecthelp -f build/scripts/jarsigner.xml 
 
 ## Oxygen   
 https://www.oxygenxml.com/    
