@@ -17,6 +17,14 @@ https://github.com/eXist-db/exist/releases
 #### check targets:
 ./build.sh -projecthelp -f build/scripts/jarsigner.xml 
 
+### run clien.sh
+setze JAVA_HOME=    
+dann in Installationspfad (z.B. /usr/local/eXistDB:   
+bin/client.sh   
+
+
+
+
 ## Oxygen   
 https://www.oxygenxml.com/    
 
