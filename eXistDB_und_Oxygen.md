@@ -22,7 +22,11 @@ setze JAVA_HOME=/usr/lib/jvm/java-\*\*-openjdk
 dann in Installationspfad (z.B. /usr/local/eXistDB:   
 bin/client.sh   
 
+### backup der Datenbank:     
+bin/backup.sh -u admin -p fischer -b /db/projects/project1/ -d /var/backup/sunday   
 
+### Daten hochladen:   
+bin/client.sh -u admin -P fischer -m /db/projects/project1/data/ -p /usr/local/eXist-db/conf.xml    
 
 
 ## Oxygen   
