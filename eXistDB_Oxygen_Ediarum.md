@@ -54,6 +54,22 @@ Trial=31
 
 SGN=MC0CFAUESvLhHpU9AO6m0J/g4Mt9cWWdAhUAlRBQg3zcdeAuyuLwo05C+AgJU/8\=
 
+### 2.3 Neue Aktion (z.B. Latex)    
+
+1. Link https://www.oxygenxml.com/doc/versions/21.1/ug-editor/topics/dita-embedding-latex-equations.html    
+2. Aktion:    
+
+```xml
+<topic id="testEquation">      
+     <body>       
+       <p><foreign outputclass="embed-latex">   
+          </foreign>    
+       </p>   
+     </body>    
+</topic>    
+```
+
+
 ## 3. Ediarum    
 ### 3.1 Konflikte ediarum mit aktuelleren eXist DB 
 https://github.com/ediarum
