@@ -5,3 +5,6 @@ cd /home/gordon/Telota/JupyterProjekte
 /home/gordon/anaconda3/bin/anaconda-navigator  
 
 https://github.com/quantopian/qgrid/releases  
+
+wenn pip nicht funktioniert: (ImportError....)    
+export PATH="${HOME}/.local/bin:$PATH"    
