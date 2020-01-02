@@ -18,3 +18,6 @@ https://redmine.bbaw.de/projects/team/wiki
 
 ### mit dem Telota POM Server verbinden   
 mount -t cifs //192.168.4.15/pom /home/gordon/pom/ -o vers=1.0,username=gordon,sec=ntlm
+
+ https://xmledit.bbaw.de/ediarum/apps/dashboard/index.html    
+ https://xmldev.bbaw.de/ediarum/apps/dashboard/index.html   
