@@ -15,7 +15,7 @@ kommt, dann stylesheet in Textdatei einfügen!
 
 in BASE sind folgende CSS Styles definiert:   
 
-standard.css        title: Standardansicht    
-text-critical-css   title: Kritischer Text   
-text-comments.css   title: Lesetext mit Kommentar    
-links.css           title: Links anzeigen    
+*standard.css*        title: Standardansicht    
+*text-critical-css*   title: Kritischer Text   
+*text-comments.css*   title: Lesetext mit Kommentar    
+*links.css*           title: Links anzeigen    
