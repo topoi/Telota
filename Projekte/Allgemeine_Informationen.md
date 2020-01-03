@@ -2,6 +2,9 @@ Hinweise zu Ediarum:
 https://redmine.bbaw.de/projects/ediarum/wiki/Doku-uebersicht#F%C3%BCr-neue-Kolleginnen   
 
 ### Neues Projekt anlegen ediarum.basis --> ediarum.BASE    
+- **Allgemein**:    
+-- Schreibrechte für die Ordner überprüfen!       
+-- Daran denken, dass Aktionen im XML-Author die Dateien und Pfade im lokalen File-System modifizieren können!     
 
 - BASE allein funktioniert nicht, daher eine Erweiterung nötig.   
 - Aufpassen beim Stylesheet, wenn die Fehlermeldung /Warnung (unten)     
