@@ -19,3 +19,5 @@ Standardansicht:  *standard.css*
 Kritischer Text: *text-critical-css*      
 Lesetext mit Kommentar:   *text-comments.css*     
 Links anzeigen:    *links.css*              
+
+fonts Directory nach ediarum.MEINPROJEKT.edit kopieren(?), wenn das Stylesheet händisch geladen werden muss.    
