@@ -42,3 +42,6 @@ Mit ediarum erstellte Editionen (Auswahl):
 
 Link von Andrea:    
 https://redmine.bbaw.de/projects/ediarum/wiki/Doku-uebersicht#F%C3%BCr-neue-Kolleginnen
+
+google-document:    
+https://docs.google.com/document/d/18XK17qWvcWheQD9H0zhWYoQ2y3QnQcWNBoCS2QJh0Y0/edit#heading=h.201y1uizsay3
