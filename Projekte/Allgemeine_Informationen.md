@@ -11,4 +11,11 @@ https://redmine.bbaw.de/projects/ediarum/wiki/Doku-uebersicht#F%C3%BCr-neue-Koll
 - Aufpassen beim Stylesheet, wenn die Fehlermeldung /Warnung (unten)        
 https://www.oxygenxml.com/doc/versions/21.1/ug-editor/topics/dg-css-stylesheet.html
 
-kommt, dann stylesheet in Textdatei einfügen!   
+kommt, dann stylesheet in Textdatei einfügen!     
+
+in BASE sind folgende CSS Styles definiert:   
+
+standard.css        title: Standardansicht    
+text-critical-css   title: Kritischer Text   
+text-comments.css   title: Lesetext mit Kommentar    
+links.css           title: Links anzeigen    
