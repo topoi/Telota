@@ -25,4 +25,4 @@ fonts Directory nach ediarum.MEINPROJEKT.edit kopieren(?), wenn das Stylesheet h
 **WICHTIG**   
 
 man muss die Verknüpfung des doctypes anpassen:   
-![alt text]()
+![alt text](https://github.com/topoi/Telota/blob/master/Projekte/Bildschirmfoto%20von%202020-01-03%2013-57-40.png)
