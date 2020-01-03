@@ -45,3 +45,5 @@ https://redmine.bbaw.de/projects/ediarum/wiki/Doku-uebersicht#F%C3%BCr-neue-Koll
 
 google-document:    
 https://docs.google.com/document/d/18XK17qWvcWheQD9H0zhWYoQ2y3QnQcWNBoCS2QJh0Y0/edit#heading=h.201y1uizsay3
+Beispiel Schleiermacher:    
+https://digiversity.net/2012/digitale-arbeitsumgebung-fur-das-editionsvorhaben-schleiermacher-in-berlin-1808-1834/    
