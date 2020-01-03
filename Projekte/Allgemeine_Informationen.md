@@ -21,3 +21,8 @@ Lesetext mit Kommentar:   *text-comments.css*
 Links anzeigen:    *links.css*              
 
 fonts Directory nach ediarum.MEINPROJEKT.edit kopieren(?), wenn das Stylesheet händisch geladen werden muss.    
+
+**WICHTIG**   
+
+man muss die Verknüpfung des doctypes anpassen:   
+![alt text]()
