@@ -7,8 +7,8 @@ https://redmine.bbaw.de/projects/ediarum/wiki/Doku-uebersicht#F%C3%BCr-neue-Koll
 -- Daran denken, dass Aktionen im XML-Author die Dateien und Pfade im lokalen File-System modifizieren können!     
 
 - BASE allein funktioniert nicht, daher eine Erweiterung nötig    
-- Vorgabe: ediarum.MEINPROJEKT.edit (MEINPROJEKZ in Großbuchstaben)   
-- Aufpassen beim Stylesheet, wenn die Fehlermeldung /Warnung (unten)     
+- Vorgabe: ediarum.MEINPROJEKT.edit (MEINPROJEKT in Großbuchstaben)       
+- Aufpassen beim Stylesheet, wenn die Fehlermeldung /Warnung (unten)        
 https://www.oxygenxml.com/doc/versions/21.1/ug-editor/topics/dg-css-stylesheet.html
 
 kommt, dann stylesheet in Textdatei einfügen!   
