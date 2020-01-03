@@ -22,7 +22,8 @@ fonts Directory nach ediarum.MEINPROJEKT.edit kopieren(?), wenn das Stylesheet h
 
 **WICHTIG**   
 - Aufpassen beim Stylesheet, wenn die Fehlermeldung /Warnung (unten)        
-https://www.oxygenxml.com/doc/versions/21.1/ug-editor/topics/dg-css-stylesheet.html
+
+![alt text]()
 
 kommt, dann muss man die Verknüpfung des doctypes anpassen: (wenn das Project z.B. eine Lecture ist, dann muss in Verknüpfungen der doctype lecture definiert werden:   
 ![alt text](https://github.com/topoi/Telota/blob/master/Projekte/Bildschirmfoto%20von%202020-01-03%2013-57-40.png)
