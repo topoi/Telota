@@ -8,8 +8,6 @@ https://redmine.bbaw.de/projects/ediarum/wiki/Doku-uebersicht#F%C3%BCr-neue-Koll
 
 - BASE allein funktioniert nicht, daher eine Erweiterung nötig    
 - Vorgabe: ediarum.MEINPROJEKT.edit (MEINPROJEKT in Großbuchstaben)       
-- Aufpassen beim Stylesheet, wenn die Fehlermeldung /Warnung (unten)        
-https://www.oxygenxml.com/doc/versions/21.1/ug-editor/topics/dg-css-stylesheet.html
 
 kommt, dann stylesheet in Textdatei einfügen!     
 
@@ -23,6 +21,8 @@ Links anzeigen:    *links.css*
 fonts Directory nach ediarum.MEINPROJEKT.edit kopieren(?), wenn das Stylesheet händisch geladen werden muss.    
 
 **WICHTIG**   
+- Aufpassen beim Stylesheet, wenn die Fehlermeldung /Warnung (unten)        
+https://www.oxygenxml.com/doc/versions/21.1/ug-editor/topics/dg-css-stylesheet.html
 
-man muss die Verknüpfung des doctypes anpassen: (wenn das Project z.B. eine Lecture ist, dann muss in Verknüpfungen der doctype lecture definiert werden:   
+kommt, dann muss man die Verknüpfung des doctypes anpassen: (wenn das Project z.B. eine Lecture ist, dann muss in Verknüpfungen der doctype lecture definiert werden:   
 ![alt text](https://github.com/topoi/Telota/blob/master/Projekte/Bildschirmfoto%20von%202020-01-03%2013-57-40.png)
