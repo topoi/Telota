@@ -54,6 +54,6 @@ dann:
 
 
 
-erstelle config python file: 
+erstelle config python file:                     
 *jupyterhub --generate-config*
 
