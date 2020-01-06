@@ -37,9 +37,21 @@ Liste mit Kommandozeilenbefehlen:
 https://docs.docker.com/engine/reference/commandline/docker/        
 Port überprüfen:    
 nmap -p 8000 localhost    
-nmap -F 192.168.124.214   
-    
+nmap -F 192.168.124.214         
+
+wenn nichts mehr geht:      
+lsof -i -P -n | grep 8000       
+kill <process id>       
+            
 docker run -p 8000:8000 -d --name jupyterhub jupyterhub/jupyterhub jupyterhub
+wenn Fehler kommt:      
+Error starting userland proxy: listen tcp 0.0.0.0:8000: bind: address already in use        
+dann:           
+(apt  install docker-compose)       
+docker rm -fv $(docker ps -aq)      
+
+
+
 
 erstelle config python file: 
 jupyterhub --generate-config
