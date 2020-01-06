@@ -64,11 +64,7 @@ erstelle config python file:
 *jupyterhub --generate-config*
 
 ### modifiziere das jupyterhub_config.py script:                        
-#-----------------------------------------------------------------------------------------------------------------------------------------------------
-# Application configuration
-#-----------------------------------------------------------------------------------------------------------------------------------------------------
 
-# This is an application.                       
 c.JupyterHub.authenticator_class = 'oauthenticator.GitHubOAuthenticator'                        
 c.GitHubOAuthenticator.oauth_callback_url = 'https://192.168.124.214:443/hub/oauth_callback'                
 c.GitHubOAuthenticator.client_id = '5d45d363b4f83331af47'               
