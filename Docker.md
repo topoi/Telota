@@ -10,8 +10,10 @@ https://hub.docker.com/u/jupyter/
 *systemctl start docker*   
 *systemctl enable docker*      
 
-### Jupyter-Hub Installation      
+### Jupyter-Hub Installation   
 
+remote server:                      
+https://github.com/jupyterhub/jupyterhub/wiki/Installation-of-Jupyterhub-on-remote-server
 
 https://jupyterhub.readthedocs.io/en/stable/installation-basics.html    
 
