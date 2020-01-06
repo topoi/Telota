@@ -53,8 +53,10 @@ dann:
 (apt  install docker-compose)       
 *docker rm -fv $(docker ps -aq)*
 
-
-
+wenn 403: forbidden, dann eventuell alter Proxy:                        
+*ps aux | grep configurable-http-proxy*
+oder                    
+*pkill -f configurable-http-proxy*
 
 erstelle config python file:                     
 *jupyterhub --generate-config*
