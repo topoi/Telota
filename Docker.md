@@ -46,7 +46,7 @@ wenn nichts mehr geht:
 *kill <process id>*
             
 Container erstellen:                
-*docker run -p 8000:8000 -d --name jupyterhub jupyterhub/jupyterhub jupyterhub*
+*docker run -p 8000:8000 -d --name jupyterhub jupyterhub/jupyterhub jupyterhub*                 
 wenn Fehler kommt:      
 Error starting userland proxy: listen tcp 0.0.0.0:8000: bind: address already in use        
 dann:           
