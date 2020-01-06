@@ -4,6 +4,12 @@ https://www.youtube.com/watch?v=fqMOX6JJhGo
 
 https://hub.docker.com/u/jupyter/   
 
+
+### Install docker linux:       
+apt install docker.io       
+systemctl start docker    
+systemctl enable docker      
+
 ### Jupyter-Hub Installation      
 
 
@@ -18,4 +24,10 @@ python3 -m pip install jupyterhub
 wenn bei jupyter -h Fehler kommt (ERROR:asyncio:Task exception was never retrieved):    
 
 apt-get install npm   
-pip3 install git+https://github.com/jupyterhub/jupyterhub.git@master
+pip3 install git+https://github.com/jupyterhub/jupyterhub.git@master    
+
+proxy installieren:   
+npm install -g configurable-http-proxy
+
+vor anmelden:   
+python3 -m pip install notebook   
