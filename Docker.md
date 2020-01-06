@@ -34,8 +34,11 @@ python3 -m pip install notebook
 
 ### docker:   
 Liste mit Kommandozeilenbefehlen:   
-https://docs.docker.com/engine/reference/commandline/docker/    
-
+https://docs.docker.com/engine/reference/commandline/docker/        
+Port überprüfen:    
+nmap -p 8000 localhost    
+nmap -F 192.168.124.214   
+    
 docker run -p 8000:8000 -d --name jupyterhub jupyterhub/jupyterhub jupyterhub
 
 erstelle config python file: 
