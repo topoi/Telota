@@ -73,8 +73,8 @@ c.JupyterHub.authenticator_class = 'oauthenticator.GitHubOAuthenticator'
 c.GitHubOAuthenticator.oauth_callback_url = 'https://192.168.124.214:443/hub/oauth_callback'                
 c.GitHubOAuthenticator.client_id = '5d45d363b4f83331af47'               
 c.GitHubOAuthenticator.client_secret = '43274b267e1ed3d900938a6f249a59f215e4cc2f'               
-# This is an application.                                               
-# create system users that don't exist yet                  
+// This is an application.                                               
+// create system users that don't exist yet                  
 c.JupyterHub.port = 443             
 c.LocalAuthenticator.create_system_users = True             
 c.Authenticator.whitelist = {'gordon', 'topoi'}             
