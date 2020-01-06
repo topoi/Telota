@@ -32,5 +32,12 @@ npm install -g configurable-http-proxy
 vor anmelden:   
 python3 -m pip install notebook   
 
-### docker:        
+### docker:   
+Liste mit Kommandozeilenbefehlen:   
+https://docs.docker.com/engine/reference/commandline/docker/    
+
 docker run -p 8000:8000 -d --name jupyterhub jupyterhub/jupyterhub jupyterhub
+
+erstelle config python file: 
+jupyterhub --generate-config
+
