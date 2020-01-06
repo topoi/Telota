@@ -14,3 +14,8 @@ https://mybinder.org/
 **wichtig: Python > 3.3:**     
 apt-get -y install python3-pip    
 python3 -m pip install jupyterhub   
+
+wenn bei jupyter -h Fehler kommt (ERROR:asyncio:Task exception was never retrieved):    
+
+apt-get install npm   
+pip3 install git+https://github.com/jupyterhub/jupyterhub.git@master
