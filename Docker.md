@@ -56,7 +56,9 @@ dann:
 wenn 403: forbidden, dann eventuell alter Proxy:                        
 *ps aux | grep configurable-http-proxy*                     
 oder                                        
-*pkill -f configurable-http-proxy*
+*pkill -f configurable-http-proxy*              
+*pkill -f jupyterhub*               
+
 
 erstelle config python file:                     
 *jupyterhub --generate-config*
