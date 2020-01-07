@@ -32,6 +32,8 @@ kommt, dann muss man die Verknüpfung des doctypes anpassen: (wenn das Project z
 um eine neue Aktion anzulegen, siehe:		
 https://docs.google.com/document/d/18XK17qWvcWheQD9H0zhWYoQ2y3QnQcWNBoCS2QJh0Y0/edit#heading=h.201y1uizsay3		
 
+auch im css einfügen!!		
+
 in ediarum.meinprojekt.edit.framework sind folgender Source Code für eine Aktion notwendig:    
 
 ```xml
