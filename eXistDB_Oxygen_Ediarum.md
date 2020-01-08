@@ -85,6 +85,9 @@ http://telota.bbaw.de/ediarum/manual/setup/#oxygen/tasks/t_projekt_anlegen.html
 
 https://www.oxygenxml.com/xml_editor/eXist_support.html#data-source-explorer-view
 
+Ediarum in eXistDB einpflegen:          
+https://github.com/ediarum/ediarum.DB/releases         
+
 ### 3.2 Jupyter Code für Ediarum        
 git clone https://github.com/quantopian/qgrid.git      
 
