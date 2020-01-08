@@ -1,3 +1,5 @@
+https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart
+
 RunAnaconda.sh  
 
 source /home/gordon/anaconda3/bin/activate root  
