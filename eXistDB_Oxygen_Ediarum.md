@@ -94,3 +94,5 @@ https://github.com/ediarum/ediarum.DB/releases
 ### 3.2 Jupyter Code für Ediarum        
 git clone https://github.com/quantopian/qgrid.git      
 
+Beispiellink für ein Projekt:      
+http://localhost:8080/exist/webdav/db/projects/goedel/data
