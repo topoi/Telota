@@ -32,6 +32,9 @@ bin/client.sh -u admin -P fischer -m /db/projects/project1/data/ -p /usr/local/e
 ## 2.Oxygen   
 https://www.oxygenxml.com/    
 
+Achtung: wichtig welche Java Dist:           
+Linux 64-bit (Includes OpenJDK 12.0.1)       
+
 Strg + S: Datei abspeichern   
 Strg + Shift + C: Neue Transformation anwenden
 
