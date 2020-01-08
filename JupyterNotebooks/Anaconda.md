@@ -10,3 +10,7 @@ https://github.com/quantopian/qgrid/releases
 
 wenn pip nicht funktioniert: (ImportError....)    
 export PATH="${HOME}/.local/bin:$PATH"    
+
+
+in /home/gordon/anaconda3/bin/:   
+source deactivate   
