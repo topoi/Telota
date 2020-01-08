@@ -14,3 +14,6 @@ export PATH="${HOME}/.local/bin:$PATH"
 
 in /home/gordon/anaconda3/bin/:   
 source deactivate   
+
+wenn Fehler kommt:    
+sudo rm -rf /home/gordon/.anaconda/
