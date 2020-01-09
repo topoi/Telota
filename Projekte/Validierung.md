@@ -13,4 +13,8 @@ sed -i 's/<hi id="_anchor/<h3 id="_anchor/g' Max_Corr.xml
 oder mit Perl:    
 perl -pe 's/\b(_anchor[A-Z,a-z,0-9,\<,\>,\/,\s,\=,\",\_,\],\[]{14})/\1h3/g' Max_Corr.xml    
 
-alles kann auch in XML Editor gemacht werden!  Werkzeuge --> XML Refaktorierung   
+alles kann auch in XML Editor gemacht werden!  Werkzeuge --> XML Refaktorierung       
+
+
+https://developer.mozilla.org/de/docs/Web/MathML/Attribute    
+http://math-it.org/Publikationen/MathML_de.html   
