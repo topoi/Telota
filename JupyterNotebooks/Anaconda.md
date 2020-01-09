@@ -28,3 +28,6 @@ PermissionError: [Errno 13] Permission denied: '/home/gordon/.anaconda/navigator
 
 dann Lösung:    
 *sudo rm -rf /home/gordon/.anaconda/*
+
+Anaconda deinstallieren:    
+https://linuxize.com/post/how-to-install-anaconda-on-ubuntu-18-04/#uninstalling-anaconda
