@@ -1,6 +1,7 @@
 ## Projektbeschreibung:
 
-neue Actionen:#
+neue Aktionen:    
+    
 -- tiefstellen    
 -- Sütterlin(?)   
 -- Ergänzung fehlender Worteile   
