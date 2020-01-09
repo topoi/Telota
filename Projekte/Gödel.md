@@ -1,6 +1,7 @@
 ## Projektbeschreibung:
 
-....
-
-# Daten   
-git clone  ...
+neue Actionen:#
+-- tiefstellen    
+-- Sütterlin(?)   
+-- Ergänzung fehlender Worteile   
+-- Formeln (Matlab(?))    
