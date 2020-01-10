@@ -109,7 +109,8 @@ in ediarum.meinprojekt.edit.framework sind folgender Source Code für eine Aktio
 wenn die Verbindung zur DB weg ist, dann evtl. wieder anmelden:				
 http://localhost:8080/exist/webdav/db/projects/goedel/data/	
 
-### MathML:				
-https://developer.mozilla.org/de/docs/Web/MathML/Attribute						
+### MathML:						
+https://developer.mozilla.org/de/docs/Web/MathML/Attribute								
+
 http://math-it.org/Publikationen/MathML_de.html						
 
