@@ -114,3 +114,4 @@ https://developer.mozilla.org/de/docs/Web/MathML/Attribute
 
 http://math-it.org/Publikationen/MathML_de.html						
 
+http://www.wiris.com/editor/demo/en/developers#mathml-latex
