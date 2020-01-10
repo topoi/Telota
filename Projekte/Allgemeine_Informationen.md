@@ -100,8 +100,11 @@ in ediarum.meinprojekt.edit.framework sind folgender Source Code für eine Aktio
 <field name="anchor">
 	<null/>
 </field>
-</poPatch>
+</poPatch>		
 
 
 
 ```
+
+wenn die Verbindung zur DB weg ist, dann evtl. wieder anmelden:		
+http://localhost:8080/exist/webdav/db/projects/goedel/data/		
