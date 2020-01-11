@@ -8,7 +8,14 @@ https://hub.docker.com/u/jupyter/
 ### Install docker linux:       
 *apt install docker.io*       
 *systemctl start docker*   
-*systemctl enable docker*      
+*systemctl enable docker*                       
+
+checken ob docker läuft:                        
+*systemctl status docker*                       
+
+eventuell user zu Gruppe hinzufügen:    
+*sudo usermod -aG docker $USER*
+(BTW, adduser in ArchLinux nicht vorhanden, daher: *sudo useradd -m -G docker -s /bin/bash gordon*)                                           
 
 ### Jupyter-Hub Installation   
 
