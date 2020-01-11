@@ -14,8 +14,21 @@ checken ob docker läuft:
 *systemctl status docker*                       
 
 eventuell user zu Gruppe hinzufügen:    
-*sudo usermod -aG docker $USER*
+*sudo usermod -aG docker $USER*                 
 (BTW, adduser in ArchLinux nicht vorhanden, daher: *sudo useradd -m -G docker -s /bin/bash gordon*)                                           
+
+Testen, ob man Docker ohne root passwort ausführen kann:                
+*sudo usermod -aG docker $USER*                 
+
+If you initially ran Docker CLI commands using sudo before adding your user to the docker group, you may see the following                       error, which indicates that your ~/.docker/ directory was created with incorrect permissions due to the sudo commands.             
+
+*WARNING: Error loading config file: /home/user/.docker/config.json - *             
+*stat /home/user/.docker/config.json: permission denied *                
+
+wichtig: docker wird nicht als root ausgeführt:             
+The Docker daemon binds to a Unix socket instead of a TCP port. By default that Unix socket is owned by the user root and   other users can only access it using sudo. The Docker daemon always runs as the root user.  
+
+If you don’t want to preface the docker command with sudo, create a Unix group called docker and add users to it. When the   Docker daemon starts, it creates a Unix socket accessible by members of the docker group.  
 
 ### Jupyter-Hub Installation   
 
