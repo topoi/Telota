@@ -104,3 +104,10 @@ c.JupyterHub.proxy_cmd = ['/usr/local/bin/configurable-http-proxy']
 die client_id und client_secret kommen aus dem registrieren der App 0Auth:                                           
 https://auth0.com/docs/connections/social/github
 
+## Gesis notebooks (Leibnitz)   
+https://notebooks.gesis.org/                    
+
+Start My Server (passwd (W!))                   
+
+binder für docker image:                        
+https://notebooks.gesis.org/binder/                                  
