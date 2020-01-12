@@ -158,7 +158,7 @@ def LoadExtendedFramework(data=""):
 
 
 # definiere die Pfade zu den Frameworks
-files={"base":"/home/gordon/Projekte/frameworks/ediarum.BASE.edit/ediarum.BASE.framework", "register":"/home/gordon/Projekte/frameworks/ediarum.REGISTER/ediarum.REGISTER.framework" , "goedel":'/home/gordon/Projekte/frameworks/ediarum.GOEDEL.edit/ediarum.goedel.edit.framework' }
+files={"base":"data/ediarum.BASE.framework", "register":"data/ediarum.REGISTER.framework" , "goedel":'data/ediarum.goedel.edit.framework' }
 
 
 def Ediarum_GUI():
