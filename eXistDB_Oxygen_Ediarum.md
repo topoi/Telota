@@ -103,4 +103,6 @@ http://localhost:8080/exist/webdav/db/projects/goede
 Um ein Projekt aus dem git zu klonen: (normaler user):      
 git clone gfischer@git.bbaw.de:/git/ediarum.MEGA.edit.git
 
-
+## Schemata bearbeiten:  
+das Schema wird in .rng abgespeichert und definiert eine Teilmenge des TEI Schemas.             
+https://www.w3.org/Math/RelaxNG/
