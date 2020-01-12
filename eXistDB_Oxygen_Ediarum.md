@@ -106,3 +106,6 @@ git clone gfischer@git.bbaw.de:/git/ediarum.MEGA.edit.git
 ## Schemata bearbeiten:  
 das Schema wird in .rng abgespeichert und definiert eine Teilmenge des TEI Schemas.             
 https://www.w3.org/Math/RelaxNG/
+
+Customize TEI schemata:       
+https://roma2.tei-c.org/      
