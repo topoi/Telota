@@ -111,3 +111,6 @@ Start My Server (passwd (W!))
 
 binder für docker image:                        
 https://notebooks.gesis.org/binder/                                  
+
+Link zum Teilen:                    
+https://notebooks.gesis.org/binder/v2/gh/topoi/Telota/master
