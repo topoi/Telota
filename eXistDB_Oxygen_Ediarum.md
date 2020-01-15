@@ -109,3 +109,9 @@ https://www.w3.org/Math/RelaxNG/
 
 Customize TEI schemata:       
 https://roma2.tei-c.org/      
+
+
+### MathFlow einbinden: (für MathML):        
+
+https://www.oxygenxml.com/oxygen_sdk/download.html          
+https://www.oxygenxml.com/doc/versions/21.1/ug-editor/topics/mathml_support_mathflow.html      
