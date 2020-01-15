@@ -77,6 +77,9 @@ SGN=MC0CFAUESvLhHpU9AO6m0J/g4Mt9cWWdAhUAlRBQg3zcdeAuyuLwo05C+AgJU/8\=
 
 
 ## 3. Ediarum    
+### FAQ:       
+https://redmine.bbaw.de/projects/ediarum/wiki/Developer-FAQ      
+
 ### 3.1 Konflikte ediarum mit aktuelleren eXist DB 
 https://github.com/ediarum
 
