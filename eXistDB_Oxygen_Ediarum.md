@@ -38,6 +38,8 @@ bin/client.sh -d -m /db/movies -p /home/exist/xml/movies
 ## 2.Oxygen   
 https://www.oxygenxml.com/    
 
+Achtun: für xql den Dateityp ändern!! (in Optionen -> Dateityp)       
+
 Achtung: wichtig welche Java Dist:           
 Linux 64-bit (Includes OpenJDK 12.0.1)       
 
