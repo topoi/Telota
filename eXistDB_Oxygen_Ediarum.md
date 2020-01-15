@@ -33,7 +33,8 @@ bin/client.sh -u admin -P fischer -m /db/projects/project1/data/ -p /usr/local/e
 sudo /usr/local/eXist-db/bin/client.sh -u admin -P telota -m /db/projects/goedel/data/Korrektur -p Max III.xml          
 
 upload folder (-d):              
-bin/client.sh -d -m /db/movies -p /home/exist/xml/movies
+bin/client.sh -d -m /db/movies -p /home/exist/xml/movies         
+/usr/local/eXist-db/bin/client.sh -u admin -P telota -d -m /db/projects/xmledit_goedel/data/web2020 -p web2017
 ## 2.Oxygen   
 https://www.oxygenxml.com/    
 
