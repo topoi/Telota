@@ -139,5 +139,5 @@ die Aktion einbinden:
     </xsl:template>
 ```
 
-in /path-to-project/web/resources/css/transcription.css          
+in /path-to-project/web/resources/css/transkription.css          
 den Stylesheet definieren          
