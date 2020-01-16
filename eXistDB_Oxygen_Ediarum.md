@@ -25,7 +25,7 @@ bin/client.sh
 ### 1.4. Backup der Datenbank:     
 bin/backup.sh -u admin -p fischer -b /db/projects/project1/ -d /var/backup/sunday         
 z.B.:          
-sudo bin/backup.sh -u admin -p telota -b /db/projects/goedel/data -d /var/backup/         
+sudo /usr/local/eXist-db/bin/backup.sh -u admin -p telota -b /db/projects/goedel/data -d /var/backup/         
 
 ### 1.5.Daten hochladen:   
 bin/client.sh -u admin -P fischer -m /db/projects/project1/data/ -p /usr/local/eXist-db/conf.xml         
