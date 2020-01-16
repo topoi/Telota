@@ -123,3 +123,21 @@ https://roma2.tei-c.org/
 
 https://www.oxygenxml.com/oxygen_sdk/download.html          
 https://www.oxygenxml.com/doc/versions/21.1/ug-editor/topics/mathml_support_mathflow.html      
+
+## Druckansicht erstellen:  
+
+in /path-to-project/web/:          
+den Pfad in print.xql anpassen.         
+
+in /path-to-project/web/resources/xslt/transcription.xsl                   
+die Aktion einbinden:      
+```xml
+ <xsl:template match="tei:hi[@rendition='#u']" mode="#all">
+        <span class="unterstrichen">
+            <xsl:apply-templates mode="#current"/>
+        </span>
+    </xsl:template>
+```
+
+in /path-to-project/web/resources/css/transcription.css          
+den Stylesheet definieren          
