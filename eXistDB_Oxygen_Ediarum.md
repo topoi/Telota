@@ -140,4 +140,10 @@ die Aktion einbinden:
 ```
 
 in /path-to-project/web/resources/css/transkription.css          
-den Stylesheet definieren          
+den Stylesheet definieren:         
+
+```xml
+span.unterstrichen {
+    text-decoration: underline;
+}
+```
