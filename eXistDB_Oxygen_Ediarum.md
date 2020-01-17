@@ -147,3 +147,5 @@ span.unterstrichen {
     text-decoration: underline;
 }
 ```
+### Liste mit Unicode characters:       
+https://www.codetable.net/unicodecharacters?page=14         
