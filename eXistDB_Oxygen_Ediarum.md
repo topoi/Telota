@@ -148,4 +148,7 @@ span.unterstrichen {
 }
 ```
 ### Liste mit Unicode characters:       
-https://www.codetable.net/unicodecharacters?page=14         
+https://www.codetable.net/unicodecharacters?page=14      
+
+alpha-nummerische Symbole:         
+https://de.wikipedia.org/wiki/Unicodeblock_Mathematische_alphanumerische_Symbole          
