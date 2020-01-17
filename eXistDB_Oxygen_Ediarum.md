@@ -155,3 +155,6 @@ https://de.wikipedia.org/wiki/Unicodeblock_Mathematische_alphanumerische_Symbole
 
 Character Search:        
 https://www.fileformat.info/info/unicode/char/search.htm
+
+Find Unicode Character:       
+https://shapecatcher.com/
