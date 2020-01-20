@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00069" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>65</idno>Karl Kaub an Familie Marx in London. Paris, Samstag, 17. März 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 2619/D V 44 Fotosign. 9577a–b</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format
+                            412&#160;×&#160;266&#160;mm. Kaub hat die erste und dritte Seite
+                            vollständig beschrieben, die zweite und vierte Seite sind leer.
+                            Schreibmaterial: schwarze Tinte. </p>
+                        <p>Von unbekannter Hand: Nummerierung des Briefes: „2“ mit Bleistift auf der
+                            ersten Seite oben in der Mitte; Vermerk mit schwarzer Tinte „Mars
+                            17/66“, auf der vierten Seite unten rechts quer geschrieben.</p>
+                        <p>Die Schreibweise wurde zurückhaltend korrigiert, die Eingriffe sind
+                            ausgewiesen.</p>
+                        <p>Kaub beantwortet, wie aus dem Brief zu ersehen, einen nicht überlieferten
+                            Brief, vermutlich von Jenny Marx, geschrieben vor dem 17.&#160;März
+                            1866.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1646</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002460">Karl Kaub</persName><placeName>Paris</placeName><date when="1866-03-17"/></correspAction><correspAction type="received">
+                    <persName key="ed_cqm_n53_f1b">Marx, Familie (-)</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:55Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> Paris, Mars 17/1866</dateline>
+                    <salute sameAs="MBAnrede">Dears, all of you</salute>
+                </opener>
+                <p sameAs="MBAdresse">33, Rue des trois Couronnes, du Temple</p>
+                <p sameAs="MBTextohneEinzug">It was surely the most brilliant idea, <seg type="comment"><orig>father Mohr</orig><note xml:id="aa963628-d326-455c-8f21-c15ff2906e86">Karl Marx.</note></seg>
+                    ever had, when he got good <seg type="comment"><orig>Jenny</orig><note xml:id="d0c8e06f-a8ed-4233-9b1c-bcfbd75e6a1a"><persName key="pdrPo.001.004.000003074">Jenny Marx (Tochter)</persName>.
+                        </note></seg> to make me have those long expected and often thought of,
+                    portraits. I now, without the slightest hesitation—boldly I say: you are the
+                    most pathetical wordkeepers, this <expan resp="editor" sameAs="dottet_underline">wre<ex>t</ex>ched</expan> world has ever borne. Indeed, I was so
+                    thoroughly pleased, when I saw your dear little heads dive out of <seg type="comment"><orig>your letter,</orig><note xml:id="ncbv_d43_1z">Der Brief
+                            konnte nicht ermittelt werden.</note></seg> that—what do you think? that
+                    I could not help heartily kissing them, without exception, and—niether of you
+                    even plushed. Should however, any one of you feel vexed, at so much of a
+                    stranger’s daring, there will be no other way, of taking revenge, at this my
+                    criminal action, but to do the same to mine, if it should happen to be found
+                    still in that rich collection, among the number of your friends; do it with as
+                    angry looks as possibly you may—and never tell me of it&#160;(!)</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>I was very deeply affected to
+                            hear, that you had sickness and sorrow again reigning in your
+                            house,</orig><note xml:id="a18ec1bc-c667-4d3d-8022-0b319689cb73">Seit
+                            Ende Januar litt Marx an Furunkulose.</note></seg> and even more so as
+                    you did have before. I know, that poor Mohr has not the time now to be ill and
+                    keep his sheets. How much this very critical position, he of needs must have
+                    found himself to be surprised by this new “fléau” in, must have contributed to
+                    give you number of anxieties, I fully can appreciate. Mohr is, I often had
+                    occasion to convince me of, by nature of an exellent disposition and of a most
+                    brillant humour, as long as he is passably well, and able to smoke his pipe in
+                    peace, but like the rest of us, being ill, he is likely to have his days, when
+                    he gets awful out of time. If one, like him, has all his lifetime struggled and
+                    made sail for one thing, has, with all his work and toil, at last reached close
+                    his end—the land in sight, he drops his anchor—and finds his tackle short and
+                    going back to sea again, he can not well help knitting his brows, and growing
+                    damned wild. <seg type="comment"><orig>His work,</orig><note xml:id="dbd5ca04-8010-47cf-a156-415d55ff2bba">Gemeint ist hier Karl
+                            Marx: Das Kapital; siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx
+                                an J. Ph. Becker, zwischen 9. und 15.1.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170517T122051+0200" comment="{{Erl. 6b}}."?>
+                            <?oxy_comment_end?>(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg>
+                    so eagerly expected by all his friends, that will have cost him so many nights
+                    rests, and which, to my <expan resp="editor" sameAs="dottet_underline">beli<ex>e</ex>ve</expan>, in a great measure is the cause of his
+                    continued ake and lingering health, by depriving him of all necessary rest and
+                    distraction, I hope, as earnestly as one can hope, that is fully aware of its
+                    importance, and bears his friendship streight at heart—will find its completion,
+                    with natur’s resurrection—the all invigorating spring! I am convinced that this
+                    weight, once off his mind, he will become another man, he will be merry as he
+                    was before, and joy and happiness will enter streight at all your doors again.
+                    If then, you careful keep the windows shut, you will find your rooms too small,
+                    to hold it all, and Mohr will be obliged to take the sails and come over to me,
+                    to Paris, and spend a happy month with me. If my rustic habitation, will then be
+                    good enough, he shall be heartily welcome.</p>
+                <p sameAs="MBTextmitEinzug">We had a most wretched winter here. The weather was as
+                    changeable and <expan resp="editor" sameAs="dottet_underline">unhea<ex>l</ex>thy</expan> as ever I had seen in London. Raining, hot and
+                    cold were dayly changing twice and more than twice. The number of ills is
+                    greater as ever has been seen before, the hospitals are crowded and burrial
+                    undertaking is the best business out. Combined with that, things have been
+                    generally very dull here, and living has attained a higher price, as I knew it
+                    to have been at London, at the time I left.</p>
+                <p sameAs="MBTextmitEinzug">I for my own part, have still kept very well, and the
+                    numberless complaints, I was subjected to, in foggy London, are all gone by. I
+                    think if I had stood another year or two on Englands smoky shores, I should have
+                    kicked the bucket like a man. I think one ought not to do so any sooner than he
+                    can help. </p>
+                <p sameAs="MBTextmitEinzug"><pb/> Our business goes on now, as well as can be
+                    expected under such unfavorable circumstances, as than we had had to begin in.
+                    We have plenty of work, even so much, that we are almost smothered with it. The
+                    only great misfortune in the matter is, that we have not sufficiently <hi rendition="#u">tin</hi> to make it go and role, and make it worth our’s
+                    while. As things are now, we have about 35 or 40,000&#160;Fr. in the concern. If
+                    we wanted to go on, any way favourably, we ought now at least to have another
+                    800 or 1000&#160;<unclear reason="covered" cert="high">£</unclear> to put in to
+                    it. As it were, we are dependent of a multitude of unfavourable circumstances,
+                    of different individuals etc. we might all free ourselfs without delay. There
+                    has been offerd to us, for example, the execution of <unclear reason="illegible" cert="high">censoring</unclear> the whole materials of a large manufactury—a
+                    work amounting to more than 100,000&#160;Fr. There might be 25,000&#160;Fr. got
+                    out of it in considerably less than a year, and the work we have, carried on at
+                    the same time. But as we are <hi rendition="#u">almost</hi> pennyless—the whole
+                    of what little we have, all laid out, and not by far enough—there is not to be
+                    thought of such an undertaking, the job will pass our noses clean, although the
+                    preference would have been given to us, had we been able to execute it without
+                    the help of any one. It will fall to the lot of one that has got tin enough.
+                    However I do not complain, as I know it would be of no use. <seg type="comment"><orig>Rothchild, they say, was once on <expan resp="editor" sameAs="dottet_underline">bo<ex>a</ex>rd</expan> of one of the
+                            Rhin-steamers, when a pickpocket tried to rob the poor Baron. His
+                            friend, who stood by, seeing it, laid hand on the fellow, and wanted, to
+                            have him locked up. “Never mind” said Rothchild “let the chap loose, we
+                            too have begun in so small a way.”</orig><note xml:id="df5763ce-222b-4ee7-9748-b5a24bfb43ff">Es handelt sich um eine
+                            bekannte Anekdote. Gemeint sind hier vermutlich, auch wegen des im Brief
+                            genannten österreichischen Militärs <persName key="ed_kvh_jmc_3y">Ludwig
+                                Freiherr von Gablenz</persName>, die <persName key="ed_lg3_rnt_zy">Wiener Rothschilds</persName>, somit entweder <persName key="ed_vzg_hpt_zy">Anselm Salomon Freiherr von
+                                Rothschild</persName> oder noch sein Vater, <persName key="ed_gyf_npt_zy">Salomon Meyer Freiherr von
+                            Rothschild</persName>. </note></seg>—So so. We are but little thiefs
+                    now, and will have a damned hard pull to get on, but if we but have a little
+                    chance—we may. There is no possibility of getting out of it now! We either must
+                    swimm or drown. The only thing, that grieves me much, is, that before we get out
+                    of the deepest mud—if out we get at all—those few good years, I have still
+                    before me, will have gone by, and things which might have been done perhaps even
+                    now, although it is already late, will be to late for ever.</p>
+                <p sameAs="MBTextmitEinzug">To another picture!<persName key="pdrPo.001.004.000002460"> I</persName> dare not neglect, my dear Marx,
+                    to tell you of a thing which might perhaps at a very early period, enter so
+                    extensivly into the composure of our present society, that this our society
+                    would cease to resemble itself. The period of steam will be at its end. A
+                    Frenchman, of the name of <persName key="ed_xg4_3rr_3z">Rebour</persName>, and
+                    whose <expan resp="editor" sameAs="dottet_underline">acqu<ex>a</ex>inta</expan><ex>n</ex>ce I had the pleasure of making, has
+                    lately modified an invention, he has already tried before a numerous public of
+                        <expan resp="editor" sameAs="dottet_underline">s<ex>c</ex>ientific</expan>
+                    men in 1853, in Russia, Amerika and lastly in England, which will be able of
+                    propounding any railway train or doing any kind of work, steam engines are doing
+                    now, without any power, but its <hi rendition="#u">own weight</hi> as a moteur.
+                    Do not think I am out of mind. In 53 already, the future consequences of such an
+                    invention have been so thoroughly understood in London, at a Banquet given to
+                        M.&#160;<persName key="ed_xg4_3rr_3z">Rebour</persName> at
+                    Sablonnière-Hôtel, Leicester Square, that high placed men thought wise to poison
+                    the man, which they affected by presenting him a slize of cake, where a laurel
+                    &amp; a rose were laid on. However he survived. To day, he is associated with
+                        <seg type="comment"><orig>Baron <persName key="ed_vzg_hpt_zy">Rothchild</persName></orig><note xml:id="d673a754-6df7-46e3-b1f0-596348c71ae6"><persName key="ed_vzg_hpt_zy">Anselm Salomon Freiherr von
+                                Rothschild</persName>.</note></seg>, General von <persName key="ed_kvh_jmc_3y">Gablenz</persName> and the devil knows who all. The
+                    enormous capital has been voted, and in a few months his waggon will go from
+                    Paris to Marseille and back at a rate of 40&#160;miles an hour, without steam or
+                    any other motive power but the <hi rendition="#u">waggons own weight</hi>. His
+                    invention applicated on the fly-wheel of an ordinary steam engine, gives 80%
+                    economy in power. A steam engine of 4&#160;<expan resp="editor" sameAs="dottet_underline">hors<ex>e</ex></expan> for example, he can make by
+                    an application of his invention to make 20&#160;<expan resp="editor" sameAs="dottet_underline">hors<ex>e</ex></expan> without a pennyworth more
+                    coals. However this is nothing, as the steamengines will be done away with all
+                    together. Up to now: augmentation of weight, was <hi rendition="#u">augmentation</hi> of friction. He upsets all and prooves, in spite of all
+                    the proud Chorophees of Knowledge that, if things are in the right condition:
+                    augmentation of weight is impossible without <hi rendition="#u">diminution</hi>
+                    of friction. This is the great basis on which his invention reposes. The good
+                    man has great difficulties to fight with. He finds bad will every where. A thing
+                    which must cause such an enormous “deplacement de richesse” is not likely to
+                    find many friend. I could write much more about it. If you will <expan resp="editor" sameAs="dottet_underline">beli<ex>e</ex>ve</expan> me, that I
+                    am not out of mind, and you feel interested in it, I shall write more about the
+                    progress of it. I consider the man a great genius, and those that will lend
+                    hands to bring it to life, as very useful members of society. He finds the
+                    greatest opposition in the “haute bourgeoisie”. <seg type="comment"><orig><anchor type="verweisziel" xml:id="start_t4y_3mv_4z"/>The
+                            same M. <persName key="ed_xg4_3rr_3z">Rebour</persName>, assures me—but
+                            the matter shall not yet be talked of, as he has since the London
+                            affairs some reason to be careful—that he is able to separate hydrogene
+                            from oxigene in a way that costs 2&#160;sous par jour for a fire to melt
+                            iron with. I think the man to be of also sound mind, honest and very
+                            intelligent as much as I know now of him.<anchor type="verweisziel" xml:id="stop_t4y_3mv_4z"/></orig><note xml:id="f2131023-2adf-4093-b536-7e8770377ae0">Diese Stelle erwähnt <ref target="B00082/#start_fmt_sjf_4z">Marx im Brief an Engels vom
+                                2.&#160;April 1866</ref>
+                            <?oxy_comment_start author="reichhoff" timestamp="20170413T113231+0200" comment="({{Br. 79.72–77}})"?>.<?oxy_comment_end?></note></seg>
+                    I think in such a baffling case as this, this testimonial is not <expan resp="editor" sameAs="dottet_underline">superfl<ex>u</ex>ous</expan>. I may
+                    be wrong, as so many mortals have been wrong before, but I doubt it strongly. I
+                    am not entousiaste. I pray you—dont <expan resp="editor" sameAs="dottet_underline">beli<ex>e</ex>ve</expan> a word of all that, I
+                    dont like people that <expan resp="editor" sameAs="dottet_underline">beli<ex>e</ex>ve</expan> before they see and <hi rendition="#u">understand.</hi> Let me hear soon something of you.</p>
+                <closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u2}</hi>-->My earnest love to
+                    all of you.<lb/>Ch. Kaub </closer>
+            </div></body></text></TEI>

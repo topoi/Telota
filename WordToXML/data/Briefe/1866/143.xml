@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00147" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>143</idno>Karl Kaub an Karl Marx in London. Paris, Montag, 30. Juli 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 2621/D V 46 Fotosign. 9578e.</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus zwei Bogen dünnem, weißem Papier im Format 266&#160;×&#160;207
+              bzw. 208&#160;mm. Die erste, dritte und fünfte Seite hat Kaub vollständig beschrieben,
+              die siebente zu zwei Dritteln, die übrigen vier Seiten sind leer. Schreibmaterial:
+              schwarze Tinte.</p>
+            <p>Die Schreibweise wurde nicht berichtigt.</p>
+            <p><ref target="mega_bzq_zdv_vy">Dem Brief liegt ein Zeitungsausschnitt bei.</ref></p>
+            <p><?oxy_comment_start author="lindenberg" timestamp="20170424T151005+0200" comment="Die Beilage (Z. 103–104) siehe unten."?></p>
+            <?oxy_comment_end?>
+            <p><?oxy_comment_start author="lindenberg" timestamp="20170424T142858+0200" comment="{beilage}Wiedergabe der Beilage"?><?oxy_custom_start type="oxy_content_highlight" color="207,241,255" mid="2"?></p>
+            <?oxy_comment_end?>
+            <p><?oxy_comment_start author="lindenberg" timestamp="20170424T142348+0200" comment="alles bei der Beilage:
+IISG, Marx-Engels-Nachlaß, Sign. D 1621/D V 46. Fotosign. 9578e.
+Die Worte „beacoup“ und „bien compris.“ hat Kaub mit Tinte??? unterstrichen, hach dem Wort „enfants!“ ein Fragezeichen in Klammern gesetzt. [Gestaltung: MEGA² III/13. S. 1120]"?></p>
+            <?oxy_comment_end?>
+            <p/>
+            <?oxy_custom_end mid="2"?>
+          </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1669</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002460">Karl Kaub</persName><placeName>Paris</placeName><date when="1866-07-30"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:44Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+        <opener>
+          <dateline sameAs="MBDatumszeile"><pb/> Paris le 30 Juillet/66</dateline>
+          <salute sameAs="MBAnrede">My dear Marx,</salute>
+        </opener>
+        <p sameAs="MBAdresse">33, Rue des trois Couronnes, du Temple</p>
+        <p sameAs="MBTextohneEinzug">I hope you have received <seg type="comment"><orig>my last
+              letter,</orig><note xml:id="fd2c9371-2185-49ac-a44e-0529ff951e87"><ref target="B00101">Karl Kaub an Familie Marx ,
+                1.5.<?oxy_comment_start author="reichhoff" timestamp="20170405T190739+0200" comment="{Br. 97}}"?>1866<?oxy_comment_end?></ref></note></seg>
+          which, as much as I remember, will not have failed to charm you, for the amount of
+          nonsense developed in it. Sense is so rare in our age, and one does always well, to do
+          like the majority does.</p>
+        <p sameAs="MBTextmitEinzug">Unfortunately I have much lazy time now, and I earnestly regret,
+          that none of my London friends come to pay me a visit. I could have been on the spree with
+          him all day and night. Since <seg type="comment"><orig>this nice war</orig><note xml:id="b2e1cac5-d099-4a8b-9079-aefd757a0a53">Der Deutsche Krieg (1866).</note></seg>
+          broke out, things broke down altogether in France and especially in Paris. We for our
+          part, we have absolutely nothing to do, and intend to shut shop completely this week. As
+          for being paid, for work that has been done, before this crisis, it is utterly impossible.
+          We were often, theese last days, in a most awkward position, as we work only for one
+          customer almost, and the fellow not giving us a farthing, although he oughs us some
+          16&#160;000&#160;Francs now. We had bills to meet of a large amount, and no probability of
+          doing so. One time we were even much afraid, we should never get paid, as the man had some
+          heavy losses to encounter. We got over it, but I assure you, not without great pains. On
+          the whole, I found Frenchmen to be as big thiefes as the rest of mankind. They bear it
+          very openly too, and the English proverbe: “rather be a thief than a fool” can not be of
+          other than of french origin. You have no idea with which naivete a French Bourgeois is
+          capable to say: he knows he is a rogue, but that you can't hurt him. Had I known what I
+          know now, I should never have taken my bones to fair France. If I was sure, I could do
+          without brains, I would have tried to blow the little I have even out. As poeple told me
+          lately, that it was very unhealthy to do so, I decided to leave them in, for the
+          present.</p>
+        <p sameAs="MBTextmitEinzug">There are some poeple, doing very well here in Paris. <hi rend="background(yellow)">These</hi> are the “Prussians“. Since the break out <hi rend="background(yellow)">of this</hi> war, the german brewers, that done very badly all
+          the beginning of the summer, on account of the Cholera, can not now brew enough, and the
+          rooms are daily crowded.—</p>
+        <p sameAs="MBTextmitEinzug">“Kannegießen” the exclusively german speciality, the only thing
+          in which they really excell, is there blooming in its smartest colours. They are so happy
+          at it, that it would be pity, to see them disturbed. <pb/> I firstly was thoroughly
+          disgusted with it, but when I one eavening saw, how one broad shoulderd Knödelfresser,
+          turned out three proud children of Berlin, two of which were exmembers of <seg type="comment"><orig>the celebrated National-Verein</orig><note xml:id="nrg4_lhs_gz">Der
+              Deutsche Nationalverein (1859-1867).</note></seg>—happy remembrance!—I got reconciled
+          at this outbreak of German energy, and went often then, to amuse myself with similar
+          scenes. Poor National-Verein&#160;… they can no more talk now of “Bürgerwehr und
+            Volksbewaffnung”—<seg type="comment"><orig><persName key="pdrPo.001.004.000005131">The
+                gallant king of Prrrrrr&#160;…</persName>
+            </orig><note xml:id="nig3_yhs_gz"><persName key="pdrPo.001.004.000005131">Wilhelm
+                I.</persName>
+            </note></seg>has armed them—and they do well. <seg type="comment"><orig>The
+              Bavarian</orig><note xml:id="f48ba8c1-a1c4-40aa-80e3-35217904d519"><persName key="ed_mjd_1xs_gz">Ludwig&#160;II.</persName>
+            </note></seg> had said: that never kings ridiculised themselves more, throughout all
+          German history, than they had done of late. The crowned king of Prr—he said—who is the
+          most monstrous representative of feudalisme in Europe and who has set out a general day of
+          penitence and prayer throughout his happy lands—makes evolution now, and deals in freeing
+          countries from the foreign yoke! <seg type="comment"><orig>His apostolic
+              majesty</orig><note xml:id="nt2f_33s_gz"><persName key="pdrPo.001.004.000003745">Pius
+                IX.</persName>
+            </note></seg> prostituting himself at the feet of <seg type="comment"><orig>the hero of
+              December,</orig><note xml:id="ebf70253-0f68-4658-b96c-ea8ba8f2b040"><persName key="pdrPo.001.004.000003392">Napoléon III</persName> – er hatte am 2._Dezember 1851
+              einen Staatsstreich durchgeführt und wurde am 2._Dezember 1852 zum Kaiser der
+              Franzosen ausgerufen. </note></seg> by laying his future in his hands. The two
+          Berliner Kinder, who by the by, found it safer to stay here in Paris, then to fight “pour
+          le roi de Prusse”—spoke much of prussian courage, of <seg type="comment"><orig>the great
+              Frederic,</orig><note xml:id="nky4_q3s_gz"><persName key="pdrPo.001.004.000010589">Friedrich II.</persName>
+            </note></seg>
+          <seg type="comment"><orig>of 13, 14, 15,</orig><note xml:id="cf3de0fd-d354-47d2-a0dc-ee1e86718c4c">Anspielung auf die Teilnahme Preußens am
+              Kampf gegen das napoleonische Frankreich in den Jahren1813–1815.</note></seg> of their
+          giving no pardon, but beeing always ready to take it and of their beeing the first nation
+          on the face of earth. They came from words to blows and out went the manly
+          prussians&#160;… I loose all hope—but the right of the strongest will still be the final
+          solution of all questiones, from Berlin on the sand, up to Paris on the Seine!</p>
+        <p sameAs="MBTextmitEinzug">The only consolation in this whole affaire I can get is, that
+          Germany has, besides of a sentimental viewing at the question, very little or nothing to
+          loose in this ridiculous struggle and any future struggle or quarrel that may ensue:
+          Politically—in its earliest childhood, not even capable of keeping its linen
+          dry—socially—not at all existing, morally a spiteful sentimental set of dreamers,
+          physically such as can be: an almost exclusively potato eating population—abstraction made
+          of a few, that feed on salt herrings, on the borders of the Spree<hi rend="background(yellow)">..</hi>—geographically: a mere denomination—nationally: mere
+          Franzosenfressers, which they unfortunately digest to russian excrements etc. etc. such as
+          they were, I say, they can not loose. Not, like in <seg type="comment"><orig>the memorable
+              anti slavery war,</orig><note xml:id="nmcq_n4s_gz">Der Amerikanische Bürgerkrieg
+              (1861–1865).</note></seg> where there was a sharpely defined social development
+          suffocated, in its early youth, together with the reptile that tried to suck its very life
+          out, not like in America, where a social existence has existed and in consequence, there
+          could be a danger of loosing by waring—there can nothing of the sort be lost in our rotten
+          Fatherland.</p>
+        <p sameAs="MBTextmitEinzug">The American war has done harm to the whole world, has weeled
+          back history of 50&#160;years, has cheated mankind out of its best hopes and hard work.
+          Germany by waring will cheat nobody—but himself, by revolutionising with their sovereigns
+          at their heads. </p>
+        <p sameAs="MBTextmitEinzug"><pb/> I heard of good sources, that there was a new invention
+          made in France—<hi rendition="#u">a new canon</hi>, that shall lick all that has been got
+          up to now. Some 80 of them were tried, found good<hi rend="background(yellow)">,</hi> and
+          packed up in large strong packing cases, with the governements seal put on them, ready to
+          be remooved, in time of need, from this place of confinement, on to the layers of the
+          former guns. Should they be meant to accompany the psalm of 13, 14, 15?</p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Some days ago I read in the <bibl sameAs="zzThe Times">Times</bibl>, that she felt “unutterably” released at the news
+              of the probability of a peace being concluded</orig><note xml:id="ngl2_2js_gz">Vermutlich meint <persName key="pdrPo.001.004.000002460">Kaub</persName> einen dieser
+              beiden Beiträge: The Negotiations. In: The Times. London. Nr. 25_560, 26. Juli 1866.
+              S. 5; The prolongation of the armistice … [Leitart.] In: The Times. London. Nr.
+              25_562, 28. Juli 1866. S. 8. (((lThe Negotiations. In: The Times. London. Nr. 25_560,
+              26. Juli 1866. S. 5))) (((lThe prolongation of the armistice … [Leitart.] In: The
+              Times. London. Nr. 25_562, 28. Juli 1866. S. 8)))</note></seg> If this shuffle had
+          lasted another few weeks, it is not unlikely, that English working classes might have been
+          able to get part of what they worked so long and tenously for. As it were—I fear they will
+          meet with little sucsess. However English perseverance is mightier than French outbursts
+          of anger—and what remains unfinished now, may be completed in a six month, when they will
+          begin to fight on the Continent again. I do not belive in peace. Prussian politic has
+          created a deep hatered among the individuals even.</p>
+        <p sameAs="MBTextmitEinzug">The French press is doing a great deal now in political economy.
+          Almost every paper brings dayly arguments to proove the working classes, that they can all
+          do very well if they only live economically: that means to say: work much and consume
+          little. <seg type="comment"><orig>The <bibl sameAs="zzLe Moniteur universel du soir">Moniteur</bibl> as well has those last weeks brought a serie of articles called:
+              the ABC of travailleurs.</orig><note xml:id="nwvf_lks_gz">Siehe Le Moniteur du soir
+              commencera dans son numéro du 16_mai, sous le titre: ABC du travailleurs. In: Le
+              Moniteur universel. Paris. Nr._135, 15._Mai 1866. S._578; weitere Angaben waren nicht
+              zu ermitteln. (((lLe Moniteur du soir commencera ... In: Le Moniteur universel. Paris.
+              Nr._ 135, 15._Mai 1866. S._578/unter M einstellen)))</note></seg> The amount of
+          ridiculous platitudes that are exhibited are most amusing. <seg type="comment"><orig>In
+              another serie they gave the life of <persName key="ed_q2c_zqk_sy"><hi rendition="#u">Jaquart</hi></persName>,</orig><note xml:id="nibj_4ms_gz">Hierzu konnten keine
+              Daten ermittelt werden.</note></seg> the inventor of weaving machines called the
+          “métier Jaquart.” Same arguments—same voidness of sense. In England such thrash would
+          become impossible. Every school boy would be able to contradict them. Even the illustrated
+          papers bring outlines of this kind and <seg type="comment"><orig>I have cut a few lines
+              out yesterday, which I inclose.</orig><note xml:id="d834185a-458a-48fe-9e1a-58b989c735d4">Siehe die <ref target="mega_bzq_zdv_vy">Wiedergabe der Beilage</ref>.</note></seg> The middle class must be aware of the
+          bad cause they work for, because they excuse themselves so often, while no devil accuses
+          them. If they had some sense, they would say nothing at all.</p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Bürger Weber</orig><note xml:id="no34_3ns_gz">Vermutlich <persName key="pdrPo.001.004.000005033">Joseph
+                Valentin Weber</persName>. </note></seg> has been here, and had, as much as I have
+          been told, kicked up such an awful row, at “Kannegießing” in a brassserie dans la rûe
+          Blondel, that poeple stopped in the street. He offerd to hid a young man of 20&#160;years
+          of age for his opinion, and to kick him out at the doors. He has done nothing of the sort
+          in reality you may imagine. It was only an outburst of long retained Bierhaus-Politik and
+          the poor young chap had to stand to it. I have no doubt but what his health must have
+          improoved after such a spree. I have not seen him. I think or rather was told, that he
+          made an invention, which he expected to be able to sell over here. </p>
+        <p sameAs="MBTextmitEinzug"><pb/> How are you getting on with <seg type="comment"><orig>your
+              Economy?</orig><note xml:id="bf84de9d-13c6-4ee0-a573-7c89ebb44783">Gemeint ist hier
+              Karl Marx: Das Kapital; siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an J. Ph. Becker,
+                zwischen 9. und
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170516T135827+0200" comment="{{Erl. 6b}}"?>1866<?oxy_comment_end?>.</ref>
+              (((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg> I wish most earnestly to see
+          it completed. There is no sience more wrapt up in darkness than this, <expan resp="editor" sameAs="dottet_underline">an<ex>d</ex></expan> no darkness more wanted to be swept away
+          than that on political economy. It is very interesting to know whether there is an
+          atmosphere round the moon and whether the white spots on heaven are stars or not; but it
+          is uncalcula<hi rend="background(yellow)">b</hi>ly more needful to know whether our
+          present system is a necessary and an eternal one or not. With all the knowledge of the
+          moon, poeple will still live miserable and die before their time—with the knowledge of the
+          other they will become able to alter all. Let me know something about it. Do—there is a
+          good boy! How is your health going on. A few weeks of Paris would have done you a deel of
+          good. <seg type="comment"><orig>I hope you had not the same unfortunate summer to pass as
+              last year.</orig><note xml:id="a9ccda08-6436-438a-8b91-0f3c50913af9">Wahrscheinlich
+              erinnert <persName key="pdrPo.001.004.000002460">Kaub</persName> hier an Marx‘
+              schlechten Gesundheitszustand und seine bedrückende finanzielle Situation im Sommer
+              1865. Siehe MEGA²&#160;III/13. Br.&#160;265, Br._282, Br._288 und
+            Br._292).</note></seg> Theese damned sicknesses have undoubtedly mostly prevented you
+          from going a head. I many times thought of you and feared of an other treat of the
+          kind.</p>
+        <p sameAs="MBTextmitEinzug">Be so kind to remember me to your dear family, and tell them
+          that they still enter for my dearest, of my remembrances.</p>
+        <p sameAs="MBTextmitEinzug">You will excuse me that I write in English, but it serves me at
+            <hi rend="background(yellow)">the same</hi> time, as I chatt with my friends of old, as
+          a lesson of repetition, and awakes a recollection of many things, that pleased me much and
+          which I will never see no more. Sans caprices&#160;– pas d'existence! When you see
+            <persName key="ed_l54_cks_xy">Lessner</persName> tell him that I have not forgotten him,
+          and that I will write to him ere long.</p>
+        <p sameAs="MBTextmitEinzug">Salut to <persName key="pdrPo.001.004.000001603">Mr.
+            Fox</persName>.</p>
+        <closer sameAs="MBUnterschrift">I remain yours most affectionately<lb/>Ch. Kaub. </closer>
+      </div></body></text></TEI>

@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00044" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>41</idno>Friedrich Engels an Karl Marx in London. Manchester, Montag, 19.
+          Februar 1866</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>IISG</institution>
+            <collection>Marx-Engels-Nachlass</collection>
+            <idno><idno type="shelfmark">D 1600/D III 371</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+              114&#160;×&#160;181&#160;mm. Die Prägung ist nicht deutlich erkennbar. Engels hat die
+              erste Seite vollständig beschrieben, die zweite ist leer. Schreibmaterial: schwarze
+              Tinte.</p>
+            <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand: Nummerierung des
+              Briefes: „300“ und „6“ (gestrichen). Redaktionelle Vermerke.</p>
+            <p>Von Heinrich
+              <?oxy_comment_start author="strauss" timestamp="20170613T104139+0200" comment="(((nDietz,H.)))"?>Dietz’<?oxy_comment_end?>
+              Hand: Nummerierung des Briefes: „827“ (gestrichen).</p>
+            <p>Von unbekannter Hand: Vermerk „Klein Zaches“, mit Bleistift auf der ersten Seite
+              unten. </p>
+          </physDesc>
+          <additional>
+            <listBibl>
+              <bibl>RGASPI f. 1 op. 1 d. 1938</bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+        <listWit>
+          <witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;295.</bibl></witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+          <placeName>Manchester</placeName>
+          <date when="1866-02-19"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName>London</placeName>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-10-31T13:38:41Z</date> | <name>Regina Roth</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingAct">
+        <opener><dateline sameAs="MBDatumszeile"><pb/> Mchr 19 Febr 1866.</dateline><salute sameAs="MBAnrede">Lieber Mohr</salute></opener>
+        <p sameAs="MBTextohneEinzug">Inl. 10&#160;Pfnote hatte ich für Dich in der Tasche, <seg type="comment"><orig>konnte Dich aber gestern nicht allein zu sprechen
+              kriegen.</orig><note xml:id="d068c5ef-1627-42b5-84d5-624a8f5fabde">Etwa ab 15. bis zum
+              18.&#160;Februar 1866 war Engels bei Marx in London zu Besuch.</note></seg> Ich hoffe
+          der heutige Verfalltag des Wechsels ist glücklich vorüber gegangen ohne daß durch Mangel
+          einer Kleinigkeit am vollen Betrag Unannehmlichkeiten entstanden.</p>
+        <p sameAs="MBTextmitEinzug">Ich habe Alles vergessen – <seg type="comment"><orig>Klein
+              Zaches</orig><note xml:id="b6797b2b-c8a6-49a5-bdee-68ba9159070b">E._T._A. Hoffmann:
+              Klein Zaches, genannt Zinnober. (((lHoffmann: Klein Zaches, genannt Zinnober)))
+            </note></seg> der in Deinem Zimmer <del> auf <sic ana="#break-off"/></del> in den
+          Bücherschrank am Fußende Deines Sophas auf eine Reihe stehender Bücher gelegt, <seg type="comment"><orig>den <expan resp="editor" sameAs="dottet_underline">Fact<ex>ory</ex></expan> Report</orig><note xml:id="e68a7820-fcd6-4f26-bcec-76b40a779e3d">Welcher Report genau gemeint ist, lässt
+              sich nicht verifizieren. Siehe dazu <ref target="B00036/#start_kbx_z1r_nz">Marx an
+                Engels,
+              10.2.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170411T121352+0200" comment="{{Br. 33.27–29}} "?> und<?oxy_comment_end?>
+              <ref target="B00036/#cb690e33-7f9b-4087-b1f1-e6f8425297cf">Erl. zu Marx an Engels,
+                10.2.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170516T142641+0200" comment="{Erl._33e}"?>)<?oxy_comment_end?>.
+              (((lReports of the Inspectors of Factories to Her Majesty’s Principal Secretary of
+              State for the Home Department&#160;… London 1842–1865))) </note></seg> &amp; die <bibl sameAs="zzThe Commonwealth">Commonwealth</bibl>. Schicke mir von Letzterer doch ein Ex.
+          damit ich <seg type="comment"><orig><persName key="pdrPo.001.004.000001603">Fox’s</persName> Artikel.</orig><note xml:id="b4bebe11-6663-40e3-8c12-1b5acff7610c">Peter Fox: The Irish Question. In: The Commonwealth. London. Nr. 153, 10. Februar
+              1866. S. 5 und Nr. 154, 17. Februar 1866. S. 4/5. (((lFox,Peter:The Irish Question.
+              In: The Commonwealth. London. Nr. 153, 10. Februar 1866. S. 5 und Nr. 154, 17. Februar
+              1866. S. 4/5))) </note></seg> lese.</p>
+        <p sameAs="MBTextmitEinzug">Wie gehts mit dem Karbunkel oben &amp; dem unten am Schenkel?
+            <seg type="comment"><orig><persName key="pdrPo.001.004.000001969">Gumpert</persName>
+              hab’ ich noch nicht sehn können.</orig><note xml:id="f9e99099-d38b-46d3-b154-a713d8a87258">Siehe <ref target="B00039/#start_klc_kbr_nz">Marx an Engels,
+                13.2.<?oxy_comment_start author="reichhoff" timestamp="20170411T121606+0200" comment="{{Br. 36.3–8}}"?>1866<?oxy_comment_end?>
+              </ref>und <ref target="B00047/#start_kpw_rbr_nz">Engels an Marx,
+                22.2.<?oxy_comment_start author="reichhoff" timestamp="20170411T121915+0200" comment="{{Br. 44.7-27}}"?>1866<?oxy_comment_end?>.</ref></note></seg></p>
+        <closer sameAs="MBUnterschrift"><salute>Dein
+          <lb/></salute><signed>F.&#160;E.</signed></closer>
+        <postscript>
+          <p>Herzliche Grüße an die Ladies &amp; besonders an <persName key="pdrPo.001.004.000003068">Tussichen</persName> von ihrem Chimpanzee. </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

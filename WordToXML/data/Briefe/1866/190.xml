@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00196" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>190</idno>Sigismund Ludwig Borkheim an Friedrich Engels in Manchester. London, Montag, 26. November 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 684/L II 89 Fotosign. 9850.</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              260&#160;×&#160;203&#160;mm. Wasserzeichen: „I &amp; F H 1866“. Aufdruck der Firma
+              „Schröder &amp; Schyler &amp; C<hi rendition="#sup">o</hi>“ auf der ersten Seite links
+              oben (siehe {{Br.&#160;4}}); vom zweiten Blatt des Bogens ist oben rechts ein Stück
+              Papier abgerissen worden, so dass die rechte Höhe des Bogens nur 162&#160;mm beträgt.<?oxy_comment_start author="lindenberg" timestamp="20170424T172854+0200" comment="beträgt. [III/12, Br. 22] (((nSchröder &amp; Schyler &amp; Co))) 
+--&gt; Noch mit dem Register verbinden"?>
+              <?oxy_comment_end?> (((nSchröder &amp; Schyler &amp; C<hi rendition="#sup">o</hi>))) </p>
+            <p>Die erste Seite hat Borkheim vollständig beschrieben, die übrigen drei sind leer.
+              Schreibmaterial: schwarze Tinte.</p>
+            <p>Von unbekannter Hand: Nummerierung des Briefes „34“ mit Bleistift auf der ersten
+              Seite oben in der Mitte.</p>
+            <?oxy_comment_start author="lindenberg" timestamp="20170424T173030+0200" comment="[[Das Papier ist oben links stark beschädigt, die Textverluste (Z. 2–5) konnten nur teilweise rekonstruiert werden.]] [Im IISG überprüfen! Siehe ZB vom IISG Mai 2013!! Keine Textverluste!!!]"?>
+            <p/>
+            <?oxy_comment_end?>
+          </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1679</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName><placeName>London</placeName><date when="1866-11-26"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:40:12Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/>
+                                                <hi rendition="#i"><hi rendition="#mPrint">65,
+                                                  Fenchurch Street, E.C. </hi></hi></dateline><dateline sameAs="MBDatumszeile"><hi rendition="#i"><hi rendition="#mPrint">London,</hi>
+                                                </hi> 26 Nov 1866</dateline><salute sameAs="MBAnrede">Lieber Engels,</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Dank für den Auftrag den Sie dem jungen
+                <persName key="ed_blf_k1t_gz">Schyler</persName> gegeben! Er hat Sie wohl gehörig
+              gequält!</orig><note xml:id="nomp_bw1_kz">Siehe auch <ref target="B00076">S. L.
+                Borkheim an Engels,
+                27.3.<?oxy_comment_start author="reichhoff" timestamp="20170506T135045+0200" comment="{{Br. 73.3}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p><p sameAs="MBTextmitEinzug">Haben Sie meinen Brief gedruckt – an die Aktionäre der <orgName key="ed_stl_ywx_pz">Egyptian &amp; Commercial
+                                                Trading C<hi rendition="#sup">y</hi></orgName>
+                                        erhalten? Bitte antworten Sie auf diese Frage!</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Ich schicke Ihnen heute eine russische Zeitung. Lesen Sie doch den
+                                                  Schreibebrief aus Petersburg! Der Kerl ist gut.
+                                                  Russisch – drastisch! Мимо-мимо fängt er an,
+                                                  довольно-<?oxy_comment_start author="lindenberg" timestamp="20161123T112308+0100" comment="Buchstabenverwendung (d) so in der Hs. und hier entsprechend wiedergegeben - mit HS abgesprochen."?>dовольно<?oxy_comment_end?>
+                                                  hört er auf!</orig><note xml:id="a4b8f4fd-a5d3-4611-b017-b8628702b8b9">
+                                                  <p rend="endnote text">Взглянувъ на заголовокъ
+                                                  моего письма … In: Московскiя Вѣдомости. Nr. 234,
+                                                  6. November 1866. S. 2/3. [Unterschrift:] X. Die
+                                                  nicht überlieferte Zeitung wurde vermutlich
+                                                  separat geschickt. (((lВзглянувъ на заголовокъ
+                                                  моего письма … In: Московскiя Вѣдомости. Nr. 234,
+                                                  6. November 1866. S. 2/3. [Unterschrift:] X. )))
+                                                  </p>
+                                                </note></seg> Schicken Sie mir die Zeitung
+                                        gefälligst zurück.</p><p sameAs="MBTextmitEinzug">Freundliche Grüße an D<hi rendition="#sup">r</hi>
+                                        <persName key="pdrPo.001.004.000001969">Gumpert</persName></p><closer sameAs="MBUnterschrift">Der Ihrige<lb/>Borkheim. </closer></div></body></text></TEI>

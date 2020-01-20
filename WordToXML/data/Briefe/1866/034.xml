@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00037" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>34</idno>Friedrich Engels an Karl Marx in London. Manchester, Samstag, 10. Februar 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1599/D III 370</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Bogen festem, weißem Papier im Format
+              227&#160;×&#160;177&#160;mm. Wasserzeichen: „Joynson 1865“. Prägung: „Albert Club
+              Manchester“. Engels hat die ersten zwei Seiten vollständig beschrieben, die dritte zur
+              Hälfte, die vierte Seite ist leer. Schreibmaterial: schwarze Tinte.</p>
+            <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand: Nummerierung  des
+              Briefes bzw. der beschriebenen Seiten: „299,1“ bis „299,3“ und „3,1“ bis „3,3“
+              (gestrichen). </p>
+            <p>Von Heinrich Dietz’ Hand: Nummerierung des Briefes: „824“ (gestrichen).</p>
+            <p>Engels beantwortet den Brief von Jenny Marx, geschrieben vor dem 10.&#160;Februar (J.
+              Marx an Engels, vor 10.2.1866) und den Brief von Marx vom 10.&#160;Februar 1866 (Marx
+              an Engels, 10.2.1866). Marx antwortete am 13.&#160;Februar 1866 (Marx an Engels,
+              13.2.1866).</p>
+          </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1934</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;292/293.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1866-02-10"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:36Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Mchr, 10 Febr 1866.</dateline><salute sameAs="MBAnrede">Lieber Mohr</salute></opener><p sameAs="MBTextohneEinzug">Ich habe eben <persName key="pdrPo.001.004.000001969">Gumpert</persName> hier gesprochen &amp; mit ihm
+                                        über Deinen Zustand verhandelt. Er meint entschieden Du
+                                        sollst Arsenik versuchen. Er hat es in einem Fall von
+                                        Carbunkeln &amp; einem von sehr heftiger Furunculosis
+                                        angewandt &amp; in c<hi rendition="#sup">a</hi>
+                                        3&#160;Monaten vollständige Heilung erlangt. Er gibt es
+                                        jetzt 3&#160;Frauenzimmern, &amp; soweit mit dem besten
+                                        Erfolg, sie werden dick &amp; fett dabei. <persName key="ed_env_l1f_2y">Fowler’s</persName> Solution ist
+                                        was er gibt, ich glaube 3mal täglich 3&#160;Tropfen (das
+                                        weiß ich so genau nicht mehr) <subst>
+                                                <del>so</del>
+                                                <add>doch</add>
+                                        </subst> kommt im Ganzen <hi rendition="#u">etwa 1&#160;Gran
+                                                Arsenik täglich</hi> auf den Patienten. Bei der
+                                        specifischen Wirkung des Arsenik’s bei allen Hautkrankheiten
+                                        ist auch hier alle Aussicht der Wirkung vorhanden. Eisen,
+                                        meint er, könne bloß symptomatisch &amp; stärkend wirken.
+                                        Dabei ist bei dem Arsenik gar keine besondre Diät zu
+                                        beachten, <hi rendition="#u">nur gut leben</hi>.</p><p sameAs="MBTextmitEinzug">Du mußt wirklich endlich etwas Vernünftiges thun um aus diesem
+          Karbunkelkram herauszukommen, selbst wenn <seg type="comment"><orig>das Buch</orig><note xml:id="f081b067-a390-4c8a-937f-c331a741f3a6">Gemeint ist hier Karl Marx: Das Kapital;
+              siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an J.
+                Ph. Becker, zwischen 9. und 15.1.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170516T133113+0200" comment="{{Erl. 6b}}."?>
+              <?oxy_comment_end?>(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg> dadurch
+          noch 3&#160;Monate verzögert würde. Die Sache wird wahrhaftig zu ernsthaft, &amp; <seg type="comment"><orig>wenn Dein Gehirn wie Du selbst sagst nicht für die theoretischen
+              Sachen up to the mark ist</orig><note xml:id="ba24551e-203f-4ffc-928b-c589a9d91acc">Siehe <ref target="B00036">Marx an Engels,
+                10.2.<?oxy_comment_start author="reichhoff" timestamp="20170522T141842+0200" comment="{{Br. 33.16–17}}"?>1866<?oxy_comment_end?></ref>).</note></seg>
+          so laß es doch etwas ausruhen von der höheren Theorie. <pb/> Laß das Nachtsarbeiten einige
+          Zeit sein &amp; führe eine etwas regelmäßigere Lebensweise. Wenn Du wieder auf dem Damm
+          bist, komm auf 14&#160;Tage oder so hierher, damit Du etwas Veränderung hast, &amp; bring
+          Dir soviel Hefte mit daß Du meinetwegen hier etwas arbeiten kannst. <seg type="comment"><orig>Übrigens geben die 60&#160;Bogen ja 2 dicke Bände.</orig><note xml:id="d9053459-166e-4444-9f7c-a0c9aa35abd5">Gemäß dem Vertrag mit Verleger <persName key="pdrPo.001.004.000003135">Otto Meißner</persName> vom März 1865 sollte Marx das
+              Manuskript im Umfang von 60&#160;Druckbogen in zwei Bänden vorlegen (siehe
+              MEGA²&#160;III/13. Br.&#160;122, Br. 195.3–7 und Erl. sowie S.&#160;912/913).
+              (((lMEGA²&#160;III/13))) </note></seg>
+          <seg type="comment"><orig>Kannst Du es nicht so einrichten daß wenigstens der erste Band
+              zuerst zum Druck geschickt wird &amp; der zweite ein paar Monate später. So ist der
+              Verleger &amp; das Publikum befriedigt &amp; doch keine Zeit <subst>
+                <del>ve<sic ana="#break-off"/></del>
+                <add>realiter</add>
+              </subst> verloren.</orig><note xml:id="a337bce5-7a6d-46ac-9535-c4df1f4f2db6">Marx
+              regelte die Verfahrensweise später mit <persName key="pdrPo.001.004.000003135">Otto
+                Meißner</persName>. Siehe Marx an Engels, 13.&#160;April 1867 (IISG,
+              Marx-Engels-Nachlass, Sign.&#160;L&#160;4474/L&#160;VI&#160;607). (((lMarx an Engels,
+              13.&#160;April 1867 (IISG, Marx-Engels-Nachlass,
+              Sign.&#160;L&#160;4474/L&#160;VI&#160;607).))) </note></seg></p><p sameAs="MBTextmitEinzug">Bedenke auch daß wie die Sachen jetzt stehn, die Dinge sich auf dem
+                                        Continent rasch ändern können. In Preußen geht die
+                                        Geschichte famos rasch. <persName key="pdrPo.001.004.000000441">Bismark</persName>
+                                        treibts rasch auf die Spitze. <seg type="comment"><orig>Erst
+                                                  der Obertribunalsbeschluß,</orig><note xml:id="fbc48248-6458-438d-ab69-0abfed9c1dd5">Gemeint ist die am 29.&#160;Januar 1866
+                                                  eingeleitete Untersuchung gegen die Abgeordneten
+                                                  <persName key="pdrPo.001.004.000004839">Karl
+                                                  Twesten</persName> und <persName key="ed_ctg_kht_xy">John Peter Frentzel</persName>
+                                                  wegen Kammerreden während der Zeit des
+                                                  Verfassungskonfliktes.</note></seg> dann jetzt die
+                                        Drohung mit der authentischen Verfassungsinterpretation
+                                        durch den <persName key="pdrPo.001.004.000005131">König</persName>. Die letzte Illusion der Philister
+                                        von ruhiger historischer Entwicklung ist zum Teufel. Der
+                                        erste beste Anstoß, selbst nur eine ernsthafte Verwicklung
+                                        wegen Schl. Holst. kann die Sache zum Klappen bringen,
+                                        sobald die Soldaten an der Gränze conzentrirt sind; obwohl
+                                        ich selbst kaum glaube, daß ohne einen all<pb/>gemeineren
+                                        Anstoß etwas geschehen wird; aber die Möglichkeit ist da.
+                                        Was kann es da helfen daß vielleicht ein paar Kapitel am
+                                        Ende Deines Buchs fertig sind &amp; nicht einmal ein erster
+                                        Band zum Druck kommen kann, wenn wir überrascht werden von
+                                        den Ereignissen? In Frankreich kann auch jeden Tag was
+                                        kommen, <seg type="comment"><orig>in Oestreich muß <subst>
+                                                  <del>die</del>
+                                                  <add>der</add>
+                                                  </subst> Versöhnungsversuch mit Ungarn nur zu
+                                                  schärferer Spaltung führen.</orig><note xml:id="a365b683-7a95-411e-b9b2-87ce23841918">Die
+                                                  seit 1865 geführten Verhandlungen mit Ungarn, die
+                                                  schließlich zum österreichisch-ungarischen
+                                                  Ausgleich von 1867 führten.</note></seg></p><p sameAs="MBTextmitEinzug">Facit: Mach daß Du gesund wirst &amp; ad hoc, versuchs mit dem
+                                        Arsenik.</p><closer sameAs="MBUnterschrift"><salute>Dein<lb/></salute><signed>F. E.</signed></closer><postscript><p>Viele Grüße an Madame &amp; die young ladies. </p></postscript></div></body></text></TEI>

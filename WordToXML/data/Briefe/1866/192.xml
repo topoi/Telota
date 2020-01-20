@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00198" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>192</idno>Paul Stumpf an Karl Marx in London. Mainz, Freitag, 30. November 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 4240/D VII 196 Fotosign. 9618a&lt;–&gt;b.</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt mittelstarkem, blauen Papier im Format 228&#160;×&#160;283&#160;mm. Prägung: „Dav. Jos. Stumpf Mainz.“ Stumpf hat beide Seiten vollständig beschrieben. Die Worte „&amp;&#160;metallurgische“ (Z.&#160;24) sind mit dem Zuordnungszeichen „+“ versehen und am linken Rand der ersten Seite niedergeschrieben. Die Schlusspassagen stehen am linken Rand der zweiten (Z.&#160;53–57) bzw. der ersten Seite (Z.&#160;58–61) quer. Die letzte Zeile (Z.&#160;62) befindet sich auf der zweiten Seite oben. Schreibmaterial: schwarze Tinte.</p><p>Das Papier ist am rechten Rande des Blatts beschädigt, die dadurch entstandenen Textverluste (Z.&#160;56–57) konnten rekonstruiert werden.</p><p>Die Beilage (Z.&#160;8–9) ist nicht überliefert.</p><p>Von unbekannter Hand: Numerierung des Briefes „7“ mit Bleistift auf der ersten Seite oben in der Mitte; die Worte „bei Erhalt <expan resp="editor" sameAs="dottet_underline">d<ex>iese</ex>s</expan>“ (Z.&#160;58) sind mit dem Blaustift unterstrichen.</p><p>Datierung der Erstveröffentlichung: 30.&#160;November <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"
+        ?>1865<?oxy_custom_end?>.</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1681</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Monz: Der Mainzer Paul Stumpf (1986). S.&#160;283/284.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000004646">Paul Stumpf</persName><placeName>Mainz</placeName><date when="1866-11-30"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:40:13Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+        <opener>
+          <dateline sameAs="MBDatumszeile"><pb/> den 30/11 66.</dateline>
+          <salute sameAs="MBAnrede">Lieber Marx</salute>
+        </opener>
+        <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Engels wird Dir meine Grüsse
+              ausgerichtet haben?</orig><note xml:id="f5e0b821-265c-4874-91e6-2f720acd6aa4">
+              <p rend="endnote text">Im August/September 1866 hielt sich Engels in Deutschland auf
+                (siehe <ref target="B00148/#ed7465d7-c7d0-4b8f-9b6a-d7b144a87d0c">Erl. zu Engels an
+                  Marx,
+                  6.8.<?oxy_comment_start author="reichhoff" timestamp="20170519T133101+0200" comment="{{Erl. 144e}}"?>1866<?oxy_comment_end?></ref>)
+                und hatte auch Mainz besucht (siehe <ref target="B00195/#start_vjb_pns_5z">J. Ph.
+                  Becker an Marx,
+                  15.11.<?oxy_comment_start author="reichhoff" timestamp="20170506T174814+0200" comment="{{Br. 189.50}}"?>1866<?oxy_comment_end?></ref>).</p>
+            </note></seg> Wenn Du wüßtest, wie leid es mir thut daß ich nicht <seg type="comment"><orig>den <persName key="pdrPo.001.004.000001474">Faucher'schen</persName>
+              Entbehrungslohn</orig><note xml:id="nk2b_wtb_kz">Der Begriff „Entbehrungslohn“ geht
+              auf die Abstinenztheorie, einen von <persName key="pdrPo.001.004.000004392">Nassau
+                William Senior</persName> eingeführten Terminus für die Belohnung (Zins) bei
+              Enthaltsamkeit – den Verzicht auf sofortigen Verbrauch (Entbehrung) zurück. Siehe auch
+              Karl Marx: Das Kapital. Bd.&#160;1. (MEGA<hi rendition="#sup">2</hi> II/5.
+              S.&#160;176.44–52). (((lMEGA<hi rendition="#sup">2</hi>_II/5))) Stumpf bezieht sich
+              vermutlich auf Ferdinand Lassalle: Herr Bastiat-Schulze von Delitzsch, der ökonomische
+              Julian, oder: Capital und Arbeit. Berlin 1864, S.&#160;109–111, wo <persName key="pdrPo.001.004.000001474">Julius Faucher</persName> zitiert wird.
+              (((lLassalle,Ferdinand:Herr Bastiat-Schulze von Delitzsch, der ökonomische Julian,
+              oder: Capital und Arbeit. Berlin 1864)))</note></seg> zur Verfügung habe um gegenüber
+          Dir freundschaftlicher handeln zu können, wäre <seg type="comment"><orig>mein langes
+              Schweigen</orig><note xml:id="nvzy_15b_kz">Den letzten Brief <ref target="B00156">an
+                Marx schrieb <persName key="pdrPo.001.004.000004646">Stumpf</persName> am 18. August
+                1866</ref>
+              <?oxy_comment_start author="reichhoff" timestamp="20170406T172617+0200" comment="({{Br. 152}})"?>.<?oxy_comment_end?></note></seg>
+          entschuldigt! Du mußt mir deßhalb noch etwas Zeit gönnen!</p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Was sagst Du zu beiliegendem Aufsatze
+              aus der Didaskalia vom Sept. ds.</orig><note xml:id="e2bfb796-eb3c-4c41-b83e-e8a33c615199">Didaskalia. Belletristisches Beiblatt
+              des Frankfurter Journals. Um welchen Aufsatz es sich handelt, konnte wegen der nicht
+              überlieferten Beilage (siehe ZB) nicht festgestellt werden. (((zDidaskalia.
+              Belletristisches Beiblatt des Frankfurter Journals))) </note></seg> – gebe mir Stoff
+          zu einer passenden Erwiederung!</p>
+        <p sameAs="MBTextmitEinzug"><persName key="pdrPo.001.004.000001474">Faucher</persName> hält
+          hier Vorträge über 1, Zukunft des Zollvereins &amp; sagt: Süddeutschland ¼&#160;Theil des
+          ganzen verliert ¾, Norddeutschland = ¾, verliert ¼&#160;Theil an Absatz, Zolllinie nicht
+          möglich, auf ausländischem Markte concurriren sie mitteinander, <seg type="comment"><orig>Tausch ist ein Theil der Arbeitskraft (<persName key="ed_swg_syx_pz">Robinson</persName>-<persName key="ed_mg5_11y_pz">Smith</persName>)</orig><note xml:id="nvlj_r5b_kz">Vermutlich gibt hier <persName key="pdrPo.001.004.000004646">Stumpf</persName>  Ideen der Freihändler <persName key="pdrPo.001.004.000001474">Julius Faucher</persName>  und <persName key="ed_mg5_11y_pz">John
+                Prince-Smith</persName>  wieder. Die Verwendung des Namens "Robinson" ist
+              möglicherweise eine Anspielung auf die seit dem 18._Jh. gern verwendete vereinfachte
+              Darstellung wirtschaftlicher Prozesse am Beispiel des Einsiedlerlebens von <persName key="ed_swg_syx_pz">Robinson Crusoe</persName>. </note></seg> wann Zolllinie,
+          Verarmung, sociale Revolution; Weisswaren zB. im Vogtland könnten nicht mehr mit der
+          Schweiz bei deren billigen <expan resp="editor" sameAs="dottet_underline">Arb<ex>eits</ex></expan> Lohn concurriren! Alles ist beinahe für Freihändeler! Bei
+          jeder Krise erhöht sich die Consumtion? durch die Billigkeit!! erhöht also die Production
+          nach der Krise?</p>
+        <p sameAs="MBTextmitEinzug">Es giebt 2&#160;Arten Nat. <expan resp="editor" sameAs="dottet_underline">Oekonom<ex>ien</ex></expan> – Freih<ex>än</ex>dler &amp;
+          Schutzzöllner! (Und Deine?) England 1862 noch 42 jetzt nur noch 14 besteuerte Artikel!</p>
+        <p sameAs="MBTextmitEinzug">Größere Staaten erholen sich schneller als kleine. WolleWaren
+          hat Deutschld bald bis zu 75&#160;Millionen ausgeführt! Künstlichere &amp; metallurgische
+          Gewerbe in Deutschland machen England &amp; Frankreich Sorge! </p>
+        <p sameAs="MBTextmitEinzug"><pb/> Die <choice>
+            <sic>Grundsatz</sic>
+            <corr cert="high">Grundsätze</corr>
+          </choice> die festgehalten werden müssen sind: nur die Gegenstände besteuern die <hi rendition="#u">nicht</hi> im Inland fabricirt werden, Ex &amp; Import frei für die
+          Fabricate und Rohprodukte-Bezug! Allmählige Aufhebung! Korngesetz in England! Arbeiter
+          &amp; KleinBürger dagegen! Alle Jahr &amp; nicht alle 12&#160;Jahr soll man Zoll revidiren
+          per deutsch. Parlament! Zollverein das einzige Band das jetzt noch Deutschoestreich mit
+          Deutschland vereint.&#160;– Zollverein in Deutschland erst seit 30&#160;Jahren deßhalb
+          späte Entwicklung! Auch Ackerbau (freierer) gewinnt! Eisenbahn mächtigen Einfluss!</p>
+        <p sameAs="MBTextmitEinzug">Ursprünglich habe man den Reichthum des Staats im Schutz gegen
+          Einfuhr &amp; im Ansammeln von Geld im Staat gefunden! Jetzt Reichthum im Verkehr &amp;
+          was davon gilt, gilt auch vom Einzelnen.</p>
+        <p sameAs="MBTextmitEinzug">National Oekonomie ist die Lehre der Gesetze unter denen sich
+          die Production regelt! die die Arbeit zwischen Mann u Mann im Werth erhöht! So etwa! Der
+          erste Vortrag!</p>
+        <p sameAs="MBTextmitEinzug">Der II<hi rendition="#sup">te</hi>. Ueber Freizügigkeit!</p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Die Stärke der Fürsten lag bis 1800
+                (<persName key="pdrPo.001.004.000004246">Schiller</persName>) in der Abgrenzung der
+              einzelnen deutschen Landen in Sitte Gebräuche &amp; Sprache!?</orig><note xml:id="ncpx_gvb_kz">Der zusammenfassende Satz mit der Erwähnung <persName key="pdrPo.001.004.000004246">Schillers</persName>  nimmt vermutlich Bezug auf
+              dessen Werk "Geschichte des dreißigjährigen Kriegs". Teil_1. Buch_1; siehe dort z. B.
+              am Anfang, ab der Passage „Freier schien die deutsche Linie des Hauses Oesterreich
+              gewesen zu sein …“. (((lSchiller,Friedrich: Geschichte des dreißigjährigen Kriegs.
+              Teil_1. Buch_1))) Schiller beschreibt den fortschreitenden Zusammenbruch der
+              Reichsjustiz und der kaiserlichen Zentralgewalt auf der einen Seite, einhergehend mit
+              immer weiter erstarkenden Territorialfürsten auf der anderen. Um 1800 zerfällt dieses
+              von fürstlicher Partikulargewalt geprägte alte deutsche Reich innerhalb weniger
+              Jahre.</note></seg> Austausch der Menschen ist Freizügigkeit! <hi rendition="#u">auch
+            eine Correktur der Geburt ist sie</hi>!?? Frankreich durch 90<hi rendition="#sup">r</hi>
+          Revolution weiter als wir; England 200&#160;Jahr vorher! Nationalgefühl wird wach dem
+          Deutschen im Auslande. National ist der Industrielle!? und doch Mischung nicht Besserung
+          der Race! In America kann sich jeder ansiedeln wo das Fabricat am natürwüchichsten ist!
+          (natürlich). Conzentration macht Ueberlegenheit der Industrie. Aber Freizügigkeit hat
+          2&#160;Conzessionen nöthig! die der Niederlassung, ungerecht! unvortheilhaft. Aber
+          allgemein muß sie frei werden! Ebenso Besteuerung beim Einzug! Berlin beweist Vortheil
+          Freizügigkeit! Also ein deutsches Heimatsgesetz!!</p>
+        <p rend="MBTextMitEinzug">Damit schließe ich! Nächsten Montag Uebermorgen hält er Vortrag
+          über die Zukunft der deutschen Städte! Ich bat die Herren die <persName key="pdrPo.001.004.000001474">Faucher</persName> hierher einluden, diesen zu veranlassen
+          auch etwas über deutschen Mittelstand in seiner Z<supplied cert="high">uk</supplied>unft
+          zu sag<supplied cert="high">en</supplied>! Einem hiesigen Blatte versp<supplied cert="high">rach</supplied> ich summarisch<supplied cert="high">en</supplied> B<supplied cert="high">eri</supplied>cht alsdann! </p>
+        <p sameAs="MBTextmitEinzug">/ Wenn Du mir bei Erhalt <expan resp="editor" sameAs="dottet_underline">d<ex>iese</ex>s</expan> Einiges Material senden wolltest zu
+          diesem summarischen Bericht? </p>
+        <p>Das allgemeine Bourgeoisabfertigende kenne ich! Piquanteres weiß ich aber nicht
+          genug!</p>
+        <closer sameAs="MBUnterschrift">Dein P.St.  /</closer>
+        <postscript>
+          <p>/ <hi rendition="#u">Franciren nicht nötig!</hi> /</p>
+        </postscript>
+      </div></body></text></TEI>

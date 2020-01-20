@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00024" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>23</idno>Friedrich Leßner an Karl Marx in London. London, Montag, 29. Januar 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 3020/D V 183–7. Fotosign.
+                            9492a–b</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            177&#160;×&#160;113&#160;mm. Leßner hat die ersten zwei Seiten
+                            vollständig beschrieben, die dritte zu zwei Dritteln, die vierte ist
+                            leer. Schreibmaterial: schwarze Tinte. </p>
+                        <p>Die Schreibweise wurde zurückhaltend korrigiert, die Eingriffe sind
+                            ausgewiesen.</p>
+                        <p>Von unbekannter Hand: mit Bleistift auf der ersten Seite: Datierung
+                            „29.I.66“ (oben rechts) und Nummerierung des Briefes: „7“ (oben
+                            Mitte).</p>
+                        <p>Zur Beilage („Beifolgende zeilen“) siehe Erl.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1632</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc><listWit><witness><bibl>Erstveröffentlichung: in russischer Übersetzung: Письма Фридриха Лесснера Карлу
+                            Марксу (1935). S.&#160;152</bibl>.</witness><witness><bibl>in der Sprache des Originals wird der Brief hier erstmals veröffentlicht.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_l54_cks_xy">Friedrich Leßner</persName><placeName>London</placeName><date when="1866-01-29"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:27Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> 4 Francis Street Tottenham Court
+                        Rd.</dateline>
+                    <salute sameAs="MBAnrede">Lieber Marx!</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Beifolgende zeilen für
+                                <persName key="pdrPo.001.004.000000317">Becker</persName>, wenn Du
+                            sie der Mühe Werth hälst mitzusenden.</orig><note xml:id="b1e2f0fe-b5e1-4346-9fc9-a032c3d30d09">Den Brief von <persName key="ed_l54_cks_xy">Leßner</persName> an <persName key="pdrPo.001.004.000000317">Johann Philipp Becker</persName> vom
+                            28.&#160;Januar 1866 (Kopie: RGASPI, Sign. f.&#160;178, op.&#160;1,
+                            d.&#160;31/1) hat <persName key="pdrPo.001.004.000003075">Jenny
+                                Marx</persName> weitergeleitet. Siehe <ref target="B00025/#start_vkj_tbk_nz">ihren Brief an Becker,
+                                29.1.<?oxy_comment_start author="reichhoff" timestamp="20170410T131405+0200" comment="({{Br. 24.17–18}})"?>1866<?oxy_comment_end?></ref>.
+                            (((lLeßner, Friedrich an Johann Philipp Becker, 28.&#160;Januar 1866
+                            (Kopie: RGASPI, Sign. f.&#160;178, op.&#160;1, d.&#160;31/1).)))
+                        </note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Wegen der Zeitungs frage heute
+                            Abent, habe ich es allen dejenigen gesagt die ich kenne, ja zu kommen.
+                            Aber dennoch glaube ich daß Deine Gegenwart unbedingt Nothwendig
+                            ist.</orig><note xml:id="d77eb5d1-03b1-4705-8264-2522ee0fe4f7">Leßner
+                            bezieht sich vermutlich auf die Zeitung „The Workman’s Advocate“.(((zThe
+                            Workman’s Advocate))) Siehe auch <ref target="B00007/#nmrb_qzn_4y">Erl.
+                                zu Marx an J. Ph. Becker, zwischen 9. und 15.1.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170512T153015+0200" comment="{{Erl. 6f}}."?></note><?oxy_comment_end?></seg>
+                    Wenn es irgent möglich ist für Dich zu kommen. ich Hoffe daß Deine Gesundheit
+                    soweit hergestellt ist, das Dir daß <pb/> ausgehen nicht schadet, sonst lieber
+                    nicht.</p>
+                <p sameAs="MBTextmitEinzug">Gestern Abent, wurde in St Martins Hall bekannt gemacht,
+                    daß die Pfaffenpartei es <hi rendition="#u">vorläufig</hi> so weit gebracht hat,
+                    daß <seg type="comment"><orig>die Vorträge</orig><note xml:id="nskq_b3l_5y">Über
+                            die Vorlesungen in St. Martins Hall siehe auch <ref target="B00025/#start_gjy_jck_nz">J. Marx an J. Ph. Becker,
+                                29.1.<?oxy_comment_start author="reichhoff" timestamp="20170410T132022+0200" comment="{{Br. 24.25–47}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    nicht mehr Stattfinden, bis die Klage entschieden ist.</p>
+                <p sameAs="MBTextmitEinzug">Diese Nachricht brachte einen allgemeinen Unwillen
+                    hervor, und es wurde die Mittheilung gemacht, daß schon über £&#160;100
+                    gezeichnet sind, und bei den weggen wurde viel gesammelt an den Tühren, um
+                    Reichlich Mittel anbei zu schaffen, um den Prozeß <pb/> zu führen gegen die
+                        <expan resp="editor" sameAs="dottet_underline">P<ex>f</ex>affenhunde</expan>.</p>
+                <p sameAs="MBTextmitEinzug">Der <expan resp="editor" sameAs="dottet_underline">Vort<ex>r</ex>ag</expan> von <persName key="pdrPo.001.004.000002195">Hodgson</persName>
+                    war vorzüglich gut, und nicht im geringsten geeignet, Versöhnung
+                    hervorzurufen.</p>
+                <p sameAs="MBTextmitEinzug">in der Hoffnung daß diese Zeilen Dich in Besserer
+                    Gesundheit wiedersehen</p>
+                <closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u2}</hi>-->grüßt
+                    freundlichst<lb/>Frid. Lessner</closer>
+                <p sameAs="MBAdresse">London 29./1 66. </p>
+            </div></body></text></TEI>

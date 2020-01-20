@@ -1,0 +1,589 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="mega_personenregister" xml:lang="de" xml:id="personU">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Gehört zur ediarum-App für eXist.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Hybrid: consult project description and document history for details.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="pdrPo.001.004.000011678">
+                    <idno type="mega">1028417</idno>
+                    <persName type="reg">
+                        <name>Uceda, Cristóbal Gómez de Sandoval, duque de</name>
+                    </persName>
+                    <note>spanischer Staatsmann; Erster Minister; Sohn des Duque de Lerma</note>
+                    <linkGrp>
+                        <ptr target="IV/12#422" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011679">
+                    <idno type="mega">1028418</idno>
+                    <persName type="reg">
+                        <surname>Ucedo</surname>
+                        <forename>María Ambrosia de</forename>
+                    </persName>
+                    <note>seit 1661 Ehefrau von Fernando de Valenzuela</note>
+                    <linkGrp>
+                        <ptr target="IV/12#422" type="page"/>
+                        <ptr target="IV/12#1256" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004844">
+                    <idno type="mega">1028424</idno>
+                    <persName type="reg">
+                        <surname>Ugarte</surname>
+                        <forename>Antonio</forename>
+                    </persName>
+                    <birth>1780</birth>
+                    <death>1833</death>
+                    <note>spanischer Politiker; Günstling, Berater und Haupt der Hofkamarilla Fernandos&#160;VII.</note>
+                    <linkGrp>
+                        <ptr target="IV/12#820" type="page"/>
+                        <ptr target="IV/12#821" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004845">
+                    <idno type="mega">1028428</idno>
+                    <persName type="reg">
+                        <surname>Uhland</surname>
+                        <forename>Ludwig</forename>
+                    </persName>
+                    <birth>1787</birth>
+                    <death>1862</death>
+                    <note>deutscher Dichter, Germanist und Publizist; 1848/49 Mitglied der Frankfurter Nationalversammlung (linkes Zentrum)</note>
+                    <linkGrp>
+                        <ptr target="III/9#427" type="page"/>
+                        <ptr target="III/11#46" type="page"/>
+                        <ptr target="III/11#50" type="page"/>
+                        <ptr target="III/11#710" type="page"/>
+                        <ptr target="III/11#780" type="page"/>
+                        <ptr target="III/10#82" type="page"/>
+                        <ptr target="III/10#216" type="page"/>
+                        <ptr target="III/10#719" type="page"/>
+                        <ptr target="III/10#841" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004846">
+                    <idno type="mega">1028429</idno>
+                    <persName type="reg">
+                        <name>UllendorffUhlendorff</name>
+                    </persName>
+                    <note>deutscher Demokrat</note>
+                    <linkGrp>
+                        <ptr target="III/10#334" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004847">
+                    <idno type="mega">1028445</idno>
+                    <persName type="reg">
+                        <surname>Ullik</surname>
+                        <forename>Franz</forename>
+                    </persName>
+                    <note>Naturforscher, Chemiker</note>
+                    <linkGrp>
+                        <ptr target="IV/31#758" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004848">
+                    <idno type="mega">1028449</idno>
+                    <persName type="reg">
+                        <surname>Ulloa</surname>
+                        <forename>Francisco Javier</forename>
+                    </persName>
+                    <birth>1777</birth>
+                    <death>1855</death>
+                    <note>spanischer Marineoffizier und Politiker; 1832 Marineminister, 1837 Minister für Marine, Handel und Übersee</note>
+                    <linkGrp>
+                        <ptr target="IV/12#731" type="page"/>
+                        <ptr target="IV/12#856" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004849">
+                    <idno type="mega">1028448</idno>
+                    <persName type="reg">
+                        <surname>Ulloa</surname>
+                        <forename>Giròlamo</forename>
+                    </persName>
+                    <birth>1810</birth>
+                    <death>1891</death>
+                    <note>neapolitanischer General, Teilnehmer der Revolution 1848/49 in Italien; emigrierte nach ihrer Niederlage nach Frankreich; befehligte 1859 im oberitalienischen Krieg das toskanische Heer</note>
+                    <linkGrp>
+                        <ptr target="III/11#86" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004850">
+                    <idno type="mega">1028450</idno>
+                    <persName type="reg">
+                        <surname>Ulman</surname>
+                        <forename>Carlos</forename>
+                    </persName>
+                    <note>spanischer General; Schweizer Herkunft (Charles Ulmann)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#846" type="page"/>
+                        <ptr target="IV/12#905" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004851">
+                    <idno type="mega">1028453</idno>
+                    <persName type="reg">
+                        <surname>Ulmer</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <note>deutscher Schneider; 1849 Teilnehmer an der Reichsverfassungskampagne, nach deren Scheitern Emigrant in der Schweiz, seit 1851 in England; Mitglied des Bundes der Kommunisten</note>
+                    <linkGrp>
+                        <ptr target="III/9#314" type="page"/>
+                        <ptr target="III/11#16" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="ed_efh_q1c_kz">
+                    <persName type="reg">
+                        <surname>Ulmer</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death>1866</death>
+                    <note>Ehefrau von Johann Ulmer</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000011680">
+                    <idno type="mega">1028455</idno>
+                    <persName type="reg">
+                        <name>Ulpiuso auch oder Ulpius Marcellus</name>
+                    </persName>
+                    <note>römischer Jurist; seine nur in Zitaten anderer Autoren überlieferten Schriften, vor allem die zwischen 161 und 167 entstandenen „libri digestorum“, dienten als wichtige Quellen der römischen Rechtsgeschichte</note>
+                    <linkGrp>
+                        <ptr target="III/11#550" type="page"/>
+                        <ptr target="III/11#1282" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011681">
+                    <idno type="mega">1028456</idno>
+                    <persName type="reg">
+                        <name>Ulrich</name>
+                    </persName>
+                    <birth>1487</birth>
+                    <death>1550</death>
+                    <note>Herzog von Württemberg (1498–1519, 1534–1550); 1519 vom Schwäbischen Bund aus Württemberg verjagt, versuchte im März 1525 erfolglos, sein Herzogtum durch einen Vorstoß auf Stuttgart wiederzugewinnen, nutzte den Bauernaufstand vom 1525 für seine Zwecke aus</note>
+                    <linkGrp>
+                        <ptr target="III/9#1106" type="page"/>
+                        <ptr target="III/10#1065" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011682">
+                    <idno type="mega">1028459</idno>
+                    <persName type="reg">
+                        <name>Ulrike Eleonore</name>
+                    </persName>
+                    <birth>1656</birth>
+                    <death>1693</death>
+                    <note>dänische Prinzessin; Tochter Frederiks&#160;III von Dänemark, seit 1680 Gemahlin Karls&#160;XI. von Schweden</note>
+                    <linkGrp>
+                        <ptr target="IV/12#267" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011683">
+                    <idno type="mega">1028460</idno>
+                    <persName type="reg">
+                        <name>Ulrike Eleonore</name>
+                    </persName>
+                    <birth>1688</birth>
+                    <death>1741</death>
+                    <note>Königin von Schweden (1718–1720); dankte zugunsten ihres Gemahls ab; Tochter Karls&#160;XI. und seiner Gemahlin Ulrike Eleonore von Dänemark, Schwester Karls&#160;XII.</note>
+                    <linkGrp>
+                        <ptr target="IV/12#272" type="page"/>
+                        <ptr target="IV/12#286" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="ed_db3_ztg_f1b">
+                    <persName type="reg">
+                        <surname>Unbekannt</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="pdrPo.001.004.000004852">
+                    <idno type="mega">1028475</idno>
+                    <persName type="reg">
+                        <surname>Ungewitter</surname>
+                        <forename>Franz Heinrich</forename>
+                    </persName>
+                    <note>deutscher Historiker, Geograph und Ethnologe</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000004853">
+                    <idno type="mega">1028481</idno>
+                    <persName type="reg">
+                        <surname>Unruh</surname>
+                        <forename>Hans Victor von</forename>
+                    </persName>
+                    <birth>1806</birth>
+                    <death>1886</death>
+                    <note>preußischer Techniker und Politiker; gemäßigter Liberaler; Eisenbahnpionier, 1857–1874 Generaldirektor der Gesellschaft für Fabrikation von Eisenbahnbedarf in Berlin</note>
+                    <linkGrp>
+                        <ptr target="III/9#7" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004854">
+                    <idno type="mega">1028484</idno>
+                    <persName type="reg">
+                        <name>Untermann, Ernest eigtl. Ernst</name>
+                    </persName>
+                    <birth>1864</birth>
+                    <death>1956</death>
+                    <note>deutscher Seemann, Schriftsteller, Übersetzer, Politiker, Künstler, Zoologe, Geologe; lebte in den USA, u.a. Mitbegründer der Sozialistischen Partei, US-Senator von Kalifornien (1908–1914); übersetzte Schriften von Marx und Engels ins Englische, u.a. den 2. und 3.&#160;Band des „Kapitals“ (1907, 1909); später u.a. Direktor des Washingtoner Zoos (1935–1939)</note>
+                    <linkGrp>
+                        <ptr target="II/13#579" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004855">
+                    <idno type="mega">1028488</idno>
+                    <persName type="reg">
+                        <name>Urban</name>
+                    </persName>
+                    <note>deutscher Tierarzt; Demokrat; Teilnehmer an der Revolution 1848/49</note>
+                    <linkGrp>
+                        <ptr target="III/11#527" type="page"/>
+                        <ptr target="III/11#1261" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011684">
+                    <idno type="mega">1028490</idno>
+                    <persName type="reg">
+                        <name>Urban&#160;VII.</name>
+                    </persName>
+                    <birth>1521</birth>
+                    <death>1590</death>
+                    <note>Papst 1590</note>
+                    <linkGrp>
+                        <ptr target="IV/12#71" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011685">
+                    <idno type="mega">1028491</idno>
+                    <persName type="reg">
+                        <name>Urban&#160;VIII.</name>
+                    </persName>
+                    <birth>1568</birth>
+                    <death>1644</death>
+                    <note>Papst seit 1623</note>
+                    <linkGrp>
+                        <ptr target="IV/12#76" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011686">
+                    <idno type="mega">1028493</idno>
+                    <persName type="reg">
+                        <name>Urbich, Johann Christoph, Freiherr von</name>
+                    </persName>
+                    <birth>1656</birth>
+                    <death>1715</death>
+                    <note>sächsisch-thüringischer Edelmann im Staatsdienst für Braunschweig-Lüneburg und Dänemark; Gesandter des russischen Zaren am kaiserlichen Hof in Wien (1707–1712)</note>
+                    <linkGrp>
+                        <ptr target="I/31#981" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004856">
+                    <idno type="mega">1028494</idno>
+                    <persName type="reg">
+                        <surname>Urbistondo</surname>
+                        <forename>Antonio de</forename>
+                    </persName>
+                    <birth>1803</birth>
+                    <death>1857</death>
+                    <note>spanischer General und Politiker; 1856 Kriegsminister</note>
+                    <linkGrp>
+                        <ptr target="IV/12#864" type="page"/>
+                        <ptr target="IV/12#916" type="page"/>
+                        <ptr target="IV/12#917" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004857">
+                    <idno type="mega">1028495</idno>
+                    <persName type="reg">
+                        <surname>Ure</surname>
+                        <forename>Andrew</forename>
+                    </persName>
+                    <birth>1778</birth>
+                    <death>1857</death>
+                    <note>schottischer Chemiker und Ökonom; Professor in Glasgow; verfaßte Bücher über das Fabriksystem</note>
+                    <linkGrp>
+                        <ptr target="I/31#366" type="page"/>
+                        <ptr target="I/31#1117" type="page"/>
+                        <ptr target="II/11#117" type="page"/>
+                        <ptr target="II/11#1291" type="page"/>
+                        <ptr target="II/12#141" type="page"/>
+                        <ptr target="II/12#1008" type="page"/>
+                        <ptr target="II/14#727" type="page"/>
+                        <ptr target="II/15#81" type="page"/>
+                        <ptr target="II/15#104" type="page"/>
+                        <ptr target="II/15#377" type="page"/>
+                        <ptr target="II/15#1023" type="page"/>
+                        <ptr target="II/15#1040" type="page"/>
+                        <ptr target="II/15#1100" type="page"/>
+                        <ptr target="IV/31#639" type="page"/>
+                        <ptr target="IV/31#640" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004858">
+                    <idno type="mega">1028497</idno>
+                    <persName type="reg">
+                        <name>Uriz</name>
+                    </persName>
+                    <note>spanischer Militär; Karlist; hingerichtet</note>
+                    <linkGrp>
+                        <ptr target="IV/12#863" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004859">
+                    <idno type="mega">1028498</idno>
+                    <persName type="reg">
+                        <surname>Uriz Lasaga</surname>
+                        <forename>Joaquín Javier</forename>
+                    </persName>
+                    <note>Bischof von Pamplona (1815–1829)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#1430" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004860">
+                    <idno type="mega">1028499</idno>
+                    <persName type="reg">
+                        <name>Urquesa Francisca</name>
+                    </persName>
+                    <note>von den Karlisten als Vergeltung für den Tod der Mutter des Generals Cabrera erschossen</note>
+                    <linkGrp>
+                        <ptr target="IV/12#815" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004861">
+                    <idno type="mega">1028500</idno>
+                    <persName type="reg">
+                        <surname>Urquhart</surname>
+                        <forename>David</forename>
+                    </persName>
+                    <birth>1805</birth>
+                    <death>1877</death>
+                    <note>Tory; Mitglied des Parlaments (1847–1852); 1855 Gründer und Redakteur der Zeitung „The Free Press“ (London); britischer Diplomat und Politiker, turkophiler Publizist; bereiste mehrfach das Osmanische Reich, 1835–1837 Gesandtschaftssekretär in Konstantinopel: Mitglied des Parlaments (1847–1852)</note>
+                    <linkGrp>
+                        <ptr target="I/14#54" type="page"/>
+                        <ptr target="I/14#128" type="page"/>
+                        <ptr target="I/14#183" type="page"/>
+                        <ptr target="I/14#387" type="page"/>
+                        <ptr target="I/14#388" type="page"/>
+                        <ptr target="I/14#390" type="page"/>
+                        <ptr target="I/14#417" type="page"/>
+                        <ptr target="I/14#554" type="page"/>
+                        <ptr target="I/14#603" type="page"/>
+                        <ptr target="I/14#610" type="page"/>
+                        <ptr target="I/14#715" type="page"/>
+                        <ptr target="I/14#716" type="page"/>
+                        <ptr target="I/14#863" type="page"/>
+                        <ptr target="I/14#873" type="page"/>
+                        <ptr target="I/14#987" type="page"/>
+                        <ptr target="I/14#1066–1068" type="page"/>
+                        <ptr target="I/14#1306" type="page"/>
+                        <ptr target="I/14#1309" type="page"/>
+                        <ptr target="I/14#1486" type="page"/>
+                        <ptr target="I/14#1488" type="page"/>
+                        <ptr target="I/14#1489" type="page"/>
+                        <ptr target="I/31#197" type="page"/>
+                        <ptr target="I/31#217" type="page"/>
+                        <ptr target="I/31#218" type="page"/>
+                        <ptr target="I/31#235" type="page"/>
+                        <ptr target="I/31#613" type="page"/>
+                        <ptr target="I/31#998" type="page"/>
+                        <ptr target="I/31#1016" type="page"/>
+                        <ptr target="I/31#1030" type="page"/>
+                        <ptr target="I/31#1031" type="page"/>
+                        <ptr target="III/9#94" type="page"/>
+                        <ptr target="III/9#123" type="page"/>
+                        <ptr target="III/9#138" type="page"/>
+                        <ptr target="III/9#376" type="page"/>
+                        <ptr target="III/9#400" type="page"/>
+                        <ptr target="III/9#430" type="page"/>
+                        <ptr target="III/9#510" type="page"/>
+                        <ptr target="III/9#514" type="page"/>
+                        <ptr target="III/9#539" type="page"/>
+                        <ptr target="III/9#649" type="page"/>
+                        <ptr target="III/9#771" type="page"/>
+                        <ptr target="III/9#794" type="page"/>
+                        <ptr target="III/9#1081" type="page"/>
+                        <ptr target="III/10#6" type="page"/>
+                        <ptr target="III/10#14" type="page"/>
+                        <ptr target="III/10#22" type="page"/>
+                        <ptr target="III/10#23" type="page"/>
+                        <ptr target="III/10#28" type="page"/>
+                        <ptr target="III/10#37" type="page"/>
+                        <ptr target="III/10#62" type="page"/>
+                        <ptr target="III/10#75" type="page"/>
+                        <ptr target="III/10#78" type="page"/>
+                        <ptr target="III/10#96" type="page"/>
+                        <ptr target="III/10#109" type="page"/>
+                        <ptr target="III/10#120" type="page"/>
+                        <ptr target="III/10#126" type="page"/>
+                        <ptr target="III/10#166" type="page"/>
+                        <ptr target="III/10#176" type="page"/>
+                        <ptr target="III/10#199" type="page"/>
+                        <ptr target="III/10#206" type="page"/>
+                        <ptr target="III/10#212" type="page"/>
+                        <ptr target="III/10#249" type="page"/>
+                        <ptr target="III/10#257" type="page"/>
+                        <ptr target="III/10#268" type="page"/>
+                        <ptr target="III/10#284" type="page"/>
+                        <ptr target="III/10#340" type="page"/>
+                        <ptr target="III/10#346" type="page"/>
+                        <ptr target="III/10#347" type="page"/>
+                        <ptr target="III/10#581" type="page"/>
+                        <ptr target="III/10#632" type="page"/>
+                        <ptr target="III/10#647" type="page"/>
+                        <ptr target="III/10#654" type="page"/>
+                        <ptr target="III/10#664" type="page"/>
+                        <ptr target="III/10#669" type="page"/>
+                        <ptr target="III/10#744" type="page"/>
+                        <ptr target="III/10#807" type="page"/>
+                        <ptr target="III/10#828" type="page"/>
+                        <ptr target="III/10#852" type="page"/>
+                        <ptr target="III/10#875" type="page"/>
+                        <ptr target="III/10#886" type="page"/>
+                        <ptr target="III/10#893" type="page"/>
+                        <ptr target="III/10#940" type="page"/>
+                        <ptr target="III/10#941" type="page"/>
+                        <ptr target="III/10#948" type="page"/>
+                        <ptr target="III/11#18–20" type="page"/>
+                        <ptr target="III/11#88" type="page"/>
+                        <ptr target="III/11#131" type="page"/>
+                        <ptr target="III/11#149" type="page"/>
+                        <ptr target="III/11#301" type="page"/>
+                        <ptr target="III/11#614" type="page"/>
+                        <ptr target="III/11#637" type="page"/>
+                        <ptr target="III/11#679" type="page"/>
+                        <ptr target="III/11#726" type="page"/>
+                        <ptr target="III/11#727" type="page"/>
+                        <ptr target="III/11#831" type="page"/>
+                        <ptr target="III/11#1037" type="page"/>
+                        <ptr target="III/13#43" type="page"/>
+                        <ptr target="III/13#115" type="page"/>
+                        <ptr target="III/13#428" type="page"/>
+                        <ptr target="III/13#438" type="page"/>
+                        <ptr target="III/13#528" type="page"/>
+                        <ptr target="III/13#724" type="page"/>
+                        <ptr target="III/13#1133" type="page"/>
+                        <ptr target="IV/12#42–64" type="page"/>
+                        <ptr target="IV/12#156–159" type="page"/>
+                        <ptr target="IV/12#161" type="page"/>
+                        <ptr target="IV/12#166" type="page"/>
+                        <ptr target="IV/12#167" type="page"/>
+                        <ptr target="IV/12#174" type="page"/>
+                        <ptr target="IV/12#301–303" type="page"/>
+                        <ptr target="IV/12#319" type="page"/>
+                        <ptr target="IV/12#320" type="page"/>
+                        <ptr target="IV/12#325–339" type="page"/>
+                        <ptr target="IV/12#1025" type="page"/>
+                        <ptr target="IV/12#1030" type="page"/>
+                        <ptr target="IV/12#1031" type="page"/>
+                        <ptr target="IV/12#1074" type="page"/>
+                        <ptr target="IV/12#1075" type="page"/>
+                        <ptr target="IV/12#1081" type="page"/>
+                        <ptr target="IV/12#1103–1105" type="page"/>
+                        <ptr target="IV/12#1107" type="page"/>
+                        <ptr target="IV/12#1109–1115" type="page"/>
+                        <ptr target="IV/12#1117" type="page"/>
+                        <ptr target="IV/12#1156" type="page"/>
+                        <ptr target="IV/12#1168" type="page"/>
+                        <ptr target="IV/12#1170" type="page"/>
+                        <ptr target="IV/12#1171" type="page"/>
+                        <ptr target="IV/12#1195" type="page"/>
+                        <ptr target="IV/12#1196" type="page"/>
+                        <ptr target="IV/12#1207" type="page"/>
+                        <ptr target="IV/12#1212" type="page"/>
+                        <ptr target="IV/12#1221" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004862">
+                    <idno type="mega">1028502</idno>
+                    <persName type="reg">
+                        <name>Urquijo, Mariano Luis, de</name>
+                    </persName>
+                    <birth>1768</birth>
+                    <death>1817</death>
+                    <note>spanischer Schriftsteller und Politiker; Monarchist; lief während des Unabhängigkeitskrieges (1808–1814) zu den Franzosen über; Ministerpräsident (1808–1813), danach Exil in Frankreich</note>
+                    <linkGrp>
+                        <ptr target="IV/12#618" type="page"/>
+                        <ptr target="IV/12#704" type="page"/>
+                        <ptr target="IV/12#744" type="page"/>
+                        <ptr target="IV/12#1337" type="page"/>
+                        <ptr target="IV/12#1352" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004863">
+                    <idno type="mega">1028503</idno>
+                    <persName type="reg">
+                        <surname>Urquinaona</surname>
+                        <forename>Pedro de</forename>
+                    </persName>
+                    <birth>1778</birth>
+                    <death>1840</death>
+                    <note>spanischer Politiker, Jurist, Historiker und Publizist aus Kolumbien; 1823 Minister für Übersee</note>
+                    <linkGrp>
+                        <ptr target="IV/12#774–789" type="page"/>
+                        <ptr target="IV/12#1025" type="page"/>
+                        <ptr target="IV/12#1041" type="page"/>
+                        <ptr target="IV/12#1049" type="page"/>
+                        <ptr target="IV/12#1375" type="page"/>
+                        <ptr target="IV/12#1380" type="page"/>
+                        <ptr target="IV/12#1387" type="page"/>
+                        <ptr target="IV/12#1388" type="page"/>
+                        <ptr target="IV/12#1398" type="page"/>
+                        <ptr target="IV/12#1419–1422" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004864">
+                    <idno type="mega">1028512</idno>
+                    <persName type="reg">
+                        <name>Usedom, Karl Georg Ludwig Guido, Graf von</name>
+                    </persName>
+                    <birth>1805</birth>
+                    <death>1884</death>
+                    <note>preußischer Diplomat; Gesandter in Italien (1846, 1851–1854 und 1863–1869)</note>
+                    <linkGrp>
+                        <ptr target="I/31#844" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004865">
+                    <idno type="mega">1028522</idno>
+                    <persName type="reg">
+                        <name>Ustrjalov, Nikolaj Gerasimovič (Устрялов)</name>
+                    </persName>
+                    <birth>1805</birth>
+                    <death>1870</death>
+                    <note>russischer Historiker, Professor in St.&#160;Petersburg</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000011687">
+                    <idno type="mega">1028537</idno>
+                    <persName type="reg">
+                        <surname>Uztáriz</surname>
+                        <forename>Gerónimo de</forename>
+                    </persName>
+                    <birth>1670</birth>
+                    <death>1732</death>
+                    <note>spanischer Ökonom</note>
+                    <linkGrp>
+                        <ptr target="IV/12#731" type="page"/>
+                        <ptr target="IV/12#756" type="page"/>
+                        <ptr target="IV/12#1384" type="page"/>
+                        <ptr target="IV/12#1404" type="page"/>
+                        <ptr target="IV/12#1415" type="page"/>
+                    </linkGrp>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

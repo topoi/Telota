@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00097" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>93</idno>Karl Marx an Friedrich Engels in Manchester. London, Montag, 23. April
+          1866</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>IISG</institution>
+            <collection>Marx-Engels-Nachlass</collection>
+            <idno><idno type="shelfmark">L 4449/L VI 587</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              221&#160;×&#160;179&#160;mm. Die Prägung ist nicht deutlich erkennbar.  Die ersten
+              drei Seiten hat Marx vollständig beschrieben, die vierte zu einem Drittel.
+              Schreibmaterial: schwarze Tinte.</p>
+            <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand: Nummerierung des
+              Briefes bzw. der beschriebenen Seiten: „35,1“ bis „35,4“. </p>
+            <p>Marx antwortet auf Engels' Brief vom 13.&#160;April 1866 (Engels an Marx,
+              13.4.1866).</p>
+            <p>Engels beantwortete den Brief am 1.&#160;Mai 1866 (Engels an Marx, 1.5.1866).</p>
+          </physDesc>
+          <additional>
+            <listBibl>
+              <bibl>RGASPI f. 1 op. 1 d. 1961</bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+        <listWit>
+          <witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;313–315.</bibl></witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName>London</placeName>
+          <date when="1866-04-23"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+          <placeName>Manchester</placeName>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-10-31T13:39:13Z</date> | <name>Regina Roth</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingAct">
+        <opener><dateline sameAs="MBDatumszeile"><pb/> 23 April 1866.</dateline><salute sameAs="MBAnrede">Lieber Fred,</salute></opener>
+        <p sameAs="MBTextohneEinzug">mein langes Schweigen wirst Du Dir einfach erklärt haben aus
+          einem Gemüthszustand gepfropft auf unaufhörlichen Zahnschmerz u. Rheumatismus seit mehr
+          als 2&#160;Wochen. Heute scheint jedoch ein Wendepunkt eingetreten.</p>
+        <p sameAs="MBTextmitEinzug">Da der rheumatische Schmerz, namentlich des Nachts stark, sehr
+          mit meinem Schlaf u. der ganzen Hausordnung interferirte, – in Folge wovon ich verschiedne
+          male Erbrechungen hatte –, hielt ich es für gut mit dem Arsenik aufzuhören, resp. zu
+          suspendiren. Ich werde ihn jetzt aber wieder (wenn der Wendepunkt wirklich eingetreten)
+          fortsetzen. Von irgend furunkel- od. karbunkelartigem Unwesen auch nicht die geringste
+          Spur, u. ich habe nicht den geringsten Zweifel, daß, nach Beseitigung dieser incidents,
+          die mehr mit dem Wetter zusammenhängen, ich völlig restaurirt bin. Es ist aber wahrhaftig
+          auch hohe Zeit, <pb/> da ich bereits so viel Zeit verloren habe.</p>
+        <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_swk_lmw_pz"/>Mit dem
+            „<hi rendition="#u">Internat</hi>.“ steht die Sache so: <seg type="comment"><orig>Seit
+              meiner Rückkehr</orig><note xml:id="cb0b5793-b3d2-4324-9d9b-8fba5abf7fa2">Marx kehrte
+              von seinem Erholungsaufenthalt in Margate am 8. April 1866 nach London
+            zurück.</note></seg> ist die Disciplin im Ganzen wieder hergestellt. <seg type="comment"><orig>Auch hat die <add>erfolgreiche</add> Einmischung der „Intern.“ in <del> die
+                  <sic ana="#break-off"/></del> den Schneiderstrike (durch Briefe der <expan resp="editor" sameAs="dottet_underline">Secret<ex>äre</ex></expan> für Fkch, Belgien
+              u.s.w.) Sensation unter den hiesigen <expan resp="editor" sameAs="dottet_underline">Tr<ex>ades</ex></expan> Unions gemacht.</orig><note xml:id="aaa785b0-040b-4650-8a8f-dad401bdbf2e">Seit Sommer 1865 forderten Londoner
+              angestellte Schneider eine Erhöhung der Löhne und die Senkung ihrer Arbeitszeit. In
+              der Sitzung des Zentralrats der IAA am 27.&#160;März 1866 wurde ein am 26._März
+              beschlossene Streik und der Plan der Unternehmer, Schneider aus anderen Städten sowie
+              vom Kontinent als Streikbrecher nach England zu holen, thematisiert. Der Zentralrat
+              beschloss, die kontinentalen Arbeiter in den entsprechenden Ländern durch die
+              Korrespondierenden Sekretäre darüber zu informieren. Dank der allseitigen
+              Unterstützung wurde der Streik erfolgreich beendet. Siehe dazu auch: Karl Marx:
+              Warnung (MEGA² I/20. S.&#160;204/205). (((lMarx,Karl: Warnung. In: MEGA²&#160;I/20.
+              S.&#160;204/205)_))) Die wirkungsvolle Unterstützung der IAA führte zum Beitritt der
+              London Operative Tailors’ Protective Association zur IAA. Siehe Protokoll der Sitzung
+              des Zentralrats vom 17.&#160;April 1866 (The_Minute Book 1864–1866. In:
+              MEGA²&#160;I/20. S. &#160;395.20–25 und 401.9–15). (((lThe_Minute Book 1864–1866. In:
+              MEGA²&#160;I/20. S._265–450))) </note></seg> Mit Bezug auf den Genf. Congress habe ich
+          mich entschlossen hier, so weit ich kann, <seg type="comment"><orig>zu seinem Gelingen
+              beizutragen, aber nicht selbst hinzugehn.</orig><note xml:id="nops_vby_wy">Zu Marx’
+              Mitwirkung an der Vorbereitung Des Genfer Kongresses der IAA siehe <ref target="B00163">Marx an L. Kugelmann,
+                23.8.<?oxy_comment_start author="reichhoff" timestamp="20170320T171340+0100" comment="{{Br. 159}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00183">9.10.<?oxy_comment_start author="reichhoff" timestamp="20170320T171500+0100" comment="{{Br. 178}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          Ich schüttle damit alle persönliche Verantwortlichkeit für seine Leitung ab.</p>
+        <anchor type="verweisziel" xml:id="stop_swk_lmw_pz"/>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Was den „<bibl sameAs="zzThe Commonwealth">Commonwealth“</bibl> angeht, so wären die encroachments
+              von <seg type="comment"><orig><persName key="ed_z5s_ptj_wx">Miall</persName> et
+                  Co.</orig><note xml:id="naw5_1nn_cy"><persName key="ed_z5s_ptj_wx">Arthur
+                    Miall</persName>. </note></seg> erträglicher, wenn sie wenigstens auf dem
+              Vorwand wirklich nennenswerther Geldleistungen ruhten. Aber die Kerls sind sehr
+              verschwenderisch mit gutem Rath u. Nörgeleien, sehr sparsam mit cash, so daß die
+              Existenz <expan resp="editor" sameAs="dottet_underline">d<ex>es</ex></expan> Blatts
+              durchaus nur von Woche zu Woche gefristet wird. Sein Leserkreis dehnt sich wöchentlich
+              aus, aber ein Pennypaper muß bei dem besten Erfolg wenigstens für ein Jahr <add>im
+                voraus</add> fundirt sein. In kürzerer Zeit es selfsupporting zu machen ist quite
+              out of question. Wenn das Blatt einstweilen noch nicht schlechter ist, als es ist, so
+              ist das nur <persName key="pdrPo.001.004.000001603">Fox</persName> zu verdanken, der
+              <pb/> fortwährenden Kampf zu führen hat.</orig><note xml:id="ce447a15-42dd-414a-bad5-2f32ca32818e">Zur Zeitung „The Commonwealth" siehe
+                <ref target="B00007/#nmrb_qzn_4y">Erl. zu Marx an J. Ph. Becker, zwischen 9. und
+                15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T133043+0200" comment="{{Erl. 6f}}."?>
+              <?oxy_comment_end?>(((zThe_Commonwealth))) </note></seg></p>
+        <p sameAs="MBTextmitEinzug">Im Vaterland scheint es für einstweilen doch nicht zum Klopfen
+          zu kommen. Bevor preussische Großmäuligkeit sich entschließt das Schwerdt zu ziehn! Unter
+          allen Umständen haben wir den Genuß preussischer Blamage vor In- und Ausland. Mit alledem
+          scheint es immer noch fraglich, ob's nicht einen schönen Morgen zum Krieg kommt. Die
+          Russen (obgleich sie in der That schon viel gewonnen haben u. gewinnen durch den blossen
+          Zank u. Kriegsdrohung in Dtschd) wollen Krieg, u. für <expan resp="editor" sameAs="dottet_underline"><persName key="pdrPo.001.004.000003392">Bon<ex>aparte</ex></persName></expan> wäre er ein godsend. Jedenfalls hat Herr
+            <persName key="pdrPo.001.004.000000441">Bismarck</persName> „die Bewegung“ in <subst>
+            <del>Preussen</del>
+            <add>Dtschld</add>
+          </subst> wieder eröffnet.</p>
+        <p sameAs="MBTextmitEinzug">Nach der Phase des Bürgerkriegs sind die U.&#160;St. eigentlich
+          jetzt erst in die revolut. Phase getreten u. die europ. wiseacres, die an die Allmacht des
+          Herrn <persName key="pdrPo.001.004.000002380">Johnson</persName> glauben, werden bald
+          enttäuscht sein.</p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>In England verdienen die Tories u.
+              Palmerstonian Whigs wirklich Dank dafür, daß sie das stille <persName key="pdrPo.001.004.000004124">Russellsche</persName> settlement
+              vereiteln.</orig><note xml:id="f941b872-3526-4946-833f-46483a82ac90">Marx meint hier
+              einen von Schatzkanzler <persName key="pdrPo.001.004.000001797">Gladstone</persName>
+              eingereichten Gesetzentwurf zur Wahlrechtsreform der Regierung <persName key="pdrPo.001.004.000004124">Russell</persName>, der bei Tories und konservativen
+              Liberalen („Palmerstonian Whigs“) (((lTemple,H.J.Palmerston))) auf Widerstand
+              stieß.</note></seg>
+          <seg type="comment"><orig>Herr <pb/>
+              <persName key="pdrPo.001.004.000001797">Gladstone</persName> selbst sprach in einer
+              der letzten Sitzungen seine „melancholische“ Ueberzeugung aus, daß nun, ganz im
+              Gegensatz zu seinen wohlwollenden Erwartungen, eine „lange Reihe von Kämpfen“
+              bevorstehe.</orig><note xml:id="be49736d-8f71-415d-96ea-b7440a22166f">Siehe London,
+              Friday, April_13, 1866. In: The_Times. London. Nr._25_471, 13._April 1866. S._9; The
+              first note of passion_… [Leitart.] Ebenda; There has been on the part of Ministers_…
+              [Leitart.] Ebenda; The Second Reading. In: The_Times. London. Nr._25_472, 14._April
+              1866. S._11. (((lLondon, Friday, April_13, 1866. In: The_Times. London. Nr._25_471,
+              13._April 1866. S._9))) (((lThe_first note of passion_… [Leitart.] In: The_Times.
+              London. Nr._25_471, 13._April 1866. S._9))) (((lThere has been on the part of
+              Ministers_… [Leitart.] In: The_Times. London. Nr._25_471, 13._April 1866. S._9)))
+              (((lThe_Second Reading. In: The_Times. London. Nr._25_472, 14._April 1866. S._11)))
+              Siehe auch [William Ewart Gladstone] The_Chancellor of the Exchequer: I rise, Sir, to
+              move the second reading of the Representation of the People Bill, … In: Hansard’s
+              Parliamentary Debates. House of Commons Sitting of 12._April 1866. Ser._3. Vol._182.
+              Sp._1124-1149. (((lGladstone,_William Ewart] The_Chancellor of the Exchequer:_I rise,
+              Sir, to move the second reading of the Representation of the People Bill,_… In:
+              Hansard’s Parliamentary Debates. House of Commons Sitting of 12._April 1866. Ser._3.
+              Vol._182. London_1866. Sp._1124-1149))) </note></seg></p>
+        <p sameAs="MBTextmitEinzug">Was sagst Du zu dem <seg type="comment"><orig>„8.“ Weltweisen –
+                <hi rendition="#u"><persName key="pdrPo.001.004.000003212">Mill</persName>?</hi></orig><note xml:id="da4f3f49-94e9-4446-87c0-6f6fb8a3b641">Siehe
+              The Malt Duty. In: The Times. London. Nr. 25 475, 18. April 1866. S. 6; London,
+              Wednesday, April 18, 1866. Ebenda. S. 8/9; The debate on the Malt Duty ... [Leitart.]
+              Ebenda. S. 9. (((lThe Malt Duty. In: The Times. London. Nr. 25 475, 18. April 1866. S.
+              6))) (((lLondon, Wednesday, April 18, 1866. Ebenda. S. 8/9))) (((lThe debate on the
+              Malt Duty ... [Leitart.] Ebenda. S. 9.))) Siehe auch J[ohn] Stuart Mill: In rising to
+              second the Amendment ... In: Hansard's Parliamentary Debates. Commons Sitting of 17
+              April 1866. Ser. 3. Vol. 182. London 1866. Sp. 1524-1528. (((lMill, J[ohn] Stuart: In
+              rising to second the Amendment ... In: Hansard's Parliamentary Debates. Commons
+              Sitting of 17 April 1866. Ser. 3. Vol. 182. London 1866. Sp. 1524-1528.)))
+            </note></seg></p>
+        <p sameAs="MBTextmitEinzug">Gruß an <seg type="comment"><orig><persName key="pdrPo.001.004.000000698">Mrs Lizzy</persName>.</orig><note xml:id="njlg_5f1_dy"><persName key="pdrPo.001.004.000000698">Lydia Burns</persName>.</note></seg></p>
+        <closer sameAs="MBUnterschrift">Tout à vous<lb/>KM. </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

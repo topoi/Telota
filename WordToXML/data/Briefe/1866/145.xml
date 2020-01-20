@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00149" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>145</idno>Karl Marx an Friedrich Engels in Manchester. London, Dienstag, 7. August 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4459/L VI 590</idno></idno></msIdentifier><physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            224&#160;×&#160;178&#160;mm. Die erste, dritte und vierte Seite hat Marx
+                            vollständig beschrieben, die zweite ist leer. Schreibmaterial: schwarze
+                            Tinte.</p>
+                        <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand:
+                            Numerierung  der beschriebenen Seiten: „45,1“ bis „45,3“.
+                            <?oxy_comment_start author="lindenberg" timestamp="20170424T144645+0200" comment="Von Eduard Bernsteins Hand: Numerierung des Briefes bzw. der beschriebenen Seiten: „45,1“ bis „45,3“."?></p>
+                        <?oxy_comment_end?>
+                        <p>Marx beantwortet Engels’ Brief vom 6.&#160;Juli 1866 (Br.&#160;144),
+                            Engels antwortete ihn am 10.&#160;August 1866 (Br.&#160;146).</p>
+                    </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1984</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;341–343.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-08-07"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:45Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 7 August. 1866.</dateline><salute sameAs="MBAnrede">Lieber Fred,</salute></opener><p sameAs="MBTextohneEinzug">Du hast <seg type="comment"><orig>aus meinem letzten Brief</orig><note xml:id="fbb0f8f1-5167-4e11-8504-b1133d804e94">Siehe <ref target="B00146">Marx an Engels,
+                                27.7.<?oxy_comment_start author="reichhoff" timestamp="20170405T191506+0200" comment="{{Br. 142}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    richtig erkannt, daß mein Gesundheitszustand verbessert, obgleich er täglich
+                    auf- u. abschwankt. Indeß das Gefühl wieder arbeitsfähig zu sein does much for a
+                    man. <del> Was <sic ana="#break-off"/></del>
+                    <anchor type="verweisziel" xml:id="start_ib2_bvn_tz"/>Leider bin ich beständig
+                    durch social troubles unterbrochen u. verliere viele Zeit. So z.&#160;B. heute
+                    hat der Metzger die Fleischzufuhr suspendirt u. wird selbst mein Vorrath von
+                    Papier bis Sonnabend zu End sein.<anchor type="verweisziel" xml:id="stop_ib2_bvn_tz"/></p><p sameAs="MBTextmitEinzug"><persName key="pdrPo.001.004.000003076"><anchor type="verweisziel" xml:id="start_dw5_j5n_tz"/><anchor type="verweisziel" xml:id="start_zxs_n2w_tz"/>Laura</persName> ist seit gestern halb
+                    versagt an <seg type="comment"><orig>Mons. Lafargue,</orig><note xml:id="ncmx_cts_gz"><persName key="pdrPo.001.004.000002648">Paul
+                                Lafargue</persName>. </note></seg> meinen medizinischen
+                        Creolen.<anchor type="verweisziel" xml:id="stop_dw5_j5n_tz"/> Sie behandelte
+                    ihn wie die andern, aber die <subst>
+                        <del>Excesse</del>
+                        <add>Gemüthsexcesse</add>
+                    </subst> solcher Creolen, etwas Furcht, daß der jeune homme (er ist 25&#160;J.)
+                    sich umbringen würde u.s.w., etwas Zuneigung für ihn, kalt wie immer bei Laure
+                    (er ist ein hübscher, intelligenter, energischer u. gymnastisch entwickelter
+                    Bursche) haben mehr oder minder zu einem halben Compromiß geführt. Der Junge
+                    attachirte sich erst an mich, übertrug aber bald die attraction vom Alten auf
+                    die Tochter. Seine ökonomischen Verhältnisse sind mittlerer Natur, da er das
+                    einzige Kind einer früheren Pflanzerfamilie. Er ist rayé de l'université de
+                    Paris pour deux ans, wegen <seg type="comment"><orig>des Congrès à
+                            Liège</orig><note xml:id="a5ac2ef5-b8dc-44c0-8e4f-f71c813134fc">Zum
+                            Internationalen Studentenkongress in Liège siehe <ref target="B00003/#fdf0e9a1-43c7-49a4-953f-de75b43bccda">Erl. zu Engels
+                                an Marx,
+                                4.1.<?oxy_comment_start author="reichhoff" timestamp="20170516T160518+0200" comment="{{Erl. 2g}}"?>1866<?oxy_comment_end?></ref></note></seg>,
+                    will aber sein Examen zu Straßburg machen. Nach meinem Urtheil hat er
+                    ausserordentliches Talent für die Medizin, worin er jedoch unendlich skeptischer
+                    als unser Freund <persName key="pdrPo.001.004.000001969">Gumpert</persName>. Der
+                    medizinische Skepticismus scheint in Paris bei Professoren u. <pb/> Studenten an
+                    der Tagesordnung. Z.&#160;B. <persName key="pdrPo.001.004.000002977">Magendie</persName>, der alle Therapeutik, im jetzigen state, für
+                    Scharlatenerie erklärt. Dieser Skepticismus schließt, wie immer, crotchets nicht
+                    nur nicht aus, sondern ein. <persName key="pdrPo.001.004.000002648">Lafargue</persName> z.&#160;B. glaubt an den Alkohol u. die Electrizität
+                    als Hauptheilmittel. Er hat glücklicher Weise an Prof. <persName key="ed_m4r_ttn_hz">Carrère</persName>, <del rendition="#s">auch</del>
+                    Flüchtling (hautes mathématiques, Physik u. Chemie) einen guten Rathgeber, u.
+                    wird praktisch in den Londoner Hospitälern viel lernen können. Ich habe ihm dazu
+                    durch eine dritte Person den Zugang verschafft.<anchor type="verweisziel" xml:id="stop_zxs_n2w_tz"/></p><p sameAs="MBTextmitEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_yjh_t5n_tz"/><orig>Ein sehr bedeutendes Werk, das ich Dir (aber unter Bedingung des
+                            Zurückschickens, da es nicht mein Eigenthum) schicken werde, sobald ich
+                            die nöthigen Noten gemacht, ist: „<hi rendition="#u"><persName key="ed_mly_4vn_hz">P.&#160;Trémaux</persName></hi><hi rendition="#u">: Origine et Transformations de l'homme et des autres
+                                êtres. Paris. 1865.“</hi></orig><note xml:id="ncfd_nts_gz">P[ierre]
+                            Trémaux: Origine et transformations de l’homme et des autres êtres.
+                            Pt._1. Paris_1865. Zum Meinungsaustausch über das Buch siehe Engels an
+                            Marx, <ref target="B00150/#start_aqv_cjn_tz">10.8.<?oxy_comment_start author="reichhoff" timestamp="20170502T105518+0200" comment="{{Br. 146.7–9}}"?>1866<?oxy_comment_end?></ref>,
+                            Marx an Engels, <ref target="B00155">13.8.<?oxy_comment_start author="reichhoff" timestamp="20170502T105624+0200" comment="{{Br. 151.14–17}}"?>1866<?oxy_comment_end?></ref>,
+                            Engels an Marx, <ref target="B00180">2.10.<?oxy_comment_start author="reichhoff" timestamp="20170502T105747+0200" comment="{{Br. 175.10–29}}"?>1866<?oxy_comment_end?></ref>,
+                            Marx an Engels, <ref target="B00181/#start_qzp_rjn_tz">3.10.<?oxy_comment_start author="reichhoff" timestamp="20170502T105942+0200" comment="{{Br. 176.22–41)"?>1866<?oxy_comment_end?></ref>,
+                            Engels an Marx, <ref target="B00182/#start_hkd_bkn_tz">5.10.<?oxy_comment_start author="reichhoff" timestamp="20170502T110223+0200" comment="{{Br. 177.9–67}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00183/#start_sgk_3kn_tz">Marx an L. Kugelmann,
+                                9.10.<?oxy_comment_start author="reichhoff" timestamp="20170502T110429+0200" comment="{{Br. 178.67–71}}"?>1866<?oxy_comment_end?></ref>.
+                            (((lTrémaux,P[ierre]: Origine et transformations de l’homme et des
+                            autres êtres. Pt._1. Paris
+                        1865)))</note></seg><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(((lTrémaux,P<supplied cert="high">ierre</supplied>: Origine et transformations de l’homme et des
+                    autres êtres. Pt._1. Paris 1865)))<?oxy_custom_end?> Es ist, trotz aller Mängel,
+                    die mir auffallen, ein <hi rendition="#u">sehr bedeutender</hi> Fortschritt über
+                        <seg type="comment"><orig><persName key="pdrPo.001.004.000001091">Darwin</persName>.</orig><note xml:id="nxwk_tts_gz">Charles Darwin:
+                            On the origin of species by means of natural selection, or the
+                            preservation of favoured races in the struggle for life. London 1859.
+                            (((lDarwin,Charles: On the origin of species by means of natural
+                            selection, or the preservation of favoured races in the struggle for
+                            life. London 1859)))</note></seg>
+                    <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(((lDarwin:
+                    On the Origin.1859)))<?oxy_custom_end?> Die zwei Hauptsätze sind: Die
+                    croisements produciren nicht, wie man meint, die Differenz, sondern umgekehrt
+                    die typische Einheit der espèces. Die Erdformation <hi rendition="#u">differenzirt</hi> dagegen. (nicht allein, aber als Hauptbasis.) Der
+                    Fortschritt, der bei <persName key="pdrPo.001.004.000001091">Darwin</persName>
+                    rein zufällig, hier nothwendig, auf der Basis der Entwicklungsperioden des
+                    Erdkörpers. Die dégénerescence, die Darwin nicht erklären kann, hier einfach;
+                    ditto das so rasche Erlöschen blosser Uebergangsformen, verglichen mit der
+                    Langsamkeit der Entwicklung des Typus der espèce, so daß die <add place="superlinear">Lücken der</add> Paläontologie, die den Darwin stören,
+                    hier nothwendig. Ditto als nothwendiges Gesetz entwickelt <pb/> die Fixität<del>
+                        der <sic ana="#break-off"/></del> (von individuellen u.s.w. Variations
+                    abgesehn) der <add place="superlinear">einmal constituirten</add> espèce. Die
+                    Schwierigkeiten der Hybridation bei <persName key="pdrPo.001.004.000001091">Darwin</persName> hier umgekehrt Stützen des Systems, da nachgewiesen wird,
+                    daß <subst>
+                        <del>die</del>
+                        <add>eine</add>
+                    </subst> espèce in der That erst constituirt ist, sobald das croisement mit
+                    andern aufhört fruchtbar oder möglich zu sein u.s.w.</p><p sameAs="MBTextmitEinzug">In der geschichtlichen u. politischen Anwendung viel bedeutender u.
+                    reichhaltiger als <persName key="pdrPo.001.004.000001091">Darwin</persName>. Für
+                    gewisse Fragen, wie Nationalität etc hier allein Naturbasis gefunden. Z.&#160;B.
+                    corrigirt er <seg type="comment"><orig>den Polen <persName key="pdrPo.001.004.000001232">Duchinski</persName>, dessen Sachen
+                            über die geologischen <del> Na <sic ana="#break-off"/></del> Differenzen
+                            zwischen Rußland u. den Westslaven er übrigens bestätigt, dahin, daß
+                            nicht, wie dieser glaubt, die Russen keine Slaven, <subst>
+                                <del>sondern</del>
+                                <add>vielmehr</add>
+                            </subst> Tartaren u.s.w.,</orig><note xml:id="nszc_f5s_gz">Marx’ Urteil
+                            über die Ansichten Franciszek Duchińskis zur Herkunft der Slawen siehe
+                            MEGA²_III/13. Br. 265.88–117 und Marx an Louis Kugelmann, 17. Februar
+                            1870 (IISG, Marx-Engels-Nachlass, Sign. C 365/C_124). (((lMarx an
+                            Engels, 24. Juni 1865 (MEGA²_III/13. Br. 265.88–117))) (((lMarx an Louis
+                            Kugelmann, 17. Februar 1870 (IISG, Marx-Engels-Nachlass, Sign. C
+                            365/C_124) ))) - Marx konnte die Ideen Duchińskis aus den folgenden
+                            seiner Werke kennenlernen: Les origines slaves. Pologne et Ruthénie.
+                            Paris 1861; Peuples Aryâs et Tourans. Agriculteurs et Nomades. Nécessité
+                            des réformes dans l’exposition de l’histoire des peuples Aryâs-Européens
+                            &amp; Tourans. Particulièrement des Slaves et de Moscovites. Paris 1864.
+                            (((lDuchiński,F[ranciszek] H[enryk]:Peuples Aryâs et Tourans.
+                            Agriculteurs et Nomades. Nécessité des réformes dans l’exposition de
+                            l’histoire des peuples Aryâs-Européens &amp; Tourans. Particulièrement
+                            des Slaves et de Moscovites. Paris 1864)))
+                            (((l[Duchiński,Franciszek_Henryk:] Les origines slaves. Pologne et
+                            Ruthénie. Paris 1861)))</note></seg> sondern daß auf der in Rußland
+                    vorherrschenden Bodenformation sich der Slav tartarisirt u. mongolisirt, wie
+                        <del> Neg <sic ana="#break-off"/></del> er (er war lang in Afrika)
+                    nachweist, <del> wie <sic ana="#break-off"/></del> daß der gemeine Negertyp nur
+                    Degenereszens eines viel höhern ist. <seg type="comment"><orig>„hors des grandes
+                            lois de la nature, les projets des hommes ne sont que calamités, <expan resp="editor" sameAs="dottet_underline">témoin<ex>s</ex></expan> les
+                            efforts des czars pour faire du peuple polonais des Moscovites. Même
+                            nature, mêmes facultés, renaîtront sur un même sol. L'œuvre de
+                            destruction ne saurait toujours durer, l'œuvre de reconstitution est
+                            éternelle. … Les races slaves et lithuaniennes ont avec les Moscovites,
+                            leur véritable limite dans la grande ligne géologique qui existe au nord
+                            des bassins du Niémen et du Dnièper … Au sud de cette grande ligne
+                                <supplied cert="high">géologique</supplied>: les aptitudes et les
+                            types propres à cette région sont et demeureront toujours différents de
+                            ceux de la Russie.“</orig><note xml:id="nt1z_45s_gz"><anchor type="verweisziel" xml:id="stop_yjh_t5n_tz"/>P[ierre] Trémaux:
+                            Origine et transformations de l'homme et des autres êtres. Pt. 1. Paris
+                            1865. S. 402, 420/421. (((lTrémaux,P[ierre]: Origine et transformations
+                            de l’homme et des autres êtres. Pt._1. Paris 1865)))</note></seg></p><p sameAs="MBTextmitEinzug">Salut</p><closer sameAs="MBUnterschrift"><signed>D KM </signed></closer></div></body></text></TEI>

@@ -1,0 +1,22 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00098" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>94</idno>Sigismund Ludwig Borkheim an Karl Marx in London. London, Donnerstag, 26. April 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 441/D I 111 Fotosign. 9664.</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              261&#160;×&#160;204&#160;mm. Wasserzeichen: „I &amp; F&#160;H 1865“. Aufdruck der
+              Firma Schröder &amp; Schÿler &amp; C<hi rendition="#sup">o</hi> auf der ersten Seite
+              (siehe S. L. Borkheim an Marx, 8.1.1866). Borkheim hat die erste Seite vollständig
+              beschrieben, die übrigen drei sind leer. Schreibmaterial: schwarze Tinte.
+              <?oxy_comment_start author="lindenberg" timestamp="20170421T172430+0200" comment="(((nSchröder &amp; Schÿler &amp; Co)))  Noch mit dem Register verbinden"?></p>
+            <?oxy_comment_end?>
+            <p>Borkheim beantwortet einen nicht überlieferten Brief von Marx vom 23.&#160;April 1866
+              („Ihre Zeilen vom 23sten“).</p>
+          </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1653</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName><placeName>London</placeName><date when="1866-04-26"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:13Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/>
+            <hi rendition="#mPrint">65, Fenchurch Street, E.C.&#160;</hi></dateline><dateline sameAs="MBDatumszeile"><hi rendition="#mPrint">London, </hi> 26 April 1866</dateline><salute sameAs="MBAnrede">Lieber Marx,</salute></opener><p sameAs="MBTextohneEinzug">Dank für Ihre Zeilen vom 23sten, aus denen ich zuvörderst mit Vergnügen ersehe, daß Sie einer gefährlichen Krankheit glücklich entronnen sind.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Sobald meine <persName key="pdrPo.001.004.000000541">Frau</persName> im
+                                                  Stande sein wird, Besuche zu
+                                                empfangen,</orig><note xml:id="f837e04f-6da2-43ed-b16f-0c048e7172be">Am
+                                                  4.&#160;April 1866 gebar <persName key="pdrPo.001.004.000000541">Hannah
+                                                  Borkheim</persName> ihren Sohn <persName key="pdrPo.001.004.000010218">Frederick</persName>. Siehe <ref target="B00096">S. L. Borkheim an Marx,
+                                                  21.4.<?oxy_comment_start author="reichhoff" timestamp="20170320T171702+0100" comment="{{Br. 92}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        werde ich Ihnen davon Mittheilung machen. Sie wird sich sehr
+                                        freuen M<hi rendition="#sup">rs</hi>
+                                        <persName key="pdrPo.001.004.000003075">Marx</persName> zu
+                                        sehen. Leider geht es noch sehr langsam mit ihr, jedoch ohne
+                                        Gefahr.</p><p sameAs="MBTextmitEinzug">In der nächsten Woche gehe ich auf einige Tage zur Erholung ins Weite – wohl an den Rhein. – Lassen Sie sich doch sehen – Sonnabend oder Montag u. Dienstag – Mittwoch hoffe ich verschwinden zu können. Freundliche Grüße von uns an Sie und alle Ihre Lieben.</p><closer sameAs="MBUnterschrift">Ihr<lb/>Borkheim. </closer></div></body></text></TEI>

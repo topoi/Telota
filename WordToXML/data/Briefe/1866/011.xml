@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00012" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>11</idno>Karl Marx an Louis Kugelmann in Hannover. London, Montag, 15.
+                    Januar 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">C 330/C 89</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            253&#160;×&#160;204&#160;mm. Wasserzeichen: „Joynson 1864“. Marx hat die
+                            erste und dritte Seite vollständig beschrieben, die zweite und vierte
+                            sind leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von Kugelmans Hand: Vermerk mit der Tinte auf der vierten Seite oben
+                            rechts: „A.&#160;23/24/2 cop.“.</p>
+                        <p>Von unbekannter Hand: die Passage „Glück“ bis „sollen.“  mit Rotstift
+                            beklammert.</p>
+                        <p/>
+                        <p>Die Beilage („Ich lege zwei Karten ...“) ist nicht überliefert. Siehe
+                            Erl.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 1926</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl>Erstveröffentlichung: gekürzt: Briefe von Karl Marx an
+                            Dr.&#160;L.&#160;Kugelmann (1902). S.&#160;32</bibl>.</witness>
+                    <witness><bibl>vollständig: in russischer Übersetzung: Письма Маркса к
+                            Кугельману (1928). S.&#160;11/12</bibl>.</witness>
+                    <witness><bibl>in der Sprache des Originals: Karl Marx: Briefe an Kugelmann
+                            (1940). S.&#160;25/26.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                    <date when="1866-01-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName>
+                    <placeName>Hannover</placeName>
+                </correspAction>
+                <note>Marx beantwortet den Brief Kugelmanns vom 20.&#160;Dezember 1865 (MEGA²
+                    III/13. Br.&#160;349). Kugelmann antwortete auf Marx’ Brief am 23.&#160;Februar
+                    1866 <ref target="B00048">(Kugelmann an Marx, 23.2.1866).</ref></note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:38:16Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener><dateline sameAs="MBDatumszeile"><pb/> 15 Jan. 1866.<lb/>1, Modena Villas,
+                    Maitland Park,<lb/>Haverstock Hill, London.</dateline><salute sameAs="MBAnrede">Lieber Freund,</salute></opener>
+                <p sameAs="MBTextohneEinzug">Glück auf zum neuen Jahr u. besten Dank für Ihren
+                    freundlichen Brief.</p>
+                <p sameAs="MBTextmitEinzug">Sie müssen die Kürze dieser Zeilen durch augenblickliche
+                    Ueberbeschäftigung entschuldigen. <anchor type="verweisziel" xml:id="start_csg_yyx_nz"/>Das nächstemal schreib ich ausführlicher.<anchor type="verweisziel" xml:id="stop_csg_yyx_nz"/></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_yy2_qzt_4z"/><orig>Ich lege zwei Karten bei</orig><anchor type="verweisziel" xml:id="stop_yy2_qzt_4z"/><note xml:id="e5620501-ff4b-4248-8f8a-667d4c4557bb">Siehe <ref target="B00011/#cb864592-8d8a-4a93-b073-8383b8d607bc">Erl. zu Marx
+                                an W. Liebknecht, 15.1.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170511T152917+0200" comment="{{Erl. 10c}}."?>
+                            <?oxy_comment_end?><persName key="pdrPo.001.004.000002616">Louis
+                                Kugelmann</persName> hatte im Brief an Marx vom 20.&#160;Dezember
+                            1865 um Karten gebeten (MEGA² III/13. Br.&#160;349.52–60).
+                            (((lMEGA²&#160;III/13))) </note></seg> und theile Ihnen im nächsten
+                    Brief die <del> Ver <sic ana="#break-off"/></del>
+                    <seg type="comment"><orig>Fragen mit, die auf dem öffentlichen Congreß zu
+                            Genf,</orig><note xml:id="ndfg_lmd_gy">Zur Tagesordnung des Genfer
+                            Kongresses der IAA siehe <ref target="B00011/#cb6257b2-2909-4791-9e58-f0e26b41c4a8">Erl. zu Marx
+                                an W. Liebknecht,
+                            15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170511T153130+0200" comment="{{}Erl. 10j}."?></note><?oxy_comment_end?></seg>
+                    Ende Mai, verhandelt werden sollen.</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Unsere
+                            Gesellschaft</orig><note xml:id="nedz_jnd_gy">Die IAA.</note></seg> hat
+                    grosse Fortschritte gemacht. Sie besitzt bereits 3 officielle Organe, ein
+                    Londoner <hi rendition="#u">„The Workman’s </hi><bibl sameAs="zzThe Workman’s Advocate"><hi rendition="#u">Advocate“</hi></bibl>,
+                    ein Brüsseler <hi rendition="#u"><bibl sameAs="zzLa Tribune du Peuple">„La
+                            Tribune du Peuple“</bibl></hi>, eins der französischen Sektion in <expan resp="editor" sameAs="dottet_underline">d<ex>er</ex></expan> Schweiz, <hi rendition="#u"><bibl sameAs="zzJournal de l’Association Internationale des Travailleurs">„Journal de l’assoc. intern. des Travailleurs, Section de la Suisse
+                            Romande“</bibl></hi> (Genf) u. ein Journal der Deutsch-Schweizer Sektion
+                        <hi rendition="#u"><bibl sameAs="zzDer Vorbote">„Der Vorbote“</bibl></hi>
+                    wird in einigen Tagen unter der Redaction v.&#160;<hi rendition="#u"><persName key="pdrPo.001.004.000000317">J.P.&#160;Becker</persName></hi> erscheinen. (Adresse: 6,
+                    rue du Mole, Genf. J.P.&#160;Becker, im Fall Sie ihm gelegentlich eine
+                    Correspondenz, politisch od. social, liefern wollten.)</p>
+                <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_n2f_snp_mz"/>Es
+                    ist uns gelungen, die einzig wirklich grosse Arbeiterorganisation, die
+                    englischen <hi rendition="#u">„Trade Union’s“</hi>, die <add>sich</add> früher
+                        <hi rendition="#u">ausschließlich</hi> mit der Lohnfrage beschäftigten, in
+                    die Bewegung zu ziehn. Mit Hülfe derselben hielt die <del> für <sic ana="#break-off"/></del> von uns zur Durchführung des<hi rendition="#u">
+                        Universal Suffrage</hi> gestiftete <seg type="comment"><orig>englische <pb/>
+                            Gesellschaft</orig><note xml:id="naz1_tsd_gy">Die Reform League. Siehe
+                            auch <ref target="B00007/#start_ufc_p55_mz">Marx an J. Ph. Becker,
+                                zwischen 9. und
+                                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170408T104936+0200" comment="{{Br. 6.51-56}}"?>1866<?oxy_comment_end?>
+                            </ref>und <ref target="B00007/#de3efba0-912a-4f0d-9099-88a83e4b4163">Erl. zu Marx an J. Ph. Becker, zwischen 9. und
+                                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170408T104936+0200" comment="{{Br. 6.51-56}}"?>1866<?oxy_comment_end?>.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170512T093714+0200" comment="{{Erl. 6y}}."?>
+                            <?oxy_comment_end?></note>
+                    </seg> (das Centralcomité besteht zur Hälfte aus Mitgliedern – Arbeitern –
+                    unsres Centralcomités) vor einigen Wochen ein Riesenmeeting, worin nur Arbeiter
+                    sprachen. Den Effect können sie daraus ersehn, daß <seg type="comment"><orig>die
+                                <hi rendition="#u"><bibl sameAs="zzThe Times">Times</bibl></hi>, in
+                            zwei auf einander folgenden Nummern, sich mit diesem Meeting in ihren
+                            leaders beschäftigte.<anchor type="verweisziel" xml:id="stop_n2f_snp_mz"/></orig><note xml:id="f9a3df8c-277b-4eba-a4a8-53a21037ace3">Last night
+                            a meeting&#160;... In: The Times. London. Nr.&#160;25&#160;367,
+                            13.&#160;Dezember 1865. S.&#160;5; (((lLast night a meeting&#160;... In:
+                            The Times. London. Nr.&#160;25&#160;367, 13.&#160;Dezember 1865.
+                            S.&#160;5.))) und They who remember&#160;... [Leitart.] Ebenda.
+                            Nr.&#160;25&#160;368, 14.&#160;Dezember 1865. S.&#160;8. (((lThey who
+                            remember&#160;... [Leitart.] In The Times. London. Nr.&#160;25&#160;368,
+                            14.&#160;Dezember 1865. S.&#160;8))) </note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Was meine Schrift angeht, so
+                            bin ich jetzt 12&#160;Stunden per Tag mit ihrer Reinschrift beschäftigt.
+                                <anchor type="verweisziel" xml:id="start_w23_4yx_nz"/>Ich denke das
+                            Mscpt des ersten Bandes selbst im März nach Hamburg zu bringen u. Sie
+                            bei der Gelegenheit zu sehn.</orig><anchor type="verweisziel" xml:id="stop_w23_4yx_nz"/><note xml:id="acac255e-96a0-4ab4-b0a2-52961d8c78dc">
+                            <p rend="endnote text">Gemeint ist hier Karl Marx: Das Kapital; siehe
+                                    <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu
+                                    Marx an J. Ph. Becker, zwischen 9. und
+                                    15.1.<?oxy_comment_start author="reichhoff" timestamp="20170408T104936+0200" comment="{{Br. 6.51-56}}"?>1866<?oxy_comment_end?>.</ref>
+                                <?oxy_comment_start author="lindenberg" timestamp="20170512T094041+0200" comment="{{Erl. 6b}}."?>
+                                <?oxy_comment_end?>(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867))). -
+                                Siehe auch MEGA² III/13. Br. 349.45–47.</p>
+                        </note></seg></p>
+                <p sameAs="MBTextmitEinzug">Die Katzen sprünge <seg type="comment"><orig>des
+                            Nachfolgers von <persName key="pdrPo.001.004.000003245">Justus v.
+                                Möser</persName>
+                        </orig><note xml:id="nkk2_nwd_gy"><persName key="pdrPo.001.004.000003226">Johannes Miquel</persName>. </note></seg>haben mich sehr amüsirt.
+                        <seg type="comment"><orig>Wie armselig muß doch ein Mann von Talent sein,
+                            der in dergleichen Bagatellen Befriedigung sucht u. findet!</orig><note xml:id="bd219c07-b1a2-4aca-890d-07db033dd58a">Siehe MEGA² III/13.
+                            Br.&#160;349.27–39 und Br._351.45–51.</note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Was <persName key="pdrPo.001.004.000000664">Bürgers</persName> angeht, so ist er
+                            sicher wohlmeinend, aber schwach. Es ist nicht lange über ein Jahr, daß
+                            er in öffentlichem Meeting in Köln erklärte (gedruckt zu lesen in den
+                            Kölner Blättern), daß <persName key="pdrPo.001.004.000004342">Schulze-Delitsch</persName> die sociale Frage definitiv „gelöst“,
+                            u. daß er (Bürgers) nur aus <hi rendition="#u">persönlicher Freundschaft
+                                für mich</hi> sich in den communistischen Irrgängen verlaufen habe!
+                            Konnte ich nach solchen <hi rendition="#u">öffentlichen Erklärungen</hi>
+                            ihn anders denn als „Renegaten“ betrachten?</orig><note xml:id="c6e3fbc7-99fa-40ef-9128-51acc09daf42">Siehe auch ebenda.
+                            Br.&#160;349.22–28 und Br._351.51–57. (((lMEGA²&#160;III/13)))
+                        </note></seg></p>
+                <closer sameAs="MBUnterschrift">
+                    <salute>Ihr treu ergebner <lb/>K. Marx </salute>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

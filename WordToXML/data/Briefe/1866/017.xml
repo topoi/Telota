@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00018" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>17</idno>Hermann Engels an Friedrich Engels in
+                                        Manchester. Barmen, Samstag, 20. Januar 1866</title>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                                        veröffentlicht.</edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>RGASPI</institution>
+                                                <idno><idno type="shelfmark">Standort Orig. nicht
+                                                  bekannt; Kopie: f. 9 op. 1 d. 11/14. Fotosign. 599
+                                                  (gestempelt)</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Standort der Originalhandschrift ist
+                                                  gegenwärtig nicht bekannt., die Veröffentlichung
+                                                  erfolgt nach einer Fotokopie. </p>
+                                                <p>Soweit aus der Kopie zu ersehen ist, besteht der
+                                                  Brief aus einem Blatt, dessen erste Seite Hermann
+                                                  Engels vollständig beschrieben hat. Die letzte
+                                                  Passage steht quer auf dem linken Rand der
+                                                  Seite.</p>
+                                                <p>Von unbekannter Hand: Nummerierung der Briefes:
+                                                  „599“. </p>
+                                        </physDesc>
+                                </msDesc>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000001375">Hermann
+                                                Engels</persName>
+                                        <placeName>Barmen</placeName>
+                                        <date when="1866-01-20"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                                        <placeName>Manchester</placeName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:38:22Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingAct">
+                                <opener><dateline sameAs="MBDatumszeile"><pb/> Barmen 20 Janr.
+                                                1866.</dateline><salute sameAs="MBAnrede">Lieber
+                                                Friedrich!</salute></opener>
+                                <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Du hast mir
+                                                  zwar <expan resp="editor" sameAs="dottet_underline">s<ex>einer</ex></expan>
+                                                  <expan resp="editor" sameAs="dottet_underline">Z<ex>eit</ex></expan> geschrieben, ich brauchte
+                                                  Dir keinen Rechnungsauszug von uns (<orgName key="ed_byw_vjh_1z">E &amp; E</orgName>) am 31
+                                                  Decbr. einzusenden, sondern Du wolltest uns einen
+                                                  schicken;</orig><note xml:id="nljw_fyl_cz">Der
+                                                  Brief von Engels an <persName key="pdrPo.001.004.000001375">Hermann
+                                                  Engels</persName>, geschrieben vor dem
+                                                  20.&#160;Januar 1866, konnte nicht ermittelt
+                                                  werden.</note></seg> indeß ich habe Dir doch mal
+                                        schon das Ding herausmachen lassen, &amp; bist Du wohl so
+                                        gut, mir bald zu sagen, ob wir so mit unsern Notizen einig
+                                        sind. Deinen Auszug bei <orgName key="pdrPo.001.015.000090088">Fr. E.&#160;&amp; C<hi rendition="#sup">o</hi></orgName> mache ich dann
+                                        auch fertig. –</p>
+                                <p sameAs="MBTextmitEinzug"><persName key="pdrPo.001.004.000001367">Mutter</persName> ist fast ganz wieder wohl &amp;
+                                        schickt heute ihre Diaconissin wieder fort; <seg type="comment"><orig>sie hat Dir ja kürzlich
+                                                  geschrieben</orig><note xml:id="e3977471-74ff-421f-998c-acebe468b930"><ref target="B00006">Elisabeth Engels an Friedrich
+                                                  Engels,
+                                                  13.1.<?oxy_comment_start author="reichhoff" timestamp="20170314T120345+0100" comment="{{Br. 5}}."?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        &amp; läßt Dich heute freundlichst grüßen &amp; um eine
+                                        ordentliche Antwort bitten. –</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Mit <expan resp="editor" sameAs="dottet_underline">uns<ex>erer</ex></expan> Liverpooler Sache haben
+                                                  wir Dir etwas Last gemacht; aber es ging ja nicht
+                                                  anders; hoffentlich wird der Entwurf bald fertig,
+                                                  so daß diese Geschichte in Ordnung
+                                                  kommt;</orig><note xml:id="a764c933-1f9d-4cb0-b8f5-2afc8056a8ad"><persName key="pdrPo.001.004.000001375">Hermann
+                                                  Engels</persName> bezieht sich auf den zu
+                                                  schließenden Kontrakt der Firma <orgName key="ed_byw_vjh_1z">Ermen &amp; Engels,
+                                                  Barmen</orgName> mit ihrem Geschäftspartner in
+                                                  Liverpool, der Baumwollhandelsfirma <orgName key="pdrPo.001.015.000090261">Robert
+                                                  Funke&#160;&amp;&#160;Co.</orgName> Siehe
+                                                  MEGA²&#160;III/13. Br.&#160;333 sowie für den
+                                                  Briefjahrgang 1866 <ref target="B00074">Friedrich
+                                                  Engels an Hermann Engels,
+                                                  22.3.<?oxy_comment_start author="reichhoff" timestamp="20170410T091225+0200" comment="{Br. 71.3–6, 58–60}}"?>1866<?oxy_comment_end?></ref>,
+                                                  <ref target="B00078">Hermann Engels an Friedrich
+                                                  Engels,
+                                                  27.3.<?oxy_comment_start author="reichhoff" timestamp="20170410T091401+0200" comment="{Br. 75.3–6, 32–39, 53–54}}"?>1866<?oxy_comment_end?></ref>,
+                                                  <ref target="B00088/#start_odl_rw3_nz">Hermann
+                                                  Engels an Friedrich Engels,
+                                                  9.4.<?oxy_comment_start author="reichhoff" timestamp="20170410T091716+0200" comment="{{Br. 85.74–76}}"?>1866<?oxy_comment_end?></ref>,
+                                                  <ref target="B00140/#start_jby_zw3_nz">Hermann
+                                                  Engels an Friedrich Engels,
+                                                  13.7.<?oxy_comment_start author="reichhoff" timestamp="20170410T091939+0200" comment="{{Br. 136.5–7}}"?>1866<?oxy_comment_end?></ref>,
+                                                  <ref target="B00152">Hermann Engels an Friedrich
+                                                  Engels,
+                                                  13.8.<?oxy_comment_start author="reichhoff" timestamp="20170314T121121+0100" comment="{{Br. 148}}"?>1866<?oxy_comment_end?></ref>
+                                                  <?oxy_comment_start author="reichhoff" timestamp="20170410T092234+0200" comment="{{Br. 153.4–7}} "?>und<?oxy_comment_end?>
+                                                  <ref target="B00161">Friedrich Engels an Emil
+                                                  Engels,
+                                                  23.8.<?oxy_comment_start author="reichhoff" timestamp="20170410T092426+0200" comment="{{Br. 157.3–7}}"?>1866<?oxy_comment_end?></ref>.
+                                                  (((lMEGA²&#160;III/13))) </note></seg> unser Mann
+                                        hat bereits bis jetzt durchschnittlich <expan resp="editor" sameAs="dottet_underline">p<ex>e</ex>r</expan> Woche
+                                        150–160&#160;Ballen ganz verkauft, &amp; nebenbei
+                                        vortrefflich für uns gekauft. –</p>
+                                <p sameAs="MBTextmitEinzug">Ich habe für <persName key="pdrPo.001.004.000001367">Mutter</persName> ein paar schöne Wagenpferde
+                                        gekauft &amp; dagegen unsere Ungarn, die alt wurden,
+                                        vertauscht, wenn Du nächsten Sommer nach Engelskirchen
+                                        kommst, wirst Du sie da wohl finden. Nun schicke mir bald
+                                        einige Worte Antwort &amp; sei von uns Allen hier herzlichst
+                                        gegrüßt</p>
+                                <closer sameAs="MBUnterschrift"><salute>Dein <lb/></salute><signed>Herm.
+                                                Engels.</signed></closer>
+                                <postscript>
+                                        <p>Was hälst Du von dem Gang der <expan resp="editor" sameAs="dottet_underline">B<ex>aum</ex>wolle</expan> &amp; Garnpreise für
+                                                die nächsten Monate? </p>
+                                </postscript>
+                                <p rend="MBTextOhneEinzug"><seg type="comment"><orig><persName key="pdrPo.001.004.000001367">Mutter</persName>
+                                                  läßt Dir noch sagen, daß sie Dir Dein
+                                                  Weihnachtsgeschenk mit <expan resp="editor" sameAs="dottet_underline">r<ex>eichstaler</ex></expan>&#160;50 hätte
+                                                  gutschreiben lassen.</orig><note xml:id="eaaa8cbf-9f62-477b-b628-cd832f81e08d">Siehe <ref target="B00065/#start_xc4_1y3_nz">E.
+                                                  Engels an Engels, 16. und
+                                                  17.3.<?oxy_comment_start author="reichhoff" timestamp="20170410T092732+0200" comment="{{Br. 61.40–44}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                </p>
+                        </div>
+                </body>
+        </text>
+</TEI>

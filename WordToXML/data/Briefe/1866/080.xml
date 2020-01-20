@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00083" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>80</idno>Friedrich Engels an Hermann Engels in Barmen. Manchester,
+                    Freitag, 6. April 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">Standort Orig. nicht bekannt; Kopie: f. 1 op. 1
+                                d. 1958. Fotosign. 595[a]–b</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Standort der Originalhandschrift ist gegenwärtig nicht bekannt. Die
+                            Veröffentlichung erfolgt nach einer Fotokopie.</p>
+                        <p>Soweit aus der Kopie zu ersehen ist, besteht der Brief aus einem Bogen.
+                            Engels hat die ersten zwei Seiten vollständig beschrieben, die dritte
+                            zur Hälfte. Der durch einen Tintenfleck entstandene Textverlust konnte
+                            rekonstruiert werden.</p>
+                        <p>Von unbekannter Hand: Nummerierung der Briefes: „595“.</p>
+                        <p>Engels beantwortet den Brief von Hermann Engels vom 27.&#160;März 1866
+                            (H. Engels an Engels, 27.3.1866), Hermann Engels antwortete am
+                            9.&#160;April 1866 (H. Engels an Engels, 9.4.1866).</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness><bibl>Erstveröffentlichung: gekürzt: Briefe von Friedr. Engels an
+                            Mutter und Geschwister (1921). S.&#160;142/143</bibl>.</witness>
+                    <witness><bibl>vollständig: in russischer Übersetzung: МЭС<hi rendition="#sup">1</hi> 25 (1934). S.&#160;471/472</bibl>.</witness>
+                    <witness><bibl>in der Sprache des Originals: MEW&#160;31 (1965).
+                            S.&#160;511/512.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName>Manchester</placeName>
+                    <date when="1866-04-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="pdrPo.001.004.000001375">Hermann Engels</persName>
+                    <placeName>Barmen</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:39:04Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener><dateline sameAs="MBDatumszeile"><pb/> Manchester 6 April
+                        1866.</dateline><salute sameAs="MBAnrede">Lieber Hermann</salute></opener>
+                <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Besten Dank für Deinen <expan resp="editor" sameAs="dottet_underline">C<ex>on</ex>to</expan>
+                            <expan resp="editor" sameAs="dottet_underline">C<ex>orren</ex>t</expan>
+                            vom 27&#160;März</orig><note xml:id="eb00a98c-8637-470e-b62b-28d470e06f17">Siehe <ref target="B00078/#start_hd1_zlh_4z">H. Engels an Engels,
+                                27.3.<?oxy_comment_start author="reichhoff" timestamp="20170415T183224+0200" comment="{{Br. 75.6–7}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    der sich im Allgemeinen richtig zu verhalten scheint. Nur ist es schwer die
+                    Zinsen nachzusehn wenn sie nicht wie in andern <expan resp="editor" sameAs="dottet_underline">Cto</expan>
+                    <expan resp="editor" sameAs="dottet_underline">Ct</expan> detaillirt sind
+                    sondern man dem „Zinsen Conto“ aufs Wort glauben muß.<anchor type="verweisziel" xml:id="start_xx5_btp_pz"/> Dann aber machst Du am 31&#160;Decbr 1865 einen
+                    Übertrag zu meinen Gunsten von <orgName key="ed_byw_vjh_1z"><expan resp="editor" sameAs="dottet_underline">E<ex>rmen</ex></expan> &amp; Engels, <expan resp="editor" sameAs="dottet_underline">B<ex>armen</ex></expan></orgName> betragend Th&#160;2112.21.8 während nach
+                    E. &amp; E., B's <expan resp="editor" sameAs="dottet_underline">Cto</expan>
+                    <expan resp="editor" sameAs="dottet_underline">Ct</expan> derselbe Übertrag <hi rendition="#u">£&#160;316.18.2</hi>, &amp; à 6 <expan resp="editor" sameAs="dottet_underline">r<ex>eichstaler</ex></expan> 20 <hi rendition="#u">Th&#160;2169.1.8</hi> macht. Dies kann ich nicht reimen.</p>
+                <p sameAs="MBTextmitEinzug">Es macht sich etwas unangenehm daß Ihr am 31&#160;Dec.
+                    &amp; wir am 30&#160;Juni abschließen. Ich werde Euch also nur einmal, am
+                    31&#160;Dec. Cto Ct schicken der auf diese Weise nie genau stimmen wird, doch
+                    das macht am Ende nichts aus.<anchor type="verweisziel" xml:id="stop_xx5_btp_pz"/></p>
+                <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_ckr_vsp_pz"/>Um
+                    unsre Buchungen klar zu halten bitte ich alle <hi rendition="#u">Geschäftssachen</hi>
+                    <add>von <orgName key="ed_mtd_tkh_1z">E. &amp; E.</orgName></add> bei E. &amp;
+                    E., B., alle <hi rendition="#u">Privatsachen</hi> bei <orgName key="pdrPo.001.015.000090088">F.&#160;E. &amp; Co</orgName> buchen zu
+                        wollen.<anchor type="verweisziel" xml:id="stop_ckr_vsp_pz"/></p>
+                <p sameAs="MBTextmitEinzug">Die Auskunft wegen dem Agenten <persName key="ed_jrq_nds_nz">Brown</persName> habe ich <persName key="pdrPo.001.004.000000501">Fr.&#160;<expan resp="editor" sameAs="dottet_underline">Bölli<ex>n</ex>g</expan></persName> direct
+                    gegeben, <orgName key="pdrPo.001.015.000090159"><expan resp="editor" sameAs="dottet_underline">Karth<ex>aus</ex></expan></orgName><?oxy_comment_start author="lindenberg" timestamp="20170222T150450+0100" comment="verwiesen auf Carl Karthaus &amp; Co in Barmen"?>
+                    <?oxy_comment_end?> schrieben in einer andren Sache an uns.</p>
+                <p sameAs="MBTextmitEinzug">Ich rathe Dir <hi rendition="#u">nicht</hi> Eure Sewings
+                    in der Regel durch uns zu beziehen. <persName key="pdrPo.001.004.000001409">G.&#160;<expan resp="editor" sameAs="dottet_underline">E<ex>rmen</ex></expan></persName> wird stets versuchen Euch sein Garn
+                    von Pendlebury zuzuschustern, &amp; das wäre sicher nicht immer in Eurem
+                    Interesse. Dabei würde er sofort beantragen daß Ihr 2% Provision vergüten
+                    solltet, sowie die Sache sich ausdehnt. Wenn Ihr aber sein Garn gebrauchen könnt
+                    (&amp; warum nicht, da <pb/> wir es verwenden können) <supplied cert="high">s</supplied>o wendet Ihr Euch am besten an uns. Ich schicke heute <expan resp="editor" sameAs="dottet_underline">p<ex>e</ex>r</expan> Post eine Probe
+                        N<hi rendition="#sup">o</hi>&#160;16 wovon er 120&#160;<expan resp="editor" sameAs="dottet_underline">B<ex>un</ex>d</expan>
+                    <supplied cert="high">là</supplied> 10 ℔ 7&#160;leas auf Lager hat &amp;
+                        2/&#160;1½<hi rendition="#sup">d</hi>
+                    <expan resp="editor" sameAs="dottet_underline">pr<ex>o</ex></expan> N<hi rendition="#sup">o</hi>&#160;16 nehmen würde, vielleicht auch weniger.
+                    Dasselbe Garn könnt Ihr auch vom Makler <persName key="ed_ts2_b34_mz">FA&#160;Schmits</persName> beziehen. Feine N<hi rendition="#sup">os</hi>
+                    &amp; Cops dagegen, wo <persName key="pdrPo.001.004.000001409">G.&#160;E.</persName> kein Interesse hat, können wir Euch stets
+                    liefern.</p>
+                <p sameAs="MBTextmitEinzug">Was kostet der Hochheimer? das ist die Hauptsache. Und
+                    wieviel ist davon da? Statt 3&#160;Flaschen hättest Du gleich 3&#160;Dutzend
+                    schicken sollen.</p>
+                <p sameAs="MBTextmitEinzug">Wegen Ponies will ich mich umhören. Gute starke Cobs
+                    sind jetzt aber hier sehr gesucht &amp; theuer, &amp; Gelegenheitskäufe – gleich
+                    ein gutes Paar zusammen – dürften lange auf sich warten lassen.</p>
+                <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_dzy_3tp_pz"/>Ihr glaubt dort auch wohl nicht an Krieg? Es wäre eine heillose Geschichte
+                    wenn es dazu käme, &amp; kein Ende abzusehn. Neulich als der Kram losging
+                    träumte mir irgendwo an der Mosel sei ich unter eine kolossalgroße Armee
+                    gerathen. Es waren eine Art Freischärler, allerhand Kerls, die sich wichtig
+                    durcheinander bewegten, &amp; von Zeit zu Zeit schrie einer: Feinde ringsum!
+                    wobei dann Alles durchbrannte. Endlich gerieth ich ins Hauptquartier &amp; fand
+                    da <persName key="pdrPo.001.004.000001413">Peter</persName> und <persName key="pdrPo.001.004.000001409">Gottfried Ermen</persName> als Generals en
+                    chef, und <seg type="comment"><orig>Anton</orig><note xml:id="c770ead9-5ae3-4858-9c15-db9e4614804b"><persName key="pdrPo.001.004.000001406">Anton Ermen</persName>. </note></seg>
+                    als Chef des Generalstabs. Ich frug diesen nun über dieses &amp; jenes, erhielt
+                    aber so sonderbare Antworten daß ich ihn endlich frug er habe doch Karten von
+                    der Gegend wo er sich befinde? Worauf er mich ganz überlegen ansah &amp; sagte:
+                    Karten? Das machen wir hier Alles viel besser ohne Karten. <pb/> Als ich ihm nun
+                    auseinandersetzen wollte daß er doch ohne Karten nicht fertig werden, nicht
+                    einmal seine Leute einquartiren könne usw, antwortete er: Wenn es absolut sein
+                    muß, so haben wir auch Karten, &amp; zog eine Karte von einer ganz andren
+                    Gegend, jenseits Aachen &amp; <expan resp="editor" sameAs="dottet_underline">Ma<ex>a</ex>stricht</expan>, mit triumphirendem Blick aus der Tasche.
+                    Dies ist nicht etwa ein schlechter Witz von mir sondern ist buchstäblich so
+                    vorgekommen.</p>
+                <anchor type="verweisziel" xml:id="stop_dzy_3tp_pz"/>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Herzliche Grüße an die
+                                <persName key="pdrPo.001.004.000001367">Mutter</persName> der ich
+                            dieser Tage auch schreibe,</orig><note xml:id="d6b89d00-3234-4d39-a7ea-ea3b841a3172">Ein Brief von Engels an
+                                <persName key="pdrPo.001.004.000001367">Elisabeth Engels</persName>,
+                            geschrieben zwischen 6.&#160;April und 8.&#160;Juni 1866 (siehe auch
+                                <ref target="B00122/#start_zp3_jbw_4z">E. Engels an Engels,
+                                8.6.1866</ref>
+                            <?oxy_comment_start author="reichhoff" timestamp="20170415T183523+0200" comment="{{Br. 118.3}}"?>)<?oxy_comment_end?>,
+                            ist nicht überliefert.</note></seg> &amp; an alle Geschwister.</p>
+                <closer sameAs="MBUnterschrift">Dein<lb/>Friedrich </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

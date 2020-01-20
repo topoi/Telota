@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_vwc_vxs_sy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <?oxy_comment_start author="roth" timestamp="20170126T154727+0100" comment="[Vorname?]
+"?>
+                <title><?oxy_comment_end?>Charles Rochat und Jean-Baptiste Dupleix an Hermann
+                    Francis Jung vom 18.&#160;Juli 1866.</title>
+            </titleStmt>
+                <editionStmt>
+                    <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                        veröffentlicht.</edition>
+                </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">f. 21 op. 1 d. 10/1</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            424 × 271 mm. Der grüne ovale Aufdruck auf der ersten Seite oben links
+                            und auf der dritten Seite unten in der Mitte: „Association
+                            Internationale des Travailleurs Section Genevoise“. Die Verfasser haben
+                            die ersten drei Seiten vollständig beschrieben, die letzte ist leer.
+                            Schreibmaterial: schwarze Tinte.</p>
+                        <p>Die Schreibweise wurde zurückhaltend berichtigt, die Eingriffe sind
+                            ausgewiesen.
+                            <?oxy_comment_start author="roth" timestamp="20170126T155926+0100" comment="TL1: Es wurde vom Bearbeiter an drei Stellen korrigiert"?></p>
+                        <?oxy_comment_end?>
+                        <p>Von Jungs Hand: der Begleitsbrief an Marx auf der vierten Seite.</p>
+                        <p>Von unbekannter Hand: die Rechnungen mit Tinte am linken Rand der ersten
+                            Seite, quer geschrieben.</p>
+                    </physDesc>
+
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000001278">Dupleix, François auch
+                        Jean-Baptiste</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="pdrPo.001.004.000002417">Jung, Hermann Francis
+                        (1830-1901)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb n=""/> Genève 18 Juillet 1866. </dateline>
+                    <salute>Monsieur Jung corespondant de la Suise.</salute>
+                </opener>
+                <p>Le comité de Genève à comme vous le savez déjà nommé une commission chargée de
+                    l'organisation du congré, et de prendre toutes les mesures nécessaire pour la
+                    réception des délégués; Dans sa séance du 16 Juillet elle à décidé de vous
+                    demander de nous faire savoir au plus vite de quelle manière les questions
+                    seront présentée et par qui elle seront introduites la commission est d'avis que
+                    le comité central désigne une personne pour développer chaque question et
+                    proposer les résolutions, sur lesquelles la discussion puisse se développer, que
+                    ces travaux préparatoires doivent être imprimés en trois langues et distribués
+                    dans les sections bien avant le congrés. Veuillez donc à cet égard vous entendre
+                    avec le comité central pour activer ce travail qui sera passablement long
+                    surtout a cause du peu de temps qui nous reste d'ici au 3 <hi rendition="#sup">7bre</hi>. Nous espérons que le comité central annoncera officiellement par
+                    une circulaire adressée a toutes les sections l'ouverture du congré ainsi que
+                    les questions qui y seront traitée.</p>
+                <p>Dans la lettre d'avertissement aux corespondants du comité central Il ne faudra
+                    pas oublier de leur rappeler que chaque section doit participer <pb n=""/> aux
+                    frais généraux du congré à part les frais de délégues; Relativement aux
+                    délégués, la commission vous propose pour arriver à faire le moins de dépense
+                    possible de s'entendre avec les maitres d'Hôtel pour nourriture et logement
+                    pendant leur séjour à Genève ce qui éviteroit à chaque délégué l'ennui de
+                    s'occuper de cela en arrivant, et par contre des frais qui pourroi<ex>en</ex>t
+                    être du double s'ils agissoi<ex>en</ex>t par eux mêmes.</p>
+                <p>Daprès les idées de la commission ces frais pourroi<ex>en</ex>t être pour
+                    logement et nourriture de 6f. par jour</p>
+                <p>Il faudroit a cet effet que vous avertissiez vos corespondants (hors ceux
+                    d'Allemagne et de Suisse) d'avoir à faire connoître au comité de Genève avant le
+                    20 Août s'ils acceptent ces propositions ainsi que le nombre des délégués qui
+                    sera envoyé muni chacun d'une lettre constatant son litre de délégué, afin que
+                    la commission puisse prendre ses mesures pour que tout désagrement leur soit
+                    évité à leur arrivée. Les délégués acceptant se présenteroi<ex>en</ex>t en
+                    arrivant au siège du comité rue Pellisserie N 4 chez M<hi rendition="#sup">r</hi>
+                    <persName key="pdrPo.001.004.000001278">Dupleix</persName> ou de là ils seront
+                    conduits à leur logement. Et pourront s'ils le désirent verser entre les mains
+                    du trésorier nommé à cet effet le montant des frais pendant leur séjour afin de
+                    leur éviter toute espèce de contestations.</p>
+                <p><pb n=""/> Le comité de Genève à pris la décision d'adresser une circulaire a
+                    toutes les societés de corps d'état existante en Suisse pour les engager à
+                    participer au congré. </p>
+                <p>Nous avons de même décidé que pour reproduire les discussions des questions le
+                    comité croit qu'il seroit de toute utilité d'avoir des Sténographes. soit un
+                    Anglais un Allemand et un Français pour ces deux derniers nous les trouverions a
+                    Genève; mais pour l'Anglais Il faut vous en charger si vous le jugez nécessaire,
+                    vous comprenez du reste que tout ce qui se dira interesse a un grand point la
+                    classe ouvrière, et que nous devons faire tout notre possible pour que chacun
+                    puisse se rendre compte des décisions qui seront prises.</p>
+                <p>Le dernier jour du congré d'après les demandes qui nous ont éte faites seroit
+                    consacrée a une discussion générale et aux propositions individuelles.</p>
+                <p>Il est bien entendu que tout ce que nous vous soumettons a besoin de votre
+                    approbation et que si vous avez d'autres instructions à nous donner il faut le
+                    faire sans retard.</p>
+                <p>Ainsi M<hi rendition="#sup">r</hi> nous aurons dans quelques jours le plaisir
+                    d'être réunis, et discuter ensemble les grandes questions qui doivent dans
+                    l'avenir changer la face du monde et donner à l'ouvrier la part légale qu'il est
+                    en droit d'exiger de son triste Labeur.</p>
+                <closer>
+                    <salute>agreez nos Salutations <lb/>
+                    </salute>
+                    <salute>Fraternelles  <lb/><lb/>
+                    </salute>
+                    <salute>le secretaire corespondant <lb/>
+                    </salute>
+                    <signed><persName key="ed_jqz_kwx_wy">Rochat</persName>
+                        <lb/></signed>
+                    <lb/><signed>Le président <lb/><persName key="pdrPo.001.004.000001278">Dupleix</persName>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

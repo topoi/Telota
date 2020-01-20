@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00143" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>139</idno>Karl Marx an Friedrich Engels in Manchester. London, Samstag, 21. Juli 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4457/L VI 589</idno></idno></msIdentifier><physDesc>
+                                                <p>Der Brief besteht aus einem Bogen mittelstarkem,
+              weißem Papier im Format 226&#160;×&#160;178&#160;mm. Wasserzeichen: „Joynson 1866“.
+              Marx hat die erste Seite vollständig beschrieben, auf der dritten befinden sich nur
+              zwei
+              <?oxy_comment_start author="lindenberg" timestamp="20170427T100101+0200" comment="urpsrünglich: Zeilen und Unterschrift"?>Zeilen
+              und die Unterschrift<?oxy_comment_end?>, die zweite und vierte Seite sind leer.
+              Schreibmaterial: schwarze Tinte.</p>
+                                                <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand: Numerierung  der
+                                                  beschriebenen Seiten: „43,1“ bzw. „43,2“
+                                                  korrigiert aus: „42,1“ bzw. „42,2“; Korrektur des
+                                                  Datums.
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20170424T140830+0200" comment="Numerierung des Briefes bzw. der beschriebenen Seiten: „43,1“ bzw. „43,2“ korrigiert aus: „42,1“ bzw. „42,2“; Korrektur des Datums."?></p>
+                                                <?oxy_comment_end?>
+                                                <p>Marx hat den Brief versehentlich mit
+              21.&#160;Januar datiert. Die korrekte Monatsangabe ergibt sich aus der Erwähnung der
+              Artikelserie von Engels in „Manchester Guardian“ (Z.&#160;10–12). Der letzte Artikel
+              erschien am 6.&#160;Juli 1866 (siehe Erl.&#160;121a). Marx schreibt auch über die
+              Erwartung der
+              <?oxy_comment_start author="lindenberg" timestamp="20170427T100413+0200" comment="ursprünglich: Nachricht eines Waffenstillstandes oder einer Schlacht bei Wien"?>Nachricht
+              über einen Waffenstillstand oder eine Schlacht bei Wien<?oxy_comment_end?>
+              (Z.&#160;13–15). Offensichtlich meint er den Abschluss des Deutschen Kriegs 1866 im
+              Juli 1866 (siehe Erl.&#160;120h).</p>
+                                                <p>Marx beantwortet den Brief Engels’ vom
+                                                  12.&#160;Juli 1866 (Br.&#160;134). Engels
+                                                  antwortete ihm am 25.&#160;Juli 1866
+                                                  (Br.&#160;140).</p>
+                                                <p>Die Beilage (Z.&#160;7) ist nicht
+                                                  überliefert.</p>
+                                        </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1980</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;334/335.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-07-21"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:41Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 21 <choice><sic>Jan.</sic><corr cert="high">Juli</corr></choice> 1866.</dateline><salute sameAs="MBAnrede">Dear Fred,</salute></opener><p sameAs="MBTextohneEinzug">Der Karbunkel hat sich glücklich wieder von selbst verzogen. Schwer
+          aber hatte u. habe ich in der jetzigen Hitze von der liver zu büssen. Mit alledem geht
+            <seg type="comment"><orig>die Arbeit</orig><note xml:id="cafa52d6-83ae-4d46-858f-fc07b4175ded">Gemeint ist hier Karl Marx: Das Kapital;
+              siehe <ref key="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu J. Ph. Becker,
+                zwischen 9. und
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170515T101645+0200" comment="{{Erl. 6b}}"?>1866<?oxy_comment_end?>.</ref>
+              (((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg> gut voran u. wird sie so
+          vorangehn, wenn der jetzige Zustand fortdauert. Es ist mir natürlich peinlich schon wieder
+          auf Dir pressen zu müssen, aber, wie aus dem einliegenden Zettel ersiehst (den Du mir
+          zurückschicken mußt) ist <seg type="comment"><orig>periculum in mora.</orig><note xml:id="f610eba0-ea8e-4529-88a6-4bad0275d4e2">Gefahr im Verzug (lat.).</note></seg>
+          Ich habe mit Mühe Ausstand bis nächsten Dienstag erhalten. <seg type="comment"><orig>Aus
+              Deiner letzten Zusendung</orig><note xml:id="ba0d2e9f-c0f0-4444-a8b4-db9a07e9a07d"><ref target="B00138">Engels an Marx,
+                12.7.<?oxy_comment_start author="reichhoff" timestamp="20170405T184920+0200" comment="{{Br. 134}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          ist mir zweifelhaft, ob Du in Manchester bist.<anchor type="verweisziel" xml:id="start_jmp_rvs_qz"/> Ich habe auch keinen Manchester <bibl sameAs="zzThe Manchester Guardian">Guardian</bibl> mehr erhalten. <seg type="comment"><orig>Oder ist nichts weiter von Dir darin erschienen?<anchor type="verweisziel" xml:id="stop_jmp_rvs_qz"/></orig><note xml:id="fd78161d-a72a-46fe-9740-9fe2d2a688bf">Marx bezieht sich auf die Artikelsserie: [Friedrich Engels:] Notes on the war in
+              Germany. Sie erschien in „The Manchester Guardian“ im Juni/Juli 1866 (MEGA²&#160;I/20.
+              S.&#160;206–223). Siehe <ref target="B00125/#fea1b6e7-864d-4c78-ab8c-74c4578f26b2"><ref key="B00125/#fea1b6e7-864d-4c78-ab8c-74c4578f26b2">Erl. zu H. Morrell Acton
+                  an Engels,
+                  18.6.<?oxy_comment_start author="reichhoff" timestamp="20170515T101927+0200" comment="{{Erl. 121a}}"?>1866<?oxy_comment_end?>.</ref></ref></note></seg></p><p sameAs="MBTextmitEinzug">Alles Urtheil über die jetzigen Verhältnisse muß man sich untersagen, bis Nachricht sei es v. Waffenstillstand, sei es einer entscheidenden Schlacht vor Wien. Jedenfalls hat der Gang der Ereignisse ausserordentliche Verfaulung <subst><del>im</del><add>des</add></subst> östreich. Systems bewiesen.</p><p sameAs="MBTextmitEinzug">Unsre Engländer huldigen einstweilen, wie immer, dem Erfolg. Auch der
+                                        grosse <persName key="pdrPo.001.004.000004115">Arnold
+                                                Ruge</persName> hat schon seit 14&#160;Tagen sein
+                                        Pronunciamento für Preussen gemacht, wie der grosse
+                                                <persName key="pdrPo.001.004.000002501">Kinkel</persName> noch früher gethan. Sind die
+                                        Preussen siegreich bis zum Ende, welch ein Zudrang von
+                                        Stellenjägern u. Vaterlandsrettern wird nach Frankfurt
+                                        wogen!</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Der „homme prestige“, „<persName key="ed_tgz_vrp_fz"><persName key="pdrPo.001.004.000003392">Jupiter
+                  Scapin</persName></persName>“,</orig><note xml:id="nckb_s5l_gz">Gemeint ist hier
+                <persName key="pdrPo.001.004.000003392">Napoléon III</persName>. Siehe weiter <ref target="B00133/#d2a5271f-5924-4b9d-8366-40cef7e62722">Erl. zu Marx an Engels,
+                7.7.<?oxy_comment_start author="reichhoff" timestamp="20170522T095039+0200" comment="{{Erl._129m}}"?>1866<?oxy_comment_end?>.</ref>
+            </note></seg> grotesque providence of Europe ist <del> nach <sic ana="#break-off"/></del> jedenfalls erschüttert u. sogar <del rendition="#ow">b<sic ana="#break-off"/></del> von <persName key="pdrPo.001.004.000000441">Bismarck</persName> überflügelt.
+          Das ist ein Trost.</p><p sameAs="MBTextmitEinzug">Hier ist seit einigen Tagen <seg type="comment"><orig>der V<hi rendition="#sup">th</hi> Report <expan resp="editor" sameAs="dottet_underline">d<ex>er</ex></expan>
+                                                  <expan resp="editor" sameAs="dottet_underline">Child<ex>ren‘s</ex></expan>
+                                                  <expan resp="editor" sameAs="dottet_underline">Empl<ex>oyment</ex></expan>
+                                                  Commission</orig><note xml:id="ndcb_pvl_gz">Children’s employment commision (1863–1867).
+                                                  [Reports.] Fifth report … London 1866. Marx
+                                                  benutzte Daten aus diesen Reports im ersten Band
+                                                  des „Kapitals“ (siehe MEGA²_II/5). (((lChildren’s
+                                                  employment commision (1863–1867). [Reports.] Fifth
+                                                  report … London 1866))) </note></seg> erschienen.
+                                        Er schließt die Enquête über die Manufacturen ab u. <seg type="comment"><orig>es wird nur noch ein <subst>
+                                                  <del rendition="#s">A</del>
+                                                  <add place="intralinear">Nachtrag</add>
+                                                  </subst> über die sporadisch in d<ex>er</ex>
+                                                  Agrikultur angewandten „organised gangs“ v.
+                                                  Weibern u. Kindern erscheinen.</orig><note xml:id="nypw_qxl_gz">Children’s employment
+                                                  commision (1863–1867). [Reports.] Sixth report …
+                                                  London 1867. (((lChildren’s employment commision
+                                                  (1863–1867). [Reports.] Sixth report … London
+                                                  1867))) </note></seg> Der bürgerliche Optimismus
+                                        seit 1850 konnte keinen furchtbarern Schlag erhalten als
+                                        durch diese 5&#160;<seg type="comment"><orig>Bluebooks</orig><note xml:id="da742085-89d9-4780-b4ad-b911ca506661">Die
+                                                  britischen Blue books (seit 1624) enthalten die
+                                                  von der Regierung dem Parlament vorgelegten
+                                                  Materialien und sind nach der Farbe ihres
+                                                  Einbandes benannt.</note></seg>. Ausserdem ist vor
+                                        einigen Tagen <seg type="comment"><orig>der VIII&#160;Report
+                                                  <pb/> des Board of Health ausgegeben worden, der
+                                                  namentlich <subst>
+                                                  <del>einen</del>
+                                                  <add>eine</add>
+                                                  </subst> sehr ausführliche Enquête über die
+                                                  Wohnungsverhältnisse des Proletariats
+                                                  enthält.</orig><note xml:id="nojn_lwl_gz"><note xml:id="dfeba927-fc13-4425-857c-a943be619dab">Public Health. [Reports.] Eight Report of the
+                                                  medical officer of the Privy Council. With App.
+                                                  1865. Presented pursuant to Act of Parliament.
+                                                  London 1866. – Enth.: Hunter, Henry Julian: Report
+                                                  on the housing of the poorer parts of the
+                                                  populationin towns&#160;… . S.&#160;50–115. Marx
+                                                  benutzte Daten dieses Reports ebenfalls im ersten
+                                                  Band des „Kapitals“ (siehe MEGA²&#160;II/5 und
+                                                  II/10). Siehe auch <ref target="B00146/#start_slh_45s_qz">Marx an Engels,
+                                                  27.7.<?oxy_comment_start author="reichhoff" timestamp="20170422T112644+0200" comment="{{Br. 142.76–78}}"?>1866<?oxy_comment_end?></ref>.
+                                                  (((lPublic Health. [Reports.] Eight Report of the
+                                                  medical officer of the Privy Council. With App.
+                                                  1865. Presented pursuant to Act of Parliament.
+                                                  London 1866))) </note></note></seg></p><p sameAs="MBTextmitEinzug">Salut</p><closer sameAs="MBUnterschrift">D<lb/>KM </closer></div></body></text></TEI>

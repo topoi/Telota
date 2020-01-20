@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00070" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>66</idno>Eleanor Marx an Karl Marx in Margate. London,
+                                        Sonntag, 18. März 1866</title>
+                        </titleStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>RGASPI</institution>
+                                                <idno><idno type="shelfmark">f. 1 op. 5 d.
+                                                  6368</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Bogen mittelstarkem,
+                                                  weißem Papier im Format
+                                                  152&#160;×&#160;127&#160;mm. Die ersten zwei
+                                                  Seiten hat Eleanor Marx vollständig beschrieben,
+                                                  die dritte zur Hälfte, die vierte Seite ist leer.
+                                                  Schreibmaterial: schwarze Tinte.</p>
+                                                <p>Archivsignatur auf der ersten Seite: „L.
+                                                  197“.</p>
+                                        </physDesc>
+                                </msDesc>
+                                <listWit>
+                                        <witness><bibl>Erstveröffentlichung: in französischer
+                                                  Übersetzung: Les Filles de Karl Marx (1979).
+                                                  S.&#160;59</bibl>.</witness>
+                                        <witness><bibl>in der Sprache des Originals: The Daughters
+                                                  of Karl Marx (1982). S.&#160;5.</bibl></witness>
+                                </listWit>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000003068">Eleanor
+                                                Marx</persName>
+                                        <placeName>London</placeName>
+                                        <date when="1866-03-18"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName>Margate</placeName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:38:55Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingAct">
+                                <opener><dateline sameAs="MBDatumszeile"><pb/> Modena
+                                                Villas.<lb/>March 18<hi rendition="#sup">th</hi>
+                                                1866.</dateline><salute sameAs="MBAnrede">My dear
+                                                Dada,</salute></opener>
+                                <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>As <persName key="pdrPo.001.004.000003074">Jenny</persName> is
+                                                  going to write to you</orig><note xml:id="b75caa46-13d0-43e8-bfd2-7ae808514c5a">Ein
+                                                  Brief konnte nicht ermittelt werden.</note></seg>
+                                        I may as well inclose a short letter. <seg type="comment"><orig>Your first adventure is very
+                                                  amusing.</orig><note xml:id="b6cfef46-e66c-4e7c-8a3d-9032cf1bf857">Siehe <ref target="B00067/#start_sh3_w5g_4z">Marx
+                                                  an J. Marx,
+                                                  16.3.<?oxy_comment_start author="reichhoff" timestamp="20170413T161430+0200" comment="{{Br. 63.4–26}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        That you took a <hi rendition="#u">deaf</hi>
+                                        <pb/> man for <hi rendition="#u">blind</hi> is capital. I
+                                        wonder <seg type="comment"><orig>the “ears of the deaf were
+                                                  not unstopped”</orig><note xml:id="f7f205f1-cc1e-46ae-844c-0bb360aeaeac">Nach
+                                                  der Bibel. Das Alte Testament. Der Prophet Jesaja
+                                                  35, 5. (((lDie_Bibel))) </note></seg> at your
+                                        arrival&#160;… I can quite understand your having felt <hi rendition="#u">shy</hi> at being left alone with a
+                                        deaf man, who was blind.</p>
+                                <p sameAs="MBTextmitEinzug">Now Dr. Karl Marx of bad philosophy I
+                                        hope <pb/>
+                                        <seg type="comment"><orig>you will keep your promise and
+                                                  come on Thursday.</orig><note xml:id="c4352e1c-3442-4579-a1ab-3d87cb7d09ae">Marx
+                                                  besuchte Donnerstag, den 22.&#160;März 1866 eine
+                                                  Feier seiner Töchter in London. Siehe auch <ref target="B00075/#start_xxs_dvg_4z">Marx an Engels,
+                                                  24.3.<?oxy_comment_start author="reichhoff" timestamp="20170413T161743+0200" comment="{{Br. 72.17–24}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        So with love good-bye and believe me Your affectionate</p>
+                                <closer sameAs="MBUnterschrift"><signed>Ellie. </signed></closer>
+                        </div>
+                </body>
+        </text>
+</TEI>

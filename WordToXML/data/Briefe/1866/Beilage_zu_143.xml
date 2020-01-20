@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_bzq_zdv_vy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zeitungsausschnitt aus „Le Moniteur“. Paris, 29. Juli 1866 </title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlaß</collection>
+                        <idno>
+                            <idno type="shelfmark">D 1621/D V 46. Fotosign. 9578e.</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Zeitungsausschnitt aus
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>„Le
+                            Moniteur“. Paris, 29.&#160;Juli 1866. S.&#160;000,
+                            Sp.&#160;000<?oxy_custom_end?>. Die Worte „beaucoup“ und „bien compris.“
+                            hat Kaub mit Tinte<?oxy_comment_start author="lindenberg" timestamp="20170424T151421+0200" comment="Kaub mit Tinte???"?>
+                            <?oxy_comment_end?>unterstrichen, nach dem Wort „enfants!“ ein
+                            Fragezeichen in Klammern gesetzt.
+                            <?oxy_comment_start author="lindenberg" timestamp="20170424T151339+0200" comment="[Gestaltung: MEGA² III/13. S. 1120]"?></p>
+                        <?oxy_comment_end?>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p rendition="#mPrint">L’exemple de Théodore prouve à tous les ouvriers:</p>
+                <p rendition="#mPrint">1° Qu’un illetré, fût-il majeur, peut encore, s’il veut,
+                    apprendre à lire sans discontinuer son travail ordinaire;</p>
+                <p rendition="#mPrint">2° Qu’au moyen de l’instruction, il peut encore, <hi rendition="#i"><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>s’il
+                        veut<?oxy_custom_end?></hi>, rectifier ou compléter sa propre éducation;</p>
+                <p rendition="#mPrint">3° Qu’alors, <hi rendition="#i"><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>s’il
+                        veut<?oxy_custom_end?></hi>, il se rend capable de choisir une digne
+                    compagne, de la bien conduire, de bien guoverneur sa famille et ses
+                    affaires;</p>
+                <p rendition="#mPrint">4° Enfin, qu’en travaillant beacoup et bien, en se conduisant
+                    bien, on peut, même restant ouvrier, être heureux dans sa famille heureuse,
+                    quelque soit le nombre des enfants!</p>
+                <p rendition="#mPrint">L’exemple, un exemple récent, actuel, a sur les hommes une
+                    très-grande puissance; chacun se dira: «Je puis faire ce qu’un autre a fait; et
+                    puisqu’il suffit de vouloir, je veux.» L’amour-propre aiguillonnera le désir
+                    naturel d’être heureux, d’avoir une famille heureuse.</p>
+                <p rendition="#mPrint">Mais pour qu’un exemple agisse, il faut qu’il soit connu et
+                    bien compris. La bonne preuve finira l’œvre commencée par la Société
+                    d’encouragement au bien. Leur but est le même: «Eclairer pour améliorer.»</p>
+            </div>
+        </body>
+    </text>
+</TEI>

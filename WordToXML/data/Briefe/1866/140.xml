@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00144" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>140</idno>Friedrich Engels an Karl Marx in London. Manchester, Mittwoch, 25. Juli 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1617/D III 387</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                                                  230&#160;×&#160;180&#160;mm. Wasserzeichen: „A
+                                                  Pirie &amp; Sons 1865“. Prägung: nicht deutlich
+                                                  erkennbar, etwa „London Superfine“ und ein
+                                                  Wappenschild. Die ersten zwei Seiten hat Engels
+                                                  vollständig beschrieben, die dritte zu einem
+                                                  Drittel, die vierte Seite ist leer.
+                                                  Schreibmaterial: schwarze Tinte.</p><p>Von Eduard Bernsteins Hand: Numerierung  der beschriebenen Seiten: „315,1“bis „315,3“ und „39,1“
+                                                  bis „39,3“ (gestrichen).<?oxy_comment_start author="lindenberg" timestamp="20170424T140932+0200" comment="Von Eduard Bernsteins Hand: Numerierung des Briefes bzw. der beschriebenen Seiten: „315,1“bis „315,3“ und „39,1“ bis „39,3“ (gestrichen)"?>
+                                                  <?oxy_comment_end?>Redaktionelle Vermerke.</p><p>Von Heinrich Dietz’ Hand: Numerierung des Briefes: „858“ (gestrichen).</p><p>Von unbekannter Hand: der Vermerk mit dem Blaustift „<hi rendition="#u">Abg</hi>“  auf der ersten
+                                                  Seite oben links;<?oxy_comment_start author="lindenberg" timestamp="20170424T141022+0200" comment="Von unbekannter Hand: der Vermerk mit dem Blaustift „Abg“ [Abz??? Br. 86, 96] auf der ersten Seite oben links;"?>
+                                                  <?oxy_comment_end?>Anstreichung mit Bleistift am
+                                                  linken Rand der zweiten Seite (Z.&#160;51–57) und
+                                                  der Vermerk mit Bleistift „Hier fehlt ein Brief
+                                                  von Marx“ (gestrichen) auf der dritten Seite.</p><p>Engels beantwortet den Brief von Marx vom 21.&#160;Juli (Br.&#160;139) sowie sein nicht überliefertes Telegramm, abgesendet zwischen 21. und 25.&#160;Juli 1866 (Z.&#160;6–7). Marx antwortete ihm am 27.&#160;Juli 1866 (Br.&#160;142).</p><p>Der im Brief (Z. 4) erwähnte, von Engels irrtümlich beigefügte, Zettel ist nicht überliefert.</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1981</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;335–337.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1866-07-25"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:42Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                                <opener>
+                                        <dateline sameAs="MBDatumszeile"><pb/> Manchester 25 Juli
+                                                66.</dateline>
+                                        <salute sameAs="MBAnrede">Lieber Mohr</salute>
+                                </opener>
+                                <p sameAs="MBTextohneEinzug"><anchor type="verweisziel" xml:id="start_cmc_5pt_qz"/>Ich denke Du hast die
+                                        Noten jetzt richtig erhalten, ich muß in der Zerstreutheit
+                                                <seg type="comment"><orig>den Zettel statt ihrer
+                                                  eingelegt haben auf dem ich mir die N<hi rendition="#sup">os</hi> notirt hatte.</orig><note xml:id="nyhk_rp4_yy">Der Zettel von Engels,
+                                                  geschrieben zwischen 21. und 25. Juli 1866, ist
+                                                  nicht überliefert.</note></seg> Die Noten selbst
+                                        hatte ich unter den Deckel meiner Schreibmappe geschoben wo
+                                        ich sie auch fand, nachdem ich mich von der ersten
+                                        Überraschung Deines Telegramms erholt hatte. Hoffentlich
+                                        waren sie noch rechtzeitig.<anchor type="verweisziel" xml:id="stop_cmc_5pt_qz"/></p>
+                                <p sameAs="MBTextmitEinzug">Die Geschichte in Deutschld scheint mir
+                                        jetzt ziemlich einfach. Von dem Augenblick an wo <persName key="pdrPo.001.004.000000441">Bismark</persName> den
+                                                <del rendition="#s">deutsch<sic ana="#break-off"/></del> kleindeutschen Bourgeoisplan mit der pr.
+                                        Armee &amp; so kolossalem Succeß durchführte, hat die
+                                        Entwicklung in Deutschl. diese Richtung so entschieden
+                                        genommen daß wir ebensogut wie Andre das fait accompli
+                                        anerkennen müssen, we may like it or not. Was die <hi rendition="#u">nationale</hi> Seite der Sache
+                                        angeht, so wird B. jedenfalls das kleindeutsche Kaiserthum
+                                        in dem von den Bourgeois beabsichtigten Umfang, d.h. incl.
+                                        Südwestdeutschld, herstellen, denn die Redensarten von der
+                                        Mainlinie &amp; von der optional South German separate
+                                        confederacy sind jedenfalls nur für die Franzosen berechnet
+                                        &amp; inzwischen marschiren die Preußen auf Stuttgart. Die
+                                        deutschöstr. Provinzen werden diesem Reich übrigens in nicht
+                                        gar langer Zeit auch zufallen sintemal Östr. jetzt ungarisch
+                                        werden muß &amp; die Deutschen die 3<hi rendition="#sup">te</hi> Nation im Reich werden – noch unter den
+                                        Slaven.</p>
+                                <p sameAs="MBTextmitEinzug">Politice wird <persName key="pdrPo.001.004.000000441">B.</persName>
+                                        <del> oder <sic ana="#break-off"/></del> genöthigt sein sich
+                                        auf die Bourgeoisie zu stützen die er gegen die
+                                        Reichsfürsten braucht. Vielleicht nicht in diesem
+                                        Augenblick, da jetzt noch das prestige &amp; die Armee
+                                        hinreichen. Aber schon um sich vom Parlament die nöthigen
+                                        Bedingnisse für die Centralgewalt zu sichern muß er den
+                                        Bürgern etwas geben, &amp; der natürliche Verlauf der Sache
+                                        wird ihn oder seine Nachfolger immer zwingen wieder an <pb/>
+                                        die Bürger zu appelliren; sodaß wenn B. auch möglicher Weise
+                                        jetzt den Bürgern nicht mehr gibt als er eben <hi rendition="#u">muß</hi>, er doch in das Bürgerliche
+                                        mehr &amp; mehr hinein getrieben wird.</p>
+                                <p sameAs="MBTextmitEinzug">Die Sache hat das Gute daß sie die
+                                        Situation vereinfacht, eine Revolution dadurch erleichtert
+                                        daß sie die Krawalle der kleinen Hauptstädte beseitigt,
+                                        &amp; die Entwicklung jedenfalls beschleunigt. Am Ende ist
+                                        doch ein deutsches Parlament ein ganz andres Ding als eine
+                                        preußische Kammer. Die ganze Kleinstaaterei wird in die
+                                        Bewegung hineingerissen, die schlimmsten lokalisirenden
+                                        Einflüsse hören auf, &amp; die Parteien werden endlich
+                                        wirklich nationale statt bloß lokale.</p>
+                                <p sameAs="MBTextmitEinzug">Der Hauptnachtheil ist die
+                                        unvermeidliche Überfluthung Deutschlds durch das
+                                        Preußenthum, &amp; das ist ein sehr großer. Dann die
+                                        momentane Abtrennung Deutsch-Oestreichs, die ein sofortiges
+                                        Vorschreiten des Slavischen in Böhmen, Mähren, Kärnthen zur
+                                        Folge haben wird. Gegen Beides ist leider Nichts zu
+                                        machen.</p>
+                                <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_bsq_qk5_qz"/>Wir können also meiner
+                                        Ansicht nach gar nichts andres thun als das Factum einfach
+                                        acceptiren ohne es zu billigen, &amp; die sich jetzt
+                                        jedenfalls <subst>
+                                                <del>darbietenden</del>
+                                                <add>darbieten</add>
+                                        </subst> müssenden größeren Facilitäten zur <hi rendition="#u">nationalen</hi> Organisation &amp;
+                                        Vereinigung des dtschen Proletariats benutzen so weit wir
+                                                können.<anchor type="verweisziel" xml:id="stop_bsq_qk5_qz"/></p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Daß brother
+                                                  <persName key="pdrPo.001.004.000002822">Liebknecht</persName> sich in <subst>
+                                                  <del>einen fanatischen</del>
+                                                  <add>eine fanatische</add>
+                                                  </subst> Oestreicherei hineinreiten würde,
+                                                  brauchte mir <persName key="pdrPo.001.004.000004646">Stumpf</persName>
+                                                  nicht zu schreiben,</orig><note xml:id="nv5v_p1m_gz">Siehe <ref target="B00141/#start_o2p_fvs_qz">P. Stumpf an
+                                                  Engels,
+                                                  16.7.<?oxy_comment_start author="reichhoff" timestamp="20170422T113146+0200" comment="{{Br. 137.13}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        das konnte gar nicht anders sein. <seg type="comment"><orig>Er hatte übrigens in der Neuen Frkf. <bibl sameAs="zzNeue Frankfurter Zeitung">Ztg</bibl>
+                                                  ganz unverkennbare Wuthcorrespondenzen aus
+                                                  Leipzig.</orig><note xml:id="ngc2_z1m_gz">Derartige Korrespondenzen aus Leipzig konnten
+                                                  nicht ermittelt werden.</note></seg> Diese
+                                        fürschtenmörderische <persName key="pdrPo.001.004.000000470">Blindsche</persName>
+                                        <seg type="comment"><orig>N. Fr. Ztg war so weit gekommen
+                                                  daß&#160;<pb/> sie den Preußen ihre schändliche
+                                                  Behandlung</orig><note xml:id="ngzw_jxq_gz">Siehe
+                                                  Frankfurt, 30. Juni. Die Preußen nahmen … In: Neue
+                                                  Frankfurter Zeitung. Nr. 179, 1. Juli 1866. S. 1;
+                                                  Frankfurt, 1. Juli. In: Neue Frankfurter Zeitung.
+                                                  Nr. 180, 2. Juli 1866. S. 1 und Kassel, 22. Juni.
+                                                  Ebenda. (((lFrankfurt, 30. Juni. Die Preußen
+                                                  nahmen … In: Neue Frankfurter Zeitung. Nr. 179, 1.
+                                                  Juli 1866. S. 1))) (((lFrankfurt, 1. Juli. In:
+                                                  Neue Frankfurter Zeitung. Nr. 180, 2. Juli 1866.
+                                                  S. 1))) (((lKassel, 22. Juni. In: Neue Frankfurter
+                                                  Zeitung. Nr. 180, 2. Juli 1866. S. 1)))
+                                                </note></seg><seg type="comment"><orig> des <hi rendition="#u">„ehrwürdigen </hi><hi rendition="#u">Kurfürsten v.
+                                                  Hessen“</hi></orig><note xml:id="nhm5_gyq_gz"><persName key="pdrPo.001.004.000001666">Friedrich
+                                                  Wilhelm_I.</persName>
+                                                </note></seg> vorwarf, &amp; für <seg type="comment"><orig>den armen blinden Welfen</orig><note xml:id="nkhr_ldr_gz"><persName key="ed_b1n_vds_gz">Georg V.</persName>; der König war im
+                                                  jugendlichen Alter erblindet. </note></seg>
+                                        <seg type="comment"><orig>schwärmte!</orig><note xml:id="nulr_dcr_gz">Siehe Hannover, 29. Juni. In:
+                                                  Neue Frankfurter Zeitung. Nr. 180, 2. Juli 1866.
+                                                  S. 1. (((lHannover, 29. Juni. In: Neue Frankfurter
+                                                  Zeitung. Nr. 180, 2. Juli 1866. S.
+                                                1)))</note></seg></p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Im <bibl sameAs="zzThe Manchester Guardian">Guardian</bibl>
+                                                  Nichts mehr geschrieben.</orig><note xml:id="nih5_nbr_gz">Siehe <ref target="B00143/#start_jmp_rvs_qz">Marx an Engels,
+                                                  21.7.<?oxy_comment_start author="reichhoff" timestamp="20170422T113511+0200" comment="{{Br. 139.10–12}}"?>1866<?oxy_comment_end?></ref>
+                                                  und <ref target="B00143/#fd78161d-a72a-46fe-9740-9fe2d2a688bf">Erl. zu Marx an Engels,
+                                                  21.7.<?oxy_comment_start author="reichhoff" timestamp="20170515T145523+0200" comment="{{Erl. 139d}}"?>1866<?oxy_comment_end?>.</ref></note></seg></p>
+                                <closer sameAs="MBUnterschrift">
+                                        <signed>Dein F. E.</signed>
+                                </closer>
+                                <postscript>
+                                        <p>Beste Grüße an die ladies. </p>
+                                </postscript>
+                        </div></body></text></TEI>

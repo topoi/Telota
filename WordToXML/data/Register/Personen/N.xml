@@ -1,0 +1,2760 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="mega_personenregister" xml:lang="de" xml:id="personN">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Gehört zur ediarum-App für eXist.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Hybrid: consult project description and document history for details.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="pdrPo.001.004.000003381">
+                    <idno type="mega">1020024</idno>
+                    <persName type="reg">
+                        <surname>Nabich</surname>
+                        <forename>Moritz</forename>
+                    </persName>
+                    <birth>1815</birth>
+                    <death>1893</death>
+                    <note>deutscher Posaunenvirtuose, lebte seit Anfang der 1850er Jahre in London</note>
+                    <linkGrp>
+                        <ptr target="III/9#138" type="page"/>
+                        <ptr target="III/9#366" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003382">
+                    <idno type="mega">1020031</idno>
+                    <persName type="reg">
+                        <name>Nachimov, Pavel Stepanovič (Нахимов)</name>
+                    </persName>
+                    <birth>1802</birth>
+                    <death>1855</death>
+                    <note>russischer Admiral; seit Februar 1855 Militärgouverneur von Sevastopol’. Fiel am 7.&#160;Juli 1855</note>
+                    <linkGrp>
+                        <ptr target="I/14#1043" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003384">
+                    <idno type="mega">1020051</idno>
+                    <persName type="reg">
+                        <name>Namik Pascha</name>
+                    </persName>
+                    <note>osmanischer Politiker; 1832 in diplomatischer Mission in London</note>
+                    <linkGrp>
+                        <ptr target="IV/12#137" type="page"/>
+                        <ptr target="IV/12#173" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003385">
+                    <idno type="mega">1020056</idno>
+                    <persName type="reg">
+                        <name>Nann</name>
+                    </persName>
+                    <note>Mitglied der Schiller-Anstalt in Manchester (1860)</note>
+                    <linkGrp>
+                        <ptr target="III/11#1016" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003386">
+                    <idno type="mega">1020059</idno>
+                    <persName type="reg">
+                        <surname>Napier</surname>
+                        <forename>Sir Charles</forename>
+                    </persName>
+                    <birth>1786</birth>
+                    <death>1860</death>
+                    <note>britischer Vizeadmiral, Mitglied des Unterhauses (1841–1847, November 1855–1860); Teilnehmer an den Kriegen in Portugal (1810–1834) und 1840 in Syrien; Kommandant der britischen Ostseeflotte (Februar 1854 bis Februar 1855); mußte sich wegen seiner Seekriegführung 1855 vor dem Unterhaus verantworten; britischer Admiral; Teilnehmer an den militärischen Ereignissen auf der Iberischen Halbinsel (1810–1813) und in Syrien (1840); 1833/1834 in portugiesischen Diensten gegen die Migueliten; 1854 Oberbefehlshaber der britischen Ostseeflotte; Cousin von William Napier</note>
+                    <linkGrp>
+                        <ptr target="I/14#390" type="page"/>
+                        <ptr target="I/14#416" type="page"/>
+                        <ptr target="I/14#449" type="page"/>
+                        <ptr target="I/14#641" type="page"/>
+                        <ptr target="I/14#642" type="page"/>
+                        <ptr target="I/14#664–669" type="page"/>
+                        <ptr target="I/14#1062" type="page"/>
+                        <ptr target="I/14#1309" type="page"/>
+                        <ptr target="I/14#1329" type="page"/>
+                        <ptr target="I/14#1330" type="page"/>
+                        <ptr target="I/14#1443" type="page"/>
+                        <ptr target="I/14#1455" type="page"/>
+                        <ptr target="I/14#1498" type="page"/>
+                        <ptr target="IV/12#107" type="page"/>
+                        <ptr target="IV/12#1132" type="page"/>
+                        <ptr target="IV/12#1156" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003387">
+                    <idno type="uri">http://d-nb.info/gnd/12185471X</idno>
+                    <idno type="mega">1020060</idno>
+                    <persName type="reg">
+                        <surname>Napier</surname>
+                        <forename>Sir Charles James</forename>
+                    </persName>
+                    <birth>1782</birth>
+                    <death>1853</death>
+                    <note>britischer General; Teilnehmer an den Kriegen in Spanien (1808–1814), 1842/1843 Kommandeur der britischen Truppen bei der Eroberung von Sind (Indien), bis 1847 Resident in Sind; Bruder von William Napier</note>
+                    <linkGrp>
+                        <ptr target="I/14#479" type="page"/>
+                        <ptr target="I/14#480" type="page"/>
+                        <ptr target="I/14#484" type="page"/>
+                        <ptr target="I/14#666" type="page"/>
+                        <ptr target="I/14#1456" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003389">
+                    <idno type="mega">1020066</idno>
+                    <persName type="reg">
+                        <surname>Napier</surname>
+                        <forename>Sir William Francis Patrick</forename>
+                    </persName>
+                    <birth>1785</birth>
+                    <death>1860</death>
+                    <note>britischer General und Militärhistoriker; Teilnehmer am Krieg in Spanien (1808–1814); Bruder von Charles James Napier; 1808–1813 Teilnehmer am Krieg gegen Napoléon Ier in Spanien; Cousin von Sir Charles Napier</note>
+                    <linkGrp>
+                        <ptr target="III/9#95" type="page"/>
+                        <ptr target="III/9#772" type="page"/>
+                        <ptr target="IV/12#657" type="page"/>
+                        <ptr target="I/14#131" type="page"/>
+                        <ptr target="I/14#147" type="page"/>
+                        <ptr target="I/14#487" type="page"/>
+                        <ptr target="I/14#496" type="page"/>
+                        <ptr target="I/14#638" type="page"/>
+                        <ptr target="I/14#666" type="page"/>
+                        <ptr target="I/14#946" type="page"/>
+                        <ptr target="I/14#1070" type="page"/>
+                        <ptr target="I/14#1086" type="page"/>
+                        <ptr target="I/14#1375" type="page"/>
+                        <ptr target="I/14#1377" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003388">
+                    <idno type="mega">1020065</idno>
+                    <persName type="reg">
+                        <name>Napier, Sir Joseph, 1st&#160;Baronet</name>
+                    </persName>
+                    <birth>1804</birth>
+                    <death>1882</death>
+                    <note>britischer Politiker, Tory; Mitglied des Unterhauses; 1852 Erster Kronanwalt, 1858/1859 Lordkanzler für Irland</note>
+                    <linkGrp>
+                        <ptr target="I/14#108" type="page"/>
+                        <ptr target="I/14#1042" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003390">
+                    <idno type="mega">1020078</idno>
+                    <persName type="reg">
+                        <name>Napoléon Eugène Louis Jean Joseph</name>
+                    </persName>
+                    <birth>1856</birth>
+                    <death>1879</death>
+                    <note>Sohn von Napoléon&#160;III, „Prince impérial“</note>
+                    <linkGrp>
+                        <ptr target="III/9#128" type="page"/>
+                        <ptr target="III/13#457" type="page"/>
+                        <ptr target="III/13#1165" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003393">
+                    <idno type="mega">1020073</idno>
+                    <persName type="reg">
+                        <name>Napoléon, prince eigtl. Napoléon Joseph Charles Paul Bonaparte genannt Plon-Plon</name>
+                    </persName>
+                    <birth>1822</birth>
+                    <death>1891</death>
+                    <note>Sohn des jüngsten Bruders von Napoléon&#160;Ier, Jérôme Bonaparte und Cousin von Napoléon&#160;III; nahm 1847 nach dem Tode seines älteren Bruders dessen Namen Jérôme an; 1854/55 Kommandeur einer Division auf der Krim</note>
+                    <linkGrp>
+                        <ptr target="I/14#187" type="page"/>
+                        <ptr target="I/14#195" type="page"/>
+                        <ptr target="I/14#197" type="page"/>
+                        <ptr target="I/14#199" type="page"/>
+                        <ptr target="I/14#203" type="page"/>
+                        <ptr target="I/14#220" type="page"/>
+                        <ptr target="I/14#221" type="page"/>
+                        <ptr target="I/14#1129" type="page"/>
+                        <ptr target="I/14#1130" type="page"/>
+                        <ptr target="I/14#1142" type="page"/>
+                        <ptr target="I/14#1144" type="page"/>
+                        <ptr target="I/14#1167" type="page"/>
+                        <ptr target="I/14#1200" type="page"/>
+                        <ptr target="I/14#1201" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003394">
+                    <idno type="mega">1020079</idno>
+                    <persName type="reg">
+                        <name>Napoléon, roi de Rome, (seit 1818) Herzog von Reichstadt eigtl. Napoléon François Charles Joseph Bonaparte</name>
+                    </persName>
+                    <birth>1811</birth>
+                    <death>1832</death>
+                    <note>Sohn Napoléons&#160;Ier mit Marie Louise von Österreich; 1814/1815 von seinem Vater zum Kaiser Napoléon&#160;II proklamiert</note>
+                    <linkGrp>
+                        <ptr target="IV/12#807" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003392">
+                    <idno type="mega">1020077</idno>
+                    <persName type="reg">
+                        <name>Napoléon&#160;III</name>
+                    </persName>
+                    <persName type="alt">
+                        <name>Badinguet</name>
+                    </persName>
+                    <persName type="alt">
+                        <name>Boustrapha, Boustrapa, Bustrapa</name>
+                    </persName>
+                    <persName type="alt">
+                        <name>Bonaparte</name>
+                    </persName>
+                    <persName type="alt">
+                        <name>Louis Bonaparte</name>
+                    </persName>
+                    <persName type="alt">
+                        <name>Louis Napoleon</name>
+                    </persName>
+                    <persName type="alt">
+                        <name>Napoleon le Petit</name>
+                    </persName>
+                    <birth>1808</birth>
+                    <death>1873</death>
+                    <note>Präsident der Zweiten Französchen Republik (1848–1852); Kaiser der
+                        Franzosen (1852–1870); Neffe von Napoléon&#160;Ier</note>
+                    <linkGrp>
+                        <ptr target="I/14#62" type="page"/>
+                        <ptr target="I/14#94" type="page"/>
+                        <ptr target="I/14#118" type="page"/>
+                        <ptr target="I/14#143" type="page"/>
+                        <ptr target="I/14#159" type="page"/>
+                        <ptr target="I/14#164" type="page"/>
+                        <ptr target="I/14#175" type="page"/>
+                        <ptr target="I/14#180–182" type="page"/>
+                        <ptr target="I/14#185" type="page"/>
+                        <ptr target="I/14#187" type="page"/>
+                        <ptr target="I/14#191" type="page"/>
+                        <ptr target="I/14#195–197" type="page"/>
+                        <ptr target="I/14#203–205" type="page"/>
+                        <ptr target="I/14#207" type="page"/>
+                        <ptr target="I/14#220–223" type="page"/>
+                        <ptr target="I/14#227" type="page"/>
+                        <ptr target="I/14#228" type="page"/>
+                        <ptr target="I/14#232" type="page"/>
+                        <ptr target="I/14#235" type="page"/>
+                        <ptr target="I/14#236" type="page"/>
+                        <ptr target="I/14#257" type="page"/>
+                        <ptr target="I/14#260" type="page"/>
+                        <ptr target="I/14#262" type="page"/>
+                        <ptr target="I/14#265" type="page"/>
+                        <ptr target="I/14#266" type="page"/>
+                        <ptr target="I/14#267" type="page"/>
+                        <ptr target="I/14#272–275" type="page"/>
+                        <ptr target="I/14#307" type="page"/>
+                        <ptr target="I/14#321" type="page"/>
+                        <ptr target="I/14#351" type="page"/>
+                        <ptr target="I/14#353" type="page"/>
+                        <ptr target="I/14#390" type="page"/>
+                        <ptr target="I/14#393" type="page"/>
+                        <ptr target="I/14#411" type="page"/>
+                        <ptr target="I/14#412–415" type="page"/>
+                        <ptr target="I/14#421" type="page"/>
+                        <ptr target="I/14#427–429" type="page"/>
+                        <ptr target="I/14#431" type="page"/>
+                        <ptr target="I/14#435" type="page"/>
+                        <ptr target="I/14#478" type="page"/>
+                        <ptr target="I/14#481" type="page"/>
+                        <ptr target="I/14#537" type="page"/>
+                        <ptr target="I/14#549" type="page"/>
+                        <ptr target="I/14#553" type="page"/>
+                        <ptr target="I/14#557" type="page"/>
+                        <ptr target="I/14#569" type="page"/>
+                        <ptr target="I/14#572" type="page"/>
+                        <ptr target="I/14#619" type="page"/>
+                        <ptr target="I/14#622" type="page"/>
+                        <ptr target="I/14#623" type="page"/>
+                        <ptr target="I/14#630" type="page"/>
+                        <ptr target="I/14#651" type="page"/>
+                        <ptr target="I/14#669" type="page"/>
+                        <ptr target="I/14#687" type="page"/>
+                        <ptr target="I/14#711" type="page"/>
+                        <ptr target="I/14#712" type="page"/>
+                        <ptr target="I/14#719" type="page"/>
+                        <ptr target="I/14#775" type="page"/>
+                        <ptr target="I/14#782" type="page"/>
+                        <ptr target="I/14#862" type="page"/>
+                        <ptr target="I/14#868" type="page"/>
+                        <ptr target="I/14#873" type="page"/>
+                        <ptr target="I/14#890" type="page"/>
+                        <ptr target="I/14#894" type="page"/>
+                        <ptr target="I/14#900" type="page"/>
+                        <ptr target="I/14#901" type="page"/>
+                        <ptr target="I/14#908" type="page"/>
+                        <ptr target="I/14#920" type="page"/>
+                        <ptr target="I/14#1028" type="page"/>
+                        <ptr target="I/14#1081" type="page"/>
+                        <ptr target="I/14#1110" type="page"/>
+                        <ptr target="I/14#1118" type="page"/>
+                        <ptr target="I/14#1120" type="page"/>
+                        <ptr target="I/14#1126" type="page"/>
+                        <ptr target="I/14#1140" type="page"/>
+                        <ptr target="I/14#1141" type="page"/>
+                        <ptr target="I/14#1147" type="page"/>
+                        <ptr target="I/14#1166" type="page"/>
+                        <ptr target="I/14#1167" type="page"/>
+                        <ptr target="I/14#1171" type="page"/>
+                        <ptr target="I/14#1173" type="page"/>
+                        <ptr target="I/14#1175" type="page"/>
+                        <ptr target="I/14#1176" type="page"/>
+                        <ptr target="I/14#1178–1180" type="page"/>
+                        <ptr target="I/14#1192" type="page"/>
+                        <ptr target="I/14#1199–1201" type="page"/>
+                        <ptr target="I/14#1250" type="page"/>
+                        <ptr target="I/14#1247" type="page"/>
+                        <ptr target="I/14#1254" type="page"/>
+                        <ptr target="I/14#1269" type="page"/>
+                        <ptr target="I/14#1270" type="page"/>
+                        <ptr target="I/14#1274" type="page"/>
+                        <ptr target="I/14#1280" type="page"/>
+                        <ptr target="I/14#1282" type="page"/>
+                        <ptr target="I/14#1298" type="page"/>
+                        <ptr target="I/14#1306" type="page"/>
+                        <ptr target="I/14#1313" type="page"/>
+                        <ptr target="I/14#1327" type="page"/>
+                        <ptr target="I/14#1342" type="page"/>
+                        <ptr target="I/14#1345" type="page"/>
+                        <ptr target="I/14#1346" type="page"/>
+                        <ptr target="I/14#1364" type="page"/>
+                        <ptr target="I/14#1374" type="page"/>
+                        <ptr target="I/14#1376" type="page"/>
+                        <ptr target="I/14#1381" type="page"/>
+                        <ptr target="I/14#1390" type="page"/>
+                        <ptr target="I/14#1401" type="page"/>
+                        <ptr target="I/14#1403" type="page"/>
+                        <ptr target="I/14#1404" type="page"/>
+                        <ptr target="I/14#1432" type="page"/>
+                        <ptr target="I/14#1468" type="page"/>
+                        <ptr target="I/14#1469" type="page"/>
+                        <ptr target="I/14#1498" type="page"/>
+                        <ptr target="I/14#1502" type="page"/>
+                        <ptr target="I/14#1548" type="page"/>
+                        <ptr target="I/14#1559" type="page"/>
+                        <ptr target="I/31#4" type="page"/>
+                        <ptr target="I/31#7" type="page"/>
+                        <ptr target="I/31#16" type="page"/>
+                        <ptr target="I/31#58" type="page"/>
+                        <ptr target="I/31#63" type="page"/>
+                        <ptr target="I/31#71–75" type="page"/>
+                        <ptr target="I/31#83–89" type="page"/>
+                        <ptr target="I/31#92–96" type="page"/>
+                        <ptr target="I/31#101" type="page"/>
+                        <ptr target="I/31#104" type="page"/>
+                        <ptr target="I/31#199" type="page"/>
+                        <ptr target="I/31#201" type="page"/>
+                        <ptr target="I/31#202" type="page"/>
+                        <ptr target="I/31#237" type="page"/>
+                        <ptr target="I/31#239–241" type="page"/>
+                        <ptr target="I/31#452" type="page"/>
+                        <ptr target="I/31#496" type="page"/>
+                        <ptr target="I/31#611" type="page"/>
+                        <ptr target="I/31#652" type="page"/>
+                        <ptr target="I/31#821–824" type="page"/>
+                        <ptr target="I/31#839" type="page"/>
+                        <ptr target="I/31#842" type="page"/>
+                        <ptr target="I/31#843" type="page"/>
+                        <ptr target="I/31#845" type="page"/>
+                        <ptr target="I/31#848" type="page"/>
+                        <ptr target="I/31#850" type="page"/>
+                        <ptr target="I/31#854" type="page"/>
+                        <ptr target="I/31#1002" type="page"/>
+                        <ptr target="I/31#1165" type="page"/>
+                        <ptr target="I/31#1259" type="page"/>
+                        <ptr target="III/9#46" type="page"/>
+                        <ptr target="III/9#48" type="page"/>
+                        <ptr target="III/9#57" type="page"/>
+                        <ptr target="III/9#61" type="page"/>
+                        <ptr target="III/9#66" type="page"/>
+                        <ptr target="III/9#67" type="page"/>
+                        <ptr target="III/9#71" type="page"/>
+                        <ptr target="III/9#75" type="page"/>
+                        <ptr target="III/9#77" type="page"/>
+                        <ptr target="III/9#81" type="page"/>
+                        <ptr target="III/9#95" type="page"/>
+                        <ptr target="III/9#105" type="page"/>
+                        <ptr target="III/9#106" type="page"/>
+                        <ptr target="III/9#107" type="page"/>
+                        <ptr target="III/9#108" type="page"/>
+                        <ptr target="III/9#115" type="page"/>
+                        <ptr target="III/9#132" type="page"/>
+                        <ptr target="III/9#133" type="page"/>
+                        <ptr target="III/9#156" type="page"/>
+                        <ptr target="III/9#172" type="page"/>
+                        <ptr target="III/9#176" type="page"/>
+                        <ptr target="III/9#184" type="page"/>
+                        <ptr target="III/9#201" type="page"/>
+                        <ptr target="III/9#204" type="page"/>
+                        <ptr target="III/9#232" type="page"/>
+                        <ptr target="III/9#235" type="page"/>
+                        <ptr target="III/9#248" type="page"/>
+                        <ptr target="III/9#252" type="page"/>
+                        <ptr target="III/9#275" type="page"/>
+                        <ptr target="III/9#291" type="page"/>
+                        <ptr target="III/9#297" type="page"/>
+                        <ptr target="III/9#298" type="page"/>
+                        <ptr target="III/9#299" type="page"/>
+                        <ptr target="III/9#309" type="page"/>
+                        <ptr target="III/9#322" type="page"/>
+                        <ptr target="III/9#342" type="page"/>
+                        <ptr target="III/9#349" type="page"/>
+                        <ptr target="III/9#361" type="page"/>
+                        <ptr target="III/9#362" type="page"/>
+                        <ptr target="III/9#386" type="page"/>
+                        <ptr target="III/9#397" type="page"/>
+                        <ptr target="III/9#398" type="page"/>
+                        <ptr target="III/9#399" type="page"/>
+                        <ptr target="III/9#400" type="page"/>
+                        <ptr target="III/9#405" type="page"/>
+                        <ptr target="III/9#415" type="page"/>
+                        <ptr target="III/9#427" type="page"/>
+                        <ptr target="III/9#428" type="page"/>
+                        <ptr target="III/9#441" type="page"/>
+                        <ptr target="III/9#467" type="page"/>
+                        <ptr target="III/9#475" type="page"/>
+                        <ptr target="III/9#476" type="page"/>
+                        <ptr target="III/9#478" type="page"/>
+                        <ptr target="III/9#481" type="page"/>
+                        <ptr target="III/9#485" type="page"/>
+                        <ptr target="III/9#486" type="page"/>
+                        <ptr target="III/9#487" type="page"/>
+                        <ptr target="III/9#488" type="page"/>
+                        <ptr target="III/9#492" type="page"/>
+                        <ptr target="III/9#493" type="page"/>
+                        <ptr target="III/9#498" type="page"/>
+                        <ptr target="III/9#503" type="page"/>
+                        <ptr target="III/9#506" type="page"/>
+                        <ptr target="III/9#507" type="page"/>
+                        <ptr target="III/9#513" type="page"/>
+                        <ptr target="III/9#514" type="page"/>
+                        <ptr target="III/9#520" type="page"/>
+                        <ptr target="III/9#521" type="page"/>
+                        <ptr target="III/9#523" type="page"/>
+                        <ptr target="III/9#543" type="page"/>
+                        <ptr target="III/9#548" type="page"/>
+                        <ptr target="III/9#549" type="page"/>
+                        <ptr target="III/9#603" type="page"/>
+                        <ptr target="III/9#604" type="page"/>
+                        <ptr target="III/9#618" type="page"/>
+                        <ptr target="III/9#621–629" type="page"/>
+                        <ptr target="III/9#632–634" type="page"/>
+                        <ptr target="III/9#640" type="page"/>
+                        <ptr target="III/9#641" type="page"/>
+                        <ptr target="III/9#649" type="page"/>
+                        <ptr target="III/9#650" type="page"/>
+                        <ptr target="III/9#652" type="page"/>
+                        <ptr target="III/9#679" type="page"/>
+                        <ptr target="III/9#684" type="page"/>
+                        <ptr target="III/9#709" type="page"/>
+                        <ptr target="III/9#718–720" type="page"/>
+                        <ptr target="III/9#732" type="page"/>
+                        <ptr target="III/9#739" type="page"/>
+                        <ptr target="III/9#743" type="page"/>
+                        <ptr target="III/9#744" type="page"/>
+                        <ptr target="III/9#755" type="page"/>
+                        <ptr target="III/9#759" type="page"/>
+                        <ptr target="III/9#760" type="page"/>
+                        <ptr target="III/9#765" type="page"/>
+                        <ptr target="III/9#780" type="page"/>
+                        <ptr target="III/9#781" type="page"/>
+                        <ptr target="III/9#793" type="page"/>
+                        <ptr target="III/9#800" type="page"/>
+                        <ptr target="III/9#802" type="page"/>
+                        <ptr target="III/9#821" type="page"/>
+                        <ptr target="III/9#832" type="page"/>
+                        <ptr target="III/9#841" type="page"/>
+                        <ptr target="III/9#857" type="page"/>
+                        <ptr target="III/9#889" type="page"/>
+                        <ptr target="III/9#915" type="page"/>
+                        <ptr target="III/9#942" type="page"/>
+                        <ptr target="III/9#964" type="page"/>
+                        <ptr target="III/9#966" type="page"/>
+                        <ptr target="III/9#972" type="page"/>
+                        <ptr target="III/9#986" type="page"/>
+                        <ptr target="III/9#996" type="page"/>
+                        <ptr target="III/9#1011" type="page"/>
+                        <ptr target="III/9#1071" type="page"/>
+                        <ptr target="III/9#1088" type="page"/>
+                        <ptr target="III/9#1092" type="page"/>
+                        <ptr target="III/9#1102" type="page"/>
+                        <ptr target="III/9#1119" type="page"/>
+                        <ptr target="III/9#1130" type="page"/>
+                        <ptr target="III/9#1131" type="page"/>
+                        <ptr target="III/9#1137" type="page"/>
+                        <ptr target="III/9#1155" type="page"/>
+                        <ptr target="III/9#1163" type="page"/>
+                        <ptr target="III/9#1166" type="page"/>
+                        <ptr target="III/9#1186" type="page"/>
+                        <ptr target="III/9#1192" type="page"/>
+                        <ptr target="III/9#1197" type="page"/>
+                        <ptr target="III/10#6–8" type="page"/>
+                        <ptr target="III/10#39" type="page"/>
+                        <ptr target="III/10#52" type="page"/>
+                        <ptr target="III/10#62" type="page"/>
+                        <ptr target="III/10#80" type="page"/>
+                        <ptr target="III/10#83" type="page"/>
+                        <ptr target="III/10#95" type="page"/>
+                        <ptr target="III/10#102" type="page"/>
+                        <ptr target="III/10#103" type="page"/>
+                        <ptr target="III/10#114" type="page"/>
+                        <ptr target="III/10#128" type="page"/>
+                        <ptr target="III/10#170" type="page"/>
+                        <ptr target="III/10#176" type="page"/>
+                        <ptr target="III/10#178" type="page"/>
+                        <ptr target="III/10#188" type="page"/>
+                        <ptr target="III/10#232" type="page"/>
+                        <ptr target="III/10#284" type="page"/>
+                        <ptr target="III/10#285" type="page"/>
+                        <ptr target="III/10#298–300" type="page"/>
+                        <ptr target="III/10#308" type="page"/>
+                        <ptr target="III/10#346" type="page"/>
+                        <ptr target="III/10#347" type="page"/>
+                        <ptr target="III/10#351–353" type="page"/>
+                        <ptr target="III/10#362" type="page"/>
+                        <ptr target="III/10#367" type="page"/>
+                        <ptr target="III/10#373" type="page"/>
+                        <ptr target="III/10#374" type="page"/>
+                        <ptr target="III/10#395–398" type="page"/>
+                        <ptr target="III/10#417" type="page"/>
+                        <ptr target="III/10#418" type="page"/>
+                        <ptr target="III/10#424" type="page"/>
+                        <ptr target="III/10#426" type="page"/>
+                        <ptr target="III/10#427" type="page"/>
+                        <ptr target="III/10#462" type="page"/>
+                        <ptr target="III/10#463" type="page"/>
+                        <ptr target="III/10#486" type="page"/>
+                        <ptr target="III/10#487" type="page"/>
+                        <ptr target="III/10#497" type="page"/>
+                        <ptr target="III/10#498" type="page"/>
+                        <ptr target="III/10#506" type="page"/>
+                        <ptr target="III/10#509" type="page"/>
+                        <ptr target="III/10#522" type="page"/>
+                        <ptr target="III/10#528" type="page"/>
+                        <ptr target="III/10#544" type="page"/>
+                        <ptr target="III/10#549" type="page"/>
+                        <ptr target="III/10#550" type="page"/>
+                        <ptr target="III/10#566" type="page"/>
+                        <ptr target="III/10#570" type="page"/>
+                        <ptr target="III/10#575–577" type="page"/>
+                        <ptr target="III/10#583" type="page"/>
+                        <ptr target="III/10#584" type="page"/>
+                        <ptr target="III/10#616–618" type="page"/>
+                        <ptr target="III/10#620" type="page"/>
+                        <ptr target="III/10#624" type="page"/>
+                        <ptr target="III/10#646" type="page"/>
+                        <ptr target="III/10#652" type="page"/>
+                        <ptr target="III/10#653" type="page"/>
+                        <ptr target="III/10#656" type="page"/>
+                        <ptr target="III/10#657" type="page"/>
+                        <ptr target="III/10#681" type="page"/>
+                        <ptr target="III/10#714" type="page"/>
+                        <ptr target="III/10#723" type="page"/>
+                        <ptr target="III/10#757" type="page"/>
+                        <ptr target="III/10#823" type="page"/>
+                        <ptr target="III/10#826" type="page"/>
+                        <ptr target="III/10#904" type="page"/>
+                        <ptr target="III/10#924" type="page"/>
+                        <ptr target="III/10#958" type="page"/>
+                        <ptr target="III/10#959" type="page"/>
+                        <ptr target="III/10#961" type="page"/>
+                        <ptr target="III/10#970" type="page"/>
+                        <ptr target="III/10#979" type="page"/>
+                        <ptr target="III/10#994" type="page"/>
+                        <ptr target="III/10#995" type="page"/>
+                        <ptr target="III/10#1004" type="page"/>
+                        <ptr target="III/10#1028" type="page"/>
+                        <ptr target="III/10#1029" type="page"/>
+                        <ptr target="III/10#1038" type="page"/>
+                        <ptr target="III/10#1039" type="page"/>
+                        <ptr target="III/10#1063" type="page"/>
+                        <ptr target="III/10#1066" type="page"/>
+                        <ptr target="III/10#1068" type="page"/>
+                        <ptr target="III/10#1074" type="page"/>
+                        <ptr target="III/10#1093" type="page"/>
+                        <ptr target="III/10#1106" type="page"/>
+                        <ptr target="III/10#1112" type="page"/>
+                        <ptr target="III/10#1126" type="page"/>
+                        <ptr target="III/10#1130" type="page"/>
+                        <ptr target="III/10#1146" type="page"/>
+                        <ptr target="III/10#1149" type="page"/>
+                        <ptr target="III/10#1166" type="page"/>
+                        <ptr target="III/10#1173" type="page"/>
+                        <ptr target="III/10#1177" type="page"/>
+                        <ptr target="III/11#9" type="page"/>
+                        <ptr target="III/11#20" type="page"/>
+                        <ptr target="III/11#24" type="page"/>
+                        <ptr target="III/11#32" type="page"/>
+                        <ptr target="III/11#33" type="page"/>
+                        <ptr target="III/11#38" type="page"/>
+                        <ptr target="III/11#46" type="page"/>
+                        <ptr target="III/11#51" type="page"/>
+                        <ptr target="III/11#62" type="page"/>
+                        <ptr target="III/11#69" type="page"/>
+                        <ptr target="III/11#74" type="page"/>
+                        <ptr target="III/11#79" type="page"/>
+                        <ptr target="III/11#92" type="page"/>
+                        <ptr target="III/11#149–151" type="page"/>
+                        <ptr target="III/11#156" type="page"/>
+                        <ptr target="III/11#158–160" type="page"/>
+                        <ptr target="III/11#166–169" type="page"/>
+                        <ptr target="III/11#179" type="page"/>
+                        <ptr target="III/11#180" type="page"/>
+                        <ptr target="III/11#182" type="page"/>
+                        <ptr target="III/11#187" type="page"/>
+                        <ptr target="III/11#191" type="page"/>
+                        <ptr target="III/11#192" type="page"/>
+                        <ptr target="III/11#196" type="page"/>
+                        <ptr target="III/11#207" type="page"/>
+                        <ptr target="III/11#218" type="page"/>
+                        <ptr target="III/11#248" type="page"/>
+                        <ptr target="III/11#260" type="page"/>
+                        <ptr target="III/11#268" type="page"/>
+                        <ptr target="III/11#291" type="page"/>
+                        <ptr target="III/11#292" type="page"/>
+                        <ptr target="III/11#304" type="page"/>
+                        <ptr target="III/11#307" type="page"/>
+                        <ptr target="III/11#316" type="page"/>
+                        <ptr target="III/11#321" type="page"/>
+                        <ptr target="III/11#326" type="page"/>
+                        <ptr target="III/11#359" type="page"/>
+                        <ptr target="III/11#480" type="page"/>
+                        <ptr target="III/11#488" type="page"/>
+                        <ptr target="III/11#501" type="page"/>
+                        <ptr target="III/11#553" type="page"/>
+                        <ptr target="III/11#554" type="page"/>
+                        <ptr target="III/11#581" type="page"/>
+                        <ptr target="III/11#587" type="page"/>
+                        <ptr target="III/11#602" type="page"/>
+                        <ptr target="III/11#605" type="page"/>
+                        <ptr target="III/11#678" type="page"/>
+                        <ptr target="III/11#679" type="page"/>
+                        <ptr target="III/11#681–687" type="page"/>
+                        <ptr target="III/11#695" type="page"/>
+                        <ptr target="III/11#706" type="page"/>
+                        <ptr target="III/11#710" type="page"/>
+                        <ptr target="III/11#741" type="page"/>
+                        <ptr target="III/11#747" type="page"/>
+                        <ptr target="III/11#753" type="page"/>
+                        <ptr target="III/11#760" type="page"/>
+                        <ptr target="III/11#762" type="page"/>
+                        <ptr target="III/11#763" type="page"/>
+                        <ptr target="III/11#765" type="page"/>
+                        <ptr target="III/11#767" type="page"/>
+                        <ptr target="III/11#768" type="page"/>
+                        <ptr target="III/11#773" type="page"/>
+                        <ptr target="III/11#781–784" type="page"/>
+                        <ptr target="III/11#807" type="page"/>
+                        <ptr target="III/11#816" type="page"/>
+                        <ptr target="III/11#821" type="page"/>
+                        <ptr target="III/11#825" type="page"/>
+                        <ptr target="III/11#830" type="page"/>
+                        <ptr target="III/11#834" type="page"/>
+                        <ptr target="III/11#836" type="page"/>
+                        <ptr target="III/11#886" type="page"/>
+                        <ptr target="III/11#892" type="page"/>
+                        <ptr target="III/11#901" type="page"/>
+                        <ptr target="III/11#910" type="page"/>
+                        <ptr target="III/11#923" type="page"/>
+                        <ptr target="III/11#956" type="page"/>
+                        <ptr target="III/11#990" type="page"/>
+                        <ptr target="III/11#1013" type="page"/>
+                        <ptr target="III/11#1048" type="page"/>
+                        <ptr target="III/11#1104" type="page"/>
+                        <ptr target="III/11#1116" type="page"/>
+                        <ptr target="III/11#1202" type="page"/>
+                        <ptr target="III/11#1251" type="page"/>
+                        <ptr target="III/11#1265" type="page"/>
+                        <ptr target="III/13#43" type="page"/>
+                        <ptr target="III/13#71" type="page"/>
+                        <ptr target="III/13#72" type="page"/>
+                        <ptr target="III/13#89" type="page"/>
+                        <ptr target="III/13#107" type="page"/>
+                        <ptr target="III/13#115" type="page"/>
+                        <ptr target="III/13#116" type="page"/>
+                        <ptr target="III/13#134" type="page"/>
+                        <ptr target="III/13#316" type="page"/>
+                        <ptr target="III/13#326" type="page"/>
+                        <ptr target="III/13#379" type="page"/>
+                        <ptr target="III/13#384" type="page"/>
+                        <ptr target="III/13#416" type="page"/>
+                        <ptr target="III/13#457" type="page"/>
+                        <ptr target="III/13#458" type="page"/>
+                        <ptr target="III/13#464" type="page"/>
+                        <ptr target="III/13#519" type="page"/>
+                        <ptr target="III/13#528" type="page"/>
+                        <ptr target="III/13#573" type="page"/>
+                        <ptr target="III/13#612" type="page"/>
+                        <ptr target="III/13#658" type="page"/>
+                        <ptr target="III/13#808" type="page"/>
+                        <ptr target="III/13#836" type="page"/>
+                        <ptr target="III/13#993" type="page"/>
+                        <ptr target="III/13#994" type="page"/>
+                        <ptr target="III/13#1083" type="page"/>
+                        <ptr target="III/13#1087" type="page"/>
+                        <ptr target="III/13#1123" type="page"/>
+                        <ptr target="III/13#1165" type="page"/>
+                        <ptr target="III/13#1166" type="page"/>
+                        <ptr target="III/13#1219" type="page"/>
+                        <ptr target="III/13#1227" type="page"/>
+                        <ptr target="III/13#1261" type="page"/>
+                        <ptr target="II/15#783" type="page"/>
+                        <ptr target="II/15#940" type="page"/>
+                        <ptr target="II/15#1212" type="page"/>
+                        <ptr target="II/15#1251" type="page"/>
+                        <ptr target="IV/12#186" type="page"/>
+                        <ptr target="IV/12#192" type="page"/>
+                        <ptr target="IV/12#967" type="page"/>
+                        <ptr target="IV/12#1161" type="page"/>
+                        <ptr target="IV/12#1165" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003391">
+                    <idno type="mega">1020074</idno>
+                    <persName type="reg">
+                        <name>Napoléon&#160;Ier Bonaparte</name>
+                    </persName>
+                    <persName type="alt">
+                        <name>Jupiter-Scapin</name>
+                    </persName>
+                    <birth>1769</birth>
+                    <death>1821</death>
+                    <note>Kaiser der Franzosen (1804–1814 und 1815)</note>
+                    <linkGrp>
+                        <ptr target="I/14#7" type="page"/>
+                        <ptr target="I/14#16" type="page"/>
+                        <ptr target="I/14#131" type="page"/>
+                        <ptr target="I/14#149" type="page"/>
+                        <ptr target="I/14#164" type="page"/>
+                        <ptr target="I/14#197" type="page"/>
+                        <ptr target="I/14#204" type="page"/>
+                        <ptr target="I/14#205" type="page"/>
+                        <ptr target="I/14#238" type="page"/>
+                        <ptr target="I/14#350" type="page"/>
+                        <ptr target="I/14#403" type="page"/>
+                        <ptr target="I/14#408" type="page"/>
+                        <ptr target="I/14#415" type="page"/>
+                        <ptr target="I/14#428" type="page"/>
+                        <ptr target="I/14#471" type="page"/>
+                        <ptr target="I/14#472" type="page"/>
+                        <ptr target="I/14#474" type="page"/>
+                        <ptr target="I/14#480" type="page"/>
+                        <ptr target="I/14#528" type="page"/>
+                        <ptr target="I/14#540" type="page"/>
+                        <ptr target="I/14#620" type="page"/>
+                        <ptr target="I/14#623" type="page"/>
+                        <ptr target="I/14#696" type="page"/>
+                        <ptr target="I/14#712" type="page"/>
+                        <ptr target="I/14#738–741" type="page"/>
+                        <ptr target="I/14#747" type="page"/>
+                        <ptr target="I/14#749" type="page"/>
+                        <ptr target="I/14#784" type="page"/>
+                        <ptr target="I/14#815" type="page"/>
+                        <ptr target="I/14#869" type="page"/>
+                        <ptr target="I/14#897" type="page"/>
+                        <ptr target="I/14#901" type="page"/>
+                        <ptr target="I/14#936" type="page"/>
+                        <ptr target="I/14#946" type="page"/>
+                        <ptr target="I/14#1066" type="page"/>
+                        <ptr target="I/14#1139" type="page"/>
+                        <ptr target="I/14#1140" type="page"/>
+                        <ptr target="I/14#1144" type="page"/>
+                        <ptr target="I/14#1145" type="page"/>
+                        <ptr target="I/14#1162" type="page"/>
+                        <ptr target="I/14#1167" type="page"/>
+                        <ptr target="I/14#1178" type="page"/>
+                        <ptr target="I/14#1182" type="page"/>
+                        <ptr target="I/14#1191" type="page"/>
+                        <ptr target="I/14#1200" type="page"/>
+                        <ptr target="I/14#1205" type="page"/>
+                        <ptr target="I/14#1206" type="page"/>
+                        <ptr target="I/14#1270" type="page"/>
+                        <ptr target="I/14#1291" type="page"/>
+                        <ptr target="I/14#1321" type="page"/>
+                        <ptr target="I/14#1322" type="page"/>
+                        <ptr target="I/14#1325" type="page"/>
+                        <ptr target="I/14#1327" type="page"/>
+                        <ptr target="I/14#1338" type="page"/>
+                        <ptr target="I/14#1339" type="page"/>
+                        <ptr target="I/14#1340" type="page"/>
+                        <ptr target="I/14#1373" type="page"/>
+                        <ptr target="I/14#1374" type="page"/>
+                        <ptr target="I/14#1386" type="page"/>
+                        <ptr target="I/14#1445" type="page"/>
+                        <ptr target="I/14#1501" type="page"/>
+                        <ptr target="I/14#1503" type="page"/>
+                        <ptr target="I/14#1506" type="page"/>
+                        <ptr target="I/14#1522" type="page"/>
+                        <ptr target="I/14#1538" type="page"/>
+                        <ptr target="I/14#1539" type="page"/>
+                        <ptr target="I/31#66" type="page"/>
+                        <ptr target="I/31#70" type="page"/>
+                        <ptr target="I/31#74" type="page"/>
+                        <ptr target="I/31#77" type="page"/>
+                        <ptr target="I/31#113" type="page"/>
+                        <ptr target="I/31#189–193" type="page"/>
+                        <ptr target="I/31#196" type="page"/>
+                        <ptr target="I/31#227–231" type="page"/>
+                        <ptr target="I/31#233" type="page"/>
+                        <ptr target="I/31#281" type="page"/>
+                        <ptr target="I/31#416" type="page"/>
+                        <ptr target="I/31#578" type="page"/>
+                        <ptr target="I/31#675" type="page"/>
+                        <ptr target="I/31#722" type="page"/>
+                        <ptr target="I/31#762" type="page"/>
+                        <ptr target="I/31#817" type="page"/>
+                        <ptr target="I/31#819" type="page"/>
+                        <ptr target="I/31#822" type="page"/>
+                        <ptr target="I/31#825" type="page"/>
+                        <ptr target="I/31#826" type="page"/>
+                        <ptr target="I/31#829" type="page"/>
+                        <ptr target="I/31#830" type="page"/>
+                        <ptr target="I/31#839" type="page"/>
+                        <ptr target="I/31#856" type="page"/>
+                        <ptr target="I/31#863" type="page"/>
+                        <ptr target="I/31#977" type="page"/>
+                        <ptr target="I/31#980" type="page"/>
+                        <ptr target="I/31#988–991" type="page"/>
+                        <ptr target="I/31#994" type="page"/>
+                        <ptr target="I/31#995" type="page"/>
+                        <ptr target="I/31#1003" type="page"/>
+                        <ptr target="II/15#594" type="page"/>
+                        <ptr target="II/15#940" type="page"/>
+                        <ptr target="III/9#65" type="page"/>
+                        <ptr target="III/9#66" type="page"/>
+                        <ptr target="III/9#475" type="page"/>
+                        <ptr target="III/9#521" type="page"/>
+                        <ptr target="III/9#523" type="page"/>
+                        <ptr target="III/9#597" type="page"/>
+                        <ptr target="III/9#744" type="page"/>
+                        <ptr target="III/9#1089" type="page"/>
+                        <ptr target="III/9#1129" type="page"/>
+                        <ptr target="III/9#1131" type="page"/>
+                        <ptr target="III/9#1166" type="page"/>
+                        <ptr target="III/10#215" type="page"/>
+                        <ptr target="III/10#383" type="page"/>
+                        <ptr target="III/10#979" type="page"/>
+                        <ptr target="III/10#985" type="page"/>
+                        <ptr target="III/13#89" type="page"/>
+                        <ptr target="III/13#115" type="page"/>
+                        <ptr target="III/13#174" type="page"/>
+                        <ptr target="III/13#204" type="page"/>
+                        <ptr target="III/13#315" type="page"/>
+                        <ptr target="III/13#457" type="page"/>
+                        <ptr target="III/13#1163" type="page"/>
+                        <ptr target="III/13#1165" type="page"/>
+                        <ptr target="IV/12#15" type="page"/>
+                        <ptr target="IV/12#168" type="page"/>
+                        <ptr target="IV/12#345" type="page"/>
+                        <ptr target="IV/12#399" type="page"/>
+                        <ptr target="IV/12#404" type="page"/>
+                        <ptr target="IV/12#407" type="page"/>
+                        <ptr target="IV/12#420" type="page"/>
+                        <ptr target="IV/12#484" type="page"/>
+                        <ptr target="IV/12#494" type="page"/>
+                        <ptr target="IV/12#499" type="page"/>
+                        <ptr target="IV/12#595–597" type="page"/>
+                        <ptr target="IV/12#600" type="page"/>
+                        <ptr target="IV/12#601" type="page"/>
+                        <ptr target="IV/12#604" type="page"/>
+                        <ptr target="IV/12#605" type="page"/>
+                        <ptr target="IV/12#608" type="page"/>
+                        <ptr target="IV/12#615" type="page"/>
+                        <ptr target="IV/12#617–619" type="page"/>
+                        <ptr target="IV/12#622–624" type="page"/>
+                        <ptr target="IV/12#632" type="page"/>
+                        <ptr target="IV/12#633" type="page"/>
+                        <ptr target="IV/12#636" type="page"/>
+                        <ptr target="IV/12#650" type="page"/>
+                        <ptr target="IV/12#654" type="page"/>
+                        <ptr target="IV/12#657" type="page"/>
+                        <ptr target="IV/12#658" type="page"/>
+                        <ptr target="IV/12#660" type="page"/>
+                        <ptr target="IV/12#663" type="page"/>
+                        <ptr target="IV/12#664" type="page"/>
+                        <ptr target="IV/12#666" type="page"/>
+                        <ptr target="IV/12#671–673" type="page"/>
+                        <ptr target="IV/12#679" type="page"/>
+                        <ptr target="IV/12#680" type="page"/>
+                        <ptr target="IV/12#682" type="page"/>
+                        <ptr target="IV/12#698" type="page"/>
+                        <ptr target="IV/12#703" type="page"/>
+                        <ptr target="IV/12#709" type="page"/>
+                        <ptr target="IV/12#712" type="page"/>
+                        <ptr target="IV/12#714" type="page"/>
+                        <ptr target="IV/12#765" type="page"/>
+                        <ptr target="IV/12#776" type="page"/>
+                        <ptr target="IV/12#789" type="page"/>
+                        <ptr target="IV/12#796" type="page"/>
+                        <ptr target="IV/12#800" type="page"/>
+                        <ptr target="IV/12#803" type="page"/>
+                        <ptr target="IV/12#804" type="page"/>
+                        <ptr target="IV/12#806" type="page"/>
+                        <ptr target="IV/12#807" type="page"/>
+                        <ptr target="IV/12#820" type="page"/>
+                        <ptr target="IV/12#883" type="page"/>
+                        <ptr target="IV/12#922" type="page"/>
+                        <ptr target="IV/12#976" type="page"/>
+                        <ptr target="IV/12#1055" type="page"/>
+                        <ptr target="IV/12#1069" type="page"/>
+                        <ptr target="IV/12#1147" type="page"/>
+                        <ptr target="IV/12#1248–1250" type="page"/>
+                        <ptr target="IV/12#1257" type="page"/>
+                        <ptr target="IV/12#1262" type="page"/>
+                        <ptr target="IV/12#1263" type="page"/>
+                        <ptr target="IV/12#1277" type="page"/>
+                        <ptr target="IV/12#1278" type="page"/>
+                        <ptr target="IV/12#1315" type="page"/>
+                        <ptr target="IV/12#1316" type="page"/>
+                        <ptr target="IV/12#1326" type="page"/>
+                        <ptr target="IV/12#1329" type="page"/>
+                        <ptr target="IV/12#1330" type="page"/>
+                        <ptr target="IV/12#1332" type="page"/>
+                        <ptr target="IV/12#1336" type="page"/>
+                        <ptr target="IV/12#1338" type="page"/>
+                        <ptr target="IV/12#1342" type="page"/>
+                        <ptr target="IV/12#1349" type="page"/>
+                        <ptr target="IV/12#1352" type="page"/>
+                        <ptr target="IV/12#1353" type="page"/>
+                        <ptr target="IV/12#1362" type="page"/>
+                        <ptr target="IV/12#1363" type="page"/>
+                        <ptr target="IV/12#1382" type="page"/>
+                        <ptr target="IV/12#1389" type="page"/>
+                        <ptr target="IV/12#1392" type="page"/>
+                        <ptr target="IV/12#1425" type="page"/>
+                        <ptr target="IV/12#1456" type="page"/>
+                        <ptr target="IV/12#1465" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003395">
+                    <idno type="mega">1020091</idno>
+                    <persName type="reg">
+                        <name>Narváez, Ramón María, duque de Valencia</name>
+                    </persName>
+                    <birth>1800</birth>
+                    <death>1868</death>
+                    <note>spanischer General und Staatsmann, Leiter der Partei der Moderados; Ministerpräsident (1844–1846, 1847–1851, 1856/1857, 1864/1865 und 1866–1868); spanischer General und Staatsmann, Führer der Moderados</note>
+                    <linkGrp>
+                        <ptr target="I/14#526" type="page"/>
+                        <ptr target="I/14#527" type="page"/>
+                        <ptr target="IV/12#400" type="page"/>
+                        <ptr target="IV/12#412" type="page"/>
+                        <ptr target="IV/12#415" type="page"/>
+                        <ptr target="IV/12#416" type="page"/>
+                        <ptr target="IV/12#418" type="page"/>
+                        <ptr target="IV/12#420" type="page"/>
+                        <ptr target="IV/12#424–429" type="page"/>
+                        <ptr target="IV/12#433–439" type="page"/>
+                        <ptr target="IV/12#443" type="page"/>
+                        <ptr target="IV/12#451" type="page"/>
+                        <ptr target="IV/12#863" type="page"/>
+                        <ptr target="IV/12#872" type="page"/>
+                        <ptr target="IV/12#873" type="page"/>
+                        <ptr target="IV/12#937" type="page"/>
+                        <ptr target="IV/12#1223" type="page"/>
+                        <ptr target="IV/12#1247" type="page"/>
+                        <ptr target="IV/12#1254" type="page"/>
+                        <ptr target="IV/12#1258" type="page"/>
+                        <ptr target="IV/12#1261" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003396">
+                    <idno type="mega">1020094</idno>
+                    <persName type="reg">
+                        <surname>Nash</surname>
+                        <forename>Robert Lucas</forename>
+                    </persName>
+                    <birth>1846</birth>
+                    <death>1921</death>
+                    <note>australischer Verleger und Journalist englischer Herkunft</note>
+                    <linkGrp>
+                        <ptr target="II/14#447" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003397">
+                    <idno type="mega">1020096</idno>
+                    <persName type="reg">
+                        <name>Nasif Ahmed Pascha</name>
+                    </persName>
+                    <note>osmanischer Militär und Politiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#206" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003398">
+                    <idno type="mega">1020100</idno>
+                    <persName type="reg">
+                        <surname>Nasmyth</surname>
+                        <forename>Charles</forename>
+                    </persName>
+                    <birth>1826</birth>
+                    <death>1861</death>
+                    <note>britischer Offizier; 1854 Berichterstatter für die „Times“ im Stab von Omer Pascha an der Donau</note>
+                    <linkGrp>
+                        <ptr target="IV/12#994" type="page"/>
+                        <ptr target="IV/12#995" type="page"/>
+                        <ptr target="IV/12#997" type="page"/>
+                        <ptr target="IV/12#1489" type="page"/>
+                        <ptr target="IV/12#1490" type="page"/>
+                        <ptr target="IV/12#1492" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003399">
+                    <idno type="mega">1020101</idno>
+                    <persName type="reg">
+                        <surname>Nasmyth</surname>
+                        <forename>James</forename>
+                    </persName>
+                    <birth>1808</birth>
+                    <death>1890</death>
+                    <note>britischer Ingenieur, Erfinder des Dampfhammers</note>
+                    <linkGrp>
+                        <ptr target="II/14#171" type="page"/>
+                        <ptr target="II/14#218" type="page"/>
+                        <ptr target="II/14#727" type="page"/>
+                        <ptr target="II/14#807" type="page"/>
+                        <ptr target="II/15#97" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003400">
+                    <idno type="mega">1020105</idno>
+                    <persName type="reg">
+                        <name>Nassau-Siegen, Karl Heinrich Nikolaus Otto, Prinz von</name>
+                    </persName>
+                    <birth>1745</birth>
+                    <death>1808</death>
+                    <note>deutscher Abenteurer, von 1786–1790 in russischen Diensten, Flottenkommandeur im Kampf gegen die Türken (1787) und Schweden (1789/90)</note>
+                    <linkGrp>
+                        <ptr target="I/14#736" type="page"/>
+                        <ptr target="I/14#737" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003401">
+                    <idno type="mega">1020106</idno>
+                    <persName type="reg">
+                        <surname>Nasse</surname>
+                        <forename>Erwin</forename>
+                    </persName>
+                    <birth>1829</birth>
+                    <death>1890</death>
+                    <note>deutscher Ökonom; Professor in Basel, Rostock und Bonn</note>
+                    <linkGrp>
+                        <ptr target="II/11#1610" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003402">
+                    <idno type="mega">1020138</idno>
+                    <persName type="reg">
+                        <surname>Nauwerck</surname>
+                        <forename>Karl</forename>
+                    </persName>
+                    <birth>1810</birth>
+                    <death>1891</death>
+                    <note>deutscher Publizist, Junghegelianer; Abgeordneter der Frankfurter Nationalversammlung (äußerste Linke); Emigrant in der Schweiz</note>
+                    <linkGrp>
+                        <ptr target="III/10#487" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003403">
+                    <idno type="mega">1020139</idno>
+                    <persName type="reg">
+                        <surname>Nava Álvarez de Noroña</surname>
+                        <forename>Gaspar María de conde de Noroña</forename>
+                    </persName>
+                    <birth>1760</birth>
+                    <death>1815</death>
+                    <note>spanischer Offizier und Dichter</note>
+                    <linkGrp>
+                        <ptr target="IV/12#606" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003404">
+                    <idno type="mega">1020141</idno>
+                    <persName type="reg">
+                        <name>Navarro</name>
+                    </persName>
+                    <note>Räuberhauptmann aus Andalusien</note>
+                    <linkGrp>
+                        <ptr target="IV/12#440" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003405">
+                    <idno type="mega">1020143</idno>
+                    <persName type="reg">
+                        <surname>Navarro</surname>
+                        <forename>Felipe Benicio</forename>
+                    </persName>
+                    <note>spanischer Rechtsanwalt, Politiker; Abgeordneter, 1822/1823 Justizminister im vierten konstitutionellen Ministerium</note>
+                    <linkGrp>
+                        <ptr target="IV/12#476" type="page"/>
+                        <ptr target="IV/12#802" type="page"/>
+                        <ptr target="IV/12#821" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003406">
+                    <idno type="mega">1020144</idno>
+                    <persName type="reg">
+                        <name>Navarro Sangran, Joaquín, conde de Casa Sarría</name>
+                    </persName>
+                    <birth>1769</birth>
+                    <death>1844</death>
+                    <note>spanischer General und Politiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#764" type="page"/>
+                        <ptr target="IV/12#765" type="page"/>
+                        <ptr target="IV/12#802" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003407">
+                    <idno type="mega">1020145</idno>
+                    <persName type="reg">
+                        <name>Navas, Luis Antonio Pizarro, conde de las</name>
+                    </persName>
+                    <birth>1788</birth>
+                    <death>1855</death>
+                    <note>spanischer Militär und Politiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#425" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003408">
+                    <idno type="mega">1020154</idno>
+                    <persName type="reg">
+                        <surname>Neale</surname>
+                        <forename>John Mason</forename>
+                    </persName>
+                    <birth>1818</birth>
+                    <death>1866</death>
+                    <note>englischer Geistlicher, Schriftsteller; Verfasser von Werken zur Kirchengeschichte</note>
+                    <linkGrp>
+                        <ptr target="IV/12#23" type="page"/>
+                        <ptr target="IV/12#29" type="page"/>
+                        <ptr target="IV/12#1038" type="page"/>
+                        <ptr target="IV/12#1070" type="page"/>
+                        <ptr target="IV/12#1071" type="page"/>
+                        <ptr target="IV/12#1098" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003409">
+                    <idno type="mega">1020157</idno>
+                    <persName type="reg">
+                        <surname>Neate</surname>
+                        <forename>Charles</forename>
+                    </persName>
+                    <birth>1806</birth>
+                    <death>1879</death>
+                    <note>englischer Ökonom und politischer Publizist; Liberaler; Mitglied des Parlaments (1863–1868)</note>
+                    <linkGrp>
+                        <ptr target="II/15#849" type="page"/>
+                        <ptr target="II/15#1262" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003410">
+                    <idno type="mega">1020158</idno>
+                    <persName type="reg">
+                        <surname>Neave</surname>
+                        <forename>Sheffield</forename>
+                    </persName>
+                    <birth>1799</birth>
+                    <death>1868</death>
+                    <note>einer der Direktoren der Bank of England (seit 1849), Vizegouverneur (1855–1857), Gouverneur (1857–1859)</note>
+                    <linkGrp>
+                        <ptr target="II/15#472" type="page"/>
+                        <ptr target="II/15#518" type="page"/>
+                        <ptr target="II/15#519" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011236">
+                    <idno type="mega">1020160</idno>
+                    <persName type="reg">
+                        <name>Nebukadnezar</name>
+                    </persName>
+                    <note>König von Babylon (604 bis 562 v.&#160;Chr.)</note>
+                    <linkGrp>
+                        <ptr target="III/13#115" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003412">
+                    <idno type="mega">1020168</idno>
+                    <persName type="reg">
+                        <surname>Necker</surname>
+                        <forename>Jacques</forename>
+                    </persName>
+                    <birth>1732</birth>
+                    <death>1804</death>
+                    <note>französischer Bankier und Politiker; Finanzminister (1777–1781, 1788–1790)</note>
+                    <linkGrp>
+                        <ptr target="II/14#345" type="page"/>
+                        <ptr target="II/14#348" type="page"/>
+                        <ptr target="II/14#1027" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003413">
+                    <idno type="mega">1020169</idno>
+                    <persName type="reg">
+                        <surname>Nedbál</surname>
+                        <forename>Ferenc Ignác</forename>
+                    </persName>
+                    <note>ungarischer Offizier; Teilnehmer der Nationalbewegung 1848/49, Emigrant in London; ab 1860 als Anhänger Garibaldis in Italien, 1864 italienischer Offizier</note>
+                    <linkGrp>
+                        <ptr target="IV/12#953" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003414">
+                    <idno type="mega">1020170</idno>
+                    <persName type="reg">
+                        <name>Nedjib Bei</name>
+                    </persName>
+                    <note>1839 Stellvertreter des Kapudan Pascha</note>
+                    <linkGrp>
+                        <ptr target="IV/12#305" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003415">
+                    <idno type="mega">1020173</idno>
+                    <persName type="reg">
+                        <surname>Neergaard</surname>
+                        <forename>Lucius Karl Joseph von Bruun</forename>
+                    </persName>
+                    <birth>1797</birth>
+                    <death>1881</death>
+                    <note>Gutsherr in Schleswig-Holstein</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000003416">
+                    <idno type="mega">1020176</idno>
+                    <persName type="reg">
+                        <surname>Neff</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <birth>1821</birth>
+                    <death>1849</death>
+                    <note>badischer Küfermeister; Republikaner; Teilnehmer am Aufstand in Baden 1848/49, vom preußischen Militär standrechtlich erschossen</note>
+                    <linkGrp>
+                        <ptr target="IV/12#956" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003417">
+                    <idno type="mega">1020177</idno>
+                    <persName type="reg">
+                        <surname>Nefftzer</surname>
+                        <forename>Auguste</forename>
+                    </persName>
+                    <birth>1820</birth>
+                    <death>1876</death>
+                    <note>französischer Publizist; seit 1844 Mitarbeiter und 1856–1861 Herausgeber der Zeitung „La Presse“ (Paris)</note>
+                    <linkGrp>
+                        <ptr target="III/11#10" type="page"/>
+                        <ptr target="III/11#740" type="page"/>
+                        <ptr target="III/10#358" type="page"/>
+                        <ptr target="III/13#459" type="page"/>
+                        <ptr target="III/13#460" type="page"/>
+                        <ptr target="III/13#463" type="page"/>
+                        <ptr target="III/13#547" type="page"/>
+                        <ptr target="IV/12#190" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011237">
+                    <idno type="mega">1020178</idno>
+                    <persName type="reg">
+                        <name>Neftel</name>
+                    </persName>
+                    <note>Bekannter von C. Rode in New York</note>
+                    <linkGrp>
+                        <ptr target="III/13#559" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003418">
+                    <idno type="mega">1020182</idno>
+                    <persName type="reg">
+                        <name>Negri, Ignacio de, conde de Negri</name>
+                    </persName>
+                    <birth>1792</birth>
+                    <death>1847</death>
+                    <note>spanischer Militär; Karlist</note>
+                    <linkGrp>
+                        <ptr target="IV/12#856" type="page"/>
+                        <ptr target="IV/12#862" type="page"/>
+                        <ptr target="IV/12#917" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003419">
+                    <idno type="mega">1020186</idno>
+                    <persName type="reg">
+                        <surname>Nehrhoff von Holderberg</surname>
+                        <forename>Moritz Heinrich</forename>
+                    </persName>
+                    <birth>1785</birth>
+                    <death>1849</death>
+                    <note>deutscher Jurist</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000003420">
+                    <idno type="mega">1020188</idno>
+                    <persName type="reg">
+                        <name>Neigebaur, Johann Ferdinand eigtl. Neugebauer genannt Pseudonym Daniel Dittmann</name>
+                    </persName>
+                    <birth>1783</birth>
+                    <death>1866</death>
+                    <note>preußischer Jurist, Beamter Publizist und Reiseschriftsteller; preußischer Generalkonsul in der Moldau und Walachei (1842–1844)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#968" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003421">
+                    <idno type="mega">1020192</idno>
+                    <persName type="reg">
+                        <name>Neipperg, Adam Adalbert, Graf von</name>
+                    </persName>
+                    <birth>1775</birth>
+                    <death>1829</death>
+                    <note>österreichischer Militär und Diplomat; zweiter, morganatischer Gemahl der Erzherzogin Marie Louise, Gemahlin Napoléons Ier</note>
+                    <linkGrp>
+                        <ptr target="IV/12#803" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011238">
+                    <idno type="mega">1020202</idno>
+                    <persName type="reg">
+                        <surname>Nell</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <note>Trierer Bekannte der Familie Marx</note>
+                    <linkGrp>
+                        <ptr target="III/9#346" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003423">
+                    <idno type="mega">1020207</idno>
+                    <persName type="reg">
+                        <surname>Nemecek</surname>
+                        <forename>T.</forename>
+                    </persName>
+                    <note>Unterzeichner (aus Prag) des Einberufungsschreibens zum Internationalen Sozialistischen Arbeiterkongreß 1889 für die Sozialistische Arbeiterpartei Österreichs</note>
+                    <linkGrp>
+                        <ptr target="I/31#582" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011239">
+                    <idno type="mega">1020223</idno>
+                    <persName type="reg">
+                        <name>Neratius Priscus</name>
+                    </persName>
+                    <note>römischer Jurist</note>
+                    <linkGrp>
+                        <ptr target="III/9#168" type="page"/>
+                        <ptr target="III/9#829" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011240">
+                    <idno type="mega">1020229</idno>
+                    <persName type="reg">
+                        <name>Nero</name>
+                    </persName>
+                    <note>römischer Kaiser (seit 54); leitete die Christenverfolgungen ein</note>
+                    <linkGrp>
+                        <ptr target="IV/12#421" type="page"/>
+                        <ptr target="IV/12#477" type="page"/>
+                        <ptr target="IV/12#717" type="page"/>
+                        <ptr target="IV/12#1271" type="page"/>
+                        <ptr target="IV/12#1377" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011241">
+                    <idno type="mega">1020231</idno>
+                    <persName type="reg">
+                        <name>Neručev, Michail Vasil’evič (Неручевъ)</name>
+                    </persName>
+                    <note>russischer Agrarökonom</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000003424">
+                    <idno type="mega">1020233</idno>
+                    <persName type="reg">
+                        <name>Nesbit, Edith genannt Pseudonym Bland bekannt als Fabian Bland Bland, Hubert</name>
+                    </persName>
+                    <birth>1858</birth>
+                    <death>1924</death>
+                    <note>englische Schriftstellerin</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000003425">
+                    <idno type="uri">http://d-nb.info/gnd/118785974</idno>
+                    <idno type="mega">1020239</idno>
+                    <persName type="reg">
+                        <name>Nessel’rode, Karl Vasil’evič, Graf (Нессельроде)</name>
+                    </persName>
+                    <birth>1780</birth>
+                    <death>1862</death>
+                    <note>russischer Staatsmann und Diplomat deutscher Herkunft (Karl Robert Wilhelm Graf von Nesselrode-Ereshofen); Außenminister (1816–1856), seit 1845 Staatskanzler</note>
+                    <linkGrp>
+                        <ptr target="I/14#215" type="page"/>
+                        <ptr target="I/14#370" type="page"/>
+                        <ptr target="I/14#371" type="page"/>
+                        <ptr target="I/14#377" type="page"/>
+                        <ptr target="I/14#605" type="page"/>
+                        <ptr target="I/14#612" type="page"/>
+                        <ptr target="I/14#971" type="page"/>
+                        <ptr target="I/14#1291" type="page"/>
+                        <ptr target="I/14#1294" type="page"/>
+                        <ptr target="I/14#1295" type="page"/>
+                        <ptr target="III/10#390" type="page"/>
+                        <ptr target="IV/12#43" type="page"/>
+                        <ptr target="IV/12#64" type="page"/>
+                        <ptr target="IV/12#106" type="page"/>
+                        <ptr target="IV/12#109" type="page"/>
+                        <ptr target="IV/12#110" type="page"/>
+                        <ptr target="IV/12#128" type="page"/>
+                        <ptr target="IV/12#135" type="page"/>
+                        <ptr target="IV/12#199" type="page"/>
+                        <ptr target="IV/12#200" type="page"/>
+                        <ptr target="IV/12#203" type="page"/>
+                        <ptr target="IV/12#204" type="page"/>
+                        <ptr target="IV/12#206–209" type="page"/>
+                        <ptr target="IV/12#214" type="page"/>
+                        <ptr target="IV/12#223" type="page"/>
+                        <ptr target="IV/12#227" type="page"/>
+                        <ptr target="IV/12#240" type="page"/>
+                        <ptr target="IV/12#241" type="page"/>
+                        <ptr target="IV/12#243" type="page"/>
+                        <ptr target="IV/12#246" type="page"/>
+                        <ptr target="IV/12#247" type="page"/>
+                        <ptr target="IV/12#257–259" type="page"/>
+                        <ptr target="IV/12#307" type="page"/>
+                        <ptr target="IV/12#308" type="page"/>
+                        <ptr target="IV/12#329" type="page"/>
+                        <ptr target="IV/12#381" type="page"/>
+                        <ptr target="IV/12#383–385" type="page"/>
+                        <ptr target="IV/12#478" type="page"/>
+                        <ptr target="IV/12#793" type="page"/>
+                        <ptr target="IV/12#794" type="page"/>
+                        <ptr target="IV/12#802" type="page"/>
+                        <ptr target="IV/12#907" type="page"/>
+                        <ptr target="IV/12#940" type="page"/>
+                        <ptr target="IV/12#941" type="page"/>
+                        <ptr target="IV/12#1104" type="page"/>
+                        <ptr target="IV/12#1175" type="page"/>
+                        <ptr target="IV/12#1240–1243" type="page"/>
+                        <ptr target="IV/12#1271" type="page"/>
+                        <ptr target="IV/12#1424" type="page"/>
+                        <ptr target="I/31#180" type="page"/>
+                        <ptr target="I/31#195" type="page"/>
+                        <ptr target="I/31#197" type="page"/>
+                        <ptr target="I/31#218" type="page"/>
+                        <ptr target="I/31#233" type="page"/>
+                        <ptr target="I/31#235" type="page"/>
+                        <ptr target="I/31#995" type="page"/>
+                        <ptr target="I/31#998" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011242">
+                    <idno type="mega">1020248</idno>
+                    <persName type="reg">
+                        <name>Nestorios</name>
+                    </persName>
+                    <note>griechischer Kirchenlehrer; Patriarch von Konstantinopel (428–431); auf dem Konzil von Ephesos (431) abgesetzt, 436 verbannt</note>
+                    <linkGrp>
+                        <ptr target="IV/12#17" type="page"/>
+                        <ptr target="IV/12#26" type="page"/>
+                        <ptr target="IV/12#350" type="page"/>
+                        <ptr target="IV/12#1094" type="page"/>
+                        <ptr target="IV/12#1098" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003426">
+                    <idno type="mega">1020252</idno>
+                    <persName type="reg">
+                        <surname>Nettelbeck</surname>
+                        <forename>Joachim</forename>
+                    </persName>
+                    <birth>1738</birth>
+                    <death>1824</death>
+                    <note>preußischer Seemann und Brauer; 1807 als Bürgeradjutant Gneisenaus ein Organisator der Verteidigung Kolbergs</note>
+                    <linkGrp>
+                        <ptr target="I/14#1321" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003427">
+                    <idno type="mega">1020253</idno>
+                    <persName type="reg">
+                        <surname>Nettlau</surname>
+                        <forename>Max</forename>
+                    </persName>
+                    <birth>1865</birth>
+                    <death>1944</death>
+                    <note>österreichischer Historiker und Philologe; Anarchist</note>
+                    <linkGrp>
+                        <ptr target="I/31#1303" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003428">
+                    <idno type="mega">1020269</idno>
+                    <persName type="reg">
+                        <surname>Neuhaus</surname>
+                        <forename>Gustav Reinhard</forename>
+                    </persName>
+                    <birth>1823</birth>
+                    <death>1893</death>
+                    <note>Kaufmann und Schriftsteller in Barmen</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000011243">
+                    <idno type="mega">1020273</idno>
+                    <persName type="reg">
+                        <name>Neuhof, Theodor, Freiherr von</name>
+                    </persName>
+                    <birth>1694</birth>
+                    <death>1756</death>
+                    <note>westfälischer Abenteurer, verhandelte im Auftrag Kaiser Karls VI. mit den Korsen, die sich gegen die genuesische Herrschaft erhoben hatten; wurde 1736 als Theodor I. zum König von Korsika gewählt, mußte jedoch 1738 auf französischen Druck die Insel verlassen; versuchte 1743 mit englischer Hilfe vergeblich die Herrschaft wiederzuerlangen</note>
+                    <linkGrp>
+                        <ptr target="III/11#197" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003430">
+                    <idno type="mega">1020283</idno>
+                    <persName type="reg">
+                        <surname>Neumann</surname>
+                        <forename>Carl Gottfried</forename>
+                    </persName>
+                    <birth>1832</birth>
+                    <death>1925</death>
+                    <note>deutscher Mathematiker und Physiker; Sohn von Franz Ernst Neumann; Begründer der Theorie des logarithmischen Potentials; 1872 Voraussage der Thermodiffusion</note>
+                    <linkGrp>
+                        <ptr target="IV/31#593" type="page"/>
+                        <ptr target="IV/31#594" type="page"/>
+                        <ptr target="IV/31#602" type="page"/>
+                        <ptr target="IV/31#977" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003431">
+                    <idno type="mega">1020284</idno>
+                    <persName type="reg">
+                        <surname>Neumann</surname>
+                        <forename>Franz Ernst</forename>
+                    </persName>
+                    <birth>1798</birth>
+                    <death>1895</death>
+                    <note>deutscher Physiker und Mineraloge, Vater von Carl Gottfried Neumann; führte die theoretische Physik als Vorlesungsdisziplin ein; 1835 Elastizitätstheorie des Lichts und Reflektionstheorie für Kristalle; 1845–1847 elektrodynamisches Potential, Induktionsgesetz und Theorie der magnetischen Induktion</note>
+                    <linkGrp>
+                        <ptr target="IV/31#593" type="page"/>
+                        <ptr target="IV/31#602" type="page"/>
+                        <ptr target="IV/31#976" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003433">
+                    <idno type="mega">1020281</idno>
+                    <persName type="reg">
+                        <surname>Neumann</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <note>preußischer Waffentechniker</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000003432">
+                    <idno type="mega">1020285</idno>
+                    <persName type="reg">
+                        <surname>Neumann von Spallart</surname>
+                        <forename>Franz Xaver</forename>
+                    </persName>
+                    <birth>1837</birth>
+                    <death>1888</death>
+                    <note>österreichischer Ökonom und Statistiker; Professor in Wien</note>
+                    <linkGrp>
+                        <ptr target="II/11#1723" type="page"/>
+                        <ptr target="II/13#690" type="page"/>
+                        <ptr target="II/12#1255" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003429">
+                    <idno type="mega">1020278</idno>
+                    <persName type="reg">
+                        <name>Neumann, Philipp, Freiherr von</name>
+                    </persName>
+                    <birth>1781</birth>
+                    <death>1851</death>
+                    <note>österreichischer Diplomat; 1840 Gesandter in London</note>
+                    <linkGrp>
+                        <ptr target="IV/12#105" type="page"/>
+                        <ptr target="IV/12#111" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011244">
+                    <idno type="mega">1020302</idno>
+                    <persName type="reg">
+                        <name>Neville, Richard, Earl of Warwick and Salisbury genannt The king-maker</name>
+                    </persName>
+                    <birth>1428</birth>
+                    <death>1471</death>
+                    <note>führende Gestalt der Rosenkriege (1455–1485); hier: Held in Edward Bulwer-Lyttons Erzählung „The last of barons“</note>
+                    <linkGrp>
+                        <ptr target="I/14#156" type="page"/>
+                        <ptr target="I/14#544" type="page"/>
+                        <ptr target="I/14#1094" type="page"/>
+                        <ptr target="I/14#1309" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003434">
+                    <idno type="mega">1020303</idno>
+                    <persName type="reg">
+                        <name>Nevolin, Konstantin Alekseevič (Неволинъ)</name>
+                    </persName>
+                    <birth>1806</birth>
+                    <death>1855</death>
+                    <note>russischer Jurist und Rechtshistoriker, Professor in St.&#160;Petersburg</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000011245">
+                    <idno type="mega">1020306</idno>
+                    <persName type="reg">
+                        <surname>Newby</surname>
+                        <forename>Thomas Cautley</forename>
+                    </persName>
+                    <note>Verleger in London</note>
+                    <linkGrp>
+                        <ptr target="I/31#340" type="page"/>
+                        <ptr target="I/31#342" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003435">
+                    <idno type="mega">1020314</idno>
+                    <persName type="reg">
+                        <surname>Newman</surname>
+                        <forename>Francis William</forename>
+                    </persName>
+                    <birth>1805</birth>
+                    <death>1897</death>
+                    <note>englischer Philologe, Historiker und Publizist; Professor in Manchester und London</note>
+                    <linkGrp>
+                        <ptr target="II/15#585" type="page"/>
+                        <ptr target="II/15#643" type="page"/>
+                        <ptr target="II/15#750" type="page"/>
+                        <ptr target="II/15#786" type="page"/>
+                        <ptr target="II/15#1156" type="page"/>
+                        <ptr target="II/15#1207" type="page"/>
+                        <ptr target="II/15#1231" type="page"/>
+                        <ptr target="II/15#1243" type="page"/>
+                        <ptr target="II/15#786.23" type="page"/>
+                        <ptr target="II/15#1252" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003436">
+                    <idno type="uri">http://d-nb.info/gnd/103116233X</idno>
+                    <idno type="mega">1020315</idno>
+                    <persName type="reg">
+                        <surname>Newman</surname>
+                        <forename>Samuel Phillips</forename>
+                    </persName>
+                    <birth>1796</birth>
+                    <death>1842</death>
+                    <note>US-amerikanischer Altphilologe, Rhetoriklehrer und Ökonom</note>
+                    <linkGrp>
+                        <ptr target="II/11#87" type="page"/>
+                        <ptr target="II/11#548" type="page"/>
+                        <ptr target="II/11#1347" type="page"/>
+                        <ptr target="II/12#124" type="page"/>
+                        <ptr target="II/12#125" type="page"/>
+                        <ptr target="II/12#1216" type="page"/>
+                        <ptr target="II/15#274" type="page"/>
+                        <ptr target="II/15#275" type="page"/>
+                        <ptr target="II/15#274.41" type="page"/>
+                        <ptr target="II/15#1081" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003437">
+                    <idno type="mega">1020317</idno>
+                    <persName type="reg">
+                        <surname>Newmarch</surname>
+                        <forename>William</forename>
+                    </persName>
+                    <birth>1820</birth>
+                    <death>1882</death>
+                    <note>britischer Kaufmann, Ökonom und Statistiker; Vertreter der Banking-School</note>
+                    <linkGrp>
+                        <ptr target="II/14#251–254" type="page"/>
+                        <ptr target="II/14#259" type="page"/>
+                        <ptr target="II/14#260" type="page"/>
+                        <ptr target="II/14#267–270" type="page"/>
+                        <ptr target="II/14#279" type="page"/>
+                        <ptr target="II/14#280" type="page"/>
+                        <ptr target="II/14#287–289" type="page"/>
+                        <ptr target="II/14#292" type="page"/>
+                        <ptr target="II/14#297" type="page"/>
+                        <ptr target="II/14#299–303" type="page"/>
+                        <ptr target="II/14#311" type="page"/>
+                        <ptr target="II/14#405" type="page"/>
+                        <ptr target="II/14#873–875" type="page"/>
+                        <ptr target="II/14#886–889" type="page"/>
+                        <ptr target="II/14#891" type="page"/>
+                        <ptr target="II/14#906" type="page"/>
+                        <ptr target="II/14#910" type="page"/>
+                        <ptr target="II/14#921" type="page"/>
+                        <ptr target="II/14#932" type="page"/>
+                        <ptr target="II/14#933" type="page"/>
+                        <ptr target="II/14#941" type="page"/>
+                        <ptr target="II/14#942" type="page"/>
+                        <ptr target="II/14#944" type="page"/>
+                        <ptr target="II/14#945" type="page"/>
+                        <ptr target="II/14#965" type="page"/>
+                        <ptr target="II/14#968" type="page"/>
+                        <ptr target="II/15#361" type="page"/>
+                        <ptr target="II/15#496" type="page"/>
+                        <ptr target="II/15#518" type="page"/>
+                        <ptr target="II/15#520" type="page"/>
+                        <ptr target="II/15#534–536" type="page"/>
+                        <ptr target="II/15#550" type="page"/>
+                        <ptr target="II/15#558" type="page"/>
+                        <ptr target="II/15#559" type="page"/>
+                        <ptr target="II/15#561–564" type="page"/>
+                        <ptr target="II/15#569–576" type="page"/>
+                        <ptr target="II/15#783" type="page"/>
+                        <ptr target="II/15#982" type="page"/>
+                        <ptr target="II/15#985" type="page"/>
+                        <ptr target="II/15#1159" type="page"/>
+                        <ptr target="II/15#1160" type="page"/>
+                        <ptr target="II/15#1251" type="page"/>
+                        <ptr target="III/9#961" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011246">
+                    <idno type="mega">1020320</idno>
+                    <persName type="reg">
+                        <surname>Newton</surname>
+                        <forename>Sir Isaac</forename>
+                    </persName>
+                    <birth>1643</birth>
+                    <death>1727</death>
+                    <note>englischer Mathematiker, Physiker und Astronom; Begründer der klassischen Physik; formulierte die nach ihm benannten Axiome der Mechanik, entdeckte das allgemeine Gesetz der Gravitation, grundlegende Untersuchungen zur physikalischen Optik, begründete unabhängig von Leibniz die Infinitesimalrechnung</note>
+                    <linkGrp>
+                        <ptr target="III/13#530" type="page"/>
+                        <ptr target="IV/31#488" type="page"/>
+                        <ptr target="IV/31#490" type="page"/>
+                        <ptr target="IV/31#493–495" type="page"/>
+                        <ptr target="IV/31#497" type="page"/>
+                        <ptr target="IV/31#593" type="page"/>
+                        <ptr target="IV/31#640" type="page"/>
+                        <ptr target="IV/31#890" type="page"/>
+                        <ptr target="IV/31#902–905" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003438">
+                    <idno type="mega">1020322</idno>
+                    <persName type="reg">
+                        <surname>Ney</surname>
+                        <forename>Karl Eduard</forename>
+                    </persName>
+                    <birth>1841</birth>
+                    <death>1915</death>
+                    <note>deutscher Oberforstmeister</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000003439">
+                    <idno type="mega">1020323</idno>
+                    <persName type="reg">
+                        <name>Ney, Michel, duc d’Elchingen, prince de la Moscova</name>
+                    </persName>
+                    <birth>1769</birth>
+                    <death>1815</death>
+                    <note>französischer Heerführer; Marschall von Frankreich (seit 1804)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#653" type="page"/>
+                        <ptr target="IV/12#654" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003440">
+                    <idno type="mega">1020324</idno>
+                    <persName type="reg">
+                        <name>Ney, Napoléon Henri Edgar, prince de la Moskowa</name>
+                    </persName>
+                    <birth>1812</birth>
+                    <death>1882</death>
+                    <note>französischer General, Bonapartist, Adjutant des Präsidenten Louis Bonaparte, Sohn des Marschalls Michel Ney</note>
+                    <linkGrp>
+                        <ptr target="III/13#993" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003411">
+                    <idno type="mega">1020161</idno>
+                    <persName type="reg">
+                        <name>Nečaev, Sergej Gennad’ievič (Нечаев)</name>
+                    </persName>
+                    <birth>1847</birth>
+                    <death>1882</death>
+                    <note>russischer Lehrer; Revolutionär, Anarchist</note>
+                    <linkGrp>
+                        <ptr target="I/31#873" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003442">
+                    <idno type="mega">1020342</idno>
+                    <persName type="reg">
+                        <surname>Nicholson</surname>
+                        <forename>William</forename>
+                    </persName>
+                    <birth>1753</birth>
+                    <death>1815</death>
+                    <note>englischer Naturforscher, vor allem Mathematiker und Chemiker; 1800 elektrolytische Erzeugung von Wasserstoff und Sauerstoff, 1802 Lichtwirkungen des elektrischen Stroms; Mitherausgeber des „Journal of natural philosophy, chemistry, and the arts“</note>
+                    <linkGrp>
+                        <ptr target="IV/31#537" type="page"/>
+                        <ptr target="IV/31#656" type="page"/>
+                        <ptr target="IV/31#950" type="page"/>
+                        <ptr target="IV/31#965" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003441">
+                    <idno type="mega">1020340</idno>
+                    <persName type="reg">
+                        <name>Nicholson, Renton genannt The Lord Chief Baron Nicholson</name>
+                    </persName>
+                    <birth>1809</birth>
+                    <death>1861</death>
+                    <note>englischer Journalist und Besitzer von Vergnügungsstätten in London; gründete 1841 die Judge and Jury Society</note>
+                    <linkGrp>
+                        <ptr target="III/11#301" type="page"/>
+                        <ptr target="III/11#1037" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003443">
+                    <idno type="mega">1020350</idno>
+                    <persName type="reg">
+                        <surname>Nicolay</surname>
+                        <forename>J.&#160;A.</forename>
+                    </persName>
+                    <note>britischer Politiker, Verfechter der Parlamentsreform; in den 1860er Jahren Mitglied der Exekutive der Reform League</note>
+                    <linkGrp>
+                        <ptr target="I/14#213" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011247">
+                    <idno type="mega">1020351</idno>
+                    <persName type="reg">
+                        <surname>Nicole</surname>
+                        <forename>Pierre</forename>
+                    </persName>
+                    <birth>1625</birth>
+                    <death>1695</death>
+                    <note>französischer katholischer Theologe und Philosoph</note>
+                    <linkGrp>
+                        <ptr target="IV/12#551" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011248">
+                    <idno type="mega">1020358</idno>
+                    <persName type="reg">
+                        <name>Nidhard, Johann Eberhard auch Neidhardt</name>
+                    </persName>
+                    <birth>1607</birth>
+                    <death>1681</death>
+                    <note>österreichischer Jesuit; Beichtvater und Ratgeber der spanischen Regentin María Ana, Mutter Carlos’&#160;II, Großinquisitor, Kardinal in Rom seit 1672</note>
+                    <linkGrp>
+                        <ptr target="IV/12#422" type="page"/>
+                        <ptr target="IV/12#1256" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003444">
+                    <idno type="mega">1020359</idno>
+                    <persName type="reg">
+                        <surname>Nieass</surname>
+                        <forename>John D.</forename>
+                    </persName>
+                    <note>englischer Stukkateur; Mitglied des London Trades Council, der National League for the Independence of Poland, der Exekutive der Reform League, der Universal League for the Welfare of the Industrious Classes; Teilnehmer der Gründungsversammlung der IAA (1864), Mitglied des Generalrats (1864–1867)</note>
+                    <linkGrp>
+                        <ptr target="III/13#1031" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003445">
+                    <idno type="uri">http://d-nb.info/gnd/116999489</idno>
+                    <idno type="mega">1020363</idno>
+                    <persName type="reg">
+                        <surname>Niebuhr</surname>
+                        <forename>Markus Carsten Nikolaus von</forename>
+                    </persName>
+                    <birth>1817</birth>
+                    <death>1860</death>
+                    <note>preußischer Beamter, konservativer Politiker; seit 1851 Kabinettssekretär Friedrich Wilhelms&#160;IV., seit 1854 Kabinettsrat und Mitglied des Staatsrats; 1852/1853 Mitglied des preußischen Abgeordnetenhauses</note>
+                    <linkGrp>
+                        <ptr target="III/9#957" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003446">
+                    <idno type="mega">1020364</idno>
+                    <persName type="reg">
+                        <surname>Niegołewski</surname>
+                        <forename>Władysław Maurycy</forename>
+                    </persName>
+                    <birth>1819</birth>
+                    <death>1885</death>
+                    <note>polnischer Rittergutsbesitzer, Jurist und Politiker; Demokrat; Mitglied der Frankfurter Nationalversammlung, 1849–1852 Mitglied der preußischen Zweiten Kammer (für die Provinz Posen), Mitglied des preußischen Abgeordnetenhauses (1859–1866), des Norddeutschen bzw. des Deutschen Reichstags (1867–1877, 1878–1881)</note>
+                    <linkGrp>
+                        <ptr target="III/11#41" type="page"/>
+                        <ptr target="III/11#773" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003447">
+                    <idno type="uri">http://d-nb.info/gnd/10181271X</idno>
+                    <idno type="mega">1020365</idno>
+                    <persName type="reg">
+                        <surname>Niel</surname>
+                        <forename>Adolphe</forename>
+                    </persName>
+                    <birth>1802</birth>
+                    <death>1869</death>
+                    <note>französischer General, seit 1859 Marschall; Kommandeur der Ingenieurtruppen bei der Expedition in die Ostsee (1854), danach Adjutant Napoléons&#160;III, im Januar 1855 zur Berichterstattung über die Pionierarbeiten auf die Krim entsandt, ab April 1855 Kommandeur des französischen Pionierwesens auf der Krim</note>
+                    <linkGrp>
+                        <ptr target="I/14#196" type="page"/>
+                        <ptr target="I/14#204" type="page"/>
+                        <ptr target="I/14#224" type="page"/>
+                        <ptr target="I/14#229" type="page"/>
+                        <ptr target="I/14#669" type="page"/>
+                        <ptr target="I/14#695" type="page"/>
+                        <ptr target="I/14#699" type="page"/>
+                        <ptr target="I/14#701" type="page"/>
+                        <ptr target="I/14#705–707" type="page"/>
+                        <ptr target="I/14#720" type="page"/>
+                        <ptr target="I/14#1475–1477" type="page"/>
+                        <ptr target="I/14#1481" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003448">
+                    <idno type="mega">1020375</idno>
+                    <persName type="reg">
+                        <surname>Niendorf</surname>
+                        <forename>Marc Anton</forename>
+                    </persName>
+                    <birth>1826</birth>
+                    <death>1878</death>
+                    <note>deutscher Schriftsteller und Landwirt</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000003449">
+                    <idno type="mega">1020377</idno>
+                    <persName type="reg">
+                        <surname>Niepce</surname>
+                        <forename>Joseph Nicéphore</forename>
+                    </persName>
+                    <birth>1765</birth>
+                    <death>1833</death>
+                    <note>französischer Erfinder, arbeitete ab 1829 mit Louis Jacques Mandé Daguerre zusammen an photographischen Verfahren, die 1837–1839 zum Erfolg führten</note>
+                    <linkGrp>
+                        <ptr target="IV/31#956" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003450">
+                    <idno type="mega">1020383</idno>
+                    <persName type="reg">
+                        <surname>Nieuwenhuis</surname>
+                        <forename>Ferdinand Domela</forename>
+                    </persName>
+                    <birth>1846</birth>
+                    <death>1919</death>
+                    <note>Theologe; Begründer des sozialdemokratischen Bundes und später der sozialdemokratischen Arbeiterpartei der Niederlande, später Anarchist</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000003451">
+                    <idno type="mega">1020384</idno>
+                    <persName type="reg">
+                        <surname>Niewöhner</surname>
+                        <forename>Friedrich Wilhelm</forename>
+                    </persName>
+                    <birth>1809</birth>
+                    <death>1860</death>
+                    <note>Kutscher im Hause Engels in Barmen (Wuppertal)</note>
+                    <linkGrp>
+                        <ptr target="III/11#212" type="page"/>
+                        <ptr target="III/11#216" type="page"/>
+                        <ptr target="III/11#262" type="page"/>
+                        <ptr target="III/11#263" type="page"/>
+                        <ptr target="III/11#949" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011249">
+                    <idno type="mega">1020385</idno>
+                    <persName type="reg">
+                        <name>Niewöhner, Regine geb. Zapp</name>
+                    </persName>
+                    <note>Ehefrau von Friedrich Wilhelm Niewöhner</note>
+                    <linkGrp>
+                        <ptr target="III/11#448" type="page"/>
+                        <ptr target="III/11#994" type="page"/>
+                        <ptr target="III/11#1186" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003452">
+                    <idno type="mega">1020387</idno>
+                    <persName type="reg">
+                        <surname>Nightingale</surname>
+                        <forename>Florence</forename>
+                    </persName>
+                    <birth>1820</birth>
+                    <death>1910</death>
+                    <note>englische Krankenschwester, Philantropin und Schriftstellerin; setzte sich seit November 1854 in der Lazarettstadt Skutari für die Organisation des medizinischen Dienstes in der britischen Armee ein</note>
+                    <linkGrp>
+                        <ptr target="I/14#240" type="page"/>
+                        <ptr target="I/14#244" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003453">
+                    <idno type="mega">1020390</idno>
+                    <persName type="reg">
+                        <name>Niketaras eigtl. Niketas Stamatelopulos</name>
+                    </persName>
+                    <birth>1782</birth>
+                    <death>1849</death>
+                    <note>griechischer Freiheitskämpfer und Politiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#382" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003454">
+                    <idno type="mega">1020400</idno>
+                    <persName type="reg">
+                        <name>Nikolaj&#160;I (Николай)</name>
+                    </persName>
+                    <birth>1796</birth>
+                    <death>1855</death>
+                    <note>Kaiser von Rußland seit 1825</note>
+                    <linkGrp>
+                        <ptr target="I/14#44" type="page"/>
+                        <ptr target="I/14#55" type="page"/>
+                        <ptr target="I/14#66" type="page"/>
+                        <ptr target="I/14#81" type="page"/>
+                        <ptr target="I/14#109" type="page"/>
+                        <ptr target="I/14#112" type="page"/>
+                        <ptr target="I/14#134" type="page"/>
+                        <ptr target="I/14#162" type="page"/>
+                        <ptr target="I/14#171" type="page"/>
+                        <ptr target="I/14#183" type="page"/>
+                        <ptr target="I/14#232" type="page"/>
+                        <ptr target="I/14#272" type="page"/>
+                        <ptr target="I/14#293" type="page"/>
+                        <ptr target="I/14#294" type="page"/>
+                        <ptr target="I/14#370" type="page"/>
+                        <ptr target="I/14#377" type="page"/>
+                        <ptr target="I/14#430" type="page"/>
+                        <ptr target="I/14#630" type="page"/>
+                        <ptr target="I/14#665" type="page"/>
+                        <ptr target="I/14#745" type="page"/>
+                        <ptr target="I/14#746" type="page"/>
+                        <ptr target="I/14#805" type="page"/>
+                        <ptr target="I/14#806" type="page"/>
+                        <ptr target="I/14#814" type="page"/>
+                        <ptr target="I/14#822" type="page"/>
+                        <ptr target="I/14#927–929" type="page"/>
+                        <ptr target="I/14#934" type="page"/>
+                        <ptr target="I/14#939" type="page"/>
+                        <ptr target="I/14#953" type="page"/>
+                        <ptr target="I/14#975" type="page"/>
+                        <ptr target="I/14#977" type="page"/>
+                        <ptr target="I/14#988" type="page"/>
+                        <ptr target="I/14#1001" type="page"/>
+                        <ptr target="I/14#1015" type="page"/>
+                        <ptr target="I/14#1041" type="page"/>
+                        <ptr target="I/14#1043" type="page"/>
+                        <ptr target="I/14#1044" type="page"/>
+                        <ptr target="I/14#1048" type="page"/>
+                        <ptr target="I/14#1065" type="page"/>
+                        <ptr target="I/14#1071" type="page"/>
+                        <ptr target="I/14#1088" type="page"/>
+                        <ptr target="I/14#1096" type="page"/>
+                        <ptr target="I/14#1103" type="page"/>
+                        <ptr target="I/14#1109" type="page"/>
+                        <ptr target="I/14#1110" type="page"/>
+                        <ptr target="I/14#1122" type="page"/>
+                        <ptr target="I/14#1124" type="page"/>
+                        <ptr target="I/14#1147" type="page"/>
+                        <ptr target="I/14#1158" type="page"/>
+                        <ptr target="I/14#1175" type="page"/>
+                        <ptr target="I/14#1295" type="page"/>
+                        <ptr target="I/14#1296" type="page"/>
+                        <ptr target="I/14#1423" type="page"/>
+                        <ptr target="I/31#67" type="page"/>
+                        <ptr target="I/31#70" type="page"/>
+                        <ptr target="I/31#85" type="page"/>
+                        <ptr target="I/31#196" type="page"/>
+                        <ptr target="I/31#198–200" type="page"/>
+                        <ptr target="I/31#202" type="page"/>
+                        <ptr target="I/31#233" type="page"/>
+                        <ptr target="I/31#236" type="page"/>
+                        <ptr target="I/31#237" type="page"/>
+                        <ptr target="I/31#731" type="page"/>
+                        <ptr target="I/31#813" type="page"/>
+                        <ptr target="I/31#822" type="page"/>
+                        <ptr target="I/31#840" type="page"/>
+                        <ptr target="I/31#994" type="page"/>
+                        <ptr target="I/31#995" type="page"/>
+                        <ptr target="I/31#999" type="page"/>
+                        <ptr target="I/31#1000" type="page"/>
+                        <ptr target="III/9#406(237.66)?" type="page"/>
+                        <ptr target="III/9#427(247.60)?" type="page"/>
+                        <ptr target="III/9#510(283.61)?" type="page"/>
+                        <ptr target="III/9#805" type="page"/>
+                        <ptr target="III/9#1088?" type="page"/>
+                        <ptr target="III/11#97" type="page"/>
+                        <ptr target="III/11#837" type="page"/>
+                        <ptr target="III/13#790" type="page"/>
+                        <ptr target="IV/12#14" type="page"/>
+                        <ptr target="IV/12#15" type="page"/>
+                        <ptr target="IV/12#18" type="page"/>
+                        <ptr target="IV/12#25" type="page"/>
+                        <ptr target="IV/12#32" type="page"/>
+                        <ptr target="IV/12#33" type="page"/>
+                        <ptr target="IV/12#44" type="page"/>
+                        <ptr target="IV/12#53" type="page"/>
+                        <ptr target="IV/12#54" type="page"/>
+                        <ptr target="IV/12#56" type="page"/>
+                        <ptr target="IV/12#97–100" type="page"/>
+                        <ptr target="IV/12#104" type="page"/>
+                        <ptr target="IV/12#107" type="page"/>
+                        <ptr target="IV/12#109" type="page"/>
+                        <ptr target="IV/12#128–130" type="page"/>
+                        <ptr target="IV/12#133" type="page"/>
+                        <ptr target="IV/12#148" type="page"/>
+                        <ptr target="IV/12#149" type="page"/>
+                        <ptr target="IV/12#151" type="page"/>
+                        <ptr target="IV/12#155" type="page"/>
+                        <ptr target="IV/12#157" type="page"/>
+                        <ptr target="IV/12#158" type="page"/>
+                        <ptr target="IV/12#161" type="page"/>
+                        <ptr target="IV/12#163" type="page"/>
+                        <ptr target="IV/12#166" type="page"/>
+                        <ptr target="IV/12#167" type="page"/>
+                        <ptr target="IV/12#169–171" type="page"/>
+                        <ptr target="IV/12#175" type="page"/>
+                        <ptr target="IV/12#176" type="page"/>
+                        <ptr target="IV/12#182–186" type="page"/>
+                        <ptr target="IV/12#188–190" type="page"/>
+                        <ptr target="IV/12#192" type="page"/>
+                        <ptr target="IV/12#200" type="page"/>
+                        <ptr target="IV/12#207" type="page"/>
+                        <ptr target="IV/12#209" type="page"/>
+                        <ptr target="IV/12#215" type="page"/>
+                        <ptr target="IV/12#224" type="page"/>
+                        <ptr target="IV/12#236" type="page"/>
+                        <ptr target="IV/12#241" type="page"/>
+                        <ptr target="IV/12#247" type="page"/>
+                        <ptr target="IV/12#258" type="page"/>
+                        <ptr target="IV/12#307" type="page"/>
+                        <ptr target="IV/12#308" type="page"/>
+                        <ptr target="IV/12#329" type="page"/>
+                        <ptr target="IV/12#336–338" type="page"/>
+                        <ptr target="IV/12#382" type="page"/>
+                        <ptr target="IV/12#384" type="page"/>
+                        <ptr target="IV/12#907" type="page"/>
+                        <ptr target="IV/12#1071" type="page"/>
+                        <ptr target="IV/12#1081" type="page"/>
+                        <ptr target="IV/12#1090" type="page"/>
+                        <ptr target="IV/12#1091" type="page"/>
+                        <ptr target="IV/12#1110" type="page"/>
+                        <ptr target="IV/12#1112" type="page"/>
+                        <ptr target="IV/12#1114" type="page"/>
+                        <ptr target="IV/12#1128–1130" type="page"/>
+                        <ptr target="IV/12#1132" type="page"/>
+                        <ptr target="IV/12#1133" type="page"/>
+                        <ptr target="IV/12#1145" type="page"/>
+                        <ptr target="IV/12#1146" type="page"/>
+                        <ptr target="IV/12#1148–1150" type="page"/>
+                        <ptr target="IV/12#1157" type="page"/>
+                        <ptr target="IV/12#1158" type="page"/>
+                        <ptr target="IV/12#1160" type="page"/>
+                        <ptr target="IV/12#1166" type="page"/>
+                        <ptr target="IV/12#1176–1181" type="page"/>
+                        <ptr target="IV/12#1192" type="page"/>
+                        <ptr target="IV/12#1208" type="page"/>
+                        <ptr target="IV/12#1241" type="page"/>
+                        <ptr target="IV/12#1242" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011250">
+                    <idno type="mega">1020410</idno>
+                    <persName type="reg">
+                        <name>Nikolaus&#160;I.</name>
+                    </persName>
+                    <note>Papst seit 858</note>
+                    <linkGrp>
+                        <ptr target="IV/12#18" type="page"/>
+                        <ptr target="IV/12#1095" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003455">
+                    <idno type="mega">1020413</idno>
+                    <persName type="reg">
+                        <surname>Nikolič</surname>
+                        <forename>Ivan Michajlovič</forename>
+                    </persName>
+                    <birth>1820</birth>
+                    <death>1879</death>
+                    <note>russischer Lehrer und Philologe</note>
+                    <linkGrp>
+                        <ptr target="IV/12#968" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011251">
+                    <idno type="mega">1020415</idno>
+                    <persName type="reg">
+                        <name>Nikon</name>
+                    </persName>
+                    <birth>1605</birth>
+                    <death>1681</death>
+                    <note>russischer Kirchenfürst und Politiker; Metropolit von Novgorod (seit 1648); Patriarch von Moskau und ganz Rußland (1652–1667); initiierte eine die Staatskirche spaltende Reform; seit 1658 in Ungnade, 1667 abgesetzt, bis 1681 verbannt</note>
+                    <linkGrp>
+                        <ptr target="IV/12#22" type="page"/>
+                        <ptr target="IV/12#28" type="page"/>
+                        <ptr target="IV/12#37" type="page"/>
+                        <ptr target="IV/12#1037" type="page"/>
+                        <ptr target="IV/12#1101" type="page"/>
+                        <ptr target="IV/12#1102" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003457">
+                    <idno type="mega">1020432</idno>
+                    <persName type="reg">
+                        <name>Nithack</name>
+                    </persName>
+                    <note>preußischer Offizier, Mitglied des Kölnischen Volkskomitees (November 1848)</note>
+                    <linkGrp>
+                        <ptr target="III/10#922" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003458">
+                    <idno type="mega">1020436</idno>
+                    <persName type="reg">
+                        <surname>Nitti</surname>
+                        <forename>Francesco Saverio</forename>
+                    </persName>
+                    <birth>1868</birth>
+                    <death>1953</death>
+                    <note>italienischer Ökonom und Politiker; Professor in Neapel; Mitbegründer und Mitherausgeber der „Riforma Sociale“ (1894–1907); Wirtschaftsminister (1911–1914), Finanzminister (1917–1919), Ministerpräsident und Innenminister (1919–1920)</note>
+                    <linkGrp>
+                        <ptr target="II/15#934" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003456">
+                    <idno type="mega">1020438</idno>
+                    <persName type="reg">
+                        <surname>Nitzky</surname>
+                        <forename>A.&#160;R. von der</forename>
+                    </persName>
+                    <note>Autor einer 1849 in Berlin erschienenen Darstellung über die preußische Armee</note>
+                    <linkGrp>
+                        <ptr target="IV/12#958" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003459">
+                    <idno type="mega">1020442</idno>
+                    <persName type="reg">
+                        <name>Nitzsch, Pauline geb. Snethlage</name>
+                    </persName>
+                    <birth>1830</birth>
+                    <death>1856</death>
+                    <note>Tochter von Karl und Louise Snethlage, Cousine von Engels</note>
+                    <linkGrp>
+                        <ptr target="III/9#69" type="page"/>
+                        <ptr target="III/9#747" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011262">
+                    <idno type="mega">1020453</idno>
+                    <persName type="reg">
+                        <name>Noah</name>
+                    </persName>
+                    <note>Gestalt aus der Bibel; frommer Mann, den Gott mit seiner Familie in einer Arche die Sintflut überleben ließ. Stammvater der neuen Menschheit; Held der Flutsage im Alten Testament</note>
+                    <linkGrp>
+                        <ptr target="II/15#1133" type="page"/>
+                        <ptr target="III/11#399" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011252">
+                    <idno type="mega">1020455</idno>
+                    <persName type="reg">
+                        <name>Noailles, Anne Jules de, duc de Noailles</name>
+                    </persName>
+                    <birth>1650</birth>
+                    <death>1708</death>
+                    <note>französischer Feldherr; Marschall von Frankreich (seit 1693)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#268" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003460">
+                    <idno type="mega">1020458</idno>
+                    <persName type="reg">
+                        <name>Nobili, Johann, Graf</name>
+                    </persName>
+                    <birth>1798</birth>
+                    <death>1884</death>
+                    <note>österreichischer General; entwarf 1848/1849 als Chef des Generalquartiermeisterstabes von Windischgrätz die Planungen für den Winterfeldzug in Ungarn</note>
+                    <linkGrp>
+                        <ptr target="IV/12#1055" type="page"/>
+                        <ptr target="IV/12#1484" type="page"/>
+                        <ptr target="IV/12#1488" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011253">
+                    <idno type="mega">1020465</idno>
+                    <persName type="reg">
+                        <name>Noblejas, Mariano del Amparo de Chaves, duque de</name>
+                    </persName>
+                    <note>spanischer Politiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#501" type="page"/>
+                        <ptr target="IV/12#715" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003461">
+                    <idno type="mega">1020467</idno>
+                    <persName type="reg">
+                        <surname>Nodal</surname>
+                        <forename>John Howard</forename>
+                    </persName>
+                    <birth>1831</birth>
+                    <death>1909</death>
+                    <note>englischer Journalist, 1860–1862 Redaktionsmitglied des VJ</note>
+                    <linkGrp>
+                        <ptr target="III/11#107" type="page"/>
+                        <ptr target="III/11#176" type="page"/>
+                        <ptr target="III/11#181" type="page"/>
+                        <ptr target="III/11#185" type="page"/>
+                        <ptr target="III/11#222" type="page"/>
+                        <ptr target="III/11#234" type="page"/>
+                        <ptr target="III/11#272" type="page"/>
+                        <ptr target="III/11#318" type="page"/>
+                        <ptr target="III/11#332" type="page"/>
+                        <ptr target="III/11#344" type="page"/>
+                        <ptr target="III/11#355" type="page"/>
+                        <ptr target="III/11#414" type="page"/>
+                        <ptr target="III/11#420" type="page"/>
+                        <ptr target="III/11#691–693" type="page"/>
+                        <ptr target="III/11#847" type="page"/>
+                        <ptr target="III/11#848" type="page"/>
+                        <ptr target="III/11#908" type="page"/>
+                        <ptr target="III/11#915" type="page"/>
+                        <ptr target="III/11#919" type="page"/>
+                        <ptr target="III/11#959" type="page"/>
+                        <ptr target="III/11#972" type="page"/>
+                        <ptr target="III/11#1003–1005" type="page"/>
+                        <ptr target="III/11#1050" type="page"/>
+                        <ptr target="III/11#1061" type="page"/>
+                        <ptr target="III/11#1073" type="page"/>
+                        <ptr target="III/11#1082" type="page"/>
+                        <ptr target="III/11#1146" type="page"/>
+                        <ptr target="III/11#1153" type="page"/>
+                        <ptr target="III/11#1154" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003465">
+                    <idno type="mega">1020479</idno>
+                    <persName type="reg">
+                        <surname>Nogueras</surname>
+                        <forename>Agustín</forename>
+                    </persName>
+                    <note>spanischer General</note>
+                    <linkGrp>
+                        <ptr target="IV/12#416" type="page"/>
+                        <ptr target="IV/12#437" type="page"/>
+                        <ptr target="IV/12#444" type="page"/>
+                        <ptr target="IV/12#814" type="page"/>
+                        <ptr target="IV/12#815" type="page"/>
+                        <ptr target="IV/12#1253" type="page"/>
+                        <ptr target="IV/12#1263" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011254">
+                    <idno type="mega">1020483</idno>
+                    <persName type="reg">
+                        <surname>Noilliac</surname>
+                        <forename>Bénigne Victor Aimé</forename>
+                    </persName>
+                    <note>Politiker der Französischen Revolution, Verfasser von Pamphleten</note>
+                    <linkGrp>
+                        <ptr target="I/31#1265" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011255">
+                    <idno type="mega">1020484</idno>
+                    <persName type="reg">
+                        <name>Nointel, Charles Henry François Olier, marquis de</name>
+                    </persName>
+                    <birth>1635</birth>
+                    <death>1685</death>
+                    <note>französischer Diplomat; hielt sich 1670–1679 im Orient auf</note>
+                    <linkGrp>
+                        <ptr target="IV/12#346" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003466">
+                    <idno type="mega">1020488</idno>
+                    <persName type="reg">
+                        <surname>Nolan</surname>
+                        <forename>Lewis Edward</forename>
+                    </persName>
+                    <birth>1818</birth>
+                    <death>1854</death>
+                    <note>britischer Kavallerist und Militärschriftsteller</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000011256">
+                    <idno type="mega">1020494</idno>
+                    <persName type="reg">
+                        <surname>Nordberg</surname>
+                        <forename>Jöran Anderson</forename>
+                    </persName>
+                    <birth>1677</birth>
+                    <death>1744</death>
+                    <note>schwedischer Theologe und Historiker; Hofprediger und Feldkaplan Karls&#160;XII.</note>
+                    <linkGrp>
+                        <ptr target="IV/12#283" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003467">
+                    <idno type="mega">1020496</idno>
+                    <persName type="reg">
+                        <name>Nordemann</name>
+                    </persName>
+                    <note>Seidenbandhändler in Bern</note>
+                    <linkGrp>
+                        <ptr target="III/9#28" type="page"/>
+                        <ptr target="III/9#34" type="page"/>
+                        <ptr target="III/9#699" type="page"/>
+                        <ptr target="III/9#706" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011257">
+                    <idno type="mega">1020497</idno>
+                    <persName type="reg">
+                        <surname>Nordemann</surname>
+                        <forename>Rachel</forename>
+                    </persName>
+                    <note>Ehefrau von Nordemann</note>
+                    <linkGrp>
+                        <ptr target="III/9#28" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003468">
+                    <idno type="mega">1020499</idno>
+                    <persName type="reg">
+                        <name>Nordenstam, Juhana Mauritz, Baron</name>
+                    </persName>
+                    <birth>1802</birth>
+                    <death>1882</death>
+                    <note>finnischer Militär in russischen Diensten, Generalleutnant, 1845 Gouverneur von Helsingfors</note>
+                    <linkGrp>
+                        <ptr target="I/14#1359" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="ed_q1x_tqj_sx">
+                    <persName type="reg">
+                        <surname>Nördlinger</surname>
+                        <forename>S.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="pdrPo.001.004.000003469">
+                    <idno type="mega">1020507</idno>
+                    <persName type="reg">
+                        <surname>Norman</surname>
+                        <forename>George Warde</forename>
+                    </persName>
+                    <birth>1793</birth>
+                    <death>1882</death>
+                    <note>britischer Kaufmann, Bankier und Ökonom; führender Vertreter der Currency-School; Direktor der Bank of England (1821–1872)</note>
+                    <linkGrp>
+                        <ptr target="II/12#1257" type="page"/>
+                        <ptr target="II/14#247" type="page"/>
+                        <ptr target="II/14#249" type="page"/>
+                        <ptr target="II/14#405" type="page"/>
+                        <ptr target="II/14#867" type="page"/>
+                        <ptr target="II/14#896" type="page"/>
+                        <ptr target="II/14#928" type="page"/>
+                        <ptr target="II/13#693" type="page"/>
+                        <ptr target="II/15#419" type="page"/>
+                        <ptr target="II/15#542" type="page"/>
+                        <ptr target="II/15#544" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003470">
+                    <idno type="mega">1020510</idno>
+                    <persName type="reg">
+                        <name>Normanby, Constantine Henry Phipps, (seit 1831) Earl of Mulgrave, (seit 1838) Marquis            of</name>
+                    </persName>
+                    <birth>1797</birth>
+                    <death>1863</death>
+                    <note>britischer Staatsmann, Whig; Kolonial- und Kriegsminister (1838), Innenminister (1839–1841), Botschafter in Paris (1846–1852), Gesandter in Florenz (1854–1858)</note>
+                    <linkGrp>
+                        <ptr target="III/10#176" type="page"/>
+                        <ptr target="III/10#807" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003471">
+                    <idno type="mega">1020514</idno>
+                    <persName type="reg">
+                        <surname>Norris</surname>
+                        <forename>T.</forename>
+                    </persName>
+                    <note>Mitglied der Schiller-Anstalt in Manchester (1860)</note>
+                    <linkGrp>
+                        <ptr target="III/11#1016" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003472">
+                    <idno type="mega">1020515</idno>
+                    <persName type="reg">
+                        <surname>Norris</surname>
+                        <forename>W.</forename>
+                    </persName>
+                    <note>Mitglied der Schiller-Anstalt in Manchester (1860)</note>
+                    <linkGrp>
+                        <ptr target="III/11#1016" type="page"/>
+                        <ptr target="III/11#1017" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011258">
+                    <idno type="mega">1020519</idno>
+                    <persName type="reg">
+                        <surname>North</surname>
+                        <forename>Sir Dudley</forename>
+                    </persName>
+                    <birth>1641</birth>
+                    <death>1691</death>
+                    <note>englischer Ökonom; ein Vorläufer der klassischen politischen Ökonomie</note>
+                    <linkGrp>
+                        <ptr target="II/15#601" type="page"/>
+                        <ptr target="II/15#610" type="page"/>
+                        <ptr target="II/15#1216" type="page"/>
+                        <ptr target="II/15#1217" type="page"/>
+                        <ptr target="II/15#1222" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003473">
+                    <idno type="mega">1020521</idno>
+                    <persName type="reg">
+                        <surname>Northmore</surname>
+                        <forename>Thomas</forename>
+                    </persName>
+                    <birth>1766</birth>
+                    <death>1851</death>
+                    <note>Erfinder und Schriftsteller; gelang 1805 die erste Gasverflüssigung, des Chlorgases</note>
+                    <linkGrp>
+                        <ptr target="IV/31#296" type="page"/>
+                        <ptr target="IV/31#723" type="page"/>
+                        <ptr target="IV/31#846" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003474">
+                    <idno type="mega">1020527</idno>
+                    <persName type="reg">
+                        <surname>Norzagaray</surname>
+                        <forename>Fernando de</forename>
+                    </persName>
+                    <birth>1808</birth>
+                    <death>1860</death>
+                    <note>spanischer General</note>
+                    <linkGrp>
+                        <ptr target="IV/12#870" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011259">
+                    <idno type="mega">1020531</idno>
+                    <persName type="reg">
+                        <surname>Nostiz</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <note>preußischer Offizier; Neffe von Sophie Gräfin von Hatzfeldt</note>
+                    <linkGrp>
+                        <ptr target="III/11#459" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003475">
+                    <idno type="mega">1020532</idno>
+                    <persName type="reg">
+                        <name>Nostiz, August Ludwig Ferdinand, Graf von</name>
+                    </persName>
+                    <birth>1777</birth>
+                    <death>1866</death>
+                    <note>preußischer General; Schwager von Sophie Gräfin von Hatzfeldt</note>
+                    <linkGrp>
+                        <ptr target="III/11#459" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003476">
+                    <idno type="mega">1020537</idno>
+                    <persName type="reg">
+                        <surname>Nothjung</surname>
+                        <forename>Peter</forename>
+                    </persName>
+                    <birth>1821</birth>
+                    <death>1866</death>
+                    <note>deutscher Schneider; Mitglied des Bundes der Kommunisten; im Kölner Kommunistenprozeß 1852 zu sechs Jahren Festungshaft verurteilt, später Anhänger Lassalles und Bevollmächtigter des ADAV in Breslau; im Mai 1849 Teilnehmer am Elberfelder Aufstand; später Bevollmächtigter des Allgemeinen Deutschen Arbeitervereins in Breslau</note>
+                    <linkGrp>
+                        <ptr target="III/9#250" type="page"/>
+                        <ptr target="III/9#252" type="page"/>
+                        <ptr target="III/9#531" type="page"/>
+                        <ptr target="III/9#912" type="page"/>
+                        <ptr target="III/9#914" type="page"/>
+                        <ptr target="III/9#1170" type="page"/>
+                        <ptr target="III/10#316" type="page"/>
+                        <ptr target="III/10#317" type="page"/>
+                        <ptr target="III/10#379" type="page"/>
+                        <ptr target="III/10#380" type="page"/>
+                        <ptr target="III/10#398" type="page"/>
+                        <ptr target="III/10#833" type="page"/>
+                        <ptr target="III/10#910" type="page"/>
+                        <ptr target="III/10#921" type="page"/>
+                        <ptr target="III/10#922" type="page"/>
+                        <ptr target="III/10#934" type="page"/>
+                        <ptr target="III/10#082" type="page"/>
+                        <ptr target="III/10#996" type="page"/>
+                        <ptr target="III/11#13" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003477">
+                    <idno type="mega">1020551</idno>
+                    <persName type="reg">
+                        <surname>Noyes</surname>
+                        <forename>John Humphrey</forename>
+                    </persName>
+                    <birth>1811</birth>
+                    <death>1886</death>
+                    <note>amerikanischer Prediger, Sozialreformer und Publizist</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000003462">
+                    <idno type="mega">1020470</idno>
+                    <persName type="reg">
+                        <surname>Noël de la Morinière</surname>
+                        <forename>Simon Barthélemy Joseph</forename>
+                    </persName>
+                    <birth>1765</birth>
+                    <death>1822</death>
+                    <note>französischer Forschungsreisender, Ichthyologe</note>
+                    <linkGrp>
+                        <ptr target="IV/12#760" type="page"/>
+                        <ptr target="IV/12#1416" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011260">
+                    <idno type="mega">1020558</idno>
+                    <persName type="reg">
+                        <name>Nugent</name>
+                    </persName>
+                    <note>Engländerin; angeblich Frau von Julien Cherval</note>
+                    <linkGrp>
+                        <ptr target="III/10#1021" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011261">
+                    <idno type="mega">1020571</idno>
+                    <persName type="reg">
+                        <name>Nunia auch Nino, Nina, Christiana</name>
+                    </persName>
+                    <note>vermutlich aus Kappadokien stammende kriegsgefangene christliche Sklavin in Georgien; gewann durch ihre Tugenden Königshaus und Volk für das Christentum; Heilige</note>
+                    <linkGrp>
+                        <ptr target="IV/12#22" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003479">
+                    <idno type="mega">1020573</idno>
+                    <persName type="reg">
+                        <name>Nuri Efendi</name>
+                    </persName>
+                    <note>osmanischer Politiker und Diplomat</note>
+                    <linkGrp>
+                        <ptr target="IV/12#201" type="page"/>
+                        <ptr target="IV/12#206" type="page"/>
+                        <ptr target="IV/12#209" type="page"/>
+                        <ptr target="IV/12#225" type="page"/>
+                        <ptr target="IV/12#228" type="page"/>
+                        <ptr target="IV/12#229" type="page"/>
+                        <ptr target="IV/12#237" type="page"/>
+                        <ptr target="IV/12#241" type="page"/>
+                        <ptr target="IV/12#244" type="page"/>
+                        <ptr target="IV/12#252" type="page"/>
+                        <ptr target="IV/12#257" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003480">
+                    <idno type="mega">1020577</idno>
+                    <persName type="reg">
+                        <surname>Nutt</surname>
+                        <forename>David</forename>
+                    </persName>
+                    <birth>1810</birth>
+                    <death>1863</death>
+                    <note>englischer Buchhändler und Verleger; 1856–1863 mit Nicolas Trübner Inhaber der Firma Trübner &amp; Co.</note>
+                    <linkGrp>
+                        <ptr target="III/9#56" type="page"/>
+                        <ptr target="III/9#71" type="page"/>
+                        <ptr target="III/9#371" type="page"/>
+                        <ptr target="III/9#495" type="page"/>
+                        <ptr target="III/9#532" type="page"/>
+                        <ptr target="III/9#582" type="page"/>
+                        <ptr target="III/9#583" type="page"/>
+                        <ptr target="III/9#717" type="page"/>
+                        <ptr target="III/9#1039" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003422">
+                    <idno type="mega">1020198</idno>
+                    <persName type="reg">
+                        <surname>Nélaton</surname>
+                        <forename>Auguste</forename>
+                    </persName>
+                    <birth>1807</birth>
+                    <death>1873</death>
+                    <note>französischer Arzt, Chirurg; seit 1866 Leibchirurg Napoléons III, seit 1868 Senator</note>
+                    <linkGrp>
+                        <ptr target="III/11#594" type="page"/>
+                        <ptr target="III/11#595" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003463">
+                    <idno type="mega">1020476</idno>
+                    <persName type="reg">
+                        <name>Nörner</name>
+                    </persName>
+                    <note>preußischer Gerichtsbeamter</note>
+                    <linkGrp>
+                        <ptr target="III/10#892" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003464">
+                    <idno type="uri">http://d-nb.info/gnd/117038970</idno>
+                    <idno type="mega">1020477</idno>
+                    <persName type="reg">
+                        <surname>Nösselt</surname>
+                        <forename>Friedrich August</forename>
+                    </persName>
+                    <birth>1781</birth>
+                    <death>1850</death>
+                    <note>deutscher Pädagoge, Verfasser von Lehrbüchern für Geschichte, Geographie und deutsche Literatur</note>
+                    <linkGrp>
+                        <ptr target="III/13#60" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003478">
+                    <idno type="mega">1020568</idno>
+                    <persName type="reg">
+                        <surname>Núñez</surname>
+                        <forename>Manuel</forename>
+                    </persName>
+                    <note>spanischer Militär</note>
+                    <linkGrp>
+                        <ptr target="IV/12#639" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003383">
+                    <idno type="mega">1020036</idno>
+                    <persName type="reg">
+                        <surname>Nădejde</surname>
+                        <forename>Ion</forename>
+                    </persName>
+                    <birth>1859</birth>
+                    <death>1928</death>
+                    <note>rumänischer Publizist; Sozialdemokrat, übersetzte Arbeiten von Engels ins Rumänische</note>
+                    <linkGrp>
+                        <ptr target="I/31#706" type="page"/>
+                        <ptr target="I/31#743" type="page"/>
+                        <ptr target="I/31#1034" type="page"/>
+                    </linkGrp>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00167" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>163</idno>Karl Marx an Johann Philipp Becker in Genf. London, Freitag, 31. August 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">C 32/C 6</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen dünnem, rosafarbigem Papier im Format
+                            273&#160;×&#160;212&#160;mm. Auf der ersten Seite oben links trägt der
+                            Brief den ovalen roten Aufdruck des Central Council der IAA (siehe {{Br.
+                            6, ZB}}).<?oxy_comment_start author="lindenberg" timestamp="20170424T165656+0200" comment=" Auf der ersten Seite oben links trägt der Brief den ovalen roten Aufdruck des Central Council der IAA (siehe S. 000 [Br. 6, ZB])."?>
+                            <?oxy_comment_end?>Die erste und dritte Seite hat Marx vollständig
+                            beschrieben, die vierte zu drei Vierteln, die zweite Seite ist leer.
+                            Schreibmaterial: schwarze Tinte.</p><p>Die Numerierung der Absätze „1)“ bis „<hi rendition="#u">12</hi>“ stammt von Marx.</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1991</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: in russischer Übersetzung: МЭС1 25 (1934).
+                            S.&#160;475/476</bibl>.</witness><witness><bibl>in der Sprache des Originals: MEW&#160;31 (1965). S.&#160;524/525.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-08-31"/></correspAction><correspAction type="received"><persName key="pdrPo.001.004.000000317">Johann Philipp Becker</persName><placeName>Genf</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:54Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 31 August 1866.</dateline><salute sameAs="MBAnrede">Lieber Becker,</salute></opener><p sameAs="MBTextohneEinzug">Es ist absolut nöthig, daß <seg type="comment"><orig><persName key="pdrPo.001.004.000002417">Jung</persName> Präsident des
+                            Congresses wird,</orig><note xml:id="npjw_g1d_3z"><persName key="pdrPo.001.004.000002417">Hermann Jung</persName> wurde zum
+                            Präsidenten des Genfer Kongresses der IAA gewählt. Siehe auch <ref target="B00170/#start_jdw_s44_rz">J. G. Eccarius an Marx, 5./6.9.
+                                1866.</ref>
+                            <?oxy_comment_start author="roth" timestamp="20170425T112002+0200" comment="{{Br. 166.81}}."?></note><?oxy_comment_end?></seg></p><p sameAs="MBTextmitEinzug">1)&#160;weil er die 3&#160;Sprachen spricht, Englisch, Französisch u. Deutsch.</p><p sameAs="MBTextmitEinzug">2)&#160;Jung <hi rendition="#u">repräsentirt wirklich</hi> den Central
+                    Council, <persName key="pdrPo.001.004.000003494">Odgers</persName> (der
+                    ausserdem nur seine Muttersprache kennt) ist <hi rendition="#u">nicht</hi>
+                    gewählt durch den Central Council: <seg type="comment"><orig><anchor type="verweisziel" xml:id="start_xgz_w54_rz"/>Wir wählten
+                            4&#160;Delegirte, Jung an der Spitze; Odgers nur zu gehn, wenn er selbst
+                            das Geld (natürlich unter unsrer Garantie) pumpen könne.<anchor type="verweisziel" xml:id="stop_xgz_w54_rz"/></orig><note xml:id="ebc8cea7-6d2d-416a-81ab-1128d56577c4">Auf der Sitzung des
+                            Zentralrats am 28.&#160;August 1866 waren als seine Delegierten für den
+                            bevorstehenden Kongress <persName key="pdrPo.001.004.000000814">James
+                                Carter</persName>, <persName key="pdrPo.001.004.000001027">William
+                                Randall Cremer</persName>, <persName key="pdrPo.001.004.000001296">Johann Georg Eccarius</persName> und <persName key="pdrPo.001.004.000002417">Hermann Jung</persName> nominiert
+                            worden. <persName key="pdrPo.001.004.000003494">George Odger</persName>
+                            „was also appointed if circumstances would permit him to attend.“
+                            Ausserdem delegierte die London Operative Tailors’ Protective
+                            Association ihren Sekretär <persName key="ed_rr5_4hk_wy">Mathew
+                                Lawrence</persName> und die Branche française de Londres de l’A.I.T.
+                            ihr Mitglied <persName key="pdrPo.001.004.000001279">Eugène
+                                Dupont</persName>. Siehe The_Minute Book_1864–1866. In:
+                            MEGA²&#160;I/20 S.&#160;450.6–9. (((lThe_Minute_Book_1864–1866. In:
+                            MEGA²&#160;I/20. S._265–450))) </note></seg> Er hat <hi rendition="#u">Nichts</hi> für die Gesellschaft gethan.</p><p sameAs="MBTextmitEinzug">3)&#160;<seg type="comment"><orig><persName key="pdrPo.001.004.000001027">Crämer</persName> u. <persName key="pdrPo.001.004.000003494">Odgers</persName> haben eine sehr
+                            gemeine Intrigue angesponnen, um noch den letzten Tag die Abreise Jung’s
+                            u. <persName key="pdrPo.001.004.000001296">Eccarius</persName> zu
+                            verhindern.</orig><note xml:id="a854bed0-1757-4d12-95ac-166b37c0d796">Bei <persName key="pdrPo.001.004.000001027">Cremer</persName>, dem
+                            Generalsekretär, lag das ganze Reisegeld für die Delegierten des
+                            Zentralrats. Vor der Abreise, am 31.&#160;August 1866, erklärte er
+                                <persName key="pdrPo.001.004.000002417">Jung</persName>, das
+                            gesammelte Geld reiche nur für drei Personen, ihn selbst, <persName key="pdrPo.001.004.000000814">Carter</persName> und <persName key="pdrPo.001.004.000003494">Odger</persName>, die weiteren
+                            Delegierten sollen auf eigene Kosten reisen. Cremer war gegen die
+                            Anwesenheit der Korrespondierenden Sekretäre, Ausländer, auf dem
+                            Kongress. Nachdem <persName key="pdrPo.001.004.000002417">Jung</persName> versprochen hatte, auf eigene Kosten eher in Genf
+                            zu sein als <persName key="pdrPo.001.004.000001027">Cremer</persName> ,
+                            war die Intrige niedergeschlagen. Siehe Jenny Marx (Tochter) an Jenny
+                            Marx, 2.&#160;September 1866 (RGASPI, Sign. f.&#160;7, op.&#160;1,
+                            d.&#160;214). (((lMarx,Jenny(Tochter) an Jenny Marx, 2.&#160;September
+                            1866 (RGASPI, Sign. f.&#160;7, op.&#160;1, d.&#160;214) )))
+                        </note></seg></p><p sameAs="MBTextmitEinzug">4)&#160;
+                    <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><del rendition="#ow">J<ex>ung</ex><sic ana="#break-off"/></del>
+                    <?oxy_custom_end?><persName key="pdrPo.001.004.000003494">Odgers</persName>
+                    wünscht als <hi rendition="#u">Präsident des Congresses</hi> erwählt zu werden,
+                    um dadurch den Engländern <pb/> zu imponiren, u. gegen den <hi rendition="#u">Wunsch der grossen Majorität des</hi><?oxy_comment_start author="lindenberg" timestamp="20170119T143859+0100" comment="Unterstreichung des gestrichenen Wortes nicht möglich"?>
+                    <subst>
+                        <del rendition="#s"><?oxy_comment_end?><hi rendition="#u">Congresses</hi></del>
+                    </subst><hi rendition="#u"><subst>
+                            <add place="superlinear">Council</add>
+                        </subst></hi> sich als Präsident des Central Council für das nächste Jahr
+                    aufzunöthigen.</p><p sameAs="MBTextmitEinzug">5)&#160;Cremer u. Odgers haben<del> eine <sic ana="#break-off"/></del> beide <add>uns</add> <hi rendition="#u">verrathen</hi> in der Reform Ligue, wo sie gegen unsren Willen <hi rendition="#u">Compromisse mit den Bourgeois</hi> machten.</p><p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_dbd_bvb_5z"/>6)&#160;Herr
+                    Cremer hat sich ganz <hi rendition="#u">demoralisirt</hi>. Er speculirt nur noch
+                    auf einen <hi rendition="#u">„bezahlten“</hi> Posten, um nicht arbeiten zu
+                    müssen. Er <hi rendition="#u">darf</hi> daher <hi rendition="#u">unter keinen
+                        Umständen</hi> von dem Congreß <hi rendition="#u">als Generalsecretair</hi>
+                    erwählt werden. (Der einzig bezahlte Posten.); <seg type="comment"><orig>Man muß
+                                <persName key="pdrPo.001.004.000001603">Fox</persName>
+                            wählen,</orig><note xml:id="nfz2_y3d_3z">In den „Instructions for the
+                            Delegates of the Provisional General Council. The different questions“
+                            schlug Marx vor, den Generalsekretär vom Kongress der IAA wählen zu
+                            lassen (siehe MEGA² I/20. S. 225.13–14). (((lMarx,Karl:Instructions for
+                            the Delegates of the Provisional General Council. The different
+                            questions. In: MEGA²_I/20. S. 225–235))) Der Genfer Kongress beschloss
+                            jedoch, dass alle Funktionäre wie bisher vom Generalrat selbst gewählt
+                            werden sollen. Siehe Association lnternationale des Travailleurs. Compte
+                            rendu du Congrès de Genève (1866). In: MEGA²_I/20. S. 658.15–23.
+                            (((lAssociation lnternationale des Travailleurs. Compte rendu du Congrès
+                            de Genève (1866). In: MEGA²_I/20. S. 649–679))) <persName key="pdrPo.001.004.000001603">Peter Fox André</persName> wurde in
+                            der Sitzung des Generalrats am 25. September 1866 zum Generalsekretär
+                            der IAA gewählt; siehe <ref target="B00176/#start_ws2_kp4_rz">Marx an
+                                Engels,
+                            26.9.1866</ref><?oxy_comment_start author="roth" timestamp="20170425T112511+0200" comment="{{Br. 171.22–25}},"?>,<?oxy_comment_end?>
+                            Minutes of the General Council 1866/1867. In: MEGA²_I/20. S. 485.38–39
+                            und Erl. (((lMinutes of the General Council 1866/1867. In: MEGA²_I/20.
+                            S._477–591)))</note></seg> unter dem übrigens richtigen Vorwand, daß der
+                    Generalsekretair <hi rendition="#u">mehr als eine Sprache</hi> kennen
+                        muß.<anchor type="verweisziel" xml:id="stop_dbd_bvb_5z"/></p><p sameAs="MBTextmitEinzug">9)&#160;<seg type="comment"><orig>Der<hi rendition="#u"> Präsident des
+                                Central Council</hi> muß <hi rendition="#uu">nicht</hi>
+                            <del rendition="#s">nur</del>
+                            <hi rendition="#u">durch den</hi> Congreß, sondern hier <hi rendition="#u">in London</hi> als <hi rendition="#u">nur lokale
+                                Grösse</hi> gewählt werden.</orig><note xml:id="nanx_hjd_3z">Siehe
+                                <ref target="B00170">J. G. Eccarius an Marx,
+                                5./6.9.<?oxy_comment_start author="roth" timestamp="20170425T113055+0200" comment="{{Br. 166.7–10}}. "?>1866<?oxy_comment_end?></ref>.
+                            In der Sitzung des Generalrats vom 25. September 1866 schlug <persName key="ed_rr5_4hk_wy">Mathew Lawrence</persName> Marx zum Vorsitzenden
+                            für die nächsten 12 Monate vor. Marx lehnte eine Kandidatur ab, nach
+                            seinem Vorschlag wurde <persName key="pdrPo.001.004.000003494">George
+                                Odger</persName> zum Vorsitzenden gewählt. Siehe Minutes of the
+                            General Council 1866/1867. In: MEGA²_I/20. S. 485.31–35 sowie <ref target="B00176">Marx an Engels,
+                                26.9.<?oxy_comment_start author="roth" timestamp="20170425T113600+0200" comment="{{Br. 171.9–16}}."?>1866<?oxy_comment_end?></ref>.
+                            (((lMinutes of the General Council 1866/1867. In: MEGA²_I/20.
+                            S._477–591))) </note></seg>
+                </p><p sameAs="MBTextmitEinzug"><pb/> 10)&#160;Bei der Wahl des <hi rendition="#u">Präsidenten für den
+                        Congreß</hi> mußt Du gleich sagen, daß ein <hi rendition="#u">internationaler Congreß</hi> nur von einem Mann präsidirt werden kann, der
+                    die verschiednen Sprachen <del rendition="#ow">spricht.<sic ana="#break-off"/></del> spricht,<?oxy_comment_start author="lindenberg" timestamp="20170119T150550+0100" comment="Variante bei Gelegenheit noch einmal diskutieren"?>
+                    <?oxy_comment_end?>schon um Zeit zu gewinnen etc.</p><p sameAs="MBTextmitEinzug">11)&#160;Theile Diese Sache <persName key="pdrPo.001.004.000001278">Dupleix</persName> mit.</p><p sameAs="MBTextmitEinzug"><hi rendition="#u">12</hi>&#160;Es ist mir lieb, wenn Du <seg type="comment"><orig>die Instruktionen, die ich im Namen des Central
+                            Committee für die Londoner Delegirten geschrieben Dir vor Beginn von
+                                <persName key="pdrPo.001.004.000001296">Eccarius</persName> deutsch
+                            übersetzen läßt.</orig><note xml:id="nqxc_vjd_3z">Karl Marx:
+                            Instructions for the Delegates of the Provisional General Council. The
+                            different questions. In: MEGA² I/20. S. 225–235). Eccarius hat die
+                            Übersetzung ins Deutsche in der Sitzung des Kongresses am 4. September
+                            1866 vorgetragen. Siehe Association lnternationale des Travailleurs.
+                            Compte rendu du Congrès de Genève (1866). In: MEGA²_I/20. S. 656.31–32.
+                            (((lAssociation lnternationale des Travailleurs. Compte rendu du Congrès
+                            de Genève (1866). In: MEGA²_I/20. S. 649–679)))</note></seg></p><p sameAs="MBTextmitEinzug">Gruß u. Handschlag.</p><closer sameAs="MBUnterschrift">Dein<lb/>Karl Marx </closer></div></body></text></TEI>

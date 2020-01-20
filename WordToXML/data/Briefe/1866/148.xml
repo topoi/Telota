@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00152" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>148</idno>Hermann Engels an Friedrich Engels in Manchester. Barmen, Montag, 13. August 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">Standort Orig. nicht bekannt; Kopie: f. 9 op. 1 d. 11/19</idno></idno></msIdentifier><physDesc><p>Der Standort der Originalhandschrift ist zur Zeit nicht bekannt. Die Veröffentlichung erfolgt nach einer Fotokopie: RGASPI, Sign. f.&#160;9, op.&#160;1, d.&#160;11/19. Fotosign.: 593a&lt;–&gt;b.</p><p>Soweit aus der Fotokopie zu ersehen ist, besteht der Brief aus einem Bogen. Alle vier Seiten hat
+                            Hermann Engels vollständig beschrieben. Etwa die Hälfte der zweiten
+                            Seite (Z.&#160;21–25),<?oxy_comment_start author="lindenberg" timestamp="20170424T145246+0200" comment="Etwa die Hälfte der zweiten Seite (Z. 21–25??),"?>
+                            <?oxy_comment_end?>mit Bleistift geschrieben (siehe Z.&#160;46–47), ist
+                            kaum noch lesbar. Schreibmaterial: schwarze Tinte und Bleistift.</p><p>Von unbekannter Hand: Numerierung des Briefes: „593“.</p><p>Der Brief ist früher geschrieben, als der von Elisabeth Engels an Engels vom 13&#160;August 1866 (siehe Br.&#160;149.3–6).</p></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000001375">Hermann Engels</persName><placeName>Barmen</placeName><date when="1866-08-13"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:46Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <opener>
+                    <salute sameAs="MBAnrede"><pb/> Lieber Friedrich!</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Der Contract mit <persName key="pdrPo.001.004.000010602">Funke</persName></orig><note xml:id="db3ff04c-e817-4ead-a7ad-b3621e4b0057">Zu den
+                            Vertragsverhandlungen mit der Firma <orgName key="pdrPo.001.015.000090261">Robert
+                                Funke&#160;&amp;&#160;Co.</orgName> siehe <ref target="B00018/#a764c933-1f9d-4cb0-b8f5-2afc8056a8ad">Erl. zu H.
+                                Engels an Engels,
+                                20.1.<?oxy_comment_start author="reichhoff" timestamp="20170518T123528+0200" comment="{{Erl. 17c}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                    ist uns von Engelskirchen hierher geschickt worden, da man nicht wußte was damit
+                    nun zu machen sei; denn <seg type="comment"><orig><persName key="pdrPo.001.004.000001367">Mutter</persName> ist für einige
+                            Wochen wieder hier</orig><note xml:id="nigz_3xn_hz">Siehe auch <ref target="B00153/#start_dk3_gyv_tz">E. Engels an Engels,
+                                13.8.<?oxy_comment_start author="reichhoff" timestamp="20170503T151504+0200" comment="{{Br. 149.6–10}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    &amp; so ging <seg type="comment"><orig>Dein Brief an sie</orig><note xml:id="cd589d14-cb30-4b36-8323-0c4f60d1d300">Der Brief von Engels an
+                                <persName key="pdrPo.001.004.000001367">Elisabeth Engels</persName>,
+                            geschrieben vor dem 10.&#160;August 1866, ist nicht
+                        überliefert.</note></seg> auch mit hierher. – Bevor wir nun den Contract
+                    unterschreiben &amp; am Ende etwas verkehrt dabei machen, sei so gut mir
+                    folgende Fragen zu beantworten.</p>
+                <p sameAs="MBTextmitEinzug">1). Müssen die Unterschriften, sowohl die unsrigen als
+                    auch die der Zeugen, in Gegenwart eines <hi rendition="#u">Notars</hi> unter das
+                    Document gesetzt werden &amp; hat dabei der Notar noch etwas zu attestiren, oder
+                    ist gar kein Notar dabei nöthig?</p>
+                <p sameAs="MBTextmitEinzug">2) Welche Eigenschaften müssen die Zeugen besitzen?
+                    müssen es <hi rendition="#u">selbstständige</hi> hiesige Bürger, die nicht in
+                    unsern Diensten stehen, sein, oder ist das gleichgültig? und könnten wir somit
+                    z.&#160;B. allenfalls auch zwei von unsern Commis dazu nehmen?</p>
+                <p sameAs="MBTextmitEinzug">Dann bitte ich Dich ferner, mir anzugeben wie die
+                    Unterschriften zu machen sind:</p>
+                <p sameAs="MBTextmitEinzug">Der Schluß des Documents sieht nämlich wie folgt aus
+                    &amp; sind wie neben angegeben Andeutungen mit Bleistift gemacht: – Anderseits </p>
+                <p sameAs="MBTextmitEinzug"><pb/> In witness whereof the said parties to those
+                    presents have hereunto set their hands the day and year first before
+                    written.</p>
+                <table rend="rules">
+                    <row>
+                        <cell rend="MBTextmitEinzug">Signed by the said<?oxy_comment_start author="lindenberg" timestamp="20170118T170633+0100" comment="Umsetzung der Tabelle mangelhaft - diese diente nur der Strukturierung des Textes, d. h. die Linien müßten wegfallen"?>
+                            <?oxy_comment_end?></cell>
+                        <?oxy_comment_start author="roth" timestamp="20170503T184058+0200" comment="Klammer muss über alle 4 Zeilen gehen"?>
+                        <cell rend="MBTextmitEinzug">}</cell>
+                        <?oxy_comment_end?>
+                    </row>
+                    <row>
+                        <cell rend="MBTextmitEinzug"><persName key="pdrPo.001.004.000001375">Hermann
+                                Engels</persName></cell>
+                        <cell rend="MBTextmitEinzug"/>
+                    </row>
+                    <row>
+                        <cell rend="MBTextmitEinzug"/>
+                        <cell rend="MBTextmitEinzug"/>
+                    </row>
+                    <row>
+                        <cell rend="MBTextmitEinzug"/>
+                        <cell rend="MBTextmitEinzug"/>
+                    </row>
+                </table>
+                <p sameAs="MBTextmitEinzug">So sieht das Ding bis jetzt am Schluß aus; und ist es
+                    nun wie folgt zu vollziehen?</p>
+                <table rend="rules">
+                    <row>
+                        <cell rend="MBTextmitEinzug">Signed by the said</cell>
+                        <cell/>
+                        <cell/>
+                        <cell><?oxy_comment_start author="roth" timestamp="20170503T184121+0200" comment="Klammer muss über alle 5 Zeilen gehen"?>}<?oxy_comment_end?><?oxy_comment_start author="lindenberg" timestamp="20170118T170725+0100" comment="Umsetzung der Tabelle mangelhaft - diese diente nur der Strukturierung des Textes, d. h. die Linien müßten wegfallen"?>
+                            <?oxy_comment_end?></cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell rend="MBTextohneEinzug"><persName key="pdrPo.001.004.000001375">Hermann Engels</persName></cell>
+                        <cell>of</cell>
+                        <cell>Barmen</cell>
+                        <cell rend="MBTextohneEinzug"/>
+                        <cell rend="MBTextohneEinzug">Hermann Engels</cell>
+                        <cell>of</cell>
+                        <cell>Barmen</cell>
+                    </row>
+                    <row>
+                        <cell rend="MBTextohneEinzug"><persName key="pdrPo.001.004.000001391">Rudolph Engels</persName></cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell rend="MBTextohneEinzug"/>
+                        <cell rend="MBTextohneEinzug">Rudolph Engels</cell>
+                        <cell>"</cell>
+                        <cell>d<hi rendition="#sup">to</hi></cell>
+                    </row>
+                    <row>
+                        <cell rend="MBTextohneEinzug"><persName key="pdrPo.001.004.000001368">Emil
+                                Engels</persName></cell>
+                        <cell>of</cell>
+                        <cell>Engelskirchen</cell>
+                        <cell rend="MBTextohneEinzug"/>
+                        <cell rend="MBTextohneEinzug">Emil Engels</cell>
+                        <cell>of</cell>
+                        <cell>Engelskirchen</cell>
+                    </row>
+                    <row>
+                        <cell rend="MBTextohneEinzug"><persName key="pdrPo.001.004.000001904">A. v.
+                                Griesheim</persName></cell>
+                        <cell>of</cell>
+                        <cell>- " -</cell>
+                        <cell rend="MBTextohneEinzug"/>
+                        <cell rend="MBTextohneEinzug">Adolf von Griesheim</cell>
+                        <cell>"</cell>
+                        <cell>d<hi rendition="#sup">to</hi></cell>
+                    </row>
+                    <row>
+                        <cell rend="MBTextohneEinzug">in the presence of</cell>
+                        <cell rend="MBTextohneEinzug"/>
+                        <cell rend="MBTextohneEinzug"/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p sameAs="MBTextohneEinzug">
+                    <table rows="4" cols="4">
+                        <row>
+                            <cell><persName key="ed_svw_f1b_3z">Peter Schmits</persName></cell>
+                            <cell>of</cell>
+                            <cell>Barmen</cell>
+                            <cell>shoemaker</cell>
+                        </row>
+                        <row>
+                            <cell><persName key="ed_nfz_r1b_3z">Joh. Abr. Müller</persName></cell>
+                            <cell>"</cell>
+                            <cell>Barmen</cell>
+                            <cell>shopkeeper</cell>
+                        </row>
+                        <row>
+                            <cell><persName key="ed_k4d_wch_yx">Pet. Blumrath</persName></cell>
+                            <cell>of</cell>
+                            <cell>Engelskirchen </cell>
+                            <cell>Overlooker</cell>
+                        </row>
+                        <row>
+                            <cell><persName key="ed_wbw_xvj_zx">A. Dörseln</persName></cell>
+                            <cell>"</cell>
+                            <cell>"</cell>
+                            <cell>spinnmaster</cell>
+                        </row>
+                    </table>
+                </p>
+                <p sameAs="MBTextohneEinzug">oder muß noch etwas hinzugesetzt werden oder kann <pb/>
+                    irgend etwas, z.&#160;B. der Wohnort hinter unsern Unterschriften, weggelassen
+                    werden.&#160;–</p>
+                <p sameAs="MBTextmitEinzug">Sei so gut mir eben mal genau vorzuschreiben wie das
+                    Ding richtig vollzogen werden muß. Ich verstehe z.&#160;B. auch nicht ganz das
+                    bei x mit Bleistift Geschriebene, kann es aber auch nicht ganz genau
+                    entziffern.&#160;–</p>
+                <p sameAs="MBTextmitEinzug">Uebrigens scheint der Contract ganz neu entworfen zu
+                    sein; ob er Alles Frühere berührt, wirst Du wissen, wir können es hier nicht
+                    vergleichen, da wir von dem früheren Entwurf keine Copie haben; es scheint uns
+                    aber so.</p>
+                <p sameAs="MBTextmitEinzug">Im Artikel&#160;7 von „And it is hereby u.s.w.“ an ist
+                    uns der Zweck nicht verständlich. Artikel 11 sagt, daß <persName key="pdrPo.001.004.000010602">Funke</persName> für Rechnung der <orgName key="pdrPo.001.015.000090261">Firma</orgName> höchstens 200&#160;<expan resp="editor" sameAs="dottet_underline">R<ex>eichstaler</ex></expan> in
+                    Händen haben darf u. daß er für eigene Rechnung gar nicht operiren soll. Thut er
+                    dies dennoch, so haben wir das Recht das Gekaufte entweder für unsere Rechnung
+                    zu übernehmen oder es ihm <hi rendition="#u">für seine Rechnung zu lassen</hi>.
+                    Ob damit unsere Haftpflicht gegen <hi rendition="#u">Dritte</hi> beseitigt wird,
+                    wissen wir nicht. Ist das in England nicht der Fall, so ist es ein zweifelhafter
+                    Trost für uns, daß wir gegen <pb/> Privatspeculationen sonst kein Mittel in
+                    Händen haben. –</p>
+                <p sameAs="MBTextmitEinzug">Nun Du wirst ja die ganze Geschichte durchgesehen haben
+                    &amp; es für uns möglichst sicher gemacht haben. –</p>
+                <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_j3f_4dw_tz"/><persName key="pdrPo.001.004.000001367">Mutter</persName> wird wohl in
+                    diesem Jahr in kein Seebad gehen; sie wollte nach Ostende; aber da ist die
+                    Colerah &amp; deshalb geht's nicht.<anchor type="verweisziel" xml:id="stop_j3f_4dw_tz"/></p>
+                <p sameAs="MBTextmitEinzug">Doch Adieu, eben kommt ein Kunde herein. Es geht
+                    übrigens ziemlich gut im Geschäft &amp; Preise sind auch gut. Auch in Liverpool
+                    haben wir ein nettes Geschäft gemacht in den letzten 4&#160;Wochen –</p>
+                <p sameAs="MBTextmitEinzug">Herzlichen Gruß von Deinem</p>
+                <closer sameAs="MBUnterschrift">Hermann</closer>
+                <p sameAs="MBAdresse">B. 13. Aug 1866.</p>
+                <p sameAs="MBAdresse"><persName key="pdrPo.001.004.000001367">Mutter</persName>
+                    &amp; <seg type="comment"><orig>meine Frau</orig><note xml:id="nov5_zxn_hz"><persName key="pdrPo.001.004.000001370">Emma Engels</persName>.
+                        </note></seg> lassen auch noch grüßen. – Schreibe mir doch umgehend auf
+                    meine Anfragen. – </p>
+            </div></body></text></TEI>

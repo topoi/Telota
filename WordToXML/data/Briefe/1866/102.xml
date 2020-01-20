@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00106" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>102</idno>Karl Marx an Wilhelm Liebknecht in Leipzig. London, Freitag, 4. Mai 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">C 508/C 153</idno></idno></msIdentifier><physDesc>
+                                                <p>Der Brief besteht aus einem Blatt dünnem, blauem
+                                                  Papier im Format 135&#160;×&#160;208&#160;mm,
+                                                  abgetrennt von einem Briefbogen. Auf der ersten
+                                                  Seite oben links der ovale rote Aufdruck des
+                                                  Central Council der IAA (siehe Marx an J. Ph.
+                                                  Becker, zw. 9. u. 15.1.1866). Die erste Seite hat
+                                                  Marx vollständig beschrieben, die zweite zu drei
+                                                  Vierteln. Auf dem zweiten Blatt des
+                                                  durchgetrennten Bogens steht die Reinschrift
+                                                  seines Artikels „Warnung“ (siehe Erl.).
+                                                  Schreibmaterial: schwarze Tinte. Vermutlich beim
+                                                  Öffnen des Briefes wurde das Papier im unteren
+                                                  Teil des Blattes beschädigt, dadurch entstandener
+                                                  Textverlust konnte rekonstruiert werden.</p>
+                                                <p>Liebknecht antwortete mit einem Brief,
+                                                  geschrieben zwischen 8. und 15.&#160;Mai 1866 (W.
+                                                  Liebknecht an Marx, zw. 8. u. 15.5.1866).</p>
+                                        </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1965</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: in russischer Übersetzung: МЭС<hi rendition="#sup">1</hi> 29
+                                                  (1946). S.&#160;438/439</bibl>.</witness><witness><bibl>in der Sprache des Originals: Liebknecht Bw (1963). S.&#160;73/74.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-05-04"/></correspAction><correspAction type="received"><persName key="pdrPo.001.004.000002822">Wilhelm Liebknecht</persName><placeName>Leipzig</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:19Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 4 Mai. 1866.</dateline><salute sameAs="MBAnrede">My dear friend,</salute></opener><p sameAs="MBTextohneEinzug">As I am at this moment, <seg type="comment"><orig>after so long an interruption of work,</orig><note xml:id="b7611d02-0ceb-4d5a-9261-88f28269ccaf">Marx war Anfang 1866 an Furunkulose erkrankt (siehe Erl.&#160;33a).</note></seg> very busily engaged in making up for lost time, you will excuse me for writing this time only a few lines.</p><p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_uts_wby_pz"/><anchor type="verweisziel" xml:id="start_rpn_rzy_pz"/>I
+                                        shall send you to-day the last number of the “<bibl sameAs="zzThe Commonwealth">Commonwealth”</bibl>.
+                                                <anchor type="verweisziel" xml:id="stop_uts_wby_pz"/>The financial position of the paper is such that it
+                                        struggles from week to week and is altogether disabled from
+                                        paying one farthing for Foreign Correspondence. Its
+                                        circulation is increasing, but you know that a penny paper
+                                        wants at least 20&#160;000&#160;subscribers, and cannot even
+                                        then make the two ends meet without a goodly number of
+                                        advertisements. <seg type="comment"><orig>The “Commonwealth”
+                                                  is of too recent an origin to come up to those
+                                                  requisites.</orig><anchor type="verweisziel" xml:id="stop_rpn_rzy_pz"/><note xml:id="c0dd2747-79c8-491e-9fe0-343e7ee34208">Zur
+                                                  Zeitung „The Commonwealth“ siehe Erl. zu <ref target="B00007/#nmrb_qzn_4y">Marx an J. Ph.
+                                                  Becker, zwischen 9. und
+                                                  15.1.<?oxy_comment_start author="reichhoff" timestamp="20170509T121136+0200" comment="{{Erl. 6f}}"?>1866<?oxy_comment_end?></ref>.
+                                                  (((zThe_Commonwealth))) </note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>The Congress at Geneva has been postponed for
+                                                  the 3<hi rendition="#sup">d</hi> of September
+                                                  next.</orig><note xml:id="f04af7ee-c5b0-42c5-bc50-dda86bd2e192">Der
+                                                  Beschluss über die Verlegung des Genfer Kongresses
+                                                  der IAA (siehe <ref target="B00004/#nrk1_sfc_3y">Erl. zu Marx an Engels,
+                                                  5.1.<?oxy_comment_start author="reichhoff" timestamp="20170509T121514+0200" comment="{{Erl. 3d}}"?>1866<?oxy_comment_end?></ref>)
+                                                  auf den 3.&#160;September 1866 wurde in der
+                                                  Sitzung des Zentralrats der IAA am 1.&#160;Mai
+                                                  1866 angenommen (siehe The_Minute Book 1864–1866.
+                                                  In: MEGA²&#160;I/20. S.&#160;405/406 und MEGA²
+                                                  I/20. Erl._403.14-15). (((lThe_Minute Book
+                                                  1864–1866. In: MEGA²&#160;I/20. S._265–450)))
+                                                </note></seg>
+                                        <seg type="comment"><orig>The society</orig><note xml:id="aaaf981f-b722-4313-8f29-3b2f4f2a44ce">Die
+                                                  IAA.</note></seg> is rapidly <expan resp="editor" sameAs="dottet_underline">sp<supplied cert="high">rea</supplied>ding</expan>, particularly in
+                                        France. <seg type="comment"><orig>Italian societies
+                                                  ha<supplied cert="high">ve</supplied> also
+                                                  recently joined.</orig><note xml:id="f7b2a3f9-2fdd-41a9-82f6-155044fe4360">Siehe <ref target="B00102/#start_wgf_ytx_pz">H.
+                                                  Jung an Marx,
+                                                  2.5.<?oxy_comment_start author="reichhoff" timestamp="20170419T140330+0200" comment="{{Br. 98.4–19}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        <seg type="comment"><orig>The propaganda in London has <del rendition="#s">been</del><sic ana="#break-off"/>
+                                                  taken a new start, principally due to the <subst>
+                                                  <del rendition="#s">circumstances</del>
+                                                  <add place="intralinear">circumstance</add>
+                                                  </subst> that the successful strikes of the London
+                                                  tailors and wireworkers were due to our
+                                                  intervention which prevented the <pb/> import of
+                                                  workingmen from France, Switzerland, Belgium,
+                                                  which had been contemplated by the masters. This
+                                                  proof <subst>
+                                                  <del>the</del>
+                                                  <add>its</add>
+                                                  </subst> immediate <subst>
+                                                  <del>practically</del>
+                                                  <add>practical</add>
+                                                  </subst>
+                                                  <expan resp="editor" sameAs="dottet_underline">import<ex>ance</ex></expan> has struck the
+                                                  practical English mind.</orig><note xml:id="c451667f-9ff3-4d12-9f03-45fe0b1ad055">Zum
+                                                  Streik der Schneider in Großbritannien und der
+                                                  Unterstützung durch die IAA siehe <ref target="B00097/#aaa785b0-040b-4650-8a8f-dad401bdbf2e">Erl. zu Marx an Engels,
+                                                  23.4.<?oxy_comment_start author="reichhoff" timestamp="20170509T121753+0200" comment="{{Erl. 93b}}"?>1866<?oxy_comment_end?></ref>
+                                                  und <ref target="B00100/#f2403266-7696-4a99-9654-89d0dd7a2f83">Erl. zu Engels an Marx,
+                                                  1.5.<?oxy_comment_start author="reichhoff" timestamp="20170509T121936+0200" comment="{{96c}}"?>1866<?oxy_comment_end?>.</ref></note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_mdv_srw_pz"/><anchor type="verweisziel" xml:id="start_nsm_4cx_pz"/>For
+                                                  the same purpose you find, on the last page of
+                                                  this letter an “avis” to the German tailors which
+                                                  I call upon you to have inserted in such German
+                                                  papers as you have access to.</orig><note xml:id="a0a9d14b-c89c-41d8-a8cd-54915be9b3b7">Karl
+                                                  Marx: Warnung. In: MEGA²&#160;I/20.
+                                                  S.&#160;204/205). Siehe auch <ref target="B00100/#f2403266-7696-4a99-9654-89d0dd7a2f83">Erl. zu Engels an Marx,
+                                                  1.5.<?oxy_comment_start author="reichhoff" timestamp="20170509T122711+0200" comment="{{Erl. 96c}}"?>1866<?oxy_comment_end?></ref>
+                                                  und <ref target="B00104/#bd09c828-996e-4e56-977c-a9f2777c8c76">Erl. zu Albert F. Haufe und F. Leßner an Marx,
+                                                  3.5.<?oxy_comment_start author="reichhoff" timestamp="20170509T123008+0200" comment="{{100b}}"?>1866<?oxy_comment_end?></ref>.
+                                                  Zur Veröffentlichung des Aufrufs siehe <ref target="B00107">W. Liebknecht an Marx, zwischen 8.
+                                                  und
+                                                  15.5.<?oxy_comment_start author="reichhoff" timestamp="20170419T140549+0200" comment="{{Br. 103.18-24}}"?>1866<?oxy_comment_end?></ref>
+                                                  und <ref target="B00107/#nowq_vcx_dz">Erl. zu W.
+                                                  Liebknecht an Marx,
+                                                  15.5.<?oxy_comment_start author="reichhoff" timestamp="20170509T123403+0200" comment="{{Erl. 103j}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        At the same time you will oblige me by sending me a copy, or
+                                        two, of <subst>
+                                                <del>those</del>
+                                                <add>some</add>
+                                        </subst> papers in which the “avis” will have been inserted,
+                                        telling me at the same time the names of all
+                                                <add>other</add> papers that should have reprinted
+                                        it. <anchor type="verweisziel" xml:id="stop_mdv_srw_pz"/><persName key="pdrPo.001.004.000002616">Kugelmann</persName> might also be useful for this
+                                                purpose.<anchor type="verweisziel" xml:id="stop_nsm_4cx_pz"/></p><p sameAs="MBTextmitEinzug">My best compliments to Mrs. <persName key="pdrPo.001.004.000002819">Liebknecht</persName>. I feel exceedingly thankful for <subst><del>the</del><add>her</add></subst> friendly interest in my welfare.</p><closer sameAs="MBUnterschrift">Yours fraternally<lb/>A. Williams. </closer></div></body></text></TEI>

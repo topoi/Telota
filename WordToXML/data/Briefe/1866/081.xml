@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00084" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>81</idno>Friedrich Engels an Karl Marx in Margate. Manchester, Freitag, 6. April 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1606/D III 375</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format 129&#160;×&#160;209&#160;mm, abgetrennt von einem Bogen. Wasserzeichen: „[Towg]ood’s [Supe]rfine“. Die erste Seite hat Engels vollständig beschrieben, die zweite zu einem Viertel. Schreibmaterial: schwarze Tinte.</p><p>Von Eduard
+                                                  <?oxy_comment_start author="strauss" timestamp="20170613T101624+0200" comment="(((nBernstein,Ed.)))"?>Bernsteins<?oxy_comment_end?>
+                                                  Hand: Nummerierung des Briefes bzw. der
+                                                  beschriebenen Seiten: „304,1“ bzw. „304,2“ und
+                                                  „18,1“ bzw. „18,2“ (gestrichen). Redaktionelle
+                                                  Vermerke.</p><p>Von Heinrich
+                                                  <?oxy_comment_start author="strauss" timestamp="20170613T101702+0200" comment="(((nDietz,H.)))"?>Dietz’<?oxy_comment_end?>
+                                                  Hand: Nummerierung des Briefes: „839“
+                                                  (gestrichen).</p><p>Engels beantwortet den Brief von Marx vom 2.&#160;April 1866 (Marx an Engels, 2.4.1866).</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1957</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;307/308.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1866-04-06"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>Margate</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:05Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Mchr <subst><del>3</del><add>6</add></subst> April 1866.</dateline><salute sameAs="MBAnrede">Lieber Mohr</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Daß hinter den Preußen die Russen stecken war
+                                                  mir auch gleich sehr wahrscheinlich.</orig><note xml:id="ab756491-0040-474d-8024-1c6b36b4f357">Siehe <ref target="B00082/#start_ecj_vhp_pz">Marx
+                                                  an Engels,
+                                                  2.4.<?oxy_comment_start author="reichhoff" timestamp="20170418T100703+0200" comment="{{Br. 79.52–55}}"?>1866<?oxy_comment_end?>.</ref></note></seg><ref target="B00082/#start_ecj_vhp_pz"> </ref>Schon der
+                                        Umstand daß die östr. Papiergulden beinah wieder pari stehn
+                                        &amp; daher wieder derangirt werden müssen, erregte
+                                        Verdacht, aber die gleichzeitige <seg type="comment"><orig>Cusageschichte</orig><note xml:id="b88d5f09-fafe-4354-b275-fd878607cacf">Fürst <persName key="ed_lrg_cs4_1z">Alexandru
+                                                  Ioan Cuza</persName>, der erste Herrscher des
+                                                  vereinigten Rumäniens, war im Februar 1866 mit
+                                                  Billigung Russlands, Frankreichs sowie Preußens
+                                                  gestürzt worden. Seine Reformpolitik hatte den
+                                                  Widerstand des Adels und der Kirche
+                                                  hervorgerufen.</note></seg> noch mehr, &amp;
+                                        sicher wäre ce cher <persName key="pdrPo.001.004.000000441">Bismark</persName> nicht so ins Geschirr gegangen
+                                        wenn er die Russen nicht hinter sich hätte. Möglicher Weise
+                                        ist die Sache schon so weit engagirt daß weder B. noch der
+                                        alte Esel <seg type="comment"><orig>Wilhelm</orig><note xml:id="b5708054-17e7-4c7a-89ca-0c9014dee420"><persName key="pdrPo.001.004.000005131">Wilhelm&#160;I.</persName>
+                                                </note></seg> noch etwas darin zu sagen haben &amp;
+                                        es ganz vom Belieben der Petersburger abhängt ob Krieg oder
+                                        Frieden wird. Wie plump übrigens dieser Bismark agirt. Es
+                                        ist zu komisch die armen Oestreicher als den angreifenden
+                                        Theil hinstellen zu wollen. Noch schöner aber daß der Kerl
+                                        ernstlich daran denkt <hi rendition="#u">auf den
+                                                1.&#160;Juni</hi> ein deutsches Parlament zur Reform
+                                        der Bundesverfassung zu berufen. Dies soll Gegenmittel gegen
+                                        die Kleinstaaten sein: von den Regierungen appellirt er –
+                                        lui <persName key="pdrPo.001.004.000000441">Bismark</persName> – ans Volk. Das hat denn doch
+                                        selbst das allgemeine Hohngelächter des deutschen Philisters
+                                        hervorgerufen.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Nach der vorgefallenen Umwälzung an der
+                                                  Commonwealth</orig><note xml:id="f0a19ddb-8c5c-4ccd-9694-132e678a62f6">Siehe dazu <ref target="B00082/#start_zp2_f3p_pz">Marx an Engels,
+                                                  2.4.<?oxy_comment_start author="reichhoff" timestamp="20170418T100820+0200" comment="{{Br. 79.5–44}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        konnte ich übrigens <seg type="comment"><orig>die <expan resp="editor" sameAs="dottet_underline">fragl<ex>ichen</ex></expan> Artikel</orig><note xml:id="dff44b9c-95b6-4386-a12d-965c9b895671">Friedrich Engels: What have the working classes
+                                                  to do with Poland? (((lEngels,Frederic: What have
+                                                  the working classes to do with Poland? I–III. In:
+                                                  The Commonwealth. London. Nr.&#160;159,
+                                                  24.&#160;März 1866. S.&#160;5; Nr.&#160;160,
+                                                  31.&#160;März 1866. S.&#160;5; Nr.&#160;165,
+                                                  5.&#160;Mai 1866. S.&#160;5. (MEGA² I/20.
+                                                  S.&#160;193–203) ))) </note></seg> nicht <del>an
+                                                  <sic ana="#break-off"/></del> rechtzeitig mehr an
+                                        die Redaction besorgen, <seg type="comment"><orig>da sie den
+                                                  Umweg über Margate hätten nehmen
+                                                  müssen,</orig><note xml:id="d2a39af6-d62e-4136-ae0d-5f4626373f3b">Zu
+                                                  Marx’ Aufenthalt in Margate siehe <ref target="B00054/#a9fd0c5d-779b-4626-bf9f-71889bd4804c">Erl. zu Engels an Marx,
+                                                  5.3.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T090730+0200" comment="{{Erl. 51a}}."?></note><?oxy_comment_end?></seg>
+                                        ich schicke sie Dir also für die nächstfolgende N<hi rendition="#sup">o</hi> zu. <anchor type="verweisziel" xml:id="start_dq2_4kj_nz"/><seg type="comment"><orig>Die betreffenden Data über die
+                                                  russ. <expan resp="editor" sameAs="dottet_underline">Leibeig<ex>enen</ex></expan>
+                                                  <expan resp="editor" sameAs="dottet_underline">Eman<ex>cipation</ex></expan> fand ich in einem
+                                                  Artikel von <persName key="ed_qv3_kl5_2z">Mazade</persName> Revue des II&#160;<bibl sameAs="zzRevue des deux Mondes">Mondes</bibl>.</orig><anchor type="verweisziel" xml:id="stop_dq2_4kj_nz"/><note xml:id="d8124066-7b24-405d-b8b8-5bfd2d2ef5a0">Ch[arles] de Mazade: La Russie sous l’empereur
+                                                  Alexandre&#160;II. – La société et le gouvernement
+                                                  russes depuis l’insurrection polonaise. In: Revue
+                                                  des deux Mondes. Paris. T.&#160;62. 15.&#160;März
+                                                  1866. S.&#160;273–311. (((lMazade, Ch[arles] de:
+                                                  La Russie sous l’empereur Alexandre&#160;II. – La
+                                                  société et le gouvernement russes depuis
+                                                  l’insurrection polonaise. In: Revue des deux
+                                                  Mondes. Paris. T.&#160;62. 15.&#160;März 1866.
+                                                  S.&#160;273–311))) </note></seg></p><p sameAs="MBTextmitEinzug">Wie gehts denn eigentlich mit Deiner Gesundheit? Du hast doch keine
+                                        weiteren Karbunkeln gehabt, oder kleine Furunkeln? Und wie
+                                        stehts sonst, wirst Du fett &amp; stark? besuchst Du noch
+                                                <seg type="comment"><orig>den alten „<hi rendition="#u">Cantuar</hi>.“</orig><note xml:id="nffc_jln_cz">Titel des Erzbischofs von
+                                                  Canterbury, nach der lat. Bezeichnung des Ortes,
+                                                  „Cantuaria“.</note></seg> per pedes? Der Arsenik
+                                        muß mindestens 3&#160;Monate genommen werden, thut Dir
+                                        übrigens gar keinen Schaden. </p><p sameAs="MBTextmitEinzug"><pb/> Sonst gibts hier nichts Neues als einen infamen Ostwind &amp; viel Staub.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Wie lange denkst Du noch in Margate zu bleiben? Doch mindestens bis Ende ds. Monats?</orig><note xml:id="be7a4904-403f-45b6-870a-3d17117f3d84">Marx kehrte am 8.&#160;April 1866 nach London zurück.</note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Reformbewegung – allgemeines Eingeständniß der
+                                                  allg. Schlaffheit. Welch ein winziges
+                                                  instalment!</orig><note xml:id="f78c78b0-db7b-4c78-b062-2ced9db9d274">Siehe <ref target="B00025/#b8a97236-b613-42d9-873d-013173a1a928">Erl. zu J. Marx an J. Ph. Becker,
+                                                  29.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T092434+0200" comment="{{Erl. 24c}}."?></note><?oxy_comment_end?></seg></p><closer sameAs="MBUnterschrift"><signed>Dein F.&#160;E. </signed></closer></div></body></text></TEI>

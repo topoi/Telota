@@ -1,0 +1,45 @@
+<ediarumweb>
+    <config>
+        <intern>no</intern>
+        <directory type="data">/db/projects/mega/data</directory>
+        <directory type="web">/db/projects/mega/web2017</directory>
+    </config>
+    <beacons>
+        
+    </beacons>
+    <web>
+        <baseurl type="intern">http://megadigital.bbaw.de</baseurl>
+        <baseurl type="public">http://megadigital.bbaw.de</baseurl>
+    </web>
+    <api>
+        <cmif>
+            <cacheduration>P7D</cacheduration><!-- xs:dayTimeDuration -->
+        </cmif>
+        <authorities>
+            <authority name="gnd" prefix="http://d-nb.info/gnd/" default="true"/>
+            <authority name="viaf" prefix="http://viaf.org/viaf/"/>
+        </authorities>
+        <beacons>
+            <group name="Editionen">
+                <url name="Nachweise edierter Briefe zu dieser Person in correspSearch">http://correspsearch.bbaw.de/api/v1/gnd-beacon.xql?correspondent=all</url>
+                <url name="Deutsches Textarchiv">http://www.deutschestextarchiv.de/api/beacon</url>--&gt;
+                <url name="Weber-Gesamtausgabe">http://weber-gesamtausgabe.de/pnd_beacon.txt</url>
+                <url name="Gesamtausgabe der Briefe Friedrich Fröbels">http://www.historische-kommission-muenchen-editionen.de/beacond/froebel.php?beacon</url>
+                <url name="Briefe und Texte aus dem intellektuellen Berlin um 1800">http://tei.ibi.hu-berlin.de/berliner-intellektuelle/beacon-pnd.txt</url>
+                <url name="Briefedition Ferdinand Lassalle">http://www.historische-kommission-muenchen-editionen.de/lassalle/beacon.php</url>
+                <url name="Carl Friedrich Gauss Briefwechsel">http://www.historische-kommission-muenchen-editionen.de/beacond/gauss.php?beacon</url>
+            </group>
+            <group name="Nachschlagewerke">
+                <url name="Allgemeine Deutsche Biographie (ADB)">http://www.historische-kommission-muenchen-editionen.de/beacon_adb.txt</url>
+                <url name="Neue Deutsche Biographie (NDB)">http://www.historische-kommission-muenchen-editionen.de/beacon_ndb.txt</url>
+                <url name="Mitglieder der Königlich-Preußischen Akademie der Wissenschaften">http://www.historische-kommission-muenchen-editionen.de/beacond/bbaw.php?beacon</url>
+                <url name="Professorenkatalog Uni Leipzig">http://www.uni-leipzig.de/unigeschichte/professorenkatalog/leipzig/cpl-beacon.txt</url>
+                <url name="Professorenkatalog Rostock">http://cpr.uni-rostock.de/cpr_pnd_beacon.txt</url>
+                <url name="Dozentverzeichnis Leipzig 1814-1815">http://histvv.uni-leipzig.de/pnd.txt</url>
+                <url name="Rudolf Eisler - Philosophen-Lexikon">http://www.historische-kommission-muenchen-editionen.de/beacond/zeno.php?beacon&amp;cat=Eisler</url>
+                <!-- <url name="Wikipedia">http://tools.wmflabs.org/persondata/beacon/dewiki.txt</url>
+                <url name="Wikisource">https://tools.wmflabs.org/persondata/beacon/dewikisource.txt</url> -->
+            </group>
+        </beacons>;
+    </api>
+</ediarumweb>

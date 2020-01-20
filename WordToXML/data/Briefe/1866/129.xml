@@ -1,0 +1,402 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00133" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>129</idno>Karl Marx an Friedrich Engels in Manchester.
+                                        London, Samstag, 7. Juli 1866</title>
+                        </titleStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>IISG</institution>
+                                                <collection>Marx-Engels-Nachlass</collection>
+                                                <idno><idno type="shelfmark">L 4456/L VI
+                                                  588</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Bogen mittelstarkem,
+                                                  weißem Papier im Format
+                                                  224&#160;×&#160;179&#160;mm. Wasserzeichen:
+                                                  „Joynson 1866“. Marx hat alle vier Seiten
+                                                  vollständig beschrieben. Schreibmaterial: schwarze
+                                                  Tinte.<?oxy_comment_start author="lindenberg" timestamp="20170103T155950+0100" comment="&quot;d.h. überlegen im Detail, Hegel ist selbst hier unendlich grösser im Ganzen&quot; steht mit einem Einfügungszeichen (zwei Kreuze) am unteren Blattrand."?></p>
+                                                <?oxy_comment_end?>
+                                                <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand: Numerierung der
+                                                  beschriebenen Seiten: „40,1“ bis
+                                                  „40,4“.<?oxy_comment_start author="lindenberg" timestamp="20170421T183056+0200" comment="Von Eduard Bernsteins Hand: Numerierung des Briefes bzw. der beschriebenen Seiten: „40,1“ bis „40,4“."?></p>
+                                                <?oxy_comment_end?>
+                                                <p>Die Beilagen (Z.&#160;45–48) sind nicht
+                                                  überliefert.<?oxy_comment_start author="lindenberg" timestamp="20170421T183110+0200" comment="Die Beilagen (Z. 45–48) sind nicht [im IISG überprüfen!! keine!] überliefert."?></p>
+                                                <?oxy_comment_end?>
+                                                <p>Engels beantwortet den Brief am 9. und
+                                                  12.&#160;Juli 1866 (Br.&#160;130 und Br._134).</p>
+                                        </physDesc>
+                                        <additional>
+                                                <listBibl>
+                                                  <bibl>RGASPI f. 1 op. 1 d. 1977</bibl>
+                                                </listBibl>
+                                        </additional>
+                                </msDesc>
+                                <listWit>
+                                        <witness><bibl>Erstveröffentlichung: gekürzt: Bw&#160;3
+                                                  (1913). S.&#160;329–332</bibl>.</witness>
+                                        <witness><bibl>vollständig: MEGA<hi rendition="#sup">1</hi>
+                                                  III/3 (1930). S.&#160;343–345.</bibl></witness>
+                                </listWit>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName>London</placeName>
+                                        <date when="1866-07-07"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                                        <placeName>Manchester</placeName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:39:36Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingAct">
+                                <opener><dateline sameAs="MBDatumszeile"><pb/> 7 Juli
+                                                1866.</dateline><salute sameAs="MBAnrede">Dear
+                                                Fred,</salute></opener>
+                                <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>D'abord
+                                                  meinen herzlichsten Dank für die kalifornische
+                                                  Zufuhr.</orig><note xml:id="b1dba45f-08aa-42c1-a752-2238605146ee">Siehe <ref target="B00131/#start_nmm_4l2_qz">Engels an Marx,
+                                                  4.7.<?oxy_comment_start author="reichhoff" timestamp="20170421T150310+0200" comment="{{Br. 127.3}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        Es war mir jedoch nicht möglich dem Landlord, der wieder
+                                        zwei Quartale zu fordern hat, zu zahlen. Ich mußte vor allem
+                                        Abschlagszahlungen den Kerls machen, die täglich u.
+                                        stündlich quälen.</p>
+                                <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_dqq_22p_mz"/><anchor type="verweisziel" xml:id="start_ufw_rg4_qz"/>Was
+                                        zunächst meinen Gesundheitszustand betrifft, so habe ich
+                                        während der letzten zwei Wochen wieder <hi rendition="#u">ordentlich geschanzt</hi> u. hoffe Ende August mit
+                                                <seg type="comment"><orig>dem ersten
+                                                  Band,</orig><note xml:id="a5e0dc65-a0a6-478f-9abf-ab510806a208">Gemeint ist hier Karl Marx: Das Kapital; siehe
+                                                  <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an J. Ph. Becker, zwischen 9. und
+                                                  15.1.<?oxy_comment_start author="reichhoff" timestamp="20170513T110229+0200" comment="{{Erl. 6b}}"?>1866<?oxy_comment_end?>.</ref>
+                                                  (((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg>
+                                        den ich <del> zu <sic ana="#break-off"/></del> selbstständig
+                                        erscheinen lasse, fertig zu werden, wenn ich <del>sxx <sic ana="#break-off"/></del> diesen Gesundheitsgrad
+                                                behalte.<anchor type="verweisziel" xml:id="stop_dqq_22p_mz"/> Ich bin allerdings
+                                        gezwungen, <persName key="pdrPo.001.004.000001969">Gumperts</persName> Lebermedizin täglich
+                                        fortzunehmen, da ich sonst sofort brach läge. Frage: Ist das
+                                                (<del>b <sic ana="#break-off"/></del> jezt seit
+                                        vielen Wochen <hi rendition="#u">beseitigte) Arsenik</hi>
+                                        damit verträglich? Ich frage das, weil seit 4&#160;Tagen
+                                        wieder ein Karbunkelanfang über dem rechten Brustknochen
+                                        sich zeigt. <seg type="comment"><orig>Mehr als aller Medizin
+                                                  verdanke ich dem Bordeaux.</orig><note xml:id="fc8a24e6-5216-4871-a5ae-8e4fb780d985">Siehe <ref target="B00124/#start_mdt_z5m_qz">Engels an Marx,
+                                                  11.6.<?oxy_comment_start author="reichhoff" timestamp="20170421T154104+0200" comment="{{Br. 120.3–4}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        Ich arbeite übrigens nur bei Tag, da der sporadische Versuch
+                                        der Nachtarbeit (ein oder zweimal) gleich sehr ungünstige
+                                        Folge hatte.<anchor type="verweisziel" xml:id="stop_ufw_rg4_qz"/></p>
+                                <p sameAs="MBTextmitEinzug">Ehe ich zu Allgemeinem gehe, übersetze
+                                        mir in Deutsch „<hi rendition="#u">put</hi>
+                                        <del> xx <sic ana="#break-off"/></del>
+                                        <hi rendition="#u">stretches</hi> upon the mule“ u. sage mir
+                                        was „picks“ bei der Weberei zu Deutsch heißt. Was heißt „<hi rendition="#u">flyer</hi>“ bei der Mule?</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Die Londoner
+                                                  Arbeiterdemonstrationen, fabelhaft, verglichen mit
+                                                  dem, was wir seit 1849 in England gesehn, sind
+                                                  rein das Werk der „<hi rendition="#u">International</hi>“. Mr. <persName key="pdrPo.001.004.000002922">Lucraft</persName>
+                                                  f.i., der Hauptmann auf dem Trafalgar Square, is
+                                                  one of our council.</orig><note xml:id="f5b083b7-264c-4168-842a-c52d3ff3927f">Marx
+                                                  bezieht sich auf Kundgebungen der Londoner
+                                                  Arbeiter auf dem Trafalgar Square am 27.&#160;Juni
+                                                  und 2.&#160;Juli 1866, die nach der
+                                                  Rücktrittserklärung der liberalen Regierung
+                                                  <persName key="pdrPo.001.004.000004124">Russell</persName>  aus Protest gegen die
+                                                  Aussicht auf eine konservative Regierung <persName key="pdrPo.001.004.000004560">Derby</persName>
+                                                  zustande kamen. Erneut wurden dort Forderungen
+                                                  nach einer Wahlrechtsreform erhoben. Organisatoren
+                                                  dieser Kundgebungen waren Mitglieder des
+                                                  Zentralrats der IAA.</note></seg>
+                                        <del rendition="#ow">Es<sic ana="#break-off"/></del> Hier
+                                        zeigt sich der Unterschied, wenn man hinter den Kulissen <hi rendition="#u">wirkt</hi>, u. öffentlich
+                                        verschwindet, von der Demokratenmanier öffentlich <del>
+                                                  Lär<ex>m</ex>
+                                                <sic ana="#break-off"/></del> sich wichtig zu machen
+                                        u. <hi rendition="#u">Nichts</hi> zu <hi rendition="#u">thun</hi>.</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Der <bibl sameAs="zzThe Commonwealth"> „<hi rendition="#u">Commonwealth</hi>“</bibl> wird bald verrecken.
+                                                  <persName key="Fox">Fox</persName> geht nächste
+                                                  Woche davon ab.</orig><note xml:id="b78dd756-7e2a-4108-b1fb-dd5ecb94c31e">Die
+                                                  letzte Nummer von „The Commonwealth“ (London)
+                                                  erschien am 20.&#160;Juli 1867. Zur Geschichte
+                                                  siehe auch <ref target="B00007/#nmrb_qzn_4y">Erl. zu
+                                                  Marx an J. Ph. Becker, zwischen 9. und
+                                                  15.1.1866.</ref><?oxy_comment_start author="reichhoff" timestamp="20170513T110416+0200" comment="{{Erl._6f}}."?>
+                                                  <?oxy_comment_end?>(((zThe_Commonwealth)))
+                                                </note></seg></p>
+                                <anchor type="verweisziel" xml:id="start_hc5_bfl_qz"/>
+                                <p sameAs="MBTextmitEinzug">À Propos. <persName key="pdrPo.001.004.000004646">Stumpf</persName>
+                                        schreibt mir aus Mainz, daß die Nachfrage unter&#160;<pb/>
+                                        den Arbeitern <seg type="comment"><orig>nach Deinem Buche
+                                                  „<hi rendition="#u">Lage </hi>etc“ täglich wächst
+                                                  u. daß Du durchaus die zweite Ausgabe machen
+                                                  mußt,</orig><note xml:id="c5dfbba4-dc59-49f8-92d0-3a697bf7925f">Siehe <ref target="B00117/#start_bly_jvm_qz">P.
+                                                  Stumpf an Marx,
+                                                  29.5.<?oxy_comment_start author="reichhoff" timestamp="20170421T154333+0200" comment="{{Br. 113.27–28}}"?>1866<?oxy_comment_end?>
+                                                  </ref>und <ref target="B00036/#ng5n_lfy_5y">Erl. zu
+                                                  Marx an Engels,
+                                                  10.2.<?oxy_comment_start author="reichhoff" timestamp="20170513T110621+0200" comment="{{Erl._33d}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                                        schon vom Parteistandpunkt aus.<anchor type="verweisziel" xml:id="stop_hc5_bfl_qz"/>
+                                        <seg type="comment"><orig>Er meint zugleich, nach seinen
+                                                  persönlichen Erfahrungen, daß gleich nach dem
+                                                  Krieg „die Arbeiterfrage“ in Dtschd merkwürdig in
+                                                  den Vordergrund treten wird.</orig><note xml:id="fe247b9c-c0ca-4b34-b17b-b82cbf20e124"><persName key="pdrPo.001.004.000004645">Stumpf</persName> hatte dies möglicherweise in
+                                                  einem nicht überlieferten Brief an Marx,
+                                                  geschrieben vor dem 7.&#160;Juli 1866, zum
+                                                  Ausdruck gebracht.</note></seg></p>
+                                <p sameAs="MBTextmitEinzug"><persName key="pdrPo.001.004.000001631">Freiligrath</persName> hat <seg type="comment"><orig>einen kleinen lyrisch wehmüthigen
+                                                  Schiß</orig><note xml:id="nyw4_1kw_fz">Ferdinand
+                                                  Freiligrath: Westfälisches Sommerlied.
+                                                  (((lFreiligrath;F.:Westfälisches Sommerlied)))
+                                                </note></seg> über den <seg type="comment"><orig>Bruderkrieg</orig><note xml:id="ny3n_bkw_fz">Der Deutsche Krieg
+                                                  (1866).</note></seg> erlassen, <seg type="comment"><orig>den seine Tochter <persName key="pdrPo.001.004.000001634">Kate</persName>
+                                                  <del rendition="#s">heut ins<sic ana="#break-off"/></del> im heutigen Atheneum verenglischt
+                                                  hat.</orig><note xml:id="f7a253d5-6e0b-42ec-8e44-d936ec76d7fb">Ferdinand Freiligrath: Westfalian summer song.
+                                                  In: The_Athenaeum. London. Nr.&#160;2019,
+                                                  7.&#160;Juli 1866. (((lFreiligrath;F.:Westfalian
+                                                  summer song. In: The Athenaeum. London.
+                                                  Nr.&#160;2019, 7.&#160;Juli 1866)))
+                                        </note></seg></p>
+                                <p sameAs="MBTextmitEinzug">Nächst einer grossen Niederlage der
+                                        Preussen, die vielleicht (aber die Berliner!) zu einer
+                                        Revolution geführt hätte, konnte nichts besseres passiren
+                                        als ihr immenser Sieg. <persName key="pdrPo.001.004.000004735">Thiers</persName>
+                                        hatte die Politik <persName key="pdrPo.001.004.000003392">Bonaparte's</persName> Preussen <del> v <sic ana="#break-off"/></del> „machen“ zu helfen mit
+                                        solchem Erfolg (denn nächst den Engländern <hi rendition="#u">haßt</hi> der Franzos eigentlich nur
+                                        die Preussen) denuncirt, daß <seg type="comment"><orig>Bustrapha</orig><note xml:id="a6b84a4c-4c02-4c61-8e7c-bef6a4aceb32">Boustrapa – Spitzname für <persName key="pdrPo.001.004.000003392">Napoléon
+                                                  III</persName>, gebildet aus den ersten Silben der
+                                                  Städtenamen Boulogne, Strasbourg und Paris. Der
+                                                  Spitzname spielte auf die Putschversuche Louis
+                                                  Napoléons am 6.&#160;August 1840 in Boulogne, am
+                                                  30.&#160;September 1836 in Strasbourg und den
+                                                  Staatsstreich am 2.&#160;Dezember 1851 in Paris
+                                                  an.</note></seg>
+                                        <seg type="comment"><orig>die französisch octroyirte
+                                                  Konstitution ändern u. die Debatte über die
+                                                  Adresse <del> unter <sic ana="#break-off"/></del>
+                                                  par ordre du <bibl sameAs="zzLe Moniteur universel">Moniteur</bibl>
+                                                  „<hi rendition="#u">abschaffen</hi>“
+                                                  mußte.</orig><note xml:id="a4c515c0-dc60-4e02-bc8f-a4fa2b11dd63">Am
+                                                  6.&#160;Juli 1866 hatte die Regierung Napoleons
+                                                  III dem Senat einen Beschlussentwurf vorgelegt,
+                                                  wonach es zukünftig ausschließlich dem Senat
+                                                  vorbehalten sein sollte, über Änderungen der
+                                                  Verfassung zu beraten. Der Artikel&#160;41 der
+                                                  Verfassung von 1852, der die Dauer der Sessionen
+                                                  des Corps législatif auf 3&#160;Monate festsetzte,
+                                                  sollte aufgehoben werden. Am 14.&#160;Juli 1866
+                                                  wurde der Beschluss angenommen. Siehe:
+                                                  Présentation d’un projet du sénatus-consulte. In:
+                                                  Le Moniteur universel. Paris. Nr._188, 7._Juli
+                                                  1866. S._895/896. Rubrik: Sénat. Séance du
+                                                  vendredi 6_juillet 1866; Déliberation sur le
+                                                  sénatus-consulte modificatif de la constitution.
+                                                  Ebenda. Nr._196, 15._Juli 1866. S._924/925.
+                                                  Rubrik: Sénat. Séance du samedi 14 juillet 1866.
+                                                  (((lPrésentation d’un projet du sénatus-consulte.
+                                                  In: Le Moniteur universel. Paris. Nr._188, 7._Juli
+                                                  1866. S._895/896. Rubrik: Sénat. Séance du
+                                                  vendredi 6_juillet 1866))) (((lDéliberation sur le
+                                                  sénatus-consulte modificatif de la constitution.
+                                                  In: Le Moniteur universel. Paris. Nr._196,
+                                                  15._Juli 1866. S._924/925. Rubrik: Sénat. Séance
+                                                  du samedi 14 juillet 1866))) </note></seg>
+                                        <seg type="comment"><orig>(Ich lege Dir die Rede <persName key="pdrPo.001.004.000001479">J.&#160;Favre's</persName> über Mexico u.
+                                                  <persName key="ed_p32_vg3_3y">Glais
+                                                  Bizoin's</persName> schlechte Witze bei, <subst>
+                                                  <del>dabei</del>
+                                                  <add>bei</add>
+                                                  </subst> damit Du siehst, welches die Situation
+                                                  <persName key="pdrPo.001.004.000003392"><?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?><expan resp="editor" sameAs="dottet_underline"><?oxy_custom_end?>B<ex>onaparte</ex></expan>'s</persName>
+                                                  <del rendition="#s">war<sic ana="#break-off"/></del> vor dem Ausbruch des Kriegs
+                                                  war).</orig><note xml:id="e5f475da-d78a-4525-b9bf-301cae14170e">Am
+                                                  13.&#160;Juni 1866 hatte <persName key="pdrPo.001.004.000001479">Jules
+                                                  Favre</persName>, ein Führer der republikanischen
+                                                  Opposition im Corps législatif, in der
+                                                  Budgetdebatte die Intervention in Mexiko, welche
+                                                  extrem hohe Kosten verursachte, kritisiert. Der
+                                                  Abgeordnete <persName key="ed_p32_vg3_3y">Alexandre Glais-Bizoin</persName>, gleichfalls
+                                                  zur Opposition gehörig, verteidigte auf derselben
+                                                  Sitzung das Parlamentssystem. Als er Völker
+                                                  aufzählte, die unter Despotismus zu leiden hätten,
+                                                  nannte er auch die Franzosen, wofür er zur Ordnung
+                                                  gerufen wurde. Siehe: Jules Favre: La distribution
+                                                  qui a été recomment faite à la Chambre … In: Le
+                                                  Moniteur universel. Paris. Nr._165, 14._Juni 1866.
+                                                  S._746/747. Rubrik: Corps législatif. Séance du
+                                                  mercredi 13 juin 1866. (((lJules Favre: La
+                                                  distribution qui a été recomment faite à la
+                                                  Chambre … In: Le Moniteur universel. Paris.
+                                                  Nr._165, 14._Juni 1866. S._746/747. Rubrik: Corps
+                                                  législatif. Séance du mercredi 13 juin 1866.)))
+                                                </note></seg> Herr Bonaparte rechnete darauf, daß
+                                                <del rendition="#s">der<sic ana="#break-off"/></del>
+                                        Sieg u. Niederlage zwischen Preussen u. Oestreichern hin u.
+                                        herschwanken würde, so daß er schließlich als <seg type="comment"><orig>Jupiter Scapin</orig><note xml:id="d2a5271f-5924-4b9d-8366-40cef7e62722"><persName key="pdrPo.001.004.000003391">Jupiter-Scapin</persName>
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20170313T164732+0100" comment="verwiesen auf
+(((nJupiter-Scapin))) und Napoleon Ier Bonaparte
+
+! doppelter Verweis klappt nicht in der Website-Ausweisung ! "?>-<?oxy_comment_end?>
+                                                  Spitzname des <persName key="pdrPo.001.004.000003808">Abbé de
+                                                  Pradt</persName> für <persName key="pdrPo.001.004.000003391">Napoléon_I<hi rendition="#sup">er</hi></persName>. Siehe
+                                                  [Dominique Dufour] de Pradt: Histoire de
+                                                  l’ambassade dans le grand-duché de Varsovie en
+                                                  1812. Paris_1815. S._XIV. (((lPradt, [Dominique
+                                                  Dufour] de: Histoire de l’ambassade dans le
+                                                  grand-duché de Varsovie en 1812, Paris 1815)))
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?></note></seg><?oxy_custom_end?><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><index indexName="XE">
+                                                <term>Jupiter-Scapin</term>
+                                        </index><?oxy_custom_end?> zwischen die Abgematteten drein
+                                        treten könnne. Der Erfolg der Preussen <del rendition="#s">hat<sic ana="#break-off"/></del> setzt sein
+                                        Regime wirklicher Lebensgefahr in Fkch aus (es ist seine
+                                        zweite grosse Verrechnung seit dem amerik. Bürgerkrieg),
+                                        wenn es ihm nicht gelingt die Friedensbedingungen zu
+                                        diktiren. Andrerseits macht es derselbe Erfolg (wir sind
+                                        nicht mehr anno 15) der <persName key="ed_sw5_fwp_fz">Preussendynastie</persName> unmöglich, kaum möglich
+                                        andre Bedingungen anzunehmen als solche die Oestreich
+                                        zurückweisen <hi rendition="#u">muß</hi>, gar nicht zu
+                                        sprechen <pb/> von der Unmöglichkeit für <seg type="comment"><orig>den Schönen Wilhelm</orig><note xml:id="ddfee772-b19e-4b6f-9d03-ec49b670e921"><persName key="pdrPo.001.004.000005131">Wilhelm&#160;I.</persName>
+                                                </note></seg>, <add>alias</add>
+                                        <persName key="pdrPo.001.004.000010042">Alexander den
+                                                Grossen</persName>, deutsches Land an Fkch
+                                        abzutreten. Die Entscheidung der Preussen wird vom <seg type="comment"><orig>„Neffen“ in
+                                                  Petersburg</orig><note xml:id="ea89478e-b3f4-4390-9d41-7bff1cebb1ad"><persName key="pdrPo.001.004.000000062">Aleksandr&#160;II</persName>
+                                                </note></seg> abhängen. Es ist unmöglich zu sagen,
+                                        was der thun wird, da man dazu das Material der russischen
+                                        Staatskanzlei besitzen <del> wü<ex>rde</ex>
+                                                <sic ana="#break-off"/></del> müßte. Aber ich für
+                                        meinen Theil begreife nicht, wie die Russen, überdem durch
+                                        die östreichische Abweisung ihrer Hülfe verletzt, Oestreich
+                                        erlauben können wieder zum Athem zu kommen u. diesen
+                                        günstigen Augenblick für ihre Donau-Türkenmanöver zu missen.
+                                                <seg type="comment"><orig>Herr <persName key="pdrPo.001.004.000004955">Victor
+                                                  Emmanuel</persName> ist auch in einer schönen
+                                                  Sauce. Venedig gehört jezt dem <persName key="pdrPo.001.004.000003392">Bonaparte</persName>. Nimmt er es von ihm als
+                                                  Geschenk, so ist seine Dynastie fertig.
+                                                  Andrerseits, <hi rendition="#u">was</hi> kann er
+                                                  gegen Frankreich u. <hi rendition="#u">wo</hi>
+                                                  kann <hi rendition="#u">er</hi> Oestreich jezt
+                                                  angreifen?</orig><note xml:id="d384247d-a727-4f9f-ab1b-8d8f9a5a2454">Siehe<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                                                  <?oxy_custom_end?><ref target="B00100/#d59c2348-8128-4b12-ad15-ec9b1bf2c9b8">Erl. zu Engels an Marx,
+                                                  1.5.<?oxy_comment_start author="reichhoff" timestamp="20170513T110835+0200" comment="{{Erl. 96e}}"?>1866<?oxy_comment_end?>.
+                                                  </ref>Nach der Niederlage von Königgrätz sandte
+                                                  Kaiser <persName key="pdrPo.001.004.000001622">Franz Joseph&#160;I.</persName> einen Tag später,
+                                                  am 4.&#160;Juli 1866 <persName key="pdrPo.001.004.000003392">Napoléon&#160;III</persName> eine Depesche, in
+                                                  der er Frankreich Venetien zur Übergabe an den
+                                                  Kriegsgegner Italien abtrat. Gemäß dem am
+                                                  3.&#160;Oktober 1866 in Wien zwischen Österreich
+                                                  und Italien geschlossenen Friedensvertrag wurde
+                                                  Venetien dann an Italien
+                                                zurückgegeben.</note></seg></p>
+                                <p sameAs="MBTextmitEinzug">Was sagst Du aber zu unsrem <del rendition="#s">Foxxx<sic ana="#break-off"/></del>
+                                        <seg type="comment"><orig><hi rendition="#u">Föxchen</hi></orig><note xml:id="f34a764d-ffbf-47db-8a2b-8519b1ceddf7"><persName key="pdrPo.001.004.000001603">Peter Fox
+                                                  André</persName>. </note></seg>, der athemlos
+                                        vorgestern in unser Haus stürzte mit dem Ausruf: „<persName key="pdrPo.001.004.000003392">Bonaparte</persName>
+                                        hat Deutschland<hi rendition="#u"> gerettet</hi>!“ Dieß ist
+                                        die Ansicht von <persName key="pdrPo.001.004.000000329">Beesley</persName>, <persName key="pdrPo.001.004.000002056">Harrison</persName>
+                                        etc u. der ganzen <seg type="comment"><orig>Comteist
+                                                  clique</orig><note xml:id="f04d9bf3-472a-4d08-976e-533a7bbe2e74">Anhänger von <persName key="pdrPo.001.004.000000964">Auguste Comte
+                                                  </persName> und des Positivismus.</note></seg>.
+                                        Schreib mir bald, da der mündliche Zusammenhang in dieser
+                                        eventful period durch Tinte u. Papier ersetzt werden
+                                        muß.</p>
+                                <p sameAs="MBTextmitEinzug">Meine besten Grüsse an <seg type="comment"><orig><persName key="pdrPo.001.004.000000698">Mrs.
+                                                  Lizzy</persName>.</orig><note xml:id="nklz_ch1_dy"><persName key="pdrPo.001.004.000000698">Lydia
+                                                  Burns</persName>.</note></seg></p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_hjp_czm_qz"/><persName key="pdrPo.001.004.000003074">Jennychen</persName> will wissen, wie es Deinen
+                                                  „Afrikanern“ geht?<anchor type="verweisziel" xml:id="stop_hjp_czm_qz"/></orig><note xml:id="b3db21d1-601b-4ebe-800e-be60d2a8da28">Es
+                                                  handelte sich um Blumenzwiebeln; siehe <ref target="B00134/#start_dbl_rvm_qz"><ref target="B00028">J. Marx (Tochter) an Engels,
+                                                  spätestens 4. Februar 1866</ref><?oxy_comment_start author="strauss" timestamp="20170502T180817+0200" comment="Br. 25b"?>
+                                                  <?oxy_comment_end?>sowie <ref target="B00134/#start_dbl_rvm_qz">Engels an Marx,
+                                                  9.7.<?oxy_comment_start author="reichhoff" timestamp="20170421T154849+0200" comment="{{Br. 130.63–64}}"?>1866<?oxy_comment_end?></ref></ref>.</note></seg></p>
+                                <p sameAs="MBTextmitEinzug"> Salut</p>
+                                <closer sameAs="MBUnterschrift"><signed>D KM.</signed></closer>
+                                <postscript>
+                                        <p><persName key="pdrPo.001.004.000003392">Bonaparte</persName> will natürlich jezt keinen
+                                                Krieg, bevor er <pb/>
+                                                <seg type="comment"><orig>die needle gun</orig><note xml:id="b9d5820d-b12b-45ed-b6be-e3346d8a08eb">Siehe <ref target="B00131/#start_o3m_3wm_qz">Engels an Marx,
+                                                  4.7.<?oxy_comment_start author="reichhoff" timestamp="20170421T155204+0200" comment="{{ Br. 127.12–16}}"?>1866<?oxy_comment_end?></ref>
+                                                  und <ref target="B00131/#aeb97dfb-065f-4e2c-a048-eecdcad65925">Erl. zu Engels an Marx,
+                                                  4.7.<?oxy_comment_start author="reichhoff" timestamp="20170513T115034+0200" comment="{{Erl._127c}}"?>1866<?oxy_comment_end?></ref>
+                                                  </note></seg> oder ein Equivalent eingeführt.
+                                                  <anchor type="verweisziel" xml:id="start_fm5_1h4_qz"/><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_v42_53n_tz"/>Ein <hi rendition="#u">Yankee</hi></orig><note xml:id="ab86f4dd-5cb5-4819-b3b6-a571c19f207e"><persName key="ed_ebn_3cq_fz">Jacob
+                                                  Snider</persName>. </note></seg> hat hier dem
+                                                Kriegsministerium ein Gewehr angeboten, das, wie mir
+                                                ein preussischer <add>refugee</add> Offizier
+                                                  (<persName key="ed_kqk_zk2_5z">Wilke</persName>)
+                                                versichert, durch absolute Einfachheit der
+                                                Konstruktion, Mangel an Erhitzung, weniger
+                                                Reinigungsbedürfniß u. Wohlfeilheit das
+                                                Zündnadelgewehr ebenso sehr zurückläßt wie dieses
+                                                  <seg type="comment"><orig>„Old
+                                                  Bess“.</orig><anchor type="verweisziel" xml:id="stop_v42_53n_tz"/><note xml:id="b4856419-b95b-417d-a9e7-3f705831916f">Eigtl. Brown Bess – volkstümliche Bezeichnung des
+                                                  in der britischen Armee bis in die 1860er Jahre
+                                                  verwendeten glattläufigen Steinschlossgewehres mit
+                                                  Kolben aus braunem Nussbaum.</note></seg> Unsere
+                                                Theorie <del rendition="#s">vom<sic ana="#break-off"/></del> von der Bestimmung der <hi rendition="#u">Arbeitsorganisation durch das
+                                                  Produktionsmittel</hi>, bewährt sie sich irgendwo
+                                                glänzender als in der
+                                                Menschenabschlachtungsindustrie? <seg type="comment"><orig>Es wäre wahrhaftig der Mühe werth, daß Du
+                                                  etwas hierüber schriebst</orig><note xml:id="nqtt_w5w_fz"><note xml:id="bfd7b1e6-bd9c-4ff5-8861-ea02a7efebf4">Engels beabsichtigte, Marx‘ Bitte zu erfüllen.
+                                                  Siehe <ref target="B00138/#start_otx_5wm_qz">Engels an Marx,
+                                                  12.7.<?oxy_comment_start author="reichhoff" timestamp="20170421T155343+0200" comment="{{Br. 134.27–28}}"?>1866<?oxy_comment_end?></ref>.</note></note></seg>
+                                                (mir fehlt Kenntniß dazu), was ich mit Deinem Namen
+                                                in <seg type="comment"><orig>mein Buch</orig><note xml:id="a6850e30-2e75-4c0a-b5b1-9a1c2a00caa1">Gemeint ist hier Karl Marx: Das Kapital; siehe
+                                                  <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an J. Ph. Becker, zwischen 9. und
+                                                  15.1.<?oxy_comment_start author="reichhoff" timestamp="20170513T115232+0200" comment="{{Erl. 6b}}"?>1866<?oxy_comment_end?>.</ref>
+                                                  (((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg>
+                                                als Appendix eintragen könnte. Ueberleg Dir das.
+                                                Soll es geschehn, so muß es aber pour le premier
+                                                volume geschehn, wo ich dieß Thema ex professo
+                                                behandle. Du begreifst, welche grosse Freude es mir
+                                                  <del> v <sic ana="#break-off"/></del> machen
+                                                würde, wenn Du auch in meinem Hauptwerk <del> als
+                                                  <sic ana="#break-off"/></del> (bisher habe ich nur
+                                                Kleinigkeiten gemacht) als Collaborateur direkt,
+                                                nicht nur durch Citat, erschienest!<anchor type="verweisziel" xml:id="stop_fm5_1h4_qz"/></p>
+                                </postscript>
+                                <p rend="MBTextMitEinzug"><seg type="comment"><orig>Ich studire jezt
+                                                  nebenbei <persName key="pdrPo.001.004.000000964">Comte</persName>,</orig><note xml:id="abe7a98e-4757-470a-ba62-beff66d45781">Marx
+                                                  hatte Auguste Comte: Cours de philosophie
+                                                  positive. Bd.&#160;1–6. Paris 1830–1842 auch schon
+                                                  früher studiert, siehe sein Notizbuch aus den
+                                                  Jahren 1844–1847. In: MEGA²&#160;IV/3.
+                                                  S.&#160;17.4 und Erl. (((lComte,Auguste: Cours de
+                                                  philosophie positive. Bd.&#160;1–6. Paris
+                                                  1830–1842))) (((lMarx,Karl: Notizbuch aus den
+                                                  Jahren 1844–1847. In: MEGA²&#160;IV/3.
+                                                  S.&#160;5–30))) </note></seg> weil die Engländer
+                                        u. Franzosen so viel Lärm von dem Kerl machen. Was sie darin
+                                        besticht, ist das Encyclopädische, <add>la synthèse</add>.
+                                        Aber das ist jammervoll gegen <persName key="pdrPo.001.004.000002103">Hegel</persName>
+                                        (obgleich Comte als Mathematiker u. Physiker von Profession
+                                        ihm überlegen <add place="mBottom">d.h. überlegen im Detail,
+                                                </add><persName key="pdrPo.001.004.000002103"><add place="mBottom">Hegel</add></persName><add place="mBottom"> ist selbst hier unendlich grösser
+                                                im Ganzen</add>). Und dieser Scheißpositivismus
+                                        erschien 1832! </p>
+                        </div>
+                </body>
+        </text>
+</TEI>

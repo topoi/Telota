@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_bht_sdh_jdfud" type="year_intro" subtype="1867">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Einführung zum Briefjahrgang 1867</title>
+                <author><persName>BearbeiterInnen</persName>
+                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+                    <email>BearbeiterInnen@bbaw.de</email>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution/>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark"/>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p><hi ana="short">Der Briefjahrgang 1867 enthält den überlieferten Briefwechsel von
+                        Karl Marx und Friedrich Engels vom 8. Januar bis 31. Dezember 1867.
+                        <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>[...
+                        Zahlen zu überlieferten und nicht überlieferten Briefen, wichtige
+                        Briefpartner, Erstveröff.
+                        <?oxy_comment_start author="roth" timestamp="20170424T125930+0200" comment="u.a.: Ihre Korrespondenz in diesem Zeitraum umfasst insgesamt über ??? Briefe, überliefert sind ???." mid="1"?>etc.]<?oxy_custom_end?><?oxy_comment_end mid="1"?></hi></p>
+                <p>Die hier vorgelegte Korrespondenz vermittelt Einblicke ...</p>
+                <p>Thematische Schwerpunkte ... </p>
+                <p>Editorische Hinweise</p>
+                <p><hi ana="contact">BearbeiterIn</hi>, <hi ana="email">BearbeiterIn@bbaw.de</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

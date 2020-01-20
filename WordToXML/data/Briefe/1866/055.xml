@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00059" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>55</idno>Friedrich Engels an Karl Marx in London. Manchester, zwischen Donnerstag, 8. und Samstag, 10.&#160;März 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1603/D III 292</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Blatt dünnem, blauem Papier im Format
+              123&#160;×&#160;206&#160;mm. Engels hat die erste Seite vollständig beschrieben, die
+              zweite ist leer. Schreibmaterial: schwarze Tinte.</p>
+            <p>Von Engels’ Hand: Berechnungen, mit Bleistift unten auf der ersten Seite kopfstehend
+              bzw. am linken Rand quer geschrieben. </p>
+            <p>Von Eduard
+              <?oxy_comment_start author="strauss" timestamp="20170613T100746+0200" comment="(((nBernstein,Ed.)))"?>Bernsteins<?oxy_comment_end?>
+              Hand: Nummerierung des Briefes: „617“ und „12“ sowie ein Vermerk: „Undatiert. März
+              1861“, mit Bleistift. Redaktionelle Vermerke.</p>
+            <p>Von Heinrich
+              <?oxy_comment_start author="strauss" timestamp="20170613T100832+0200" comment="(((nDietz,H.)))"?>Dietz’<?oxy_comment_end?>
+              Hand: Nummerierung des Briefes: „712“, korrigiert aus „612“.</p>
+            <p>Zur Datierung: Der eingangs stehende Auszug ist offensichtlich ein Teil von Engels'
+              Antwort auf den Brief Freiligraths vom 8.&#160;März 1866 (F. Freiligrath an Engels,
+              8.3.1866). In dem Brief an Engels vom 10.&#160;März 1866 erwähnt Marx auch das Thema
+              seiner Erholung nach der Krankheit (Marx an Engels, 10.3.1866: „Wenn ich überhaupt an
+              die See soll ...“).</p>
+            <p>Datierung in der Erstveröffentlichung: März 1861.</p>
+          </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1945</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;14.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                                        <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                                        <placeName>Manchester</placeName>
+                                        <date from="1866-03-08" to="1866-03-10" cert="high"/>
+                                </correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:49Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                                <opener>
+                                        <salute sameAs="MBAnrede"><pb/>
+                                                <hi rendition="#u">Confidential!</hi></salute>
+                                </opener>
+                                <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Auszug aus
+                                                  einem Brief an <persName key="pdrPo.001.004.000001631">Freiligrath</persName> der mir wegen eines
+                                                  commerziellen Philisters Auskunft abverlangt &amp;
+                                                  zu gleicher Zeit sein Bedauern über Deine
+                                                  Krankheit äußerte &amp; wohlwollende Bemerkungen
+                                                  machte:</orig><note xml:id="norp_1jp_wy">Siehe
+                                                  <ref target="B00056">F. Freiligrath an Engels,
+                                                  8.3.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170412T165642+0200" comment="{{Br._53.13-16}} "?> und<?oxy_comment_end?>
+                                                  <ref target="B00058">Engels an F. Freiligrath
+                                                  zwischen 8. und
+                                                  10.3.<?oxy_comment_start author="reichhoff" timestamp="20170315T153849+0100" comment="{{Br. 54a}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p>
+                                <p sameAs="MBTextmitEinzug">„Marx braucht Ruhe vor Nachtarbeit &amp;
+          Sorgen, dazu Seeluft &amp; gutes Leben. Das wird ihn schon wieder auf die Beine bringen.
+          Fetten Bürgern wie dem <persName key="pdrPo.001.004.000000470">Blind</persName> passirt so
+          was nicht. Dafür hat der arme Mann aber auch das Pech daß trotz aller angesetzten Hebel
+          &amp; Daumschrauben kein Mensch von ihm spricht als <persName key="pdrPo.001.004.000000470">Blind</persName> selbst. Solche Kerls haben die Karbunkeln
+          an der innern Seite ihres Hirnschädels. Doch genug von dem ‚deliberate liar‘.“</p>
+                                <p sameAs="MBTextmitEinzug">„Was machst Du eigentlich? <seg type="comment"><orig>Ich höre die Bank hat in London aufgehört.</orig><note xml:id="e5074b07-5d41-45c9-a3e0-8d9a7b61a315">Siehe <ref target="B00058/#a255aa26-2c6d-484a-8a74-2b0821b2cb23">Erl. zu Engels an F.
+                Freiligrath, zwischen 8. und
+              10.3.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170517T100440+0200" comment="{{Erl. 54aa}}."?></note><?oxy_comment_end?></seg>
+          Am Ende auch gut für Dich, die Verbindung mit <persName key="pdrPo.001.004.000001482">Fazy</persName> &amp; Consorten hätte Dich wer weiß wie später compromittiren können.
+          Einen ordentlichen Posten kriegst Du ja doch bald wieder“.</p>
+                                <p sameAs="MBTextmitEinzug">Eilig.</p>
+                                <closer sameAs="MBUnterschrift">
+                                        <salute>Dein <lb/></salute>
+                                        <signed>F. E. </signed>
+                                </closer>
+                                <closer sameAs="MBUnterschrift"/> 
+                        </div></body></text></TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00207" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>200</idno>Friedrich Engels an Karl Marx in London. Manchester, Freitag, 14. Dezember 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1623/D III 393</idno></idno></msIdentifier><physDesc>
+                                                <p>Der Brief besteht aus einem Blatt mittelstarkem,
+                                                  weißem Papier im Format
+                                                  115&#160;×&#160;181&#160;mm. Wasserzeichen: „A
+                                                  Piri[e &amp; Sons] 18[65]“.<?oxy_comment_start author="lindenberg" timestamp="20170424T174104+0200" comment="Wasserzeichen: „A Piri[e &amp; Sons] 18[65]“. [[Prägung: „London superfine“.[G.A.] IISG keine!]] "?>
+                                                  <?oxy_comment_end?> Die erste Seite hat Engels
+                                                  vollständig beschrieben, die zweite zur Hälfte.
+                                                  Schreibmaterial: schwarze Tinte.</p>
+                                                <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand: Numerierung  der
+                                                  beschriebenen Seiten: „321,1“ bzw. „321,2“ und
+                                                  „54,1“ bzw. „54,2“, korrigiert aus „55,1“ bzw.
+                                                  „55,2“ (gestrichen).<?oxy_comment_start author="lindenberg" timestamp="20170424T174137+0200" comment="Von Eduard Bernsteins Hand: Numerierung des Briefes bzw. der beschriebenen Seiten: „321,1“ bzw. „321,2“ und „54,1“ bzw. „54,2“, korrigiert aus „55,1“ bzw. „55,2“ (gestrichen)."?>
+                                                  <?oxy_comment_end?>Redaktionelle Vermerke, eine
+                                                  Streichung.</p>
+                                                <p>Von Heinrich Dietz’ Hand: Numerierung des
+                                                  Briefes: „875“ (gestrichen).</p>
+                                                <p>Von unbekannter Hand: Vermerke mit Bleistift auf
+                                                  der ersten Seite: „Colin“ oben links und ein
+                                                  Zeichen „V“ oben
+                                                  rechts.<?oxy_comment_start author="lindenberg" timestamp="20170424T174217+0200" comment="Vermerke mit Bleistift auf der ersten Seite: „Colin“ [Collin? vgl. Br. 74, 88, 111, 144, 200, 235] oben links und ein Zeichen „V“ oben rechts."?></p>
+                                                <?oxy_comment_end?>
+                                                <p>Engels beantwortet Marx' Brief vom
+                                                  8.&#160;Dezember 1866 (Br.&#160;199), Marx schrieb
+                                                  die Antwort am 17.&#160;Dezember 1866
+                                                  (Br.&#160;201).</p>
+                                                <p>Über die Beilage (Z.&#160;9) siehe
+                                                  Erl.&#160;200b.</p>
+                                                <p>Erstveröffentlichung (gekürzt): Bw&#160;3 (1913).
+                                                  S.&#160;356/357; vollständig: MEGA<hi rendition="#sup">1</hi> III/3 (1930).
+                                                  S.&#160;368/369.</p>
+                                        </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2007</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1866-12-14"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:40:18Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Manch<hi rendition="#sup">r</hi> 14 Dec.1866.</dateline><salute sameAs="MBAnrede">Lieber Mohr</salute></opener><p sameAs="MBTextohneEinzug">Du glaubst gar nicht wie überlaufen ich jetzt bin von Allerhand Volk.
+          Junge Leute, von Kunden empfohlen, die Stellen hier suchen; Agenten oder solche die es
+          werden wollen; dazu diese Woche noch mein liebenswürdiger <seg type="comment"><orig>Neffe
+              Blank</orig><note xml:id="d3cbe258-fbe2-4e3f-8ec1-b22969321207"><persName key="pdrPo.001.004.000000456">Emil Blank</persName> (jun.). Siehe auch <ref target="B00205/#start_o1v_5rs_5z">E. Engels an Engels,
+                8.12.<?oxy_comment_start author="reichhoff" timestamp="20170506T182014+0200" comment="{{Br. 198.12–13}}"?>1866<?oxy_comment_end?></ref>.
+            </note></seg> der sich in London festgesetzt hat – so geht das in Einem fort &amp; Du
+          begreifst wie schwer man dabei zum Schreiben kommt. <seg type="comment"><orig>Dazwischen
+              kommt dann manchmal auch so einer hergelaufen wie der <persName key="ed_ohr_wh2_sy">Schreiber</persName> des inl. Briefs &amp; setzt mir die Pistole auf die
+              Brust.</orig><note xml:id="nggg_k2j_kz">Engels spielt offensichtlich auf <persName key="ed_ohr_wh2_sy">Carl Hoßfeld</persName> und <ref target="B00203">seinen Brief
+                vom 6. Dezember 1866</ref>
+              <?oxy_comment_start author="reichhoff" timestamp="20170406T173626+0200" comment="({{Br. 196}})"?>
+              <?oxy_comment_end?>an. Siehe dazu <ref target="B00203/#f1c3348d-9ad3-4b0d-bb42-66d8c544eb64">Erl. zu C. Hoßfeld an Engels,
+                6.12.<?oxy_comment_start author="reichhoff" timestamp="20170519T134332+0200" comment="{{Erl. 196c}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+          <anchor type="verweisziel" xml:id="start_tyg_mss_5z"/>Als ich den Brief las, wußte ich
+          gleich wer mir diesen Biedermann auf den Hals geschickt hatte, nämlich der brave <seg type="comment"><orig>Dr.&#160;Rhode</orig><note xml:id="f9644f4d-9eaa-41ad-94ea-d31e2b17adea"><persName key="pdrPo.001.004.000011456">Carl Rode</persName>. </note></seg>, &amp; der Biedermann bestätigte mir dies auch
+          als er mir auf die Bude stieg. Dieser unverschämte Rhode erlaubt sich sonderbare
+          Geschichten gegen mich. <seg type="comment"><orig>Erst macht er mir den <del rendition="#s">lächerl<ex>ichsten</ex><sic ana="#break-off"/></del>
+              abgeschmacktesten Krakehl mit <persName key="pdrPo.001.004.000002529">Klings</persName>, nachdem dieser hier gewesen war,</orig><note xml:id="nhkk_t2j_kz">Siehe MEGA²_III/13. Br. 240.23–31.
+            (((lMEGA²_III/13)))</note></seg> &amp; dann kommt es sogar soweit daß er mir solche
+          Leute auf den Hals schickt &amp; sie auf mich als den Cassirer der ganzen Flüchtlingschaft
+          anweist. Wenn mir noch einmal sowas von dem Kerl passirt so kann er sich darauf verlassen
+          daß er Freude an mir erleben wird. Warum läßt er mich nicht in Ruh, ich kenne ihn ja gar
+            nicht?<anchor type="verweisziel" xml:id="stop_tyg_mss_5z"/></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Die Saupreußen operiren allerdings ganz
+              ausgezeichnet. So dumm hätte ich sie mir doch nicht vorgestellt <pb/> aber man kann
+              sie sich wirklich nicht dumm genug vorstellen. Desto besser. Die Sache ist doch einmal
+              im Gang &amp; um so eher gibts Revolution, &amp; diesmal sicher nicht ohne Köpfen wie
+              Du sagst.</orig><note xml:id="nmkr_2fj_kz">Siehe <ref target="null">Marx an Engels,
+                8.12.<?oxy_comment_start author="reichhoff" timestamp="20170506T182148+0200" comment="{{Br. 199.18–19}}"?>1866<?oxy_comment_end?>.</ref></note></seg></p><p sameAs="MBTextmitEinzug">Das Comptoir wird zugeschlossen &amp; ich muß auch schließen. Inl. zwei Fünf Pfd Noten</p><p sameAs="MBTextmitEinzug">I/S&#160;38969.</p>
+                                <p><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                                        }
+                                        <?oxy_custom_end?><?oxy_comment_start author="lindenberg" timestamp="20170124T154132+0100" comment="Klamer über die zwei Zeilen mit dem Nummern der Banknoten!"?>Manchester<?oxy_comment_end?>
+                                        26 Jan 1866</p><p sameAs="MBTextmitEinzug">I/S&#160;62239 </p><p sameAs="MBTextmitEinzug">es ist Alles was ich riskiren kann zu schicken ehe ich weiß wie ich stehe was ich nicht nachsehen kann bis die Bücher aufgeschrieben sind&#160;–</p><p sameAs="MBTextmitEinzug">Beste Grüße an Deine Frau &amp; Kinder</p><closer sameAs="MBUnterschrift">Dein<lb/>F. E. </closer></div></body></text></TEI>

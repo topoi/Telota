@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00051" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>48</idno>Arnold Hilberg’s Verlag an Karl Marx in
+                                        London. Wien, Anfang März 1866</title>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                                        veröffentlicht.</edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>IISG</institution>
+                                                <collection>Marx-Engels-Nachlass</collection>
+                                                <idno><idno type="shelfmark">D 2327/D IV 248–5
+                                                  Fotosign. 7787</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Bogen mittelstarkem,
+                                                  weißem Papier im Format
+                                                  458&#160;×&#160;288&#160;mm. Auf der ersten Seite
+                                                  oben links aufgedruckt, in einer Vignette:
+                                                  „<?oxy_comment_start author="strauss" timestamp="20170613T113451+0200" comment="(((nFa.A.Hilberg&apos;s Verlag)))"?>Arnold
+                                                  Hilberg’s<?oxy_comment_end?> Verlag. Wien,
+                                                  1.&#160;Bäckerstraße&#160;30, 1.&#160;Stock“; ganz
+                                                  unten, mittig gedruckt: „Druck von J. Löwenthal in
+                                                  Wien.“. Auf der ersten Seite steht der gedruckte
+                                                  Text des Herausgebers der „Internationalen Revue“,
+                                                  die Rückseite ist leer, die dritte Seite bildet
+                                                  das gedruckte Formular für ein Abonnement der
+                                                  Zeitschrift, die vierte Seite dient als gedruckte
+                                                  Adressseite für die Rücksendung des Formulars an
+                                                  den Verlag.</p>
+                                                <p>Archivsignatur des SPD-Archivs auf der ersten
+                                                  Seite: „II 16 J 2b“.</p>
+                                                <p>Der Brief enthielt zwei Beilagen. Die erste
+                                                  („Angefaltet ...“) ist nicht überliefert, die
+                                                  zweite, das Formular („das beigedruckte
+                                                  Blanquett“) ist erhalten.</p>
+                                        </physDesc>
+                                        <additional>
+                                                <listBibl>
+                                                  <bibl>RGASPI f. 1 op. 5 d. 1654</bibl>
+                                                </listBibl>
+                                        </additional>
+                                </msDesc>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <orgName key="ed_zmj_ltj_wx">Arnold Hilberg’s
+                                                Verlag</orgName>
+                                        <placeName>Wien</placeName>
+                                        <date when="1866-03-01"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName>London</placeName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:38:45Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingAct">
+                                <opener>
+                                        <dateline sameAs="MBDatumszeile">
+                                                <hi rendition="#mPrint">Wien. Märzanfang
+                                                1866.</hi></dateline>
+                                        <salute sameAs="MBAnrede"><hi rendition="#mPrint">P.
+                                                P.</hi></salute>
+                                </opener>
+                                <p sameAs="MBTextohneEinzug" rendition="#mPrint">Angefaltet habe ich
+                                        die Ehre Ihrer geneigten Durchsicht den ausführlichen
+                                        Prospekt des periodischen Unternehmens, <seg type="comment"><orig>dem Sie Ihre gütige Mitwirkung in Aussicht
+                                                  zu stellen die Güte hatten,</orig><note xml:id="cdb4f4a5-51a5-4581-97af-a4de38a7489e">Siehe <ref target="B00015">A. Hilberg’s Verlag an
+                                                  Marx, 18.1.1866</ref>
+                                                  <?oxy_comment_start author="reichhoff" timestamp="20170412T120453+0200" comment="{{Br. 14.5–7}} "?>und<?oxy_comment_end?>
+                                                  <ref target="B00002/#a132d1e9-b7e3-484b-91d0-adbdbc98a799"> Erl. zu A. Hilberg's Verlag, 2.1.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170516T173113+0200" comment="{{Erl. 1ab}}"?>
+                                                  <?oxy_comment_end?>und<ref target="B00002/#b076d9e2-fbdc-4bf3-bb1a-2d41aae8ac83"> Erl. zu A. Hilberg's Verlag, 2.1.1866.</ref>
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20170516T173135+0200" comment="{{1ac}}."?></note><?oxy_comment_end?></seg>
+                                        für welches ich den Titel:</p>
+                                <p sameAs="MBTextmitEinzug" rendition="#mPrint">„Internationale
+                                        Revue“,</p>
+                                <p sameAs="MBTextmitEinzug" rendition="#mPrint">Monatsschrift</p>
+                                <p sameAs="MBTextmitEinzug" rendition="#mPrint">für das gesammte
+                                        geistige Leben und Streben</p>
+                                <p sameAs="MBTextmitEinzug" rendition="#mPrint">der ausserdeutschen
+                                        Culturwelt</p>
+                                <p rend="MBTextOhneEinzug" rendition="#mPrint">wählte, zu
+                                        unterbreiten. </p>
+                                <p sameAs="MBTextmitEinzug" rendition="#mPrint">Dieser Prospekt wird
+                                        Sie bezüglich der Richtung und Haltung der Zeitschrift in
+                                        jeder Hinsicht, das ihm vorgedruckte erste
+                                        Mitarbeiterverzeichniss bezüglich der Kräfte, die nebst
+                                        Ihnen an derselben literarisch mitwirken, orientiren.</p>
+                                <p sameAs="MBTextmitEinzug" rendition="#mPrint">Ich erlaube mir nun
+                                        die ebenso höfliche als ergebene Bitte an Sie zu richten,
+                                        mir – wenn dieses noch nicht geschehen – bald gefällige
+                                        Mittheilung über die von Ihnen zunächst für diese
+                                        Zeitschrift bestimmten Beiträge machen zu wollen, da ich, um
+                                        diese in entsprechender Weise zu placiren, möglichst frühe
+                                        Kenntniss von denselben erhalten muss. Für das zweite Heft
+                                        bestimmte Arbeiten müssen längstens Mitte Mai an mich
+                                        gelangen.</p>
+                                <p sameAs="MBTextmitEinzug" rendition="#mPrint">Die so bedeutende
+                                        Zahl der Mitarbeiter macht es mir unmöglich, denselben
+                                        Freiexemplare der Zeitschrift zu überlassen, jene Hefte
+                                        ausgenommen, in welchen Beiträge derselben erscheinen. Ich
+                                        suche jedoch ihnen die Anschaffung der Zeitschrift zu
+                                        erleichtern, indem ich für sie einen wesentlich ermässigten
+                                        Preis, der dem Honorar in Gegenrechnung gebracht wird,
+                                        normire.</p>
+                                <p sameAs="MBTextmitEinzug" rendition="#mPrint">Die Mitarbeiter der
+                                        „Internationalen Revue“ erhalten dieselbe statt à Oe. W. fl.
+                                        1.50&#160;kr. um Oe. W fl. 1 per Heft, auf dem Wege des
+                                        Buchhandels franco.</p>
+                                <p sameAs="MBTextmitEinzug" rendition="#mPrint">Wenn Sie von dieser
+                                        Proposition Gebrauch machen wollen, so bitte ich mir <seg type="comment"><orig>das beigedruckte
+                                                  Blanquett</orig><note xml:id="b1c845d0-ed99-4d43-be2a-5c0de5d0fad3"><ref target="mega_wyk_gqy_sy">Siehe die
+                                                  Beilage.</ref></note></seg> als Kreuzband frankirt
+                                                <hi rendition="#uu">postwendend</hi> gefälligst zu
+                                        übermachen, und bedarf es blos der Hinzufügung Ihres
+                                        geehrten Namens (als „Absender“) auf der Adresse. Wenn Sie
+                                        die Zusendung durch eine bestimmte Buchhandlung wünschen,
+                                        bitte ich mir dies gelegentlich brieflich mittheilen zu
+                                        wollen.</p>
+                                <p sameAs="MBTextmitEinzug" rendition="#mPrint">Genehmigen Sie den
+                                        Ausdruck grösster Hochachtung, mit dem ich die Ehre habe
+                                        mich zu nennen,</p>
+                                <p sameAs="MBTextmitEinzug" rendition="#mPrint"><!--<hi rend="color(0000FF)">{u1}</hi>-->Ihren ganz
+                                        ergebensten</p>
+                                <closer sameAs="MBUnterschrift"><hi rendition="#mPrint">Arnold
+                                                Hilberg’s Verlag.</hi>
+                                </closer>
+                        </div>
+                </body>
+        </text>
+</TEI>

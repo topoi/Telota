@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_sz4_5y3_f1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jenny Marx an Arnold Hilberg's Verlag. Februar 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution/>
+                        <collection/>
+                        <idno><idno type="shelfmark"/></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000003075">Marx, Jenny (1814-1881)</persName>
+                    <date from="1866-02-01" to="1866-02-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_zmj_ltj_wx">Arnold Hilberg's Verlag</orgName>
+                </correspAction>
+            </correspDesc>
+            <abstract>
+                <p>Nicht überlieferter Brief von Jenny Marx an Arnold Hilberg's Verlag, geschrieben
+                    im Februar 1866; siehe <ref target="B00105">Arnold Hilberg’s Verlag an Karl Marx
+                        in London. Wien, Freitag, 4. Mai 1866.</ref></p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+					<salute/>
+                </opener>
+				<p/>
+				<closer>
+					<salute/>
+					<signed/>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

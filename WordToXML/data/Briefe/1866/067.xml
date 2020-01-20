@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00071" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>67</idno>Karl Marx an Nanette Philips in Zaltbommel. Margate, Sonntag,
+                    18. März 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">C 676/C 182–12</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format
+                            213&#160;×&#160;13&#160;mm. Marx hat alle vier Seiten vollständig
+                            beschrieben. Die letzte Passage und die Unterschrift stehen auf der
+                            ersten Seite oben., unter dem Datum. Schreibmaterial: schwarze Tinte. </p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 6634</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl>Erstveröffentlichung: Blumenberg: Ein unbekanntes Kapitel aus
+                            Marx’ Leben (1956). S.&#160;108–111.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>Margate</placeName>
+                    <date when="1866-03-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="pdrPo.001.004.000003718">Nanette Philips</persName>
+                    <placeName>Zaltbommel</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:38:56Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener><dateline sameAs="MBDatumszeile"><pb/> 18 March, 1866. 5 Lansell’s
+                        Place,<lb/>Margate</dateline></opener>
+                <p sameAs="MBTextohneEinzug">My dear child. <seg type="comment"><orig>From the
+                            address you will see that I have been banished, by my medical adviser,
+                            to this seaside place,</orig><note xml:id="ffcfc2f6-ed42-4b75-9686-db853b6ad98c">Siehe <ref target="B00054/#a9fd0c5d-779b-4626-bf9f-71889bd4804c">Erl. zu Engels
+                                an Marx, 5.3.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170517T123645+0200" comment="{{Erl. 51a}}."?></note><?oxy_comment_end?></seg>
+                    which, at this time of the year, is quite solitary. Margate lives only upon the
+                    Londoners, who regularly inundate it at the bathing season. During the other
+                    months it vegetates only. For my own part right glad I am to have got rid of all
+                    company, even that of my books. I have taken a private lodging which fronts the
+                    sea. In an inn or Hotel one might <subst>
+                        <del>be</del>
+                        <add>have been</add>
+                    </subst> exposed to the danger of falling in with a stray traveller, or being
+                    pestered by local politics, vestry interests, and neighbourly gossip. <anchor type="verweisziel" xml:id="start_brg_djh_4z"/>As it is, <seg type="comment"><orig>“I care for nobody, and nobody cares for me”.</orig><anchor type="verweisziel" xml:id="stop_brg_djh_4z"/><note xml:id="dee66737-2160-41cd-8196-318b6f38eb3b">Aus dem englischen
+                            Volkslied „The Miller of Dee“. Siehe auch <ref target="B00073/#start_pnb_4xg_4z">Marx an L. Marx,
+                            20.3.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170413T163557+0200" comment="{{Br. 70.9–10}} "?> und<?oxy_comment_end?>
+                            <ref target="B00075/#start_pfw_zxg_4z">Marx an Engels,
+                                24.3.<?oxy_comment_start author="reichhoff" timestamp="20170413T163809+0200" comment="{{Br._72.14–16}}"?>1866<?oxy_comment_end?></ref>.
+                            (((lThe Miller of Dee))) </note></seg> But the air is wonderfully pure
+                    and reinvigorating, and you have here at the same time sea air and mountain air.
+                    I have become myself a sort of walking stick, running up and down the whole day,
+                    and keeping my mind in that state of nothingness which <del rendition="#s">the</del> Buddhaism considers the climax of human bliss. Of course, you
+                    have not forgotten the pretty little <expan resp="editor" sameAs="dottet_underline">dict<ex>i</ex>on</expan>: <seg type="comment"><orig>“When the devil was sick, the devil a monk would be; when the
+                            devil was well, the devil a monk was he.”</orig><note xml:id="bffadb32-c387-40b9-8052-a467e540fc7f">Mittelalterliches
+                            englisches Sprichwort. </note></seg></p>
+                <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_bmf_qkh_4z"/>Withdrawing a little from the seaside, and roaming over the adjacent
+                    agricultural districts, you are painfully reminded of “civilisation”, because
+                    from all sides you are startled by large boards, <pb/> with governmental
+                    proclamations on them, headed: <hi rendition="#u">Cattle Disease</hi>. The
+                    ruling English oligarchs were never suspected to care one farthing for <seg type="comment"><orig>“der Menschheit ganzes Weh”</orig><note xml:id="dd0fcac6-6a9c-4680-a225-e39d3bff16a0">Vergleiche hier z. B.
+                            Johann Wolfgang von Goethe: Faust. Eine Tragödie. Erster Teil. Kerker:
+                            „Der Menschheit ganzer Jammer fasst mich an“ (((lGoethe,J.W.v.:Faust.
+                            Eine Tragödie. Erster Teil))) oder Friedrich von Schiller: Das
+                            Eleusische Fest: „Doch der Menschheit Angst und Wehen Fühlet mein
+                            gequältes Herz.“ (((lSchiller, Friedrich von: Das Eleusische Fest)))
+                            Wörtlich in Eduard Duller: Der Fürst der Liebe. 2._Aufl. Cassel_1854.
+                            Sendung S.VII-XII. (((lDuller,Eduard: Der Fürst der Liebe. 2._Aufl.
+                            Cassel_1854)))</note></seg>, but as to cows and oxen, they feel deeply.
+                        <seg type="comment"><orig>At the opening of Parliament, the horned cattle
+                            gentlemen of both houses, commoners and lords, made a wild rush at
+                            government. All their talk sounded like a herd of cows’ lowing,
+                            translated into English.</orig><note xml:id="c4c0a2da-212e-4b63-b08e-d14a261ff62e">Am 6.&#160;Februar 1866
+                            war im britischen Parlament heftig über einen Gesetzentwurf debattiert
+                            worden, der u.a. im Falle von Seuchen für Viehhalter eine finanzielle
+                            Entschädigung vorsah. Am 23.&#160;Februar wurde das Gesetz
+                            verabschiedet.</note></seg> And they were not like <add>honest</add>
+                    king <persName key="ed_i2f_nxm_jz">Wiswamitra</persName>, <seg type="comment"><orig>“der kämpfte und büsste für die Kuh <persName key="ed_fcz_xym_jz">Sabalah</persName>”.</orig>
+                        <note xml:id="dda2b176-1535-457c-b0e5-75a21a6f550f"> Nach Heinrich Heine:
+                            Buch der Lieder. Die Heimkehr. 45. Den König Wiswamitra.
+                            (((lHeine,Heinrich:
+                            Buch_der_Lieder._Die_Heimkehr._45._Den_König_Wiswamitra))) - Siehe auch
+                                <ref target="B00073/#start_pzx_nyg_4z">Marx an L. Marx,
+                                20.3.1866</ref>
+                            <?oxy_comment_start author="reichhoff" timestamp="20170413T164338+0200" comment="{{Br. 70.31–45}}"?>.<?oxy_comment_end?>
+                        </note>
+                    </seg> On the contrary. They seized the opportunity to “battre monnaie” out of
+                    the cows’ <subst>
+                        <del>disease</del>
+                        <add>ailings</add>
+                    </subst>, at the expence of the people. By the by, the East sends us always nice
+                    things—Religion, Etiquette, and the Plague in all forms.<anchor type="verweisziel" xml:id="stop_bmf_qkh_4z"/></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>I am very glad to hear of <subst>
+                                <del rendition="#ow"><hi rendition="#u">Warratjes'</hi></del>
+                                <add place="across"><hi rendition="#u">Waaratjes'<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></hi></add>
+                            </subst></orig><?oxy_custom_end?><note xml:id="nedy_b3q_bz">Waaratje –
+                            nach dem niederl. Wort „waarachtig“ (wahrhaftig), ein oft benutzter
+                            Ausruf des Studenten <persName key="ed_rvb_bb5_1z">Pieter</persName> aus
+                            dem Roman von Hildebrand (d._i. Nicolaas Beets) „Camera obscura“
+                            (Haarlem 1839). ((lHildebrand_[d._i._Nicolaas_Beets]:_Camera_obscura)))
+                            Hier ist vermutlich <persName key="pdrPo.001.004.000004070">Hendrik
+                                Roodhuyzen</persName>, der spätere Ehemann von <persName key="pdrPo.001.004.000003718">Nanette Philips</persName>
+                            gemeint.</note></seg> winding up adventure. Verily, verily, I tell thee,
+                    my sweet little cousin, I always felt deep sympathy for the man, and always
+                    hoped that one day or other he should fix his melting heart in the right
+                    direction, and not persevere performing <subst>
+                        <del>his</del>
+                        <add>the nasty</add>
+                    </subst> part in the children’s tale: <seg type="comment"><orig>“The Beast and
+                            the Beauty”. </orig><note xml:id="d69e969e-8b19-414b-b853-5a987f60ccf7">Märchen von Jeanne-Marie Le Prince de Beaumont: La Belle et la Bête.
+                            (((lBeaumont,Jeanne-Marie_Le_Prince de:_La Belle et la Bête)))
+                        </note></seg> I’m sure he will make a good husband. Is his inamorata a
+                    “Bommelerin” or an importation?</p>
+                <p sameAs="MBTextmitEinzug">A few days before leaving London, I made the
+                    acquaintance of <seg type="comment"><orig>Mr.&#160;Orsini,</orig><note xml:id="a830e16c-2680-495f-85eb-573a0df7e972"><persName key="ed_erg_rjw_wx">Cesare Orsini</persName>. </note></seg> a very
+                    fine fellow, the brother of <seg type="comment"><orig>the <persName key="pdrPo.001.004.000003552">Orsini</persName> who was sent to the
+                            grave.</orig><note xml:id="nfnf_pl4_1z"><persName key="pdrPo.001.004.000003552">Felice Orsini</persName>. Siehe auch
+                                <ref target="B00064">Marx an Engels,
+                            15.3.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170413T164442+0200" comment="{{Br. 60.3–7}} "?> und<?oxy_comment_end?>
+                            <ref target="B00064/#b2d7a419-0238-486e-abdd-e3358e2a30be">Erl. zu Marx
+                                an Engels, 15.3.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170517T124107+0200" comment="{{Erl._60b}}."?>
+                            <?oxy_comment_end?>Einer der Gründe für das Attentat war, wie Orsini im
+                            Prozeß aussagte, dass <persName key="pdrPo.001.004.000003392">Napoléon
+                                III</persName> als junger Mann in Rom den Eid der Carbonari
+                            geschworen und später als Kaiser gebrochen habe.</note></seg> for
+                    sending <persName key="pdrPo.001.004.000003392">Bonaparte</persName> to Italy.
+                    He has now left England for the U.&#160;States, in commercial matters, but
+                    during the few days of our acquaintance, he did me good service.
+                    Although&#160;<pb/> an intimate friend of <persName key="pdrPo.001.004.000003114">Mazzini’s</persName>, he is far from sharing
+                    the antiquated antisocialist and theocratical views of Mazzini. <anchor type="verweisziel" xml:id="start_ft5_1q3_4z"/><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Now<?oxy_custom_end?>,
+                        <seg type="comment"><orig>during my forced and prolonged absence from the
+                            Council of the International Association,</orig><note xml:id="ad0636b7-c00a-40ce-89c5-b0e1f47cc93b">Seit Ende Januar 1866
+                            hatte Marx wegen Krankheit nicht an den Sitzungen des Zentralrats der
+                            IAA teilgenommen.</note></seg>
+                    <persName key="pdrPo.001.004.000003114">Mazzini</persName> had been busy in
+                    stirring a sort of revolt against my leadership. “Leadeship” is never a pleasant
+                    thing, nor a thing I ambition. I have always before my mind <seg type="comment"><orig>your father’s</orig><note xml:id="b8ac9f62-40c4-4617-a03d-694d1097559b"><persName key="pdrPo.001.004.000003715">Lion Philips</persName>. </note></seg>
+                    saying in regard to <persName key="ed_x5k_bxc_5z">Thorbeck</persName> that “der
+                    Eselstreiber den Eseln immer verhaßt ist”. But having once fairly embarked in an
+                    enterprise which I consider of import, I certainly, “anxious” man as I am, do
+                    not like to give way. <persName key="pdrPo.001.004.000003114">Mazzini</persName>, a most decided hater of freethinking and socialism, watched
+                    the progress of our society with great jealousy. <seg type="comment"><orig>His
+                            first attempt of making a tool of it and fastening upon it a programme
+                            and declaration of principles of his hatching, I had
+                            baffled.</orig><note xml:id="c596b15e-4452-474a-b3a3-f01d803c0e52">Marx
+                            erinnert an die Abfassung der Gründungsdokumente der IAA im Oktober
+                            1864. Siehe auch MEGA²&#160;III/13. Br.&#160;21.100–169.</note></seg>
+                    His influence, before that time very great with the London working class, had
+                    sunk to zero. He waxed wroth, when he saw that we had founded the English <seg type="comment"><orig><hi rendition="#u">Reform Ligue</hi></orig><note xml:id="a00a5f48-38ff-4870-b4b4-c4a4f820d578">Zur Reform League siehe
+                                <ref target="B00007/#ad3d64b6-cc97-4e64-a37d-88309702e416">Erl. zu
+                                Marx an J. Ph. Becker, zwischen 9. und
+                            15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170517T124507+0200" comment="{{Erl. 6x}}."?></note><?oxy_comment_end?></seg>
+                    and <seg type="comment"><orig>a weekly paper, the <hi rendition="#u">“</hi><bibl sameAs="zzThe Commonwealth"><hi rendition="#u">Commonwealth”</hi></bibl>,</orig><note xml:id="a0723fe9-1814-42fb-8f95-f9e2e201d5e2">Zur Zeitung „The
+                            Commonwealth“ siehe <ref target="B00007/#nmrb_qzn_4y">Erl. zu Marx an J.
+                                Ph. Becker, zwischen 9. und 15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170517T125013+0200" comment="{{Erl. 6f}}."?>
+                            <?oxy_comment_end?>(((zThe_Commonwealth)))</note></seg> to which the
+                    most advanced men of London contribute, and of which I shall send you a copy
+                    after my return to London. His anger increased, <seg type="comment"><orig>when
+                            the editors of the <hi rendition="#u">“Rive </hi><bibl sameAs="zzLa Rive Gauche"><hi rendition="#u">Gauche”</hi></bibl>
+                            (the journal of la jeune France, directed by <persName key="pdrPo.001.004.000004051">Rogeard</persName>, author of the
+                            “propos de Labienus”, <persName key="pdrPo.001.004.000002885">Longuet</persName> etc.) <pb/> joined us,</orig><note xml:id="db4e1cc9-0619-406a-bfd1-683c26bee5ac">Zu <persName key="pdrPo.001.004.000002885">Charles Longuet</persName> siehe auch
+                                <ref target="B00007">Marx an J. Ph. Becker,zwischen 9. und
+                                15.1.1866</ref>
+                            <?oxy_comment_start author="reichhoff" timestamp="20170316T125730+0100" comment="{{Br. 6}} "?>und<?oxy_comment_end?>
+                            <ref target="B00013">Marx an Engels,
+                                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170316T130059+0100" comment="{{Br._12}}"?>1866<?oxy_comment_end?>.</ref>
+                        </note></seg> and when he became aware of the spread of our society on the
+                    Continent. <seg type="comment"><orig>He improved my absence, to
+                            intrigue</orig><note xml:id="nkkf_l54_1z">Siehe auch <ref target="B00050">H. Jung an Marx, 27.2.1866</ref>
+                            <?oxy_comment_start author="reichhoff" timestamp="20170316T130250+0100" comment="{{Br. 47}}"?>
+                            <?oxy_comment_end?>und <ref target="B00075">Marx an Engels,
+                                24.3.<?oxy_comment_start author="reichhoff" timestamp="20170316T130429+0100" comment="{{Br._72}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    with some English workingmen, raise their jealousies against “German” influence,
+                    and even sent his bully, a certain <seg type="comment"><orig>Major
+                            Wolf</orig><note xml:id="npdq_p54_1z"><persName key="pdrPo.001.004.000005182">Luigi Wolff</persName>. </note></seg>
+                    (a German by birth) to <del> one <sic ana="#break-off"/></del> the Council there
+                    to lodge his complaints and <seg type="comment"><orig>more or less directly to
+                            denounce me. He wanted to be acknowledged as “the leader (I suppose par
+                            la grace de dieu) of the continental democratical movement”. In so
+                            doing, he acted so far quite sincerely, as he utterly abhors my
+                            principles which, in his eyes, embody the most damnable “materialism”.
+                            This whole scene was enacted behind my back, and after they had made
+                            sure that my malady would not allow me
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>to be
+                                present<?oxy_custom_end?><anchor type="verweisziel" xml:id="stop_ft5_1q3_4z"/>. The English wavered, but, although still
+                            very weak, I rushed to the following séance <del> an<ex>d</ex>
+                                <sic ana="#break-off"/></del>, Mr.&#160;<persName key="ed_erg_rjw_wx">Orsini</persName> accompanying me.</orig><note xml:id="ee4d75ac-5685-4624-a35f-d0cfb943f13c">Siehe <ref target="B00075/#start_a3f_2zg_4z">Marx an Engels, 24.3.1866</ref>
+                            <?oxy_comment_start author="reichhoff" timestamp="20170413T164825+0200" comment="{{Br. 72.60–74}}"?>.<?oxy_comment_end?></note></seg>
+                    <seg type="comment"><orig>On my interpellation, he declared them that <persName key="pdrPo.001.004.000003114">Mazzini</persName> had lost his
+                            influence even in Italy and was, from his antecedents and prejudices,
+                            quite disabled from understanding the new movement.</orig><note xml:id="e609e190-a794-46b5-9f9a-2461eedfd0da">Marx beschreibt die
+                            Sitzung des Zentralrats der IAA am 13.&#160;März 1866. Siehe <ref target="B00075/#start_bm3_mzg_4z">Marx an Engels, 24.3.1866
+                            </ref><?oxy_comment_start author="reichhoff" timestamp="20170413T165037+0200" comment="{{Br. 72.75–85}} "?>sowie<?oxy_comment_end?>
+                            The_Minute Book 1864–1866. In: MEGA²&#160;I/20. S.&#160;393.18–19.
+                            (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20. S._265–450)))
+                        </note></seg> All the Foreign secretaries declared for me, and, if you, <seg type="comment"><orig>our Dutch secretary,</orig><note xml:id="d8573dd3-f05a-4b53-9e63-464e7db3d1c5"><persName key="pdrPo.001.004.000003718">Nanette Philips</persName> gehörte der
+                            niederländischen Sektion der IAA an. Sie berichtete Marx über deren
+                            Arbeit, weshalb er sie seinen „holländischen Sekretär“
+                        nannte.</note></seg> had been present, I hope you would have also cast your
+                    vote for your humble servant and admirer. As it was, I carried a complete
+                    victory over this <add place="superlinear">redoubtable</add> adversary. I think
+                    that <persName key="pdrPo.001.004.000003114">Mazzini</persName> has now had
+                    enough of me and will make bonne mine à mauvais jeu.—I hope to <del> ha <sic ana="#break-off"/></del> receive a few <pb ana="xxx_special"/> lines
+                    from you. Don’t forget that I am quite an insulated hermite.</p>
+                <closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u2}</hi>-->Your most sincere
+                    friend<lb/>Bloch. /</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00139" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>135</idno>Richard Reinhardt an Friedrich Engels in Manchester. Paris, Donnerstag, 12. Juli 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 5390/L VIII 45 Fotosign. 12451a&lt;–&gt;l.</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              412&#160;×&#160;265&#160;mm. Prägung: „R.&#160;Reinhardt 7&#160;Square des Innocents
+              Paris“. Die erste Seite hat Reinhardt vollständig beschrieben, die zweite und dritte
+              sind leer, die vierte wurde als Adreßseite benutzt. Die letzte Passage (Z.&#160;31–38)
+              steht am linken Rand der ersten Seite quer geschrieben. Das Papier ist an den Falzen
+              beschädigt, die dadurch entstandenen Textverluste (Z.&#160;22, 23) konnten
+              rekonstruiert werden. Schreibmaterial: schwarze Tinte.</p>
+            <p>Auf der Adreßseite befinden sich die Anschrift vom Absender (gestempelt):
+              „R.&#160;Reinhardt 7&#160;Square des Innocents Paris“ sowie vier Poststempel: „Paris
+              [x] 12&#160;Juli 66“, „London [x] Paid A 13&#160;Jy 66“, „PD“ und „C Manchester
+              13&#160;Jy 66 19“.
+              <?oxy_comment_start author="lindenberg" timestamp="20170424T131356+0200" comment="Manchester 13 Jy 66 19“.]"?></p>
+            <?oxy_comment_end?>
+            <p>Von unbekannter Hand: Vermerk mit Bleistift „<hi rendition="#u">Reinhardt</hi>“ auf
+              der ersten Seite oben links.</p>
+            <p>Archivsignatur des SPD-Archivs auf der ersten Seite: „II 10 82c“.</p>
+            <p><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Über die Beilage
+              (Z.&#160;13) siehe Erl.&#160;135.13. <?oxy_custom_end?>
+              <?oxy_comment_start author="lindenberg" timestamp="20170424T131733+0200" comment="Archivsignatur des SPD-Archivs auf der ersten Seite: „II 10 82c“.[f.374, d. 36, Bl. 36v]
+Über die Beilage (Z. 13) siehe Erl. 135.13. oder hier wiedergeben??? siehe Zb aus d. IISG. [Zb aus d. IISG und Kopie d. Bw] [Text ist schwer zu lesen, weil das Papier zu dünn ist]."?></p>
+            <?oxy_comment_end?>
+            <p>Beschreibung der überlieferten Beilage.</p>
+            <p>Der Geschäftsbriefwechsel zwischen Richard Reinhardt und Ernst Dronke vom
+              9.&#160;April bis zum 2.&#160;Juni 1866.</p>
+            <p>Der Briefwechsel besteht aus drei Bogen dünnem, weißem Papier im Format
+              416&#160;×&#160;266&#160;mm. Alle 12&#160;Seiten hat ein Schreiber von „1“ bis „12“
+              paginiert und vollständig beschrieben. Schreibmaterial: schwarze Tinte.</p>
+            <p>Archivsignatur des SPD-Archivs auf der ersten Seite: „II 10 № 82d“.</p>
+            <p>Siehe Erl.&#160;135.b.</p>
+          </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1667</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_pd5_4ll_xx">Richard Reinhardt</persName><placeName>Paris</placeName><date when="1866-07-12"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:39Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+        <opener>
+          <dateline sameAs="MBDatumszeile"><pb/> Herrn Friedr. Engels, Associé <expan resp="editor" sameAs="dottet_underline">d<ex>er</ex></expan> Herren <orgName key="ed_mtd_tkh_1z">Ermen &amp; Engels</orgName> in Manchester.</dateline>
+          <dateline sameAs="MBDatumszeile">Paris, 12. Juli 1866.</dateline>
+          <salute sameAs="MBAnrede">Lieber Freund!</salute>
+        </opener>
+        <p sameAs="MBTextohneEinzug">Es thut mir leid, daß ich Sie durch <expan resp="editor" sameAs="dottet_underline">m<ex>eine</ex></expan> heutigen Zeilen u. gegenüber unserm
+          altvortrefflichen gemeinsamen <seg type="comment"><orig>Liverpooler Freund</orig><note xml:id="ea665208-410f-4249-937b-ccc2fedd7b13"><persName key="pdrPo.001.004.000001214">Ernst Dronke</persName>. </note></seg>, den ich gar nicht mehr begreife, mit der
+          Bitte behelligen muß, wegen einer unbeugsamen Hartnäckigkeit u. absolutistischen Willkühr
+          seinerseits in <expan resp="editor" sameAs="dottet_underline">u<ex>nserem</ex></expan>
+          zwischenzeitlich stattgehabten commerziellen Verkehr, den Obmann zwischen ihm u. mir in
+          einer wahrhaft elementarischen Handelsstreitfrage abzugeben, u. sich zu diesem Zweck der
+          Langenweile zu unterziehn, unsre hierauf bezügliche Correspondenz zwischen L'pool u.
+          Paris, etc., durchzusehn, die Sie <seg type="comment"><orig>in den einl.
+              Blättern</orig><note xml:id="d73d5031-c018-4b27-9926-674948d6055f"><persName key="ed_pd5_4ll_xx">Reinhardt</persName> hatte dem Brief seinen geschäftlichen
+              Briefwechsel mit <persName key="pdrPo.001.004.000001214">Ernst Dronke</persName>
+              zwischen 9.&#160;Februar und 2.&#160;Juni 1866 in Kopie beigelegt (siehe
+            ZB).</note></seg> mit der nöthigen Vollständigkeit exzerpirt finden, um die Sachlage
+          daraus faktisch an u. für sich u. ohne Erforderniß weitern Commentars von der einen oder
+          andern der betheiligten Seiten klar u. bestimmt entnehmen zu können. Sagen Sie darnach nun
+          einfach <persName key="pdrPo.001.004.000001214">Dronke</persName> u. mir, wer Recht hat u.
+          wer Unrecht, u. damit gut; denn bin ich's, so füge ich mich darein u. werde <expan resp="editor" sameAs="dottet_underline">m<ex>eine</ex></expan> Ideen zu rektifiziren
+          trachten, ist's aber er, so ist es an ihm, weiteres zu thun u. wird er sich dann der
+          Erledigung seiner Pflichten gegen mich auch nicht länger unterziehn. Ein Wort fre<supplied cert="high">undlic</supplied>her Antwort also, nachdem Sie <supplied cert="high">ihn</supplied> darüber gesprochen.</p>
+        <p sameAs="MBTextmitEinzug">Was sagen Sie aber zu <expan resp="editor" sameAs="dottet_underline">u<ex>nserer</ex></expan> jetzigen deutschen Geschichte, wo wir
+          scheints unsrerseits zur Einheit des Vaterlands durch einen <hi rendition="#u">Anti</hi>-<persName key="pdrPo.001.004.000001724">Garibaldi</persName> (Antichrist oder
+          Antifritz?) kommen sollen, der trotz des <hi rendition="#u">französisch-östreichischen</hi> (!) wie durch <hi rendition="#u">Ironie des
+            Schicksals</hi> combinirten Haltversuchs in Venezien u. Böhmen doch resolutest
+          voranzugehn u. unsre wurmfräßige Erb- u. Hauptfeindin, die alte habsburgsche Auster-ja!,
+          nebst all ihren lächerlich ohnmächtigen Nebenkröten die im Augenblick noch zu Kissingen u.
+          Frankfurt sich noch in extremis einen Firniß von verzweifelter Kraft zu geben suchen, zu
+          verschlucken u. zu zernichten trachtet wozu ich ihm nur Glück wünschen kann, in der
+          kühnen&#160;(!) Hoffnung daß nachher <expan resp="editor" sameAs="dottet_underline">u<ex>nser</ex></expan> deutsches Volk selbst, wenn wir einmal <hi rendition="#u">eins</hi> sind, mit ihm allein auch schon fertig werden wird.</p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Samuel communis hilf!</orig><note xml:id="eb009f02-a6f5-4aeb-b6be-8448230adb57">Vermutlich angelehnt an den mehrfachen
+              Anruf des schwarzen Jägers in der Oper „Der Freischütz“ (1821) von <persName key="ed_kyq_1zd_gz">Carl Maria von Weber</persName>, Libretto von <persName key="ed_ubr_tyd_gz">Friedrich Kind</persName>: „Samiel, hilf!“, „Hilf, Samiel!“
+              (((lWeber,CarlMaria_von: Der Freischütz))) </note></seg> –</p>
+        <closer sameAs="MBUnterschrift">Herzlichst grüßend Ihr altgetreuer R. Reinhardt. </closer>
+        <p sameAs="MBAdresse"><pb/> Monsieur Fr. Engels<lb/>associé de Messrs <orgName key="ed_mtd_tkh_1z">Ermen &amp;
+          Engels</orgName><?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?><lb/><?oxy_custom_end?>Manchester
+        </p>
+      </div></body></text></TEI>

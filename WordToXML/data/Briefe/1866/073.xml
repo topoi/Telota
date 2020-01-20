@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00076" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>73</idno>Sigismund Ludwig Borkheim an Friedrich Engels in Manchester. London, Dienstag, 27. März 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 682/L II 87 Fotosign. 9847a–b</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            262&#160;×&#160;203&#160;mm. Wasserzeichen: „J &amp; F&#160;H 1864“.
+                            Aufdruck der Firma Schröder &amp; Schyler &amp; C<hi rendition="#sup">o</hi> auf der ersten Seite (siehe S. L. Borkheim an Marx,
+                            8.1.<?oxy_comment_start author="reichhoff" timestamp="20170316T142954+0100" comment="{{Br. 4}} muss noch verlinkt werden"?>1866<?oxy_comment_end?>).
+                            Die ersten zwei Seiten hat Borkheim vollständig beschrieben, die dritte
+                            zu zwei Dritteln, die vierte Seite ist leer. Schreibmaterial: schwarze
+                            Tinte.
+                            <?oxy_comment_start author="lindenberg" timestamp="20170327T103821+0200" comment="(((nSchröder &amp; Schyler &amp; Co)))  Noch mit Register verbinden"?></p>
+                        <?oxy_comment_end?>
+                        <p>Von unbekannter Hand: Nummerierung des Briefes: „32“ auf der ersten Seite
+                            oben rechts; Vermerk „27/3“ mit Bleistift am rechten Rand in der Mitte
+                            der vierten Seite, quer geschrieben.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1648</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName><placeName>London</placeName><date when="1866-03-27"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:00Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/>
+                        <hi rendition="#i"><hi rendition="#mPrint">65, Fenchurch Street,
+                            E.C.</hi>&#160;</hi></dateline><hi rendition="#i"> </hi><dateline sameAs="MBDatumszeile"><hi rendition="#i"><hi rendition="#mPrint">London,</hi></hi> 27 März 1866.</dateline>
+                    <salute sameAs="MBAnrede">Lieber Engels,</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug">Der junge <persName key="ed_blf_k1t_gz">Schyler</persName> hat mir erzählt, qu’il vous a fait l’article. Daher
+                    sende ich Ihnen 3 Muster:</p>
+                <table rend="rules">
+                    <row>
+                        <cell rend="MBTextmitEinzug">1</cell>
+                        <cell rend="MBTextmitEinzug">Flasche</cell>
+                        <cell rend="MBTextmitEinzug">St. Estephe</cell>
+                        <cell rend="MBTextmitEinzug">1861</cell>
+                        <cell rend="MBTextmitEinzug">C 24/–</cell>
+                    </row>
+                    <row>
+                        <cell rend="MBTextmitEinzug">1</cell>
+                        <cell rend="MBTextmitEinzug">"</cell>
+                        <cell rend="MBTextmitEinzug">Chât. d’Agassac</cell>
+                        <cell rend="MBTextmitEinzug">1863</cell>
+                        <cell rend="MBTextmitEinzug">C 26/–</cell>
+                    </row>
+                    <row>
+                        <cell rend="MBTextmitEinzug">1</cell>
+                        <cell rend="MBTextmitEinzug">"</cell>
+                        <cell rend="MBTextmitEinzug">Pomys</cell>
+                        <cell rend="MBTextmitEinzug">1862</cell>
+                        <cell rend="MBTextmitEinzug">C 30/–</cell>
+                    </row>
+                    <row>
+                        <cell rend="MBTextmitEinzug"/>
+                        <cell rend="MBTextmitEinzug"/>
+                        <cell rend="MBTextmitEinzug"/>
+                        <cell rend="MBTextmitEinzug"/>
+                        <cell rend="MBTextmitEinzug">per Dutzend</cell>
+                    </row>
+                </table>
+                <p rend="MBTextOhneEinzug">und erwarte, daß Sie mir einen Auftrag für einige
+                    hogsheads schicken werden.</p>
+                <p sameAs="MBTextmitEinzug">Sie sind ein grausamer Mensch; <seg type="comment"><orig>auch nicht ein Wörtchen der Belobung und Ermuthigung für meine
+                            Fortschritte im Russischen haben Sie mir zugesandt.</orig><note xml:id="dd75c1f7-43ea-476f-8b92-e31bc7a72c53">Borkheim erwähnt seinen
+                            Brief an Engels vom 7.&#160;November 1865, den er in Russisch
+                            geschrieben hatte (siehe MEGA²&#160;III/13. Br.&#160;328 und
+                            Erl._328.1–32). </note></seg> Ich verschlucke jetzt jeden Morgen einen
+                    Leitartikel der Московскія Вѣдомости zum Frühstück. Es ist mir das Russische ein
+                    ganz <pb/> absonderlicher neuer Genuß. <anchor type="verweisziel" xml:id="start_dbm_zf4_qz"/>Nächstens werde ich <seg type="comment"><orig><persName key="ed_qhf_lql_sy">Karamsins</persName> Geschichte
+                            von Rußland</orig><note xml:id="a28b39b7-12ef-4aeb-a188-5c654370b999">Николай Михайловичъ Карамзинъ: Исторiя Государства Россiйскаго.
+                            (((lКарамзинъ,Николай_Михайловичъ:_Исторiя_Государства_Россiйскаго)))
+                        </note></seg> erhalten;<seg type="comment"> nur kann ich kein ordentliches
+                        Wörterbuch auftreiben. Können Sie mir darüber helfende Mittheilungen
+                        machen?</seg></p>
+                <p sameAs="MBTextmitEinzug">Nun werde ich Ihres hartnäckigen Schweigens wegen
+                    russische Rache nehmen – ohne Wörterbuch, aus dem Stegreif und mit Katzenjammer
+                    von einem gestrigen dinner!</p>
+                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                <p sameAs="MBTextmitEinzug"><?oxy_custom_end?>Дурной человѣкъ! Молчаніе ваше
+                    неожиданно! Почему же вы не мнѣ послали отвѣтъ? Какія бы не была причина
+                    молчанія, не могу не сказать, чтобъ объ етомъ я былъ мудрены".</p>
+                <p sameAs="MBTextmitEinzug">Политическіе положеніе Европы - объ етомъ предметѣ
+                    нечего не скажу. Цѣлы вопросъ за-<pb n=""/>ключается в одномъ словѣ: <persName key="pdrPo.001.004.000004321">Шраммъ-Конзуlъ-Генералъ!</persName>
+                    <seg type="comment"><orig>Телеграфировали въ Аугсбургъ <bibl sameAs="zzAAZ">Zeitung</bibl> что я получилъ сегодня, что етотъ великіи человѣкъ
+                            посѣтилъ церковь, и проч. и проч.</orig><note xml:id="np1q_rzj_b1b">Siehe Mailand, 22 März. Der preußische Generalkonsul Schramm … In:
+                            Allgemeine Zeitung. Augsburg. Nr. 83, 24. März 1866. Beil. S.
+                            1361.</note></seg><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                <p sameAs="MBTextmitEinzug"><?oxy_custom_end?>Что думаете объ возможности войны
+                    между нѣмецкими державами? Надѣюсь такъ, какъ
+                    я!<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                <p sameAs="MBTextmitEinzug"><?oxy_custom_end?><hi rendition="#u">Гумбукъ</hi> въ
+                    видѣ серіозности! Чортъ будетъ хранить <seg type="comment"><orig>Царя
+                            Берлинскаго</orig><note xml:id="e1ce14cf-ad23-4dd4-b061-eaaf5bcd1835"><persName key="pdrPo.001.004.000005131">Wilhelm&#160;I.</persName>
+                        </note></seg> у <seg type="comment"><orig>Вѣнскако!</orig><note xml:id="nhlk_t2k_b1b"><persName key="pdrPo.001.004.000001622">Franz
+                                Joseph I.</persName></note></seg> Пожалуй!</p>
+                <p sameAs="MBTextmitEinzug">Nun leben Sie mir aber recht wohl.</p>
+                <closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u1}</hi>-->Der Ihrige<lb/>S.
+                    Borkheim. </closer>
+            </div></body></text></TEI>

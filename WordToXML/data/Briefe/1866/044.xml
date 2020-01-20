@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00047" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>44</idno>Friedrich Engels an Karl Marx in London. Manchester, Donnerstag, 22. Februar 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1601/ D III 372</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format
+              263&#160;×&#160;214&#160;mm. Die erste Seite hat Engels vollständig beschrieben, die
+              dritte zu einem Drittel, die zweite und vierte Seite sind leer. Schreibmaterial:
+              schwarze Tinte.</p>
+            <p>Von Eduard
+              <?oxy_comment_start author="strauss" timestamp="20170613T100429+0200" comment="(((nBernstein,Ed.)))"?>Bernsteins<?oxy_comment_end?>
+              Hand: Nummerierung des Briefes bzw. der beschriebenen Seiten: „301,1“ bzw. „301,2“ und
+              „8,1“ bzw. „8,2“ (gestrichen). Redaktionelle Vermerke. </p>
+            <p>Von Heinrich
+              <?oxy_comment_start author="strauss" timestamp="20170613T100615+0200" comment="(((nDietz,H.)))"?>Dietz’<?oxy_comment_end?>
+              Hand: Nummerierung des Briefes: „829“ (gestrichen).</p>
+            <p>Engels beatwortet Marx ' Brief vom 20.&#160;Februar 1866 (Marx an Engels,
+              20.2.1866).</p>
+          </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1939</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;297/298.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1866-02-22"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:42Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Mchr 22 Febr 66.</dateline><salute sameAs="MBAnrede">Lieber Mohr</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Dank für Klein Zaches &amp;c.</orig><note xml:id="ce51c4fa-3c38-4cbc-b98d-9649b6210a73">E._T._A. Hoffmann: Klein Zaches, genannt
+                                                  Zinnober. (((lHoffmann: Klein Zaches, genannt
+                                                  Zinnober))) Siehe <ref target="B00044">Engels an
+                                                  Marx,
+                                                  19.2.<?oxy_comment_start author="reichhoff" timestamp="20170411T164616+0200" comment="{{Br. 41.7–9}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        <seg type="comment"><orig>welche ich als Beweis ansehe daß
+                                                  Du die £&#160;10.– erhalten hast.</orig><note xml:id="a2bd76c8-2d04-4922-b345-c5ccd56e85c2">Siehe <ref target="B00044">Engels an Marx,
+                                                  19.2.<?oxy_comment_start author="reichhoff" timestamp="20170411T164713+0200" comment=" {{Br. 41.3}}"?>1866<?oxy_comment_end?></ref>
+                                                  und <ref target="B00046/#start_b1m_bls_nz">Marx an
+                                                  Engels,
+                                                  20.2.<?oxy_comment_start author="reichhoff" timestamp="20170411T164847+0200" comment="{{Br.  43.3}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_kpw_rbr_nz"/><orig>Ich komme eben von <persName key="pdrPo.001.004.000001969">Gumpert</persName>
+                                                  den ich wegen meiner Grippe &amp; mehrmaligen
+                                                  Verfehlens erst heute Abend traf.</orig><note xml:id="e1f77bab-01f2-42d0-880f-3ee9466d4c9e">Siehe <ref target="B00044">Engels an Marx,
+                                                  19.2.<?oxy_comment_start author="reichhoff" timestamp="20170411T164954+0200" comment="{{Br. 41.13}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        <anchor type="verweisziel" xml:id="start_ist_21y_nz"/>Er
+                                        hält dafür, daß Du <hi rendition="#u">gleich mit dem Arsenik
+                                                anfangen sollst</hi>. Schaden könne es Dir unter
+                                        keinen Umständen, nur nützen.<anchor type="verweisziel" xml:id="stop_ist_21y_nz"/> Was <persName key="pdrPo.001.004.000000078">Allen</persName> sage,
+                                        es passe für Dich nicht, sei Blödsinn. Dann hält er die
+                                        Behandlungsweise mit Umschlägen auch für Unsinn; sie
+                                        befördre nur die <hi rendition="#u">Hautentzündung</hi> die
+                                        grade zu unterdrücken sei, während sie die Eiterung nicht
+                                        befördere. Eisumschläge seien viel besser, aber solange Du
+                                        in <persName key="pdrPo.001.004.000000078">Allen’s</persName> Händen, könnten diese natürlich
+                                        nur angewandt werden wenn er sie verschriebe. Aber vor Allem
+                                        Seeluft, damit Du wieder zu Kräften kommst. Ein Ort an der
+                                        Südküste sei zwar vorzuziehn, da bei dieser Jahreszeit dort
+                                        mehr schönes Wetter als hier oben, wenn Du aber lieber in
+                                                <persName key="pdrPo.001.004.000001969"><expan resp="editor" sameAs="dottet_underline">Gumpert</expan>’s</persName> Nähe sein willst so
+                                        seien ja Orte genug hier an der Küste within an hour’s ride
+                                        from Manchester.</p><p sameAs="MBTextmitEinzug">Du siehst, es ist mir gelungen <persName key="pdrPo.001.004.000001969">G.</persName> so herumzustimmen daß er jetzt darauf dringt Du sollst den Ars. gleich
+          nehmen selbst während <persName key="pdrPo.001.004.000000078">Allen</persName> Dich noch
+          äußerlich behandelt, während er früher davon nichts wissen wollte, aus Etiquetter
+          rücksichten. Aber nun thu mir den Gefallen &amp; iß den Arsenik, &amp; komm her sobald
+          Dein Zustand es irgend erlaubt damit Du doch endlich einmal besser wirst. Mit diesem
+          ewigen Zaudern &amp; Zögern ruinirst Du Dich nur selbst, kein Mensch kann diese chronische
+          Karbunkelgeschichte auf die Dauer aushalten, abgesehen davon, daß endlich einmal einer
+          auftreten kann, der eine solche Gestalt annimmt daß Du daran zum Teufel gehst. <anchor type="verweisziel" xml:id="stop_kpw_rbr_nz"/>Und wo ist dann <seg type="comment"><orig>Dein Buch</orig><note xml:id="a1fdcf39-d5ce-404a-a1c1-65ba96d9f130">Gemeint ist
+              hier Karl Marx: Das Kapital; siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an J. Ph. Becker,
+                zwischen 9. und 15.1.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170516T152036+0200" comment="{{Erl. 6b}}."?>
+              <?oxy_comment_end?>(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg> &amp;
+          Deine Familie.</p><p sameAs="MBTextmitEinzug">Du weißt daß ich bereit bin das Mögliche zu thun, &amp; in diesem extremen Fall selbst mehr als ich unter andern Umständen riskiren dürfte. Aber sei doch auch vernünftig &amp; thu mir <pb/> &amp; Deiner Familie den einzigen Gefallen Dich <hi rendition="#u">kuriren zu lassen</hi>. Was soll aus der ganzen Bewegung werden, wenn Dir etwas passirte, &amp; so wie Du operirst, <hi rendition="#u">muß</hi> es dazu kommen. Wahrhaftig ich hab Tag &amp; Nacht keine Ruhe bis ich Dich über diese Geschichte hinaus habe, &amp; jeden Tag wo ich nichts von Dir höre bin ich unruhig &amp; denke Du bist wieder schlimmer.</p><p sameAs="MBTextmitEinzug">Nota bene. Du sollst es ja nicht wieder dahin kommen lassen daß ein <expan resp="editor" sameAs="dottet_underline">Karb<ex>unkel</ex></expan> nicht geschnitten wird, der eigentlich hätte geschnitten werden sollen. Das sei höchst gefährlich.</p><p sameAs="MBTextmitEinzug">Viele Grüße an die ladies.</p><closer sameAs="MBUnterschrift"><salute>Dein <lb/></salute><signed>F.&#160;E. </signed></closer></div></body></text></TEI>

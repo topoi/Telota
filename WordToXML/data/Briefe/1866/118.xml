@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00122" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>118</idno>Elisabeth Engels an Friedrich Engels in
+                                        Manchester. Engelskirchen, Freitag, 8. Juni 1866</title>
+                        </titleStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>STAW (Stadtarchiv
+                                                  Wuppertal)</institution>
+                                                <collection>ND 3 (Dokumentation Friedrich
+                                                  Engels)</collection>
+                                                <idno><idno type="shelfmark">Nr. 202/6</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Bogen und einem Blatt
+                                                  mittelstarkem, weißem Papier im Format 285 x
+                                                  220&#160;mm und 143 x 220 mm sowie einem Umschlag
+                                                  aus blauem Papier im Format 147 x 60 mm mit der
+                                                  Prägung: „EE“. Elisabeth Engels hat fünf Seiten
+                                                  vollständig beschrieben, die sechste ist leer..
+                                                  Schreibmaterial: schwarze Tinte. </p>
+                                                <p>Auf dem Umschlag vier Poststempel: „Engelskirchen
+                                                  8&#160;6&#160;*&#160;2–3“ (zweimal), „P.D.“ (auf
+                                                  der Vorderseite), „A Manchester 10&#160;Ju&#160;66
+                                                  2“ (auf der Rückseite) sowie eine
+                                                  Drei-Silbergroschen- und eine
+                                                  Zwei-Silbergroschen-Briefmarke.</p>
+                                                <p>Von unbekannter Hand: auf dem Umschlag der
+                                                  Vermerk „8.6.66“ sowie einige Berechnungen.</p>
+                                                <p>Elisabeth Engels beantwortet einen nicht
+                                                  überlieferten Brief von Engels („Deinen lieben
+                                                  Brief“), geschrieben zwischen 6.&#160;April und
+                                                  18.&#160;Juni 1866 (siehe Engels an H. Engels,
+                                                  6.4.1866: „... der ich dieser Tage auch
+                                                  schreibe,“).</p>
+                                        </physDesc>
+                                        <additional>
+                                                <listBibl>
+                                                  <bibl>RGASPI f. 9 op. 1 d. 51</bibl>
+                                                </listBibl>
+                                        </additional>
+                                </msDesc>
+                                <listWit>
+                                        <witness><bibl>Erstveröffentlichung: Die Herkunft des
+                                                  Friedrich Engels (1991).
+                                                S.&#160;647/648.</bibl></witness>
+                                </listWit>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000001367">Engels, Elisabeth
+                                                (1797-1873)</persName>
+                                        <placeName>Engelskirchen</placeName>
+                                        <date when="1866-06-08"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                                        <placeName>Manchester</placeName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:39:29Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingAct">
+                                <opener><dateline sameAs="MBDatumszeile"><pb/> Engelskirchen 8 Juni
+                                                66</dateline><salute sameAs="MBAnrede">Lieber
+                                                Friedrich</salute></opener>
+                                <p sameAs="MBTextohneEinzug"><anchor type="verweisziel" xml:id="start_zp3_jbw_4z"/>Ich wollte Deinen <expan resp="editor" sameAs="dottet_underline">l<ex>ieben</ex></expan> Brief schon früher
+                                        beantworten, wurde aber theils durch die Unruhe die <seg type="comment"><orig>ein Umzug</orig><note xml:id="fa653b3c-08c6-44cf-aa01-e371f6e69a53"><persName key="pdrPo.001.004.000001367">Elisabeth
+                                                  Engels</persName> wohnte zeitweise in Barmen
+                                                  (Wuppertal), zeitweise in Engelskirchen.
+                                                </note></seg> mit sich bringt, theils auch durch ein
+                                        Unwohlsein daß ich hier gleich zu überstehn hatte daran
+                                                verhindert.<anchor type="verweisziel" xml:id="stop_zp3_jbw_4z"/> Hier fand ich auch nicht
+                                        Alles so gut wie ich wohl gewünscht hätte, <seg type="comment"><orig>Elise</orig><note xml:id="ebd3a3c2-67bf-400b-aea8-745352d3095e"><persName key="pdrPo.001.004.000001910">Elise von
+                                                  Griesheim</persName>. </note></seg> hatte den
+                                        Winter viel Husten gehabt u. grade wie ich hierher kam litt
+                                        sie wieder bedeutend daran, sie trinkt jetzt Emser Wasser,
+                                        was ihr hoffentlich gut thun wird. <seg type="comment"><orig>Emil</orig><note xml:id="b5e83b50-b0ae-4b62-8620-9bde82a09893"><persName key="pdrPo.001.004.000001368">Emil
+                                                  Engels</persName>. </note></seg> hatte Ende Mai
+                                        eine Rippenfell-Entzündung, die wie ich kam glücklich
+                                        überstanden war, er klagte aber über Wasser in der Brust,
+                                        was er sich bewegen fühlen könne u. man auch bei einer
+                                        gewissen Bewegung die <pb/> er machte hören konnte. Die
+                                        beiden Aerzte die er hier hatte konnten bei einer
+                                        Untersuchung kein Wasser finden, sie konnten es aber hören,
+                                        dabei fühlte Emil gar keine Beschwerden, er schlief gut,
+                                        hatte guten Appetit, fühlte keine Beklemmung u. konnte
+                                        liegen wie er wollte. Die Aerzte wußten nicht was sie davon
+                                        denken sollten u. machten sehr bedenkliche Gesichter, Emil
+                                        mußte Spanischefliegen legen Arzenei nehmen, kurz er wurde
+                                        wie ein recht Kranker behandelt u. Dr. <persName key="pdrPo.001.004.000005118">Wiefel</persName>
+                                        sagte mir, er halte die Sache allerdings für sehr
+                                        bedenklich. Nun entschloß sich Emil nach Cöln zu <persName key="pdrPo.001.004.000001544">Fischer</persName> zu
+                                        gehn, der untersuchte ihn sehr gründlich u. erklärte er habe
+                                        kein Wasser in irgend einem Theil der Brust, weder in der
+                                        Rippenfell Blase, noch im Herzbeutel noch in einem Theil
+                                        <pb/> der Lunge. Das Klucksen was man hören könne komme von
+                                        dem Magenwasser her, seine inneren Theile seien wie das nach
+                                        einer Entzündung immer der Fall sei noch nicht wieder in
+                                        einem normalen Zustand, er solle nur noch einige Wochen
+                                        warten, dann würde er weder etwas fühlen noch hören können.
+                                        Er dürfe mäßig Wein trinken, gut essen, keine Arzenei nehmen
+                                        u. die Spanischefliege gleich heilen lassen. Du kannst wol
+                                        denken wie froh wir über diesen sehr bestimmt
+                                        ausgesprochenen Ausspruch waren, <persName key="pdrPo.001.004.000001368">Emil</persName> geht
+                                        nun wieder seinem gewohnten Leben nach u. sieht schon wieder
+                                        recht gut aus. Ueber diese Sorge war mir die Politik ganz in
+                                        den Hintergrund getreten. Es sieht hier im Lande recht
+                                        traurig aus u. wenn der Krieg einmal wirklich da ist, wird
+                                        es wol noch schlimmer <pb/> werden. Bestellungen bleiben
+                                        nathürlich aus u. es wird mit verkürzter Zeit gearbeitet.
+                                        Hier bekommt man nur die Zeitungen u. hat durch sonstige
+                                        Nachrichten nicht so viel Aufregung, in Barmen war das
+                                        schlimmer. Es ist überall eine große Noth, besonders durch
+                                        die Aushebungen zum Dienst u. alle Verhältnisse werden
+                                        gestört. <seg type="comment"><orig>Der Bräutigam von
+                                                  <persName key="pdrPo.001.004.000000459">Marie
+                                                  B.</persName></orig><note xml:id="f47832ec-96c3-47c1-8b5e-37c8d67df749"><persName key="ed_fzq_5lg_yx">Robert
+                                                  Barthels</persName>. </note></seg> gehört noch
+                                        1&#160;Jahr im ersten Aufgebot, <seg type="comment"><orig>sein Bruder</orig><note xml:id="df1d107d-02b0-4c5d-93a4-3dda144f0292"><persName key="ed_m2x_dyk_2z">Barthels,
+                                                  Bruder</persName>. </note></seg> ist aber
+                                        Leutenant in der Landwehr u. wird wol früher fort müssen,
+                                        dann wird R.&#160;<persName key="ed_fzq_5lg_yx">Bartels</persName> als Einziger im Geschäft, wol
+                                        nicht genommen werden.</p>
+                                <p rend="MBTextMitEinzug"><persName key="pdrPo.001.004.000001409">G.&#160;Ermen</persName> geht es ja schlecht mit
+                                        seinen Spekulationen, ich glaube er will mit Gewalt noch
+                                        immer reicher werden. <seg type="comment"><orig>Wie sieht es
+                                                  aus, Du wirst mich doch in diesem Jahr auch
+                                                  besuchen.</orig><note xml:id="bddbed47-8cbb-4041-aed4-15b6863e7edf">Engels hielt sich in Deutschland Ende
+                                                  August/Anfang September 1866 auf. Siehe dazu auch
+                                                  <ref target="B00161">Engels an E. Engels,
+                                                  23.8.<?oxy_comment_start author="reichhoff" timestamp="20170421T111033+0200" comment="{{Br. 157.8}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        <pb/> Hier kann man jetzt keine Reiseplane machen, denn wenn
+                                                <seg type="comment"><orig>der Krieg</orig><note xml:id="c8834d55-bdcc-4cad-b2de-ced9903c08bf">Der
+                                                  Deutsche Krieg (1866).</note></seg> einmal
+                                        angefangen hat, weiß man nicht welche Ausdehnung er gewinnt.
+                                        Ihr seid doch recht glücklich in Eurem England u. habt
+                                        wenigstens keine Aussicht auf Krieg. Ich kann nicht
+                                        begreifen daß der <persName key="pdrPo.001.004.000000441">Bismark</persName> noch immer Minister bleibt, das
+                                        ganze Land u. ganz Europa ist ja einig darüber, daß er
+                                        allein die Schuld trägt. Doch was kann das Klagen helfen,
+                                        wir haben ja <seg type="comment"><orig> einen
+                                                  Regenten</orig><note xml:id="nxqf_1nd_5z"><persName key="pdrPo.001.004.000005131">König
+                                                  Wilhelm I.</persName>
+                                                </note></seg> über alle Regenten, der wird's schon
+                                        wieder in Ordnung bringen, auf den verlasse ich mich. Leb
+                                        nun wohl lieber Friedrich, Gott sei mit Dir u. erhalte Dich
+                                        gesund. Schreibe mir recht bald mal wieder. Von hier lassen
+                                        Dich Alle herzlich grüßen.</p>
+                                <closer sameAs="MBUnterschrift">Mit treuer Liebe<lb/>Deine Mutter E. </closer>
+                                <p sameAs="MBAdresse"> </p>
+                        </div>
+                </body>
+        </text>
+</TEI>

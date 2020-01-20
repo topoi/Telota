@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_utv_phv_vy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Empfangsbescheinigung  von Christopher Kay für Friedrich Engels ,
+                    Winsford</title>
+                <title>, Freitag 9. November 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 2726/L V 214</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_z4m_fpd_xx">Kay, Chris (-)</persName>
+                    <placeName key="ed_dbh_5mv_vy">Winsford</placeName>
+                    <date when="1866-11-09" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Engels, Friedrich (1820-1895)</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Winsford Nov<hi rendition="#sup">r</hi> 9<hi rendition="#sup">th</hi>
+                        1866. </dateline>
+					<salute/>
+                </opener>
+				<p>Cheshire <hi rendition="#u">Hunt Covert</hi> Fund. </p>
+                <p>Received from Fred<hi rendition="#sup">k</hi> Engels Esq<hi rendition="#sup">re</hi> the sum of Ten pounds as a subscription to the above Fund for the
+                    season 1866—7</p>
+                <p/>
+				<closer>
+					<salute/>
+					<signed>Chris Kay.</signed>
+				</closer>
+            </div>
+            <postscript>
+                <p>£ 10.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

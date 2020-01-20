@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00058" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>54a</idno>Friedrich Engels an Ferdinand Freiligrath  in Manchester. London, zwischen Donnerstag, 8. und Samstag, 10.&#160;März 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                    <msIdentifier>
+                        <institution>Standort Orig. nicht bekannt</institution>
+                        <idno><idno type="shelfmark">Kopie aus Engels an Marx, zwischen 8. und 10.
+                                März 1866</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Standort der Originalhandschrift ist gegenwärtig nicht bekannt, die
+                            Veröffentlichung erfolgt nach Engels’ Brief an Marx, geschrieben
+                            zwischen 8. und 10.&#160;März 1866, in welchem dieser Auszug zitiert ist
+                            (Engels an Marx, zw. 8. u. 10.3.1866). Die hier wiedergegebene Passage
+                            ist ein Auszug aus der Antwort auf Freiligraths Brief vom 8.&#160;März
+                            1866 (F. Freiligrath an Engels, 8.3.1866). Zu Zeugenbeschreibung und
+                            Datierung siehe Engels an Marx, zw. 8. u. 10.3.1866. </p>
+                        <p>Datierung in der Erstveröffentlichung: März 1861.</p>
+                        <p>Freiligrath beantwortet den Brief am 13.&#160;März 1866 (F. Freiligrath
+                            an Engels, 13.3.1866).</p>
+                    </physDesc>
+                </msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw 3 (1913). S.&#160;14.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName>London</placeName>
+                    <date from="1866-03-08" to="1866-03-10" cert="high"/>
+                </correspAction><correspAction type="received"><persName key="pdrPo.001.004.000001631">Ferdinand Freiligrath </persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:48Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><p rend="MBTextOhneEinzug">Marx braucht Ruhe vor Nachtarbeit &amp; Sorgen, dazu Seeluft &amp; gutes
+                    Leben. Das wird ihn schon wieder auf die Beine bringen. Fetten Bürgern wie dem
+                        <persName key="pdrPo.001.004.000000470">Blind</persName> passirt so was
+                    nicht. Dafür hat der arme Mann aber auch das Pech daß trotz aller angesetzten
+                    Hebel &amp; Daumschrauben kein Mensch von ihm spricht als Blind selbst. Solche
+                    Kerls haben die Karbunkeln an der innern Seite ihres Hirnschädels. Doch genug
+                    von dem „deliberate liar.“</p><p sameAs="MBTextmitEinzug">Was machst Du eigentlich? <seg type="comment"><orig>Ich höre die Bank
+                            hat in London aufgehört.</orig><note xml:id="a255aa26-2c6d-484a-8a74-2b0821b2cb23">Nachdem Ende 1865 die
+                            Filiale der <orgName key="ed_cqv_lw3_yy">Banque générale
+                                suisse</orgName> in London, die <persName key="pdrPo.001.004.000001631">Freiligrath</persName> seit 1856
+                            leitete, geschlossen wurde, beteiligte er sich an der Gründung der
+                            erfolglosen Aktiengesellschaft <orgName key="ed_x5y_4w3_yy">New Mansfeld
+                                Mining Company</orgName>. <persName key="pdrPo.001.004.000001482">James Fazy</persName> erlitt bei den Wahlen zum Genfer Kantonalrat
+                            im August 1864 eine Niederlage, nachdem seine Finanzmachinationen als
+                            Direktor der Banque générale suisse aufgedeckt worden waren. Nach den
+                            Wahlen unternahmen Fazys Anhänger einen Überfall auf Wähler, die gegen
+                            ihn gestimmt hatten. Es kam in Genf zum Einsatz von Regierungstruppen
+                            und <persName key="pdrPo.001.004.000001482">Fazy</persName> musste nach
+                            Frankreich fliehen. Siehe auch MEGA²&#160;III/13. Br.&#160;89.30–39,
+                            Br._251.19–23 und Br._292.57–67.</note></seg> Am Ende auch gut für Dich,
+                    die Verbindung mit <persName key="pdrPo.001.004.000001482">Fazy</persName> &amp; Consorten hätte
+                    Dich wer weiß wie später compromittiren können. Einen ordentlichen Posten
+                    kriegst Du ja doch bald wieder.</p></div></body></text></TEI>

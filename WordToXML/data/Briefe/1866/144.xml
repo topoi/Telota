@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00148" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>144 </idno>Friedrich Engels an Karl Marx in London. Manchester, Montag, 6. August 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1618/D III 388</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Blatt mittelstarkem, blauem Papier im Format
+              127&#160;×&#160;202&#160;mm. Die erste Seite hat Engels vollständig beschrieben, die
+              zweite zu zwei Dritteln, die übrigen zwei Seiten sind leer. Schreibmaterial: schwarze
+              Tinte.</p>
+            <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand: Numerierung  der
+              beschriebenen Seiten: „316,1“ bzw „316,2“ und „38,1“ bzw. „38,2“ (gestrichen).<?oxy_comment_start author="lindenberg" timestamp="20170424T143825+0200" comment="Von Eduard Bernsteins Hand: Numerierung des Briefes bzw. der beschriebenen Seiten: „316,1“ bzw „316,2“ und „38,1“ bzw. „38,2“ (gestrichen)."?>
+              <?oxy_comment_end?>Redaktioneller Vermerk.</p>
+            <p>Von Heinrich Dietz’ Hand: Numerierung des Briefes: „859“ (gestrichen).</p>
+            <p>Von unbekannter Hand: der mit Bleistift auf der ersten Seite oben links geschriebene
+              Vermerk: „Collin“.
+              <?oxy_comment_start author="lindenberg" timestamp="20170424T143910+0200" comment="Von unbekannter Hand: der mit Bleistift auf der ersten Seite oben links geschriebene Vermerk: „Collin“. [Vgl. Br. 74,88, 111, 144, 200, 235]"?></p>
+            <?oxy_comment_end?>
+            <p>Engels beantwortet den Brief von Marx vom 27.&#160;Juli 1866 (Br.&#160;142), Marx
+              antwortete ihn am 7.&#160;August 1866 (Br.&#160;145).</p>
+          </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1983</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;339–341.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1866-08-06"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:44Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Mchr 6 Aug 1866.</dateline><salute sameAs="MBAnrede">Lieber Mohr</salute></opener><p sameAs="MBTextohneEinzug">Der Humor Deines letzten Briefs läßt mich schließen daß Deine Leber
+          sich sehr gebessert hat obwohl Du davon nicht sprichst. <seg type="comment"><orig>Was die
+              Frankfurter angeht</orig><note xml:id="baee1f09-955c-4aa1-8343-50c708dc4b0d">Siehe
+                <ref target="B00146/#start_uqd_qhn_tz">Marx an Engels,
+                27.7.<?oxy_comment_start author="reichhoff" timestamp="20170502T104302+0200" comment="{{Br. 142.10–15}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00146/#nfnw_qnr_gz">Erl. zu Marx an Engels,
+                27.7.<?oxy_comment_start author="reichhoff" timestamp="20170516T160127+0200" comment="{{Erl._142d}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+          so hättest Du erst das Zetermordio unter den Hiesigen anhören müssen, deren sind ja Legion
+          hier, die von ihren Brüdern &amp;c die erschrecklichsten Briefe bekamen. Der pr. Leutnant
+          hat sich natürlich bei dieser Gelegenheit mit bekannter Grazie benommen, doch war von vorn
+          herein zu erwarten daß die Herren more frightened than hurt werden würden. Im übrigen
+          Süddeutschland, wo die Frfter auch nicht besonders beliebt sind, &amp; wo man ihnen
+          vorwirft sie hätten auf beiden Achseln getragen, hat man sich auch darüber gefreut daß
+          grade sie so gezwiebelt wurden. Solche Briefe hab' ich selbst gesehn.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Also <persName key="pdrPo.001.004.000000441">Bismark</persName> hat doch gesiegt</orig><note xml:id="nxjg_4qs_gz">
+                                                  <p>Gemeint ist der Sieg Preußens im Deutschen
+                                                  Krieg (1866).</p>
+                                                </note></seg> &amp; <seg type="comment"><orig><persName key="pdrPo.001.004.000005131">Wilhelmchen</persName> hat
+              eine Versöhnungsphrase an seine erlauchten edlen &amp; getreuen erlassen,</orig><note xml:id="nxdz_sqs_gz">
+              <p>Vermutlich Bezugnahme auf die Rede <persName key="pdrPo.001.004.000005131">Wilhelms_I.</persName> zur Eröffnung beider Häuser des Landtags der Monarchie am
+                5._August 1866 (Wilhelm_I.: Eröffnung beider Häuser des Landtags der Monarchie am
+                5._August 1866. In: Königlich Preußischer Staats-Staatsanzeiger 1866. Vom Juli bis
+                Ende Dezember. Berlin_[1867]. S._2691/1692). (((lWilhelm_I.:Eröffnung beider Häuser
+                des Landtags der Monarchie am 5._August 1866. In: Königlich Preußischer
+                Staats-Staatsanzeiger 1866. Vom Juli bis Ende Dezember. Berlin_[1867].
+                S._2691/1692))) Siehe The Speech with which King William … [Leitart.] In: The Times.
+                London. Nr. 25_569, 6._August 1866. S._8 und Germany. Opening of the Prussian
+                Legislature. Ebenda. S._9. Rubrik: Latest Intelligence. (Reuter’s Telegrams).
+                (((lThe Speech with which King William … [Leitart.] In: The Times. London. Nr.
+                25_569, 6._August 1866. S._8))) (((lGermany. Opening of the Prussian Legislature.
+                In: The Times. London. Nr. 25_569, 6._August 1866. S._9. Rubrik: Latest
+                Intelligence. (Reuter’s Telegrams) )))</p>
+            </note></seg> dabei aber gleichzeitig betheuert,
+                                        wenn man ihm wieder Geld verweigre werde es leider
+                                        „unvermeidlich“ sein wieder unbewilligtes Geld auszugeben.
+                                        Wie man damit selbst bei dieser Kammer den Conflict lösen
+                                        kann ist mir noch nicht klar. Dazu ein deutsches oder rather
+                                        norddeutsches Parlament über dessen etwaige Stellung oder
+                                        Befugnisse wenigstens Herr <persName key="pdrPo.001.004.000001443">Eulenburg</persName>
+                                        sich entschieden geweigert hat die geringste Auskunft zu
+                                        geben – das sind schon ganz hübsche Aussichten auf baldigen
+                                        Krawall. <persName key="pdrPo.001.004.000000441">Bismark</persName> selbst wird gewiß Streit zu
+                                        vermeiden suchen, so dumm ist er nicht, aber das alte
+                                        hohenzollernsche Vieh geräth sicher hinein &amp; dann wird
+                                        er sich wundern über seine <seg type="comment"><orig>intelligenten Bajonette.</orig><note xml:id="fb233438-29d1-45df-9f40-3e179123eeab">Der
+                                                  Ausdruck „bajonettes intelligentes“ wird dem
+                                                  französischen General Nicolas <persName key="pdrPo.001.004.000000863">Changarnier</persName>  zugeschrieben. Er lehnte
+                                                  1849 die Forderung, die Konstituierende
+                                                  Nationalversammlung gegen einen drohenden
+                                                  bonapartistischen Staatsstreich durch Truppen zu
+                                                  schützen, ab, indem er erklärte, er möge keine
+                                                  „bajonettes intellgentes“, d.h. Soldaten, welche
+                                                  nachdenken und sich in ihren Handlungen von
+                                                  politischen Motiven leiten
+                                        lassen.</note></seg></p><p sameAs="MBTextmitEinzug">Daß es bald wieder ans Haun geht ist klar genug. Ich glaube es wird mit
+                                        den Franzosen los gehn. <persName key="pdrPo.001.004.000003392"><expan resp="editor" sameAs="dottet_underline">Bonap<ex>arte</ex></expan></persName> ist
+                                        gescheut genug dies vermeiden zu wollen solange es irgend
+                                        geht, aber die Masse der Franzosen, namentlich der Bourgeois
+                                        mit ihrer Mißgunst gegen jede Stärkung Deutschlands ist doch
+                                        zu bornirt &amp; fanatisch daß ihr die expansion de la
+                                        France qui ne peut avoir lieu que du côté de l’Allemagne,
+                                        jetzt verschlossen ist, &amp; ein Krieg gegen Preußen ist
+                                        auch beim Bauer &amp; dummeren Arbeiter populär; da ist
+                                        nicht zu sagen wie bald es zum Klappen kommt.</p><p sameAs="MBTextmitEinzug"><persName key="ed_z3b_v4n_hz">Wehner</persName> der eben von Hannover
+                                        zurückkommt erzählt mir die Preußischen Offiziere haben sich
+                                        dort schon ebenfalls gründlich verhaßt gemacht, deßgleichen
+                                        die Büreaukraten &amp; Polizisten. </p><p sameAs="MBTextmitEinzug"><pb/>
+          <seg type="comment"><orig>Ich werde dies Jahr auch wohl nicht lange in Deutschland
+              bleiben.</orig><note xml:id="ed7465d7-c7d0-4b8f-9b6a-d7b144a87d0c">Engels besuchte
+              Deutschland Ende August/Anfang September 1866 (<ref target="B00161">Friedrich Engels
+                an Emil Engels,
+                23.8.<?oxy_comment_start author="reichhoff" timestamp="20170502T104531+0200" comment="{{Br. 157.8}}"?>1866<?oxy_comment_end?></ref>).
+              Siehe auch <ref target="B00160/#start_krh_d3n_tz">Elisabeth Engels an Friedrich
+                Engels,
+                23.8.<?oxy_comment_start author="reichhoff" timestamp="20170502T104821+0200" comment="{{Br. 156.23–28}}"?>1866<?oxy_comment_end?></ref>).
+                <ref target="B00176">Ende September 1866 schrieb Marx ihm dann wieder nach
+                Manchester</ref><?oxy_comment_start author="reichhoff" timestamp="20170405T191208+0200" comment=" ({{Br. 171}})"?>.<?oxy_comment_end?></note></seg>
+          Im Norden der Duft der Sieger, im Süden das Gebrüll der für den <seg type="comment"><orig>Kurfürsten von Hessen</orig><note xml:id="njf5_yrs_gz"><persName key="pdrPo.001.004.000001666">Friedrich Wilhelm_I.</persName>
+            </note></seg> begeischterten Republikaner, wo soll man da hin? Ich werde suchen auf
+          Umwegen in den Harz zu kommen, da gibt es glücklicher Weise keine Garnisonen.</p><p sameAs="MBTextmitEinzug">Die <choice>
+                                                <sic>Kölnische</sic>
+                                                <corr cert="high">„Kölnische</corr>
+                                        </choice>
+                                        <bibl sameAs="zzKZ">Zeitung“</bibl> zetert jetzt mit
+                                        geiferndem Maul für Ausschluß von Süddeutschland. Es ist
+                                        dies die von <persName key="pdrPo.001.004.000000441">Bismark</persName>
+                                        ausgetheilte Parole um dem <persName key="pdrPo.001.004.000003392">Bonap.</persName> seinen Rückzug zu erleichtern,
+                                        &amp; die <bibl sameAs="zzKZ">Kölnische</bibl> poltert mit
+                                        einem so wahnsinnigen Eifer in dieser Richtung daß man den
+                                        ganzen Kram sofort durchschaut. Gemeiner wie dies Blatt hat
+                                        sich noch keins benommen. Aus der heftigsten
+                                        Friedensschreierei sprang sie um, als sie sah daß Bismark
+                                        sich nicht irre machen ließ, mit der Phrase: Oestreich will
+                                        den Krieg! Jetzt draufgehaun! &amp; ist seitdem zwar nicht
+                                        dem Geschick, aber dem guten Willen nach <persName key="pdrPo.001.004.000000441">Bismarks</persName> beste Freundin
+                                        gewesen. Es ist ein Hundeblatt.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Wenn die neue von einem Amerikaner der <expan resp="editor" sameAs="dottet_underline">hies<ex>igen</ex></expan> Regierung
+              vorgelegte Hinterladungsflinte die <persName key="ed_ebn_3cq_fz">Snider</persName>-<?oxy_comment_start author="lindenberg" timestamp="20170320T131141+0100" comment="Registerauszeichnung gelöscht, keine Person:
+Die Enfield Rifled Musket ist der erste gezogene Vorderlader einer europäischen Armee, der für alle Truppenteile vom britischen Board of Ordnance (BO) 1852 angenommen wurde. Der Namensbestandteil „Enfield“ rührt daher, dass die Royal Small Arms Factory nach einem Brand ihre Fertigungsstätten vom Tower of London nach Enfield verlagerte. Die Enfield Rifled Musket war die erste Waffe aus Enfield-Fertigung."?>Enfield<?oxy_comment_end?>
+              ist, so ist sie nicht viel werth. Es muß aber wohl eine andre sein, von der Du
+              sprachst.</orig><note xml:id="nejm_gss_gz">Siehe <ref target="B00133/#start_v42_53n_tz">Marx an Engels,
+                7.7.<?oxy_comment_start author="reichhoff" timestamp="20170502T104934+0200" comment="{{Br. 129.85–90}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          Übrigens ist wenig daran gelegen, über den schon mit dem Zündnadelgewehr erreichten Grad
+          hinaus, rascher zu schießen, da sich der Unterschied in der Praxis fast auf Null reduzirt,
+          dagegen wird große Präzision &amp; Scharfschießen jetzt immer wichtiger. Ich lese mal
+          wieder <seg type="comment"><orig>die <persName key="pdrPo.001.004.000001914">Griesheimsche</persName> Taktik</orig><note xml:id="nufk_4ss_gz">Gustav von
+              Griesheim: Vorlesungen über die Taktik. Berlin 1855.
+              (((lGriesheim,Gustav_von:Vorlesungen über die Taktik. Berlin 1855)))</note></seg>
+          durch – wie veraltet da jetzt schon fast Alles ist!</p><p sameAs="MBTextmitEinzug">Beste Grüße an die ladies</p><closer sameAs="MBUnterschrift">Dein<lb/>F. E. </closer></div></body></text></TEI>

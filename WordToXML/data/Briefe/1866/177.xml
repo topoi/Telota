@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00182" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>177</idno>Friedrich Engels an Karl Marx in London.
+                                        Manchester, Freitag, 5. Oktober 1866</title>
+                        </titleStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>IISG</institution>
+                                                <collection>Marx-Engels-Nachlass</collection>
+                                                <idno><idno type="shelfmark">D 1621/D III
+                                                  391</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Bogen mittelstarkem,
+                                                  weißem Papier im Format
+                                                  230&#160;×&#160;180&#160;mm. Wasserzeichen: „A
+                                                  Pirie &amp; Sons 1865“. Prägung: „London
+                                                  Superfine“ und ein Wappenschild. Die ersten drei
+                                                  Seiten hat Engels vollständig beschrieben, die
+                                                  vierte ist leer. Schreibmaterial: schwarze
+                                                  Tinte.</p>
+                                                <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand: Numerierung der
+                                                  beschriebenen Seiten: „319,1“ bis „319,3“ bzw.
+                                                  „49,1“ bis „49,3“ (gestrichen).<?oxy_comment_start author="lindenberg" timestamp="20170424T171354+0200" comment="Von Eduard Bernsteins Hand: Numerierung des Briefes bzw. der beschriebenen Seiten: „319,1“ bis „319,3“ bzw. „49,1“ bis „49,3“ (gestrichen)"?>
+                                                  <?oxy_comment_end?>Redaktionelle Vermerke.</p>
+                                                <p>Von Heinrich Dietz’ Hand: Numerierung des
+                                                  Briefes: „869“ (gestrichen).</p>
+                                                <p>Von unbekannter Hand: der Bleistiftvermerk auf
+                                                  der ersten Seite oben links: „Sch[uster]“.<?oxy_comment_start author="lindenberg" timestamp="20170424T171426+0200" comment="Von unbekannter Hand: der Bleistiftvermerk auf der ersten Seite oben links: „Sch[uster]“. [III/12, Br. 404]"?>
+                                                  <?oxy_comment_end?></p>
+                                                <p/>
+                                        </physDesc>
+                                        <additional>
+                                                <listBibl>
+                                                  <bibl>RGASPI f. 1 op. 1 d. 1999</bibl>
+                                                </listBibl>
+                                        </additional>
+                                </msDesc>
+                                <listWit>
+                                        <witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913).
+                                                  S.&#160;349–351.</bibl></witness>
+                                </listWit>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                                        <placeName>Manchester</placeName>
+                                        <date when="1866-10-05"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName>London</placeName>
+                                </correspAction>
+                                <note>Engels beantwortet <ref target="B00181">Marx' Brief vom
+                                                3.&#160;Oktober
+                                        1866</ref><?oxy_comment_start author="roth" timestamp="20170608T192430+0200" comment="(Br. 176)"?>.<?oxy_comment_end?></note>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:40:03Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingAct">
+                                <opener><dateline sameAs="MBDatumszeile"><pb/> Mchr 5. Octbr
+                                                1866.</dateline><salute sameAs="MBAnrede">Lieber
+                                                Mohr</salute></opener>
+                                <p sameAs="MBTextohneEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_ydw_mrk_5z"/><orig>Die Naivetät, Wechsel auf sich laufen zu
+                                                  haben &amp; den Betrag nicht zu wissen, erheitert
+                                                  mich; indeß ists gut daß die Differenz nicht
+                                                  größer &amp; der gute Bäcker in der Nähe
+                                                  war.</orig><note xml:id="a21f366f-6695-4e39-888e-f914ef534ffe">Siehe <ref target="B00181/#start_hmy_f3c_5z">Marx
+                                                  an Engels,
+                                                  3.10.<?oxy_comment_start author="reichhoff" timestamp="20170504T121849+0200" comment="{{Br. 176.3–20}}"?>1866<?oxy_comment_end?></ref>.</note></seg><anchor type="verweisziel" xml:id="start_vf3_dlk_5z"/>
+                                        <seg type="comment"><orig>Damit Du diesem braven Mann
+                                                  sogleich das Betreffende zurückzahlen &amp; so den
+                                                  Credit erhalten kannst, lege ich Dir £&#160;5.–
+                                                  I/F 59&#160;667 Mchr 30&#160;Jan. 65
+                                                  bei</orig><note xml:id="d970b41b-543b-4629-a8b6-224c9054bc51">Siehe auch <ref target="B00189">Marx an Engels,
+                                                  8.11.<?oxy_comment_start author="reichhoff" timestamp="20170504T142114+0200" comment="{{Br. 184.3–5}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        sowie den <del> andern <sic ana="#break-off"/></del>
+                                        bezahlten Wechsel retour.<anchor type="verweisziel" xml:id="stop_vf3_dlk_5z"><anchor type="verweisziel" xml:id="stop_ydw_mrk_5z"/></anchor></p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_hkd_bkn_tz"/><orig>Ad vocem <persName key="ed_mly_4vn_hz">Trémaux</persName>. Als ich Dir
+                                                  schrieb</orig><note xml:id="nbqm_5gs_3z">Siehe
+                                                  <ref target="B00149/#ncfd_nts_gz">Erl. zu Marx an
+                                                  Engels,
+                                                  7.8.<?oxy_comment_start author="reichhoff" timestamp="20170519T125125+0200" comment="{{Erl._145d}}"?>1866<?oxy_comment_end?></ref>
+                                                  und <ref target="B00180">Engels an Marx,
+                                                  2.10.<?oxy_comment_start author="reichhoff" timestamp="20170504T152930+0200" comment="{{Br._175.10–29}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        hatte ich allerdings erst den dritten Theil des Buchs
+                                        gelesen, &amp; zwar den schlechtesten (im Anfang). Das
+                                        zweite Drittel, die Kritik der Schulen ist weit besser, das
+                                        dritte, die Consequenzen, wieder sehr schlecht. Der Mann hat
+                                        das Verdienst, den Einfluß des „Bodens“ auf die Racen- &amp;
+                                        folgerichtig auch Species-Bildung mehr hervorgehoben zu
+                                        haben als <del rendition="#s">daß</del>
+                                        <sic ana="#break-off"/> dies bisher geschehen ist, &amp;
+                                        zweitens über die Wirkung der Kreuzung richtigere (obwohl
+                                        meiner Ansicht nach auch sehr einseitige) Ansichten als
+                                        seine Vorgänger entwickelt zu haben. <del rendition="#s">(was das<sic ana="#break-off"/></del>
+                                        <persName key="pdrPo.001.004.000001091">Darwin</persName>
+                                        hat nach <hi rendition="#u">einer</hi> Seite hin in seinen
+                                        Ansichten über den <hi rendition="#u">verändernden</hi>
+                                        Einfluß der Kreuzung auch Recht wie dies <persName key="ed_mly_4vn_hz">Tr.</persName> übrigens
+                                        stillschweigend anerkennt, indem er wo es ihm convenirt, die
+                                        Kreuzung auch als Mittel der Veränderung behandelt, wenn
+                                        auch als schließlich ausgleichendes. Ebenso hat <persName key="pdrPo.001.004.000001091">Darwin</persName>
+                                        &amp; Andere den Einfluß des Bodens nie verkannt, &amp; wenn
+                                        sie ihn nicht speciell hervorhoben so geschah es weil sie
+                                        nichts davon wußten <hi rendition="#u">wie</hi> dieser Boden
+                                        wirkt – ausgenommen daß fruchtbarer günstig, unfruchtbarer
+                                        ungünstig wirkt. Und viel mehr weiß <persName key="ed_mly_4vn_hz">Tr.</persName> auch nicht. Die
+                                        Hypothese daß der Boden überhaupt günstiger für Entwicklung
+                                        höherer Species werde im Verhältniß wie er neueren
+                                        Formationen angehört, hat etwas ungeheuer plausibles, &amp;
+                                        kann oder kann nicht richtig sein, wenn ich aber sehe mit
+                                        welchen lächerlichen Beweisstücken <persName key="ed_mly_4vn_hz">Tr.</persName> sie zu belegen
+                                        sucht, von denen 9/10 auf unrichtigen oder verdrehten
+                                        Thatsachen <pb/> beruhen &amp; das letzte 1/10 nichts
+                                        beweist, so kann ich nicht umhin auch von dem Urheber der
+                                        Hypothese her auf diese selbst meinen großen Verdacht zu <subst>
+                                                <del>haben</del>
+                                                <add>werfen</add>
+                                        </subst>. Wenn er aber nun weiter den Einfluß des jüngeren
+                                        oder älteren Bodens, corrigirt durch die Kreuzung, für die
+                                                <hi rendition="#u">alleinige</hi> Ursache der
+                                        Veränderungen organischer Species resp. Racen erklärt, so
+                                        sehe ich platterdings keinen Grund dem Manne soweit zu
+                                        folgen, im Gegentheil sehr viele Einwände dagegen.</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Du sagst
+                                                  <persName key="pdrPo.001.004.000001060">Cuvier</persName> habe auch den deutschen
+                                                  Naturphilosophen Unkenntniß der Geologie
+                                                  vorgeworfen als sie die Veränderlichkeit der
+                                                  Species behaupteten, &amp; sie hätten doch Recht
+                                                  behalten.</orig><note xml:id="nmht_dhs_3z">Siehe
+                                                  <ref target="B00181/#nyn1_x2s_3z">Erl. zu Marx an
+                                                  Engels,
+                                                  3.10.<?oxy_comment_start author="reichhoff" timestamp="20170519T125414+0200" comment="{{Erl._176e}}"?>1866<?oxy_comment_end?></ref>
+                                                  und <ref target="B00181/#start_qzp_rjn_tz">Marx an
+                                                  Engels,
+                                                  3.10.<?oxy_comment_start author="reichhoff" timestamp="20170504T153239+0200" comment="{{Br. 176.25–29}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        Die Sache hatte aber damals mit der Geologie nichts zu thun;
+                                        wenn aber Jemand eine auf <hi rendition="#u">Geologie
+                                                ausschließlich</hi> begründete Theorie der
+                                        Speciesveränderung aufstellt &amp; doch solche geologische
+                                        Schnitzer macht, die Geologie ganzer Länder (z.&#160;B.
+                                        Italiens &amp; selbst Frankreichs) <hi rendition="#u">verfälscht</hi> &amp; den Rest seiner Beispiele aus
+                                        denjenigen Ländern zieht von deren Geologie wir so gut wie
+                                        gar nichts wissen (Africa, Centralasien &amp;c.) so ist das
+                                        doch ganz etwas Anderes. Was speciell die ethnologischen
+                                        Exempel angeht, so sind diejenigen die überhaupt von
+                                        bekannten Ländern &amp; Völkern handeln, fast ohne Ausnahme
+                                        falsch, entweder die geologischen Prämissen oder die daraus
+                                        gezogenen Schlüsse – &amp; die vielen entgegenstehenden
+                                        Exempel läßt er ganz aus, z.&#160;B. die Alluvialebenen im
+                                        innern Sibirien, das enorme Alluvialbassin des
+                                        Amazonenflusses, das ganz alluviale Land südwärts vom
+                                        Laplata bis beinahe an die Südspitze Amerikas (östlich von
+                                        den Cordilleren).</p>
+                                <p sameAs="MBTextmitEinzug">Daß die Geologische Structur des Bodens
+                                        mit dem „Boden“ worauf überhaupt etwas wächst, sehr viel zu
+                                        thun hat, ist eine alte Geschichte, ebenso daß dieser
+                                        vegetationsfähige Boden auf die Pflanzen- &amp; Thierracen
+                                        die darauf leben einen Einfluß übt. Daß dieser Einfluß
+                                        bisher sogut wie gar nicht untersucht worden ist, ist auch
+                                        richtig. Aber von <subst>
+                                                <del>daher</del>
+                                                <add>da</add>
+                                        </subst> bis zu der Theorie <persName key="ed_mly_4vn_hz">Tremaux</persName> ist ein kolossaler Sprung. Es
+                                        ist jedenfalls ein Verdienst diese bisher vernachlässigte
+                                        Seite hervorgehoben zu haben <pb/> &amp; wie gesagt die
+                                        Hypothese von dem entwicklung-<hi rendition="#u">fördernden</hi> Einfluß des Bodens im Verhältniß je
+                                        nachdem er geologisch älter oder neuer ist mag <hi rendition="#u">innerhalb gewisser Gränzen</hi>
+                                        richtig sein (oder auch nicht), aber alle weiteren Schlüsse
+                                        die er zieht halte ich für entweder total unrichtig oder
+                                        heillos einseitig übertrieben.<anchor type="verweisziel" xml:id="stop_hkd_bkn_tz"/></p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_eyq_wnw_tz"/>Das
+                                                  Buch von <persName key="pdrPo.001.004.000003253">Moilin</persName></orig><note xml:id="f71c681e-fd40-4b24-a6ef-a4402e9283f7">Siehe <ref target="B00155/#a68bf500-67f0-47d6-835a-d1768be5a5d0">Erl. zu Marx an Engels,
+                                                  13.8.<?oxy_comment_start author="reichhoff" timestamp="20170519T125632+0200" comment="{{Erl._151g}}"?>1866<?oxy_comment_end?>.</ref><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></note></seg><?oxy_custom_end?>
+                                        hat mich namentlich wegen der von den Franzosen durch
+                                        Vivisection erlangten Resultate sehr interessirt; es ist der
+                                        einzige Weg die Functionen bestimmter Nerven &amp; die
+                                        Wirkungen ihrer Störung festzustellen, die Kerle scheinen
+                                        die Thierquälerei bis zu einem hohen Grad der
+                                        Vervollkommnung gebracht zu haben, &amp; ich kann mir die
+                                        heuchlerische Wuth der Engländer gegen Vivisection sehr gut
+                                        erklären, diese Experimente kamen den schlafmützigen Herren
+                                        hier gewiß oft sehr unangenehm &amp; warfen ihre
+                                        Speculationen um. Was sonst Neues in der Theorie der
+                                        Entzündungen ist kann ich nicht beurtheilen <seg type="comment"><orig>(ich will <persName key="pdrPo.001.004.000001969">Gumpert</persName>
+                                                  das Buch geben),</orig><note xml:id="nccm_lhs_3z">Siehe Marx an Engels, 19. Januar 1867 (IISG,
+                                                  Marx-Engels-Nachlass, Sign. L 4470/L VI 603).
+                                                  (((lMarx an Engels, 19. Januar 1867 (IISG,
+                                                  Marx-Engels-Nachlass, Sign. L 4470/L VI 603)
+                                                  )))</note></seg> doch scheint diese ganze neue
+                                        franz. Schule einen gewissen burschikosen Charakter zu
+                                        haben, gern viel zu behaupten &amp; es mit dem Beweisen
+                                        leichter zu nehmen. Was die Medicamente betrifft, so ist
+                                        nichts darin was nicht jeder vernünftige deutsche Arzt auch
+                                        weiß &amp; annimmt; <expan resp="editor" sameAs="dottet_underline"><persName key="pdrPo.001.004.000003253">M<ex>oilin</ex></persName></expan> vergißt bloß,
+                                        daß man 1)&#160;oft genöthigt ist das kleinere Übel, die
+                                        Medicin, zu wählen, um das größere zu entfernen, nämlich ein
+                                        Symptom das durch sich selbst eine directe Gefahr erzeugt,
+                                        ebenso gut wie man chirurgisch auch Gewebe zerstört wo es
+                                        nicht anders angeht, &amp; 2)&#160;daß man sich eben an die
+                                        Medicamente halten muß solange man nichts Besseres hat.
+                                        Sobald <persName key="pdrPo.001.004.000003253">M.</persName>
+                                        mit seiner Elektricität die Syphilis curiren kann wird das
+                                        Quecksilber bald verschwinden, bis dahin aber
+                                                schwerlich.<anchor type="verweisziel" xml:id="stop_eyq_wnw_tz"/> Übrigens soll mir kein
+                                        Mensch mehr davon sprechen daß die Deutschen das
+                                        „Construiren“ von Systemen allein könnten, the French beat
+                                        them hollow at that.</p>
+                                <p sameAs="MBTextmitEinzug">Beste Grüße</p>
+                                <closer sameAs="MBUnterschrift">Dein<lb/>F. E. </closer>
+                        </div>
+                </body>
+        </text>
+</TEI>

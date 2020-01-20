@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00116" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>112</idno>Wilhelm Liebknecht an Karl Marx in London. Leipzig, Freitag, 25. Mai 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 1658</idno></idno></msIdentifier><physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            285&#160;×&#160;224&#160;mm. Die ersten zwei Seiten hat Liebknecht
+                            vollständig beschrieben, die dritte zu zwei Dritteln, die vierte ist
+                            leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von unbekannter Hand (vermutlich von D. B.
+                            <?oxy_comment_start author="strauss" timestamp="20170614T163325+0200" comment="(((nRjazanov,D.B.)))"?>Rjazanov<?oxy_comment_end?>):
+                            auf der ersten Seite oben in der Mitte mit Blaustift die Jahresangabe
+                            „1866“, korrigiert in „1865“.</p>
+                        <p>Die Datierung stützt sich auf den Zusammenhang des Briefes mit
+                            Liebknechts Brief an Marx vom 5.&#160;Juni 1866 (W. Liebknecht an Marx,
+                            5.6.1866). Im vorliegenden Brief schreibt er über die bevorstehenden
+                            Propagandareise durch Sachsen („I have to start ...“), am 5.&#160;Juni
+                            1866 berichtet Liebknecht, dass er „Last Saturday“, also am
+                            2.&#160;Juni, in Chemnitz aufgetreten sei. „Friday“ (siehe die
+                            Datumszeile) eine Woche vor dem 2.&#160;Juni 1866 war der 25.&#160;Mai
+                            1866.</p>
+                        <p>Vermutlich beantwortet Liebknecht einen nicht überlieferten Brief von
+                            Marx, geschrieben zwischen 15. und 25.&#160;Mai 1866 („With your last
+                            letter“ und
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Liebknecht
+                            an Marx, zwischen 8. und 15.&#160;Mai 1866).<?oxy_custom_end?></p>
+                    </physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002822">Wilhelm Liebknecht</persName><placeName>Leipzig</placeName><date when="1866-05-25"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:25Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Friday.</dateline><salute sameAs="MBAnrede">Dear Williams!</salute></opener><p sameAs="MBTextohneEinzug"><anchor type="verweisziel" xml:id="start_pjf_dkl_qz"/>Please send <seg type="comment"><orig>the cards.<anchor type="verweisziel" xml:id="stop_pjf_dkl_qz"/></orig><note xml:id="fd4d61fd-516e-4c75-8b9a-d76a4a60ecc8">Siehe <ref target="B00011/#cb864592-8d8a-4a93-b073-8383b8d607bc">Erl. zu Marx an
+                                W. Liebknecht,
+                                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170512T120758+0200" comment="{{Erl. 10c}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00107">W. Liebknecht an Marx, zwischen 8. und
+                                15.5.<?oxy_comment_start author="reichhoff" timestamp="20170420T143306+0200" comment="{{Br. 103.5–10}}"?>1866<?oxy_comment_end?></ref>.
+                            (((lInternational Working Men’s Association. Member’s Annual
+                            Subscription Card [for 1866]. [London_1865]. In: MEGA²&#160;I/20.
+                            S.&#160;817)))</note></seg>
+                    <seg type="comment"><orig><hi rendition="#u">All</hi> the leading men of the <hi rendition="#u">Workmen's Societies</hi> here are ready to become
+                            members, and as I have to start this day week for a propagandistic tour
+                            through Saxony</orig><note xml:id="npbq_41g_2z">Marx verlas die
+                            Information über die Bereitschaft der sächsischen Arbeiter, der IAA
+                            beizutreten in der Sitzung ihres Zentralrats am 12.&#160;Juni 1866
+                            (siehe The_Minute Book 1864–1866. In: MEGA²&#160;I/20. S.&#160;423.4–5).
+                            (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20. S._265–450))) Er
+                            könnte dabei auch noch Angaben aus <persName key="pdrPo.001.004.000002822">Liebknechts</persName> späteren Brief
+                            vom 5.&#160;Juni (<ref target="B00119">W. Liebknecht an Marx,
+                                5.6.<?oxy_comment_start author="reichhoff" timestamp="20170420T144202+0200" comment="{{Br. 115.9–13}}"?>1866<?oxy_comment_end?></ref>)
+                            benutzt haben.</note></seg> (for short hours and against the labour of
+                    children in mills) I should like to have the cards at <hi rendition="#u">the
+                        latest </hi><seg type="comment"><orig><hi rendition="#u">on Thursday</hi>
+                            next.</orig><note xml:id="f5e6afaa-5404-488f-b50c-5447dea84905">31.&#160;Mai 1866.</note></seg> I shall lecture about the I.W.A.
+                    Everything so far is going splendidly; I have been denounced as “Republican”,
+                    “Communist” etc. but I have crushed all opposition, and <seg type="comment"><orig>the “Gotha<hi rendition="#u">n</hi>er”</orig><note xml:id="c0a50206-8d39-4240-add7-1df8139bd92d">Die Gothaer (auch
+                            Gothaner), benannt nach dem Tagungsort jener etwa 150 liberalen, meist
+                            erbkaiserlichen Mitglieder der Frankfurter Nationalversammlung, die sich
+                            vom 25.–27._Juni 1849 in Gotha trafen (Gothaer
+                        Nachparlament).</note></seg> of Leipzig will never dare to show their faces
+                    again before a public meeting. Unfortunately they have the <hi rendition="#u">police</hi> here, and seem bent to give me trouble. However as I have been
+                    highly praised in—<seg type="comment"><orig>the <hi rendition="#u">official</hi>
+                            Leipziger Zeitung</orig><note xml:id="b300c3b6-ca05-4ba7-b9f5-9dea54fa2a97">„Leipziger Zeitung.
+                            Amtsblatt des Königlichen Landgerichts und des Königlichen Amtsgerichts
+                            Leipzig sowie der Königlichen Amtshauptmannschaft Leipzig“.
+                            (((zLeipziger_Zeitung;1810–1918))) </note></seg><index indexName="XE">
+                        <term>zzLeipziger Zeitung</term>
+                    </index> for <seg type="comment"><orig>my late attack</orig><note xml:id="nyqs_x3l_2z">Siehe Leipzig, 10._Mai. In: Leipziger Zeitung.
+                            Nr._110, 11._Mai 1866. S._6–7. (((lLeipzig, 10._Mai. In: Leipziger
+                            Zeitung. Nr._110, 11._Mai 1866. S._6–7)))</note></seg> on the <seg type="comment"><orig>“Preuss. Spitze”</orig><note xml:id="nypt_z3l_2z">Preußische Spitze – Die Führung Preußens bei einer Einigung
+                            Deutschlands, ohne Österrreich (kleindeutscher Weg).</note></seg> I need
+                    not fear them much for the present.</p><p sameAs="MBTextmitEinzug">When you have finished <seg type="comment"><orig>your work</orig><note xml:id="dc3a5a1e-2465-464f-9b99-fd059bafe802">Gemeint ist hier Karl
+                            Marx: Das Kapital; siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an
+                                J. Ph. Becker, zwischen 9. und
+                                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170512T121334+0200" comment="{{Erl. 6b}}"?>1866<?oxy_comment_end?>.</ref>
+                            (((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg> you <hi rendition="#u">must</hi> come to Germany, either for good, or at least for a
+                    series of lectures in the principal Societies.</p>
+                                                  <anchor type="verweisziel" xml:id="start_wwc_tcy_pz"/><p sameAs="MBTextmitEinzug">And now the most important. <hi rendition="#u">Most likely </hi><seg type="comment"><orig><hi rendition="#u">we</hi>
+                            <hi rendition="#uu">shall</hi> be able to start a (small) daily paper
+                            from July the first.</orig><note xml:id="npg1_skl_2z">Siehe <ref target="B00107">W. Liebknecht an Marx, zwischen 8. und
+                                15.5.<?oxy_comment_start author="reichhoff" timestamp="20170420T144327+0200" comment="{{Br. 103.12–14}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00107/#e33a4f20-560e-4751-bfa6-23082a56d336">Erl. zu W.
+                                Liebknecht an Marx, zwischen 8. un d
+                                15.5.<?oxy_comment_start author="reichhoff" timestamp="20170512T121634+0200" comment="{{Erl._103g}}"?>1866<?oxy_comment_end?>.</ref>
+                            - Die erste Nummer der „Mitteldeutschen Volks-Zeitung“ (Leipzig) unter
+                            Liebknechts Leitung erschien erst Anfang August 1866. Siehe auch <ref target="B00151">W. Liebknecht an Marx,
+                                10.8.<?oxy_comment_start author="reichhoff" timestamp="20170420T154716+0200" comment="{{Br. 147.3–15.}}"?>1866<?oxy_comment_end?></ref>
+                            (((zMitteldeutsche Volks-Zeitung))) </note></seg> All <hi rendition="#u">democratic</hi> shades of opinion down to the “Jacobytes” would be
+                    represented, but <hi rendition="#u">we</hi> should play the first fiddle (I am
+                    to be Editor) and as the “social <pb/> question” will form the foremost topic,
+                    it would be necessary, for you and <expan resp="editor" sameAs="dottet_underline">Eng<ex>els</ex></expan> to send us an <expan resp="editor" sameAs="dottet_underline">art<ex>icle</ex></expan>
+                    <hi rendition="#u">now and then</hi>; and <persName key="pdrPo.001.004.000001296"><expan resp="editor" sameAs="dottet_underline">Eccarius</expan></persName> would have to take the Lond. <expan resp="editor" sameAs="dottet_underline">corr<ex>espondence</ex></expan> (if
+                    possible) of course for a “consideration”, though a small one. The moment is
+                    most favourable. The “Soc. Dem.<bibl sameAs="zzSD">”</bibl> at its last gasp,
+                    the <hi rendition="#u">pseudo</hi>-“democratic” paper of Leipzig bankrupt—and
+                    then the political and social excitement throughout Germany, in short I think
+                    there has never been a better time to found a paper with little money.<anchor type="verweisziel" xml:id="stop_wwc_tcy_pz"/></p><p sameAs="MBTextmitEinzug">Tell me your opinion, and then I shall write more.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>The “<bibl sameAs="zzThe Commonwealth">Commonwealth”</bibl> has <hi rendition="#u">not</hi> arrived.</orig><note xml:id="c1d2fa75-9ebb-4c39-a511-a23ad93a52b0">Siehe <ref target="B00106/#start_uts_wby_pz">Marx
+                                                  an W. Liebknecht,
+                                                  4.5.<?oxy_comment_start author="reichhoff" timestamp="20170420T155045+0200" comment="{{Br. 102.6}}"?>1866<?oxy_comment_end?></ref>
+                                                  und <ref target="B00107">W. Liebknecht an Marx,
+                                                  zwischen 8. und
+                                                  15.5.<?oxy_comment_start author="reichhoff" timestamp="20170420T155153+0200" comment="{{Br. 103.27}}"?>1866<?oxy_comment_end?></ref>.
+                                                  (((zThe_Commonwealth))) </note></seg> Please send
+                                                  me the <hi rendition="#u">two</hi> last numbers.
+                                                  If the Newspaperproject gets realised I shall <hi rendition="#u">subscribe</hi> for the C. at the
+                                                  Postoffice. But till then I should like very much
+                                                  to receive it regularly through you.</p><p sameAs="MBTextmitEinzug">A propos, the cards, that I shall dispose of, will <hi rendition="#u">mostly</hi> be paid for, and you will get the money. Two thalers I owe you already, but——</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>In a few days I shall publish (in several papers) a short notice about
+                                                  “Herr Vogt” and mention a firm, where it may be
+                                                  had.</orig><note xml:id="f9efa904-7114-4aec-8cf0-51195cfbf10a">
+                                                  <p rend="endnote text">Karl Marx: Herr Vogt.
+                                                  London 1860. (MEGA²&#160;I/18. S.&#160;51–339).
+                                                  (((lMarx,Karl: Herr Vogt. London 1860.
+                                                  (MEGA²&#160;I/18. S.&#160;51–339) ))) - Im August
+                                                  1864 hatte <persName key="pdrPo.001.004.000002822">Liebknecht</persName> von Marx 306&#160;Exepmlare
+                                                  dieser Schrift zur Verbreitung erhalten (ebenda.
+                                                  S.&#160;692). Ob <persName key="pdrPo.001.004.000002822">Liebknecht</persName> die erwähnten Notizen
+                                                  verfasst und veröffentlich hatte, war nicht zu
+                                                  ermitteln.</p>
+                                                  </note></seg> The book is in the hands of <hi rendition="#u">many</hi> leading politicians already, and will <hi rendition="#u">sell</hi> well now, I am sure.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Your Brumaire is in safe keeping, and I still hope to get it printed
+                                                  somewhere in South Germany.</orig><note xml:id="b831ccc1-fc08-4fcd-9e26-5de0065278fe">
+                                                  <p rend="endnote text">Karl Marx: Der 18te
+                                                  Brumaire des Louis Napoleon. In: Die Revolution.
+                                                  New-York 1852. H.&#160;1 (MEGA² I/11.
+                                                  S.&#160;96–189). (((lMarx,Karl:_Der 18te Brumaire
+                                                  des Louis Napoleon. In: Die Revolution. New-York
+                                                  1852. H.&#160;1 (MEGA²&#160;I/11.
+                                                  S.&#160;96–189))) ) - Zu <persName key="pdrPo.001.004.000002822">Liebknechts</persName> Versuchen, diese Schrift
+                                                  neu zu veröffentlichen siehe MEGA²&#160;III/13.
+                                                  Br.&#160;52.21–23 und Erl., Br._58.61 sowie
+                                                  Br._212.22–24 und Erl. Das Vorhaben kam nicht
+                                                  zustande. Eine neue Ausgabe erschien erst 1869 im
+                                                  Verlag von Otto Meißner: Karl Marx: Der Achtzehnte
+                                                  Brumaire des Louis Bonaparte. 2.&#160;Ausg.
+                                                  Hamburg 1869. Siehe dazu MEGA²&#160;I/11.
+                                                  S.&#160;696–699 und 705. (((lMarx,Karl:_Der
+                                                  Achtzehnte Brumaire des Louis Bonaparte.
+                                                  2.&#160;Ausg. Hamburg_1869))) </p>
+                                                  </note></seg></p><p sameAs="MBTextmitEinzug">With your last letter I did, what you told me.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>The rudera</orig><note xml:id="eae43efa-b87a-4878-8160-c9e6c9518ad9">
+                                                  Rudera – Trümmer (veraltet); nach (lat.) rudus,
+                                                  (Pl.) rudera.</note></seg> of <persName key="pdrPo.001.004.000002711"><expan resp="editor" sameAs="dottet_underline">Lass<ex>alle</ex></expan>'s</persName> “glorious
+                                                  creation” <pb/> have been handed over to <expan resp="editor" sameAs="dottet_underline"><persName key="pdrPo.001.004.000000441">Bism<ex>arck</ex></persName></expan> in optima
+                                                  forma by the old hag. <seg type="comment"><orig><persName key="pdrPo.001.004.000002176"><hi rendition="#u">Hillmann</hi></persName> is now
+                                                  “president”!</orig><note xml:id="b592614f-dcb9-4af0-bbf5-259c8267224d">
+                                                  <persName key="pdrPo.001.004.000002176">Hugo
+                                                  Hillmann</persName> wurde im November 1865 zum
+                                                  Vizepräsidenten und geschäftsführenden Präsidenten
+                                                  des ADAV gewählt. Er blieb, wegen der
+                                                  rechtsunwirksamen Wahl eines anderen Kandidaten,
+                                                  der faktische Präsident bis zum Juni
+                                                  1866.</note></seg> under guidance of the glorious
+                                                  trio: <persName key="pdrPo.001.004.000000586">Brass</persName>, <persName key="pdrPo.001.004.000000441">Bismarck</persName>
+                                                  and <persName key="pdrPo.001.004.000000648">Bucher</persName>, three nice B's!</p><p sameAs="MBTextmitEinzug">In Berlin things are looking <hi rendition="#u">black</hi> for the <expan resp="editor" sameAs="dottet_underline">Governm<ex>ent</ex></expan>. Events may be expected. The misery is terrible.</p><p sameAs="MBTextmitEinzug">Our love and best wishes to all of you.</p><closer sameAs="MBUnterschrift">Your<lb/>Miller.</closer><postscript><p>About <seg type="comment"><orig>the <hi rendition="#u">Geneva</hi> affair</orig><note xml:id="e867dbce-7aaa-41a7-9d78-6afc23f48263"> Der bevorstehende und
+                                verschobene Kongress der IAA in Genf. Siehe <ref target="B00004/#nrk1_sfc_3y">Erl. zu Marx an Engels,
+                                    5.1.<?oxy_comment_start author="reichhoff" timestamp="20170512T121846+0200" comment="{{Erl. 3d}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                        I only know what I wrote you last time. I gave the necessary information to
+                        the <expan resp="editor" sameAs="dottet_underline">B<ex>erlin</ex></expan>
+                        people, who bye the by have a hard stand now. Some will have to fight for
+                        the three Bs. <persName key="pdrPo.001.004.000004034">Rodbertus</persName>,
+                            <persName key="pdrPo.001.004.000005256">Ziegler</persName> and the whole
+                        lot of the friends of <persName key="pdrPo.001.004.000002711">Lassalle</persName> have gone over to (or “rallied round”) the
+                        Government. It was to be expected. Excuse my hurry. I am terribly
+                        overworked. <hi rendition="#u">Take care of your health</hi>. You are
+                        wanted. </p></postscript></div></body></text></TEI>

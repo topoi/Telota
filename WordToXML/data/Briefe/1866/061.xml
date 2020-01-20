@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00065" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>61</idno>Elisabeth Engels an Friedrich Engels in Manchester. Barmen, Freitag, 16. und Samstag, 17. März 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">Standort Orig. nicht bekannt; Kopie: f. 9 op. 1
+                                d. 6/13. Fotosign. 783a–b</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Standort der Originalhandschrift ist gegenwärtig nicht bekannt. Die
+                            Veröffentlichung erfolgt nach einer Fotokopie.</p>
+                        <p>Soweit aus der Kopie zu ersehen ist, besteht der Brief aus einem Bogen,
+                            dessen vier Seiten Elisabeth Engels alle vollständig beschrieben hat.
+                            Die letzte Passage steht auf dem linken Rand der ersten Seite quer. Das
+                            Papier wurde gelocht, die dadurch entstandenen Textverluste konnten
+                            rekonstruiert werden.</p>
+                        <p>Von unbekannter Hand: Nummerierung des Briefes: „783“.</p>
+                        <p>Elisabeth Engels beantwortet einen nicht überlieferten Brief von Engels,
+                            geschrieben vor dem 16.&#160;März 1866 („Es ist schon ziemlich lange
+                            ...“).</p>
+                    </physDesc>
+                </msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                    <persName key="pdrPo.001.004.000001367">Engels, Elisabeth (1797-1873)</persName>
+                    <placeName>Barmen</placeName>
+                    <date from="1866-03-16" to="1866-03-17" cert="high"/>
+                </correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:52Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> Barmen 16 März 1866<lb/>Abends</dateline>
+                    <salute sameAs="MBAnrede">Lieber Friedrich</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug">Es ist schon ziemlich lange daß ich Deinen letzten
+                    Brief erhielt, aber ich konnte bis jetzt gar nicht recht zum schreiben kommen,
+                    sonst hättest Du lange Nachricht von mir, dazu kam noch daß <seg type="comment"><orig><expan resp="editor" sameAs="dottet_underline">Herm<ex>ann</ex></expan></orig><note xml:id="nwx4_3f1_1z"><persName key="pdrPo.001.004.000001375">Hermann
+                            Engels</persName>.</note></seg> Dir einige mal geschrieben hat u. er
+                    wird Dir meine Grüße bestellt haben u. Dir gesagt haben, daß ich nach dem
+                    letzten Krankheits Anfall um Neujahr, eigentlich wohl gewesen bin, zwar komme
+                    ich selten dazu auch nur mal spazieren zu fahren u. Besuche mache ich gar nicht,
+                    aber ich habe vortrefflichen Appetit u. muß mich nur hüten nicht zu viel zu
+                    essen.</p>
+                <p sameAs="MBTextmitEinzug">Also <seg type="comment"><orig>Gottfried</orig><note xml:id="c3067560-cd02-4169-a429-5038a519f2ed"><persName key="pdrPo.001.004.000001409">Gottfried Ermen</persName>.
+                        </note></seg> spekuliert jetzt auch in Bergwerken! Wenn es ihm nicht besser
+                    damit geht wie uns mit unsern Kohlen Zechen, dann wird er nicht reich davon
+                    werden. <pb/> Die Schieferbergwerke sind jetzt ein neuer spekulations Artikel,
+                        <persName key="pdrPo.001.004.000000501">Boellings</persName> sind auch bei
+                    einigen betheiligt doch nicht bei <placeName key="ed_l43_vw1_kz">Caub</placeName>, <seg type="comment"><orig>Fr<supplied cert="high">itz</supplied></orig><note xml:id="d71b278c-bfae-40a6-acc5-8edf056da770"><persName key="pdrPo.001.004.000000501">Friedrich Wilhelm Boelling</persName>.
+                        </note></seg> meinte neulich es sehe bis jetzt noch nicht sehr hoffnungsvoll
+                    damit aus.</p>
+                <p sameAs="MBTextmitEinzug">Wie geht es denn jetzt mit dem Geschäft? Bestellungen
+                    werdet ihr auch wol haben so gut wie hier, aber ob bei der steigenden Baumwolle
+                    dabei verdient wird ist eine andere Frage. <seg type="comment"><orig>Adolf</orig><note xml:id="e09b49c9-a922-4296-b648-7747fc80832c"><persName key="pdrPo.001.004.000001904">Adolf von
+                                Griesheim</persName>. </note></seg> war in der vorigen Woche in
+                    Angelegenheit seiner Eisenbahnlinie in Berlin, damit sieht es auch noch
+                        zweifel<supplied cert="high">ha</supplied>ft aus. <seg type="comment"><orig>Elise</orig><note xml:id="da5d9dd9-cf05-4cb3-a191-20b1282b295a"><persName key="pdrPo.001.004.000001910">Elise von
+                                Griesheim</persName>. </note></seg> u. <seg type="comment"><orig>Lottchen</orig><note xml:id="f2efa676-9873-439b-92a6-184618aa6353"><persName key="pdrPo.001.004.000001365">Charlotte Engels</persName>.
+                        </note></seg> waren vor einigen Wochen auf 8&#160;Tage hier zu Taufe der
+                        <seg type="comment"><orig><expan resp="editor" sameAs="dottet_underline">kl<ex>einen</ex></expan> Hedwig</orig><note xml:id="b5441930-c76f-48bf-b287-d7c003bcdbea"><persName key="ed_fh3_2nh_yx">Hedwig Boelling (jun.)</persName>. Siehe <ref target="B00006/#start_zgp_ycf_4z">E. Engels an Engels,
+                                13.1.<?oxy_comment_start author="reichhoff" timestamp="20170413T104111+0200" comment="{{Br. 5.15–17}}"?>1866<?oxy_comment_end?></ref>.
+                        </note></seg>, die gut zunimmt u sich bis jetzt noch als sehr artig zeigt.
+                        <seg type="comment"><orig>Die Mama Hedwig</orig><note xml:id="f684cd96-16de-406e-af96-3e8e4a40004d"><persName key="pdrPo.001.004.000000502">Hedwig Boelling</persName>.
+                        </note></seg> ist wieder ganz munter u. war so gar kürzlich auf einem Ball. </p>
+                <p sameAs="MBTextmitEinzug"><pb/> Ich weiß nicht ob Du schon weißt, daß der alte
+                    Herr C.&#160;<persName key="pdrPo.001.004.000000266">Bartels</persName>
+                    plötzlich Ende Janr. am Schlag gestorben ist. <seg type="comment"><orig>Das
+                            Brautpaar</orig><note xml:id="nopk_1h1_1z"><persName key="pdrPo.001.004.000000459">Marie Blank (jun.)</persName> und
+                                <persName key="ed_fzq_5lg_yx">Robert Barthels</persName>. Zu ihrer
+                            Verlobung und Hochzeit siehe <ref target="B00006/#start_ush_hdf_4z">E.
+                                Engels an Engels,
+                                13.1.<?oxy_comment_start author="reichhoff" timestamp="20170413T104327+0200" comment="{{Br. 5.18–27}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    ist dadurch in seiner Freude recht gestört, doch ist Marie im Ganzen eine ruhige
+                    Braut aber sehr vergnügt u. glücklich, eine Wohnung ist für August gemiethet u.
+                        <seg type="comment"><orig>Marie senr.</orig><note xml:id="a819e097-eebf-4e4a-b349-0f486267865c"><persName key="pdrPo.001.004.000000460">Marie Blank</persName>. </note></seg>
+                    ist eifrig mit der Aussteuer beschäftigt. <seg type="comment"><orig>Papa
+                            Emil</orig><note xml:id="e50d1b20-4280-4a6c-aa9b-6e1244055347"><persName key="pdrPo.001.004.000000458">Emil Blank</persName>. </note></seg>
+                    hat jetzt 5&#160;Pferde im Stall u. man merkt es überhaupt an Allem daß er gute
+                    Geschäfte macht, er hat seine Fabrik wieder um ein bedeutendes Stück vergrößert
+                    u. eine Dampfmaschine in Betrieb, mit der er wol Litzen macht.</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_xc4_1y3_nz"/><orig>Ich weiß nicht, ob Dir <persName key="pdrPo.001.004.000001375">Hermann</persName> geschrieben hat,
+                            daß Dir Dein Weihnachtsgeschenk gut geschrieben ist.<anchor type="verweisziel" xml:id="stop_xc4_1y3_nz"/></orig><note xml:id="b5110e0c-e828-422c-a2d7-c376ee58a50f">Siehe <ref target="B00018">H. Engels an Engels,
+                                20.1.<?oxy_comment_start author="reichhoff" timestamp="20170413T104513+0200" comment="{{Br. 17.26–27}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    Dann sage ich Dir auch noch meinen Dank für die schönen Weihnachtsgeschenke, die
+                    ihr mir gemacht habt, ich habe 2 schöne Bronce Leuchter, einen warmen
+                    Pelz-Fußsack u. eine schöne seidne Schürze bekommen. </p>
+                <p sameAs="MBTextmitEinzug"><pb/><seg type="comment"><orig>In einigen Tagen wird es
+                            schon 6&#160;Jahr daß uns der <persName key="pdrPo.001.004.000001372">Vater</persName> abgestorben ist</orig><note xml:id="f66aec6f-c44c-494f-8cff-2ec033e57eca"><persName key="pdrPo.001.004.000001372">Friedrich Engels (sen.)</persName> war
+                            am 20.&#160;März 1860 gestorben. </note></seg> u. ich lebe jetzt die
+                    Krankheitstage noch recht alle durch, besonders da der Datum wieder auf
+                    dieselben Tage fällt wie vor 6&#160;Jahren, jedes Wort was er da gesprochen u.
+                    alle die Befürchtungen u. Hoffnungen lebe ich noch mal durch. Ich glaubte damals
+                    nicht, daß ich ihn so viele Jahre überleben würde u. doch kommt es mir jetzt so
+                    kurz vor wie er noch unter uns war. Nun Gott gebe daß wir Alle in der Ewigkeit
+                    wieder zusammen kommen, das erbitte ich täglich von Gott, Er sei auch mit Dir
+                    lieber Friedrich u. sein <expan resp="editor" sameAs="dottet_underline">heil<ex>iger</ex></expan> Geist leite Dich. Die Geschwister sind Alle
+                    gesund u. wenn sie wüßten daß ich Dir schrieb, würden sie mir Grüße
+                    auftragen.</p>
+                <closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u2}</hi>-->Mit treuer
+                    Liebe<lb/>Deine Mutter E. </closer>
+                <postscript>
+                    <p>/ <hi rendition="#u">Sammstag Morgen</hi>
+                        <persName key="pdrPo.001.004.000001375">Hermann</persName> trägt m<supplied cert="high">i</supplied>r eben nebst seinen Grüßen auf D<supplied cert="high">ic</supplied>h zu bitten ihm doch <seg type="comment"><orig>seine Briefe</orig><note xml:id="c036a424-02ac-4e8a-a821-afb909d8c578">Siehe <ref target="B00018">H. Engels an Engels,
+                                    20.1.<?oxy_comment_start author="reichhoff" timestamp="20170316T100756+0100" comment="{{Br. 17}}"?>1866<?oxy_comment_end?>
+                                </ref>und <ref target="B00045">19.2.<?oxy_comment_start author="reichhoff" timestamp="20170316T100942+0100" comment="{{Br._42}}"?>1866<?oxy_comment_end?>
+                                </ref>sowie <ref target="B00074">Engels an H. Engels,
+                                    22.3.1866</ref>
+                                <?oxy_comment_start author="reichhoff" timestamp="20170316T101107+0100" comment="({{Br. 71}})"?>.<?oxy_comment_end?></note></seg>
+                        zu beantworten. /</p>
+                </postscript>
+            </div></body></text></TEI>

@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00072" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>69</idno>Laura Marx an Karl Marx in Margate. London, Dienstag, 20. März 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 6361</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format 267&#160;×&#160;212&#160;mm. Laura Marx hat alle vier Seiten vollständig beschrieben. Schreibmaterial: schwarze Tinte.</p><p>Archivsignatur auf der ersten und zweiten Seite oben links: „G. 64“.</p><p>Marx beantwortet den Brief am 20.&#160;März 1866 (Marx an Laura Marx, 20.3.1866).</p></physDesc></msDesc><listWit><witness><bibl>Erstveröffentlichung: in russischer Übersetzung: Переписка Карла Маркса, Фридриха
+                            Энгельса и членов семьи Маркса (1983). S.&#160;278/279</bibl>.</witness><witness><bibl>in der Sprache des Originals wird der Brief hier erstmals veröffentlicht.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000003076">Laura Marx</persName><placeName>London</placeName><date when="1866-03-20"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>Margate</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:57Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Modena Villas.<lb/>March 20<hi rendition="#sup">th</hi>/66.</dateline><salute sameAs="MBAnrede">My dear Challey,</salute></opener><p rend="MBTextOhneEinzug">It just strikes me that you have had a few lines from each member of this
+                    “happy family” excepting only myself. Now, that you may not think me altogether
+                    a bad lot, I send this scrap, as a P.S. to <seg type="comment"><orig><persName key="pdrPo.001.004.000003075">Möhme’s</persName> letter,</orig>
+                        <note xml:id="f6a8d482-82a8-482c-809e-42affe07e5df">
+                            <p rend="endnote text">Möhme – familiäre Bezeichnung für <persName key="pdrPo.001.004.000003075">Jenny Marx</persName>. - Der Brief
+                                von <persName key="pdrPo.001.004.000003075">Jenny Marx</persName> an
+                                Marx, geschrieben wahrscheinlich auch am 20.&#160;März 1866, ist
+                                nicht überliefert.</p>
+                        </note>
+                    </seg> just to say that I hope you are by this time perfectly well, &amp; that
+                        <seg type="comment"><orig>if you give us no opportunity (on Thursday) of
+                            judging with our own eyes of your improvement I shall think you the most
+                            “pathetical breakpromise”.</orig><note xml:id="nmb2_vmp_1z">Marx wurde
+                            für Donnerstag, den 22. März 1866 zu einer Feier seiner Töchter in
+                            London erwartet. Siehe <ref target="B00073/#start_tqp_z1h_4z">Marx an L.
+                                Marx,
+                                20.3.<?oxy_comment_start author="reichhoff" timestamp="20170413T170221+0200" comment="{{Br. 70.16–18}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00075/#start_xxs_dvg_4z">Marx an Engels,
+                                24.3.<?oxy_comment_start author="reichhoff" timestamp="20170413T170350+0200" comment="{{Br. 72.17–24}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p><p sameAs="MBTextmitEinzug">My dear Challey, if the weather plays you the tricks abroad that it
+                    plays us at home how frightfully cold you must at this moment be, &amp; how
+                    often you must already have cursed the spirit of adventure, or rather the demon
+                    of carbuncles, that drove you forth! Not but that I dare say you: fully
+                    appreciate such pieces of romance <seg type="comment"><orig>as that of the
+                            deaf-blind man which homekeeping would have deprived you of.</orig><note xml:id="nczb_zmp_1z">Siehe <ref target="B00067/#start_sh3_w5g_4z">Marx
+                                an J. Marx,
+                                16.3.<?oxy_comment_start author="reichhoff" timestamp="20170413T170627+0200" comment="{{Br. 63.6–27}}"?>1866<?oxy_comment_end?>.</ref></note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>We have received a letter from <persName key="pdrPo.001.004.000002460">Kaub</persName>.</orig><note xml:id="a1e56b32-3a5a-4abb-8122-68abedb5e5e8">Siehe <ref target="B00069">K. Kaub an Familie Marx,
+                                17.3.<?oxy_comment_start author="reichhoff" timestamp="20170413T170741+0200" comment="{{ Br. 65}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    I dare say that all you think of him is right enough &amp; that he is as honest
+                    &amp; goodnatured as you pretend, but for his wits—oh, lord, Sir!</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>You will believe that all here, at present, is
+                            uproar &amp; confusion. What with preparations for the wellbeing of the
+                            “inner men” of our expected guests &amp; speculations as to how best
+                            bring together a certain daughter of one celebrated man with a certain
+                            nephew of another celebrated man &amp; how best <pb/> to keep asunder
+                            the last said individual &amp; the Lady of the Golden Locks &amp; a
+                            hundred other considerations we are working ourselves up into an odd
+                            kind of excitement.</orig><note xml:id="e0e23f1b-c6a0-4535-909f-27d870088958"><persName key="pdrPo.001.004.000003076">Laura Marx</persName> beschreibt die
+                            Vorbereitungen für den Abend am 22.&#160;März 1866. Siehe <ref target="B00072/#nmb2_vmp_1z">Erl. zu L. Marx an Marx,
+                                20.3.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170517T142012+0200" comment="{{Erl. 69b}}."?></note><?oxy_comment_end?></seg></p><p sameAs="MBTextmitEinzug">Goodbye dear Challey, I have scribbled on because I know you have nothing better just now to do than to kill time &amp; this scrawl will annihilate 5&#160;minutes for you. They will die slowly enough I have no doubt but they <hi rendition="#u">will die</hi> &amp; that is a comfort.</p><p sameAs="MBTextmitEinzug">This paper please give to the sharks or porpoises with my respects. They know me of old.</p><closer sameAs="MBUnterschrift"><signed>Your affectionate Krou Kleerou.</signed></closer><postscript><p>Excuse this frightful untidiness. <seg type="comment"><orig>Helen</orig><note xml:id="a3081a9e-d8aa-4886-960a-ccaf6b468630"><persName key="pdrPo.001.004.000001129">Helena Demuth</persName>.
+                            </note></seg> hurries me so to post this. </p></postscript></div></body></text></TEI>

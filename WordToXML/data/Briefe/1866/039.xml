@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00042" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>39</idno>Friedrich Wilhelm Moll an Karl Marx in London. New York, Mittwoch, 14. Februar 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 1638</idno></idno></msIdentifier><physDesc>
+                        <p>Der Brief besteht aus einem Blatt dünnem, weißem, kariertem Papier im
+                            Format 205&#160;×&#160;264&#160;mm. Moll hat beide Seiten vollständig
+                            beschrieben. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Der Brief war vermutlich in einem Umschlag mit dem Brief von August
+                            Schlag an Marx vom 14.&#160;Februar 1866 (siehe dort) abgeschickt
+                            worden.</p>
+                        <p>Die Beilagen („Beiliegendes Gedicht“ und „Aus dem beiliegenden ...“)
+                            konnten nicht ermittelt werden. </p>
+                    </physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ksb_ssd_xx">Friedrich Wilhelm Moll</persName><placeName>New York</placeName><date when="1866-02-14"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:39Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> New-York den 14 Febr. 66.</dateline>
+                    <salute sameAs="MBAnrede">Lieber Marx!</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug"><anchor type="verweisziel" xml:id="start_iqh_4yq_nz"/>Ich fühle mich verpflichtet, Ihnen mitzutheilen, das sich hier ein Verein, auf
+                    derselben Grundlage und mit demselben Namen wie der in Deutschland, von
+                        F&#160;<persName key="pdrPo.001.004.000002711">Lassalle</persName> gegründet
+                    hat, auf den paar Wörtern: die Arbeit soll den Staat regieren! beruhend.<anchor type="verweisziel" xml:id="stop_iqh_4yq_nz"/> Aber auch hier in Amerika ist
+                    dieß nicht der Fall, sondern hier regiert denselben die Bourgeoisie, durch den
+                    abscheulichsten Humbug welcher hier bei den Wahlen getrieben wird; wir haben uns
+                    darum die Aufgabe gestellt, das hiesige <hi rendition="#u">Stimmvieh</hi> wie
+                    Sie es ganz richtig bezeichneten, zu seinem <hi rendition="#u">Selbstbewußtsein
+                    </hi>zu erheben, um das es bei den Wahlen seine Stimme nicht mehr für einen
+                    erbärmlichen Dollar, oder sogar für einen Schluck Bier an die Bourgeoisie
+                    verkauft, sondern, mit vollem Ernste, Männer zu wählen sucht, welche sein <hi rendition="#u">eignes Wohl</hi> das Wohl der arbeitenden Klasse zu <choice>
+                        <sic>befödern</sic>
+                        <corr cert="high">befördern</corr>
+                    </choice> suchen!</p>
+                <p sameAs="MBTextmitEinzug">Ferner haben wir beschlossen, <seg type="comment"><orig>weil jetzt <persName key="pdrPo.001.004.000000311">Becker</persName> als Präsident abgedankt, und wie uns mitgetheilt,
+                            ein radikalerer, Namens <persName key="pdrPo.001.004.000004770">Tölke</persName> seine Stelle eingenommen,</orig><note xml:id="nnwt_df5_vy">Siehe MEGA²&#160;III/13. Br.&#160;348.24–30. - 1865
+                            war der ADAV in eine Krise geraten. <persName key="pdrPo.001.004.000000311">Bernhard Becker</persName>, der von
+                                <persName key="pdrPo.001.004.000002711">Ferdinand
+                                Lassalle</persName> testamentarisch als Präsident des ADAV empfohlen
+                            worden war, legte am 21.&#160;November 1865 sein Amt nieder. Erst
+                                <persName key="pdrPo.001.004.000004357">Johann Baptist von
+                                Schweitzer</persName>, der die Funktion des Präsidenten im Mai 1867
+                            übernahm, vermochte eine Stabilisierung des Vereins herbeizuführen.
+                            (Siehe Hümmler: Opposition gegen Lassalle. S.&#160;200–211.)
+                            (((lHümmler: Opposition gegen Lassalle))) </note></seg> mit dem Allg.
+                    deutsch. Arb. Verein draußen zu corespondiren, um, durch unser Zusammenhalten,
+                    unsre deutschen Brüder draußen anzufeurern!</p>
+                <p sameAs="MBTextmitEinzug">Aus oben angeführtem Grunde, die Wahl betreffend,
+                    bekümmern wir uns wenig oder gar nicht um die Petitionen für die Achtstunden
+                    Arbeitszeit und d.gl. <expan resp="editor" sameAs="dottet_underline">m<ex>ehr</ex></expan> denn ein <hi rendition="#u">freier</hi> Bürger
+                    braucht nicht zu <hi rendition="#u">betteln</hi>! besonders der hiesige
+                    Arbeiterstand nicht, wenn er nur die Wahlen <hi rendition="#u">richtig</hi> und
+                    mit <hi rendition="#u">vollem</hi> Ernste handhabt!</p>
+                <p sameAs="MBTextmitEinzug">Die jetztige Regierung wird sie, mitsammt ihren
+                    Sturm-Petitionen, wie man die Bettelei zu nennen beliebt auslachen!</p>
+                <p sameAs="MBTextmitEinzug">Schließlich mögt’ ich Sie nun ersuchen uns über oben
+                    Angeführtes Ihre Meinung resp. <hi rendition="#u">Rath</hi> mitzutheilen! </p>
+                <p sameAs="MBTextmitEinzug"><pb/> Von <persName key="pdrPo.001.004.000011456">Dr.&#160;Rode</persName> aus Liverpool habe ich erfahren das Sie <seg type="comment"><orig>das internationale Arbeiter Comite</orig><note xml:id="fd56c66c-6e96-4a39-8cb5-2942d93e7e4d">Die Internationale
+                            Arbeiterassoziation.</note></seg> leiten, daher mögt’ ich Sie auch
+                    ferner ersuchen mir doch auch hierüber Etwas mittheilen zu wollen! weil die <hi rendition="#u">ächte wahre</hi> Arbeiterbefreiung nur international
+                    betrieben werden kann, auch der Communismus beruht auf diesem Fundamente!</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_shw_h3t_qz"/>Beiliegendes Gedicht</orig><note xml:id="nctt_3j5_vy">Das Gedicht als Beilage ist nicht
+                            überliefert.</note></seg> widmet Ihnen ein ächt communistisches Herz, in
+                    diesem Sinne mögten Sie es annehmen; dessen Rythmus mögen Sie berüksichtigen,
+                    weil es aus der Feder eines schlichten, jedoch <hi rendition="#u">radikalen</hi>
+                    Arbeiter geflossen ist!</p>
+                <p sameAs="MBTextmitEinzug">Aus dem beiligenden Gedichte „An das amerikanische
+                    Proletariat“ können Sie entnehmen, wie ich über dieses denke.</p>
+                <anchor type="verweisziel" xml:id="stop_shw_h3t_qz"/>
+                <p sameAs="MBTextmitEinzug"><persName key="pdrPo.001.004.000002529">Klings</persName> sowie <seg type="comment"><orig>mein früherer
+                            Reisegefährte Mälchior</orig><note xml:id="b30a728e-b31e-403a-af20-5f5e57ce4bd7"><persName key="ed_hyr_jch_yy">Julius Melchior</persName>. - <persName key="ed_ksb_ssd_xx">Moll</persName> und Melchior besuchten Marx in
+                            London am 1.&#160;Juni 1864 auf dem Weg in die USA. Siehe
+                            MEGA²&#160;III/12. Br.&#160;357.12–35 und Br._365.14–19.
+                            (((lMEGA²&#160;III/12))) </note></seg> sind in St.&#160;Louis.</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Haben vielleicht meinen Brief,
+                            den ich einige Zeit nach meiner Ankunft in Amerika an Sie abgesendet
+                            nicht erhalten,</orig><note xml:id="d1d9cd0f-3af1-48b7-b539-c636a3ebf0ed"><persName key="ed_ksb_ssd_xx">Moll</persName> und <persName key="ed_hyr_jch_yy">Melchior</persName> schrieben Marx aus New York
+                            im September 1864 (MEGA²&#160;III/12. Br.&#160;424). </note></seg> da
+                    ich von<persName key="pdrPo.001.004.000011456"> Rode</persName> erfuhr das <seg type="comment"><orig>Sie um diese Zeit nach Holland verreißt
+                            waren?</orig><note xml:id="d0845f02-8b93-4a8f-bab7-fff13790be7c">Marx
+                            hatte in Zaltbommel bei seinem Onkel <persName key="pdrPo.001.004.000003715">Lion Philips</persName>, dem
+                            Testamentsvollstrecker seiner gerade verstorbenen <persName key="pdrPo.001.004.000003073">Mutter</persName> seit
+                            21.&#160;Dezember 1863 (MEGA²&#160;III/12. Br.&#160;297.3-4) geweilt und
+                            war von dort kommend am 19.&#160;Februar 1864 (ebenda. Br. 314.3-4)
+                            wieder in London eingetroffen.</note></seg></p>
+                <p sameAs="MBTextmitEinzug"><!--<hi rend="color(0000FF)">{u2}</hi>-->Mit Gruß u.
+                    Handschlag</p>
+                <closer sameAs="MBUnterschrift">Moll.</closer>
+                <p sameAs="MBAdresse"><anchor type="verweisziel" xml:id="start_qnn_wzq_nz"/>Meine
+                    Adresse ist:<lb/>F.W. Moll<lb/>Caer of W. Pooll<lb/>26. Spring St.<lb/>New York.
+                        <anchor type="verweisziel" xml:id="stop_qnn_wzq_nz"/></p>
+            </div></body></text></TEI>

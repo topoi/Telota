@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00153" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>149</idno>Elisabeth Engels an Friedrich Engels in
+                                        Manchester. Barmen, Montag, 13. August 1866</title>
+                        </titleStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>STAW (Stadtarchiv Wuppertal)</institution>
+                                                <collection>ND 3 (Dokumentation Friedrich Engels)</collection>
+                                                <idno><idno type="shelfmark">Nr. ???</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p><?oxy_comment_start author="lindenberg" timestamp="20170424T145345+0200" comment="Zeugenbeschreibung fehlt "?></p>
+                                                <?oxy_comment_end?>
+                                                <p>Der Brief besteht aus Papier im Format 273 x 217
+                                                  mm und aus einem Umschlag mit der Prägung „EE“.<?oxy_comment_start author="lindenberg" timestamp="20170424T150502+0200" comment="Formatangaben Übernahme aus Brief 005 ; ebenso Umschlag ???"?>
+                                                  <?oxy_comment_end?> Die  sechs Seiten hat
+                                                  Elisabeth Engels vollständig beschrieben.
+                                                  Schreibmaterial: schwarze Tinte.
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20170424T145427+0200" comment="Der Brief besteht aus Papier im Format  ×   mm und aus einem Umschlag mit der Prägung „EE“. [Format, Papier, Prägung]. Die ersten sechs Seiten hat Elisabeth Engels vollständig beschrieben, die übrigen zwei?? Schreibmaterial: schwarze Tinte."?></p>
+                                                <?oxy_comment_end?>
+                                                <p>Auf dem Umschlag befinden sich fünf Poststempel:
+                                                  „Barmen 14 8 66 5–6&#160;N.“ (dreimal), „P.D.“ und
+                                                  „2&#160;M Manchester Au 16 66“ (auf der
+                                                  Rückseite); eine Drei-Silbergroschen- und eine
+                                                  Zwei-Silbergroschen-Briefmarke sowie der Vermerk
+                                                  mit Tinte von unbekannter Hand: „<hi rendition="#u">13.8.66</hi>“.</p>
+                                                <p>Elisabeth Engels beantwortet einen nicht
+                                                  überlieferten Brief von Engels, geschrieben vor
+                                                  dem 10.&#160;August 1866 (siehe Br.&#160;148.4–5
+                                                  ).
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20170424T145938+0200" comment="Elisabeth Engels beantwortet einen nicht überlieferten Brief von Engels, geschrieben vor dem 10. August 1866 (siehe Br. 148.4–5 [Herm. E. – E., 13. Aug. 1866])."?></p>
+                                                <?oxy_comment_end?>
+                                        </physDesc>
+                                        <additional> 
+                                                <listBibl> 
+                                                        <bibl>RGASPI f. 9 op. 1 d. 52</bibl> 
+                                                </listBibl> 
+                                        </additional>
+                                </msDesc>
+                                <listWit>
+                                        <witness><bibl>Erstveröffentlichung: Die Herkunft des
+                                                  Friedrich Engels (1991).
+                                                S.&#160;648/649.</bibl></witness>
+                                </listWit>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000001367">Engels, Elisabeth
+                                                (1797-1873)</persName>
+                                        <placeName>Barmen</placeName>
+                                        <date when="1866-08-13"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                                        <placeName>Manchester</placeName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:39:47Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingAct">
+                                <opener>
+                                        <dateline sameAs="MBDatumszeile"><pb/> Barmen 13 August
+                                                66</dateline>
+                                        <salute sameAs="MBAnrede">Lieber Friedrich</salute>
+                                </opener>
+                                <p sameAs="MBTextohneEinzug">Ich hatte <seg type="comment"><orig>dem
+                                                  Hermann</orig><note xml:id="b2d9181c-470d-4a12-ae34-2c98078b2ed2"><persName key="pdrPo.001.004.000001375">Hermann
+                                                  Engels</persName>. </note></seg> gesagt wenn er
+                                        Dir schrieb wollte ich einen Brief einlegen, u. nun <seg type="comment"><orig>schreibt er heute</orig><note xml:id="a27b5653-8aa9-4aac-aea7-564694367c27">Siehe <ref target="B00152">Hermann Engels an
+                                                  Friedrich Engels,
+                                                  13.8.<?oxy_comment_start author="reichhoff" timestamp="20170405T191835+0200" comment="{{Br. 148}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        ohne es mir zu sagen u. ich muß diesen Brief hinter her
+                                        schicken. <seg type="comment"><orig>Wie ich höre <anchor type="verweisziel" xml:id="start_dk3_gyv_tz"/>hat
+                                                  er Dir geschrieben daß ich nicht nach Ostende
+                                                  gehe.</orig><note xml:id="b5b8663e-8784-424d-83a6-cd5a9d1ce6cb">Siehe <ref target="B00152/#start_j3f_4dw_tz">H.
+                                                  Engels an Engels,
+                                                  13.8.<?oxy_comment_start author="reichhoff" timestamp="20170503T155603+0200" comment="{{Br. 148.62–64}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        Ich kam extra von <expan resp="editor" sameAs="dottet_underline">Engelsk<ex>irchen</ex></expan> hierher um mit
+                                                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><seg type="comment"><orig><?oxy_custom_end?>Hedwig</orig><note xml:id="d5aeb50b-6469-427e-be0d-baad8024d3d6"><persName key="pdrPo.001.004.000000502">Hedwig
+                                                  Boelling</persName>.
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></note></seg><?oxy_custom_end?>
+                                        nach Ostende zu gehn, die Cholera ist aber sehr bedeutend
+                                        dort u. es soll gar nicht dort gebadet werden. Da nun <seg type="comment"><orig>Elise</orig><note xml:id="c2d6a6f2-b19a-48cc-88be-c3d7559e5a11"><persName key="pdrPo.001.004.000001910">Elise von
+                                                  Griesheim</persName>. </note></seg> mich mit ihrer
+                                        Familie hier besuchen will, so bleibe ich einstweilen
+                                                hier.<anchor type="verweisziel" xml:id="stop_dk3_gyv_tz"/> Nun habe ich von <seg type="comment"><orig>Marie</orig><note xml:id="fb3fe5f2-708d-4baa-b2d2-533052efcbc5"><persName key="pdrPo.001.004.000000460">Marie
+                                                  Blank</persName>. </note></seg> den Auftrag
+                                        erhalten <seg type="comment"><orig>Dich zur Hochzeit ihrer
+                                                  Tochter <persName key="pdrPo.001.004.000000459">Marie</persName> einzuladen, die wahrscheinlich
+                                                  den 5<hi rendition="#sup">t</hi> oder 6<hi rendition="#sup">t</hi>&#160;Septbr sein wird,
+                                                  dazu bleibe ich hier u. <pb/> Elise kommt auch
+                                                  deshalb hierher, hoffentlich wirst Du Deine Reise
+                                                  so einrichten können, daß Du dabei
+                                                  bist.</orig><note xml:id="nbpm_yyn_hz">Die
+                                                  Hochzeit von <persName key="pdrPo.001.004.000000459">Marie
+                                                  Blank</persName> (Tochter) fand am 12._September
+                                                  1866 statt.Engels wollte seine Familie erst danach
+                                                  besuchen (siehe <ref target="B00161">Engels an E.
+                                                  Engels,
+                                                  23.8.<?oxy_comment_start author="reichhoff" timestamp="20170503T155802+0200" comment="{{Br._157.9–10}}"?>1866<?oxy_comment_end?></ref>).</note></seg>
+                                        Die Hochzeit sollte eigentlich im August sein, <seg type="comment"><orig>der Bruder</orig><note xml:id="eb2f917b-b29b-4264-8014-5bbf52e8de6e"><persName key="ed_m2x_dyk_2z">Barthels,
+                                                  Bruder</persName>.
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></note></seg><?oxy_custom_end?>
+                                        <seg type="comment"><orig>des Bräutigams</orig><note xml:id="c8280400-12fe-4b58-8f48-110dc6c8c3d5"><persName key="ed_fzq_5lg_yx">Robert
+                                                  Barthels</persName>. </note></seg> war aber
+                                        einberufen u. Letzterer war sogar auch 14&#160;Tage in
+                                        Magdeburg bei einem Ersatz-Bataillon kam aber, nach einer
+                                        energischen Reklamation wieder zurück. Er ist so lange sein
+                                        Bruder nicht zurück ist der einzige Prinzipal im Geschäft u.
+                                        kann deshalb nicht fort u. bevor der Bruder nicht da ist,
+                                        können sie keine Hochzeitsreise machen, was die <expan resp="editor" sameAs="dottet_underline">kl<ex>eine</ex></expan>
+                                        <persName key="pdrPo.001.004.000000459">Marie</persName>
+                                        doch sehr wünscht. Wenn L.&#160;<persName key="pdrPo.001.004.000003392">Napoleon</persName>
+                                        jetzt nicht hintennach noch seine Streiche macht wird er wol
+                                        bald kommen.</p>
+                                <p sameAs="MBTextmitEinzug">Alberth <persName key="pdrPo.001.004.000001906">Griesheim</persName>
+                                        ist merkwürdiger&#160;<pb/> Weise in keinem Gefecht gewesen,
+                                        er hat <seg type="comment"><orig>den Kurfürsten von
+                                                  Hessen</orig><note xml:id="ea91d21a-c9cf-4ea5-aee8-9403676405ea"><persName key="pdrPo.001.004.000001666">Friedrich
+                                                  Wilhelm&#160;I.</persName>
+                                                </note></seg> transportiert, war einige Tage in
+                                        Cassel Komandant, ist viel marschiert u. hat große
+                                        Strapatzen ausgehalten, war einmal mit 5&#160;Bataillonen an
+                                        die verschiedenen Eisenbahnen kommandiert, die hergestellt
+                                        wurden, kurz er hatte gar keine Ruhe u. wir wußten nie wo er
+                                        war. <seg type="comment"><orig>Seine Frau</orig><note xml:id="bcea004e-4ada-432a-9928-d4f8636fd1ea"><persName key="ed_mmf_5vv_hz">Marie von
+                                                  Griesheim</persName>. </note></seg> war mit ihren
+                                        Kindern u. <seg type="comment"><orig>ihrer
+                                                  Mutter</orig><note xml:id="d677e778-1113-49c9-930d-fd506ee87a7f"><persName key="ed_ot4_4wv_hz">von
+                                                  Raschkauw</persName>. </note></seg> in Engelsk.
+                                        bei <persName key="pdrPo.001.004.000001910">Elise</persName>. Die arme Frau hat auch Angst u. Sorge
+                                        genug gehabt, <seg type="comment"><orig>sie hat die letzte
+                                                  Zeit in Frankfurt sehr unangenehme Tage
+                                                  gehabt</orig><note xml:id="e3985d9b-c8c4-4462-a2c8-26f085347688">Gemeint ist vermutlich die preußische Besetzung
+                                                  der Stadt im Deutschen Krieg (1866).</note></seg>
+                                        u. dankte Gott wie <persName key="pdrPo.001.004.000001910">sie</persName> glücklich bei uns war. Zuletzt vor
+                                        Würzburg sollte das 30<hi rendition="#sup">te</hi>&#160;Regiment doch noch die Stadt nehmen, sie wurde
+                                        ihnen jedoch im letzten Augenblick übergeben. Von hier ist
+                                                <seg type="comment"><orig>ein <persName key="ed_zvm_2gv_my">Sohn</persName> von <persName key="pdrPo.001.004.000001882">Peter
+                                                  Greef</persName></orig><note xml:id="nmys_vzn_hz"><persName key="ed_zvm_2gv_my">Peter Greeff
+                                                  (Sohn)</persName>. </note></seg> geblieben, <pb/>
+                                        er hat <seg type="comment"><orig>eine junge Frau</orig><note xml:id="nap5_mb4_hz"><persName key="ed_z1b_2yv_hz">Pauline Greeff</persName>. </note></seg> u. <seg type="comment"><orig>ein Kind</orig><note xml:id="nqkq_kb4_hz"><persName key="ed_nlj_tgv_my">Peter Greeff</persName> (geb. 1865).
+                                                </note></seg> von 9&#160;Monaten hinterlassen.
+                                                <persName key="pdrPo.001.004.000004500">Moritz</persName> u. <persName key="ed_xy1_fvc_3z">Ernst Snethlage</persName> waren auch beide mit,
+                                        der erstere ist jetzt in Prag u. der Ernst in Dresden, sie
+                                        haben auch keine Schlacht mit gemacht: das war eine recht
+                                        bewegte u. aufregende Zeit die wir durchlebt haben.
+                                        Günstlicherweise hatten wir eine Thelegraphen-Station in
+                                        Engelsk. u. bekamen zuweilen Depeschen zu lesen, die nur
+                                        durch nach Cöln gingen u. hörten auch sonst früh alles was
+                                        vorgekommen war. Nach dem Siege bei Königsgrätset ließ <seg type="comment"><orig>Emil</orig><note xml:id="f4626cf4-d1a0-45a4-99d4-1675ec7260b1"><persName key="pdrPo.001.004.000001368">Emil
+                                                  Engels</persName>.
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></note></seg><?oxy_custom_end?>
+                                        als <expan resp="editor" sameAs="dottet_underline">Beigeord<ex>n</ex>eter</expan> gehorig schießen
+                                        u. es wurden auf dem Haus u. der Fabrick große Fahnen
+                                        ausgehangen, es geschah hauptsächlich der Katholiken wegen –
+                                        von denen die meisten sehr für Oestreich waren, <pb/> sie
+                                        bildeten sich ein, wir müßten denn Alle katholisch werden u.
+                                        es ist hier in Barmen u. auch an andern Orten vorgekommen
+                                        daß der Lehrer in der Schule statt für den König von
+                                        Preussen, für den Kaiser von Oestreich gebetet hat. Gebe
+                                        Gott nur daß wir jetzt Frieden behalten der Krieg ist doch
+                                        etwas schreckliches u. etwas unnathürliches daß Menschen
+                                        gegeneinander geführt werden um sich auf die möglichst
+                                        schnellste Weise ums Leben zu bringen. Doch nun genug davon.
+                                        In der Familie hier sind jetzt einige etwas leident.
+                                                <persName key="pdrPo.001.004.000000502">Hedwig</persName> fühlt sich sehr angegriffen u. da
+                                        der Arzt ein Seebad für zuträglich hält, so hat sie sich
+                                        jetzt erkundigt ob die Cholera auch nicht in Boulogne ist,
+                                        sonst hat sie Lust dahin <pb/> zu gehn. Mir ist die Reise zu
+                                        weit u. auch das Wetter zu schlecht, wir haben hier auch
+                                        sehr viel Regen.<anchor type="verweisziel" xml:id="start_gjb_sv3_5z"/>
+                                        <seg type="comment"><orig>Rudolf</orig><note xml:id="c74239ce-66f0-40f3-859c-40da518319da"><persName key="pdrPo.001.004.000001391">Rudolph
+                                                  Engels</persName>. </note></seg> ist seid etwas
+                                        über 8&#160;Tage auch gar nicht wohl, er war erkältet u.
+                                        hatte Fieber, hat dabei viel Unruhe durch Besuch von <seg type="comment"><orig>Verwandten seiner
+                                                  Frau</orig><note xml:id="c16f048f-9657-4b56-9b28-8ec43e037ac4"><persName key="pdrPo.001.004.000001389">Mathilde
+                                                  Engels</persName> war eine geborene <persName key="ed_vnq_h1w_hz">Remkes</persName>.
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></note></seg><?oxy_custom_end?>
+                                        gehabt, sich nicht in Acht genommen u. dadurch ist es so
+                                        schlimm geworden, daß er Nerwös ganz herunter ist, er muß
+                                        die größte Ruhe haben u. kann nicht daran denken etwas zu
+                                        arbeiten hoffentlich wird er in einigen Tagen so weit sein
+                                        um noch 8&#160;Tage an den Rhein zu gehn, er war schon
+                                        6&#160;Wochen in Ems seines Halses wegen.<anchor type="verweisziel" xml:id="stop_gjb_sv3_5z"/></p>
+                                <p sameAs="MBTextmitEinzug">Nun leb wohl lieber Friedrich, ich
+                                        freute mich sehr wieder Nachricht von Dir zu bekommen. Gott
+                                        behüte Dich ferner. Schreibe mir recht bald wann Du kommen
+                                        willst.</p>
+                                <p sameAs="MBTextmitEinzug">Mit treuer Liebe</p>
+                                <closer sameAs="MBUnterschrift">Deine Mutter E. </closer>
+                                <p sameAs="MBAdresse"> </p>
+                        </div>
+                </body>
+        </text>
+</TEI>

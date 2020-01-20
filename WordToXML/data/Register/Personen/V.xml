@@ -1,0 +1,2673 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="mega_personenregister" xml:lang="de" xml:id="personV">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Gehört zur ediarum-App für eXist.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Hybrid: consult project description and document history for details.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="pdrPo.001.004.000004866">
+                    <idno type="mega">1028553</idno>
+                    <persName type="reg">
+                        <surname>Vagt</surname>
+                        <forename>Lina</forename>
+                    </persName>
+                    <birth>1832</birth>
+                    <death>1898</death>
+                    <note>deutsche Schriftstellerin und Journalistin</note>
+                    <linkGrp>
+                        <ptr target="III/13#299" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004868">
+                    <idno type="mega">1028562</idno>
+                    <persName type="reg">
+                        <surname>Vaillant</surname>
+                        <forename>Marie Édouard</forename>
+                    </persName>
+                    <birth>1840</birth>
+                    <death>1915</death>
+                    <note>französischer Ingenieur, Naturwissenschaftler und Arzt; Blanquist, führendes Mitglied der IAA, Teilnehmer der Pariser Kommune</note>
+                    <linkGrp>
+                        <ptr target="I/31#580" type="page"/>
+                        <ptr target="I/31#583" type="page"/>
+                        <ptr target="I/31#657" type="page"/>
+                        <ptr target="I/31#699" type="page"/>
+                        <ptr target="I/31#1272" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004867">
+                    <idno type="mega">1028560</idno>
+                    <persName type="reg">
+                        <name>Vaillant, Jean Baptiste Philibert, comte</name>
+                    </persName>
+                    <birth>1790</birth>
+                    <death>1872</death>
+                    <note>Marschall von Frankreich, Senator, Bonapartist; Kriegsminister (1854–1859)</note>
+                    <linkGrp>
+                        <ptr target="I/14#195" type="page"/>
+                        <ptr target="I/14#203" type="page"/>
+                        <ptr target="I/14#393" type="page"/>
+                        <ptr target="I/14#394" type="page"/>
+                        <ptr target="I/14#700" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004870">
+                    <idno type="mega">1028571</idno>
+                    <persName type="reg">
+                        <name>Valde-Espina, Jose María de Orbe, marqués de</name>
+                    </persName>
+                    <birth>1776</birth>
+                    <death>1850</death>
+                    <note>spanischer Militär und Politiker; Karlistenführer in Bilbao</note>
+                    <linkGrp>
+                        <ptr target="IV/12#857" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004869">
+                    <idno type="mega">1028570</idno>
+                    <persName type="reg">
+                        <name>Valdecañas, Juan de la Cruz, conde de</name>
+                    </persName>
+                    <note>spanischer General</note>
+                    <linkGrp>
+                        <ptr target="IV/12#834" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004871">
+                    <idno type="mega">1028574</idno>
+                    <persName type="reg">
+                        <surname>Valdemar</surname>
+                        <forename>Prinz von Dänemark</forename>
+                    </persName>
+                    <birth>1858</birth>
+                    <death>1939</death>
+                    <note>Marineoffizier; heiratete 1885 Marie, princesse d’Orléans</note>
+                    <linkGrp>
+                        <ptr target="I/31#1004" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004872">
+                    <idno type="mega">1028575</idno>
+                    <persName type="reg">
+                        <surname>Valdemoros</surname>
+                        <forename>Mateo</forename>
+                    </persName>
+                    <note>spanischer Politiker; 1821 Innenminister im zweiten konstitutionellen Ministerium</note>
+                    <linkGrp>
+                        <ptr target="IV/12#469" type="page"/>
+                        <ptr target="IV/12#824" type="page"/>
+                        <ptr target="IV/12#1269" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004873">
+                    <idno type="mega">1028578</idno>
+                    <persName type="reg">
+                        <surname>Valderas</surname>
+                        <forename>El Rojo de</forename>
+                    </persName>
+                    <note>1820 spanischer Straßenräuber</note>
+                    <linkGrp>
+                        <ptr target="IV/12#488" type="page"/>
+                        <ptr target="IV/12#1273" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004877">
+                    <idno type="mega">1028583</idno>
+                    <persName type="reg">
+                        <name>Valdez</name>
+                    </persName>
+                    <note>1824 spanischer Offizier</note>
+                    <linkGrp>
+                        <ptr target="IV/12#820" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004874">
+                    <idno type="mega">1028579</idno>
+                    <persName type="reg">
+                        <surname>Valdés</surname>
+                        <forename>Antonio</forename>
+                    </persName>
+                    <birth>1744</birth>
+                    <death>1816</death>
+                    <note>spanischer Militär und Politiker; Marineminister (1783–1795)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#647" type="page"/>
+                        <ptr target="IV/12#655" type="page"/>
+                        <ptr target="IV/12#660" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004875">
+                    <idno type="mega">1028580</idno>
+                    <persName type="reg">
+                        <surname>Valdés</surname>
+                        <forename>Cayetano</forename>
+                    </persName>
+                    <birth>1767</birth>
+                    <death>1835</death>
+                    <note>spanischer Militär und Politiker; Marine- und Meeresfachmann; 1813 Gouverneur und Generalkapitän von Cádiz</note>
+                    <linkGrp>
+                        <ptr target="IV/12#486" type="page"/>
+                        <ptr target="IV/12#711" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004876">
+                    <idno type="mega">1028581</idno>
+                    <persName type="reg">
+                        <surname>Valdés</surname>
+                        <forename>Jerónimo</forename>
+                    </persName>
+                    <birth>1784</birth>
+                    <death>1855</death>
+                    <note>spanischer Militär; 1835 Kriegsminister</note>
+                    <linkGrp>
+                        <ptr target="IV/12#798" type="page"/>
+                        <ptr target="IV/12#826" type="page"/>
+                        <ptr target="IV/12#833" type="page"/>
+                        <ptr target="IV/12#859" type="page"/>
+                        <ptr target="IV/12#912" type="page"/>
+                        <ptr target="IV/12#1460" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011688">
+                    <idno type="mega">1028601</idno>
+                    <persName type="reg">
+                        <surname>Valenzuela</surname>
+                        <forename>Fernando de</forename>
+                    </persName>
+                    <birth>1636</birth>
+                    <death>1689</death>
+                    <note>spanischer Politiker, Höfling und Schriftsteller; Führer der Kamarilla der María Ana, Mutter Carlos’&#160;II.</note>
+                    <linkGrp>
+                        <ptr target="IV/12#422" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004878">
+                    <idno type="mega">1028611</idno>
+                    <persName type="reg">
+                        <surname>Valiente</surname>
+                        <forename>José Pablo</forename>
+                    </persName>
+                    <birth>1740</birth>
+                    <death>1817</death>
+                    <note>spanischer Politiker; ein Führer der Serviles</note>
+                    <linkGrp>
+                        <ptr target="IV/12#497" type="page"/>
+                        <ptr target="IV/12#689" type="page"/>
+                        <ptr target="IV/12#696" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004879">
+                    <idno type="mega">1028617</idno>
+                    <persName type="reg">
+                        <name>Valliére</name>
+                    </persName>
+                    <note>in den 1850er Jahren französischer Emigrant in London, später in New York</note>
+                    <linkGrp>
+                        <ptr target="III/9#171" type="page"/>
+                        <ptr target="III/9#402" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011689">
+                    <idno type="mega">1028621</idno>
+                    <persName type="reg">
+                        <surname>Valois</surname>
+                        <forename>Blanca de</forename>
+                    </persName>
+                    <birth>1317</birth>
+                    <death>1348</death>
+                    <note>erste Gemahlin von Philippe&#160;VI.</note>
+                    <linkGrp>
+                        <ptr target="I/31#847" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004880">
+                    <idno type="mega">1028625</idno>
+                    <persName type="reg">
+                        <surname>Valverde</surname>
+                        <forename>marquésa de</forename>
+                    </persName>
+                    <note>1845 Angehörige der Hofkamarilla</note>
+                    <linkGrp>
+                        <ptr target="IV/12#424" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004881">
+                    <idno type="mega">1028649</idno>
+                    <persName type="reg">
+                        <name>Van Halen, Antonio, conde de Peracamps</name>
+                    </persName>
+                    <birth>1788</birth>
+                    <death>1864</death>
+                    <note>spanischer General; Progressist; 1843–1847 im Exil</note>
+                    <linkGrp>
+                        <ptr target="IV/12#412" type="page"/>
+                        <ptr target="IV/12#865" type="page"/>
+                        <ptr target="IV/12#870" type="page"/>
+                        <ptr target="IV/12#871" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004882">
+                    <idno type="mega">1028631</idno>
+                    <persName type="reg">
+                        <name>Vandamme, Dominique Joseph René, comte d’Unebourg</name>
+                    </persName>
+                    <birth>1770</birth>
+                    <death>1830</death>
+                    <note>französischer General</note>
+                    <linkGrp>
+                        <ptr target="I/14#264" type="page"/>
+                        <ptr target="I/14#273" type="page"/>
+                        <ptr target="I/14#1200" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004883">
+                    <idno type="mega">1028635</idno>
+                    <persName type="reg">
+                        <surname>Vandenhouten</surname>
+                        <forename>Alphonse </forename>
+                    </persName>
+                    <birth>1842</birth>
+                    <death>1894</death>
+                    <note>belgischer Maler; Mitglied der IAA, 1865 Mitbegründer und 1865/1866
+                        Korrespondent der Section belge, Korrespondent mehrerer Sektionen im Bassin
+                        de Charleroi, seit 1868 Mitglied und Sekretär des Conseil fédéral
+                        belge</note>
+                    <linkGrp>
+                        <ptr target="III/13#551" type="page"/>
+                        <ptr target="III/13#664" type="page"/>
+                        <ptr target="III/13#1208" type="page"/>
+                        <ptr target="III/13#1210" type="page"/>
+                        <ptr target="III/13#1250" type="page"/>
+                        <ptr target="III/13#1341" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004884">
+                    <idno type="mega">1028640</idno>
+                    <persName type="reg">
+                        <surname>Vanderrydt</surname>
+                        <forename>Hippolyte</forename>
+                    </persName>
+                    <note>vermtl. Belgier; übersetzte das „Kapital“ ins Französische</note>
+                    <linkGrp>
+                        <ptr target="II/13#580" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004885">
+                    <idno type="mega">1028641</idno>
+                    <persName type="reg">
+                        <surname>Vanderslaghmolen</surname>
+                        <forename>François</forename>
+                    </persName>
+                    <note>belgischer Publizist</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000004886">
+                    <idno type="mega">1028646</idno>
+                    <persName type="reg">
+                        <name>Vane, Harry George, 4th&#160;Duke of Cleveland</name>
+                    </persName>
+                    <birth>1803</birth>
+                    <death>1891</death>
+                    <note>Mitglied des Unterhauses (1841–1864)</note>
+                    <linkGrp>
+                        <ptr target="I/14#355" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011690">
+                    <idno type="mega">1028670</idno>
+                    <persName type="reg">
+                        <name>Variscus, Johannes Olorinus eigtl. Johannes Sommer</name>
+                    </persName>
+                    <birth>1559</birth>
+                    <death>1622</death>
+                    <note>deutscher Satiriker und Übersetzer</note>
+                    <linkGrp>
+                        <ptr target="III/10#197" type="page"/>
+                        <ptr target="III/10#826" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004887">
+                    <idno type="mega">1028672</idno>
+                    <persName type="reg">
+                        <surname>Varley</surname>
+                        <forename>Cromwell Fleetwood</forename>
+                    </persName>
+                    <birth>1828</birth>
+                    <death>1883</death>
+                    <note>englischer Elektroingenieur und Erfinder; 1871 negative elektrische Ladung der Kathodenstrahlung angenommen</note>
+                    <linkGrp>
+                        <ptr target="IV/31#544" type="page"/>
+                        <ptr target="IV/31#954" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004888">
+                    <idno type="mega">1028673</idno>
+                    <persName type="reg">
+                        <surname>Varlin</surname>
+                        <forename>Louis Eugène</forename>
+                    </persName>
+                    <birth>1839</birth>
+                    <death>1871</death>
+                    <note>französischer Buchbinder; Mitglied der IAA, Mitglied der Commission parisienne (1865–1867 und 1868), Korrespondent der Section de Paris (1866/1867 und 1868), Delegierter der Londoner Konferenz (1865) sowie der Kongresse von Genf (1866) und Basel (1869), 1868 und 1870 in den Prozessen gegen die IAA verurteilt; zeitweilig Emigrant in Belgien; Mitglied der Pariser Kommune; 1871 von den Versaillern erschossen</note>
+                    <linkGrp>
+                        <ptr target="III/13#669" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004889">
+                    <idno type="mega">1028674</idno>
+                    <persName type="reg">
+                        <surname>Varnhagen von Ense</surname>
+                        <forename>Karl August</forename>
+                    </persName>
+                    <birth>1785</birth>
+                    <death>1858</death>
+                    <note>deutscher Diplomat, Schriftsteller und Literaturhistoriker</note>
+                    <linkGrp>
+                        <ptr target="III/9#160" type="page"/>
+                        <ptr target="III/10#372" type="page"/>
+                        <ptr target="III/10#420" type="page"/>
+                        <ptr target="III/10#454" type="page"/>
+                        <ptr target="III/10#976" type="page"/>
+                        <ptr target="III/10#1031" type="page"/>
+                        <ptr target="III/10#1059" type="page"/>
+                        <ptr target="III/11#404" type="page"/>
+                        <ptr target="III/11#605" type="page"/>
+                        <ptr target="III/11#700" type="page"/>
+                        <ptr target="III/11#749" type="page"/>
+                        <ptr target="III/11#1136" type="page"/>
+                        <ptr target="III/11#1334" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004890">
+                    <idno type="mega">1028676</idno>
+                    <persName type="reg">
+                        <surname>Varrentrapp</surname>
+                        <forename>Franz</forename>
+                    </persName>
+                    <birth>1815</birth>
+                    <death>1877</death>
+                    <note>deutscher Chemiker; arbeitete bei Justus von Liebig, hauptsächlich über organische Fettsäuren; fand gemeinsam mit Heinrich Will Verfahren zur Stickstoffbestimmung</note>
+                    <linkGrp>
+                        <ptr target="IV/31#329" type="page"/>
+                        <ptr target="IV/31#551" type="page"/>
+                        <ptr target="IV/31#725" type="page"/>
+                        <ptr target="IV/31#857" type="page"/>
+                        <ptr target="IV/31#957" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011691">
+                    <idno type="mega">1028688</idno>
+                    <persName type="reg">
+                        <surname>Vasconcellos</surname>
+                        <forename>Miguel de</forename>
+                    </persName>
+                    <note>Minister und Günstling am Hofe von Portugal; während des Volksaufstandes gegen die spanische Herrschaft getötet</note>
+                    <linkGrp>
+                        <ptr target="IV/12#422" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011692">
+                    <idno type="mega">1028694</idno>
+                    <persName type="reg">
+                        <name>Vasilij&#160;III Ivanovič</name>
+                    </persName>
+                    <birth>1479</birth>
+                    <death>1533</death>
+                    <note>Großfürst von Moskau (seit 1505)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#66" type="page"/>
+                        <ptr target="IV/12#1117" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004891">
+                    <idno type="mega">1028689</idno>
+                    <persName type="reg">
+                        <name>Vasil’čikov, Aleksandr Ilarionovič Fürst (Васильчиковъ)</name>
+                    </persName>
+                    <birth>1818</birth>
+                    <death>1881</death>
+                    <note>russischer Publizist, Politiker und Landwirt</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000004892">
+                    <idno type="mega">1028701</idno>
+                    <persName type="reg">
+                        <name>Vassall (bis 1797 Fox), Henry Richard, 3rd Baron Holland</name>
+                    </persName>
+                    <birth>1773</birth>
+                    <death>1840</death>
+                    <note>britischer Staatsmann; Whig; in den 1830er Jahren mehrfach Minister</note>
+                    <linkGrp>
+                        <ptr target="IV/12#163" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004893">
+                    <idno type="mega">1028703</idno>
+                    <persName type="reg">
+                        <name>Vastenko</name>
+                    </persName>
+                    <note>russischer Diplomat; 1842/1843 Konsul in Belgrad</note>
+                    <linkGrp>
+                        <ptr target="IV/12#335" type="page"/>
+                        <ptr target="IV/12#1210" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011693">
+                    <idno type="mega">1028707</idno>
+                    <persName type="reg">
+                        <surname>Vattel</surname>
+                        <forename>Emerich von</forename>
+                    </persName>
+                    <birth>1714</birth>
+                    <death>1767</death>
+                    <note>schweizer Jurist und Diplomat aus dem Fürstentum Neuenburg, in sächsischen Diensten; publizierte über internationales Recht</note>
+                    <linkGrp>
+                        <ptr target="I/14#286" type="page"/>
+                        <ptr target="I/14#294" type="page"/>
+                        <ptr target="I/14#1222" type="page"/>
+                        <ptr target="I/14#1227" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011694">
+                    <idno type="mega">1028709</idno>
+                    <persName type="reg">
+                        <name>Vauban, Sébastien Le Prestre, marquis de</name>
+                    </persName>
+                    <birth>1633</birth>
+                    <death>1707</death>
+                    <note>französischer Militäringenieur und Ökonom, Verfasser von Arbeiten über Festungsbau und Belagerung, seit 1703 Marschall von Frankreich</note>
+                    <linkGrp>
+                        <ptr target="I/14#159" type="page"/>
+                        <ptr target="I/14#266" type="page"/>
+                        <ptr target="I/14#296" type="page"/>
+                        <ptr target="I/14#403–405" type="page"/>
+                        <ptr target="I/14#408" type="page"/>
+                        <ptr target="I/14#409" type="page"/>
+                        <ptr target="I/14#812" type="page"/>
+                        <ptr target="I/14#982" type="page"/>
+                        <ptr target="I/14#1097" type="page"/>
+                        <ptr target="I/14#1319" type="page"/>
+                        <ptr target="I/14#1322" type="page"/>
+                        <ptr target="III/9#854" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004894">
+                    <idno type="mega">1028714</idno>
+                    <persName type="reg">
+                        <name>Vaudoncourt, Frédéric François Guillaume, baron de</name>
+                    </persName>
+                    <birth>1772</birth>
+                    <death>1845</death>
+                    <note>französischer General und Militärschriftsteller</note>
+                    <linkGrp>
+                        <ptr target="IV/12#640" type="page"/>
+                        <ptr target="IV/12#641" type="page"/>
+                        <ptr target="IV/12#817" type="page"/>
+                        <ptr target="IV/12#1344" type="page"/>
+                        <ptr target="IV/12#1428" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004895">
+                    <idno type="mega">1028732</idno>
+                    <persName type="reg">
+                        <surname>Vecchio</surname>
+                        <forename>Bonaista del</forename>
+                    </persName>
+                    <note>Historiker</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000004896">
+                    <idno type="mega">1028736</idno>
+                    <persName type="reg">
+                        <name>Vedrov, Vladimir Maksimovič (Ведров)</name>
+                    </persName>
+                    <birth>1824</birth>
+                    <death>1892</death>
+                    <note>russischer Historiker; Professor in Kasan (1857–1859); Beamter im Volksbildungsministerium (1859), in der Zensurverwaltung (1861), im Innenministerium (1862), in der Moskauer Aufsichtsbehörde für ausländische Literatur (1865), im Zensurkomitee in St.&#160;Petersburg (seit 1872)</note>
+                    <linkGrp>
+                        <ptr target="II/13#576" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004897">
+                    <idno type="mega">1028743</idno>
+                    <persName type="reg">
+                        <surname>Vegezzi-Ruscalla</surname>
+                        <forename>Giovenale</forename>
+                    </persName>
+                    <birth>1799</birth>
+                    <death>1885</death>
+                    <note>italienischer Politiker und Publizist (Erl.&#160;247.84–94)</note>
+                    <linkGrp>
+                        <ptr target="III/10#1066" type="page"/>
+                        <ptr target="III/10#1093" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004898">
+                    <idno type="mega">1028744</idno>
+                    <persName type="reg">
+                        <surname>Vehse</surname>
+                        <forename>Karl Eduard</forename>
+                    </persName>
+                    <birth>1802</birth>
+                    <death>1870</death>
+                    <note>deutscher Jurist, Historiker</note>
+                    <linkGrp>
+                        <ptr target="III/9#987" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004899">
+                    <idno type="mega">1028754</idno>
+                    <persName type="reg">
+                        <surname>Velasco</surname>
+                        <forename>Manuel de</forename>
+                    </persName>
+                    <note>spanischer Militär; 1819 Oberhaupt von Madrid, 1820 Generalkapitän von Estremadura, 1821 Gouverneur der Provinz Sevilla</note>
+                    <linkGrp>
+                        <ptr target="IV/12#639" type="page"/>
+                        <ptr target="IV/12#640" type="page"/>
+                        <ptr target="IV/12#734" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011695">
+                    <idno type="mega">1028758</idno>
+                    <persName type="reg">
+                        <surname>Velleius Paterculus</surname>
+                        <forename>Gaius</forename>
+                    </persName>
+                    <note>römischer Offizier und Geschichtsschreiber; verfaßte einen Abriß der römischen Geschichte</note>
+                    <linkGrp>
+                        <ptr target="IV/12#711" type="page"/>
+                        <ptr target="IV/12#1376" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004900">
+                    <idno type="mega">1028759</idno>
+                    <persName type="reg">
+                        <name>Veller, Pavel Lazarevič (Веллер)</name>
+                    </persName>
+                    <birth>1903</birth>
+                    <death>1941</death>
+                    <note>sowjetischer Sozialwissenschaftler; seit 1925 Mitarbeiter am Moskauer Marx-Engels-Institut</note>
+                    <linkGrp>
+                        <ptr target="II/11#909" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011696">
+                    <idno type="mega">1028760</idno>
+                    <persName type="reg">
+                        <name>Vellingk, Mauritz, Graf</name>
+                    </persName>
+                    <birth>1651</birth>
+                    <death>1727</death>
+                    <note>schwedischer General, Politiker und Diplomat</note>
+                    <linkGrp>
+                        <ptr target="IV/12#285" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011697">
+                    <idno type="mega">1028765</idno>
+                    <persName type="reg">
+                        <name>Vendôme, César de Bourbon, duc de</name>
+                    </persName>
+                    <birth>1594</birth>
+                    <death>1665</death>
+                    <note>französischer Militär; ältester Sohn Henris&#160;IV.</note>
+                    <linkGrp>
+                        <ptr target="IV/12#543" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011698">
+                    <idno type="mega">1028766</idno>
+                    <persName type="reg">
+                        <name>Vendôme, Louis Joseph de Bourbon, duc de</name>
+                    </persName>
+                    <birth>1654</birth>
+                    <death>1712</death>
+                    <note>französischer Feldherr im Spanischen Erbfolgekrieg</note>
+                    <linkGrp>
+                        <ptr target="IV/12#274" type="page"/>
+                        <ptr target="IV/12#276" type="page"/>
+                        <ptr target="IV/12#921" type="page"/>
+                        <ptr target="IV/12#1462" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004901">
+                    <idno type="mega">1028768</idno>
+                    <persName type="reg">
+                        <surname>Venedey</surname>
+                        <forename>Jacob</forename>
+                    </persName>
+                    <birth>1805</birth>
+                    <death>1871</death>
+                    <note>deutscher Publizist und Politiker; 1848/49 Mitglied der Frankfurter Nationalversammlung (linker Flügel); später Liberaler; 1859 Mitbegründer des Nationalvereins; Demokrat; 1832 Teilnehmer am Hambacher Fest, Emigration in Frankreich, 1848 Rückkehr, 1848/1849 Mitglied der Frankfurter Nationalversammlung (linker Flügel)</note>
+                    <linkGrp>
+                        <ptr target="III/9#105" type="page"/>
+                        <ptr target="III/9#489" type="page"/>
+                        <ptr target="III/10#269" type="page"/>
+                        <ptr target="III/10#355" type="page"/>
+                        <ptr target="III/10#423" type="page"/>
+                        <ptr target="III/10#561" type="page"/>
+                        <ptr target="III/10#1034" type="page"/>
+                        <ptr target="III/10#1150" type="page"/>
+                        <ptr target="III/10#1160" type="page"/>
+                        <ptr target="III/11#60" type="page"/>
+                        <ptr target="III/11#146" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004902">
+                    <idno type="mega">1028769</idno>
+                    <persName type="reg">
+                        <surname>Venegas</surname>
+                        <forename>Francisco Javier marqués de la Reunión de Nueva España</forename>
+                    </persName>
+                    <birth>1754</birth>
+                    <death>1838</death>
+                    <note>spanischer Militär und Politiker; Vizekönig von Neuspanien (1810–1813), Generalkapitän von Galicien (1818–1820)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#652" type="page"/>
+                        <ptr target="IV/12#656" type="page"/>
+                        <ptr target="IV/12#734" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011699">
+                    <idno type="mega">1028771</idno>
+                    <persName type="reg">
+                        <surname>Venn</surname>
+                        <forename>William Webb</forename>
+                    </persName>
+                    <note>Notar in London</note>
+                    <linkGrp>
+                        <ptr target="III/13#1289" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004903">
+                    <idno type="mega">1028781</idno>
+                    <persName type="reg">
+                        <surname>Vera y Pantoja</surname>
+                        <forename>Alonso de la</forename>
+                    </persName>
+                    <note>spanischer Militär und Politiker; 1812 Abgeordneter der Cortes von Cádiz</note>
+                    <linkGrp>
+                        <ptr target="IV/12#697" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004904">
+                    <idno type="mega">1028780</idno>
+                    <persName type="reg">
+                        <name>Vera, Juan Acisclo de, conde de Tilly</name>
+                    </persName>
+                    <birth>1761</birth>
+                    <death>1818</death>
+                    <note>spanischer Geistlicher; 1801–1815 Titularerzbischof von Laodicea (Phrygien), seit 1815 Bischof von Cádiz; 1809/1810 Mitglied der Obersten Zentraljunta</note>
+                    <linkGrp>
+                        <ptr target="IV/12#610" type="page"/>
+                        <ptr target="IV/12#651" type="page"/>
+                        <ptr target="IV/12#655" type="page"/>
+                        <ptr target="IV/12#663" type="page"/>
+                        <ptr target="IV/12#684" type="page"/>
+                        <ptr target="IV/12#1334" type="page"/>
+                        <ptr target="IV/12#1349" type="page"/>
+                        <ptr target="IV/12#1350" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004906">
+                    <idno type="mega">1028783</idno>
+                    <persName type="reg">
+                        <name>Vercellana, Rosa, contessa di Mirafiori</name>
+                    </persName>
+                    <birth>1833</birth>
+                    <death>1885</death>
+                    <note>langjährige Favoritin, seit 1869 zweite Ehefrau von Vittorio Emmanuele&#160;II.</note>
+                    <linkGrp>
+                        <ptr target="III/13#993" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004907">
+                    <idno type="mega">1028790</idno>
+                    <persName type="reg">
+                        <surname>Verdet</surname>
+                        <forename>Marcel Émile</forename>
+                    </persName>
+                    <birth>1824</birth>
+                    <death>1866</death>
+                    <note>französischer Physiker</note>
+                    <linkGrp>
+                        <ptr target="IV/31#600" type="page"/>
+                        <ptr target="IV/31#604" type="page"/>
+                        <ptr target="IV/31#980" type="page"/>
+                        <ptr target="IV/31#982" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004908">
+                    <idno type="mega">1028793</idno>
+                    <persName type="reg">
+                        <surname>Verdy du Vernois</surname>
+                        <forename>Julius von</forename>
+                    </persName>
+                    <birth>1832</birth>
+                    <death>1910</death>
+                    <note>preußischer General und Militärschriftsteller; Kriegsminister (1889/1890)</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000004909">
+                    <idno type="mega">1028799</idno>
+                    <persName type="reg">
+                        <surname>Veress</surname>
+                        <forename>Sándor</forename>
+                    </persName>
+                    <birth>1828</birth>
+                    <death>1884</death>
+                    <note>ungarischer Journalist und Historiker; Teilnehmer an der Revolution von 1848/49 in Ungarn, emigrierte nach deren Scheitern</note>
+                    <linkGrp>
+                        <ptr target="III/9#548" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011700">
+                    <idno type="mega">1028800</idno>
+                    <persName type="reg">
+                        <name>Vergennes, Charles Gravier, comte de</name>
+                    </persName>
+                    <birth>1717</birth>
+                    <death>1787</death>
+                    <note>französischer Staatsmann und Diplomat; Gesandter in Konstantinopel (1755–1768), Außenminister (1774–1787)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#316" type="page"/>
+                        <ptr target="IV/12#345" type="page"/>
+                        <ptr target="IV/12#347" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011701">
+                    <idno type="mega">1028802</idno>
+                    <persName type="reg">
+                        <surname>Vergilius Maro</surname>
+                        <forename>Publius</forename>
+                    </persName>
+                    <note>römischer Dichter</note>
+                    <linkGrp>
+                        <ptr target="I/31#337" type="page"/>
+                        <ptr target="I/31#1110" type="page"/>
+                        <ptr target="II/11#1257" type="page"/>
+                        <ptr target="II/11#1265" type="page"/>
+                        <ptr target="III/9#154" type="page"/>
+                        <ptr target="III/9#238" type="page"/>
+                        <ptr target="III/9#333" type="page"/>
+                        <ptr target="III/9#819" type="page"/>
+                        <ptr target="III/9#995" type="page"/>
+                        <ptr target="III/10#352" type="page"/>
+                        <ptr target="III/10#734" type="page"/>
+                        <ptr target="III/10#736" type="page"/>
+                        <ptr target="III/10#960" type="page"/>
+                        <ptr target="III/11#90" type="page"/>
+                        <ptr target="III/11#463" type="page"/>
+                        <ptr target="III/11#470" type="page"/>
+                        <ptr target="III/11#834" type="page"/>
+                        <ptr target="III/11#1201" type="page"/>
+                        <ptr target="III/11#1210" type="page"/>
+                        <ptr target="III/13#68" type="page"/>
+                        <ptr target="III/13#75" type="page"/>
+                        <ptr target="III/13#545" type="page"/>
+                        <ptr target="III/13#749" type="page"/>
+                        <ptr target="III/13#760" type="page"/>
+                        <ptr target="III/13#1163" type="page"/>
+                        <ptr target="III/13#1243" type="page"/>
+                        <ptr target="IV/12#1377" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004910">
+                    <idno type="mega">1028819</idno>
+                    <persName type="reg">
+                        <surname>Vermorel</surname>
+                        <forename>Auguste Jean Marie</forename>
+                    </persName>
+                    <birth>1841</birth>
+                    <death>1871</death>
+                    <note>französischer Journalist und Schriftsteller; Mitglied der Pariser Kommune</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000004911">
+                    <idno type="mega">1028823</idno>
+                    <persName type="reg">
+                        <surname>Verneuil</surname>
+                        <forename>Philippe Edouard Poulletier de</forename>
+                    </persName>
+                    <birth>1805</birth>
+                    <death>1873</death>
+                    <note>französischer Geologe</note>
+                    <linkGrp>
+                        <ptr target="III/13#1185" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004913">
+                    <idno type="mega">1028831</idno>
+                    <persName type="reg">
+                        <surname>Verri</surname>
+                        <forename>Pietro</forename>
+                    </persName>
+                    <birth>1728</birth>
+                    <death>1797</death>
+                    <note>italienischer Ökonom, Jurist und Publizist</note>
+                    <linkGrp>
+                        <ptr target="II/15#274" type="page"/>
+                        <ptr target="II/15#1081" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004905">
+                    <idno type="mega">1028782</idno>
+                    <persName type="reg">
+                        <surname>Verástegui</surname>
+                        <forename>Valentino</forename>
+                    </persName>
+                    <note>spanischer Militär und Politiker; Karlistenführer in der Provinz Alava</note>
+                    <linkGrp>
+                        <ptr target="IV/12#857" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004914">
+                    <idno type="uri">http://d-nb.info/gnd/175601585</idno>
+                    <idno type="mega">1028835</idno>
+                    <persName type="reg">
+                        <name>Veselič, Rudolph Alois genannt Pseudonym Fröhlich</name>
+                    </persName>
+                    <birth>1819</birth>
+                    <death>1852</death>
+                    <note>österreichischer Philologe und Lexikograph aus Slowenien</note>
+                    <linkGrp>
+                        <ptr target="IV/12#956" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011702">
+                    <idno type="mega">1028841</idno>
+                    <persName type="reg">
+                        <name>Vespasianus eigtl. Titus Flavius Vespasianus</name>
+                    </persName>
+                    <note>römischer Kaiser (seit 69)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#717" type="page"/>
+                        <ptr target="IV/12#718" type="page"/>
+                        <ptr target="IV/12#746" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004916">
+                    <idno type="mega">1028847</idno>
+                    <persName type="reg">
+                        <surname>Vetter von Doggenfeld</surname>
+                        <forename>Antal</forename>
+                    </persName>
+                    <birth>1803</birth>
+                    <death>1882</death>
+                    <note>ungarischer General; 1848/49 Chef des Generalstabes, März 1849 Oberbefehlshaber der ungarischen Armee; emigrierte nach dem Scheitern der Revolution, kehrte nach der Amnestie von 1867 nach Ungarn zurück</note>
+                    <linkGrp>
+                        <ptr target="III/9#548" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004917">
+                    <idno type="mega">1028854</idno>
+                    <persName type="reg">
+                        <surname>Viardot</surname>
+                        <forename>Louis</forename>
+                    </persName>
+                    <birth>1800</birth>
+                    <death>1883</death>
+                    <note>französischer Schriftsteller</note>
+                    <linkGrp>
+                        <ptr target="IV/12#950" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011703">
+                    <idno type="mega">1028863</idno>
+                    <persName type="reg">
+                        <surname>Vico</surname>
+                        <forename>Giovanni Battista</forename>
+                    </persName>
+                    <birth>1668</birth>
+                    <death>1744</death>
+                    <note>italienischer Geschichts- und Rechtsphilosoph</note>
+                    <linkGrp>
+                        <ptr target="II/14#1009" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011704">
+                    <idno type="mega">1028867</idno>
+                    <persName type="reg">
+                        <name>Victor Amédée Ier</name>
+                    </persName>
+                    <birth>1587</birth>
+                    <death>1637</death>
+                    <note>Herzog von Savoyen (seit 1630)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#82" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011705">
+                    <idno type="mega">1028868</idno>
+                    <persName type="reg">
+                        <name>Victor Amédée&#160;II</name>
+                    </persName>
+                    <birth>1666</birth>
+                    <death>1732</death>
+                    <note>Herzog von Savoyen (1675–1730), als Vittorio Amedeo&#160;I König von Sizilien (1713–1718), König von Sardinien (1720–1730); dankte ab</note>
+                    <linkGrp>
+                        <ptr target="IV/12#269" type="page"/>
+                        <ptr target="IV/12#271" type="page"/>
+                        <ptr target="IV/12#275" type="page"/>
+                        <ptr target="IV/12#276" type="page"/>
+                        <ptr target="IV/12#282" type="page"/>
+                        <ptr target="IV/12#294" type="page"/>
+                        <ptr target="IV/12#423" type="page"/>
+                        <ptr target="IV/12#1184" type="page"/>
+                        <ptr target="IV/12#1186" type="page"/>
+                        <ptr target="IV/12#1187" type="page"/>
+                        <ptr target="IV/12#1257" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004918">
+                    <idno type="mega">1028865</idno>
+                    <persName type="reg">
+                        <name>Victor Maréchal eigtl. Claude Victor Perin, duc de Bellune</name>
+                    </persName>
+                    <birth>1764</birth>
+                    <death>1841</death>
+                    <note>französischer Heerführer; Marschall von Frankreich (seit 1807)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#656" type="page"/>
+                        <ptr target="IV/12#661" type="page"/>
+                        <ptr target="IV/12#671" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004919">
+                    <idno type="mega">1028873</idno>
+                    <persName type="reg">
+                        <name>Victoria</name>
+                    </persName>
+                    <birth>1819</birth>
+                    <death>1901</death>
+                    <note>Königin von Großbritannien und Irland seit 1837 und Kaiserin von Indien seit 1876</note>
+                    <linkGrp>
+                        <ptr target="I/14#581" type="page"/>
+                        <ptr target="I/14#596" type="page"/>
+                        <ptr target="I/14#992" type="page"/>
+                        <ptr target="I/14#1008" type="page"/>
+                        <ptr target="I/14#1009" type="page"/>
+                        <ptr target="I/14#1029" type="page"/>
+                        <ptr target="I/14#1035" type="page"/>
+                        <ptr target="I/14#1048" type="page"/>
+                        <ptr target="I/14#1054" type="page"/>
+                        <ptr target="I/14#1121" type="page"/>
+                        <ptr target="I/14#1141" type="page"/>
+                        <ptr target="I/14#1178" type="page"/>
+                        <ptr target="I/14#1262" type="page"/>
+                        <ptr target="I/14#1275" type="page"/>
+                        <ptr target="I/14#1332" type="page"/>
+                        <ptr target="I/14#1335" type="page"/>
+                        <ptr target="I/14#1351" type="page"/>
+                        <ptr target="I/14#1356" type="page"/>
+                        <ptr target="I/14#1368" type="page"/>
+                        <ptr target="I/14#1407" type="page"/>
+                        <ptr target="I/14#1416" type="page"/>
+                        <ptr target="I/14#1433" type="page"/>
+                        <ptr target="I/14#1441" type="page"/>
+                        <ptr target="III/13#577" type="page"/>
+                        <ptr target="III/13#698" type="page"/>
+                        <ptr target="III/13#1285" type="page"/>
+                        <ptr target="III/9#290" type="page"/>
+                        <ptr target="III/9#853" type="page"/>
+                        <ptr target="III/9#1197" type="page"/>
+                        <ptr target="III/10#450" type="page"/>
+                        <ptr target="III/10#656" type="page"/>
+                        <ptr target="III/10#781" type="page"/>
+                        <ptr target="III/10#1058" type="page"/>
+                        <ptr target="III/11#5–7" type="page"/>
+                        <ptr target="III/11#605" type="page"/>
+                        <ptr target="III/11#627" type="page"/>
+                        <ptr target="III/11#629" type="page"/>
+                        <ptr target="III/11#726" type="page"/>
+                        <ptr target="III/11#728" type="page"/>
+                        <ptr target="III/11#776" type="page"/>
+                        <ptr target="III/11#1333" type="page"/>
+                        <ptr target="III/11#1352" type="page"/>
+                        <ptr target="III/11#1353" type="page"/>
+                        <ptr target="IV/12#55" type="page"/>
+                        <ptr target="IV/12#89" type="page"/>
+                        <ptr target="IV/12#115" type="page"/>
+                        <ptr target="IV/12#117" type="page"/>
+                        <ptr target="IV/12#125" type="page"/>
+                        <ptr target="IV/12#127" type="page"/>
+                        <ptr target="IV/12#140" type="page"/>
+                        <ptr target="IV/12#143" type="page"/>
+                        <ptr target="IV/12#152" type="page"/>
+                        <ptr target="IV/12#166" type="page"/>
+                        <ptr target="IV/12#310" type="page"/>
+                        <ptr target="IV/12#400" type="page"/>
+                        <ptr target="IV/12#1109" type="page"/>
+                        <ptr target="IV/12#1114" type="page"/>
+                        <ptr target="IV/12#1135" type="page"/>
+                        <ptr target="IV/12#1142" type="page"/>
+                        <ptr target="IV/12#1148" type="page"/>
+                        <ptr target="IV/12#1192" type="page"/>
+                        <ptr target="IV/12#1213" type="page"/>
+                        <ptr target="IV/12#1247" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004920">
+                    <idno type="mega">1028875</idno>
+                    <persName type="reg">
+                        <surname>Victoria</surname>
+                        <forename>Princess Royal</forename>
+                    </persName>
+                    <birth>1840</birth>
+                    <death>1901</death>
+                    <note>Tochter von Königin Victoria, seit 1858 Ehefrau des Prinzen Friedrich Wilhelm von Preußen, des späteren Kaisers Friedrich III.</note>
+                    <linkGrp>
+                        <ptr target="III/9#55" type="page"/>
+                        <ptr target="III/9#57" type="page"/>
+                        <ptr target="III/9#290" type="page"/>
+                        <ptr target="III/9#730" type="page"/>
+                        <ptr target="III/9#957" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004921">
+                    <idno type="mega">1028880</idno>
+                    <persName type="reg">
+                        <surname>Vidal</surname>
+                        <forename>François</forename>
+                    </persName>
+                    <birth>1814</birth>
+                    <death>1872</death>
+                    <note>französischer Ökonom</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000004922">
+                    <idno type="mega">1028881</idno>
+                    <persName type="reg">
+                        <surname>Vidal</surname>
+                        <forename>Joaquín</forename>
+                    </persName>
+                    <note>spanischer Offizier; Liberaler; ein Organisator des Aufstandes gegen Fernando&#160;VII in Valencia; hingerichtet</note>
+                    <linkGrp>
+                        <ptr target="IV/12#503" type="page"/>
+                        <ptr target="IV/12#637" type="page"/>
+                        <ptr target="IV/12#732" type="page"/>
+                        <ptr target="IV/12#821" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004923">
+                    <idno type="mega">1028884</idno>
+                    <persName type="reg">
+                        <surname>VidocqVidocq</surname>
+                        <forename>François-EugèneFrançois</forename>
+                    </persName>
+                    <birth>1775</birth>
+                    <death>1857</death>
+                    <note>französischer Abenteurer, später Chef der Pariser Sicherheitspolizei (1812–1827); sein Name wurde zum Inbegriff für einen geschickten Häscher und Spitzbuben; seit 1809 Spion im Dienste des Polizeipräfekten von Paris, später Chef einer aus ehemaligen Zwangsarbeitern rekrutierten speziellen Brigade der Pariser Polizei, „brigade de sûreté“ (1812–1827)</note>
+                    <linkGrp>
+                        <ptr target="III/10#324" type="page"/>
+                        <ptr target="III/11#1034" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004924">
+                    <idno type="mega">1028889</idno>
+                    <persName type="reg">
+                        <surname>Viennet</surname>
+                        <forename>Jean Pons Guillaume</forename>
+                    </persName>
+                    <birth>1777</birth>
+                    <death>1868</death>
+                    <note>französischer Offizier und Schriftsteller; Mitglied der Académie Française</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000004925">
+                    <idno type="mega">1028899</idno>
+                    <persName type="reg">
+                        <surname>Vieweg</surname>
+                        <forename>Hans Friedrich</forename>
+                    </persName>
+                    <birth>1761</birth>
+                    <death>1835</death>
+                    <note>deutscher Buchhändler und Verleger</note>
+                    <linkGrp>
+                        <ptr target="IV/31#527" type="page"/>
+                        <ptr target="IV/31#604" type="page"/>
+                        <ptr target="IV/31#924" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004926">
+                    <idno type="mega">1028907</idno>
+                    <persName type="reg">
+                        <surname>Vigo y Garate</surname>
+                        <forename>conde de</forename>
+                    </persName>
+                    <note>spanischer Politiker; 1814 Abgeordneter der Cortes</note>
+                    <linkGrp>
+                        <ptr target="IV/12#499" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004927">
+                    <idno type="mega">1028908</idno>
+                    <persName type="reg">
+                        <surname>Vigodet</surname>
+                        <forename>Gaspar de</forename>
+                    </persName>
+                    <birth>1764</birth>
+                    <death>1836</death>
+                    <note>spanischer General und Politiker; Mitglied des Regentschaftsrates, 1818–1820 Generalkapitän von Neukastilien</note>
+                    <linkGrp>
+                        <ptr target="IV/12#486" type="page"/>
+                        <ptr target="IV/12#639" type="page"/>
+                        <ptr target="IV/12#733" type="page"/>
+                        <ptr target="IV/12#798" type="page"/>
+                        <ptr target="IV/12#832" type="page"/>
+                        <ptr target="IV/12#1270" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011706">
+                    <idno type="mega">1028913</idno>
+                    <persName type="reg">
+                        <name>Viktor</name>
+                    </persName>
+                    <note>Person aus dem Umfeld von Max Friedlaender</note>
+                    <linkGrp>
+                        <ptr target="III/11#1221" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004928">
+                    <idno type="mega">1028916</idno>
+                    <persName type="reg">
+                        <surname>Villacampa</surname>
+                        <forename>Pedro</forename>
+                    </persName>
+                    <birth>1773</birth>
+                    <death>1854</death>
+                    <note>spanischer General; Guerillaführer im Unabhängigkeitskrieg (1808–1814); Teilnehmer an der liberalen Bewegung 1820–1823</note>
+                    <linkGrp>
+                        <ptr target="IV/12#642" type="page"/>
+                        <ptr target="IV/12#643" type="page"/>
+                        <ptr target="IV/12#680" type="page"/>
+                        <ptr target="IV/12#819" type="page"/>
+                        <ptr target="IV/12#820" type="page"/>
+                        <ptr target="IV/12#830" type="page"/>
+                        <ptr target="IV/12#1346" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011707">
+                    <idno type="mega">1028917</idno>
+                    <persName type="reg">
+                        <name>Villafranca, Fadrique Álvarez de Toledo, marqués de</name>
+                    </persName>
+                    <birth>1658</birth>
+                    <death>1728</death>
+                    <note>spanischer Politiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#920" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004929">
+                    <idno type="mega">1028918</idno>
+                    <persName type="reg">
+                        <name>Villafranca, Francisco de Borja Álvarez de Toledo, marqués de</name>
+                    </persName>
+                    <birth>1763</birth>
+                    <death>1821</death>
+                    <note>spanischer Militär und Politiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#737" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004930">
+                    <idno type="mega">1028919</idno>
+                    <persName type="reg">
+                        <name>Villagómez Miguel Alfonso</name>
+                    </persName>
+                    <note>spanischer Politiker; 1809/1810 Mitglied des Regentschaftsrates, Abgeordneter der Cortes von Cádiz (1810–1813), 1814 Abgeordneter der Cortes</note>
+                    <linkGrp>
+                        <ptr target="IV/12#499" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004931">
+                    <idno type="mega">1028920</idno>
+                    <persName type="reg">
+                        <name>Villalba</name>
+                    </persName>
+                    <note>bis 1820 Militärkommandant von Madrid</note>
+                    <linkGrp>
+                        <ptr target="IV/12#733" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004932">
+                    <idno type="mega">1028921</idno>
+                    <persName type="reg">
+                        <name>Villalobos</name>
+                    </persName>
+                    <note>1840 Generalkapitän von Madrid</note>
+                    <linkGrp>
+                        <ptr target="IV/12#937" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004933">
+                    <idno type="mega">1028922</idno>
+                    <persName type="reg">
+                        <surname>Villalonga</surname>
+                        <forename>Juan</forename>
+                    </persName>
+                    <note>1840 spanischer General und Politiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#429" type="page"/>
+                        <ptr target="IV/12#430" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004934">
+                    <idno type="mega">1028925</idno>
+                    <persName type="reg">
+                        <surname>Villanueva</surname>
+                        <forename>Joaquín Lorenzo</forename>
+                    </persName>
+                    <birth>1757</birth>
+                    <death>1837</death>
+                    <note>spanischer Theologe, Politiker, Historiker und Schriftsteller; Liberaler; 1812 und 1820 Abgeordneter der Cortes, ab 1823 im Exil</note>
+                    <linkGrp>
+                        <ptr target="IV/12#501" type="page"/>
+                        <ptr target="IV/12#689" type="page"/>
+                        <ptr target="IV/12#715" type="page"/>
+                        <ptr target="IV/12#847" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004935">
+                    <idno type="mega">1028926</idno>
+                    <persName type="reg">
+                        <name>Villar, Nicolás de Toledo, marqués de</name>
+                    </persName>
+                    <note>spanischer Politiker; Mitglied der Obersten Zentraljunta (1808–1810)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#663" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004936">
+                    <idno type="mega">1028927</idno>
+                    <persName type="reg">
+                        <name>Villard, Amédée genannt Pseudonym A. Tourmagne</name>
+                    </persName>
+                    <note>französischer Historiker</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000004937">
+                    <idno type="mega">1028928</idno>
+                    <persName type="reg">
+                        <surname>Villareal</surname>
+                        <forename>Bruno</forename>
+                    </persName>
+                    <birth>1788</birth>
+                    <death>1860</death>
+                    <note>spanischer Militär; General der Karlisten</note>
+                    <linkGrp>
+                        <ptr target="IV/12#860" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011708">
+                    <idno type="mega">1028929</idno>
+                    <persName type="reg">
+                        <name>Villars, Claude Louis Hector, duc de</name>
+                    </persName>
+                    <birth>1653</birth>
+                    <death>1734</death>
+                    <note>französischer Heerführer; Marschall von Frankreich (seit 1702)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#274" type="page"/>
+                        <ptr target="IV/12#275" type="page"/>
+                        <ptr target="IV/12#280" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004938">
+                    <idno type="mega">1028930</idno>
+                    <persName type="reg">
+                        <surname>Villavicencio</surname>
+                        <forename>Juan María de</forename>
+                    </persName>
+                    <birth>1755</birth>
+                    <death>1830</death>
+                    <note>spanischer Admiral und Politiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#497" type="page"/>
+                        <ptr target="IV/12#622" type="page"/>
+                        <ptr target="IV/12#697" type="page"/>
+                        <ptr target="IV/12#823" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004939">
+                    <idno type="mega">1028934</idno>
+                    <persName type="reg">
+                        <surname>Villegardelle</surname>
+                        <forename>François</forename>
+                    </persName>
+                    <birth>1810</birth>
+                    <death>1856</death>
+                    <note>französischer Publizist, Anhänger von Charles Fourier</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000004940">
+                    <idno type="mega">1028936</idno>
+                    <persName type="reg">
+                        <name>Villel, Juan Antonio de Fivaller, marqués de</name>
+                    </persName>
+                    <note>spanischer Politiker; Mitglied der Obersten Zentraljunta (1808–1810)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#651" type="page"/>
+                        <ptr target="IV/12#660" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011709">
+                    <idno type="mega">1028946</idno>
+                    <persName type="reg">
+                        <name>Villeneuve, Louis Sauveur, marquis de</name>
+                    </persName>
+                    <birth>1675</birth>
+                    <death>1747</death>
+                    <note>französischer Diplomat; 1728–1744 Gesandter in Konstantinopel</note>
+                    <linkGrp>
+                        <ptr target="IV/12#345" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011710">
+                    <idno type="mega">1028948</idno>
+                    <persName type="reg">
+                        <name>Villera</name>
+                    </persName>
+                    <note>Höfling Felipes&#160;V.</note>
+                    <linkGrp>
+                        <ptr target="IV/12#875" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011711">
+                    <idno type="mega">1028950</idno>
+                    <persName type="reg">
+                        <name>Villeroi, François de Neufville, duc de</name>
+                    </persName>
+                    <birth>1644</birth>
+                    <death>1730</death>
+                    <note>französischer Heerführer und Staatsmann; Marschall von Frankreich (seit 1693)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#274" type="page"/>
+                        <ptr target="IV/12#275" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004942">
+                    <idno type="mega">1028957</idno>
+                    <persName type="reg">
+                        <surname>Villetard de Prunières</surname>
+                        <forename>Charles Edmond</forename>
+                    </persName>
+                    <birth>1828</birth>
+                    <death>1889</death>
+                    <note>französischer Journalist</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000004943">
+                    <idno type="mega">1028955</idno>
+                    <persName type="reg">
+                        <name>Villiers, George William Frederick, 4th&#160;Earl of Clarendon</name>
+                    </persName>
+                    <birth>1800</birth>
+                    <death>1870</death>
+                    <note>Gesandter in Spanien (1833–1839), Lordleutnant von Irland (1847–1852), Außenminister (1853–1858, 1865/1866, 1868–1870); britischer Staatsmann und Diplomat; Whig, später Liberaler; Vizekönig von Irland (1847–1852)</note>
+                    <linkGrp>
+                        <ptr target="I/14#75" type="page"/>
+                        <ptr target="I/14#106" type="page"/>
+                        <ptr target="I/14#140" type="page"/>
+                        <ptr target="I/14#163" type="page"/>
+                        <ptr target="I/14#175" type="page"/>
+                        <ptr target="I/14#184" type="page"/>
+                        <ptr target="I/14#217" type="page"/>
+                        <ptr target="I/14#218" type="page"/>
+                        <ptr target="I/14#370" type="page"/>
+                        <ptr target="I/14#436" type="page"/>
+                        <ptr target="I/14#441" type="page"/>
+                        <ptr target="I/14#559" type="page"/>
+                        <ptr target="I/14#585" type="page"/>
+                        <ptr target="I/14#590" type="page"/>
+                        <ptr target="I/14#599" type="page"/>
+                        <ptr target="I/14#601" type="page"/>
+                        <ptr target="I/14#608" type="page"/>
+                        <ptr target="I/14#614" type="page"/>
+                        <ptr target="I/14#615" type="page"/>
+                        <ptr target="I/14#625" type="page"/>
+                        <ptr target="I/14#627" type="page"/>
+                        <ptr target="I/14#651" type="page"/>
+                        <ptr target="I/14#876" type="page"/>
+                        <ptr target="I/14#877" type="page"/>
+                        <ptr target="I/14#889" type="page"/>
+                        <ptr target="I/14#890" type="page"/>
+                        <ptr target="I/14#950" type="page"/>
+                        <ptr target="I/14#1028" type="page"/>
+                        <ptr target="I/14#1038" type="page"/>
+                        <ptr target="I/14#1041" type="page"/>
+                        <ptr target="I/14#1110" type="page"/>
+                        <ptr target="I/14#1126" type="page"/>
+                        <ptr target="I/14#1140" type="page"/>
+                        <ptr target="I/14#1162" type="page"/>
+                        <ptr target="I/14#1164" type="page"/>
+                        <ptr target="I/14#1200" type="page"/>
+                        <ptr target="I/14#1289" type="page"/>
+                        <ptr target="I/14#1348" type="page"/>
+                        <ptr target="I/14#1352" type="page"/>
+                        <ptr target="I/14#1434" type="page"/>
+                        <ptr target="I/14#1448" type="page"/>
+                        <ptr target="I/14#1483" type="page"/>
+                        <ptr target="I/14#1553" type="page"/>
+                        <ptr target="III/11#624" type="page"/>
+                        <ptr target="IV/12#44" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011712">
+                    <idno type="mega">1028954</idno>
+                    <persName type="reg">
+                        <name>Villiers, George, 1st Duke of Buckingham</name>
+                    </persName>
+                    <birth>1592</birth>
+                    <death>1628</death>
+                    <note>englischer Admiral</note>
+                    <linkGrp>
+                        <ptr target="IV/12#882" type="page"/>
+                        <ptr target="IV/12#1455" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004941">
+                    <idno type="mega">1028937</idno>
+                    <persName type="reg">
+                        <name>Villèle, Joseph, comte de</name>
+                    </persName>
+                    <birth>1773</birth>
+                    <death>1854</death>
+                    <note>französischer Staatsmann; 1821–1828 Ministerpräsident</note>
+                    <linkGrp>
+                        <ptr target="IV/12#46" type="page"/>
+                        <ptr target="IV/12#803–806" type="page"/>
+                        <ptr target="IV/12#835" type="page"/>
+                        <ptr target="IV/12#843" type="page"/>
+                        <ptr target="IV/12#941" type="page"/>
+                        <ptr target="IV/12#1399" type="page"/>
+                        <ptr target="IV/12#1424" type="page"/>
+                        <ptr target="IV/12#1427" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004945">
+                    <idno type="mega">1028972</idno>
+                    <persName type="reg">
+                        <surname>Vincent</surname>
+                        <forename>Henry</forename>
+                    </persName>
+                    <birth>1813</birth>
+                    <death>1878</death>
+                    <note>englischer Publizist, Chartist; britischer Drucker; führendes Mitglied der Chartistenbewegung, mehrfach verurteilt; hielt zahlreiche öffentliche Vorträge, Vortragsreisen in den USA (1866/1867 und 1875/1876)</note>
+                    <linkGrp>
+                        <ptr target="I/14#1306" type="page"/>
+                        <ptr target="I/31#428" type="page"/>
+                        <ptr target="I/31#430" type="page"/>
+                        <ptr target="I/31#1199" type="page"/>
+                        <ptr target="I/31#1201" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004946">
+                    <idno type="mega">1028973</idno>
+                    <persName type="reg">
+                        <surname>Vincent</surname>
+                        <forename>Louis</forename>
+                    </persName>
+                    <note>deutscher Agrarschriftsteller</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000011713">
+                    <idno type="mega">1028976</idno>
+                    <persName type="reg">
+                        <name>Vincent-Rückert</name>
+                    </persName>
+                    <note>Bekannter von Wilhelm Liebknecht in Berlin</note>
+                    <linkGrp>
+                        <ptr target="III/13#426" type="page"/>
+                        <ptr target="III/13#447" type="page"/>
+                        <ptr target="III/13#465" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011714">
+                    <idno type="mega">1028977</idno>
+                    <persName type="reg">
+                        <name>Vincent-Rückert,</name>
+                    </persName>
+                    <note>Bruder von Vincent-Rückert</note>
+                    <linkGrp>
+                        <ptr target="III/13#426" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004947">
+                    <idno type="mega">1028979</idno>
+                    <persName type="reg">
+                        <name>Vincke, Georg, Freiherr von</name>
+                    </persName>
+                    <persName type="alt">
+                        <name>Vinke</name>
+                    </persName>
+                    <birth>1811</birth>
+                    <death>1875</death>
+                    <note>preußischer Jurist, Beamter; liberaler Politiker; 1837–1848 Landrat in Hagen; 1848/49 Mitglied der Frankfurter Nationalversammlung (rechter Flügel), 1849–1855, 1858–1863, 1866/1867 Mitglied des preußischen Abgeordnetenhauses und 1867–1869 des Norddeutschen Reichstages; 1848 ein Führer des rechten Flügels der Frankfurter Nationalversammlung; als Führer der gemäßigten Altliberalen Mitglied des preußischen Abgeordnetenhauses (1849–1867), Mitglied des Reichstags des Norddeutschen Bundes (1867–1869)</note>
+                    <linkGrp>
+                        <ptr target="III/9#989" type="page"/>
+                        <ptr target="III/10#1020" type="page"/>
+                        <ptr target="III/11#20" type="page"/>
+                        <ptr target="III/11#359" type="page"/>
+                        <ptr target="III/11#387" type="page"/>
+                        <ptr target="III/11#459" type="page"/>
+                        <ptr target="III/11#470" type="page"/>
+                        <ptr target="III/11#529" type="page"/>
+                        <ptr target="III/11#560" type="page"/>
+                        <ptr target="III/11#703" type="page"/>
+                        <ptr target="III/11#1086" type="page"/>
+                        <ptr target="III/11#1116" type="page"/>
+                        <ptr target="III/11#1197" type="page"/>
+                        <ptr target="III/11#1210" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004948">
+                    <idno type="mega">1028980</idno>
+                    <persName type="reg">
+                        <name>Vincke, Karl Friedrich, Freiherr von</name>
+                    </persName>
+                    <birth>1800</birth>
+                    <death>1869</death>
+                    <note>preußischer Offizier und Diplomat; Gesandter in Konstantinopel (1836–1839); ab 1848 Politiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#203" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004949">
+                    <idno type="mega">1028985</idno>
+                    <persName type="reg">
+                        <surname>Vinuesa de Alfaro</surname>
+                        <forename>Matías</forename>
+                    </persName>
+                    <birth>1799</birth>
+                    <death>1821</death>
+                    <note>spanischer Geistlicher und Theologe; Kaplan Fernandos&#160;VII, vom Mob im Gefängnis erschlagen</note>
+                    <linkGrp>
+                        <ptr target="IV/12#469" type="page"/>
+                        <ptr target="IV/12#640" type="page"/>
+                        <ptr target="IV/12#799" type="page"/>
+                        <ptr target="IV/12#812" type="page"/>
+                        <ptr target="IV/12#827" type="page"/>
+                        <ptr target="IV/12#1344" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004944">
+                    <idno type="mega">1028968</idno>
+                    <persName type="reg">
+                        <surname>Vinçard</surname>
+                        <forename>Pierre Denis</forename>
+                    </persName>
+                    <birth>1820</birth>
+                    <death>1882</death>
+                    <note>französischer Arbeiter und Publizist; Mitglied der Internationalen Arbeiterassoziation; 1848 Teilnehmer der Revolution in Frankreich; Mitglied der Section de Paris de l’A.I.T.</note>
+                    <linkGrp>
+                        <ptr target="II/15#762" type="page"/>
+                        <ptr target="II/15#1247" type="page"/>
+                        <ptr target="III/13#280" type="page"/>
+                        <ptr target="III/13#282" type="page"/>
+                        <ptr target="III/13#348" type="page"/>
+                        <ptr target="III/13#414" type="page"/>
+                        <ptr target="III/13#422" type="page"/>
+                        <ptr target="III/13#424" type="page"/>
+                        <ptr target="III/13#425" type="page"/>
+                        <ptr target="III/13#463" type="page"/>
+                        <ptr target="III/13#663" type="page"/>
+                        <ptr target="III/13#971" type="page"/>
+                        <ptr target="III/13#1038" type="page"/>
+                        <ptr target="III/13#1039" type="page"/>
+                        <ptr target="III/13#1128" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004950">
+                    <idno type="mega">1028988</idno>
+                    <persName type="reg">
+                        <name>Violand, Ernst, Ritter von</name>
+                    </persName>
+                    <birth>1820</birth>
+                    <death>1875</death>
+                    <note>österreichischer Jurist und Publizist; Teilnehmer der Revolution 1848/49; emigrierte nach deren Niederlage in die USA</note>
+                    <linkGrp>
+                        <ptr target="IV/12#958" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004951">
+                    <idno type="mega">1028991</idno>
+                    <persName type="reg">
+                        <surname>Virchow</surname>
+                        <forename>Rudolf</forename>
+                    </persName>
+                    <birth>1821</birth>
+                    <death>1902</death>
+                    <note>deutscher Pathologe und Anthropologe; 1861 ein Gründer und Führer der Deutschen Fortschrittspartei; Mitglied des preußischen Abgeordnetenhauses (1862–1902) und des Deutschen Reichstags (1880–1893); Begründer der Zellularpathologie; Gegner Darwins; Abgeordneter im Berliner und im preußischen Abgeordnetenhaus sowie im Deutschen Reichstag</note>
+                    <linkGrp>
+                        <ptr target="I/31#867" type="page"/>
+                        <ptr target="III/11#502" type="page"/>
+                        <ptr target="III/11#553" type="page"/>
+                        <ptr target="III/11#1236" type="page"/>
+                        <ptr target="III/11#1283" type="page"/>
+                        <ptr target="III/13#77" type="page"/>
+                        <ptr target="III/13#78" type="page"/>
+                        <ptr target="III/13#765" type="page"/>
+                        <ptr target="IV/31#679" type="page"/>
+                        <ptr target="IV/31#681" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011715">
+                    <idno type="mega">1028999</idno>
+                    <persName type="reg">
+                        <name>Viriathus</name>
+                    </persName>
+                    <note>lusitanischer Hirt; Führer im Unabhängigkeitskampf der Lusitanier gegen Rom (147 v.&#160;Chr.–139 v.&#160;Chr.); ermordet</note>
+                    <linkGrp>
+                        <ptr target="IV/12#428" type="page"/>
+                        <ptr target="IV/12#653" type="page"/>
+                        <ptr target="IV/12#675" type="page"/>
+                        <ptr target="IV/12#746" type="page"/>
+                        <ptr target="IV/12#1348" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004952">
+                    <idno type="mega">1029002</idno>
+                    <persName type="reg">
+                        <name>Vischer, Friedrich Theodor von genannt Pseudonyme Deuthobold Symbolizetti, Allegoriowitsch Mystifizinsky, Philipp Ulrich Schartenmeyer</name>
+                    </persName>
+                    <birth>1807</birth>
+                    <death>1887</death>
+                    <note>deutscher Philosoph und Schriftsteller</note>
+                    <linkGrp>
+                        <ptr target="III/9#72" type="page"/>
+                        <ptr target="III/9#606" type="page"/>
+                        <ptr target="III/9#751" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004953">
+                    <idno type="uri">http://d-nb.info/gnd/101594259</idno>
+                    <idno type="mega">1029012</idno>
+                    <persName type="reg">
+                        <surname>Vissering</surname>
+                        <forename>Simon</forename>
+                    </persName>
+                    <birth>1818</birth>
+                    <death>1888</death>
+                    <note>niederländischer Ökonom und Statistiker; Finanzminister (1879–1881)</note>
+                    <linkGrp>
+                        <ptr target="II/15#311–313" type="page"/>
+                        <ptr target="II/15#1084" type="page"/>
+                        <ptr target="II/15#1085" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004954">
+                    <idno type="mega">1029016</idno>
+                    <persName type="reg">
+                        <name>Vitkevič, Ivan Viktorovič (Виткевич)</name>
+                    </persName>
+                    <note>russischer Asienreisender; 1838 diplomatischer Vertreter in Afghanistan</note>
+                    <linkGrp>
+                        <ptr target="I/14#941" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004955">
+                    <idno type="mega">1029020</idno>
+                    <persName type="reg">
+                        <name>Vittorio Emanuele&#160;II</name>
+                    </persName>
+                    <birth>1820</birth>
+                    <death>1878</death>
+                    <note>König von Sardinien (1849–1861); seit 1861 König von Italien</note>
+                    <linkGrp>
+                        <ptr target="I/14#1028" type="page"/>
+                        <ptr target="I/14#1381" type="page"/>
+                        <ptr target="I/31#501" type="page"/>
+                        <ptr target="I/31#854" type="page"/>
+                        <ptr target="I/31#1260" type="page"/>
+                        <ptr target="III/13#146" type="page"/>
+                        <ptr target="III/13#993" type="page"/>
+                        <ptr target="III/9#291" type="page"/>
+                        <ptr target="III/9#298" type="page"/>
+                        <ptr target="III/9#955" type="page"/>
+                        <ptr target="III/9#966" type="page"/>
+                        <ptr target="III/9#1071" type="page"/>
+                        <ptr target="III/10#68" type="page"/>
+                        <ptr target="III/10#352" type="page"/>
+                        <ptr target="III/10#550" type="page"/>
+                        <ptr target="III/10#682" type="page"/>
+                        <ptr target="III/10#707" type="page"/>
+                        <ptr target="III/10#959" type="page"/>
+                        <ptr target="III/10#960" type="page"/>
+                        <ptr target="III/11#147" type="page"/>
+                        <ptr target="III/11#188" type="page"/>
+                        <ptr target="III/11#192" type="page"/>
+                        <ptr target="III/11#197" type="page"/>
+                        <ptr target="III/11#316" type="page"/>
+                        <ptr target="III/11#686" type="page"/>
+                        <ptr target="III/11#688" type="page"/>
+                        <ptr target="III/11#893" type="page"/>
+                        <ptr target="III/11#923" type="page"/>
+                        <ptr target="III/11#932" type="page"/>
+                        <ptr target="III/11#1013" type="page"/>
+                        <ptr target="III/11#1116" type="page"/>
+                        <ptr target="III/11#1291" type="page"/>
+                        <ptr target="III/11#1306" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011717">
+                    <idno type="mega">1029047</idno>
+                    <persName type="reg">
+                        <name>Vladimir&#160;I Svjatoslavič, Velikij, Svjatoj</name>
+                    </persName>
+                    <note>Großfürst von Novgorod (seit 970) und Kiev (seit 980); führte 988 das griechisch-orthodoxe Christentum ein; seit 990 verheiratet mit Anna, Schwester Basileios’&#160;II und Konstantinos’&#160;VIII.</note>
+                    <linkGrp>
+                        <ptr target="IV/12#21" type="page"/>
+                        <ptr target="IV/12#22" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011716">
+                    <idno type="mega">1029045</idno>
+                    <persName type="reg">
+                        <name>Vlad&#160;III Tepes</name>
+                    </persName>
+                    <birth>1431</birth>
+                    <death>1476</death>
+                    <note>Hospodar der Walachei (1448, 1456–1462, 1476)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#362" type="page"/>
+                        <ptr target="IV/12#1215" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004958">
+                    <idno type="mega">1029067</idno>
+                    <persName type="reg">
+                        <surname>Vogel</surname>
+                        <forename>Johann Jakob Ulrich</forename>
+                    </persName>
+                    <birth>1832</birth>
+                    <death>1864</death>
+                    <note>Schweizer Historiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#1232" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="ed_a3p_plj_dy">
+                    <persName type="reg">
+                        <surname>Vogel von Falckenstein</surname>
+                        <forename>Eduard</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Falkenstein</name>
+                    </persName>
+                    <birth>1797</birth>
+                    <death>1885</death>
+                </person>
+                <person xml:id="pdrPo.001.004.000004959">
+                    <idno type="mega">1029077</idno>
+                    <persName type="reg">
+                        <surname>Vogler</surname>
+                        <forename>Carl Georg</forename>
+                    </persName>
+                    <note>Verleger und Buchhändler in Brüssel</note>
+                    <linkGrp>
+                        <ptr target="III/10#345" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004960">
+                    <idno type="mega">1029081</idno>
+                    <persName type="reg">
+                        <surname>Vogt</surname>
+                        <forename>August</forename>
+                    </persName>
+                    <birth>1830</birth>
+                    <death>1883</death>
+                    <note>deutscher Schuhmacher; Mitglied des Bundes der Kommunisten, Teilnehmer der Revolution 1848/49; Mitglied des Allgemeinen Deutschen Arbeitervereins, 1865 Mitbegründer der Berliner Sektion der Internationalen Arbeiterassoziation; emigrierte 1867 in die USA, Mitglied des Cummunist Club in New York</note>
+                    <linkGrp>
+                        <ptr target="III/10#929" type="page"/>
+                        <ptr target="III/13#379" type="page"/>
+                        <ptr target="III/13#434" type="page"/>
+                        <ptr target="III/13#473" type="page"/>
+                        <ptr target="III/13#487" type="page"/>
+                        <ptr target="III/13#523" type="page"/>
+                        <ptr target="III/13#587" type="page"/>
+                        <ptr target="III/13#588" type="page"/>
+                        <ptr target="III/13#589" type="page"/>
+                        <ptr target="III/13#594" type="page"/>
+                        <ptr target="III/13#595" type="page"/>
+                        <ptr target="III/13#598" type="page"/>
+                        <ptr target="III/13#599" type="page"/>
+                        <ptr target="III/13#670" type="page"/>
+                        <ptr target="III/13#1140" type="page"/>
+                        <ptr target="III/13#1177" type="page"/>
+                        <ptr target="III/13#1188" type="page"/>
+                        <ptr target="III/13#1223" type="page"/>
+                        <ptr target="III/13#1273" type="page"/>
+                        <ptr target="III/13#1296–1299" type="page"/>
+                        <ptr target="III/13#1301" type="page"/>
+                        <ptr target="III/13#1306" type="page"/>
+                        <ptr target="III/13#1308" type="page"/>
+                        <ptr target="III/13#1313" type="page"/>
+                        <ptr target="III/13#1314" type="page"/>
+                        <ptr target="III/13#1327" type="page"/>
+                        <ptr target="III/13#1341" type="page"/>
+                        <ptr target="II/11#924" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004962">
+                    <idno type="mega">1029085</idno>
+                    <persName type="reg">
+                        <surname>Vogt</surname>
+                        <forename>Gustav</forename>
+                    </persName>
+                    <birth>1829</birth>
+                    <death>1901</death>
+                    <note>aus Gießen stammender Schweizer Jurist, Publizist und Politiker, Staatsrechtler; Direktor des Statistischen Bureaus der Schweiz (1860–1862); Bruder von Carl Vogt</note>
+                    <linkGrp>
+                        <ptr target="III/10#354" type="page"/>
+                        <ptr target="III/10#416" type="page"/>
+                        <ptr target="III/10#485" type="page"/>
+                        <ptr target="III/10#546" type="page"/>
+                        <ptr target="III/10#1321" type="page"/>
+                        <ptr target="III/10#1386" type="page"/>
+                        <ptr target="III/11#97" type="page"/>
+                        <ptr target="III/11#739" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004964">
+                    <idno type="mega">1029089</idno>
+                    <persName type="reg">
+                        <surname>Vogt</surname>
+                        <forename>Philipp Friedrich Wilhelm</forename>
+                    </persName>
+                    <birth>1786</birth>
+                    <death>1861</death>
+                    <note>deutscher Arzt, Liberaler; deutscher Anatom; Liberaler; seit 1835 Professor für klinische Medizin an der Berner Hochschule; Vater von Carl und Gustav Vogt</note>
+                    <linkGrp>
+                        <ptr target="III/10#1025" type="page"/>
+                        <ptr target="III/11#95" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011718">
+                    <idno type="mega">1029079</idno>
+                    <persName type="reg">
+                        <name>Vogt</name>
+                    </persName>
+                    <note>Schwester von Karl Vogt</note>
+                    <linkGrp>
+                        <ptr target="III/10#83" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004963">
+                    <idno type="mega">1029088</idno>
+                    <persName type="reg">
+                        <name>Vogt, Marianne Anna Marie geb. Michel</name>
+                    </persName>
+                    <birth>1827</birth>
+                    <death>1902</death>
+                    <note>Frau von Karl Vogt (seit 1853)</note>
+                    <linkGrp>
+                        <ptr target="III/10#410" type="page"/>
+                        <ptr target="III/10#417" type="page"/>
+                        <ptr target="III/10#418" type="page"/>
+                        <ptr target="III/10#462" type="page"/>
+                        <ptr target="III/10#1028" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004961">
+                    <idno type="mega">1029087</idno>
+                    <persName type="reg">
+                        <surname>VogtVogt</surname>
+                        <forename>KarlCarl</forename>
+                    </persName>
+                    <birth>1817</birth>
+                    <death>1895</death>
+                    <note>1848/49 Mitglied des Vorparlaments und Abgeordneter der Frankfurter Nationalversammlung, 1849 Mitglied der provisorischen Reichsregentschaft; 1847 Professor für Zoologie in Gießen; 1848/49 Abgeordneter der Frankfurter Nationalversammlung (linker Flügel), 1849 Mitglied der provisorischen Reichsregentschaft; seit 1852 Professor für Geologie, später auch Zoologie in Genf; Mitglied des Großen Rats der Stadt; deutscher Naturforscher, Philosoph und Politiker; Demokrat; emigrierte 1849 in die Schweiz; 1859/1860 wegen probonapartistischer Sympathien im Konflikt mit Marx; seit 1878 Mitglied des schweizerischen Nationalrates; Bruder von Gustav Vogt</note>
+                    <linkGrp>
+                        <ptr target="I/14#915" type="page"/>
+                        <ptr target="III/9#399" type="page"/>
+                        <ptr target="III/9#400" type="page"/>
+                        <ptr target="III/9#415" type="page"/>
+                        <ptr target="III/9#427" type="page"/>
+                        <ptr target="III/9#442" type="page"/>
+                        <ptr target="III/9#479" type="page"/>
+                        <ptr target="III/9#480" type="page"/>
+                        <ptr target="III/9#481" type="page"/>
+                        <ptr target="III/9#484" type="page"/>
+                        <ptr target="III/9#489" type="page"/>
+                        <ptr target="III/9#492" type="page"/>
+                        <ptr target="III/9#493" type="page"/>
+                        <ptr target="III/9#501" type="page"/>
+                        <ptr target="III/9#507" type="page"/>
+                        <ptr target="III/9#510" type="page"/>
+                        <ptr target="III/9#530" type="page"/>
+                        <ptr target="III/9#534" type="page"/>
+                        <ptr target="III/9#588" type="page"/>
+                        <ptr target="III/9#614" type="page"/>
+                        <ptr target="III/9#647–652" type="page"/>
+                        <ptr target="III/9#1064" type="page"/>
+                        <ptr target="III/9#1065" type="page"/>
+                        <ptr target="III/9#1088" type="page"/>
+                        <ptr target="III/9#1124" type="page"/>
+                        <ptr target="III/9#1124–1126" type="page"/>
+                        <ptr target="III/9#1174" type="page"/>
+                        <ptr target="III/10#6–8" type="page"/>
+                        <ptr target="III/10#30" type="page"/>
+                        <ptr target="III/10#37" type="page"/>
+                        <ptr target="III/10#49" type="page"/>
+                        <ptr target="III/10#50" type="page"/>
+                        <ptr target="III/10#62" type="page"/>
+                        <ptr target="III/10#66" type="page"/>
+                        <ptr target="III/10#68" type="page"/>
+                        <ptr target="III/10#73–76" type="page"/>
+                        <ptr target="III/10#78" type="page"/>
+                        <ptr target="III/10#79" type="page"/>
+                        <ptr target="III/10#82" type="page"/>
+                        <ptr target="III/10#83" type="page"/>
+                        <ptr target="III/10#87" type="page"/>
+                        <ptr target="III/10#96" type="page"/>
+                        <ptr target="III/10#99" type="page"/>
+                        <ptr target="III/10#102" type="page"/>
+                        <ptr target="III/10#109–113" type="page"/>
+                        <ptr target="III/10#118" type="page"/>
+                        <ptr target="III/10#119" type="page"/>
+                        <ptr target="III/10#121" type="page"/>
+                        <ptr target="III/10#122" type="page"/>
+                        <ptr target="III/10#164" type="page"/>
+                        <ptr target="III/10#167–170" type="page"/>
+                        <ptr target="III/10#175–178" type="page"/>
+                        <ptr target="III/10#180" type="page"/>
+                        <ptr target="III/10#181" type="page"/>
+                        <ptr target="III/10#183–185" type="page"/>
+                        <ptr target="III/10#188–190" type="page"/>
+                        <ptr target="III/10#193" type="page"/>
+                        <ptr target="III/10#194" type="page"/>
+                        <ptr target="III/10#197" type="page"/>
+                        <ptr target="III/10#199" type="page"/>
+                        <ptr target="III/10#200" type="page"/>
+                        <ptr target="III/10#203" type="page"/>
+                        <ptr target="III/10#204" type="page"/>
+                        <ptr target="III/10#206–208" type="page"/>
+                        <ptr target="III/10#213–216" type="page"/>
+                        <ptr target="III/10#218" type="page"/>
+                        <ptr target="III/10#228" type="page"/>
+                        <ptr target="III/10#230–233" type="page"/>
+                        <ptr target="III/10#237" type="page"/>
+                        <ptr target="III/10#238" type="page"/>
+                        <ptr target="III/10#247" type="page"/>
+                        <ptr target="III/10#253" type="page"/>
+                        <ptr target="III/10#254" type="page"/>
+                        <ptr target="III/10#257" type="page"/>
+                        <ptr target="III/10#262" type="page"/>
+                        <ptr target="III/10#264" type="page"/>
+                        <ptr target="III/10#267" type="page"/>
+                        <ptr target="III/10#270" type="page"/>
+                        <ptr target="III/10#271" type="page"/>
+                        <ptr target="III/10#276–290" type="page"/>
+                        <ptr target="III/10#292" type="page"/>
+                        <ptr target="III/10#293" type="page"/>
+                        <ptr target="III/10#295" type="page"/>
+                        <ptr target="III/10#296" type="page"/>
+                        <ptr target="III/10#298" type="page"/>
+                        <ptr target="III/10#301" type="page"/>
+                        <ptr target="III/10#307" type="page"/>
+                        <ptr target="III/10#312–314" type="page"/>
+                        <ptr target="III/10#319" type="page"/>
+                        <ptr target="III/10#320" type="page"/>
+                        <ptr target="III/10#323" type="page"/>
+                        <ptr target="III/10#324" type="page"/>
+                        <ptr target="III/10#326–329" type="page"/>
+                        <ptr target="III/10#333" type="page"/>
+                        <ptr target="III/10#335" type="page"/>
+                        <ptr target="III/10#336" type="page"/>
+                        <ptr target="III/10#339–341" type="page"/>
+                        <ptr target="III/10#343" type="page"/>
+                        <ptr target="III/10#344" type="page"/>
+                        <ptr target="III/10#350–352" type="page"/>
+                        <ptr target="III/10#354–357" type="page"/>
+                        <ptr target="III/10#359–361" type="page"/>
+                        <ptr target="III/10#364" type="page"/>
+                        <ptr target="III/10#366–371" type="page"/>
+                        <ptr target="III/10#376" type="page"/>
+                        <ptr target="III/10#377" type="page"/>
+                        <ptr target="III/10#380" type="page"/>
+                        <ptr target="III/10#398" type="page"/>
+                        <ptr target="III/10#407" type="page"/>
+                        <ptr target="III/10#410" type="page"/>
+                        <ptr target="III/10#411" type="page"/>
+                        <ptr target="III/10#414" type="page"/>
+                        <ptr target="III/10#417" type="page"/>
+                        <ptr target="III/10#418" type="page"/>
+                        <ptr target="III/10#421–424" type="page"/>
+                        <ptr target="III/10#426–428" type="page"/>
+                        <ptr target="III/10#439–445" type="page"/>
+                        <ptr target="III/10#457" type="page"/>
+                        <ptr target="III/10#462" type="page"/>
+                        <ptr target="III/10#463" type="page"/>
+                        <ptr target="III/10#478" type="page"/>
+                        <ptr target="III/10#480" type="page"/>
+                        <ptr target="III/10#484–487" type="page"/>
+                        <ptr target="III/10#490" type="page"/>
+                        <ptr target="III/10#491" type="page"/>
+                        <ptr target="III/10#497" type="page"/>
+                        <ptr target="III/10#505" type="page"/>
+                        <ptr target="III/10#506" type="page"/>
+                        <ptr target="III/10#507" type="page"/>
+                        <ptr target="III/10#509" type="page"/>
+                        <ptr target="III/10#511" type="page"/>
+                        <ptr target="III/10#516" type="page"/>
+                        <ptr target="III/10#519" type="page"/>
+                        <ptr target="III/10#521" type="page"/>
+                        <ptr target="III/10#522" type="page"/>
+                        <ptr target="III/10#528–530" type="page"/>
+                        <ptr target="III/10#537" type="page"/>
+                        <ptr target="III/10#546" type="page"/>
+                        <ptr target="III/10#550" type="page"/>
+                        <ptr target="III/10#551" type="page"/>
+                        <ptr target="III/10#562" type="page"/>
+                        <ptr target="III/10#568" type="page"/>
+                        <ptr target="III/10#574–578" type="page"/>
+                        <ptr target="III/10#583" type="page"/>
+                        <ptr target="III/10#611" type="page"/>
+                        <ptr target="III/10#619–636" type="page"/>
+                        <ptr target="III/10#647" type="page"/>
+                        <ptr target="III/10#649" type="page"/>
+                        <ptr target="III/10#706" type="page"/>
+                        <ptr target="III/10#711" type="page"/>
+                        <ptr target="III/10#712" type="page"/>
+                        <ptr target="III/10#720" type="page"/>
+                        <ptr target="III/10#723" type="page"/>
+                        <ptr target="III/10#724" type="page"/>
+                        <ptr target="III/10#744" type="page"/>
+                        <ptr target="III/10#754" type="page"/>
+                        <ptr target="III/10#756" type="page"/>
+                        <ptr target="III/10#758" type="page"/>
+                        <ptr target="III/10#763" type="page"/>
+                        <ptr target="III/10#765" type="page"/>
+                        <ptr target="III/10#774" type="page"/>
+                        <ptr target="III/10#796" type="page"/>
+                        <ptr target="III/10#800–802" type="page"/>
+                        <ptr target="III/10#806–808" type="page"/>
+                        <ptr target="III/10#810" type="page"/>
+                        <ptr target="III/10#812" type="page"/>
+                        <ptr target="III/10#814" type="page"/>
+                        <ptr target="III/10#815" type="page"/>
+                        <ptr target="III/10#818" type="page"/>
+                        <ptr target="III/10#822" type="page"/>
+                        <ptr target="III/10#824" type="page"/>
+                        <ptr target="III/10#829" type="page"/>
+                        <ptr target="III/10#831–833" type="page"/>
+                        <ptr target="III/10#837" type="page"/>
+                        <ptr target="III/10#839" type="page"/>
+                        <ptr target="III/10#840" type="page"/>
+                        <ptr target="III/10#853" type="page"/>
+                        <ptr target="III/10#856" type="page"/>
+                        <ptr target="III/10#875" type="page"/>
+                        <ptr target="III/10#879" type="page"/>
+                        <ptr target="III/10#882" type="page"/>
+                        <ptr target="III/10#883" type="page"/>
+                        <ptr target="III/10#885" type="page"/>
+                        <ptr target="III/10#888" type="page"/>
+                        <ptr target="III/10#893" type="page"/>
+                        <ptr target="III/10#894" type="page"/>
+                        <ptr target="III/10#896" type="page"/>
+                        <ptr target="III/10#899–906" type="page"/>
+                        <ptr target="III/10#909" type="page"/>
+                        <ptr target="III/10#914–916" type="page"/>
+                        <ptr target="III/10#918" type="page"/>
+                        <ptr target="III/10#924" type="page"/>
+                        <ptr target="III/10#927" type="page"/>
+                        <ptr target="III/10#932" type="page"/>
+                        <ptr target="III/10#936–938" type="page"/>
+                        <ptr target="III/10#948" type="page"/>
+                        <ptr target="III/10#950" type="page"/>
+                        <ptr target="III/10#957–960" type="page"/>
+                        <ptr target="III/10#962" type="page"/>
+                        <ptr target="III/10#963" type="page"/>
+                        <ptr target="III/10#965" type="page"/>
+                        <ptr target="III/10#969" type="page"/>
+                        <ptr target="III/10#974" type="page"/>
+                        <ptr target="III/10#975" type="page"/>
+                        <ptr target="III/10#980" type="page"/>
+                        <ptr target="III/10#982" type="page"/>
+                        <ptr target="III/10#1000" type="page"/>
+                        <ptr target="III/10#1002" type="page"/>
+                        <ptr target="III/10#1019–1021" type="page"/>
+                        <ptr target="III/10#1023–1025" type="page"/>
+                        <ptr target="III/10#1027–1029" type="page"/>
+                        <ptr target="III/10#1033" type="page"/>
+                        <ptr target="III/10#1036" type="page"/>
+                        <ptr target="III/10#1043" type="page"/>
+                        <ptr target="III/10#1050" type="page"/>
+                        <ptr target="III/10#1052–1054" type="page"/>
+                        <ptr target="III/10#1062–1065" type="page"/>
+                        <ptr target="III/10#1067–1069" type="page"/>
+                        <ptr target="III/10#1074" type="page"/>
+                        <ptr target="III/10#1075" type="page"/>
+                        <ptr target="III/10#1083" type="page"/>
+                        <ptr target="III/10#1092–1094" type="page"/>
+                        <ptr target="III/10#1096" type="page"/>
+                        <ptr target="III/10#1097" type="page"/>
+                        <ptr target="III/10#1110–1112" type="page"/>
+                        <ptr target="III/10#1127" type="page"/>
+                        <ptr target="III/10#1130" type="page"/>
+                        <ptr target="III/10#1136–1140" type="page"/>
+                        <ptr target="III/10#1143" type="page"/>
+                        <ptr target="III/10#1144" type="page"/>
+                        <ptr target="III/10#1148" type="page"/>
+                        <ptr target="III/10#1150" type="page"/>
+                        <ptr target="III/10#1158" type="page"/>
+                        <ptr target="III/10#1170" type="page"/>
+                        <ptr target="III/10#1173" type="page"/>
+                        <ptr target="III/10#1178" type="page"/>
+                        <ptr target="III/11#9–11" type="page"/>
+                        <ptr target="III/11#21" type="page"/>
+                        <ptr target="III/11#27" type="page"/>
+                        <ptr target="III/11#32" type="page"/>
+                        <ptr target="III/11#33" type="page"/>
+                        <ptr target="III/11#35" type="page"/>
+                        <ptr target="III/11#36" type="page"/>
+                        <ptr target="III/11#38" type="page"/>
+                        <ptr target="III/11#44" type="page"/>
+                        <ptr target="III/11#46" type="page"/>
+                        <ptr target="III/11#51" type="page"/>
+                        <ptr target="III/11#55" type="page"/>
+                        <ptr target="III/11#56" type="page"/>
+                        <ptr target="III/11#60" type="page"/>
+                        <ptr target="III/11#61" type="page"/>
+                        <ptr target="III/11#67–69" type="page"/>
+                        <ptr target="III/11#73" type="page"/>
+                        <ptr target="III/11#74" type="page"/>
+                        <ptr target="III/11#76" type="page"/>
+                        <ptr target="III/11#77" type="page"/>
+                        <ptr target="III/11#79" type="page"/>
+                        <ptr target="III/11#89" type="page"/>
+                        <ptr target="III/11#94" type="page"/>
+                        <ptr target="III/11#109" type="page"/>
+                        <ptr target="III/11#110" type="page"/>
+                        <ptr target="III/11#113" type="page"/>
+                        <ptr target="III/11#132" type="page"/>
+                        <ptr target="III/11#137" type="page"/>
+                        <ptr target="III/11#138" type="page"/>
+                        <ptr target="III/11#145" type="page"/>
+                        <ptr target="III/11#156–158" type="page"/>
+                        <ptr target="III/11#160" type="page"/>
+                        <ptr target="III/11#178–180" type="page"/>
+                        <ptr target="III/11#187" type="page"/>
+                        <ptr target="III/11#190" type="page"/>
+                        <ptr target="III/11#191" type="page"/>
+                        <ptr target="III/11#196" type="page"/>
+                        <ptr target="III/11#197" type="page"/>
+                        <ptr target="III/11#203–205" type="page"/>
+                        <ptr target="III/11#217" type="page"/>
+                        <ptr target="III/11#218" type="page"/>
+                        <ptr target="III/11#228" type="page"/>
+                        <ptr target="III/11#231" type="page"/>
+                        <ptr target="III/11#232" type="page"/>
+                        <ptr target="III/11#248" type="page"/>
+                        <ptr target="III/11#250" type="page"/>
+                        <ptr target="III/11#251" type="page"/>
+                        <ptr target="III/11#259" type="page"/>
+                        <ptr target="III/11#260" type="page"/>
+                        <ptr target="III/11#268" type="page"/>
+                        <ptr target="III/11#270" type="page"/>
+                        <ptr target="III/11#271" type="page"/>
+                        <ptr target="III/11#276" type="page"/>
+                        <ptr target="III/11#283" type="page"/>
+                        <ptr target="III/11#300" type="page"/>
+                        <ptr target="III/11#308" type="page"/>
+                        <ptr target="III/11#321" type="page"/>
+                        <ptr target="III/11#333" type="page"/>
+                        <ptr target="III/11#347" type="page"/>
+                        <ptr target="III/11#359" type="page"/>
+                        <ptr target="III/11#389" type="page"/>
+                        <ptr target="III/11#390" type="page"/>
+                        <ptr target="III/11#408" type="page"/>
+                        <ptr target="III/11#450" type="page"/>
+                        <ptr target="III/11#553" type="page"/>
+                        <ptr target="III/11#669–672" type="page"/>
+                        <ptr target="III/11#674–676" type="page"/>
+                        <ptr target="III/11#678–680" type="page"/>
+                        <ptr target="III/11#682" type="page"/>
+                        <ptr target="III/11#684" type="page"/>
+                        <ptr target="III/11#685" type="page"/>
+                        <ptr target="III/11#687" type="page"/>
+                        <ptr target="III/11#693–697" type="page"/>
+                        <ptr target="III/11#700" type="page"/>
+                        <ptr target="III/11#708" type="page"/>
+                        <ptr target="III/11#710" type="page"/>
+                        <ptr target="III/11#723" type="page"/>
+                        <ptr target="III/11#724" type="page"/>
+                        <ptr target="III/11#727" type="page"/>
+                        <ptr target="III/11#730" type="page"/>
+                        <ptr target="III/11#733" type="page"/>
+                        <ptr target="III/11#735" type="page"/>
+                        <ptr target="III/11#736" type="page"/>
+                        <ptr target="III/11#739" type="page"/>
+                        <ptr target="III/11#741" type="page"/>
+                        <ptr target="III/11#742" type="page"/>
+                        <ptr target="III/11#753" type="page"/>
+                        <ptr target="III/11#764–766" type="page"/>
+                        <ptr target="III/11#768" type="page"/>
+                        <ptr target="III/11#792" type="page"/>
+                        <ptr target="III/11#793" type="page"/>
+                        <ptr target="III/11#799" type="page"/>
+                        <ptr target="III/11#804" type="page"/>
+                        <ptr target="III/11#806" type="page"/>
+                        <ptr target="III/11#811" type="page"/>
+                        <ptr target="III/11#815" type="page"/>
+                        <ptr target="III/11#816" type="page"/>
+                        <ptr target="III/11#824" type="page"/>
+                        <ptr target="III/11#825" type="page"/>
+                        <ptr target="III/11#837" type="page"/>
+                        <ptr target="III/11#855" type="page"/>
+                        <ptr target="III/11#865" type="page"/>
+                        <ptr target="III/11#866" type="page"/>
+                        <ptr target="III/11#868" type="page"/>
+                        <ptr target="III/11#871" type="page"/>
+                        <ptr target="III/11#878" type="page"/>
+                        <ptr target="III/11#882" type="page"/>
+                        <ptr target="III/11#896" type="page"/>
+                        <ptr target="III/11#904" type="page"/>
+                        <ptr target="III/11#914" type="page"/>
+                        <ptr target="III/11#923" type="page"/>
+                        <ptr target="III/11#937" type="page"/>
+                        <ptr target="III/11#938" type="page"/>
+                        <ptr target="III/11#955" type="page"/>
+                        <ptr target="III/11#969" type="page"/>
+                        <ptr target="III/11#984" type="page"/>
+                        <ptr target="III/11#985" type="page"/>
+                        <ptr target="III/11#991" type="page"/>
+                        <ptr target="III/11#992" type="page"/>
+                        <ptr target="III/11#1001" type="page"/>
+                        <ptr target="III/11#1014" type="page"/>
+                        <ptr target="III/11#1036" type="page"/>
+                        <ptr target="III/11#1053" type="page"/>
+                        <ptr target="III/11#1075" type="page"/>
+                        <ptr target="III/11#1086" type="page"/>
+                        <ptr target="III/11#1187" type="page"/>
+                        <ptr target="III/11#1205" type="page"/>
+                        <ptr target="III/11#1206" type="page"/>
+                        <ptr target="III/11#1226" type="page"/>
+                        <ptr target="III/11#1312" type="page"/>
+                        <ptr target="III/13#58" type="page"/>
+                        <ptr target="III/13#81" type="page"/>
+                        <ptr target="III/13#82" type="page"/>
+                        <ptr target="III/13#92" type="page"/>
+                        <ptr target="III/13#100" type="page"/>
+                        <ptr target="III/13#110" type="page"/>
+                        <ptr target="III/13#158" type="page"/>
+                        <ptr target="III/13#181" type="page"/>
+                        <ptr target="III/13#358" type="page"/>
+                        <ptr target="III/13#530" type="page"/>
+                        <ptr target="III/13#648" type="page"/>
+                        <ptr target="III/13#656" type="page"/>
+                        <ptr target="III/13#658" type="page"/>
+                        <ptr target="III/13#726" type="page"/>
+                        <ptr target="III/13#743" type="page"/>
+                        <ptr target="III/13#774" type="page"/>
+                        <ptr target="III/13#1059" type="page"/>
+                        <ptr target="III/13#1119" type="page"/>
+                        <ptr target="III/13#1140" type="page"/>
+                        <ptr target="IV/12#956" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004965">
+                    <idno type="mega">1029101</idno>
+                    <persName type="reg">
+                        <surname>Voigts-Rhetz</surname>
+                        <forename>Konstantin Bernhard von</forename>
+                    </persName>
+                    <birth>1809</birth>
+                    <death>1877</death>
+                    <note>preußischer General</note>
+                    <linkGrp>
+                        <ptr target="IV/12#960" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004966">
+                    <idno type="mega">1029109</idno>
+                    <persName type="reg">
+                        <surname>Volders</surname>
+                        <forename>Jean</forename>
+                    </persName>
+                    <birth>1855</birth>
+                    <death>1896</death>
+                    <note>belgischer Publizist; Sozialist, Mitbegründer der Belgische Werklichen Partij/Parti Ouvrier Belge 1885</note>
+                    <linkGrp>
+                        <ptr target="I/31#515" type="page"/>
+                        <ptr target="I/31#516" type="page"/>
+                        <ptr target="I/31#535" type="page"/>
+                        <ptr target="I/31#536" type="page"/>
+                        <ptr target="I/31#1067" type="page"/>
+                        <ptr target="I/31#1296" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004967">
+                    <idno type="mega">1029111</idno>
+                    <persName type="reg">
+                        <name>Volk</name>
+                    </persName>
+                    <note>deutscher Schuhmacher, 1859 Präsident des deutschen Arbeitervereins in Genf, danach in Baden als Meister tätig</note>
+                    <linkGrp>
+                        <ptr target="III/10#487" type="page"/>
+                        <ptr target="III/10#488" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011721">
+                    <idno type="mega">1029113</idno>
+                    <persName type="reg">
+                        <name>Volker der Fiedeler</name>
+                    </persName>
+                    <note>Gestalt aus dem Nibelungenlied</note>
+                    <linkGrp>
+                        <ptr target="I/31#17" type="page"/>
+                        <ptr target="I/31#660" type="page"/>
+                        <ptr target="I/31#675" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004968">
+                    <idno type="mega">1029116</idno>
+                    <persName type="reg">
+                        <name>Volkov, Matvěj Stepanovič (Волковъ)</name>
+                    </persName>
+                    <birth>1802</birth>
+                    <death>1878</death>
+                    <note>russischer Ingenieur und Ökonom, Professor in St.&#160;Petersburg</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000004969">
+                    <idno type="mega">1029119</idno>
+                    <persName type="reg">
+                        <surname>Vollmar</surname>
+                        <forename>Georg Heinrich von</forename>
+                    </persName>
+                    <birth>1850</birth>
+                    <death>1922</death>
+                    <note>bayerischer Offizier und Beamter, sozialdemokratischer Politiker seit 1871, Redakteur des „Sozialdemokrat“ (1879 bis Ende 1880), Mitglied des Reichtags (1890–1918 mit Unterbrechung)</note>
+                    <linkGrp>
+                        <ptr target="I/31#1065" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004970">
+                    <idno type="mega">1029121</idno>
+                    <persName type="reg">
+                        <surname>Vollmer</surname>
+                        <forename>Paul</forename>
+                    </persName>
+                    <birth>1832</birth>
+                    <death>1906</death>
+                    <note>Schweizer Schriftsteller und Kunsthistoriker, Mitbegründer der literarischen Zeitung „Die Schweiz“</note>
+                    <linkGrp>
+                        <ptr target="III/10#545" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004971">
+                    <idno type="mega">1029123</idno>
+                    <persName type="reg">
+                        <name>Volta, Alessandro Giuseppe Antonio Anastasio, comte (seit 1810)</name>
+                    </persName>
+                    <birth>1745</birth>
+                    <death>1827</death>
+                    <note>italienischer Physiker, Chemiker und Physiologe; erfand 1775 den Elektrophor, 1781 das Elektroskop, schuf 1799 die erste Gleichstromquelle (Voltaische Säule); richtige Deutung der Experimente Galvanis</note>
+                    <linkGrp>
+                        <ptr target="IV/31#884" type="page"/>
+                        <ptr target="IV/31#960)" type="page"/>
+                        <ptr target="IV/31#471" type="page"/>
+                        <ptr target="IV/31#473" type="page"/>
+                        <ptr target="IV/31#527" type="page"/>
+                        <ptr target="IV/31#528–530" type="page"/>
+                        <ptr target="IV/31#537" type="page"/>
+                        <ptr target="IV/31#566" type="page"/>
+                        <ptr target="IV/31#570" type="page"/>
+                        <ptr target="IV/31#603" type="page"/>
+                        <ptr target="IV/31#613" type="page"/>
+                        <ptr target="IV/31#614" type="page"/>
+                        <ptr target="IV/31#884" type="page"/>
+                        <ptr target="IV/31#948" type="page"/>
+                        <ptr target="IV/31#950" type="page"/>
+                        <ptr target="IV/31#960" type="page"/>
+                        <ptr target="IV/31#981" type="page"/>
+                        <ptr target="IV/31#987–991" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011719">
+                    <idno type="mega">1029125</idno>
+                    <persName type="reg">
+                        <name>Voltaire eigtl. François Marie Arouet</name>
+                    </persName>
+                    <birth>1694</birth>
+                    <death>1778</death>
+                    <note>französischer Philosoph, Schriftsteller und Historiker; Hauptvertreter der Aufklärung</note>
+                    <linkGrp>
+                        <ptr target="I/14#443" type="page"/>
+                        <ptr target="I/14#538" type="page"/>
+                        <ptr target="I/31#313" type="page"/>
+                        <ptr target="I/31#981" type="page"/>
+                        <ptr target="I/31#1031" type="page"/>
+                        <ptr target="I/31#1150" type="page"/>
+                        <ptr target="III/11#271" type="page"/>
+                        <ptr target="III/11#276" type="page"/>
+                        <ptr target="III/11#380" type="page"/>
+                        <ptr target="III/11#1002" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004972">
+                    <idno type="mega">1029133</idno>
+                    <persName type="reg">
+                        <name>Voroncov (Woronzoff), Michail Semenovič, Fürst (Воронцов)</name>
+                    </persName>
+                    <birth>1782</birth>
+                    <death>1856</death>
+                    <note>russischer Generalfeldmarschall, Kommandeur der Kaukasus-Armee und Statthalter im Kaukasus (1844–März 1854); Sohn von Voroncov, Semen Romanovič und Onkel des britischen Politikers Sidney Herbert</note>
+                    <linkGrp>
+                        <ptr target="I/14#136" type="page"/>
+                        <ptr target="I/14#1073" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004973">
+                    <idno type="mega">1029134</idno>
+                    <persName type="reg">
+                        <name>Voroncov, Semen Romanovič, Graf (Воронцов)</name>
+                    </persName>
+                    <birth>1744</birth>
+                    <death>1832</death>
+                    <note>russischer Gesandter in Großbbritannien (1784–1806); Vater von Voroncov, Michail Semenovič</note>
+                    <linkGrp>
+                        <ptr target="I/14#1073" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004974">
+                    <idno type="mega">1029135</idno>
+                    <persName type="reg">
+                        <name>Voroncov, Vasilij Pavlovič genannt Pseudonym V.&#160;V. (Воронцов)</name>
+                    </persName>
+                    <birth>1847</birth>
+                    <death>1918</death>
+                    <note>russischer Ökonom und Soziologe; ein Ideologe des Narodničestvo</note>
+                    <linkGrp>
+                        <ptr target="II/14#483" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011720">
+                    <idno type="mega">1029136</idno>
+                    <persName type="reg">
+                        <name>Voroncova, Ekaterina Semenovna (Воронцова)</name>
+                    </persName>
+                    <note>Tochter von Voroncov, Semen Romanovič, Mutter von Sidney Herbert</note>
+                    <linkGrp>
+                        <ptr target="I/14#1073" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="ed_nn1_s5q_pz">
+                    <persName type="reg">
+                        <surname>Voß</surname>
+                        <forename>Johann Heinrich</forename>
+                    </persName>
+                    <birth>1851</birth>
+                    <death>1826</death>
+                    <note><?oxy_comment_start author="lindenberg" timestamp="20170418T150331+0200" comment="Angabe nach Wikipedia"?>Deutscher<?oxy_comment_end?>
+                        Dichter und Übersetzer</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000004975">
+                    <idno type="mega">1029151</idno>
+                    <persName type="reg">
+                        <name>Vostokov, Aleksandr Christoforovič (Востоков)</name>
+                    </persName>
+                    <birth>1781</birth>
+                    <death>1864</death>
+                    <note>russischer Philologe deutschbaltischer Abstammung (Alexander Woldemar Osteneck), Professor für Slawistik in Sankt-Petersburg, Begründer der russischen Slawenkunde</note>
+                    <linkGrp>
+                        <ptr target="I/14#789" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004976">
+                    <idno type="mega">1029154</idno>
+                    <persName type="reg">
+                        <name>Vrangel’, Karl Karlovič, Baron (Врангель)</name>
+                    </persName>
+                    <birth>1800</birth>
+                    <death>1872</death>
+                    <note>russischer General baltischer Abstammung (Wrangel), während des Krimkriegs zuerst im Kaukasus, 1855 Kommandeur der Festung Kerč auf der Krim</note>
+                    <linkGrp>
+                        <ptr target="I/14#773" type="page"/>
+                        <ptr target="I/14#1316" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004978">
+                    <idno type="mega">1029162</idno>
+                    <persName type="reg">
+                        <surname>Vukovics</surname>
+                        <forename>Sebö</forename>
+                    </persName>
+                    <birth>1811</birth>
+                    <death>1872</death>
+                    <note>ungarischer Politiker; 1849 Justizminister in der revolutionären Regierung; emigrierte nach dem Scheitern der Revolution nach London</note>
+                    <linkGrp>
+                        <ptr target="III/9#548" type="page"/>
+                        <ptr target="III/10#211" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004979">
+                    <idno type="mega">1029165</idno>
+                    <persName type="reg">
+                        <surname>Vulpius</surname>
+                        <forename>Christian August</forename>
+                    </persName>
+                    <birth>1762</birth>
+                    <death>1827</death>
+                    <note>deutscher Schriftsteller</note>
+                    <linkGrp>
+                        <ptr target="III/10#168" type="page"/>
+                        <ptr target="III/10#801" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004980">
+                    <idno type="mega">1029167</idno>
+                    <persName type="reg">
+                        <surname>Vuy</surname>
+                        <forename>Jules</forename>
+                    </persName>
+                    <birth>1815</birth>
+                    <death>1896</death>
+                    <note>Schweizer Jurist und Politiker, Polizeidirektor in Genf (1859–1861)</note>
+                    <linkGrp>
+                        <ptr target="III/10#485" type="page"/>
+                        <ptr target="III/10#1092" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004977">
+                    <idno type="mega">1029153</idno>
+                    <persName type="reg">
+                        <name>Vučič</name>
+                    </persName>
+                    <note>serbischer Politiker; in den 1830er/1840er Jahren Minister</note>
+                    <linkGrp>
+                        <ptr target="IV/12#334–337" type="page"/>
+                        <ptr target="IV/12#1211" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004912">
+                    <idno type="mega">1028828</idno>
+                    <persName type="reg">
+                        <surname>Véron</surname>
+                        <forename>Louis-Désiré</forename>
+                    </persName>
+                    <birth>1798</birth>
+                    <death>1867</death>
+                    <note>französischer Arzt und Journalist; Besitzer und Herausgeber von „La Revue de Paris“ und „Le Constitutionnel“</note>
+                    <linkGrp>
+                        <ptr target="IV/12#950" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004915">
+                    <idno type="mega">1028838</idno>
+                    <persName type="reg">
+                        <surname>Vésinier</surname>
+                        <forename>Pierre</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Vesigny</name>
+                    </persName>
+                    <birth>1820</birth>
+                    <death>1902</death>
+                    <note>französischer Journalist und Publizist; Antibonapartist; Emigrant in London; Mitbegründer der Branche française de Londres (1865), Mitglied des Generalrats der IAA (1865/1866), Teilnehmer der Londoner Konferenz (1865), 1868 aus der IAA ausgeschlossen; 1868 Rückkehr nach Frankreich, Mitglied der Pariser Kommune, flüchtete danach nach London; 1871 in Paris in Abwesenheit zum Tode verurteilt; nach der Amnestie von 1880 Rückkehr nach Frankreich</note>
+                    <linkGrp>
+                        <ptr target="III/13#597" type="page"/>
+                        <ptr target="III/13#1314" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004956">
+                    <idno type="mega">1029056</idno>
+                    <persName type="reg">
+                        <surname>Vögele</surname>
+                        <forename>August</forename>
+                    </persName>
+                    <note>deutscher Emigrant in London, 1859 Setzer in der Druckerei von Fidelio Hollinger</note>
+                    <linkGrp>
+                        <ptr target="III/10#76" type="page"/>
+                        <ptr target="III/10#219" type="page"/>
+                        <ptr target="III/10#223" type="page"/>
+                        <ptr target="III/10#230" type="page"/>
+                        <ptr target="III/10#234" type="page"/>
+                        <ptr target="III/10#235" type="page"/>
+                        <ptr target="III/10#250" type="page"/>
+                        <ptr target="III/10#253" type="page"/>
+                        <ptr target="III/10#257" type="page"/>
+                        <ptr target="III/10#258" type="page"/>
+                        <ptr target="III/10#262" type="page"/>
+                        <ptr target="III/10#272" type="page"/>
+                        <ptr target="III/10#281–286" type="page"/>
+                        <ptr target="III/10#328" type="page"/>
+                        <ptr target="III/10#351" type="page"/>
+                        <ptr target="III/10#647" type="page"/>
+                        <ptr target="III/10#688" type="page"/>
+                        <ptr target="III/10#704" type="page"/>
+                        <ptr target="III/10#714" type="page"/>
+                        <ptr target="III/10#844" type="page"/>
+                        <ptr target="III/10#857" type="page"/>
+                        <ptr target="III/10#870" type="page"/>
+                        <ptr target="III/10#879" type="page"/>
+                        <ptr target="III/10#884" type="page"/>
+                        <ptr target="III/10#890" type="page"/>
+                        <ptr target="III/10#932" type="page"/>
+                        <ptr target="III/10#958" type="page"/>
+                        <ptr target="III/10#967" type="page"/>
+                        <ptr target="III/11#825" type="page"/>
+                        <ptr target="III/11#868" type="page"/>
+                        <ptr target="III/11#871" type="page"/>
+                        <ptr target="III/13#770" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000004957">
+                    <idno type="mega">1029061</idno>
+                    <persName type="reg">
+                        <surname>Völter</surname>
+                        <forename>Daniel</forename>
+                    </persName>
+                    <birth>1814</birth>
+                    <death>1865</death>
+                    <note>deutscher Lehrer und Geograph</note>
+                    <linkGrp>
+                        <ptr target="III/13#60" type="page"/>
+                    </linkGrp>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

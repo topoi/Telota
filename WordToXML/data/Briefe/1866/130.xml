@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00134" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>130</idno>Friedrich Engels an Karl Marx in London. Manchester, Montag, 9. Juli 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1615/D III 383</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format 128&#160;×&#160;205&#160;mm. Wasserzeichen: „Tow[good’s] Extra [Super]“. Die erste Seite hat Engels vollständig beschrieben, die zweite zur Hälfte. Schreibmaterial: schwarze Tinte.</p><p>Von Eduard Bernsteins Hand: Numerierung der beschriebenen Seiten: „311,1“ bzw. „311,2“ und „17
+                                                  ,1“ bzw. „35,2“ (gestrichen).<?oxy_comment_start author="lindenberg" timestamp="20170421T183212+0200" comment="Von Eduard Bernsteins Hand: Numerierung des Briefes bzw. der beschriebenen Seiten: „311,1“ bzw. „311,2“ und „17 [??],1“ bzw. „35,2“ (gestrichen)."?>
+                                                  <?oxy_comment_end?>Korrektur der Datumszeile,
+                                                  Redaktionelle Vermerke.</p><p>Von Heinrich Dietz’ Hand: Numerierung des Briefes: „855“ (gestrichen).</p><p>Von unbekannter Hand: der Vermerk mit Bleistift „Vierling“ auf der ersten Seite oben links; die Anschrift mit Tinte vermutlich auf dem nicht überlieferten Briefumschlag, abgedruckt in Spiegelschrift auf der zweiten Seite: „Engels in […] Mrss Ermen &amp; Engels“. </p><p>Engels hat den Brief versehentlich mit 9.&#160;Juni datiert. Die korrekte Datierung ergibt sich
+                                                  aus dem Zusammenhang des Briefes mit dem Brief von
+                                                  Marx an Engels vom 7.&#160;Juli 1866
+                                                  (Br.&#160;129), den Engels mit diesem Brief
+                                                  beantwortet. </p><p>Datierung der Erstveröffentlichung: 9.&#160;Juli 1866.</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1978</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;332–334.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1866-07-09"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:36Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Manchester 9 <choice><sic>Juni</sic><corr cert="high">Juli</corr></choice> 66.</dateline><salute sameAs="MBAnrede">Lieber Mohr</salute></opener><p sameAs="MBTextohneEinzug">Die Geschichte d.h. die Weltgeschichte wird immer ironischer. Gibt es
+                                        etwas Feineres als diese praktische Verhöhnung <persName key="pdrPo.001.004.000003392">Bonapartes</persName>
+                                        durch seinen Schüler <persName key="pdrPo.001.004.000000441">Bismark</persName>, der, Krautjunker wie er ist,
+                                        seinem Meister plötzlich über den Kopf wächst &amp; der
+                                        ganzen Welt auf ein Mal handgreiflich klar macht wie sehr on
+                                        sufferance dieser arbitre de l'Europe existirt. Und dann
+                                        dieser Bismark selbst, der, um im Innern einige Monate
+                                        scheinbar feudal &amp; absolutistisch regieren zu können,
+                                        nach Außen <del rendition="#s">xx<sic ana="#break-off"/></del> die Politik der Bourgeoisie with a
+                                        vengeance verfolgt, der Bourgeoisie die Herrschaft
+                                        präparirt, Wege einschlägt auf denen nur mit liberalen,
+                                        selbst revolutionären Mitteln voranzukommen ist, &amp; dabei
+                                        seine eignen Krautjunker ihren eignen Prinzipien tagtäglich
+                                        ins Gesicht schlagen läßt. <seg type="comment"><orig>Die
+                                                  Überreicher des Ehrenschilds an <persName key="pdrPo.001.004.000001607">Franz
+                                                  Bomba<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><?oxy_custom_end?></persName></orig><note xml:id="b9b048e4-b203-45c5-a7ff-7a0235c621a1">
+                                                  <p rend="endnote text">Zur Überreichung des
+                                                  Ehrenschilds siehe Preußen. Berlin, 4. Juni. In:
+                                                  Allgemeine Zeitung. Augsburg. Nr._158,
+                                                  7.&#160;Juni 1866. S._3. (((lPreußen. Berlin,
+                                                  4._Juni. In: Allgemeine Zeitung. Augsburg.
+                                                  Nr._158, 7.&#160;Juni 1866. S._3))) - <persName key="pdrPo.001.004.000001607">Francesco
+                                                  II</persName>, letzter König beider Sizilien und
+                                                  vom Volksmund, als Sohn <persName key="pdrPo.001.004.000001499">Ferdinandos
+                                                  II</persName> („Re Bomba“, wegen der Bombardierung
+                                                  Messinas 1848), auch „Bombino“, genannt. Er wurde
+                                                  1861, nach der Eroberung des Königreiches durch
+                                                  <persName key="pdrPo.001.004.000001724">Garibaldi</persName>, abgesetzt. </p>
+                                                </note></seg> alliirt mit <persName key="pdrPo.001.004.000001724">Garibaldi</persName>,
+                                        &amp; <seg type="comment"><orig>die Vertreter der Throne von Gottes
+                                                  Gnaden Länderschlucker trotz Victor
+                                                  Emmanuel!</orig><note xml:id="nmlg_jyw_fz">
+                                                  <p>Nach dem Sieg im Deutschen Krieg 1866
+                                                  annektierte Preußen das Königreich Hannover, das
+                                                  Kurfürstentum Hessen-Kassel, das Herzogtum Nassau
+                                                  sowie die Freie Stadt Frankfurt a.M., die sich im
+                                                  Konflikt sämtlich für den Deutschen Bund und damit
+                                                  für Österreich erklärt hatten. </p>
+                                                  </note></seg><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><?oxy_custom_end?>
+                                        Nie gab es was Schöneres als <seg type="comment"><orig>die
+                                                  Kreuzzeitung</orig><note xml:id="e02a6e85-f273-4eb7-932d-30e178a5cdcc">Die
+                                                  „Neue Preußische Zeitung“ (Berlin). (((zNeue
+                                                  Preußische Zeitung)))
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></note></seg><index indexName="XE">
+                                                <term>zzKreuzzeitung</term>
+                                        </index><?oxy_custom_end?> während der letzten
+                                        4&#160;Wochen, &amp; die historisch-feudale Partei deren
+                                        Begründung dem hochseligen Genie <persName key="pdrPo.001.004.000001669"><?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?><expan resp="editor" sameAs="dottet_underline"><?oxy_custom_end?>F<ex>riedrich</ex></expan>
+                                                <expan resp="editor" sameAs="dottet_underline">W<ex>ilhelms</ex></expan>&#160;IV</persName>
+                                        soviel Mühe &amp; Arbeit gekostet, erstickt jetzt an dem
+                                        Dreck den sie auf Commando ihres eignen Führers fressen
+                                        muß.</p><p sameAs="MBTextmitEinzug">Die einfache Thatsache ist: Preußen hat 500,000&#160;Zündnadelgewehre
+                                        &amp; die übrige Welt keine 500. Unter 2, 3, vielleicht
+                                        5&#160;Jahren kann keine Armee mit Hinterladern bewaffnet
+                                        sein. Bis dahin hat Preußen das prae. Glaubst Du, daß
+                                                <persName key="pdrPo.001.004.000000441">Bismark</persName> den Moment nicht ausnutzen
+                                        werde? Sicher. Der <persName key="pdrPo.001.004.000003392">Bonaparte</persName> wird sich sehr hüten Krakehl
+                                        anzufangen, &amp; was die Russen angeht so brüllen sie zwar
+                                        sehr grob in dem Journal de S<hi rendition="#sup">t</hi>
+                                        <bibl sameAs="zzJournal de Saint-Pétersbourg">Pbg</bibl>,
+                                        aber sie sind militärisch jetzt weniger zu fürchten als je.
+                                        Ich zweifle gar nicht daß die <del rendition="#s">plötzlichen<sic ana="#break-off"/></del>
+                                        plötzliche ungeheure Machtentwicklung Preußens <expan resp="editor" sameAs="dottet_underline">Bonap<ex>arte</ex></expan> &amp; die Russen
+                                        zusammentreiben wird, &amp; daß ihr erstes Bemühen sein wird
+                                        alle &amp; jede Machtvergrößerung <subst>
+                                                <del>desselben</del>
+                                                <add>Preußens</add>
+                                        </subst> zu verhindern. Aber sie werden sich hüten es zum
+                                        Krieg kommen zu lassen; was Frankreich angeht so wäre seine
+                                        active Einmischungen ja das beste Mittel die Süddeutschen
+                                        den Preußen vollends in die Arme zu treiben &amp; <del> es
+                                                  verg<ex>essen</ex>
+                                                <sic ana="#break-off"/></del> den Bürgerkrieg
+                                        vergessen zu machen. <anchor type="verweisziel" xml:id="start_flh_3w5_4z"/>Und was die Russen
+                                        angeht, so ist Monsieur Bismark der Mann ihnen mit einer
+                                        neuen polnischen Insurrection zu drohen &amp; sie wissen daß
+                                        der Kerl gewissenlos genug dazu ist. Überhaupt kennt <expan resp="editor" sameAs="dottet_underline">B.</expan>
+                                        seine Macht zu gut &amp; weiß auch daß sie in diesem Maß nur
+                                        ein paar Jahre dauern kann, &amp; ich glaube er wird sie
+                                        ausbeuten bis aufs letzte Stückchen. <seg type="comment"><orig>Dazu ist <expan resp="editor" sameAs="dottet_underline">Bonap<ex>arte</ex></expan> am Ende immer mit
+                                                  Belgien zu kaufen, &amp; der Plan der Theilung
+                                                  Belgiens zwischen Frankr. &amp; Holland&#160;<pb/>
+                                                  welches dann Luxemburg an Fkch abtreten
+                                                  würde,</orig><note xml:id="nhbz_5zw_fz">Siehe auch
+                                                  <ref target="B00131/#start_ezg_zv5_4z">Engels an
+                                                  Marx,
+                                                  4.7.<?oxy_comment_start author="reichhoff" timestamp="20170421T161116+0200" comment="{{Br. 127.33}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        ist zwischen <persName key="pdrPo.001.004.000001828">Goltz</persName>, <persName key="pdrPo.001.004.000003392">Bonap. </persName>
+                                        &amp; <seg type="comment"><orig>dem <persName key="ed_ms4_vmq_fz"><expan resp="editor" sameAs="dottet_underline">Kronprinz<ex>en</ex></expan> v
+                                                  Holland</persName></orig><note xml:id="nh31_lx3_yy"><persName key="ed_ms4_vmq_fz">Willem, prins van Oranje</persName>.
+                                                </note></seg>
+                                        <seg type="comment"><orig>gar nicht lange vor dem Krieg „in
+                                                  Aussicht genommen worden“.</orig><anchor type="verweisziel" xml:id="stop_flh_3w5_4z"/><note xml:id="nwdq_msd_gz">Siehe <ref target="B00081/#ec27c23c-f6bd-4799-acac-bd496d728864">Erl. zu Engels an Marx,
+                                                  2.4.<?oxy_comment_start author="reichhoff" timestamp="20170513T153548+0200" comment="{{Erl. 78e}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                                        Ich glaube es ist noch lange nicht am Ende mit dem Krieg,
+                                        &amp; da kann sich noch Manches ereignen.</p><p sameAs="MBTextmitEinzug">Die Russen scheinen wirklich schon seit einiger Zeit die Schwenkung nach Oestr. zu gemacht zu haben, &amp; dieser enorme Erfolg der Preußen macht ihnen jede Rückkehr unmöglich. Um so mehr als Oestreich jetzt weich genug sein wird, sich Bosnien oder <expan resp="editor" sameAs="dottet_underline">d<ex>ie</ex></expan> Wallachei für Venedig anhängen zu lassen, wo dann Rußl. die Moldau nimmt.</p><p sameAs="MBTextmitEinzug">Du siehst übrigens wie richtig ich die preuß. Armee beurtheilte wenn ich immer behauptete daß viel mehr darin stäke als man gewöhnlich zugeben wollte. Nach diesen Erfolgen &amp; nach dem unbedingt brillanten Benehmen der Truppe ist ihr Selbstgefühl &amp; zugleich ihre Kriegserfahrung so gewachsen daß sie morgen den Franzosen gegenüber treten könnten selbst wenn diese Hinterlader hätten, &amp; das französische Bajonett hat jedenfalls ausgespielt wie <expan resp="editor" sameAs="dottet_underline">s<ex>einer</ex></expan> <expan resp="editor" sameAs="dottet_underline">Z<ex>eit</ex></expan> die spanische Pike. Bei allgemeiner Hinterladung wird die Kavalerie wieder zu ihrem Rechte kommen.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_dbl_rvm_qz"/>An <persName key="pdrPo.001.004.000003074">Jenny</persName> muß
+                                                  ich wie schon lange beabsichtigt einen
+                                                  ordentlichen Rapport abstatten über die
+                                                  Afrikaner.<anchor type="verweisziel" xml:id="stop_dbl_rvm_qz"/></orig><note xml:id="f271a482-78df-4636-8881-8c24831d4e59">Siehe <ref target="B00133/#start_hjp_czm_qz">Marx
+                                                  an Engels,
+                                                  7.7.<?oxy_comment_start author="reichhoff" timestamp="20170421T161319+0200" comment="{{Br. 129.80–81}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p><p sameAs="MBTextmitEinzug">Viele Grüße</p><closer sameAs="MBUnterschrift">Dein<lb/>F. E. </closer></div></body></text></TEI>

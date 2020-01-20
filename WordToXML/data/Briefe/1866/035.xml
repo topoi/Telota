@@ -1,0 +1,25 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00038" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>35</idno>Friedrich Leßner an Karl Marx in London. London, Montag, 12. Februar 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 3021/D V 183–8. Fotosign.
+                            9493a–b</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            178&#160;×&#160;111&#160;mm. Leßner hat die ersten zwei Seiten
+                            vollständig beschrieben, die übrigen beiden sind leer. Schreibmaterial:
+                            schwarze Tinte.</p>
+                        <p>Die Schreibweise wurde nicht korrigiert.</p>
+                        <p>Von unbekannter Hand: auf der ersten Seite mit Bleistift: Datierung
+                            „12.2.66“ (oben rechts) und eine Nummerierung des Briefes: „8“ (oben
+                            Mitte).</p>
+                        <p>Die Beilage („ ... hierbei zu legen.“) ist nicht überliefert.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1637</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc><listWit><witness><bibl>Erstveröffentlichung: in russischer Übersetzung: Письма Фридриха Лесснера Карлу
+                            Марксу (1935). S.&#160;152</bibl>.</witness><witness><bibl>in der Sprache des Originals wird der Brief hier erstmals veröffentlicht.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_l54_cks_xy">Friedrich Leßner</persName><placeName>London</placeName><date when="1866-02-12"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:36Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 4 Francis St. Tottenham Court Road.</dateline><salute sameAs="MBAnrede">Lieber Marx!</salute></opener><p sameAs="MBTextohneEinzug">Da Heute Abent daß Stieftungsfest <seg type="comment"><orig>unseres Vereins</orig><note xml:id="c2b92f66-d06a-490c-bd05-0958a974106d">Der deutsche Arbeiterbildungsverein in London, gegründet am 7.&#160;Februar 1840. Der Verein nahm später an der Gründung der IAA teil und trat ihr am 10.&#160;Januar 1865 als eine der ersten Organisationen bei (siehe The_Minute Book 1864–1866. In: MEGA²&#160;I/20. S.&#160;293/294). (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20. S._265–450))) </note></seg> ist, so Glauben Viele daß Du kommen würdest. ich habe aber denselben gesagt, das Du einmal sehr überhäuft von Arbeiten bist, und das Hauptsächlichste das Du sehr Unwohl die ganze lätzte zeit gewesen, und noch bist.</p><p sameAs="MBTextmitEinzug">Ich wünschte das Du ein bar zeilen schreiben würtest an den <hi rendition="#u">Verein</hi>;</p><p sameAs="MBTextmitEinzug">Es würde dies ein guten Eindruk machen, es sind zwar jetzt sehr <pb/> sehr wenige Midglieder, Aber doch gröstentheils ziehmlich gut. –</p><p sameAs="MBTextmitEinzug">Deine Vereinsbeiträge habe ich bis zum 1<hi rendition="#sup">st</hi>&#160;Januar 1866. bezahlt für Dich, wie Du auch in Deiner Rechnung sehen wirst, welche ich so frei bin, hierbei zu legen.</p><p sameAs="MBTextmitEinzug">Die Adresse des Arbeiter Vereins:</p><p sameAs="MBTextmitEinzug">40 Rupert Street</p><p sameAs="MBTextmitEinzug">Haymarket</p><p sameAs="MBTextmitEinzug">In der besten Hoffnung daß Du besser in Deiner Gesundheit bist, grüßt</p><closer sameAs="MBUnterschrift"><signed>freundlichst Frid. Lessner</signed></closer><p sameAs="MBAdresse">London 12/2 66. </p></div></body></text></TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00087" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>84</idno>Karl Marx an Wilhelm Liebknecht in Leipzig. Margate, Freitag, 6. April 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">C 507/C 152</idno></idno></msIdentifier><physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            225&#160;×&#160;183&#160;mm und aus einem Briefumschlag aus
+                            mittelstarkem, weißem Papier im Format 124&#160;×&#160;71&#160;mm.
+                            Wasserzeichen: „Towgood’s Extra Super“. Prägung: ein Wappenschild mit
+                            Stern und der Aufschrift „Brasier Margate“. Die erste und dritte Seite
+                            hat Marx vollständig beschrieben, die vierte zur Hälfte, die zweite ist
+                            leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Auf dem Umschlag fünf Poststempel, der sechste ist mit der Briefmarke
+                            abgerissen worden: auf der Vorderseite: „B Margate Ap&#160;7 66“, „PD“,
+                            „[Aus Engl]and per Aachen Franko H B 1“ und auf der Rückseite: „[B]T
+                            London Ap&#160;9 66“; „Ausg[abe] VII 11&#160;IV“. </p>
+                        <p>Von unbekannter Hand: auf der Vorderseite des Briefumschlags Vermerke mit
+                            Blaustift: „1 Warnung“, „2 B&#160;L“, „K.&#160;Marx“, sowie „1866 April
+                            May“.</p>
+                        <p>Liebknecht beantwortet den Brief am 14.&#160;April 1866 (W. Liebknecht an
+                            Marx, 14.4.1866).</p>
+                    </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1955</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: in russischer Übersetzung: МЭС<hi rendition="#sup">1</hi> 29
+                            (1946). S.&#160;438</bibl></witness><witness><bibl>in der Sprache des Originals: Liebknecht Bw (1963). S.&#160;72/73.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>Margate</placeName><date when="1866-04-06"/></correspAction><correspAction type="received"><persName key="pdrPo.001.004.000002822">Wilhelm Liebknecht</persName><placeName>Leipzig</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:07Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 5 Lansell's Place,<lb/>Margate.<lb/>6 April, 1866.</dateline><salute sameAs="MBAnrede">My dear Miller,</salute></opener><p sameAs="MBTextohneEinzug">You see from the address <seg type="comment"><orig>that I have been
+                            banished to the seaside</orig><note xml:id="nhvw_2wn_cz">Zu Marx’
+                            Kuraufenthalt in Margate siehe <ref target="B00054/#a9fd0c5d-779b-4626-bf9f-71889bd4804c">Erl. zu Engels
+                                an Marx,
+                            5.3.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T103457+0200" comment="{{Erl. 51a}}."?></note><?oxy_comment_end?></seg>
+                    by <seg type="comment"><orig>my medical adviser.</orig><note xml:id="nhjp_dwn_cz">
+                            <persName key="pdrPo.001.004.000000078">George Allen</persName>.
+                        </note></seg></p><p sameAs="MBTextmitEinzug">After having received <seg type="comment"><orig>your last
+                            letter,</orig><note xml:id="f19ce77d-35b5-4bf6-9bc4-6b9616cef0d7"><ref target="B00033">W. Liebknecht an Marx,
+                                8.2.<?oxy_comment_start author="reichhoff" timestamp="20170320T145905+0100" comment="{{Br. 30}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    and <seg type="comment"><orig>some letters on the part of our Berlin
+                            friends,</orig><note xml:id="nvw4_bkr_wy">Siehe <ref target="B00020/#e392394e-ac9f-4441-8cdf-1fda9c452f12">Erl. zu Marx
+                                an S. Meyer, 24.1.1866. </ref><?oxy_comment_start author="lindenberg" timestamp="20170518T104104+0200" comment="{{Erl. 19c}}"?>
+                            <?oxy_comment_end?>und <ref target="B00031">A. Vogt an Marx,
+                                5.2.<?oxy_comment_start author="reichhoff" timestamp="20170320T150312+0100" comment="{{Br. 28}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    my sickness assumed a really dangerous character. For some time it was very
+                    doubtful whether or not that decomposition of the blood, under which I labour,
+                    should get the better of me. It was only towards the middle of March that I was
+                    bodily enabled to remove myself to this place. I am <pb/> now restored, and
+                    shall very soon return to London. But again a quarter of a year has been
+                    lost!</p><p sameAs="MBTextmitEinzug">Write me immediately under my London address.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>After my return, I shall regularly send you
+                            the “<bibl sameAs="zzThe Commonwealth">Commonwealth”</bibl> (under which
+                            altered title the “Workman's Advocate”
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(((zThe
+                            Workman's Advocate)))<?oxy_custom_end?>
+                            <subst>
+                                <del rendition="#s">was</del>
+                                <add place="superlinear">is</add>
+                            </subst> now published.) It is only since a few weeks that it has been
+                            registered for Transmission for abroad. <persName key="pdrPo.001.004.000001296">Eccarius</persName> is no longer the
+                            editor, but only a contributor. It was to be foreseen, that so soon as
+                            the paper should get some sort of standing, a Foreigner would not be
+                            allowed to retain the nominal leadership.&#160;</orig><note xml:id="f629108e-d531-4d01-801a-3430caf0da6e">Zur Reorganisation der
+                            Zeitung „The Commonwealth“ (((zThe_Commonwealth))) siehe siehe <ref target="B00036/#start_r1p_14k_nz">Marx an Engels,
+                                10.2.<?oxy_comment_start author="reichhoff" timestamp="20170418T112435+0200" comment="{{Br. 33.33–47}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00007/#nmrb_qzn_4y">Erl. zu Marx an J. Ph. Becker,
+                                zwischen 9. und
+                            15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T103801+0200" comment="{{Erl._6f}}."?></note><?oxy_comment_end?></seg></p><p sameAs="MBTextmitEinzug"><pb/> Write me</p><p rend="MBTextOhneEinzug">1) about the state of “our” movement in Germany,</p><p rend="MBTextOhneEinzug">2) about the state of German politics.</p><closer sameAs="MBUnterschrift">Yours truly<lb/>K. M.</closer><postscript><p>My best compliments to <seg type="comment"><orig>Madame</orig><note xml:id="f88d983e-001e-4583-a006-fb426fe98be8"><persName key="pdrPo.001.004.000002819">Ernestine Liebknecht</persName>.
+                            </note></seg>.
+                    </p></postscript><postscript><p> </p></postscript></div></body></text></TEI>

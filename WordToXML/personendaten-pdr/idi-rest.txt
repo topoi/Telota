@@ -1,0 +1,8 @@
+Personen-IDs der MEGA für die IDI-Anfrage sind in den beiden Dateien PDR-ID_MEGA_001.004.txt und PDR-ID_MEGA_001.015.txt enthalten (Proj. 4 sind Personen und Gestalten, Proj. 15 enthält Firmen).
+
+Beispiel für Anfrage: https://pdrprod.bbaw.de/idi/pdrnc/pdrPo.001.004.000000502
+
+Mehr Dokumentation:
+
+- https://pdrprod.bbaw.de/wiki/doku.php?id=de:doc:connect
+- https://pdrprod.bbaw.de/wiki/doku.php?id=de:doc:classification

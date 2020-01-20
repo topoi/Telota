@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00102" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>98</idno>Hermann Jung an Karl Marx in London. London, Mittwoch, 2. Mai 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 21 op. 1 d. 76/12</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt mittelstarkem, blauem Papier im Format
+                            114&#160;×&#160;182&#160;mm. Jung hat beide Seiten vollständig
+                            beschrieben. Die letzte Passage steht auf der ersten Seite am linken
+                            Rand quer. Schreibmaterial: schwarze Tinte.</p><p>Von unbekannter Hand: Vermerk mit Bleistift „2/5 66“ auf der ersten Seite oben links.</p><p>Zur Beilage („J'ai reçu la lettre“ und „Renvoyez moi la lettre ...“) siehe Erl.&#160;</p></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002417">Hermann Jung</persName><placeName>London</placeName><date when="1866-05-02"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:16Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 4 Charles Street<lb/>Northampton
+                        Square.</dateline><salute sameAs="MBAnrede">Cher Marx</salute><anchor type="verweisziel" xml:id="start_wgf_ytx_pz"/><salute sameAs="MBAnrede">Je
+                        ne sais si je vous ai dit que <seg type="comment"><orig>j'avais vu<persName key="pdrPo.001.004.000002665">
+                                    <hi rendition="#u">Lama</hi></persName>; il m'a dit que bientôt
+                                tous les italiens rentreraient au conseil</orig><note xml:id="necv_jkq_dz">
+                                <p>Zur Associazione di Mutuo Progresso degli Operai Italiani di
+                                    Londra und ihrem Verhältnis zur IAA siehe <ref target="B00075/#start_z5m_kbx_pz">Marx an Engels,
+                                        24.3.<?oxy_comment_start author="reichhoff" timestamp="20170419T114234+0200" comment="{{Br. 72.43–74}}"?>1866<?oxy_comment_end?></ref>.
+                                    - Nach einer Diskussion im Zentralrat am 13. März 1866 über den
+                                    Einfluss <persName key="pdrPo.001.004.000003114">Mazzinis</persName> auf die Entstehung der
+                                    Gründungsdokumente der IAA (siehe The_Minute Book 1864–1866. In:
+                                    MEGA²_I/20. S. 392.13–393.22 (((lThe_Minute Book 1864–1866. In:
+                                    MEGA²_I/20. S._265–450))) sowie <ref target="B00057">H. Jung an
+                                        Marx,
+                                        8.3.<?oxy_comment_start author="reichhoff" timestamp="20170403T141342+0200" comment="{{Br. 54}}"?>1866<?oxy_comment_end?>
+                                    </ref>und <ref target="B00075/#start_pbc_5bx_pz">Marx an Engels,
+                                        24.3.<?oxy_comment_start author="reichhoff" timestamp="20170419T114508+0200" comment="{{Br._72.39–86}}"?>1866<?oxy_comment_end?></ref>)
+                                    berichtete <persName key="pdrPo.001.004.000002417">Jung</persName> dem Zentralrat am 24. April 1866, dass die
+                                    Associazione di Mutuo Progresso degli Operai Italiani di Londra
+                                    vorhabe, ihren Wiedereintritt in die IAA zu betreiben. Marx
+                                    hatte an der Sitzung wahrscheinlich nicht teilgenommen.</p>
+                            </note></seg>; tout tend à prouver que <persName key="pdrPo.001.004.000003114">Mazzini</persName> «prévoyant que nous
+                        pouvions avoir des italiens sans lui» a trouvé nécessaire de ne pas tarder
+                        plus <expan resp="editor" sameAs="dottet_underline">longtem<ex>p</ex>s</expan>. N'ayant pas réussi à changer le caractère
+                        de <seg type="comment"><orig>notre association,</orig><note xml:id="d1b05e8a-630c-4156-a381-fb32b3f84383">Die IAA.</note></seg>
+                        il a tâché de la briser, vous savez avec quel succès.<anchor type="verweisziel" xml:id="stop_wgf_ytx_pz"/>
+                        <persName key="pdrPo.001.004.000003114">Mazzini</persName> voit maintenant,
+                        que par les efforts de <persName key="pdrPo.001.004.000000317">Becker</persName>, toutes les sociétés ouvrières de l'Italie sont sur
+                        le point de se joindre à nous; d'un autre côté tous ses efforts pour
+                        empêcher <persName key="ed_i4p_3y2_cz">Traini</persName> de venir avec nous
+                        sont restés infructueux; en <hi rendition="#u">diplomate</hi> consommé, il
+                        comprend que si «les sociétés italiennes viennent à nous <hi rendition="#u">sans lui</hi> &amp; <hi rendition="#u">malgré lui</hi>» sa popularité
+                        est perdue, aussi se hâte-t-il de venir à <expan resp="editor" sameAs="dottet_underline">tem<ex>p</ex>s</expan> pour faire croire au
+                        spectateur vulgaire que c'est son adhésion qui a amené les sociétés
+                        italiennes.</salute></opener><p rend="MBTextMitEinzug">Je viens de voir <persName key="ed_i4p_3y2_cz">Traini</persName>; il a
+                    écrit en Italie, au sécretaire d'une société qui compte 8,000&#160;membres. </p><p sameAs="MBTextmitEinzug"><pb/>
+                    <seg type="comment"><orig>J'ai reçu la lettre ci-jointe; je l'ai fait voir à
+                                <persName key="ed_i4p_3y2_cz">Traini</persName>, qui en est charmé;
+                            je vais répondre à toutes les questions qui me sont adressées danscette
+                            lettre, je vais aussi envoyer l'adresse de la rédaction de la rive <bibl sameAs="zzLa Rive Gauche">gauche</bibl> &amp; de la Tribune du <bibl sameAs="zzLa Tribune du Peuple">peuple</bibl>, afin qu'il puisse
+                            faire l'échange avec son <bibl sameAs="zzGiornale delle Associazioni Operaie Italiane">journal</bibl>; malheureusement je n'ai pas reçu le journal dont il
+                            est parlé dans la lettre.</orig><note xml:id="f7492c60-33be-4e38-89d9-9a43a43c711e">Luigi Domenico Canessa an
+                            Jung, 29.&#160;April 1866 (IISG, Jung-Nachlass, Sign.&#160;517).
+                            (((lCanessa,_Luigi Domenico an Jung, 29.&#160;April 1866 (IISG,
+                            Jung-Nachlass, Sign.&#160;517).))) <persName key="ed_ty1_254_yx">Canessa</persName> hatte sich auf Empfehlung <persName key="pdrPo.001.004.000000317">Johann Philipp Beckers</persName> an
+                                <persName key="pdrPo.001.004.000002417">Jung</persName> gewandt. Er
+                            bat um einige Exemplare der Statuten der IAA auf Französisch oder
+                            Italienisch, da er in Genua eine Sektion zu gründen beabsichtigte. Im
+                            Brief erwähnte er die Zeitschrift „Giornale delle Associazioni Operaie
+                            Italiane“ (Genua), deren Redakteur er war. Jung verlas den Brief in der
+                            Sitzung des Zentralrats am 8.&#160;Mai 1866 (siehe The_Minute Book
+                            1864–1866. In: MEGA²&#160;I/20. S.&#160;411.2–6). ((lThe_Minute Book
+                            1864–1866. In: MEGA²&#160;I/20. S._265–450))) </note></seg></p><p sameAs="MBTextmitEinzug">Je crois que nous avons ici une occasion de faire publier <seg type="comment"><orig>notre adresse
+                            &amp; nos règlements en italien, seulement il faut que cela soit fait
+                            vivement;</orig><note xml:id="d8ef022c-c80b-4b2d-a340-c40f38cea384">
+                            <p rend="endnote text">Karl Marx: Address of the Working Men’s
+                                International Association, established September 28, 1864, at a
+                                public meeting held at St.&#160;Martin’s Hall, Long Acre, London.
+                                In: MEGA² I/20. S.&#160;3–12; derselbe: Provisional Rules of the
+                                International Working Men’s Association. Ebenda. S.&#160;13–15.
+                                (((lMarx,Karl: Address of the Working Men’s International
+                                Association, established September 28, 1864, at a public meeting
+                                held at St.&#160;Martin’s Hall, Long Acre, London. In: MEGA² I/20.
+                                S.&#160;3–12))) (((lMarx, Karl: Provisional Rules of the
+                                International Working Men's Association. In: MEGA² I/20.
+                                S.&#160;13–15))) - Die erste italienische Übersetzung der
+                                „Provisional Rules“ wurde unter dem Titel „Statuto provvisorio dell’
+                                Associazione“ in der Zeitung „L’Unità Italiana“ (Milano)
+                                Nr.&#160;49, 18.&#160;Februar 1865, S.&#160;2, veröffentlicht.
+                                (((l[Marx,Karl:]_Statuto provvisorio dell’ Associazione. In: L’Unità
+                                Italiana. Milano. Nr.&#160;49, 18.&#160;Februar 1865 S.&#160;2)))
+                                Ihr lag die vom Bureau de Paris de l’A.I.T. Anfang 1865 als
+                                Flugblatt herausgegebene erste französische Übersetzung „Congrès
+                                Ouvrier. Association Internationale des Travailleurs. Règlement
+                                provisoire“ zugrunde (siehe dazu MEGA²&#160;I/20. S.&#160;899/900).
+                                (((l[Marx,Karl:]_Congrès Ouvrier. Association Internationale des
+                                Travailleurs. Règlement provisoire. [Trad. par le Bureau de Paris de
+                                l’A.I.T. ] Paris [1865] [Flugbl.]))) - Eine italienische Übersetzung
+                                beider Gründungsdokumente der IAA gemeinsam erschien erst im Sommer
+                                1865 in der Zeitung „Il Dovere“, Genova, Nr.&#160;22 vom
+                                29.&#160;Juli 1865, S.&#160;173/174, Nr.&#160;25 vom 19.&#160;August
+                                1865, S.&#160;199/200, und Nr.&#160;26 vom 26.&#160;August 1865,
+                                S.&#160;205/206, unter dem Titel „Indirizzo e Statuto provvisorio
+                                dell’ Associazione internazionale degli operai, approvato il
+                                28&#160;settembre 1864 in un pubblico meeting tenuto nel palazzo di
+                                S.&#160;Martino, Long Acre, in Londra“. Sie wurde vom Redakteur des
+                                Blattes, Niccolò Lo Savio, nach der in London 1864 erschienenen
+                                Broschüre (siehe oben) und weitgehend korrekt übersetzt. Siehe dazu
+                                MEGA I/20. S.&#160;863. (((l[Marx,Karl:]_Indirizzo e Statuto
+                                provvisorio dell’ Associazione internazionale degli operai,
+                                approvato il 28&#160;settembre 1864 in un pubblico meeting tenuto
+                                nel palazzo di S.&#160;Martino, Long Acre, in Londra. In: l Dovere“.
+                                Genova. Nr.&#160;22, 29.&#160;Juli 1865. S.&#160;173/174;
+                                Nr.&#160;25, 19.&#160;August 1865. S.&#160;199/200; Nr.&#160;26,
+                                26.&#160;August 1865. S.&#160;205/20))) </p>
+                        </note></seg></p><p sameAs="MBTextmitEinzug">Il n'est guère probable que le <expan resp="editor" sameAs="dottet_underline">cit.</expan>
+                    <persName key="ed_ty1_254_yx">Canessa</persName> serait à même de faire traduire
+                    cela de <hi rendition="#u">l'anglais</hi>; <seg type="comment"><orig>si nous
+                            avions une bonne traduction de notre adresse en français, je crois qu'il
+                            pourrait s'en tirer, mais hélas! nous n'en avons pas &amp; <persName key="pdrPo.001.004.000002885">Longuet</persName> se fait tirer
+                            l'oreille;</orig><note xml:id="f87e530a-6847-4733-9eeb-d1cd48ea7512">Die
+                            erste französische Übersetzung der „Provisional Rules“ der IAA war:
+                            [Karl Marx:]_Congrès Ouvrier. Association Internationale des
+                            Travailleurs. Règlement provisoire. [Trad. par le Bureau de Paris de
+                            l’A.I.T.] Paris [1865]. [Flugbl.]. (((l[Marx,Karl:]_Congrès Ouvrier.
+                            Association Internationale des Travailleurs. Règlement provisoire.
+                            [Trad. par le Bureau de Paris de l’A.I.T.] Paris [1865]))) Sie enthielt
+                            mehrere sinnentstellende Kürzungen des Textes sowie Ungenauigkeiten. Bis
+                            Mitte 1866 war in französischer Sprache nur diese Fassung zugänglich.
+                            Zur Geschichte der französischen Übersetzungen siehe MEGA²&#160;I/20.
+                            S.&#160;899–902 und 1687–1703.</note></seg> comment faire?</p><p sameAs="MBTextmitEinzug">Avisez.</p><p sameAs="MBTextmitEinzug">Renvoyez moi la lettre au plus vite, afin que je puisse répondre.</p><p sameAs="MBTextmitEinzug">Saluez de ma part, &amp; de celle de <seg type="comment"><orig>ma
+                            femme</orig><note xml:id="ef250102-dc50-4861-b01d-ad2804c3f926"><persName key="ed_kyz_h2t_sy">Sarah Jung</persName>. </note></seg>,
+                    toute votre aimable famille.</p><closer sameAs="MBUnterschrift">Tout à vous<lb/>H<hi rendition="#sup">n</hi> Jung.</closer><p sameAs="MBAdresse">2 May, 1866. </p><p sameAs="MBAdresse">/ <seg type="comment"><orig>J'ai écrit à <persName key="pdrPo.001.004.000000317">Becker</persName>.</orig><note xml:id="df2e526d-fe07-41e6-98f7-8ae45dc3f870"><persName key="pdrPo.001.004.000002417">Jung</persName> beantwortete <persName key="pdrPo.001.004.000000317">J._Ph.&#160;Beckers</persName> Brief
+                            vom 21.&#160;April 1866 (IISG, Jung-Nachlass, Sign.&#160;433<hi rendition="#sup">b</hi>) am 2.&#160;Mai 1866 (Kopie: RGASPI, Sign.
+                            f.&#160;21, op.&#160;1, d.&#160;76/10). (((lBecker,Johann_Philipp an
+                            Hermann_Jung, 21.&#160;April 1866; IISG, Jung-Nachlass,
+                                Sign.&#160;433<hi rendition="#sup">b</hi>))) (((lJung,_Hermann an
+                            Johann_Philipp_Becker, 2.&#160;Mai 1866; RGASPI, Sign. f.&#160;21,
+                            op.&#160;1, d.&#160;76/10 [Kopie]))) </note></seg>
+                </p></div></body></text></TEI>

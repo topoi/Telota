@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00063" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>59</idno>Ferdinand Freiligrath an Friedrich Engels in Manchester. London, Dienstag, 13. März 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                                                  <msIdentifier>
+                                                  <institution>IISG</institution>
+                                                  <collection>Marx-Engels-Nachlass</collection>
+                                                  <idno><idno type="shelfmark">L 1950/L III 403
+                                                  Fotosign. 7020a–b</idno></idno>
+                                                  </msIdentifier>
+                                                  <physDesc>
+                                                  <p>Der Brief besteht aus einem Bogen
+                                                  mittelstarkem, weißem Papier im Format
+                                                  224&#160;×&#160;182&#160;mm. Wasserzeichen: Ein
+                                                  Wappenschild mit Posthorn, darüber eine Krone,
+                                                  darunter die Schrift „RT Patent“. Die erste Seite
+                                                  hat Freiligrath vollständig beschrieben, die
+                                                  zweite zur Hälfte, die übrigen zwei Seiten sind
+                                                  leer. Schreibmaterial: schwarze Tinte.</p>
+                                                  <p>Archivsignatur des SPD-Archivs auf der ersten
+                                                  Seite: „II 21 H 24 b“.</p>
+                                                  <p>Der Brief ist die Antwort auf Engels' Brief an
+                                                  Freiligrath, geschrieben zwischen 8. und
+                                                  10.&#160;März 1866 (siehe dort).</p>
+                                                  </physDesc>
+                                                  <additional>
+                                                  <listBibl>
+                                                  <bibl>RGASPI f. 1 op. 5 d. 1643</bibl>
+                                                  </listBibl>
+                                                  </additional>
+                                        </msDesc><listWit><witness><bibl>Erstveröffentlichung: Freiligrath Bw 1 (1968). S.&#160;180.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000001631">Ferdinand Freiligrath</persName><placeName>London</placeName><date when="1866-03-13"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:51Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> London, 13/3. 66.</dateline><salute sameAs="MBAnrede">Lieber Engels,</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Vielen Dank für die freundlich ertheilte
+                                                  Auskunft,</orig><note xml:id="d9179e3b-f720-4f12-98fa-9fbd6ef2f5fc">Siehe <ref target="B00056">F. Freiligrath an
+                                                  Engels,
+                                                  8.3.<?oxy_comment_start author="reichhoff" timestamp="20170413T102515+0200" comment="{{Br. 53.6–11}}"?>1866<?oxy_comment_end?></ref>
+                                                  sowie <ref target="B00058">Engels an F.
+                                                  Freiligrath, zwischen 8. und
+                                                  10.3.<?oxy_comment_start author="reichhoff" timestamp="20170315T164732+0100" comment="{{Br._54a}}"?>1866<?oxy_comment_end?>
+                                                  </ref>und <ref target="B00059">Engels an Marx,
+                                                  zwischen 8. und 10.3.1866
+                                                  </ref><?oxy_comment_start author="reichhoff" timestamp="20170315T165136+0100" comment="{{Br._55}}"?>.<?oxy_comment_end?></note></seg>
+                                        die ich discret benutze!</p><p sameAs="MBTextmitEinzug">Sehr gefreut habe ich mich über den guten Muth, mit dem Du über Marx u.
+                    sein Befinden sprichst. Muße u. Seeluft u. <hi rendition="#u">einige</hi>
+                    Freiheit von Sorgen (<hi rendition="#u">absolute</hi> hat wohl Keiner) müssen
+                    sich ja doch für ihn finden lassen!</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Quant à moi, so stecke ich auch ziemlich in
+                                                  Sorgen. Ich bin jetzt nahezu seit 3&#160;Monaten
+                                                  ohne Stelle, u. das will in London für einen armen
+                                                  Teufel mit starker Familie etwas
+                                                  sagen.</orig><note xml:id="ad952775-9bb3-433a-830b-61d7747aaa86">Siehe <ref target="B00058">Engels an F.
+                                                  Freiligrath, zwischen 8. und
+                                                  10.3.<?oxy_comment_start author="reichhoff" timestamp="20170413T102830+0200" comment="{{Br. 54a.8–11}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        Doch stehe ich über dieses u. jenes in Unterhandlung, u. die
+                                        Uebergangszeit wird <pb/> also hoffentlich bald ihr Ende
+                                        erreicht haben. Ein Glück ist, daß meine Gesundheit
+                                        einstweilen noch fest ist. Freilich, so frisch u.
+                                        himmelstürmend wie vor einem Vierteljahrhundert sind wir
+                                        Alle nicht mehr!</p><p sameAs="MBTextmitEinzug">Herzl. Gruß!</p><closer sameAs="MBUnterschrift"><salute>Dein <lb/></salute><signed>FFth </signed></closer></div></body></text></TEI>

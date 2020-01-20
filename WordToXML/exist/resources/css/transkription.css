@@ -1,0 +1,482 @@
+/* Briefheader */
+
+p#nachweis {
+    font-size: 0.8em;
+     margin: 0 0 0.5em 0;
+}
+
+/* Lediglich erschlossene Briefe */
+div.erschlossen {
+    position: relative;
+    font-style: italic;
+}
+
+div.erschlossen span.fussnotenpfeil {
+    display: block;
+    position: absolute;
+    top: -12px;
+    left: 0;
+    height: 50px;
+    width: 80px;
+    background: url('../images/brieffussnote_bg.png') top left no-repeat;
+}
+
+div.erschlossen span.label {
+    font-weight: bold;
+}
+
+/* Hinweis zum erschlossenen Brief in Briefübersicht */
+p.erschlossen {
+    font-style: italic;
+}
+
+/* Struktur */
+div.transkription table {
+    margin-bottom: 1em;
+}
+
+div.transkription ul {
+    list-style-type: disc;
+    margin: 1em 0 1em 2em;  
+}
+
+div.transkription ol {
+    list-style-type: decimal;
+    margin: 1em 0 1em 2em;  
+}
+
+hr.section {
+     border-bottom: 1px solid gray; 
+     height: 1px; 
+     margin: 0.5em 20% 0.5em 20%;
+}
+
+
+/* Folioangaben */
+
+div#content span.folio {
+    display: block;
+    position: absolute;
+    left: -3.5em;
+    width: 2em;
+    margin-top: -1.6em;
+    padding: 0.1em 0 0.1em 0.3em;
+    font-size: 0.8em;
+    background-color: white;
+    text-align: left; /* falls pb in dateline */
+}
+
+div#content span.autorenfussnote span.p span.folio {
+    left: -4em;
+}
+
+div#content span.folio,
+div#content p.folio {
+    color: black;
+}
+
+div#content p.folio {
+    width: 2em;
+    margin-top: 2.5em;
+    margin-bottom: -6em;
+    margin-left: -1.5em;
+    padding: 0.1em 0 0.1em 0.3em;
+    font-size: 0.8em;
+    background-color: white;
+}
+
+div#content span.folio.druck a {
+    font-style: italic;
+    color: gray;
+}
+
+div#content p.folio a.facs {
+    line-height: 0.9;
+    font-family: FontAwesome;
+    font-size: 2.5em;
+    color: #AC4D00;
+}
+
+div#content span.folio.fw {
+    margin-top: 0.3em;
+}
+
+div#content span.autorenfussnote span.folio {
+    font-size: 1em;
+} 
+
+/* Sachanmerkungen */
+
+span.fussnote {
+    display: none;
+}
+
+span.tooltip {
+    text-decoration: none;
+    color: black;
+    cursor: help;
+    background-color: #F4DFD0;
+}
+
+span.tooltip span {
+/*    text-decoration: none; s. Ticket #6425 */
+}
+
+span.tooltip:hover,
+span.tooltip.active {
+    background-color: #EAB185;
+}
+
+span.tooltip:active span.tooltip {
+    background-color: #F4EBE8;
+}
+
+span.add.tooltip:hover > span.fussnote,
+span.measure.tooltip:hover > span.fussnote,
+span.gap.tooltip:hover > span.fussnote,
+span.tooltip.active > span.fussnote {
+    display: block;
+    position: absolute;
+    right: -20.5em;
+    width: 17em; 
+    min-height: 1.3em;
+    margin: -1.5em 0 0 4em;
+    padding: 0.5em;
+    color: black;
+    background-color: white;
+    font-size: 1em;
+    font-style: italic;
+    text-decoration: none;
+    z-index: 1000;
+}
+
+span.fussnotenpfeil {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: -12px;
+    height: 50px;
+    width: 13px;
+    background: url('../images/fussnote_bg.png') top left no-repeat;
+}
+
+span.close {
+    position: relative;
+    display: block;
+    width: 1em;
+    color: gray;
+}
+
+span.tooltip:hover span.fussnote span.orig {
+    font-style: normal;
+    font-weight: bold;
+}
+
+span.autorenfussnote.sticked span.label.hide-class + span.text {
+    display: block !important;
+}
+
+div.boxInner span.autorenfussnote span.autorenfussnote {
+    font-size: 1em;
+}
+
+/* Modifikationen für Sachanmerkungen im Tageskalender */
+
+div#tageskalender span.fussnote {
+    right: -17.5em;
+    width: 15em;
+}
+
+div#tageskalender div.tageskalenderLinks span.fussnote {
+    right: -36.5em;
+}
+
+/* Verweise */
+
+span.rs a.erschlossenerBrief,
+span.rs a.brief {
+    padding: 0 0 0 0.3em;
+    font-family: FontAwesome;
+    font-size: 1em;
+    color: gray;
+}
+
+div#content span.rs a:hover {
+    text-decoration: none;
+    color: #AC4D00;
+}
+
+span.rs a span {
+    display: none;    
+}
+
+/* MEGA: keine Unterstreichung für normale links im Text */
+
+a:not([id]):link {
+    text-decoration: none;
+}
+
+a:not([id]):hover {
+    text-decoration: underline;
+}
+
+/* Textbearbeitungen durch den Autor */
+
+th, td {
+    border: 1px dashed gray;
+    padding: 0.3em;
+}
+
+th.align-right,
+td.align-right {
+    text-align: right;
+}
+
+div.boxInner span.autorenfussnote {
+    position: relative;
+    display: block;
+    padding: 0.5em 0 0.5em 0;
+    margin: 1em 0 1em 0em;
+/*    border-top: 1px solid silver;
+    border-bottom: 1px solid silver;
+*/    font-size: 0.8em;
+}
+
+div.boxInner span.autorenfussnote.sticked {
+    padding: 0.5em;
+    border: 1px dotted silver;
+}
+
+div.boxInner span.autorenfussnote span.fussnote.place,
+div.boxInner span.autorenfussnote span.fussnote {
+    font-size: 1.2em;
+}
+
+span.autorenfussnote span.label {
+    display: block;
+    font-style: italic;
+    cursor: pointer;
+    color: #AC4D00;
+}
+
+span.unterstrichen {
+    text-decoration: underline;
+}
+
+span.doppeltunterstrichen {
+    border-bottom: 3px double #000;    
+}
+
+span.p.randstrich,
+p.randstrich {
+    border-left: 1px solid #000;
+    margin-left: -0.5em;
+    padding: 0.5em;
+}
+
+span.randstrich {
+    border-left: 1px solid #000;
+    margin-left: -0.5em;
+    padding-left: 0.5em;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+}
+
+span.erledigt {
+    display: block;
+    padding: 0 0 0 0.5em;
+    border-left: 3px solid green;
+    margin: 0 0 0 -0.5em;
+}
+
+a.used {
+    position: absolute;
+    display: block;
+    border-right: 5px solid green;
+    margin-left: -1.85em;
+    font-size: 27px;
+    color: green;
+}
+span.gestrichen {
+    text-decoration: line-through;
+}
+
+span.kursiv {
+    font-style: italic;
+}
+
+span.del {
+    text-decoration: line-through;
+    color: #912E2E;
+}
+
+span.del > span.del {
+    position: relative;
+}
+
+span.del span.del:after {
+    content: " ";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 43%;
+    bottom: 40%;
+    border-top: 1px solid #912E2E;
+    border-bottom: 1px solid #912E2E;
+}
+
+span.add.tooltip {
+    color: #216B11;
+    border-bottom: none;
+    background-color: transparent;
+}
+
+span.add.tooltip:hover,
+span.add.tooltip.active{
+    background-color: #EEF4ED; 
+}
+
+span.tooltip.add:hover span.fussnote,
+span.add.active span.fussnote {
+    background-color: silver;
+}
+
+span.add:hover span.fussnotenpfeil,
+span.add.active span.fussnotenpfeil {
+    background: url('../images/fussnote_bg_silver.png') top left no-repeat;
+}
+
+/* für @place-Fussnoten in Sachanmerkungen */
+span.add span.tooltip span.fussnote,
+span.tooltip span.add span.fussnote {
+    margin-top: -5em;
+    z-index: 100000;
+}
+
+span.add:hover span.tooltip span.fussnote,
+span.tooltip:hover span.add span.fussnote {
+    display: none;
+}
+
+span.add:hover span.tooltip:hover span.fussnote,
+span.tooltip:hover span.add:hover span.fussnote {
+    display: block;
+}
+
+span.add:hover span.tooltip span.fussnote {
+    background-color: white;
+}
+
+span.add:hover span.tooltip span.fussnotenpfeil {
+    background: url('../images/fussnote_bg.png') top left no-repeat;
+}
+
+a.close {
+    display: block;
+    text-align: right;
+    font-family: PTSans;
+    font-style: normal;
+    font-size: 0.8em;
+    cursor: pointer;
+}
+
+/* Textbearbeitungen durch den Herausgeber */
+
+span.unclear {
+    color: #5F5F5F;
+}
+
+span.unclear span.symbol {
+    font-style: italic;
+    color: #5F5F5F;
+}
+
+span.supplied {
+}
+
+span.surplus,
+span.sic {
+    color: #5F5F5F;
+}
+
+span.sic span.symbol {
+    text-decoration: none;
+}
+
+span.corr {
+    color: #5F5F5F;
+    cursor: copy;
+}
+
+span.hochgestellt {
+   position: relative;
+   vertical-align: baseline;
+   top: -0.4em;
+   font-size: 0.8em;
+}
+
+span.quote {
+    font-style: normal;
+}
+
+span.quote:before {
+    content: "„";
+}
+
+span.quote:after {
+    content: "“";
+}
+
+/* Faksimiles */
+span#faksimile {
+    display: block;
+    position: absolute;
+    right: -320px;
+    margin-top: -1em;
+}
+
+span#faksimile div {
+    margin-bottom: 0;
+}
+
+span#faksimile span.faksimileHead {
+    display: block;
+    margin: 0;
+    padding: 0.5em;
+    background-color: gray;
+    color: white;
+    font-family: PTSans;
+    font-size: 0.8em;
+}
+
+span.faksimileCaption {
+    display: block;
+    font-family: 'PTSans';
+    font-size: 0.7em;
+}
+span.faksimileCaption a {
+    color: gray;
+}
+
+/* Sonstiges */
+
+.filepath {
+    font-family: PTSans;
+    font-size: 0.8em;
+    color: #5F5F5F;
+}
+
+p  {
+    position: relative;
+}
+
+span.p {
+    position: relative;
+    display: block;
+    margin-bottom: 1em;
+}
+
+a.zotero {
+    font-variant: small-caps;
+    font-style: normal;
+}

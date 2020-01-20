@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <title>Schleiermacher-Edition</title>
+        <link rel="stylesheet" type="text/css" href="../css/main.css"/>
+        <link rel="stylesheet" type="text/css" href="../css/einzelbrief.css"/>
+        <link rel="stylesheet" type="text/css" href="../css/volleBreitseite.css"/>
+        <link rel="stylesheet" href="../css/kalendae.css" type="text/css" charset="utf-8"/>
+        <script src="http://telotadev.bbaw.de/schleiermacher/website/js/kalendae.min.js" type="text/javascript" charset="utf-8"/>
+    </head>
+    <body>
+        <header>
+            <h1>Schleiermacher in Berlin 1808–1834</h1>
+            <h2>Briefwechsel, Tageskalender, Vorlesungen</h2>
+        </header>
+        <div id="mainnav_container">
+            <nav id="mainnav">
+                <a href="../briefe/briefe.xql?jahr=1808">Briefe</a>
+                <a href="../vorlesungen/vorlesungen.xql">Vorlesungen</a>
+                <a href="../tageskalender/tageskalender.xql">Tageskalender</a>
+                <a href="../register/register.xql">Register</a>
+                <a class="active" href="diachron.html">Diachroner Überblick</a>
+            </nav>
+        </div>
+        <div id="inner_container">
+            <div id="content">
+                <h2>Zeitsuche</h2>
+                <form action="zeitsuche_ergebnis.xql" accept-charset="utf-8">
+                    <label for="datum">Datum</label>
+                    <input id="datum" name="datum"/>
+                    <input type="submit" value="Absenden"/>
+                    <script charset="utf-8" type="text/javascript">
+                  		var k4 = new Kalendae.Input('datum', {
+                  		    format: 'YYYY-MM-DD',
+                  			months:1,
+                  			mode: 'single',
+                  			viewStartDate: '1808-01-01'
+                  		});
+	               </script>
+                </form>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00119" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>115</idno>Wilhelm Liebknecht an Karl Marx in London.
+                                        Leipzig, Dienstag, 5. Juni 1866</title>
+                        </titleStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>RGASPI</institution>
+                                                <idno><idno type="shelfmark">f. 21 op. 1 d.
+                                                  188/3</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Blatt mittelstarkem,
+                                                  weißem Papier im Format
+                                                  142&#160;×&#160;221&#160;mm. Prägung: „Hotel de
+                                                  Pologne Leipzig Grossberger &amp; Kühl“. Die erste
+                                                  Seite hat Liebknecht vollständig beschrieben, die
+                                                  zweite ist leer. Schreibmaterial: schwarze
+                                                  Tinte.</p>
+                                                <p>Von unbekannter Hand (vermutlich von D. B.
+                                                  <?oxy_comment_start author="strauss" timestamp="20170614T181216+0200" comment="(((nRjazanov,D.B.)))"?>Rjazanov<?oxy_comment_end?>):
+                                                  auf der ersten Seite oben rechts mit Blaustift die
+                                                  Jahresangabe „1867“.</p>
+                                                <p>Die korrekte Jahresangabe stützt sich auf die
+                                                  Erwähnung des vorliegenden Briefes im Brief von
+                                                  Paul
+                                                  <?oxy_comment_start author="strauss" timestamp="20170614T185234+0200" comment="(((nStumpf,P.)))"?>Stumpf<?oxy_comment_end?>
+                                                  an Marx vom 29.&#160;Mai 1866 (siehe dort: „Du
+                                                  erhältst diesen Brief wieder mit L.'s Zeilen“) und
+                                                  die Erwähnung von Stumpfs Brief als Beilage („I
+                                                  did not want to send Stumpf's letter“) im
+                                                  vorliegenden.</p>
+                                                <p>Datierung in der Erstveröffentlichung:
+                                                  5.&#160;Juni 1866.</p>
+                                                <p>Die Beilage (s. o.; P. Stumpf an Marx, 29.5.1866)
+                                                  ist überliefert.</p>
+                                        </physDesc>
+                                </msDesc>
+                                <listWit>
+                                        <witness><bibl>Erstveröffentlichung: in deutscher
+                                                  Übersetzung: Die I.&#160;Internationale in
+                                                  Deutschland (1964).
+                                                S.&#160;124/125</bibl>.</witness>
+                                        <witness><bibl>in der Sprache des Originals wird der Brief hier erstmals veröffentlicht.</bibl></witness>
+                                </listWit>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000002822">Wilhelm
+                                                Liebknecht</persName>
+                                        <placeName>Leipzig</placeName>
+                                        <date when="1866-06-05"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName>London</placeName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:39:27Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingAct">
+                                <opener><dateline sameAs="MBDatumszeile"><pb/> Tuesday, June
+                                                5th.</dateline><salute sameAs="MBAnrede">Dear
+                                                Williams</salute></opener>
+                                <p sameAs="MBTextohneEinzug">I did not want to send <seg type="comment"><orig><persName key="pdrPo.001.004.000004646"><expan resp="editor" sameAs="dottet_underline">S<ex>tumpf</ex></expan>'s</persName>
+                                                  letter</orig><note xml:id="b5b41dd5-90d9-4695-b917-33ec49db1c45"><ref target="B00117">P. Stumpf an Marx,
+                                                  29.5.<?oxy_comment_start author="reichhoff" timestamp="20170403T165015+0200" comment="{{Br. 113}}"?>1866<?oxy_comment_end?></ref>.</note></seg>,
+                                                <seg type="comment"><orig>before having received
+                                                        your answer,</orig><note xml:id="c9fbcdd2-d319-4b5d-b9ed-1b00c85190ea"><persName key="pdrPo.001.004.000002822">Liebknecht</persName> erwartet Marx‘ Antwort auf 
+                                                                <ref target="B00116">seinen Brief</ref>.
+                                                          <?oxy_comment_start author="reichhoff" timestamp="20170403T165614+0200" comment="({{Br. 112}})"?><?oxy_comment_end?></note></seg>
+                                        but I cannot wait any longer.</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>S. was here
+                                                  for nearly a week, on a wild goose chase after
+                                                  1000&#160;<expan resp="editor" sameAs="dottet_underline">r<ex>eichstaler</ex></expan>, no farthing of
+                                                  which he will recover.</orig><note xml:id="bb2b2704-93e1-4679-be10-77aba10eab76">Siehe <ref target="B00117/#start_is1_rjl_qz">P.
+                                                  Stumpf an Marx,
+                                                  29.5.<?oxy_comment_start author="reichhoff" timestamp="20170421T105632+0200" comment="{{Br. 113.8–10}}"?>1866<?oxy_comment_end?></ref>.</note></seg>—<seg type="comment"><orig>What he writes about the Congr.
+                                                  of the I.&#160;A.</orig><note xml:id="ea683950-78f3-4ebd-8501-2da632422fa3">Siehe <ref target="B00117/#start_oqv_xjl_qz">P.
+                                                  Stumpf an Marx,
+                                                  29.5.<?oxy_comment_start author="reichhoff" timestamp="20170421T105735+0200" comment="{{Br. 113.17–25}}"?>1866<?oxy_comment_end?></ref>.
+                                                  Zum Genfer Kongress der IAA siehe <ref target="B00004/#nrk1_sfc_3y">Erl. zu Marx an Engels,
+                                                  5.1.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170512T123036+0200" comment="{{Erl. 3d}}"?>.<?oxy_comment_end?></note></seg>
+                                        I can only approve of, and I should have given the same
+                                        advice before, if I had had an idea how to get the money to
+                                        go there.</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Send the cards
+                                                  I asked for.</orig><note xml:id="b794990c-635b-484f-b833-6ffb19dc664a">Siehe <ref target="B00011/#cb864592-8d8a-4a93-b073-8383b8d607bc">Erl. zu Marx an W. Liebknecht,
+                                                  15.1.<?oxy_comment_start author="reichhoff" timestamp="20170512T123214+0200" comment="{{Erl. 10c}}"?>1866<?oxy_comment_end?></ref>,
+                                                  <ref target="B00116/#start_pjf_dkl_qz">W.
+                                                  Liebknecht an Marx,
+                                                  25.5.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170421T110057+0200" comment="{{Br. 112.3}} "?> und<?oxy_comment_end?>
+                                                  <ref target="B00107">zwischen 8. und
+                                                  15.5.<?oxy_comment_start author="reichhoff" timestamp="20170421T110224+0200" comment="{{Br._103.5–10}}"?>1866<?oxy_comment_end?></ref>.
+                                                  (((lInternational Working Men’s Association.
+                                                  Member’s Annual Subscription Card [for 1866].
+                                                  [London 1865]. In: MEGA²&#160;I/20. S.&#160;817)))
+                                                  Siehe auch MEGA² I/20. S.&#160;815,
+                                                817.</note></seg>
+                                        <seg type="comment"><orig>Last Saturday I was at <hi rendition="#u">Chemnitz</hi>, and spoke before at
+                                                  least 2000 working people about short time etc.
+                                                  organization of the working class movement, and
+                                                  <hi rendition="#u">the I.&#160;A</hi>. If I had
+                                                  had cards, I could have made a dozen of <hi rendition="#u">good</hi> members! and thousand
+                                                  indifferent ones!</orig><note xml:id="f956f6a3-97e2-4290-8bd5-e8c80e1ae041">Kurz
+                                                  vor Beginn des Deutschen Krieges 1866, im Mai/Juni
+                                                  1866, unternahm <persName key="pdrPo.001.004.000002822">Liebknecht</persName> eine Agitationsreise durch
+                                                  Sachsen, wo er gegen den preußischen
+                                                  Führungsanspruch und den Nationalverein (siehe
+                                                  <ref target="B00048/#b104eb5e-2cc3-41dd-a8e8-532d3ed998c7">Erl. zu L. Kugelmann an Marx,
+                                                  23.2.<?oxy_comment_start author="reichhoff" timestamp="20170512T123422+0200" comment="{{Erl._45e}}"?>1866<?oxy_comment_end?></ref>)
+                                                  auftrat sowie die Zuhörer aufrief, sich mit den
+                                                  Zielen der IAA zu solidarisieren. Die Reise
+                                                  dauerte bis etwa 11.&#160;Juni. Marx benutzte
+                                                  vermutlich diesen Brief <persName key="pdrPo.001.004.000002822">Liebknechts</persName> auch für seinen Bericht im
+                                                  Zentralrat der IAA am 12.&#160;Juni 1866 (siehe
+                                                  <ref target="B00116/#npbq_41g_2z">Erl. zu W.
+                                                  Liebknecht an Marx,
+                                                  25.5.<?oxy_comment_start author="reichhoff" timestamp="20170512T123601+0200" comment="{{Erl. 112b}}"?>1866<?oxy_comment_end?></ref>).</note></seg>
+                                        However nothing is lost; I shall return there.</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_szd_bgy_pz"/><orig>The <bibl sameAs="zzMitteldeutsche Volks-Zeitung"><hi rendition="#u">paper</hi></bibl> affair is
+                                                  progressing.</orig><note xml:id="d93a8876-a141-4f05-b1da-b6723f2b0cf5">Zur
+                                                  „Mitteldeutschen Volks-Zeitung“ siehe <ref target="B00107/#e33a4f20-560e-4751-bfa6-23082a56d336">Erl. zu W. Liebknecht an Marx, zwischen 8. und
+                                                  15.5.<?oxy_comment_start author="reichhoff" timestamp="20170512T123951+0200" comment="{{Erl. 103g}}"?>1866<?oxy_comment_end?>.</ref>
+                                                  (((zMitteldeutsche_Volks-Zeitung))) </note></seg>
+                                        I <hi rendition="#u">must soon</hi> know, whether I can
+                                        expect an article now and then (however short) from you and
+                                                <expan resp="editor" sameAs="dottet_underline">E<ex>ngels</ex></expan>, and whether <expan resp="editor" sameAs="dottet_underline"><persName key="pdrPo.001.004.000001296">Ecc<ex>arius</ex></persName><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></expan><?oxy_custom_end?>
+                                        is willing to take the London <expan resp="editor" sameAs="dottet_underline">corr<ex>espondence</ex></expan>
+                                        <hi rendition="#u">once</hi> a week (for the beginning) for
+                                        five <expan resp="editor" sameAs="dottet_underline">shill<ex>ings</ex></expan> (for the <expan resp="editor" sameAs="dottet_underline">beginn<ex>ing</ex></expan>).<anchor type="verweisziel" xml:id="stop_szd_bgy_pz"/></p>
+                                <p sameAs="MBTextmitEinzug">Next Saturday I start on another tour;
+                                        could you not let me have the cards till then?</p>
+                                <p sameAs="MBTextmitEinzug">All well here.</p>
+                                <p sameAs="MBTextmitEinzug">Our love to all.</p>
+                                <closer sameAs="MBUnterschrift">your<lb/>J. Miller. </closer>
+                        </div>
+                </body>
+        </text>
+</TEI>

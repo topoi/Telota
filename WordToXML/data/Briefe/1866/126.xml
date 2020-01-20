@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00130" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>126</idno>Paul Stumpf an Karl Marx in London. Mainz, Samstag, 30. Juni 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 4237/D VII 193 Fotosign. 9615a&lt;–&gt;b.</idno></idno></msIdentifier><physDesc>
+                                                <p>Der Brief besteht aus einem Blatt mittelstarkem,
+                                                  blauem, kariertem Papier im Format
+                                                  225&#160;×&#160;283&#160;mm. Stumpf hat beide
+                                                  Seiten vollständig beschrieben, die letzte Passage
+                                                  (Z.&#160;39–40) steht am linken Rand der zweiten
+                                                  Seite quer geschrieben. Schreibmaterial: schwarze
+                                                  Tinte.</p>
+                                                <p>Von unbekannter Hand: Numeierung des Briefes „4“
+                                                  mit Bleistift.<?oxy_comment_start author="lindenberg" timestamp="20170421T181630+0200" comment="Von unbekannter Hand: Numeierung des Briefes „4“ mit Bleistift. [siehe Br. 131]"?>
+                                                  <?oxy_comment_end?></p>
+                                                <p>Ein Stück Papier ist vom rechten Rand des Blatts
+                                                  abgerissen, die dadurch entstandenen Textverluste
+                                                  konnten nur teilweise rekonstruiert werden.<?oxy_comment_start author="lindenberg" timestamp="20170421T181709+0200" comment="Ein Stück Papier ist vom rechten Rand des Blatts abgerissen, die dadurch entstandenen Textverluste konnten nur teilweise rekonstruiert werden. [Abbildung!]"?>
+                                                  <?oxy_comment_end?></p>
+                                                <p>Datierung der Erstveröffentlichung:
+                                                  30.&#160;<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Januar<?oxy_custom_end?>
+                                                  1866.<?oxy_comment_start author="lindenberg" timestamp="20170421T181738+0200" comment="Datierung der Erstveröffentlichung: 30. Januar 1866.
+[Begründung der Monatsangabe – nach der Schreibweise und vgl. Br. 16]"?></p>
+                                                <?oxy_comment_end?>
+                                        </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1664</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Monz: Der Mainzer Paul Stumpf (1986). S.&#160;285/286.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000004646">Paul Stumpf</persName><placeName>Mainz</placeName><date when="1866-06-30"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:33Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                                <opener>
+                                        <dateline sameAs="MBDatumszeile"><pb/> Mainz 30 Juni
+                                                66.</dateline>
+                                        <salute sameAs="MBAnrede">Lieber Freund!</salute>
+                                </opener>
+                                <p sameAs="MBTextohneEinzug">Wie würdest Du Dich jetzt hier
+                                                <supplied cert="high">...</supplied> Stelle
+                                        verhalten gegenüber unse<supplied cert="high">ren</supplied>
+                                        <supplied cert="high">...</supplied> Agitationen?</p>
+                                <p sameAs="MBTextmitEinzug">Trias, Oestreich, Bund, <supplied cert="high">...</supplied>
+                                        <persName key="pdrPo.001.004.000000441">Bismark</persName>
+                                        Preussen, Fortsch<supplied cert="high">...</supplied>
+                                        <seg type="comment"><orig>Nationalverein</orig><note xml:id="a534022a-cc80-4d0e-8b6e-aa6affa0e7f2">Der
+                                                  Deutsche Nationalverein (1859-1867).</note></seg>
+                                        mit oder ohne <supplied cert="high">...</supplied>
+                                        Volksvereine die die Arbeiterfac<supplied cert="high">...</supplied><persName key="pdrPo.001.004.000002711"> </persName><seg type="comment"><orig><persName key="pdrPo.001.004.000002711">Lassall'sche</persName> Arbeiter
+                                                  Verein</orig><note xml:id="a88dc1ed-f911-413e-8b4d-0d48c4c55cce">Der
+                                                  Allgemeine Deutsche Arbeiterverein (ADAV).
+                                                </note></seg>
+                                        <supplied cert="high">...</supplied> von <persName key="pdrPo.001.004.000002070">Hatzfeld'schem</persName> Gelde; <supplied cert="high">...</supplied> Arbeiter Vereins Ausschuß
+                                                <supplied cert="high">...</supplied> verbündet!</p>
+                                <p sameAs="MBTextmitEinzug">Kriegerunterstützungsvere<supplied cert="high">ine</supplied>
+                                        <supplied cert="high">...</supplied> Abgeordnete &amp;
+                                        Wohldenkende die auf <supplied cert="high">...</supplied>
+                                        &amp; Ministerstellen speculiren, von deren democratie man
+                                        nichts weiß!</p>
+                                <p sameAs="MBTextmitEinzug">Blinder Preußen Haß hier &amp; Umgegend
+                                        Zaghaftes preußisches Volk!</p>
+                                <p>Was soll ich gegenüber diesem machen? Niemand riskirt etwas; ich
+                                        muß mir Gesinnungsgenossen mit der Laterne suchen!</p>
+                                <p rend="MBTextOhneEinzug">Meine Meinung die ich demnächst zur
+                                        Geltung bringen will ist die:</p>
+                                <p>Preussen's Volk ist der Ausdruck der emporgekommenen
+                                        Bourgeoisie.</p>
+                                <p>Die Mittelstaaten &amp; Oestreich bieten nur noch auf Kosten
+                                        ihrer industriellen Entwicklung das patriarchalische
+                                        Mittelalter <pb/>
+                                        <supplied cert="high">...</supplied> dem genügsamen Volke
+                                        letzteres <supplied cert="high">...</supplied>
+                                        entsprechender als Ersteres!</p>
+                                <p><supplied cert="high">…</supplied>das Gefühl des preuß.
+                                        Proletariats <supplied cert="high">…</supplied> ist unserem
+                                                <expan resp="editor" sameAs="dottet_underline">Kl<ex>ein</ex></expan> Staatenvolke &amp; dem
+                                                <supplied cert="high">...</supplied>
+                                        <supplied cert="high">oe</supplied>streichischen vielleicht
+                                        auch ab<supplied cert="high">sch</supplied>reckend in die
+                                        Knochen gefahren?</p>
+                                <p rend="MBTextMitEinzug"><supplied cert="high">...</supplied>
+                                        <persName key="pdrPo.001.004.000000441">Bismark</persName>
+                                        meine ich ferner, befolgt <supplied cert="high">...</supplied>
+                                        <persName key="pdrPo.001.004.000002711"><supplied cert="high">Lass</supplied>all'sche</persName>
+                                        Politik; er will dem <supplied cert="high">…</supplied>
+                                        <supplied cert="high">pr</supplied>euß. Regentenhause noch
+                                        eine <supplied cert="high">Gal</supplied>genfrist gewähren
+                                        auf Kosten <supplied cert="high">…</supplied>
+                                        <supplied cert="high">der</supplied> Bourgeoi Regierung und
+                                                <supplied cert="high">…</supplied>dies vielleicht
+                                        durch durch <supplied cert="high">…</supplied>ltslose
+                                        politische Freiheits<supplied cert="high">con</supplied>cessionen?&#160;</p>
+                                <p rend="MBTextMitEinzug"><supplied cert="high">Freun</supplied>d
+                                                <persName key="pdrPo.001.004.000002822"><expan resp="editor" sameAs="dottet_underline">L<ex>iebknecht</ex></expan></persName> in Leipzig
+                                        ist für <supplied cert="high">Oest</supplied>reich &amp;
+                                        Bund gegen Preußen ich auch; viele andere ebenso.
+                                        Entschiedene Freunde hoffen durch <persName key="pdrPo.001.004.000000441">Bismarks</persName>
+                                        Einheit auf die Freiheit, durch das preußische
+                                        Parlament.</p>
+                                <p rend="MBTextMitEinzug">Was meinst Du? Engels? Letzterer hat sagte
+                                        &amp; schrieb man s.&#160;Z. hier auch in Preussens Armee
+                                        die Befreiung Deutschlands gehofft? Wo kann ich darüber
+                                        lesen?</p>
+                                <p rend="MBTextMitEinzug"><anchor type="verweisziel" xml:id="start_d5l_y35_qz"/>Antworte mir recht bald!
+                                                <seg type="comment"><orig>Pressirt Dir der Congress
+                                                  nicht?</orig><note xml:id="nrx5_f4v_fz">Zum Genfer
+                                                  Kongress der IAA siehe <ref key="B00004/#nrk1_sfc_3y">Erl. zu Marx an Engels,
+                                                  5.1.<?oxy_comment_start author="reichhoff" timestamp="20170512T152746+0200" comment="{{Erl. 3d}}"?>1866<?oxy_comment_end?>.</ref></note></seg></p>
+                                <p sameAs="MBTextmitEinzug">Bitte um recht schnelle Antwort denn ich
+                                        mögte in der jetzigen Krise eine Volksversammlung <supplied cert="high">...</supplied>
+                                        <supplied cert="high">Arbe</supplied>iter Noth zur
+                                                Auf-<supplied cert="high">…</supplied>tet!<anchor type="verweisziel" xml:id="stop_d5l_y35_qz"/></p>
+                                <p sameAs="MBTextmitEinzug"><supplied cert="high">...</supplied>
+                                        guten Rath!</p>
+                                <closer sameAs="MBUnterschrift">Dein P. St. </closer>
+                        </div></body></text></TEI>

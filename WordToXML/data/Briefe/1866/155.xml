@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00159" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>155</idno>William Randall Cremer an Karl Marx in London. London, Mittwoch, 22. August 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 1 d. 1987</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt festem, weißem Papier im Format 114&#160;×&#160;179&#160;mm.
+                                                  Auf der ersten Seite oben links trägt der Brief
+                                                  den ovalen roten Aufdruck des Central Council der
+                                                  IAA (siehe S.&#160;000 ).<?oxy_comment_start author="lindenberg" timestamp="20170424T164858+0200" comment="Auf der ersten Seite oben links trägt der Brief den ovalen roten Aufdruck des Central Council der IAA (siehe S. 000 [Br. 6, ZB])"?>
+                                                  <?oxy_comment_end?>Die erste Seite hat Cremer
+                                                  vollständig beschrieben, die zweite ist leer.
+                                                  Schreibmaterial: schwarze Tinte.</p><p>Von Marx' Hand: eine Notiz mit Bleistift auf der zweiten Seite, kopfstehend niedergeschrieben.
+              Die Notiz stellt ein Exzerpt aus dem Buch von William Robert Grove: The correlation of
+              physical forces dar. Wahrscheinlich benutzte Marx die vierte Ausgabe dieser Arbeit:
+              London 1862.
+              <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>S.&#160;000<?oxy_custom_end?>
+              (siehe: Bibliothek der Sozialdemokratischen Partei Deutschlands. Systematischer
+              Katalog. Berlin 1927. Bd.&#160;3. S.&#160;785; Verzeichnis von verschollenen Büchern
+              aus den Bibliotheken von Marx und Engels. S.&#160;77). Marx zitiert die exzerpierte
+              Notiz im ersten Band des „Kapitals“ (MEGA² II/5. S.&#160;427).<?oxy_comment_start author="lindenberg" timestamp="20170424T164937+0200" comment="Marx zitiert die exzerpierte Notiz im ersten Band des „Kapitals“ (MEGA² II/5. S. 427). [[Es gab mehrere Ausgaben seit 1843 bzw. 1846. Siehe meine Karte. Text des Exzerpts – im „Kapital“: II/5. S. 427; IV/18 schlägt eine andere Quelle vor. Siehe Brief an Vasina in meiner Mappe]]"?>
+              <?oxy_comment_end?></p><p>Erstveröffentlichung (gekürzt): MEGA² I/20. S.&#160;1496; vollständig wird der Brief hier erstmals veröffentlicht.</p></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000001027">William Randall Cremer</persName><placeName>London</placeName><date when="1866-08-22"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:50Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 15 Bouverie St<lb/>Fleet St<lb/>22/8/66</dateline><salute sameAs="MBAnrede">Dear Citizen</salute></opener><p sameAs="MBTextohneEinzug">Have just received information <seg type="comment"><orig>There are
+                                                  700&#160;Tailors locked out in
+                                                  Manchester.</orig><note xml:id="cff67721-5df5-4418-8d4d-9c4d5086166f">
+                                                  <p rend="endnote text">Anfang August 1866
+                                                  forderten einige hundert Schneidergesellen in
+                                                  Manchester einen Ausgleich für Lohneinbußen, die
+                                                  mit der Einführung von Maschinen entstanden waren
+                                                  und eine Beteiligung am gestiegenen Gewinn der
+                                                  Unternehmer. Als Antwort wurden ab dem
+                                                  16.&#160;August 700&#160;Schneider ausgesperrt.
+                                                  Gewerkschaften verhinderten den Einsatz von
+                                                  Streikbrechern und halfen mit Geldspenden. Der
+                                                  Konflikt endete am 12.&#160;September 1866 mit
+                                                  einem Vergleich. - In der Sitzung des Zentralrats
+                                                  am 21.&#160;August 1866 wurde eine Bitte an die
+                                                  IAA, die Zufuhr von Streikbrechern vom Kontinent
+                                                  zu verhindern, vorgebracht. Der Zentralrat
+                                                  beschloss, „to suspend any continental action
+                                                  until the arrival of confirmatory intelligence
+                                                  from Manchester; but in case of danger, the
+                                                  secretary was to act immediately“. (The_Minute
+                                                  Book 1864–1866. In: MEGA²&#160;I/20.
+                                                  S.&#160;448.1–8). (((lThe_Minute Book 1864–1866.
+                                                  In: MEGA²&#160;I/20. S._265–450))) Siehe auch
+                                                  MEGA²&#160;I/20. Erl._448.1–8 und 479.11–12.</p>
+                                                </note></seg>
+                                        <seg type="comment"><orig>They wish you to <expan resp="editor" sameAs="dottet_underline">communic<ex>a</ex>te</expan> with Hamburg and the
+                                                  parts of <expan resp="editor" sameAs="dottet_underline">Germa<ex>n</ex>y</expan>
+                                                  you think best for the purpose</orig><note xml:id="nej3_b1p_hz">Marx beteiligte sich als
+                                                  Korrespondierender Sekretär des Zentralrats für
+                                                  Deutschland an der Unterstützung der ausgesperrten
+                                                  Schneider; siehe dazu ebenda. S.&#160;479.9–11 und
+                                                  Erl.</note></seg>
+                                        <expan resp="editor" sameAs="dottet_underline">The<ex>y</ex></expan> also wish it done directly as
+                                        the danger is imminent.</p><closer sameAs="MBUnterschrift">Fraternally Yours<lb/>Cremer</closer><postscript><p>Do not mind the expense, as they will pay the expenses incurred </p></postscript></div></body></text></TEI>

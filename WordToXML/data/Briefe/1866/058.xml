@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00062" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>58</idno>Robert Applegarth an Karl Marx in London.
+                                        London, vor Montag, 12. März 1866</title>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                                        veröffentlicht.</edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>RGASPI</institution>
+                                                <idno><idno type="shelfmark">f. 1 op. 5 d.
+                                                  1647</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Blatt festem, weißem
+                                                  Papier im Format 118&#160;×&#160;194&#160;mm. Auf
+                                                  der ersten Seite steht die gedruckte Einladung zur
+                                                  Versammlung der Aktionäre der Industrial Newspaper
+                                                  Company, die zweite Seite hat Applegarth
+                                                  vollständig beschrieben. Schreibmaterial: schwarze
+                                                  Tinte.</p>
+                                                <p>Die Datierung ergibt sich aus der Vermutung, dass
+                                                  der Brief sich auf Angelegenheiten der Industrial
+                                                  Newspaper Company bezieht, deren Direktoren und
+                                                  Aktionäre sowohl Marx, als auch Applegarth waren
+                                                  (siehe MEGA² I/20. S.&#160;799). Der Brief ist
+                                                  offensichtlich nach dem 10.&#160;Februar 1866
+                                                  geschrieben worden (siehe Marx an Engels,
+                                                  10.3.1866: „Dennoch habe ich ...“ und im
+                                                  vorliegenden Brief: „I have the pleasure to inform
+                                                  you ...“). Die Sitzung des Direktoriums, die Marx
+                                                  besucht hatte, fand am Montag, dem 12.&#160;März
+                                                  1866 statt (siehe Marx an Engels, 24.3.1866:
+                                                  „Bevor ich hierhin aufbrach ...“. So ist zu
+                                                  vermuten, dass der Brief kurz vor dem
+                                                  12.&#160;März 1866 geschrieben worden ist.</p>
+                                        </physDesc>
+                                </msDesc>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000000132">Applegarth, Robert
+                                                (1834-1924)</persName>
+                                        <placeName>London</placeName>
+                                        <date when="1866-03-12"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_ats_ysj_wx">Marx, Karl
+                                                (1818-1883)</persName>
+                                        <placeName/>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:38:50Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingAct"><opener>
+                                        <dateline sameAs="MBDatumszeile">
+                                                <hi rend="smallcaps"><hi rendition="#mPrint">Industrial Newspaper
+                                                  Company,<lb/>(limited.)</hi></hi></dateline>
+                                        <salute sameAs="MBAnrede"><hi rend="italic smallcaps"><hi rendition="#i"><hi rendition="#mPrint">Sir,</hi></hi></hi></salute>
+                                </opener><p rend="MBTextMitEinzug"><hi rendition="#i"><hi rendition="#mPrint">You are urgently requested to
+                                                  attend </hi></hi><seg type="comment"><orig><hi rendition="#i"><hi rendition="#mPrint">a Meeting
+                                                  of Shareholders on the 19th day of </hi></hi>
+                                                  March <hi rendition="#mPrint">1866,</hi></orig><note xml:id="b02b7f37-e0de-483a-bc65-17bddb75de6c">Die
+                                                  Sitzung der Aktionäre der <orgName key="ed_isw_cry_sy">Industrial Newspaper Company
+                                                  (Limited)</orgName> (<ref target="B00007/#nmrb_qzn_4y">Erl. zu Marx an J.
+                                                  Ph. Becker, zwischen 9. und
+                                                  15.1.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170517T110013+0200" comment="{{Erl. 6f}}"?>)<?oxy_comment_end?>
+                                                  fand am 19.&#160;März 1866 statt. Siehe <ref target="B00075/#start_odz_25z_nz">Marx an Engels,
+                                                  24.3.1866</ref>
+                                                  <?oxy_comment_start author="reichhoff" timestamp="20170412T170418+0200" comment="{{Br. 72.35–36}}"?>.<?oxy_comment_end?></note></seg>
+                                        <hi rendition="#i"><hi rendition="#mPrint">at the Company’s
+                                                  Offices, <hi rendition="#u">1</hi><hi rendition="#u">8, Bouverie-street,
+                                                  Fleet-street,</hi> for the purpose of considering
+                                                  the propriety of increasing the nominal capital of
+                                                  the Company.</hi></hi></p><closer sameAs="MBUnterschrift"><hi rendition="#mPrint">R.&#160;Applegarth, </hi><lb/><hi rend="italic smallcaps"><hi rendition="#i"><hi rendition="#mPrint">Secretary</hi>.</hi></hi><dateline><hi rend="italic smallcaps"><hi rendition="#i"><hi rendition="#mPrint">18, Bouverie
+                                                  Street.—January</hi></hi></hi><hi rend="italic smallcaps" xml:space="preserve"> 31</hi><hi rend="italic smallcaps"><hi rendition="#i"><hi rendition="#mPrint"><hi rendition="#mPrint">st,</hi></hi></hi></hi>
+                                                <hi rend="smallcaps">1866.</hi></dateline></closer><lb/><pb/> My Dear Sir<p sameAs="MBTextohneEinzug">I beg you will favour us with your
+                                        presence on <seg type="comment"><orig>Monday
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20170503T160045+0200" comment="alternative Lesung: Eight"?><unclear reason="illegible" cert="high">hften</unclear><?oxy_comment_end?> at the
+                                                  Directors Meeting.</orig><note xml:id="ecbd623b-323f-412c-b252-a3447d9ff39b">Die
+                                                  Sitzung des Direktoriums fand Montag, den
+                                                  12.&#160;März 1866 statt. Siehe <ref target="B00075/#start_l5m_hvz_nz">Marx an Engels,
+                                                  24.3.<?oxy_comment_start author="reichhoff" timestamp="20170412T171241+0200" comment="Br. 72.25–38"?>1866<?oxy_comment_end?></ref>.</note></seg></p><p sameAs="MBTextmitEinzug">I have also the pleasure to inform
+                                        you that at the shareholders Meeting yourself with <seg type="comment"><orig>4&#160;others</orig><note xml:id="dcdfcba0-7be6-420c-9c96-bd8005376d6c"><persName key="pdrPo.001.004.000001603">Peter
+                                                  Fox</persName>, <persName key="pdrPo.001.004.000002244">George
+                                                  Howell</persName>, <persName key="pdrPo.001.004.000005083">John
+                                                  Weston</persName> und <persName key="ed_z5s_ptj_wx">Arthur Miall</persName>. Siehe
+                                                  <ref target="B00036/#start_kvh_s5z_nz">Marx an
+                                                  Engels,
+                                                  10.2.<?oxy_comment_start author="reichhoff" timestamp="20170412T170841+0200" comment="{{Br. 33.41–43}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        was appointed <seg type="comment"><orig>a Comittee to
+                                                  supervise the matter</orig><note xml:id="nfgm_2mt_zy">Siehe <ref target="B00036/#start_kvh_s5z_nz">Marx an Engels,
+                                                  10.2.<?oxy_comment_start author="reichhoff" timestamp="20170412T172041+0200" comment="{{Br. 33.39–44}"?>1866<?oxy_comment_end?></ref></note></seg>
+                                        to go into <seg type="comment"><orig>the Paper.</orig><note xml:id="nswf_4pt_zy">„The Commonwealth” (London).
+                                                  (((zThe_Commonwealth)))</note></seg></p><closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u2}</hi>-->I am <expan resp="editor" sameAs="dottet_underline">D<ex>ea</ex>r</expan> Sir<lb/>yours
+                                                truly<lb/>RApplegarth<lb/><expan resp="editor" sameAs="dottet_underline">Sec<ex>retary</ex></expan></closer><p rend="MBTextOhneEinzug">Dr Marx </p></div>
+                </body>
+        </text>
+</TEI>

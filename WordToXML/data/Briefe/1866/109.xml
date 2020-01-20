@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00113" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>109</idno>Karl Marx an Friedrich Engels in Manchester. London, Donnerstag, 17. Mai 1866.</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4451/L VI 583</idno></idno></msIdentifier><physDesc>
+                        <p>Der Brief besteht aus einem Blatt dünnem, blauem Papier im Format
+                            130&#160;×&#160;206&#160;mm. Die erste Seite hat Marx vollständig
+                            beschrieben, die zweite zu einem Drittel. Die letzte Passage („u. wie
+                            hat das Sinken der Baumwollpreise gewirkt?“), steht, mit dem
+                            Zuordnungszeichen „++“ versehen, auf der zweiten Seite in der Mitte.
+                            Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand:
+                            Nummerierung des Briefes bzw. der beschriebenen Seiten: „27,1“ bzw.
+                            „27,2“ .</p>
+                        <p>Marx beantwortet Engels' Brief vom 16.&#160;Mai 1866 (Engels an Marx,
+                            16.5.1866). Engels antwortete am 25.&#160;Mai 1866 (Engels an Marx,
+                            25.5.1866).</p>
+                    </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1969</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;320–321.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-05-17"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:23Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 17 Mai. 1866.</dateline><salute sameAs="MBAnrede">Dear Fred,</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_xlv_tsw_pz"/><orig>Was machen die <hi rendition="#u">Polenartikel</hi>?</orig><note xml:id="bae811cc-09bc-414b-9985-249c45c34453">Siehe <ref target="B00004/#a099d127-3ab3-4126-bcd4-b1896c4d8ccd">Erl. zu Marx
+                                an Engels,
+                                5.1.<?oxy_comment_start author="reichhoff" timestamp="20170512T101757+0200" comment="{{Erl 3h}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                    <seg type="comment"><orig>Das Blatt</orig><note xml:id="e3bc6756-9c12-47ae-badc-94496d35c0aa">„The Commonwealth“
+                            (London). Siehe <ref target="B00007/#nmrb_qzn_4y">Erl. zu Marx an J. Ph.
+                                Becker, zwischen 9. und
+                                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170512T111443+0200" comment="{{Erl. 6f}}"?>1866<?oxy_comment_end?>.</ref>
+                            (((zThe_Commonwealth))) </note></seg><index indexName="XE">
+                        <term>zzThe Commonwealth</term>
+                    </index> mag sich halten oder nicht, Du mußt so viel geben als Du kannst. <seg type="comment"><orig>Die Polen warten hier auf die Fortsetzung</orig><note xml:id="d8455074-4aca-4894-96a2-0c4886ad89d6">Siehe <ref target="B00100/#cd9495c2-d6d6-467a-b5c9-9d4f9df854cd">Erl. zu Engels an
+                                Marx,
+                                1.5.<?oxy_comment_start author="reichhoff" timestamp="20170512T111746+0200" comment="{{Erl. 96n}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                    u. bother me mit Anfragen. Die Artikel haben auch sonst Aufsehn gemacht. <seg type="comment"><orig><hi rendition="#u"><persName key="pdrPo.001.004.000001603">Föxchen</persName></hi>, nachdem
+                            er sie gelobt, hielt vorgestern im Centralrath eine Diatribe gegen den
+                            Passus, worin Du der Corruption der <add>poln.</add> Aristokratie die
+                            Theilung zuschreibst. Er griff <add>u.a.</add> speziell die Deutschen
+                            an, die grade die Polen durch die sächsische Dynastie u.s.w. ruinirt
+                                hätten.<anchor type="verweisziel" xml:id="stop_xlv_tsw_pz"/> Ich
+                            antwortete ihm kurz.</orig><note xml:id="e3f2f625-782b-4161-a6f5-929b6ce52a52">In der Sitzung des
+                            Zentralrats der IAA am 8.&#160;Mai 1866 hatte <persName key="pdrPo.001.004.000001603">Peter Fox</persName> angekündigt, er
+                            werde in der nächsten Sitzung zu einer Passage im dritten von Engels‘
+                            Polenartikeln sprechen (siehe The_Minute Book 1864–1866. In:
+                            MEGA²&#160;I/20. S.&#160;411.40–42). (((lThe_Minute Book 1864–1866. In:
+                            MEGA²&#160;I/20. S._265–450))) Vermutlich meinte Fox (siehe im
+                            vorliegenden Brief Z._6–11 in Artikel_III. („The doctrine of the
+                            nationality applied to Poland.“) die Passage zur polnischen Aristokratie
+                            (siehe MEGA²&#160;I/20. S.&#160;201.35–202.11).
+                            (((lEngels,Friedrich:What have the working classes to do with Poland?
+                            In: MEGA²&#160;I/20. S.&#160;200–203))) Im Protokoll der
+                            Zentralratssitzung vom 15.&#160;Mai 1866 wird dazu nichts vermerkt.
+                            Siehe dazu auch ebenda. S._1187.</note></seg></p><p sameAs="MBTextmitEinzug">Die renommistischen Preussen sind allerdings geneigt die Hörner
+                    einzuziehen u. <persName key="pdrPo.001.004.000000441">Bismarck</persName> stößt auch auf Seite
+                        <seg type="comment"><orig>des Rülps</orig><note xml:id="b95f6994-761b-41c0-9886-cf73d8603416"><persName key="pdrPo.001.004.000005131">Wilhelm&#160;I.</persName>
+                        </note></seg> auf grossen Widerstand. Aber in Italien ist Rückzug kaum
+                    möglich u. das möchte wieder auf Preussen reagiren. Welcher Verlust für <seg type="comment"><orig>den Itzig</orig><note xml:id="b57b22a0-c1eb-4644-bf9e-247fed9b93ba"><persName key="pdrPo.001.004.000002711">Ferdinand Lassalle</persName>.
+                        </note></seg>, daß er maustodt ist! Den hätte Bismarck jetzt Rolle spielen
+                    lassen. B. flucht uns sicher (u. hält uns für östr. Agenten), daß wir ihm das
+                    leichte Spiel mit den Arbeitern verdorben.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Seit Anfang dieser Woche geht es endlich
+                            wieder mit der Arbeit.</orig><note xml:id="a235297d-1b28-4ccb-b854-f1a37aa851d4">Marx spricht über seine
+                            Arbeit am „Kapital“. Siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an
+                                J. Ph. Becker, zwischen 9. und
+                                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170512T112023+0200" comment="{{Erl._6b}}"?>1866<?oxy_comment_end?>.</ref>
+                            (((lMarx,Karl:DasKapital.Bd.1.Hamburg1867))) </note></seg> Wenn Du mir
+                    einigen vinum schicken kannst, so gut, da die <del> blo <sic ana="#break-off"/></del> plötzliche Abstinenz davon schaden möchte.</p><p sameAs="MBTextmitEinzug">Herr <persName key="pdrPo.001.004.000003114">Mazzini</persName> hat
+                    nicht geruht, bis er ein „<expan resp="editor" sameAs="dottet_underline">intern<ex>ational</ex></expan>
+                    <expan resp="editor" sameAs="dottet_underline">Rep<ex>ublican</ex></expan>
+                    Committee“ gegen uns gebildet. Darin Esel <persName key="ed_s5r_dgk_sy">Holtorp</persName>, <persName key="ed_oyy_j2v_vy">Langiewicz</persName>,
+                        <persName key="pdrPo.001.004.000002754">Ledru</persName>,&#160;<pb/>
+                    <persName key="pdrPo.001.004.000002501">Kinkel</persName>, <persName key="pdrPo.001.004.000000470">Blind</persName>, ich glaube auch – <persName key="pdrPo.001.004.000000516">Bolleter</persName>! Unsre Association greift
+                    täglich um sich. <seg type="comment"><orig>Nur in Dtschd wegen Esel <persName key="pdrPo.001.004.000002822">Liebknecht</persName> (good fellow as
+                            he is!) nichts zu machen.</orig><note xml:id="e43ad557-4487-4e2a-9e50-d91f09e75741">Siehe <ref target="B00107">W. Liebknecht an Marx, zwischen 8. und
+                                15.5.<?oxy_comment_start author="reichhoff" timestamp="20170420T123743+0200" comment="{{Br. 103.5–11}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p><p sameAs="MBTextmitEinzug">Die jetzige Krise scheint mir blos verfrühte, financielle Sonderkrise.
+                    Wichtig könnte sie nur werden, wenn die Geschäfte in den U. States faul, wozu
+                    wohl kaum noch die Zeit hinreichte. <seg type="comment"><orig>Wie wirkts auf
+                            Euch cottonlords? u. wie hat <expan resp="editor" sameAs="dottet_underline">d<ex>as</ex></expan> Sinken <expan resp="editor" sameAs="dottet_underline">d<ex>er</ex></expan>
+                            Baumwollpreise gewirkt?</orig><note xml:id="ae88af72-afcc-4cbe-b2ef-96fb5a15d9b5">Siehe <ref target="B00115/#start_rp2_cq2_qz">Engels an Marx,
+                                25.5.<?oxy_comment_start author="reichhoff" timestamp="20170420T123859+0200" comment="{{Br. 111.3–14}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p><p sameAs="MBTextmitEinzug">Salut.</p><closer sameAs="MBUnterschrift">D<lb/>KM </closer></div></body></text></TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00032" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>29</idno>Johann Georg Eccarius an Karl Marx in London. London, Dienstag, 6. Februar 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 1635</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen dünnem, rosafarbenem Papier im Format
+                            268&#160;×&#160;208&#160;mm. Wasserzeichen: „L-J D L &amp; C<hi rendition="#sup">o</hi>“. Die erste und vierte Seite hat Eccarius
+                            vollständig beschrieben, die zweite und dritte sind leer.
+                            Schreibmaterial: schwarze Tinte.</p></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000001296">Johann Georg Eccarius</persName><placeName>London</placeName><date when="1866-02-06"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:32Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> 18 Bouverie-Street Fleet street
+                        E.C.<lb/>February 6, 1866.</dateline>
+                    <salute sameAs="MBAnrede">Lieber Marx!</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>In Folge eines einstimmigen
+                            Beschlusses von fünf Direktoren, die gestern Abend ausser mir versammelt
+                            waren, bin ich heute Morgen hier als <bibl sameAs="zzThe Commonwealth">Editor</bibl><?oxy_comment_start author="lindenberg" timestamp="20170331T111620+0200" comment="Soll: (((zThe Commonwealth)))"?>
+                            <?oxy_comment_end?>eingezogen.</orig><note xml:id="ced625ac-6d3f-4b0e-95d2-a696a3e30089">Siehe <ref target="B00007/#nmrb_qzn_4y">Erl. zu Marx an J. Ph. Becker, zwischen
+                                9. und
+                            15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170516T101651+0200" comment="{{Erl. 6f}}."?></note><?oxy_comment_end?></seg>
+                    <persName key="pdrPo.001.004.000000132">Applegarth</persName> brachte seinen
+                    puritanischen <persName key="pdrPo.001.004.000003192">Subeditor</persName> vor,
+                    der sich anheischig machen wollte the news zu liefern, im Falle der Noth selbst
+                    einen Artikel zu schreiben, aber er fand wenig Beifall. <persName key="pdrPo.001.004.000005083">Weston</persName> schien auf die Idee eines
+                    Geschäftsmanns einzugehen, <persName key="pdrPo.001.004.000001012">Coulson</persName> und <persName key="pdrPo.001.004.000001027">Cremer</persName> sagten Anfangs gar nichts, als ich aber erklärte daß ich
+                    ohne hinreichende Bezahlung nicht fortfahren könne wöchentlich zwei Artikel zu
+                    schreiben, daß ich unter keiner Bedingung zugeben werde daß ein ausserhalb der
+                    Partei stehender sub or chief irgend eine Kontrolle ausübe, daß aber die
+                    Anstellung des puritanischen subs gleichbedeutend sein würde mit einer Uebergabe
+                    der Zeitung an die Leute des <bibl sameAs="zzThe Nonconformist">Nonconformist</bibl>. Auf dieses hin nahm <persName key="pdrPo.001.004.000001027">Cremer</persName> das Wort, stimmte meiner
+                    Ansicht <pb/> bei und <seg type="comment"><orig>sprach sich für Deinen Vorschlag
+                            aus. Als <persName key="pdrPo.001.004.000000132">Applegarth</persName>
+                            sah daß er allein stand sprach er sich auch für mich aus. So wurde ich
+                            einstimmig gewählt.</orig><note xml:id="e4dfcde7-d247-40da-9814-ff02be44e451">Marx’ Vorschlag zur
+                            Reorganisation der Zeitung „The Workman’s Advocate" (((zThe Workman’s
+                            Advocate))) siehe <ref target="B00036/#start_r1p_14k_nz">Marx an Engels,
+                                10.2.<?oxy_comment_start author="reichhoff" timestamp="20170410T144705+0200" comment="{{Br. 33.33–47}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    Mein Lohn ist auf einen Monat zu 36&#160;S. die Woche festgesetzt.</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Mr.&#160;Miall</orig><note xml:id="nrjz_hc3_yx"><persName key="ed_z5s_ptj_wx">Arthur
+                                Miall</persName>
+                        </note></seg> ist zum Cassirer und Zahlmeister <seg type="comment"><orig>der
+                            Companie</orig><note xml:id="a0ea72f8-35c2-4456-bc39-b22e9b42b7dc"><orgName key="ed_isw_cry_sy">The Industrial Newspaper Company
+                                (Limited)</orgName>. </note></seg> ernannt worden. Für diese Woche
+                    sollen 10,000&#160;Exemplare gedruckt werden. 500&#160;große Plakate werden über
+                    daß Königreich geklebt, 30,000&#160;Handzettel vertheilt. <seg type="comment"><orig>Der alte <persName key="pdrPo.001.004.000003192">Miall</persName></orig><note xml:id="nj31_1d3_yx"><persName key="pdrPo.001.004.000003192">Edward Miall</persName>
+                        </note></seg> glaubt daß wir nahe an 10,000 verkaufen können, ich hoffe daß
+                    er sich nicht verrechnet. <seg type="comment"><orig>Le jeune</orig><note xml:id="d727f4f6-fafc-4579-9030-c4bb70e32940"><persName key="ed_z5s_ptj_wx">Arthur Miall</persName>
+                        </note></seg> gewährt einen Kredit von 60&#160;l. um Anzeigen u.s.w. ohne
+                    Hinderniß zu verbreiten. Der junge Mann fragt mich eben ob der Mond ein Satelite
+                    ist. Dein Nachbar <persName key="ed_dvn_npd_zx">Dennys</persName> schreibt über
+                    Mondsucht.</p>
+                <p sameAs="MBTextmitEinzug">In der Hoffnung daß Du so gut als es möglich ist Deiner
+                    Genesung entgegengehst</p>
+                <closer sameAs="MBUnterschrift">Grüßt Dein J.&#160;George Eccarius.</closer>
+                <postscript>
+                    <p><persName key="pdrPo.001.004.000001603">Fox</persName> hat <seg type="comment"><orig>die Schweizer Zeitung</orig><note xml:id="f5c229b3-6add-48a2-9371-6c8b0a74a6e6">Vermutlich „Journal de
+                                l’Association Internationale des Travailleurs. Section de la Suisse
+                                romande“ (Genf) (((zJournal de l’Association Internationale des
+                                Travailleurs. Section de la Suisse romande))) oder „Der Vorbote“
+                                (Genf). (((zDer Vorbote))) </note></seg> für Dich.</p>
+                </postscript>
+            </div></body></text></TEI>

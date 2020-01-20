@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00172" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>168</idno>Johann Georg Eccarius an Karl Marx in London. Genf, Montag, 10. September 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 21 op. 1 d. 13/4</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format 134&#160;×&#160;105&#160;mm. Die erste und vierte Seite hat Eccarius vollständig beschrieben, die übrigen zwei sind leer. Schreibmaterial: schwarze Tinte.</p><p>Die Schreibweise wurde nicht berichtigt.</p><p>Von unbekannter Hand (vermutlich von David Borisoviи
+                            Rjazano<?oxy_comment_start author="lindenberg" timestamp="20170119T171952+0100" comment="in der Webansicht erscheint hier ein russischer Buchstabe"?>v<?oxy_comment_end?>):
+                            die Jahresangabe „1866“ mit lilafarbenem Stift auf der ersten Seite oben
+                            rechts.</p><p>Archivsignatur des ИМЭ auf den beschriebenen Seiten: „Rj&#160;1752a&lt;–&gt;b“.</p></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000001296">Johann Georg Eccarius</persName><placeName>Genf</placeName><date when="1866-09-10"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:58Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Sept. 10. Genf.</dateline></opener><p sameAs="MBTextohneEinzug">Lieber Marx, <seg type="comment"><orig>endlich sind wir
+                                                  fertig.</orig><note xml:id="ce953e58-408d-48d9-9683-ccc00d1c59b9">Eccarius war Delegierter des Genfer Kongresses
+                                                  der IAA. Siehe auch <ref target="B00170">J. G.
+                                                  Eccarius an Marx, 5. und
+                                                  6.9.<?oxy_comment_start author="reichhoff" timestamp="20170406T115642+0200" comment="{{Br. 166}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        <seg type="comment"><orig>Wir haben Alles durchgebracht bis
+                                                  auf die Polenfrage.</orig><note xml:id="d4fa93d3-ef75-4adb-b0e5-bda15aeccb83">Die
+                                                  Polenfrage stand als Punkt&#160;9 auf der
+                                                  Tagesordnung des Kongresses (siehe Karl Marx:
+                                                  Instructions for the Delegates of the Provisional
+                                                  General Council. The different questions. In:
+                                                  MEGA²&#160;I/20. S.&#160;234/235).
+                                                  (((lMarx,Karl:Instructions for the Delegates of
+                                                  the Provisional General Council. The different
+                                                  questions. In: MEGA²&#160;I/20. S._225–235))) Der
+                                                  Kongress diskutierte dazu in der Vormittagssitzung
+                                                  am 8.&#160;September 1866. Siehe dazu
+                                                  MEGA²&#160;I/20. Erl._234.18–235.3 und
+                                                  Erl._672.22–35. Siehe auch
+                                                  Association_lnternationale des Travailleurs.
+                                                  Compte rendu du Congrès de Genève (1866). In:
+                                                  MEGA²&#160;I/20. S.&#160;672.22–35.
+                                                  (((lAssociation_lnternationale des Travailleurs.
+                                                  Compte rendu du Congrès de Genève (1866). In:
+                                                  MEGA²&#160;I/20. S.&#160;649–679))) </note></seg>
+                                        <seg type="comment"><orig>Wir gehen morgen früh mit dem
+                                                  ersten Zuge nach Laussanne. <persName key="pdrPo.001.004.000002417">Jung</persName>
+                                                  &amp; <persName key="ed_rr5_4hk_wy">Lawrence</persName> sind heute Abend dort bei der
+                                                  Gesellschaft.</orig><note xml:id="nqvb_5vk_3z">Nach dem Kongress besuchten die Delegierten
+                                                  einige Sektionen der IAA und Arbeiterversammlungen
+                                                  in der Schweiz. Berichte darüber siehe in: Minutes
+                                                  of the General Council 1866/1867. In: MEGA²_I/20.
+                                                  S. 480.9–19 und 484.28–485.6. (((lMinutes of the
+                                                  General Council 1866/1867. In: MEGA²_I/20.
+                                                  S._477–591)))</note></seg>
+                                        <seg type="comment"><orig>Der nächste Kongreß kömmt in
+                                                  Laussanne zusammen.</orig><note xml:id="dbaf82dc-7316-42eb-ba89-ec71e825ba29">Gemäß dem Beschluss des Genfer Kongresses sollte
+                                                  der nächste Kongress der IAA in Lausanne, am
+                                                  ersten Montag im September 1867 stattfinden (siehe
+                                                  Association_lnternationale des Travailleurs.
+                                                  Compte rendu du Congrès de Genève (1866). In:
+                                                  MEGA²&#160;I/20. S.&#160;676.28–30.
+                                                  (((lAssociation_lnternationale des Travailleurs.
+                                                  Compte rendu du Congrès de Genève (1866). In:
+                                                  MEGA²&#160;I/20. S.&#160;649–679))) </note></seg>
+                                        <seg type="comment"><orig>Die Central Behörde in
+                                                  London</orig><note xml:id="bc4dea80-4372-4985-b780-f8c4ca1ed70a">Der
+                                                  Kongress unterstützte die Empfehlung des
+                                                  Zentralrats der IAA, den Sitz des Zentralrats für
+                                                  das folgende Jahr in London zu belassen (siehe
+                                                  The_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+                                                  S.&#160;437.18). (((lThe_Minute Book 1864–1866.
+                                                  In: MEGA²&#160;I/20. S._265–450))) Siehe dazu
+                                                  weiter: Karl Marx:_Instructions for the Delegates
+                                                  of the Provisional General Council. Ebenda.
+                                                  S.&#160;225.8–10 (((lMarx,Karl:Instructions for
+                                                  the Delegates of the Provisional General Council.
+                                                  The different questions. In: MEGA²&#160;I/20.
+                                                  S._225–235))) und Association_lnternationale des
+                                                  Travailleurs. Compte rendu du Congrès de Genève
+                                                  (1866). Ebenda. S.&#160;676.5–6.
+                                                  ((((lAssociation_lnternationale des Travailleurs.
+                                                  Compte rendu du Congrès de Genève (1866). In:
+                                                  MEGA²&#160;I/20. S.&#160;649–679))) </note></seg>
+                                        <seg type="comment"><orig><persName key="pdrPo.001.004.000002770">Le Lubez</persName>
+                                                  soll vom Council ausgeschlossen bleiben. Wir
+                                                  hatten eine schöne Scene zur guten letzt.
+                                                  <persName key="pdrPo.001.004.000001654">Fribourg</persName> &amp; <persName key="pdrPo.001.004.000004773">Tolain</persName>
+                                                  liefen aus dem Saale.</orig><note xml:id="nwtq_dwk_3z"><persName key="pdrPo.001.004.000001296">Eccarius</persName>
+                                                  beschreibt die Abendsitzung des Kongresses,
+                                                  Sonnabend, den 8. September 1866 (siehe ebenda. S.
+                                                  676.9–25 und Erl.). Siehe auch <ref target="B00176">Marx an Engels,
+                                                  26.9.<?oxy_comment_start author="roth" timestamp="20170425T124401+0200" comment="{{Br. 171.25–33}} und {{Erl.}}."?>1866<?oxy_comment_end?>.</ref>
+                                                </note></seg>
+                                </p><p sameAs="MBTextmitEinzug"><pb/> Sonntag Morgen fanden sie sich jedoch wieder ein.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Die Londoner Deputation hat einen sehr guten
+              Eindruck gemacht.</orig><note xml:id="nb4r_4wk_3z">Siehe <ref target="B00167/#ebc8cea7-6d2d-416a-81ab-1128d56577c4">Erl. zu Marx an J. Ph. Becker,
+                31.8.<?oxy_comment_start author="reichhoff" timestamp="20170519T121140+0200" comment="{{Erl. 163b}}"?>1866<?oxy_comment_end?>.</ref>
+              - Auf der Sitzung des Generalrats am 18. September 1866 wurde Marx’ Vorschlag, „… a
+              vote of thanks to the delegates for the able manner in which they had represented the
+              Central Council at Geneva“, einstimmig beschlossen. Siehe Minutes of the General
+              Council 1866/1867. In: MEGA²_I/20. S. 483.25–27. (((lMinutes of the General Council
+              1866/1867. In: MEGA²_I/20. S._477–591)))</note></seg> Die Schweizer, so wohl wälsche
+          als dütsche die kein Wort englisch sagen sie es den Leuten ansehen daß sie mehr Takt
+          besitzen als die Franzosen.</p><p sameAs="MBTextmitEinzug">Au revoir.</p><closer sameAs="MBUnterschrift"><signed>Dein JG. Eccarius. </signed></closer></div></body></text></TEI>

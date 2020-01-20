@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_cjb_g4v_vy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schuldschein von Carl Hoßfeld für Friedrich Engels in Manchester, Manchester,
+                    Montag, 10. Dezember 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlaß</collection>
+                        <idno><idno type="shelfmark">Sign. L 2432/L IV 386</idno></idno>
+                    </msIdentifier>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ohr_wh2_sy">Hoßfeld, Carl (-)</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                    <date when="1866-12-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Engels, Friedrich (1820-1895)</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Manchester, d. 10.&#160;Decbr 1866</dateline>
+					<salute/>
+                </opener>
+				<p>Von Herrn F&#160;Engels die Summe von <hi rendition="#u">fünf</hi>
+                    <hi rendition="#u">Pfund</hi> darlehensweise erhalten zu haben und verspreche
+                    dieselben im Monat Januar 1867 ehrlich zurückzuzahlen    </p>
+				<closer>
+					<salute/>
+					<signed>CHoßfeld</signed>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

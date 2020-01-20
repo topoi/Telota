@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_bht_sdh_yy" type="year_intro" subtype="1866">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Einführung zum Briefjahrgang 1866</title>
+                <author><persName>Svetlana Gavrilchenko</persName><affiliation>Russländisches Staatliches Archiv für Sozial- und Politikgeschichte (RGASPI, Moskau)</affiliation></author>
+                <author><persName>Thomas Lindenberg</persName><affiliation>Berlin-Brandenburgische Akademie der Wissenschaften</affiliation></author>
+                <author><persName>Hanno Strauß</persName><affiliation>Berlin-Brandenburgische Akademie der Wissenschaften</affiliation></author>
+                <author><persName>Ljudmila Vasina</persName><affiliation>Russländisches Staatliches Archiv für Sozial- und Politikgeschichte (RGASPI, Moskau)</affiliation></author>
+                <author><persName>Ulrike Reichhoff</persName><affiliation>Berlin-Brandenburgische Akademie der Wissenschaften</affiliation></author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution/>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark"/>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p><hi ana="short">Vorgelegt wird hier in digitaler Form der überlieferte
+                        Briefwechsel von Karl Marx und Friedrich Engels für das Jahr 1866. Dieser
+                        Jahrgang enthält 213 Briefe, von denen 62 zwischen Marx und Engels
+                        gewechselt wurden, wobei das Verhältnis – 34 von Marx an Engels und 28
+                        umgekehrt – relativ ausgewogen ist. Zählt man jene 2 Briefe mit, die Jenny
+                        Marx für ihren Mann an Engels schrieb, als Marx im Januar 1866 bettlägerig
+                        war, kommt man auf 64 Briefe der beiden untereinander, somit ein knappes
+                        Drittel des gesamten Volumens. An Dritte haben Marx oder Engels 27 Briefe
+                        adressiert, auch hier kommen wieder zwei Briefe hinzu, die Jenny Marx im
+                        Auftrage ihres kranken Mannes an Dritte schrieb. Somit stellen die von Marx
+                        oder Engels verfassten Briefe etwas weniger als die Hälfte der Gesamtmenge
+                        dar (93 von 213). Bei der anderen Hälfte handelt es sich um Briefe Dritter
+                        an Marx oder Engels, wobei Marx als Adressat doppelt so oft erscheint wie
+                        Engels (79 zu 38). Über diese Korrespondenzen lassen sich häufig auch Briefe
+                        rekonstruieren, die nicht überliefert sind.</hi></p>
+                <p>Von den 213 Briefen des Jahrgangs 1866 sind <ref target="B00175">ein Brief von
+                        Marx (an Collet Dobson Collet vom 26. September 1866)</ref> und 83 an Marx
+                    oder Engels gerichtete Briefe Dritter – also mehr als ein Drittel der edierten
+                    Briefe - Erstveröffentlichungen. Neun Briefe werden erstmals in der Sprache des
+                    Originals und einer erstmals vollständig in der Sprache des Originals
+                    veröffentlicht.</p>
+                <p>Vom Briefwechsel zwischen Engels und seiner in Deutschland im Bergischen Land
+                    lebenden Familie sind aus dem Jahr 1866 immerhin 17 Briefe erhalten. Weitere
+                    wichtige Korrespondenzpartner von Marx und Engels waren Wilhelm Liebknecht,
+                    Louis Kugelmann, Hermann Jung, Paul Stumpf, Johann Philipp Becker, Friedrich
+                    Leßner, Johann Georg Eccarius und Karl Kaub.</p>
+                <p>In inhaltlicher Hinsicht stehen die Internationale Arbeiter Assoziation (IAA) und
+                    ihre Organe im Zentrum der Korrespondenz; mehrere Briefe enthalten zudem
+                    Berichte aus verschiedenen Ortsvereinen der Arbeiterbewegung, so aus Leipzig
+                    (Liebknecht), Mainz (Stumpf) und Paris (Kaub). Einen weiteren Schwerpunkt der
+                    Korrespondenz bildet Marx’ Arbeit an der Fertigstellung des ersten Bandes des
+                    „Kapital“; seine im Januar 1866 auftretende schwere Krankheit führte hier zu
+                    erheblicher Verzögerung. Weitere wiederholt verhandelte Themen sind die
+                    außenpolitischen Verhältnisse in Europa, der Deutsche Krieg (Juni–August 1866)
+                    und der seit 1862 schwelende Verfassungskonflikt in Preußen mit seinen
+                    Auswirkungen auf die Innenpolitik. Schließlich zeugen auch viele Briefe dieses
+                    Jahrgangs vom Interesse, das Marx und Engels an naturwissenschaftlichen
+                    Entwicklungen nahmen.</p>
+                <p>Die Briefe wurden von Svetlana Gavrilchenko und Ljudmila Vasina am Russländischen
+                    Staatlichen Archiv für Sozial- und Politikgeschichte (RGASPI, Moskau) und von
+                    Thomas Lindenberg, Hanno Strauß und Ulrike Reichhoff an der
+                    Berlin-Brandenburgischen Akademie der Wissenschaften bearbeitet. </p>
+                <p>Die redaktionellen Arbeiten wurden im April 2017 abgeschlossen.</p>
+                <p>Einzelheiten zur Bearbeitung und Benutzung siehe <ref target="http://telotadev.bbaw.de/mega/about/text.xql?id=aufbau_edition">Editorische Hinweise</ref>. </p>
+                <p>Ansprechpartner: <lb/><hi ana="contact">Thomas Lindenberg</hi>, <hi ana="email">lindenberg@bbaw.de</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

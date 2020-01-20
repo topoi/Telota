@@ -1,0 +1,16 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00090" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>87</idno>Ernest Jones an Karl Marx in London. Manchester, Mittwoch, 11. April 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 1650</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Bogen festem, weißem Papier im Format
+              228&#160;×&#160;176&#160;mm. Prägung: „Ivory“ in einer Vignette. Die ersten zwei
+              Seiten hat Jones vollständig beschrieben, die übrigen zwei sind leer. Schreibmaterial:
+              schwarze Tinte.</p>
+            <p>Archivsignatur des Moskauer Marx-Engels-Instituts (IMĖ) auf den beschriebenen Seiten:
+              „Rj 1574a“ und „Rj 1574b“.</p>
+            <p>Zur Beilage („By the same post ...“) siehe Erl.&#160; </p>
+          </physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002387">Ernest Jones</persName><placeName>Manchester</placeName><date when="1866-04-11"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:09Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 47, Princess Street<lb/>Manchester,<lb/>April 11/66.</dateline><salute sameAs="MBAnrede">My Dear Marx,</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><orig>By the same post I send you an article for
+                            the <bibl sameAs="zzThe Commonwealth">Commonwealth</bibl>.</orig><note xml:id="f053fe8f-b72f-44aa-9892-6df357b50f05">Ernest Jones: To the
+                            editor of the Commonwealth. In: The Commonwealth. London. Nr.&#160;163,
+                            21.&#160;April 1866. S.&#160;5. (((lJones, Ernest: To the editor of the
+                            Commonwealth. In: The Commonwealth. London. Nr.&#160;163, 21.&#160;April
+                            1866. S.&#160;5.)))</note></seg></p><p sameAs="MBTextmitEinzug">Will you kindly give it to <seg type="comment"><orig>the
+                            Editor,</orig><note xml:id="f60011df-a057-4753-9566-c369da6432b1"><persName key="pdrPo.001.004.000003494">George Odger</persName>.
+                        </note></seg> whose address I have not got.</p><p sameAs="MBTextmitEinzug">I hope it will go in</p><p sameAs="MBTextmitEinzug">Kind regards at home.</p><p sameAs="MBTextmitEinzug">I wish I was with <pb/> you away from this pig-stye.</p><p sameAs="MBTextmitEinzug">Kindest regards at home,</p><closer sameAs="MBUnterschrift">Ever yours<lb/>Ernest Jones. </closer></div></body></text></TEI>

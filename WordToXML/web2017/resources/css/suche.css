@@ -1,0 +1,93 @@
+ul.tageskalendereintraege li {
+    margin-bottom: 0.3em;
+    border-bottom: 1px solid gray;
+    padding-bottom: 0.3em;    
+}
+
+/* Suche */
+form#search {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+form.register input,
+form.register select,
+form#search label,
+form#search input,
+form#search select {
+    position: relative;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    margin-top: 0.5em;
+    padding: 0.4em;
+    font: 0.9em PTSans, sans-serif;
+}
+
+form.register input,
+form.register select,
+form#search input,
+form#search select {
+    border: 1px solid #7F9DB9;
+    border-radius: 0.2em;
+}
+
+form.register input,
+form.register select,
+form#search label:focus,
+form#search input:focus,
+form#search select:focus {
+    border: 1px solid #ac4d00;
+} 
+
+form#search label {
+    float: left;
+    width: 12em;
+    margin-right: 1em;
+}
+
+form#search input, 
+form#search select {
+    width: 68%;
+}
+
+form#search input[type='checkbox'] {
+    width: auto;
+}
+
+form#search fieldset.checkboxes label {
+    width: 100%;
+    padding: 0;
+}
+
+form#search input.submit {
+    width: 6em;
+    margin-left: 27%;
+}
+
+/* ########## Formular in der rechten Randspalte ########### */
+div.grid_6 form#search input.submit,
+div.grid_4 form#search input.submit {
+    margin-left: 0;
+}
+
+div.grid_6 form#search input[type='text'], 
+div.grid_6 form#search select,
+div.grid_4 form#search input[type='text'], 
+div.grid_4 form#search select {
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+div.grid_6.graybox input,
+div.grid_6.graybox select {
+    background-color: #e0e0e0;
+}
+
+div.grid_6 form#search label,
+div.grid_4 form#search label {
+    padding: 0;
+    margin: 0;
+}
+

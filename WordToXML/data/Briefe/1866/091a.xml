@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00095" xml:lang="de"><teiHeader><fileDesc><titleStmt>
+                                <title><idno>91a</idno>Peter Fox André an Friedrich Engels in
+                                        Manchester. London, Mittwoch, 18. April 1866</title>
+                        </titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 1644</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen festem, weißem Papier im Format 242&#160;×&#160;191&#160;mm.
+                            Wasserzeichen: „Joynson First Quality“. Die erste Seite hat Fox André
+                            vollständig beschrieben, die übrigen drei sind leer. Schreibmaterial:
+                            schwarze Tinte. </p><p>Archivsignatur des Moskauer Marx-Engels-Instituts (IMĖ) auf der ersten Seite: „RJ 37“
+                            (ausradiert).</p><p>Von unbekannter Hand: Vermerk mit Bleistift „<hi rendition="#u">P.&#160;Fox</hi>“ auf der ersten
+                            Seite oben links.</p><p>Die Datierung stützt sich auf den Bezug des Briefes auf die Publikation des Artikels von Engels
+                            „What have the working classes to do with Poland?“ (MEGA² I/20.
+                            S.&#160;193–203) in der Zeitung „The Commonwealth“. Editor bzw.
+                            Subeditor des Blattes waren seit dem 9. April 1866 George
+                            <?oxy_comment_start author="strauss" timestamp="20170613T102107+0200" comment="(((nOdger,George)))"?>Odger<?oxy_comment_end?>
+                            und Fox André (siehe Marx an Engels, 2.4.1866: „Während meiner
+                            Abwesenheit ist ...“). Engels beabsichtigte, den dritten Teil seines
+                            Artikels am 6.&#160;April 1866 an Marx zu schicken (siehe Engels an
+                            Marx, 6.4.1866: „Nach der vorgefallenen Umwälzung ...“), konnte ihn dann
+                            vermutlich erst am 9. oder 10.&#160;April an die Redaktion senden (siehe
+                            Engels an Marx, 1.5.1866: „Ich schickte meinen 3<hi rendition="#sup">t</hi> Polenartikel ...“). Engels schrieb Marx im selben Brief,
+                            dass er von Fox nach 8 Tagen Antwort erhalten hatte. Fox selbst schrieb
+                            seinen Antwortbrief am Mittwoch („Wednesday noon“). Somit dürfte der
+                            vorliegende Brief dann Mittwoch, den 18.&#160;April 1866 geschrieben
+                            worden sein.</p></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000001603">Peter Fox André</persName><placeName>London</placeName><date when="1866-04-18"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:12Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 18 Bouverie S<hi rendition="#sup">t</hi></dateline><dateline sameAs="MBDatumszeile">Fleet S<hi rendition="#sup">t</hi></dateline><dateline sameAs="MBDatumszeile">E.&#160;C.</dateline><dateline sameAs="MBDatumszeile">Wednesday noon.</dateline><salute sameAs="MBAnrede">Dear Sir</salute></opener><p sameAs="MBTextohneEinzug">It is only now that I have been able to lay <seg type="comment"><orig>your article</orig><note xml:id="a36c33a1-c31c-4247-8dfa-bdf3701bd16e"> Frederic [Friedrich]
+                            Engels: What have the working classes to do with Poland? III. In: The
+                            Commonwealth. London. Nr.&#160;165, 5.&#160;Mai 1866. S.&#160;5. (MEGA²
+                            I/20. S.&#160;200–203). (((lEngels,_[Friedrich]Frederic:_What have the
+                            working classes to do with Poland? I–III. In: The Commonwealth. London.
+                            Nr.&#160;159, 24.&#160;März 1866. S.&#160;5; Nr.&#160;160, 31.&#160;März
+                            1866. S.&#160;5; Nr.&#160;165, 5.&#160;Mai 1866. S.&#160;5. (MEGA² I/20.
+                            S.&#160;193–203)_))) </note></seg> before M<hi rendition="#sup">r</hi>&#160;<persName key="pdrPo.001.004.000003494">Odger</persName>, the
+                    Editor, &amp; he decides <seg type="comment"><orig>that it must stand over till
+                                <hi rendition="#u">next week</hi></orig><note xml:id="npbh_tv5_cz"><persName key="pdrPo.001.004.000001603">Fox André</persName> meint
+                            die Nummer von „The Commonwealth“ (((zThe_Commonwealth,Jg.1866))) vom
+                            28. April 1866. Siehe <ref target="B00100/#start_ll3_h4r_pz">Engels an
+                                Marx,
+                            1.5.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170418T173220+0200" comment="{{Br. 96.42}}"?>.<?oxy_comment_end?></note></seg>
+                    on the ground of the number of our articles already in type for this week.</p><p sameAs="MBTextmitEinzug">It is with regret that I announce even the delay of a week for <hi rendition="#u">with me at least</hi>, though
+                                        friendly to the <seg type="comment"><orig>Reform
+                                                  Bill,</orig><note xml:id="ff49ebb7-c722-46f4-b9c6-8f550a389115"> Zur
+                                                  Wahlrechtsreform in Großbritannien veröffentlichte
+                                                  „The Commonwealth" (London), Nr.&#160;163,
+                                                  21.&#160;April 1866 auf S. 3 folgende Materialien:
+                                                  The Reform Bill.—Adjourned debate.; Reform debate
+                                                  sketches; The Reform question.
+                                                  (((zThe_Commonwealth,Jg.1866))) </note></seg> the
+                                        Polish question has precedence of every thing else.</p><closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u2}</hi>-->I am dear Sir<lb/>Sincerely yours<lb/>Peter Fox. </closer></div></body></text></TEI>

@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00162" xml:lang="de"><teiHeader><fileDesc><titleStmt>
+                                <title><idno>158</idno>Karl Marx an Friedrich Engels in Manchester.
+                                        London, Donnerstag, 23. August 1866</title>
+                        </titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4461/L VI 592</idno></idno></msIdentifier><physDesc>
+                                                <p>Der Brief besteht aus einem Bogen mittelstarkem,
+              weißem Papier im Format 230&#160;×&#160;181&#160;mm. Wasserzeichen: „Joynson 1866“.
+              Prägung: die Aufschrift „Best Quality“ auf dem Schild,
+              <?oxy_comment_start author="lindenberg" timestamp="20170426T162754+0200" comment="ursprünglich:
+umrahmt mit den Zweigen"?>umrahmt
+              mit Zweigen<?oxy_comment_end?>. Die erste Seite hat Marx vollständig beschrieben, die
+              zweite zu einem Drittel, die übrigen zwei Seiten sind leer. Schreibmaterial: schwarze Tinte.<?oxy_comment_start author="lindenberg" timestamp="20170424T165120+0200" comment=" Die erste Seite hat Marx vollständig beschrieben, die zweite zu einem Drittel, die übrigen zwei Seiten sind leer. Schreibmaterial: schwarze Tinte. [ZB von Vera Morozova in KMHaus Trier angefertigt. Wo liegt der Brief heute? Im IISG!]"?>
+              <?oxy_comment_end?></p>
+                                                <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand: Numerierung der
+                                                  beschriebenen Seiten: „48,1“ bzw.
+                                                  „48,2“.<?oxy_comment_start author="lindenberg" timestamp="20170424T165151+0200" comment="Von Eduard Bernsteins Hand: Numerierung des Briefes bzw. der beschriebenen Seiten: „48,1“ bzw. „48,2“."?></p>
+                                                <?oxy_comment_end?>
+                                        </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1989</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;345.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-08-23"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:51Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Lond. 23 Aug. 1866.</dateline><salute sameAs="MBAnrede">Dear Fred,</salute></opener><p sameAs="MBTextohneEinzug">Heut nur ein paar Zeilen. <seg type="comment"><orig>Die Sache mit
+                <persName key="pdrPo.001.004.000002648">Lafargue</persName> ist so weit arrangirt,
+              daß der <persName key="ed_z11_fcw_wx">Alte</persName> mir aus Bordeaux
+              geschrieben,</orig><note xml:id="nvxn_tyv_hz">Der Brief von <persName key="ed_z11_fcw_wx">François Lafargue</persName> an Marx, geschrieben vor dem 23.
+              August 1866, ist nicht überliefert. Zur Verlobung von <persName key="pdrPo.001.004.000003076">Laura Marx</persName> mit <persName key="pdrPo.001.004.000002648">Paul Lafargue</persName> siehe <ref target="B00149/#start_zxs_n2w_tz">Marx an Engels,
+                7.8.<?oxy_comment_start author="reichhoff" timestamp="20170504T095730+0200" comment="{{Br. 145.9–31}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00154">Marx an P. Lafargue,
+                13.8.<?oxy_comment_start author="reichhoff" timestamp="20170406T084842+0200" comment="{{Br._150}}"?>1866<?oxy_comment_end?>.</ref>
+              <ref target="B00193">Marx antwortete am 12.11.1866</ref>
+              <?oxy_comment_start author="reichhoff" timestamp="20170406T085504+0200" comment="({{Br. 187}})"?>.<?oxy_comment_end?></note></seg>
+          bei mir angefragt um den Titel eines <seg type="comment"><orig>promesso sposo</orig><note xml:id="a5874e08-b444-4b58-8235-ec867a7dce1e">Bräutigam (ital.).</note></seg> für
+          seinen Sohn, sehr günstige ökonomische Bedingungen gestellt hat. <seg type="comment"><orig>Ausserdem selbstverstanden, daß <persName key="pdrPo.001.004.000002648">Lafargue Jeune</persName> erst sein Doctorexamen in London u. dann in Paris zu
+              machen, bevor ans Heirathen zu denken.</orig><note xml:id="nvtw_dzv_hz"><persName key="pdrPo.001.004.000002648">Paul Lafargue</persName> bestand sein Examen als
+              Chirurg am Royal College of Surgeons of England am 22. Juli 1868. Siehe [Diplom von
+              Paul Lafargue über die Absolvierung des Royal College of Surgeons of England] (RGASPI,
+              Sign._f. 10, op. 1, d. 417 [Kopie]). (((l[Diplom_von_Paul Lafargue über die
+              Absolvierung des Royal College of Surgeons of England] (RGASPI, Sign._f. 10, op. 1, d.
+              417 [Kopie]) )))</note></seg> So far the thing is settled. Ich habe aber noch gestern
+          unsrem Creolen mitgetheilt, daß wenn er sich nicht zu englischen Manieren down calmiren
+          kann, <persName key="pdrPo.001.004.000003076">Laura</persName> ihn ohne Umstände an die
+          Luft setzen wird. Dieß muß er sich völlig klar machen oder es wird Nichts aus der Sache.
+          Er ist ein kreuzguter Kerl, aber enfant gâté u. zu sehr Naturkind.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Laura erklärt, daß bevor sie sich förmlich
+              verlobt, Dein consent da sein muß.</orig><note xml:id="dceb729a-1eec-46a3-946d-760747a82772">Siehe <ref target="B00150/#start_aqh_bqb_5z">Engels an Marx,
+                10.8.<?oxy_comment_start author="reichhoff" timestamp="20170504T100014+0200" comment="{{Br. 146.3–6}}"?>1866<?oxy_comment_end?>.</ref></note></seg><ref target="B00150/#start_aqh_bqb_5z"> </ref></p><p sameAs="MBTextmitEinzug"><pb/> Ich habe hier u. da neue Karbunkelanfänge, aber sie verschwinden immer wieder, zwingen mich aber meine Arbeitsstunden sehr within limits zu halten.</p><p sameAs="MBTextmitEinzug">Beste Grüsse an <seg type="comment"><orig><persName key="pdrPo.001.004.000000698">Lizzy</persName>.</orig><note xml:id="na4c_kh1_dy"><persName key="pdrPo.001.004.000000698">Lydia
+                                                  Burns</persName>.</note></seg></p><closer sameAs="MBUnterschrift">Salut<lb/>D<lb/>KM </closer></div></body></text></TEI>

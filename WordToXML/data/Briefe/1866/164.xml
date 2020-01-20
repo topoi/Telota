@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00168" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>164</idno>Hermann Jung an Karl Marx in London. Genf, Mittwoch, 5. September 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 21 op. 1 d. 13/3</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format 134&#160;×&#160;217&#160;mm. Jung hat die erste Seite vollständig beschrieben, die zweite zu drei Vierteln. Schreibmaterial: schwarze Tinte.</p><p>Von unbekannter Hand: das Datum mit Tinte auf der ersten Seite oben rechts: „5/9&#160;66“.</p></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002417">Hermann Jung</persName><placeName>Genf</placeName><date when="1866-09-05"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:55Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+        <opener>
+          <salute sameAs="MBAnrede"><pb/> Dear Marx</salute>
+        </opener>
+        <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>So far all goes well</orig><note xml:id="c1a2d8a1-9b64-48ff-9454-b50cfcaf63e5"><persName key="pdrPo.001.004.000002417">Hermann Jung</persName> berichtet hier über den Verlauf des Kongresses der IAA in
+              Genf.</note></seg> only I am very much indisposed having completely lost my voice; in
+          place of my voice I have a very bad cough; I do not know how it is but I can neither eat
+          nor drink; still if you see <seg type="comment"><orig>my dear little wife</orig><note xml:id="d8a236c0-60b5-4710-9f65-5cd3b442b2f6"><persName key="ed_kyz_h2t_sy">Sarah
+                Jung</persName>. </note></seg> do not freighten her for I could not remain here if
+          she knew th state of my health.—<seg type="comment"><orig>I have been elected president by
+              an immense majority;</orig><note xml:id="ngqs_4kd_3z">Siehe <ref target="B00170/#start_jdw_s44_rz">J. G. Eccarius an Marx,
+                5./6.9.1866<?oxy_comment_start author="roth" timestamp="20170425T113913+0200" comment="{{Br._166.81}}"?></ref><?oxy_comment_end?>
+              und Association lnternationale des Travailleurs. Compte rendu du Congrès de Genève
+              (1866). In: MEGA²_I/20. S. 655.25–27. (((lAssociation lnternationale des Travailleurs.
+              Compte rendu du Congrès de Genève (1866). In: MEGA²_I/20. S. 649–679)))</note></seg>
+          <seg type="comment"><orig>the number of delegates is about sixty</orig><note xml:id="b02abb44-7ba5-4cb6-926b-16b0954a5d6f">Ebenda. S.&#160;651/652.
+              (((lAssociation_lnternationale des Travailleurs. Compte rendu du Congrès de Genève
+              (1866). In: MEGA²&#160;I/20. S.&#160;648–680))) </note></seg> &amp; <seg type="comment"><orig>the congress will not conclude its labours before 10 or
+              14&#160;days;</orig><note xml:id="ng13_5kd_3z">Der Kongress tagte vom 3. bis zum 8.
+              September 1866.</note></seg>
+          <seg type="comment"><orig>You know we left London with hardly any money</orig><note xml:id="de0ba7d9-88b7-4a4a-a17d-486f3c13552c">Siehe <ref target="B00167/#start_xgz_w54_rz">Marx an J. Ph. Becker,
+                31.8.<?oxy_comment_start author="roth" timestamp="20170425T120619+0200" comment="{{Br. 163.11–13}} und Erl. "?>1866<?oxy_comment_end?></ref>,
+              und Erl. </note></seg> &amp; some of us are pinched very hard; I think the council
+          ought to do every thing to send us some money without delay unless they want to burden the
+          geneva section with the expenses of our funeral.</p>
+        <p sameAs="MBTextmitEinzug">Maintenant je dois vous demander un service pour notre ami <seg type="comment"><orig><persName key="pdrPo.001.004.000001296">Eccarius</persName>: le
+              pauvre diable</orig><note xml:id="nnwr_b1j_3z">Siehe <ref target="B00170">J. G.
+                Eccarius an Marx,
+              5./6.9.1866</ref><?oxy_comment_start author="roth" timestamp="20170425T120926+0200" comment="{{Br. 166.66–70, 75–77}}."?>.<?oxy_comment_end?>
+            </note></seg> n'a donné que <pb/> 12&#160;Shillings à <seg type="comment"><orig>sa
+                <persName key="pdrPo.001.004.000010455">femme</persName></orig><note xml:id="nnzw_d1j_3z">Eccarius, Ehefrau.</note></seg> &amp; je voulais vous prier de
+          lui envoyer £&#160;1. que je vous rendrai à mon retour à Londres.</p>
+        <p sameAs="MBTextmitEinzug">Un autre service: tâchez d'aller voir ma <persName key="pdrPo.001.004.000010888">femme</persName> ou si vous ne pouvez y aller engagez
+          Madame <persName key="pdrPo.001.004.000003075">Marx</persName> ou Mademoiselle <persName key="pdrPo.001.004.000003074">Jenny</persName> &amp; <persName key="pdrPo.001.004.000001129">Hélène</persName> à aller la voir; si elle a l'ennui après
+          moi comme moi je l'ai de ma petite famille elle doit être bien malheureuse; je lui ai
+          écrit mais je n'en ai pas encore reçu de réponse je ne sais si elle a reçu ma lettre.</p>
+        <p sameAs="MBTextmitEinzug">nous avons “hard work” pour combattre les utopies de la jeunesse
+          brillante.</p>
+        <p sameAs="MBTextmitEinzug">Saluez votre aimable famille &amp; recevez mon salut
+          fraternel.</p>
+        <closer sameAs="MBUnterschrift">H<hi rendition="#sup">n</hi> Jung</closer>
+        <p sameAs="MBAdresse">5 Septembre 1866 </p>
+      </div></body></text></TEI>

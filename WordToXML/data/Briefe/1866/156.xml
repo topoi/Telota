@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00160" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>156</idno>Elisabeth Engels an Friedrich Engels in Manchester. Barmen, Donnerstag, 23. August 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">Standort Orig. nicht bekannt; Kopie: f. 9 op. 1 d. 6/14 Fotosign. 784a&lt;–&gt;b.</idno></idno></msIdentifier><physDesc><p>Der Standort der Originalhandschrift ist zur Zeit nicht bekannt. Die Veröffentlichung erfolgt nach einer Fotokopie: RGASPI, Sign. f.&#160;9, op.&#160;1, d.&#160;6/14. Fotosign. 784a&lt;–&gt;b.</p><p>Soweit aus der Fotokopie zu ersehen ist, besteht der Brief aus einem Bogen. Die ersten zwei Seiten hat Elisabeth Engels vollständig beschrieben, die dritte zur Hälfte.</p><p>Das Papier wurde gelocht, die dadurch entstandenen Textverluste (Z.&#160;17, 24, 30) konnten rekonstruiert werden.</p><p>Von unbekannter Hand: Numerierung des Briefes: „784“.</p><p>Elisabeth Engels beantwortet einen nicht überlieferten Brief von Engels, geschrieben vor dem 23.&#160;August 1866 (Z.&#160;22).</p></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                    <persName key="pdrPo.001.004.000001367">Engels, Elisabeth (1797-1873)</persName><placeName>Barmen</placeName><date when="1866-08-23"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:50Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> Barmen 23 August 66</dateline>
+                    <salute sameAs="MBAnrede">Lieber Friedrich</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug">Ich will Dir heute nur mittheilen daß <seg type="comment"><orig>es noch etwas zweifelhaft ist, wann die Hochzeit der
+                            Marie <expan resp="editor" sameAs="dottet_underline">B<ex>lank</ex></expan> sein wird.</orig><note xml:id="njmx_jvv_hz">
+                            <p>Zu Verlobung und Hochzeit von <persName key="pdrPo.001.004.000000459">Marie Blank</persName> (Tochter) siehe <ref target="B00006/#start_ush_hdf_4z">E. Engels an Engels,
+                                    13.1.<?oxy_comment_start author="reichhoff" timestamp="20170504T095403+0200" comment="{{Br. 5.18–27}}"?>1866<?oxy_comment_end?></ref>.</p>
+                        </note></seg>
+                    <seg type="comment"><orig>Der Bruder</orig><note xml:id="njyv_nvv_hz"><persName key="ed_m2x_dyk_2z">Barthels, Bruder</persName>. </note></seg>
+                    <seg type="comment"><orig>des Bräutigams</orig><note xml:id="d1a033fa-1109-47ff-b91c-c28fd07eeb5a"><persName key="ed_fzq_5lg_yx"> Robert Barthels</persName>. </note></seg> ist
+                    wie <seg type="comment"><orig>der Krieg</orig><note xml:id="d80a1bcd-a552-4a32-bc8a-46423cf14815">Der Deutsche Krieg
+                            (1866).</note></seg> beinah zu Ende war noch einberufen u. steht seid
+                    dem in Münster, er kann nur selten u. auch sehr kurze Zeit Urlaub bekommen u.
+                    weiß natürlich gar nicht wann er entlassen wird. Blanks denken aber daß dies
+                    geschieht sobald der Friede abgeschlossen ist, was ja jeden Tag kommen kann.
+                        R.&#160;<persName key="ed_fzq_5lg_yx">Bartels</persName> kann aber nicht
+                    hier fort kommen wenn sein <persName key="ed_m2x_dyk_2z">Bruder</persName> nicht
+                    zurück ist da er allein im Geschäft ist. Sie wollen gern eine Hochzeitsreise
+                    machen u. deshalb warten sie auf den Bruder. So bald ich etwas bestimmtes
+                    darüber höre schreibe ich Dir gleich u. <pb/> hoffe Du wirst dann kommen. Am
+                    nächsten Montag erwarte ich <seg type="comment"><orig>Adolf</orig><note xml:id="dc69c5f6-0f36-48ae-8f91-07c48ef69b6a"><persName key="pdrPo.001.004.000001904">Adolf von Griesheim</persName>.
+                        </note></seg> mit Familie hier,<anchor type="verweisziel" xml:id="start_w13_cw3_5z"/> er kommt hierher weil <persName key="pdrPo.001.004.000001391">Rudolfs</persName> Krankheit doch nicht so
+                    rasch vorüber gegangen ist wie wir hofften, seine Nerwen waren so angegriffen
+                    daß er keinen Besuch ertragen konnte, der Doctor hat <expan resp="editor" sameAs="dottet_underline">i<ex>h</ex>n</expan> nach Lorch an den Rhein
+                    geschickt wo es ganz still ist.<anchor type="verweisziel" xml:id="stop_w13_cw3_5z"/>
+                    <seg type="comment"><orig>Hermann</orig><note xml:id="b2cacffb-9cb5-4795-967d-9db3e20ddcd9"><persName key="pdrPo.001.004.000001375">Hermann Engels</persName>.
+                        </note></seg> geht am Sammstag mit Familie nach Gladbach u. deshalb kommt
+                        <persName key="pdrPo.001.004.000001904">Adolf</persName> auf 14&#160;Tage
+                    hierher. </p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_krh_d3n_tz"/><orig>So eben erhalte ich Deinen Brief u. es
+                            freut mich daraus zu sehn daß Du kommst, wenn Du nun Deine Abreise um
+                            einige Tage verschieben willst, so wäre das ganz gut doch hoffe ich,
+                            wenn Du am 31<hi rendition="#sup">t</hi> abreist u. Du 14&#160;Tage
+                            hierbleibst oder wie Du es nennst, „herumbummelst“ Du doch zur Hochzeit
+                            hier bist. Bei Blanks ist Alles darauf eingerichtet daß sie in der
+                            ersten Woche des Septbr sein kann.<anchor type="verweisziel" xml:id="stop_krh_d3n_tz"/></orig><note xml:id="nknk_zvv_hz">Engels‘
+                            Brief, geschrieben vor dem 23. August 1866, ist nicht überliefert. Zu
+                            Engels’ Reise nach Deutschland siehe <ref target="B00148/#ed7465d7-c7d0-4b8f-9b6a-d7b144a87d0c">Erl. zu Engels
+                                an Marx,
+                                6.8.<?oxy_comment_start author="reichhoff" timestamp="20170518T144011+0200" comment="{{Erl. 144e}}"?>1866<?oxy_comment_end?>.</ref>
+                            Der Hochzeitsfeier wollte er offensichtlich nicht beiwohnen, siehe <ref target="B00161">Engels an E. Engels,
+                                23.8.<?oxy_comment_start author="reichhoff" timestamp="20170504T095513+0200" comment="{{Br. 157.8–10}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                </p>
+                <p sameAs="MBTextmitEinzug"><pb/>
+                    <seg type="comment"><orig>Hedwig</orig><note xml:id="d74e3a07-cd28-489c-8fb6-4a70dd21f6b1"><persName key="pdrPo.001.004.000000502">Hedwig Boelling</persName>.
+                        </note></seg> reist morgen mit 2&#160;Kindern u. einer Freundin nach Ostende
+                    weil sich der Gesundheitszustand dort gebessert hat. Ich gehe nicht mit, weil
+                    ich möglicher Weise über 12 oder 14&#160;Tage zur Hochzeit wieder abreisen
+                    müßte. Es geht mir Gott sei Dank gut u. ich freue mich daß ich auch hier mal das
+                    Haus wieder etwas voll haben werde.</p>
+                <p sameAs="MBTextmitEinzug">Nun leb wohl bis auf baldiges Wiedersehn.</p>
+                <closer sameAs="MBUnterschrift">Mit treuer Liebe<lb/>Deine Mutter E. </closer>
+            </div></body></text></TEI>

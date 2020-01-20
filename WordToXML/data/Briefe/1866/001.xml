@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00001" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>1</idno>Peter Imandt an Karl Marx in London. Dundee,
+                                        frühestens 1866</title>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                                        veröffentlicht.</edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>IISG</institution>
+                                                <collection>Marx-Engels-Nachlass</collection>
+                                                <idno><idno type="shelfmark">D 2433/D V 15.
+                                                  Fotosign.&#160;2965.</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Blatt festem, weißem
+                                                  Papier im Format 114&#160;×&#160;181&#160;mm.
+                                                  Wasserzeichen: „[Joy]nson [1]866“. Die erste Seite
+                                                  hat Imandt vollständig beschrieben, die zweite ist
+                                                  leer. Schreibmaterial: schwarze Tinte.</p>
+                                                <p>Die Datierung ergibt sich aus der Jahreszahl im
+                                                  Wasserzeichen.</p>
+                                                <p>Die Beilage („einliegende Correspondenz“) ist
+                                                  nicht überliefert.</p>
+                                        </physDesc>
+                                        <additional>
+                                                <listBibl>
+                                                  <bibl>RGASPI f. 1 op. 5 d. 1063</bibl>
+                                                </listBibl>
+                                        </additional>
+                                </msDesc>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000002303">Peter Imandt</persName>
+                                        <placeName>Dundee</placeName>
+                                        <date when="1866-01-01"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName key="ed_wz2_shs_qx">London</placeName>
+                                </correspAction>
+                        </correspDesc>
+                        <textClass>
+                                <keywords>
+                                        <term key="ed_rw2_4vl_qx">Preußen</term>
+                                        <term key="ed_vgk_5cg_fy">Verfassungskonflikt in
+                                                Preußen</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:37:59Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingAct">
+                                <opener>
+                                        <dateline sameAs="MBDatumszeile"><pb/> Mittwoch</dateline>
+                                        <salute sameAs="MBAnrede">Lieber Marx,</salute>
+                                </opener>
+                                <p sameAs="MBTextohneEinzug">Sei so gut und lies die einliegende
+                                        Correspondenz. <seg type="comment"><orig><persName key="ed_g2n_lk5_2z">Mr.&#160;Matthew</persName>
+                                                  ist ein berühmter Schotte, der im Rufe steht
+                                                  <persName key="pdrPo.001.004.000001091">Darwins</persName> Theorie Jahre lang vor Darwin
+                                                  erfunden und publicirt zu haben.</orig><note xml:id="e4770e77-2f21-401d-b04a-0365f0cf64b0">Patrick Matthew: On naval Timber and
+                                                  Arboriculture. Edinburgh, London 1831. In einem
+                                                  Anhang zum Buch behandelte er die Idee der
+                                                  künstliche Zuchtwahl der Bäume zur Verbesserung
+                                                  der Baumholzqualität. (((lMatthew:_On naval Timber
+                                                  and Arboriculture. Edinburgh, London 1831)))
+                                                </note></seg> Schicke mir einige Facta aus
+                                        Preußenland in Bezug auf Censur, Gerichtsverwaltung u.s.w.
+                                        ich habe nämlich Allees vergessen.</p>
+                                <p sameAs="MBTextmitEinzug">Hilf mir ein wenig gegen <choice>
+                                                <sic>die</sic>
+                                                <corr cert="high">den</corr>
+                                        </choice> Grobian <persName key="ed_dtm_gb5_lz">Rüdiger</persName> ein reicher Kaufmann in Gera.
+                                        Schicke mir die <choice>
+                                                <sic>Wiche</sic>
+                                                <corr cert="high">Wische</corr>
+                                        </choice> zurück und antworte</p>
+                                <closer sameAs="MBUnterschrift"> bald<lb/>Deinem<lb/>Imandt
+                                </closer>
+                        </div>
+                </body>
+        </text>
+</TEI>

@@ -1,0 +1,216 @@
+<docs>
+    <doc>
+        <file>MEGA_A2_B001-01_ETX.xml</file>
+        <abteilung>2</abteilung>
+        <band>1</band>
+        <teilband>1</teilband>
+        <firstPage>1</firstPage>
+        <lastPage>310</lastPage>
+        <width>wide</width>
+        <name>"Grundrisse", Teil 1</name>
+        <contents>
+            <content>Bastiat und Carey</content>
+            <content>Einleitung zu den „Grundrissen der Kritik der politischen Ökonomie“</content>
+            <content>Grundrisse der Kritik der politischen Ökonomie, Erster Teil</content>
+        </contents>
+        <apparates/>
+    </doc>
+    <doc>
+        <file>MEGA_A2_B001-02_ETX.xml</file>
+        <abteilung>2</abteilung>
+        <band>1</band>
+        <teilband>2</teilband>
+        <firstPage>311</firstPage>
+        <lastPage>748</lastPage>
+        <width>wide</width>
+        <name>"Grundrisse", Teil 2</name>
+        <contents>
+            <content>Grundrisse der Kritik der politischen Ökonomie, Zweiter Teil</content>
+        </contents>
+        <apparates/>
+    </doc>
+    <doc>
+        <file>MEGA_A2_B004-01_ETX.xml</file>
+        <abteilung>2</abteilung>
+        <band>4</band>
+        <teilband>1</teilband>
+        <firstPage>3</firstPage>
+        <lastPage>432</lastPage>
+        <width>wide</width>
+        <name>Ökonomische Manuskripte 1863-67, Teil 1</name>
+        <contents>
+            <content>Das Kapital (Ökonomisches Manuskript 1863-1865), Erstes Buch</content>
+            <content>Das Kapital (Ökonomisches Manuskript 1863-1865), Zweites Buch (Manuskript
+                I)</content>
+            <content>Value, price and profit</content>
+        </contents>
+        <apparates>
+            <appType>
+                <name>globReg-relevant</name>
+                <display>Kumuliertes Sachregister zur Textseite</display>
+                <file>MEGA_A2_B004-01_B011_B012_B013_globReg.xml</file>
+                <reload>1</reload>
+            </appType>
+        </apparates>
+    </doc>
+    <doc>
+        <file>MEGA_A2_B004-02_ETX.xml</file>
+        <abteilung>2</abteilung>
+        <band>4</band>
+        <teilband>2</teilband>
+        <firstPage>2</firstPage>
+        <lastPage>902</lastPage>
+        <width>wide</width>
+        <name>Das Kapital, Ökonomisches Manuskript 1863-65</name>
+        <contents>
+            <content>XXX ToDo</content>
+        </contents>
+    </doc>
+    <doc>
+        <file>MEGA_A2_B004-03_ETX.xml</file>
+        <abteilung>2</abteilung>
+        <band>4</band>
+        <teilband>3</teilband>
+        <firstPage>1</firstPage>
+        <lastPage>403</lastPage>
+        <width>wide</width>
+        <name>Manuskripte zum zweiten und dritten Buch des „Kapitals“ 1867/68</name>
+        <contents>
+            <content>Notizen zur Ermittlung von Mehrwert- und Profitrate (erläutert von Louis
+                Kugelmann)</content>
+            <content>Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit. Die
+                Profitrate (Erster Entwurf)</content>
+            <content>Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit und der Rate
+                des Mehrwerts in Profitrate (Zweiter Entwurf)</content>
+            <content>Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit und der Rate
+                des Mehrwerts in Profitrate (Dritter Entwurf)</content>
+            <content>Zweites Buch. Der Zirkulationsprozeß des Kapitals. Anfang des ersten
+                Kapitels</content>
+            <content>Thematisch ausgewählte Quellenauszüge für Buch 2 des „Kapitals“</content>
+            <content>Gesetze der Profitrate</content>
+            <content>Über Mehrwert- und Profitrate, Gesetze der Profitrate, Kostpreis und Umschlag
+                des Kapitals</content>
+            <content>Differentialrente. Auszüge aus Exzerptheften</content>
+            <content>Profitrate, Kostpreis und Umschlag des Kapitals</content>
+            <content>Zweites Buch. Der Zirkulationsprozeß des Kapitals (Manuskript IV)</content>
+            <content>Kommentierte Auszüge aus Adam Smith: An inquiry into the nature and causes of
+                wealth of nations ... Book 1</content>
+            <content>Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit und der Rate
+                des Mehrwerts in Profitrate (Vierter Entwurf)</content>
+        </contents>
+        <apparates/>
+    </doc>
+    <doc>
+        <file>MEGA_A2_B005-00_ETX.xml</file>
+        <abteilung>2</abteilung>
+        <band>5</band>
+        <teilband>0</teilband>
+        <firstPage>1</firstPage>
+        <lastPage>654</lastPage>
+        <width>wide</width>
+        <name>"Das Kapital", 1. Band, Druckfassung 1867</name>
+        <contents>
+            <content>Das Kapital. Kritik der politischen Ökonomie, Erster Band, Hamburg
+                1867</content>
+        </contents>
+        <apparates/>
+    </doc>
+    <doc>
+        <file>MEGA_A2_B010-00_ETX.xml</file>
+        <abteilung>2</abteilung>
+        <band>10</band>
+        <teilband>0</teilband>
+        <firstPage>1</firstPage>
+        <lastPage>694</lastPage>
+        <width>wide</width>
+        <name>"Das Kapital", 1. Band, Druckfassung 1890</name>
+        <contents>
+            <content>"Das Kapital", 1. Band, 4. Aufl. Druckfassung 1890</content>
+        </contents>
+        <apparates/>
+    </doc>
+    <doc>
+        <file>MEGA_A2_B011-00_ETX.xml</file>
+        <abteilung>2</abteilung>
+        <band>11</band>
+        <teilband>0</teilband>
+        <firstPage>1</firstPage>
+        <lastPage>828</lastPage>
+        <width>normal</width>
+        <name>"Das Kapital", 2. Band, Manuskripte 1868-81</name>
+        <contents>
+            <content/>
+        </contents>
+        <apparates>
+            <appType>
+                <name>globReg-relevant</name>
+                <display>Kumuliertes Sachregister zur Textseite</display>
+                <file>MEGA_A2_B004-01_B011_B012_B013_globReg.xml</file>
+                <reload>1</reload>
+            </appType>
+        </apparates>
+    </doc>
+    <doc>
+        <file>MEGA_A2_B012-00_ETX.xml</file>
+        <abteilung>2</abteilung>
+        <band>12</band>
+        <teilband>0</teilband>
+        <firstPage>1</firstPage>
+        <lastPage>483</lastPage>
+        <width>normal</width>
+        <name>"Das Kapital", 2. Band, Redaktionsmanuskript 1884/85</name>
+        <contents>
+            <content>Karl Marx, Das Kapital. Kritik der politischen Ökonomie, Zweites Buch. Der
+                Zirkulationsprozeß des Kapitals, Redaktionsmanuskript von Friedrich Engels, Juni
+                1884 bis Februar 1885</content>
+        </contents>
+        <apparates>
+            <appType>
+                <name>globReg-relevant</name>
+                <display>Kumuliertes Sachregister zur Textseite</display>
+                <file>MEGA_A2_B004-01_B011_B012_B013_globReg.xml</file>
+                <reload>1</reload>
+            </appType>
+        </apparates>
+    </doc>
+    <doc>
+        <file>MEGA_A2_B013-00_ETX.xml</file>
+        <abteilung>2</abteilung>
+        <band>13</band>
+        <teilband>0</teilband>
+        <firstPage>1</firstPage>
+        <lastPage>488</lastPage>
+        <width>normal</width>
+        <name>"Das Kapital", 2. Band, Druckfassung 1885</name>
+        <contents>
+            <content>Das Kapital. Kritik der politischen Ökonomie. Zweiter Band. Hamburg
+                1885</content>
+            <content>Friedrich Engels, Vorwort zur zweiten Auflage, Hamburg 1893</content>
+        </contents>
+        <apparates>
+            <appType>
+                <name>globReg-relevant</name>
+                <display>Kumuliertes Sachregister zur Textseite</display>
+                <file>MEGA_A2_B004-01_B011_B012_B013_globReg.xml</file>
+                <reload>1</reload>
+            </appType>
+        </apparates>
+    </doc>
+    <doc>
+        <file>MEGA_A2_B015-00_ETX.xml</file>
+        <abteilung>2</abteilung>
+        <band>15</band>
+        <teilband>0</teilband>
+        <firstPage>1</firstPage>
+        <lastPage>859</lastPage>
+        <width>normal</width>
+        <name>"Das Kapital", 3. Band, Druckfassung 1894</name>
+        <contents>
+            <content>Das Kapital. Kritik der politischen Ökonomie. Dritter Band. Erster Teil.
+                Hamburg 1894</content>
+            <content>Das Kapital. Kritik der politischen Ökonomie. Dritter Band. Zweiter Teil.
+                Hamburg 1894</content>
+        </contents>
+        <apparates/>
+    </doc>
+</docs>

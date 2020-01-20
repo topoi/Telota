@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00049" xml:lang="de"><teiHeader><fileDesc><titleStmt>
+                <title><idno>46</idno>Jenny Marx an Louis Kugelmann in Hannover. London, Samstag,
+                    24. oder Sonntag, 25. Februar 1866</title>
+            </titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 1 d. 1940</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            225&#160;×&#160;180&#160;mm. Prägevignette: „Extra Super“ . Jenny Marx
+                            hat die ersten drei Seiten vollständig beschrieben, die vierte zu zwei
+                            Dritteln. Schreibmaterial: schwarze Tinte.</p><p>Von Kugelmanns Hand: Vermerke mit Tinte: „26/2 1866“ auf der ersten Seite und „a.2/3 cop.)“ auf
+                            der vierten Seite.</p><p>Archivsignatur des Moskauer Marx-Engels-Instituts (IMĖ) auf den beschriebenen Seiten: „RJ 181a“
+                            bis „RJ 181d“ (ausradiert).</p><p>Jenny Marx beantwortet hier den Brief Kugelmanns an Marx vom 23.&#160;Februar 1866 (L. Kugelmann
+                            an Marx, 23.2.1866).</p><p>Die Datierung ergibt sich aus dem Zusammenhang des o. g. Kugelmann-Briefes vom 23.&#160;Februar
+                            mit Jenny Marx' Antwort sowie aus Kugelmanns Datumsvermerk auf der
+                            ersten Seite.</p><p>Aus seinem zweiten Vermerk geht hervor, dass er Jenny Marx wahrscheinlich mit einem Brief vom
+                            2.&#160;März 1866, geantwortet hat, welcher nicht überliefert ist.</p></physDesc></msDesc><listWit><witness><bibl>Erstveröffentlichung: in russischer Übersetzung: МЭС<hi rendition="#sup">1</hi> 25
+                    (1934). S.&#160;465</bibl>.</witness><witness><bibl>in der Sprache des Originals: MEW&#160;31 (1965). S.&#160;589/590.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                    <persName key="pdrPo.001.004.000003075">Jenny Marx</persName>
+                    <placeName>London</placeName>
+                    <date from="1866-02-24" to="1866-02-25" cert="high"/>
+                </correspAction><correspAction type="received"><persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName><placeName>Hannover</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:44Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                        <opener>
+                            <dateline sameAs="MBDatumszeile"><pb/> 1 Modena Villas<lb/>Maitland
+                                Park.</dateline>
+                            <salute sameAs="MBAnrede">Sehr geehrter Herr,</salute>
+                        </opener>
+                        <p sameAs="MBTextohneEinzug">Mein armer Mann liegt seit 4&#160;Wochen wieder
+                    an seiner alten sehr schmerzhaften u. gefährlichen Krankheit darnieder, u. ich
+                    brauche Ihnen wohl nicht erst zu sagen welch’ schwere, bange Sorgen wir Alle in
+                    dieser Zeit durchgemacht haben. Grade Anfang Januar hatte er begonnen <seg type="comment"><orig>sein Buch</orig><note xml:id="c1f3c0f2-3757-4950-ab5e-1ac245d68f69">Gemeint ist hier Karl
+                            Marx: Das Kapital; siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx
+                                an J. Ph. Becker, zwischen 9. und 15.1.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170516T152902+0200" comment="{{Erl. 6b}}."?>
+                            <?oxy_comment_end?>(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg>
+                    vollständig für den Druck parat zu machen u. das Copiren ging wunderbar schnell
+                    voran, so daß das Manuscript sehr bedeutend anwuchs. Karl fühlte sich in den
+                    besten „spirits“ u. war glücklich endlich so weit zu sein, da brach plötzlich
+                    ein Carbunkel aus, dem nun 2 andre schnell <pb/> folgten. Der letzte war so
+                    schlimm u. hartnäckig u. verhinderte ihn dabei noch durch eine besonders
+                    ungünstige Lage am Gehen u. an aller Bewegung. Heute Morgen fängt das Blut an
+                    stärker hervorzudringen u. so ist auch etwas Erleichterung eingetreten. <seg type="comment"><orig>Wir haben seit 2&#160;Tagen die Arsenikcur begonnen von
+                            der sich Karl große Wirkung verspricht.</orig><note xml:id="a38a0566-fc27-4473-a8a2-a61310c0890b">Siehe <ref target="B00047/#start_ist_21y_nz">Engels an Marx,
+                                22.2.<?oxy_comment_start author="reichhoff" timestamp="20170412T111341+0200" comment="{{Br. 44.6-8}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    Von Neuem in der Vollendung seines Buches unterbrochen zu sein ist wahrhaft
+                    schrecklich für ihn u. Nachts phantasirt er beständig von den einzelnen
+                    Capiteln, die ihm stets im Kopf herumgehn. Ich brachte ihm heute Morgen <seg type="comment"><orig>Ihren Brief</orig><note xml:id="e4b5d3ec-8964-4de4-92b8-761958162bc3"><ref target="B00048">L.
+                                Kugelmann an Marx,
+                                23.2.<?oxy_comment_start author="reichhoff" timestamp="20170315T114933+0100" comment="{{Br. 45}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    ans Bett. Er freute sich sehr über Ihr freundliches Schreiben <pb/> u.
+                    beauftragte mich Ihnen sogleich Statt seiner herzlich dafür zu danken. Es kommt
+                    nun noch hinzu, daß in diesem Augenblicke seine Gegenwart so besonders nöthig
+                    wäre, sowohl bei den Debatten über den bevorstehenden Congreß der
+                    Internationalen Gesellschaft als bei den <anchor type="verweisziel" xml:id="start_fgg_slr_pz"/>Berathungen über die Haltung u. Redaction <subst>
+                        <del>des</del>
+                        <add>der</add>
+                    </subst> neuen Arbeiterzeitung die jetzt wöchentlich unter dem Namen <hi rendition="#u">„</hi><bibl sameAs="zzThe Commonwealth"><hi rendition="#u">Commonwealth“</hi></bibl> hier erscheint u. so wohl <seg type="comment"><orig>die neugebildete Arbeiterpartei</orig><note xml:id="cade3fc4-d383-4b23-bebe-28cde812809b">Vermutlich die Reform
+                            League. Siehe <ref target="B00007/#ad3d64b6-cc97-4e64-a37d-88309702e416">Erl. zu Marx an J. Ph. Becker, zwischen 9. und 15.1.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170516T153052+0200" comment="{{Erl. 6x}}."?></note><?oxy_comment_end?></seg>
+                    mit sämmtl. <subst>
+                        <del>Arbeiter</del>
+                        <add>Cooperativ</add>
+                    </subst> Gesellschaften, sowie auch die Internationale Assosiation
+                        vetritt.<anchor type="verweisziel" xml:id="stop_fgg_slr_pz"/> Die Unruhe
+                    über alles dieses trägt natürlich sehr dazu bei, seinen allgemeinen
+                    Gesundheitszustand herunter <pb/> zu bringen. Hoffentlich wird er im Frühjahr so
+                    weit hergestellt sein <seg type="comment"><orig>um seine Freunde in Deutschland
+                            besuchen zu können.</orig><note xml:id="bf1791f9-7d87-46d1-9e60-acbfd4b0faaf">Siehe <ref target="B00048/#bf53e2e1-8fdb-455d-8887-2e7876133087">Erl. zu L.
+                                Kugelmann an Marx, 23.2.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170516T153447+0200" comment="{{Erl. 45c}}."?></note><?oxy_comment_end?></seg>
+                    Er hatte sich so sehr darauf gefreut.</p>
+                        <p sameAs="MBTextmitEinzug">Karl läßt Sie herzlich grüßen u. mich Ihnen unbekannter
+                            Weise empfehlend bin ich</p>
+                        <closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u1}</hi>-->Ihre
+                            ergebene<lb/>Jenny Marx. </closer>
+                    </div></body></text></TEI>

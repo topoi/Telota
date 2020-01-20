@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00009" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>8</idno>Arnold Hilberg’s Verlag an Karl Marx in London. Wien, Montag,
+                    15. Januar 1866</title>
+            </titleStmt>
+            <editionStmt>
+                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 2325/D IV 248–2.
+                            Fotosign.&#160;7785</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            446&#160;×&#160;281&#160;mm. Aufdruck von Arnold
+                            <?oxy_comment_start author="strauss" timestamp="20170613T112929+0200" comment="(((nFa.A.Hilberg&apos;s Verlag)))"?>Hilberg’s
+                            Verlag<?oxy_comment_end?> (siehe A. Hilberg's Verlag an Marx, 2.1.1866)
+                            auf der ersten Seite oben links. Der Schreiber hat die erste Seite zu
+                            zwei Dritteln beschrieben, die zweite und dritte Seite sind leer, die
+                            vierte wurde als Adressseite benutzt. Schreibmaterial: schwarze
+                            Tinte.</p>
+                        <p>Auf der Adressseite zwei Briefmarken zu 10 bzw. 15 Kreuzern sowie vier
+                            Poststempel: „Wien 17 1 6. F.“, „Weit Franko 14“, „P.D.“ und „Paid Z
+                            Ja&#160;19&#160;66 N.W. London“.</p>
+                        <p>Beim Öffnen des Briefes ist ein Stück Papier vom zweiten Blatt des Bogens
+                            abgerissen, es hat sich mit den Resten des Siegellackes verklebt,
+                            Textverluste sind nicht entstanden.</p>
+                        <p>Archivsignatur des SPD-Archivs auf der ersten Seite: „II 16 J 1b“.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1628</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_zmj_ltj_wx">Arnold Hilberg’s Verlag</orgName>
+                    <placeName>Wien</placeName>
+                    <date when="1866-01-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:38:14Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> Sr. Wolgeboren<lb/>Herrn D<hi rendition="#sup">r</hi> Karl Marx in <hi rendition="#u">London.</hi><lb/>Wien, 15. Jänner 1866.</dateline>
+                    <salute sameAs="MBAnrede">Hochgeehrter Herr!</salute>
+                </opener>
+                <p rend="MBTextOhneEinzug"><seg type="comment"><orig>Ich nehme mir die Freiheit,
+                            wiederholt gütige Beantwortung <expan resp="editor" sameAs="dottet_underline">m<ex>einer</ex></expan> ergebenen Zeilen
+                            vom 2. dss. höflichst zu erbitten.</orig><note xml:id="c5e06bae-d943-4875-9d58-3351e12b7883">Siehe <ref target="B00002">A. Hilberg's Verlag an Marx,
+                                2.1.<?oxy_comment_start author="reichhoff" timestamp="20170314T104451+0100" comment="{{Br. 1a}}"?>1866<?oxy_comment_end?>
+                            </ref>und Erl.</note></seg></p>
+                <p sameAs="MBTextmitEinzug">Mit</p>
+                <closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u2}</hi>-->größter
+                    Hochachtung und Ergebenheit<lb/>Arnold Hilberg’s
+                        Verlag
+                </closer>
+                <p sameAs="MBAdresse">Adr.<lb/>fr.</p>
+                <p sameAs="MBAdresse"><pb/> Mr. <lb/><hi rendition="#u">D</hi><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><hi rend="italic superscript"><hi rendition="#sup"><hi rendition="#u">r</hi></hi></hi><hi rendition="#u"> Karl
+                        Marx</hi><lb/><?oxy_custom_end?>N<hi rendition="#sup">o</hi> 1, Modena
+                    Villas, Maitland Park,<lb/>Haverstock Hill<lb/>London<lb/>England<lb/><hi rendition="#u">fr</hi>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

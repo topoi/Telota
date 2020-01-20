@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00109" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>105</idno>Karl Marx an Friedrich Engels in Manchester. London, Donnerstag, 10. Mai 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4450/L VI 582</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, lilafarbigem Papier im Format
+              225&#160;×&#160;180&#160;mm. Wasserzeichen: „A Pirie &amp; Sons 1863“. Die ersten drei
+              Seiten hat Marx vollständig beschrieben, die vierte zu einem Drittel. Schreibmaterial:
+              schwarze Tinte.</p>
+            <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand: Nummerierung des
+              Briefes bzw. der beschriebenen Seiten: „25,1“ bis „25,4“.</p>
+            <p>Marx beantwortet Engels' Brief vom 9.&#160;Mai 1866 (Engels an Marx, 9.5.1866).
+              Engels antwortete am 16.&#160;Mai 1866 (Engels an Marx, 16.5.1866).</p>
+          </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1967</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;316–318.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-05-10"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:21Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 10 Mai 1866.</dateline><salute sameAs="MBAnrede">Lieber Fred,</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_cnn_41z_pz"/>No carbuncles whatever! Der verfluchte Rheumatismus u.
+                <add place="superlinear">d<ex>as</ex></add> Zahnweh haben aber mich arg gequält, bis
+              erstrer endlich dem Einreiben mit purem Alcohol <subst>
+                <del>zugeben</del>
+                <add>nachzugeben</add>
+              </subst> scheint. Auch muß ich Dir offen sagen, daß ich mich immer noch etwas <hi rendition="#u">schwach</hi> im Kopf fühle u. die Arbeitskraft erst <hi rendition="#u">sehr allmählich</hi> wiederkehrt.</orig><note xml:id="e86cdf12-2ec4-40c6-9717-773d8c450270">Siehe <ref target="B00108">Engels an
+                Marx,
+                9.5.<?oxy_comment_start author="reichhoff" timestamp="20170420T093440+0200" comment="{{Br. 104.3–5}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00093">J. Marx an Engels, nach dem
+                14.4.<?oxy_comment_start author="reichhoff" timestamp="20170420T093537+0200" comment="{{Br._90.6–19}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          <seg type="comment"><orig>Vielleicht war das der Unterbrechung der Arsenikkur, die ich
+              nach Deinem letzten Schreiben wieder begann, zuzuschreiben.</orig><anchor type="verweisziel" xml:id="stop_cnn_41z_pz"/><note xml:id="fd728779-1225-4136-bddb-955b8f12fa96">Siehe <ref target="B00100/#start_jqy_dsd_qz">Engels an Marx,
+                1.5.<?oxy_comment_start author="reichhoff" timestamp="20170420T093754+0200" comment="{{Br. 96.5–14}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_x1q_t1z_pz"/><anchor type="verweisziel" xml:id="start_glm_kk2_qz"/>Der
+                <persName key="pdrPo.001.004.000000948">Cohen</persName> war ein sehr guter
+              (obgleich nicht besonders begabter) Junge,</orig><note xml:id="cb437c8c-916c-4e96-9351-5fdb06718225">Siehe <ref target="B00108">Engels an
+                Marx,
+                9.5.<?oxy_comment_start author="reichhoff" timestamp="20170420T093857+0200" comment="{{Br. 104.6–10}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          für den ich als alten Freund <seg type="comment"><orig>meines Musch</orig><note xml:id="eead8d6c-4f9c-42df-a51e-78604b321aca">
+              <persName key="pdrPo.001.004.000003069">Edgar Marx</persName>. </note></seg> besondre
+          Sympathie habe.<anchor type="verweisziel" xml:id="start_lcm_ck2_qz"/> Gestern stürzte
+            <persName key="pdrPo.001.004.000001631">Freiligrath</persName> natürlich gleich zu
+            <persName key="pdrPo.001.004.000000470">Blind</persName> u. kam von ihm zu uns. Ich war
+          nicht zu Haus. Der Hauptjammer Freiligraths war der schlechte Namen, den Blind auf ihn etc
+          (die nominellen Mitarbeiter am <seg type="comment"><orig>„Eidgenossen“,</orig><note xml:id="ne1b_lxx_dz">„Der deutsche Eidgenosse“ (London, Hamburg). (((zDer deutsche
+              Eidgenosse_erschn.1865-1867))) </note></seg> dessen Symbol eine Hand mit einem Dolch
+          mit der Devise <seg type="comment"><orig>„haec manus tyrannis“</orig><note xml:id="nkkn_5xx_dz">Auf dem Titelblatt des „deutschen Eidgenossen“ (((zDer deutsche
+              Eidgenosse))) ein Signet mit einer Hand mit Dolch und der Inschrift: „Manus haec
+              inimica tyrannis“ – Diese Hand, der Tyrannen Feindin (lat.), erster Teil eines
+              Wahlspruches von <persName key="ed_m4k_wjt_cz">Algernon Sidney</persName>.
+            </note></seg> etc) werfe.<anchor type="verweisziel" xml:id="stop_glm_kk2_qz"/> Er sei
+          seit 9&#160;Monaten nicht bei ihm gewesen. Man könne die Sache nicht einmal
+          „entschuldigen“. Kurz, er war <add>in der That</add> nur über den möglichen Eindruck
+          dieser Sache auf die Londoner Philister gerührt. Uebrigens hat <pb/> ihn der badische
+          Schlaukopf wieder artig getäuscht. Er spielte den ganz Zerknickten <del> , hatte <sic ana="#break-off"/></del> u. ließ seinen Freund <expan resp="editor" sameAs="dottet_underline">F<ex>reiligrath</ex></expan> nicht ahnen, <seg type="comment"><orig>daß er mitten im <add>ersten</add> Schmerz die Geistesgegenwart besaß, den
+              tragischen casus zu einer artigen Reclame für sich selbst <add>u. Familie</add> in den
+                <add>diversen</add> Londoner Journalen auszubeuten. Always an eye to
+              business.</orig><note xml:id="ff0c0940-105a-438b-b460-9dbb79903b8a">Zu Marx’ Urteil
+              über <persName key="pdrPo.001.004.000000470">Karl Blind</persName> siehe
+              MEGA²&#160;III/13. Br.&#160;38.17-38.</note></seg>
+          <seg type="comment"><orig>Seine Frau</orig><note xml:id="bef254f7-e3c7-418c-b878-45e14f1a2dc5"><persName key="pdrPo.001.004.000010203">Friederike Blind</persName>. </note></seg> ist natürlich trostlos u. das Komische
+          an der Sache ist, daß <persName key="pdrPo.001.004.000000470">Blind</persName> nicht <seg type="comment"><orig>seinen eignen Sohn,</orig><note xml:id="fbe48208-7c40-43cb-bcb7-484675f70592"><persName key="pdrPo.001.004.000000471">Rudolf Blind</persName>. </note></seg> sondern <seg type="comment"><orig><?oxy_custom_start type="oxy_content_highlight" color="153,255,255"?>den
+                <?oxy_custom_end?><persName key="ed_xps_dzt_cz">Isaak</persName> des <persName key="ed_phf_rxt_cz">alten Cohen</persName></orig><note xml:id="c4957dfc-a3eb-46b8-860e-ea46d3acbeda">Anspielung auf Die Bibel. Das Alte
+              Testament. 1.&#160;Buch Mose 22, 9. (((lDie_Bibel))) Einer der Vornamen <persName key="ed_phf_rxt_cz">Cohens (sen.)</persName> war <persName key="pdrPo.001.004.000010110">Abraham</persName>. Dieser war Vater des <persName key="ed_xps_dzt_cz">Isaak</persName>, hier <persName key="pdrPo.001.004.000000948">Ferdinand Cohen</persName>. </note></seg>, durch sein blödsinniges
+          Fürstenmordgeschwätz, auf dem Altar der Freiheit geopfert hat.<anchor type="verweisziel" xml:id="stop_x1q_t1z_pz"/><anchor type="verweisziel" xml:id="stop_lcm_ck2_qz"/></p><p sameAs="MBTextmitEinzug">In Folge <seg type="comment"><orig>der tristen Erfahrungen von
+              1859</orig><note xml:id="db4cf922-45bc-4e37-a9e9-1a37c940cca0">Hinweis auf die
+              Niederlage Österreichs im Italienischen Einigungskrieg von 1859.</note></seg>
+          <seg type="comment"><orig>sind die Oestreicher in der verdammten Lage, daß sie den
+              günstigen Moment kaum beim Schopfe fassen u., obgleich zur <hi rendition="#u">Initiative</hi> an den Haaren herbeigezogen, sie nicht ergreifen können oder
+              wenigstens sehr zaudern werden es zu thun. Of course, die „public opinion“ von Europa
+              nutzt ihnen keinen Deut u. verlangt Abgeschmacktes von ihnen. Dieselben liberalen
+              Esel, die jetzt allgemein zugeben, daß Oestreich der provocirte Theil ist u. daß eine
+              systematische conspiracy gegen es besteht, würden morgen (die English lords
+              eingeschlossen) aus einem Halse schreien, wenn Oestreich zuerst zuschlüge u. nicht
+              ruhig abwartete, bis seine Feinde das Signal geben.</orig><note xml:id="d5acb2d7-cb57-4ada-a9ad-d437e5ab604e">Siehe <ref target="B00108">Engels an
+                Marx,
+                9.5.<?oxy_comment_start author="reichhoff" timestamp="20170420T093953+0200" comment="{{Br. 104.11–14}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p><p sameAs="MBTextmitEinzug">So sehr zuwider mir der <persName key="pdrPo.001.004.000003392">Bonaparte</persName>, hat mich doch <seg type="comment"><orig>sein coup in Auxerre
+              ungemein amüsirt.</orig><note xml:id="efeb3d95-4878-4fa5-9766-c40fa70debaf">Am
+              6.&#160;Mai 1866 hatte <persName key="pdrPo.001.004.000003392">Napoléon&#160;III</persName> in Auxerre vor der Landbevölkerung erklärt, er
+              verabscheue wie die Mehrheit der Franzosen die Verträge von 1815, die manche zur
+              einzigen Grundlage französischer Außenpolitik machen wollten. Dies war eine Reaktion
+              des Kaisers auf eine Rede, die <persName key="pdrPo.001.004.000004735">Adolphe
+                Thiers</persName>, Führer der liberalen Opposition im Corps législatif gehalten
+              hatte und die dort auf breite Zustimmung gestoßen war. Siehe: The announcement by the
+              Emperor Napoleon ... . In: The Times. London. 25_492, 8._Mai 1866. S._10; France.
+              Paris, May_7. Ebenda. S._12; France. (From our own Correspondent.) Paris, May 8. In:
+              The Times. London. Nr.&#160;25_493, 9.&#160;Mai 1866. S.&#160;7. (((lMoney-Market
+              &amp; City Intelligence. In: The Times. London. 25_492, 8._Mai 1866. S._10)))
+              (((l)France. Paris, May_7. In: The Times. London. 25_492, 8._Mai 1866. S._12))
+              (((lFrance. (From our own Correspondent.) Paris, May 8. In: The Times. London.
+              Nr.&#160;25_493, 9.&#160;Mai 1866. S.&#160;7. )))</note></seg> Der alte Esel <persName key="pdrPo.001.004.000004735">Thiers</persName> u. die ihn beklatschenden chiens savants
+          des corps législatif bildeten sich ein ungestraft <persName key="pdrPo.001.004.000002907">Louis Philippismus</persName> spielen zu dürfen! Les <pb/> imbéciles!</p><p sameAs="MBTextmitEinzug">Die Russen spielen ihre Rolle nett wie immer. Nachdem sie die braven
+                                        Preussen encouragirt, treten sie als Friedensmänner u.
+                                        Schiedsrichter von Europa <add>auf</add>, waren aber
+                                        zugleich so sinnig dem Herrn <persName key="pdrPo.001.004.000003392">Bonaparte</persName> mitzutheilen, daß <seg type="comment"><orig>auf etwaigem
+                                                  Congress</orig><note xml:id="a8184aed-fafa-479c-a911-fe828ac75df4">Als
+                                                  unbeteiligte Großmächte strebten Großbritannien,
+                                                  Frankreich und Russland eine friedliche Lösung der
+                                                  preußisch-italienisch-österreichischen Differenzen
+                                                  an. Nach diplomatischer Vorbereitung luden sie am
+                                                  24.&#160;Mai 1866 gemeinsam die drei beteiligten
+                                                  Mächte sowie den deutschen Bundestag zu einem
+                                                  Kongress ein, auf dem 1. die Frage der beiden
+                                                  Elbherzogtümer Schleswig und Holstein, 2. die
+                                                  Venetiens und 3. die einer Reform des Deutschen
+                                                  Bundes besprochen werden sollten. Bismarck nahm
+                                                  die Einladung als erster an. Österreich stellte am
+                                                  1.&#160;Juni als Vorbedingung für seine Teilnahme,
+                                                  dass nicht über territoriale Veränderungen
+                                                  gesprochen werden dürfe. Damit kam der Kongress
+                                                  nicht zustande. (Siehe Baumgart: Europäischs
+                                                  Konzert und nationale Bewegung. S.&#160;382/383.
+                                                  (((lBaumgart:Europäischs Konzert und nationale
+                                                  Bewegung))) </note></seg> Polen natürlich <del rendition="#s">gar<sic ana="#break-off"/></del>
+                                        <del rendition="#s">alles and<ex>ere als</ex><sic ana="#break-off"/></del> gar nicht in Rede kommen
+                                        dürfe, kurz daß Rußland sich in die europäischen, aber
+                                        Europa sich nicht in die russischen Angelegenheiten
+                                        einzumischen habe.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>In Folge des deutschen u. dänischen
+              Schneiderimports nach Edinburgh</orig><note xml:id="e53e04f3-f22b-42ac-b722-cffa6d4319f0">Zum Streik der Schneider in Edinburgh
+              und den Gegenmaßnamen des Zentrallrats der IAA siehe <ref target="B00100/#start_zxf_qsd_qz">Engels an Marx, 1.5.1866</ref>
+              <?oxy_comment_start author="reichhoff" timestamp="20170420T094131+0200" comment="{{Br. 96.16–20}} "?>und<?oxy_comment_end?>
+              <ref target="B00100/#f2403266-7696-4a99-9654-89d0dd7a2f83">Erl. zu Engels und Marx,
+                1.5.<?oxy_comment_start author="reichhoff" timestamp="20170510T101514+0200" comment="{{Erl. 96c}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          <seg type="comment"><orig>haben wir 1)&#160;einen <persName key="ed_fnn_3qj_wx">Deutschen</persName> u. einen <persName key="ed_gl4_jsw_ry">Dänen</persName> (beide
+              selbst Schneider), nach Edinburgh geschickt,</orig><note xml:id="f12f62be-6c03-49a1-a333-931295918c0f">Die Schneider <persName key="ed_fnn_3qj_wx">Albert F.&#160;Haufe</persName> und <persName key="ed_gl4_jsw_ry">Niels Peter Hansen</persName> reisten am 12.&#160;Mai 1866 im
+              Auftrag des Zentralrats der IAA nach Edinburgh, um die streikenden schottischen
+              Schneider zu unterstützen und den Einsatz deutscher und dänischer Scheider als
+              Streikbrecher unterbinden zu helfen (siehe
+              <?oxy_comment_start author="reichhoff" timestamp="20170420T094426+0200" comment="Für H.S.: dies ist genau diese Stelle hier im Brief?!"?>{{Br.&#160;105.53-59}}<?oxy_comment_end?>
+              und <ref target="B00110">A. F. Haufe an Marx,
+                12.5.<?oxy_comment_start author="reichhoff" timestamp="20170403T162115+0200" comment="{{Br. 106}}"?>1866<?oxy_comment_end?></ref>).
+              Beide berichteten über diese Reise in der Sitzung des Zentralrats der IAA am
+              22.&#160;Mai 1866 (siehe The Minute Book 1864–1866. In: MEGA²&#160;I/20.
+              S.&#160;416.22–24 und Erl. sowie Report of the London German tailors’ deputation to
+              Edinburgh. In: The Commonwealth. London. Nr.&#160;172, 23.&#160;Juni 1866. S.&#160;8).
+              (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20. S._265–450))) (((lReport of the
+              London German tailors’ deputation to Edinburgh. In: The Commonwealth. London.
+              Nr.&#160;172, 23.&#160;Juni 1866. S.&#160;8))) </note></seg> die bereits dem
+          Einverständniß zwischen importers u. imported ein Ende gemacht; <seg type="comment"><orig>2)&#160;habe ich eine Warnung an die deutschen Schneider in Deutschland im
+              Namen der Intern. Assoc. veröffentlicht.</orig><note xml:id="bed538e2-3414-4dab-9c0d-848d1e652187">Karl Marx: Warnung. In: MEGA² I/20.
+              S.&#160;204/205. Siehe auch <ref target="B00097/#aaa785b0-040b-4650-8a8f-dad401bdbf2e">Erl. zu Marx an Engels,
+                23.4.<?oxy_comment_start author="reichhoff" timestamp="20170510T111247+0200" comment="{{Erl. 93b}}"?>1866<?oxy_comment_end?></ref>,
+                <ref target="B00100/#f2403266-7696-4a99-9654-89d0dd7a2f83">Erl. zu Engels an Marx,
+                1.5.<?oxy_comment_start author="reichhoff" timestamp="20170510T111955+0200" comment="{{96c}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00104/#bd09c828-996e-4e56-977c-a9f2777c8c76">Erl. zu A. F. Haufe und
+                F. Leßner an Marx,
+                3.5.<?oxy_comment_start author="reichhoff" timestamp="20170510T112319+0200" comment="{{100b}}"?>1866<?oxy_comment_end?></ref>.
+              (((lMarx,Karl:Warnung. In: MEGA²&#160;I/20. S.&#160;204/205))) </note></seg> Die Sache
+          hat uns ausserordentlich in London genützt.</p><p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_hwl_tk2_qz"/>Eine sehr
+          unangenehme Geschichte für mich war die Nothwendigkeit 25&#160;l. für Schulgeld auf einem
+          Brett zahlen zu müssen. Dieses Geld für 3&#160;Quartale konnte nicht länger verschoben
+          werden, weil <persName key="pdrPo.001.004.000003074">Jenny</persName> u. <persName key="pdrPo.001.004.000003076">Laura</persName> aus der Schule austreten, letztere gar
+          keine u. erstere nur noch eine wöchentliche <pb/> Musikstunde <hi rendition="#u">ausserhalb</hi> der Schule nimmt. (<persName key="ed_jr1_2mg_yx">Baumer</persName> ist
+          nämlich von der Schule zurückgetreten.)<anchor type="verweisziel" xml:id="stop_hwl_tk2_qz"/></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Der <bibl sameAs="zzThe Commonwealth"><hi rendition="#u">Commonwealth</hi></bibl> nimmt rasch zu u. würde sicher paying in
+              Zeit eines Jahrs. Aber es ist wahrscheinlich, daß wir aus Geldmangel bald sistiren
+              müssen.</orig><note xml:id="e280b04e-5f43-4b38-9915-61e668d0f4d4">Zu „The
+              Commonwealth“ siehe <ref target="B00007/#nmrb_qzn_4y">Erl. zu Marx an J. Ph. Becker,
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170510T112806+0200" comment="{{Erl. 6f}}"?>1866<?oxy_comment_end?>.</ref></note></seg></p><p sameAs="MBTextmitEinzug">Salut</p><closer sameAs="MBUnterschrift">D<lb/>KM </closer></div></body></text></TEI>

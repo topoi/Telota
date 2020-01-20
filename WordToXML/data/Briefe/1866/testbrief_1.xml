@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_y4w_vbh_hy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution/>
+                        <collection/>
+                        <idno><idno type="shelfmark"/></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    
+                </correspAction>
+                <correspAction type="received">
+                    
+                </correspAction>
+                <note><table>
+                    <row>
+                        <cell>50,844</cell>
+                        <cell>14,505</cell>
+                        <cell>14 505</cell>
+                    </row>
+                    <row>
+                        <cell>22,590</cell>
+                        <cell>6 933</cell>
+                        <cell>2 6 933</cell>
+                    </row><row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    </table>
+                </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><lb/>Jan. 18, 1866.</dateline>
+                    <salute sameAs="MBAnrede">Dear Williams!</salute>
+                </opener>
+                <p/>
+                <p sameAs="MBTextohneEinzug">I received <seg type="comment"><orig>your note
+                            yesterday,</orig><note xml:id="nzq5_zfh_hy">Siehe
+                            {{Br.&#160;10.13–19}}.</note></seg>  together with <seg type="comment"><orig>the Papers</orig><note xml:id="f9bf012f-3c9b-472a-b51f-8bbe7a855df5"> “The Workmans Advocate”
+                            (London). (((zThe_Workmans Advocate))) </note></seg>
+                    <seg type="comment"><orig>and the Cards.</orig><note xml:id="npnp_hgh_hy">
+                            International Working Men’s Association. Member’s Annual Subscription
+                            Card [for 1866]. [London 1865]. Siehe {{Erl.&#160;10c}}.</note></seg>
+                </p>               
+                <p>[...]</p>
+                <p><seg type="comment"><orig>Ich ergänze mal Text und versuche, zwei Erläuterungen
+                            anzubringen, eine über einen längeren Bereich, und dann eine mitten drin
+                            für einen kürzeren Bereich. <seg type="comment"><orig>Die kurze soll
+                                    hierfür sein.</orig><note xml:id="nlbn_mdh_hy">Dazu sollte hier
+                                    etwas Kurzes stehen.</note></seg> Die lange geht also bis zum
+                            Ende des Absatzes. </orig><note xml:id="nrqw_ndh_hy">Und hier dafür
+                            etwas ganz, ganz Langes, oder nur Unsinn.</note></seg> Es funktioniert
+                    nicht richtig: In der Ausgabe steht hinter dem kurzen Bereich die Nummer für die
+                    lange Erl. [3], hinter der langen, die Nummer für die kurze Erl. [2] Die Erl.
+                    selbst stehen in der richtigen Reihenfolge, erst die kurze, dann die lange. Die
+                    Verknüpfung stimmt, aber da die falsche Nummer zugeordnet ist, kommt man zur
+                    falschen Erl.</p>
+                <p>[...]</p>
+                <p sameAs="MBTextmitEinzug">To morrow I have a private interview with <seg type="comment"><orig>the President of the
+                            “Arbeiterbildungsverein”</orig><note xml:id="f5c87beb-8be4-4ce9-9a7d-b05ac8756b3d">August Bebel;
+                            (((nBebel,August))) er war von 1865-1872 Erster Vorsitzender des
+                            Arbeiterbildungsvereins in Leipzig.</note></seg><persName key="pdrPo.001.004.000000303"> </persName>about the I.&#160;A. <seg type="comment"><orig>There is no doubt,
+                            we shall have a branch here before a fortnight is over,</orig><note xml:id="e418a193-b613-442d-9c63-c138bcb04639">Marx verlas den Brief
+                            Liebknechts (((nLiebknecht))) in der Sitzung des Zentralrats am
+                            23.&#160;Januar 1866 (The_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+                            S.&#160;381.7–9). (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+                            S._265–450))) </note></seg> but I hope <hi rendition="#u">more</hi> is
+                    to be done, and we shall be able to get a footing in the <hi rendition="#u">Central Committee</hi> of the German Arbeiterbildungsverein. (<persName key="pdrPo.001.004.000004342">Schulze’s</persName> creation!). In a few days I
+                    shall go to Berlin, and make arrangements; <hi rendition="#u">there</hi>
+                    everything is going splendidly.</p>
+                <p sameAs="MBTextmitEinzug"><anchor xml:id="d16e106"/><seg type="comment"><orig>Did
+                            you receive a letter from <expan resp="editor" sameAs="dottet_underline">B<ex>erlin</ex></expan> about the old
+                        “Manifest”?</orig></seg><seg type="comment">
+                        <note xml:id="b89be828-79c2-48de-8f0b-a8a12872b241">
+                            <p rend="endnote text">[Karl Marx, Friedrich Engels:] Manifest der
+                                Kommunistischen Partei. London (1848). Siehe {{Br.&#160;6.13–20,
+                                66–68}}. (((l[Marx,Karl, Friedrich Engels:] Manifest der
+                                Kommunistischen Partei. London (1848) ))) – Der Brief von
+                                Sigfrid Meyer (((Meyer,S.))) an Marx, geschrieben vor dem 15. Januar
+                                1866, ist nicht überliefert. Siehe {{Br.&#160;10.49–50}}. In seiner
+                                Antwort hatte Marx sechs Mitgliedskarten der IAA nach Berlin
+                                geschickt (siehe {{Erl.&#160;10c}}).  – Liebknecht
+                                (((nLiebknecht))) selbst hatte Marx und Engels mehrmals über einen
+                                Bedarf am „Manifest“ (((l[Marx,Karl, Friedrich Engels:] Manifest der
+                                Kommunistischen Partei. London (1848) ))) in der deutschen
+                                Arbeiterbewegung geschrieben. Siehe MEGA²&#160;</p>III/13.
+                            Br.&#160;206.54–60, Br._210.59–63 und Br._241.50–53).
+                            (((lMEGA²&#160;III/13)))  </note>
+                    </seg>
+                    <anchor xml:id="d16e122"/><persName key="Quenstedt,Matthias">Quenstedt</persName>, who emerges from his mysterious <seg type="comment"><orig>Mrs.&#160;<persName key="Harris?">Harris</persName>-State</orig></seg> into stern reality,<seg type="comment"><note xml:id="b68e793c-c402-4868-95f2-fe5224cf5d6e">Anspielung auf Mrs. Harris, (((nHarris,Mrs.))) eine Gestalt aus Charles
+                            Dickens (((nDickens))) Roman “The Life and Adventures of Martin
+                            Chuzzlewit”, (((lDickens:The Life and Adventures of Martin Chuzzlewit)))
+                            welche in Wirklichkeit nicht existiert und mit der eine andere Figur
+                            Scheindialoge führt.</note></seg>
+                    <seg type="comment"><orig>intends paying the greater part of the
+                            costs,</orig><note xml:id="b44fa070-2aed-48c2-9549-adc3cfe885c7">Liebknechts (((nLiebknecht))) Bekannter, der Jurist Matthias Quenstedt,
+                            (((nQuenstedt,Matth.))) interessierte sich für die Ideen von Marx.
+                            (Siehe MEGA²&#160;III/12. Br.&#160;415.18–22 und MEGA²&#160;III/13.
+                            Br.&#160;206.54–61.) (((lMEGA²&#160;III/12))) (((lMEGA²&#160;III/13)))
+                        </note></seg>
+                    <expan resp="editor" sameAs="dottet_underline">Mey<ex>er</ex></expan> and other
+                    will defray the remainder. If you did <hi rendition="#u">not</hi> receive the
+                    letter, <anchor xml:id="d16e160"/><seg type="comment"><orig>write <hi rendition="#u">at once</hi>, whether you still give your permission
+                            for the reprinting,</orig></seg><seg type="comment">
+                        <note xml:id="a2ee6a67-49be-419c-a248-5d0afd915550">
+                            <p rend="endnote text">Die direkte Bitte Meyers (((nMeyer,S.))), das
+                                „Manifest“ nachdrucken zu dürfen, ist nicht überliefert. Im Brief
+                                von Jenny Marx (((nMarx,J.))) an Meyer, geschrieben vermutlich am
+                                29&#160;Januar 1866, hat er die Genehmigung dazu erhalten (siehe
+                                {{Br.&#160;25.12–14}}). – Die Broschüre erschien, etwa im
+                                Februar 1866, unter dem Titel: [Karl Marx, Friedrich Engels:]
+                                Manifest der Kommunistischen Partei. Veröffentlicht im Februar 1848.
+                                London. Neu herausgegeben durch Sigfrid Meyer. Im Selbstverlage
+                                (Druck von Gustav Muthschall in Berlin) 1866. (((l[Marx, Karl,
+                                Friedrich Engels:] Manifest der Kommunistischen Partei.
+                                Veröffentlicht im Februar 1848. London. Neu herausgegeben durch
+                                Sigfrid Meyer. (Berlin) 1866)))  </p>
+                        </note>
+                    </seg> and whether you don’t wish to write a short Preface?</p>
+                <p>[...]</p>
+                <p sameAs="MBTextmitEinzug">Is <anchor xml:id="d16e368"/><seg type="comment"><orig><hi rendition="#u">Gammage</hi><persName key="pdrPo.001.004.000001706">’s</persName> History of Chartism</orig></seg><seg type="comment"><note xml:id="cd6d4133-4632-4fab-aaf2-0103391482af">R[obert] G[eorge]
+                            Gammage: The History of the Chartist Movement. From its Commencement
+                            down to the present Time. Pt.&#160;1. London [u._a.] 1854. (((lGammage,
+                            R[obert] G[eorge]: The History of the Chartist Movement. From its
+                            Commencement down to the present Time. Pt.&#160;1. London [u._a.]
+                            1854.))) </note></seg> tolerable?</p>
+                <p sameAs="MBTextmitEinzug">Do you know <anchor xml:id="d16e383"/><seg type="comment"><orig><persName key="pdrPo.001.004.000004197">Sargent’s</persName> “Rob. Owen
+                            and his Social Philosophy”, Smith and Elder 1865?</orig></seg><seg type="comment">
+                        <note xml:id="ada3025d-704f-4ed9-b47b-d5ca28bfcb50">
+                            <p rend="endnote text">William Lucas Sargant: Robert Owen, and his
+                                social Philosophy. London 1860. (((Sargant, William Lucas: Robert
+                                Owen, and his social Philosophy. London 1860.)))  – Liebknecht
+                                wiederholt hier die Frage nach zwei Büchern, die er Marx bereits im
+                                Dezember 1865 gestellt hatte. (Siehe MEGA²&#160;</p>III/13.
+                            Br.&#160;350.28–32.) </note>
+                    </seg></p>
+                <p rend="MBTextOhneEinzug">Apropos,—if it were possible at all, that the Workman’s
+                        <bibl sameAs="zzThe Workman’s Advocate">Adv.</bibl> could pay anything, <hi rendition="#u">be it ever so little</hi>, I should be very glad, as I am
+                    sadly in want of funds. <seg type="comment"><orig>My lexicographic Scheme has
+                            ended in smoke,</orig><note xml:id="d7dda3f9-cba6-429e-a975-78d3f58f3d20">Liebknecht
+                            (((lLiebknecht))) hatte gehofft, in Leipzig eine Stelle als Lexikograph
+                            zu bekommen. Siehe ebenda. Br.&#160;350.20–27 und
+                        Br._351.40–45).</note></seg> the bookseller that was to undertake the work,
+                    withdrew; and I am not sorry, for I should have had to work from morning to
+                    night.</p>
+                <p sameAs="MBTextmitEinzug" rendition="#mMM">We are pretty well; unfortunately we
+                    have lost our servant, and so I have to be maid for all work till the new girl
+                    comes. Our new lodging is very nice. I repeat the Adr. 10 Bayrische Strasse.</p>
+                <p sameAs="MBTextmitEinzug"><anchor xml:id="d16e414"/><seg type="comment"><orig>In a
+                            few days you will get the first <pb/> volume of a sensation-novel:
+                            Jefferson Davis, written by a friend of mine,</orig></seg><seg type="comment"><note xml:id="c371b0f6-fef0-4d34-9d17-9a99ed47e2de">Bernhard
+                            Heßlein: Jefferson Davis. Social-politischer Roman aus dem
+                            amerikanischen Bürgerkriege. Theil_1–3. Leipzig_1866/1867.)
+                            (((nHeßlein,B.))) (((lHeßlein,Bernhard: Jefferson Davis.
+                            Social-politischer Roman aus dem amerikanischen Bürgerkriege. Theil_1–3.
+                            Leipzig_1866/1867))) </note></seg> who would like to see it mentioned in
+                    some paper. I do what I am asked to do, and <hi rendition="#u">you</hi> do what
+                    you like. <persName key="pdrPo.001.004.000001296">Eccarius</persName> might bring a <hi rendition="#u">line</hi> about it; tell it him and send him the enclosed
+                    letter, <hi rendition="#u">but don’t forget to write the adress on it.</hi> (I
+                    shall write for the <seg type="comment"><orig>W.A.</orig><note xml:id="c9e9378c-89d3-4e5f-9f79-82ff619ce2ca">„The Workman’s Advocate“
+                            (London). (((zThe_Workman’s_Advocate))) </note></seg> whether it pays or
+                    not.)</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>My wife</orig><note xml:id="f6c9f007-003f-4eb4-b231-aaf716363a03">Ernestine Liebknecht.
+                            (((nLiebknecht,Ernestine))) </note></seg> begs to be kindly remembered
+                    to the whole house Williams, and so does your</p>
+                <closer sameAs="MBUnterschrift"/>
+                <closer>
+                    <signed>J. Miller. </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

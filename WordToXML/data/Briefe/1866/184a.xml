@@ -1,0 +1,31 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00190" xml:lang="de"><teiHeader><fileDesc><titleStmt>
+                                <title><idno>184a</idno>Christopher Kay an Friedrich Engels in
+                                        Manchester. Winsford, Freitag, 9.&#160;November 1866</title>
+                        </titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 2726/L V 214 Fotosign. 15984.</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen festem, weißen Papier im Format 228&#160;×&#160;178&#160;mm.
+                                                  Wasserzeichen: „Joynson 1865“. Prägung: „AK“
+                                                  (Monogramm), lilafarbig, auf der ersten Seite oben
+                                                  in der Mitte. Die erste Seite hat Kay vollständig
+                                                  beschrieben, die vierte für die quer
+                                                  niedergeschriebene Bescheinigung benutzt (siehe
+                                                  Wiedergabe der
+                                                  Beilage)<?oxy_comment_start author="lindenberg" timestamp="20161117T144209+0100" comment="Beilage als separate Datei:
+Beilage_zu_184a.xml"?>,<?oxy_comment_end?>
+                                                  die übrigen zwei Seiten sind leer.
+                                                  Schreibmaterial: schwarze Tinte.</p><p>Auf der vierten Seite befindet sich eine One-Penny-Briefmarke.</p><p>Von unbekannter Hand: der Vermerk mit Bleistift auf der dritten Seite oben in der Mitte: „Criscay
+                                                  2 Briefe an Engels“.</p><p>Archivsignatur des SPD-Archivs auf der dritten Seite: „II 18 <hi rend="italic bold">C</hi> I 6“.<?oxy_comment_start author="lindenberg" timestamp="20170424T172326+0200" comment="Von unbekannter Hand: der Vermerk mit Bleistift auf der dritten Seite oben in der Mitte: „Criscay [So!] 2 Briefe an Engels“.
+Archivsignatur des SPD-Archivs auf der dritten Seite: „II 18 C I 6“. [verm. B?? siehe meine Zb aus d. IISG und Kopie bei Gioeva!!]"?>
+                                                  <?oxy_comment_end?></p><p>Die Jahresangabe ergibt sich aus dem Datum der überlieferten Beilage (Z.&#160;5).</p>
+                                <p><ref target="mega_utv_phv_vy">Der Brief enthält eine
+                                                  Empfangsbescheinigung als Beilage</ref>.</p><p/><p>Die Empfangsbescheinigung für Engels</p></physDesc><additional><listBibl><bibl>RGASPI f.  1 op. 3 d. 62 Bl</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                                        <persName key="ed_z4m_fpd_xx">Chris. Kay</persName>
+                                        <placeName>Winsford</placeName>
+                                        <date when="1866-11-09" cert="high"/>
+                                </correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:40:09Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Winsford Lodge<lb/>Cheshire Nov<hi rendition="#sup">r</hi>
+                                                  9<hi rendition="#sup">th</hi></dateline><salute sameAs="MBAnrede"><expan resp="editor" sameAs="dottet_underline">D<ex>ea</ex>r</expan> Sir</salute></opener><p sameAs="MBTextohneEinzug">I annex receipt <seg type="comment"><orig>for the Cheque you have so
+                                                  kindly sent me.</orig><note xml:id="b3ffdca5-2f65-4cf4-9578-608fea582358">Engels bezahlte damit seinen Jahresbeitrag zum
+                                                  Cheshire Hunt Covert Fund. Siehe die <ref target="mega_utv_phv_vy">Wiedergabe der
+                                                  Beilage</ref> (ZB). Siehe auch Hunt: Marx‘
+                                                  general. S._204 (((lHunt,Tristram:_Marx‘ general.
+                                                  The revolutionary life of Friedrich Engels. New
+                                                  York_2009))) </note></seg></p><p sameAs="MBTextmitEinzug">And with thanks</p><closer sameAs="MBUnterschrift">I am Sir<lb/>Yours truly<lb/>Chris Kay.</closer><postscript><p>Fred<hi rendition="#sup">k</hi> Engels Esq<hi rendition="#sup">re</hi>
+                                        </p></postscript></div></body></text></TEI>

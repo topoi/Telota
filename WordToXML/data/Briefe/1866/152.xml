@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00156" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>152</idno>Paul Stumpf an Karl Marx in London. Mainz, Samstag, 18. August 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 4239/D VII 195</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt mittelstarkem, blauem, liniertem Papier im Format 228&#160;×&#160;284&#160;mm. Prägung: „Dav. Jos. Stumpf Mainz.“ Die erste Seite hat Strumpf vollständig beschrieben, die zweite ist leer. Eine Passage („sie gingen“ bis „Adresse.“, Z.&#160;4–5), mit dem Zuordnungszeichen „+“ versehen, steht am unteren Rand der ersten Seite. Schreibmaterial: schwarze Tinte.</p><p>Von unbekannter Hand: Numerierung des Briefes „6.“ mit Bleistift auf der ersten Seite oben in der Mitte.</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1671</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Die I.&#160;Internationale in Deutschland (1964). S.&#160;135.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000004646">Paul Stumpf</persName><placeName>Mainz</placeName><date when="1866-08-18"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:49Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Mainz 18 Aug. 66</dateline><salute sameAs="MBAnrede">Lieber Freund!</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Ich schreibe Dir nun Zum drittenmale ohne
+                            Antwort zu haben!</orig><note xml:id="af7c7794-f0b1-4756-a413-3645cf469e23">Siehe <ref target="B00130">P. Stumpf an Marx,
+                                30.6.<?oxy_comment_start author="reichhoff" timestamp="20170405T194141+0200" comment="{Br. 126}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00135">P. Stumpf an Marx,
+                                10.7.<?oxy_comment_start author="reichhoff" timestamp="20170405T194413+0200" comment="{{Br._131}}"?>1866<?oxy_comment_end?></ref>
+                            sowie <ref target="B00146/#start_bjg_n2n_qz">Marx an Engels,
+                                27.7.<?oxy_comment_start author="reichhoff" timestamp="20170503T172224+0200" comment="{{Br. 142.4–9}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    Sind meine Briefe nicht angekommen? sie gingen <seg type="comment"><orig>unter
+                            Williams</orig><note xml:id="e11ba24f-3947-48ee-bdfe-b355617aa9d3">Deckname von Marx.</note></seg> im übrigen heutige Adresse. <seg type="comment"><orig>Anfangs nechsten Monats ist Genf!</orig><note xml:id="ee0d2d21-0dbf-494f-abcd-df5cac75c185">Zum Genfer Kongress der
+                            IAA siehe <ref target="B00004/#nrk1_sfc_3y">Erl. zu Marx an Engels,
+                                5.1.<?oxy_comment_start author="reichhoff" timestamp="20170518T131044+0200" comment="{{Erl. 3d}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                    <seg type="comment"><orig>Du und <expan resp="editor" sameAs="dottet_underline">Engel<ex>s</ex></expan> werdet doch kommen?</orig><note xml:id="npv3_jr4_hz">Marx und Engels hatten am Kongress nicht
+                            teilgenommen. Zu den Ursachen für Marx’ Abwesenheit siehe <ref target="B00163/#start_c1y_42x_mz">Marx an L. Kugelmann,
+                                23.8.<?oxy_comment_start author="reichhoff" timestamp="20170503T172638+0200" comment="{{Br. 159.29–33}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    <seg type="comment"><orig>Dann gehe ich mit nach G.</orig><note xml:id="ea9e3621-eaf6-48db-801a-fdbf194010bf"><persName key="pdrPo.001.004.000004646">Stumpf</persName> war auf dem Kongress
+                            ebenfalls nicht anwesend. Siehe Association lnternationale des
+                            Travailleurs. Compte rendu du Congrès de Genève (1866). In: MEGA² I/20.
+                            S.&#160;651/652. Auf dieser französischen Fassung beruhend entstand auch
+                            eine weitgehend gleichlautende englische Fassung, siehe
+                            International_Association of Working Men. Report of the Congress of
+                            Geneva (1866). In: MEGA²&#160;I/20. S. 681–712. Siehe dazu auch ebenda.
+                            S._1747–1761 und 1810–1817. (((lInternational_Association of Working
+                            Men. Report of the Congress of Geneva (1866). In: MEGA²&#160;I/20. S.
+                            681–712))) (((lAssociation lnternationale des Travailleurs. Compte rendu
+                            du Congrès de Genève (1866). In: MEGA²&#160;I/20. S.&#160;649–679)))
+                        </note></seg>
+                    <persName key="pdrPo.001.004.000002822">Liebknecht</persName> mache ich seine
+                    Reise auch möglich. An <persName key="pdrPo.001.004.000000317">J.&#160;P.&#160;<expan resp="editor" sameAs="dottet_underline">B<ex>ecker</ex></expan></persName> habe ich c<hi rendition="#sup">a</hi> fr&#160;175 geschickt &amp; hier sammle ich noch. Es wäre mir lieb
+                    einige Zeilen von Dir zu erhalten. <seg type="comment"><orig>Nach
+                            J.&#160;Ph.&#160;B. Brief seiest Du noch nicht ganz
+                            hergestellt?</orig><note xml:id="e02fa5d1-f6ed-454a-8fe9-89a5aa01e018">Der Brief <persName key="pdrPo.001.004.000000317">Johann Philipp
+                                Beckers</persName> an <persName key="pdrPo.001.004.000004646">Stumpf</persName> konnte nicht ermittelt werden. Stumpf
+                            beantwortete diesen am 17.&#160;August 1866 (IISG, Johann Philipp Becker
+                            Nachlass, Sign. D&#160;II&#160;1375). (((lStumpf,_Paul an Johann Philipp
+                            Becker, 17.&#160;August 1866 (IISG, Johann Philipp Becker Nachlass,
+                            Sign._D&#160;II&#160;1375) ))) </note></seg></p><p sameAs="MBTextmitEinzug">Ich setze viel Hoffnung in die Sache wenn ihr tüchtigen alle kommt!</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Deinen 18<hi rendition="#sup">t</hi>&#160;Brumaire</orig><note xml:id="nddb_354_hz">Karl Marx: Der
+                            18te Brumaire des Louis Napoleon. In: Die Revolution. New-York 1852. H.
+                            1. (MEGA² I/11. S. 96–189). (((lMarx,Karl: Der 18te Brumaire des Louis
+                            Napoleon. In: Die Revolution. New-York 1852. H. 1. (MEGA2 I/11. S.
+                            96–189) )))</note></seg> habe ich dieser Tage gelesen! Herrlich! ein
+                    klares Bild politischer Parteikämpfe &amp; greifbare AnhaltsPunkte für die
+                    Sache! <seg type="comment"><orig>Ist es in Deutschland zu haben?</orig><note xml:id="ecdfa439-e924-43ea-adf0-79a0be9ce4ba">Versuche, insbesondere von
+                                <persName key="pdrPo.001.004.000002822">Wilhelm
+                                Liebknecht</persName>, diese Arbeit von Marx in Deutschland erneut
+                            zu veröffentlichen, scheiterten. Siehe dazu <ref target="B00116/#b831ccc1-fc08-4fcd-9e26-5de0065278fe">Erl. zu W.
+                                Liebknecht an Marx,
+                                25.5.1866<?oxy_comment_start author="reichhoff" timestamp="20170518T132302+0200" comment="{{Erl._112j}}"?>.<?oxy_comment_end?></ref></note></seg>
+                    Vielleicht kannst Du mir einige mitbringen? Deinen Nachrichten
+                    entgegensehend</p><closer sameAs="MBUnterschrift">grüßet freundschaftlichst<lb/>Dein P. St </closer></div></body></text></TEI>

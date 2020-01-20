@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00165" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>161</idno>Laura Marx an Karl Marx und/oder Jenny Marx in London. Hastings, nicht früher als 29. August 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 10 op. 1 d. 12/3</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            225&#160;×&#160;177&#160;mm. Prägung: eine Krone
+                            <?oxy_comment_start author="lindenberg" timestamp="20170426T153346+0200" comment="ursprünglich:
+auf dem Schild"?>auf
+                            einem Schild<?oxy_comment_end?>. Alle vier Seiten hat Laura Marx
+                            vollständig beschrieben. Der Anfang des Briefes fehlt. Schreibmaterial:
+                            schwarze Tinte.</p><p>Archivsignatur: „X2“ (links) und „17X2“ (rechts) auf der ersten Seite.</p><p>Zur Datierung: Laura beantwortet den Brief von Marx vom 28.&#160;August 1866 und bestätigt den
+                            Erhalt des Geldes, das Marx mit seinem Brief geschickt hat (siehe
+                            Br.&#160;160.13), „this morning“ (Z.&#160;37). So könnte der Brief am
+                            29.&#160;August 1866 oder kurz darauf geschrieben worden sein.<?oxy_comment_start author="lindenberg" timestamp="20170424T165350+0200" comment="ursprünglich:
+So konnte der Brief wahrscheinlich am 29. August 1866 geschrieben werden. [Absender prüfen: Laura oder Jenny?]"?>
+                            <?oxy_comment_end?></p><p>Datierung der Erstveröffentlichung: um 27.&#160;August 1866.</p></physDesc></msDesc><listWit><witness><bibl>Erstveröffentlichung: in russischer Übersetzung: Переписка Карла Маркса, Фридриха
+                            Энгельса и членов семьи Маркса (1983). S.&#160;287/288</bibl>.</witness><witness><bibl>in der Sprache des Originals wird der Brief hier erstmals veröffentlicht.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000003076">Laura Marx</persName><placeName>Hastings</placeName><date when="1866-08-29"/></correspAction><correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Marx, Karl (1818-1883)</persName>
+                    <persName key="pdrPo.001.004.000003075">Marx, Jenny (1814-1881)</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:53Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <p sameAs="MBTextohneEinzug"><pb/> Still there are many advantages here &amp; <seg type="comment"><orig>the drawbacks are such as I expected, being inseparable
+                            from a school.</orig><note xml:id="c303845c-3384-4255-98fd-d3b1825f98c8">Siehe <ref target="B00164">L. Marx an Marx, 29.8.1866</ref> und <ref target="B00164/#nmcv_zcw_hz">Erl. zu Marx an L. Marx,
+                                28.8.1866.</ref><?oxy_comment_start author="roth" timestamp="20170425T111117+0200" comment="{{Br. 160.5–7}} und {{Erl. 160c}}."?></note><?oxy_comment_end?></seg>
+                    The windows in the parlour are generally hermetically closed &amp; our bedroom
+                    window which overlooks a piece of mountain-land has a blind which resists all
+                    attempts to draw it up, or to remove it.</p>
+                <p sameAs="MBTextmitEinzug">Then when rain keeps us in doors, there is a <hi rendition="#u">piano</hi> constantly going, which execrations will not
+                    silence or it would be mute for ever!—</p>
+                <p sameAs="MBTextmitEinzug">The regular recurrence of the meals is like the march of
+                    destiny—inexorable:—I might sooner move the heavens than retard or hasten supper
+                    or breakfast here. </p>
+                <p sameAs="MBTextmitEinzug"><pb/>
+                    <persName key="ed_smx_rhc_3z">Miss Davies</persName> is always surprised at our
+                    eagerness to be out of doors, but the missing of a meal would be an
+                    incomprehensible piece of eccentricity in her eyes. Be that as it may I do not
+                    intend to take many more “teas” here: the other three meals we are booked for.
+                    They haunt me like ghouls—the four monsters—Breakfast, dinner, tea &amp;
+                    supper:—they cast shadows before them &amp; behind them &amp; one treads upon
+                    the heels of the other.</p>
+                <p sameAs="MBTextmitEinzug">By the time we have finished the tea we are near the
+                    appointed time for supper.</p>
+                <p sameAs="MBTextmitEinzug">All this I hope may be improved:—I have already <pb/>
+                    made some innovations &amp; shall make more. Till now I have been solely
+                    occupied in finding out about the “nourishment”. I was dreadfully afraid
+                        <persName key="pdrPo.001.004.000003068">Tussy</persName> might be starved
+                    &amp; at once laid in a stock of biscuits.—</p>
+                <p sameAs="MBTextmitEinzug">I gave <persName key="ed_smx_rhc_3z">Miss
+                        Davies</persName> two pieces of information <expan resp="editor" sameAs="dottet_underline">wh<ex>ich</ex></expan> she received very <expan resp="editor" sameAs="dottet_underline">quiet<ex>l</ex>y</expan>:—that I
+                    should not go to church on the coming sunday &amp; that I never intended coming
+                    home before 9&#160;o'clock. At 9 we sup: talk for an hour with a white dog &amp;
+                    then retire to our room where I find just rushlight enough to undress &amp; use
+                    my machinery:— </p>
+                <p sameAs="MBTextmitEinzug"><pb/> It rains here, a good deal &amp; till now we have
+                    been unable to go field-wards.</p>
+                <p sameAs="MBTextmitEinzug">-------------------------------------------------------------------------------</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Hastings is a divine place
+                            &amp; I will uphold its praise against all the costermongers in the
+                            world who cry up Margate.</orig><note xml:id="b7f46c7f-2f27-4d75-88d8-b1b60e5e37df">„Costermonger“ war einer
+                            der Spitznamen von <persName key="pdrPo.001.004.000003068">Eleanor
+                                Marx</persName>. In Margate erholte sich Familie Marx
+                            mehrfach.</note></seg> Is it the fault of Hastings if <persName key="ed_smx_rhc_3z">Miss Davies</persName> has boarders &amp; an old
+                    maiden-lady friend called <persName key="ed_adl_3cw_yx">Cax</persName>?—</p>
+                <p sameAs="MBTextmitEinzug">------------------------------------------------------------------------------</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>The money arrived here this
+                            morning:</orig><note xml:id="aee66937-be07-4423-9e89-0600d2df1445">Siehe
+                                <ref target="B00164">L. Marx an Marx,
+                    29.8.1866</ref>.</note></seg><?oxy_comment_start author="roth" timestamp="20170425T111435+0200" comment="{{Br.&amp;#160;160.16}}"?>—<?oxy_comment_end?>I
+                    thank you for it &amp; wanted it: for although I had spent nothing but what I
+                    was obliged to on bathing-tickets—cab—&amp; some work—I had only a few pence
+                    left.—</p>
+                <closer sameAs="MBUnterschrift">Your affectionate Laura. </closer>
+            </div></body></text></TEI>

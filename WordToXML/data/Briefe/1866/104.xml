@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00108" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>104</idno>Friedrich Engels an Karl Marx in London. Manchester,
+                    Mittwoch, 9. Mai 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 1610/D III 380</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            127&#160;×&#160;208&#160;mm. Engels hat die erste Seite zu zwei Dritteln
+                            beschrieben, die zweite ist leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von Eduard
+                            <?oxy_comment_start author="strauss" timestamp="20170614T120614+0200" comment="(((nBernstein,Ed.)))"?>Bernsteins<?oxy_comment_end?>
+                            Hand: Nummerierung des Briefes: „624“ und „24“ (gestrichen).
+                            Redaktionelle Vermerke.</p>
+                        <p>Von Heinrich
+                            <?oxy_comment_start author="strauss" timestamp="20170614T120642+0200" comment="(((nDietz,H.)))"?>Dietz’<?oxy_comment_end?>
+                            Hand: Nummerierung des Briefes: „844“ (gestrichen).</p>
+                        <p>Von unbekannter Hand: Vermerk mit Lilastift „Wacker“ auf der ersten Seite
+                            oben links.</p>
+                        <p>Marx beantwortet den Brief am 10.&#160;Mai 1866 (Marx an Engels,
+                            10.5.1866).</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 1966</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913).
+                        S.&#160;316.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName>Manchester</placeName>
+                    <date when="1866-05-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:39:20Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener><dateline sameAs="MBDatumszeile"><pb/> Mchr 9 Mai 66.</dateline><salute sameAs="MBAnrede">Lieber Mohr</salute></opener>
+                <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Du machst mich unruhig durch
+                            Dein Schweigen,</orig><note xml:id="d2cde9f5-85bd-47d2-8897-9932ea44ad76"><ref target="B00097">Den
+                                letzten Brief an Engels</ref> hatte Marx am 23.&#160;April 1866
+                            geschrieben
+                            <?oxy_comment_start author="reichhoff" timestamp="20170403T160953+0200" comment="({{Br. 93}})"?>.<?oxy_comment_end?></note></seg>
+                    ich fürchte fast es geht mit Deiner Gesundheit nicht gut. <seg type="comment"><orig>Du hast doch nicht wieder Karbunkeln?</orig><note xml:id="c88d96b5-3273-4761-8410-1ed55a30abda">Siehe dazu <ref target="B00109/#start_cnn_41z_pz">Marx an Engels,
+                                10.5.<?oxy_comment_start author="reichhoff" timestamp="20170419T181153+0200" comment="{{Br. 105.3–9}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Was ist das für eine
+                            sonderbare Geschichte mit dem <persName key="pdrPo.001.004.000000470">blinden</persName>
+                            <persName key="pdrPo.001.004.000000948">Cohen</persName> der den langen
+                                <persName key="pdrPo.001.004.000000441">Bismark</persName> in fünf
+                            Schüssen nicht treffen kann &amp; sich von ihm noch obendrein arretiren
+                            läßt.</orig><note xml:id="ace7d864-4443-421f-86ed-39d0fe717f07">Am
+                            7.&#160;Mai 1866 verübte der Student <persName key="pdrPo.001.004.000000948">Ferdinand Cohen</persName>, Stiefsohn
+                                <persName key="pdrPo.001.004.000000470">Karl Blinds</persName>, um
+                            mit der Beseitigung Bismarcks einen Krieg zwischen Preußen und
+                            Österreich zu verhindern, ein missglücktes Attentat auf <persName key="pdrPo.001.004.000000441">Otto von Bismarck</persName>. Cohen
+                            wurde sofort verhaftet und nahm sich kurze Zeit später im
+                            Polizeigewahrsam das Leben. Siehe auch <ref target="B00109/#start_x1q_t1z_pz">Marx an Engels,
+                                10.5.<?oxy_comment_start author="reichhoff" timestamp="20170419T181319+0200" comment="{{Br. 105.10–30}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00112/#start_nd2_dbz_pz">Engels an Marx,
+                                16.5.<?oxy_comment_start author="reichhoff" timestamp="20170419T181616+0200" comment="{{Br._108.5–15}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    Ein größerer Gefallen konnte dem B. nicht <subst>
+                        <del>gemacht</del>
+                        <add>gethan</add>
+                    </subst> werden.</p>
+                <p sameAs="MBTextmitEinzug">It strikes me daß die Preußen mit ihrer Mobilmachung
+                    14&#160;Tage hinter den <expan resp="editor" sameAs="dottet_underline">Oestr<ex>eichern</ex></expan> zurück sind, &amp; vor Ende <expan resp="editor" sameAs="dottet_underline">ds</expan> nicht angreifen können.
+                    Wenn die Oestr. dies benutzen können sie eine große Schlacht gewinnen &amp; in
+                    Berlin sein ehe die Preußen konzentrirt sind.</p>
+                <closer sameAs="MBUnterschrift">Dein<lb/>F. E. </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

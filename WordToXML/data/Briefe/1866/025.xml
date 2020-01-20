@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00026" xml:lang="de"><teiHeader><fileDesc><titleStmt>
+        <title><idno>25</idno>Jenny Marx an Sigfrid Meyer in Berlin. London, vermutlich Montag, 29.
+          Januar 1866</title>
+      </titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+        <msIdentifier>
+          <institution>IISG</institution>
+          <collection>Marx-Engels-Nachlass</collection>
+          <idno><idno type="shelfmark">F 55/F 40a.</idno></idno>
+        </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+              127&#160;×&#160;203&#160;mm. Wasserzeichen: „[Jo]ynson“. Jenny Marx hat die erste
+              Seite vollständig beschrieben, die zweite zur Hälfte. Schreibmaterial: schwarze
+              Tinte.</p>
+            <p>Von unbekannter Hand: Nummerierung des Briefes: „85.“  auf der ersten Seite oben in
+              der Mitte; Vermerke „sommer 66.“ (schwarze Tinte ), „#2“ und „92“ (Bleistift) auf der
+              zweiten Seite. </p>
+            <p>Jenny Marx beantwortet den nicht überlieferten Brief von Meyer an Marx, geschrieben
+              am 26.&#160;Januar 1866 (siehe Erl.&#160;zu Marx an S. Meyer, 24.1.1866).</p>
+            <p>Die Datierung ergibt sich aus dem Zusammenhang des Briefes mit dem Brief von Jenny
+              Marx an Johann Philipp Becker, 29.&#160;Januar 1866 (siehe dort) sowie aus der
+              Tatsache, dass der Adressat den Brief am 31.&#160;Januar 1866 in Berlin erhalten hat
+              (siehe dazu Erl. zu Marx an S. Meyer, 24.1.1866).</p>
+            <p>Datierung in der Erstveröffentlichung: Anfang Februar 1866.</p>
+          </physDesc>
+        </msDesc><listWit><witness><bibl>Erstveröffentlichung: in russischer Übersetzung: МЭС<hi rendition="#sup">1</hi> 25
+              (1934). S.&#160;464</bibl>.</witness><witness><bibl>in der Sprache des Originals: MEW&#160;31 (1965). S.&#160;588.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000003075">Jenny Marx</persName><placeName>London</placeName><date when="1866-01-29"/></correspAction><correspAction type="received"><persName key="pdrPo.001.004.000003187">Sigfrid Meyer</persName><placeName>Berlin</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:28Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 1 Modena Villas<lb/>Maitland Park.</dateline><salute sameAs="MBAnrede">Geehrter Herr,</salute></opener><p sameAs="MBTextohneEinzug">Mein Mann liegt seit 8&#160;Tagen wieder an seiner frühern gefährlichen
+          u. schmerzlichen Krankheit <subst>
+            <del>darnieder,</del>
+            <add>darnieder.</add>
+          </subst> Dies neue Leiden greift ihn um so mehr an, als es ihn von Neuem in dem eben
+          begonnenen Abschreiben <seg type="comment"><orig>seines Buches</orig><note xml:id="ndps_ctr_5y">Gemeint ist hier Karl Marx: Das Kapital; siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an J. Ph. Becker,
+                zwischen 9. und 15.1.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170512T155513+0200" comment="{{Erl. 6b}}"?>
+              <?oxy_comment_end?>(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg>
+          unterbricht. <seg type="comment"><orig>Es ist ihm sehr leid, daß Sie seinen längern Brief
+              nicht erhalten haben,</orig><note xml:id="nskx_1tg_yz">Es handelt sich um Marx’
+              verlorengegangenen Brief an August Vogt vom 15. Januar 1866. Siehe <ref target="B00011/#e139a3b1-cfd1-4ba0-b331-14cfaba7e3fc"><?oxy_comment_start author="lindenberg" timestamp="20170519T102039+0200" comment="{{Erl. 10h}}"?>Erl.
+                zu Marx an W. Liebknecht, 15.1.1866<?oxy_comment_end?></ref>, <ref target="B00013/#b3a667ad-431c-4f5f-b652-064c7d0c2acf"><?oxy_comment_start author="lindenberg" timestamp="20170519T102227+0200" comment="{{12d}}"?>Erl.
+                zu Marx an Engels, 15.1.1866<?oxy_comment_end?></ref> und <ref target="B00019/#nqgn_w4k_5y"><?oxy_comment_start author="lindenberg" timestamp="20170519T102334+0200" comment="{{18a}}"?>Erl.
+                zu W. Liebknecht an Marx, 21.1.1866.<?oxy_comment_end?></ref></note></seg> da er in
+          diesem Augenblicke außer Stande ist zu schreiben. Auch fürchtet er, daß der Brief
+          unterschlagen ist; da er sonst längst wieder hier sein müßte. Außerdem war die Adresse
+          ganz richtig u. habe ich selbst den Brief mit vielen andern u. den Zeitungen, die alle
+          angekommen sind, auf die Post gebracht. <anchor type="verweisziel" xml:id="start_wp3_nvw_mz"/>Was <seg type="comment"><orig>das <expan resp="editor" sameAs="dottet_underline">M<ex>anifest</ex></expan>
+            </orig><note xml:id="noz3_3tr_5y">[Karl Marx, Friedrich Engels:] Manifest der
+              Kommunistischen Partei. London (1848). Siehe <ref target="B00016/#start_nf3_c3k_nz">W.
+                Liebknecht an Marx,
+              18.1.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170410T140149+0200" comment="{{Br. 15.13–19}} "?>
+              und<?oxy_comment_end?> Erl. (((l[Marx,Karl, Friedrich Engels:] Manifest der
+              Kommunistischen Partei. London (1848) ))) </note></seg>betrifft, so wünscht er es, als
+          historisches Actenstück, ganz so abgedruckt als es im Anfang erschien<anchor type="verweisziel" xml:id="stop_wp3_nvw_mz"/>; die Druckfehler sind so handgreiflich,
+          daß Jeder sie corrigiren kann. <seg type="comment"><orig>Die Internationale
+              Adresse</orig><note xml:id="ee87881a-485f-4b55-81e2-aafa6740df6f">(Karl Marx:)
+              Manifest an die arbeitende Klasse Europa’s. In: Der Social-Demokrat. Berlin.
+              Nr.&#160;2, Probenr., 21.&#160;Dezember 1864. S.&#160;1; Nr.&#160;3., Probenr.,
+              30.&#160;Dezember 1864. Beil. S.&#160;2 (MEGA² I/20. S.&#160;16–25 und 920–929).
+              (((l(Marx,Karl:) Manifest an die arbeitende Klasse Europa’s. In: Der Social-Demokrat.
+              Berlin. Nr.&#160;2, Probenr., 21.&#160;Dezember 1864. S.&#160;1; Nr.&#160;3.,
+              Probenr., 30.&#160;Dezember 1864. Beil. S.&#160;2 (MEGA² I/20. S.&#160;16–25 und
+              920–929)))) Siehe <ref target="B00019/#start_qk5_rjk_nz">W. Liebknecht an Marx,
+                21.1.<?oxy_comment_start author="reichhoff" timestamp="20170410T141352+0200" comment="{{Br. 18.20–24}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          wird <pb/> er Ihnen so bald als möglich zusenden.</p><p sameAs="MBTextmitEinzug">Zugleich bittet er Sie ihm Ihre neue Adresse <add place="superlinear">wenn Sie Berlin verlassen haben</add> zu fernerer
+                                        Correspondenz mitzutheilen. Könnte Herr <persName key="pdrPo.001.004.000004960">Vogt</persName> nicht <add>seiner
+                                                Seits</add> eine andre Adresse angeben, da seine
+                                        jetzige uns nicht ganz sicher zu sein scheint. Wenn Sie
+                                        wieder schreiben, so adressiren Sie gefälligst
+                                        A.&#160;Williams Esq. etc.</p><p sameAs="MBTextmitEinzug">Mein Mann läßt Sie herzlich grüßen.</p><closer sameAs="MBUnterschrift"><salute>Ihre <lb/></salute><signed>Jenny Marx. </signed></closer></div></body></text></TEI>

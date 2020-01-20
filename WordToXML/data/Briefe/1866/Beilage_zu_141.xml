@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_hf2_3kz_5y">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><?oxy_comment_start author="lindenberg" timestamp="20170203T164945+0100" comment="nochmal mit der Hs. verglichen, Seitenwechsel eingefügt - Ok"?>Hermann<?oxy_comment_end?>
+                    Jung an J. Ph. Becker, nach dem 27. Juli 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlaß</collection>
+                        <idno><idno type="shelfmark">Sign. D 2665/D V 74</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000002417">Jung, Hermann Francis
+                        (1830-1901)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="pdrPo.001.004.000000317">Becker, Johann Philipp
+                        (1809-1886)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+					<salute>Cher ami <persName key="pdrPo.001.004.000000317">Becker</persName>.</salute>
+                </opener>
+				<p>Voici ce que Marx vient de me remettre &amp; pour ne pas en transcrire tous les passages je
+                    vous l’envoie telle qu’elle m’a été remise; Marx m’a dit de vous dire de lui
+                    répondre immédiatement sur toutes les questions, tant à Marx qu’a <persName key="pdrPo.001.004.000002522">Klein</persName>. Marx n’ira pas au congrès;
+                    moi-même je ne suis pas encore décidé si j’irai ou non; cependant je suis allé
+                    si loin que je ne peux pas reculer <pb n=""/> maintenant, aussi si je trouve
+                    quelqu’un qui prenne soin de mes affaires pendant mon absense je sacrifierai
+                    encore 10 ou 15 livres pour aller au congrès. En attendant le plaisir de vous
+                    voir je vous serre la main fraternellement</p>
+				<closer>
+					<salute/>
+					<signed>
+                        <p>HnJung.</p>
+                    </signed>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

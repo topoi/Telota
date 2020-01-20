@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00035" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>32</idno>Asher &amp; Co. an Karl Marx in London. London, Samstag, 10.
+                    Februar 1866</title>
+            </titleStmt>
+            <editionStmt>
+                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 74/D I 9–3</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, blauem Papier im Format
+                            284&#160;×&#160;220&#160;mm. Aufdruck auf der ersten Seite oben in der
+                            Mitte: „Asher &amp; C<hi rendition="#sup">o</hi> Foreign Booksellers
+                            &amp; Publishers 13.&#160;Bedford Street, Covent Garden. London, W.C.“.
+                            Es folgen die Datumszeile und  der Aufdruck: „(Also at 20.&#160;Unter
+                            den Linden, Berlin.)“. Die erste Seite ist vollständig beschrieben, die
+                            übrigen drei sind leer. Schreibmaterial: schwarze Tinte.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 5981</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="pdrPo.001.015.000090013">Asher &amp; Co.</orgName>
+                    <placeName>London</placeName>
+                    <date when="1866-02-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:38:34Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> Feb. 10<hi rendition="#sup">th</hi>
+                        1866.</dateline>
+                    <salute sameAs="MBAnrede">Mr. Marx</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug">Sir</p>
+                <p rend="MBTextOhneEinzug">We have orders from the continent for the following</p>
+                <p sameAs="MBTextmitEinzug">1 <seg type="comment"><orig>Lord Palmerston &amp;
+                            Poland. 1853.</orig><note xml:id="b0d32abd-a8de-4b95-a32b-8c49d7a38cf2">Marx‘ Artikelserie „Lord Palmerston“ (MEGA²&#160;I/12.
+                            S.&#160;357–442). In der zweiten Ausgabe, in den „Political Fly-Sheets“.
+                            Nr.&#160;1. 2.&#160;ed. London [1854] ist diese Arbeit mit „Palmerston
+                            und Poland“ überschrieben. Ebenso könnte die Publikation „Tucker’s
+                            Political Fly-Sheets“, London 1855 gemeint sein, ein Sammelband mit
+                            Publikationen aus den Political Fly-Sheets, in dem das Pamphlet
+                            ebenfalls wie oben bezeichnet ist. (((l[Marx,Karl:] Palmerston and
+                            Poland. In: Political Fly-Sheets. Nr.&#160;1. 2.&#160;ed. London
+                            [1854]))) (((l(Marx,Karl: Palmerston and Poland. In: Tucker’s Political
+                            Fly-Sheets. London 1855))) (Siehe Pri{z}. izd. Nr._1331 und Nr._1333 und
+                            MEGA²&#160;I/12. S. 989.)</note></seg></p>
+                <p sameAs="MBTextmitEinzug">1 <seg type="comment"><orig>-------------"---------------what has he done. 1854</orig><note xml:id="bd4cef83-0d24-4623-bebb-b87e2e281cf4">[Karl Marx:] Palmerston,
+                            what has he done? In: Political Fly-Sheets. Nr.&#160;2. 1._ed. London
+                            [1854]. Hier könnte aber auch wieder die Publikation „Tucker’s Political
+                            Fly-Sheets“, London 1855 gemeint sein (siehe <ref target="B00035/#b0d32abd-a8de-4b95-a32b-8c49d7a38cf2">Erl. zu Asher
+                                &amp; Co. an Marx, 10.2.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170516T111448+0200" comment="{{Erl. 32a}})."?>
+                            <?oxy_comment_end?>(((l[Marx,Karl:] Palmerston, what has he done? In:
+                            Political Fly-Sheets. Nr.&#160;2. 1._ed. London [1854])))
+                            (((l(Marx,Karl: Palmerston, what has he done? In: Tucker’s Political
+                            Fly-Sheets. London 1855))) </note></seg></p>
+                <p sameAs="MBTextmitEinzug">1 <seg type="comment"><orig>Life of Do ---
+                            1850</orig><note xml:id="ndkc_lz5_vy">Vermutlich ist hier die
+                            Artikelserie „The Story of the Life of Lord Palmerston“ gemeint. Unter
+                            diesem Titel erschienen Marx‘ Artikel über Palmerston in der „Free
+                            Press“ (London) Nr. 12–14, 18 und 19 am 29. Dezember 1855, 5. und 12.
+                            Januar sowie 9. und 16. Februar 1856. (((l[Marx,Karl:] The Story of the
+                            Life of Lord Palmerston. In: The Free Press. London. Nr. 12–14, 18 und
+                            19, 29. Dezember 1855, 5. und 12. Januar, 9. und 16. Februar 1856.)))
+                            Die ganze Serie kam auch in den „Free Press Serials“ (Nr. 4 und 5
+                            [vielm. 5 und 6]. Sheffield [1856]) heraus. Siehe MEGA²_I/12. S._984–987
+                            und 995–997. (((l(Marx,[Karl]:) The Story of the Life of Lord
+                            Palmerston. In: Free Press Serials. Sheffield. (Nr. 4 und 5 [vielm. 5
+                            und 6]. [1856]))) </note></seg></p>
+                <p sameAs="MBTextmitEinzug">1 <seg type="comment"><orig>Der 18te Brumaire des Louis
+                            Napoleon. New York 1852.</orig><note xml:id="ae82e510-ec98-4507-82d0-1f51b1cbf2bc">Karl Marx: Der 18te
+                            Brumaire des Louis Napoleon. In: Die Revolution. New-York 1852.
+                            H.&#160;1. (MEGA<hi rendition="#sup">2</hi> I/11. S.&#160;96–189).
+                            (((lMarx,Karl: Der 18te Brumaire des Louis Napoleon. In: Die Revolution.
+                            New-York 1852. H.&#160;1. (MEGA<hi rendition="#sup">2</hi> I/11.
+                            S.&#160;96–189). ))) </note></seg></p>
+                <p sameAs="MBTextmitEinzug">1 <seg type="comment"><orig>Der Ritter vom <expan resp="editor" sameAs="dottet_underline">Edelmüthi<ex>gen</ex></expan> Bewusstsein. New
+                    York 1853.</orig><note xml:id="ce279cce-23be-4db1-bea5-ba41e5d07583">Karl Marx: Der Ritter vom
+                            edelmüthigen Bewußtsein. [New York 1854]. (MEGA<hi rendition="#sup">2</hi>_I/12. S.&#160;503–529). (((lMarx,Karl: Der Ritter vom
+                            edelmüthigen Bewußtsein. [New York 1854]. (MEGA<hi rendition="#sup">2</hi>_I/12. S.&#160;503–529).))) </note></seg></p>
+                <p rend="MBTextOhneEinzug">If you can furnish us with the same we shall be <choice>
+                        <sic>oblige</sic>
+                        <corr cert="high">obliged</corr>
+                    </choice></p>
+                <closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u2}</hi>--><hi rend="color(0000FF)">&amp;</hi> Remain<lb/>Yours most
+                        respectfully<lb/>Asher &amp;
+                        Co.
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

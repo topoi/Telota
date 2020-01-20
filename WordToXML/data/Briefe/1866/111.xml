@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00115" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>111</idno>Friedrich Engels an Karl Marx in London. Manchester, Freitag, 25. Mai 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1612/D III 382</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              223&#160;×&#160;179&#160;mm. Die Prägung ist nicht deutlich erkennbar. Die ersten zwei
+              Seiten hat Engels vollständig beschrieben, die dritte zu zwei Dritteln, die vierte ist
+              leer. Schreibmaterial: schwarze Tinte.</p>
+            <p>Von Eduard
+              <?oxy_comment_start author="strauss" timestamp="20170614T162201+0200" comment="(((nBernstein,Ed.)))"?>Bernsteins<?oxy_comment_end?>
+              Hand: Nummerierung des Briefes bzw. der beschriebenen Seiten: „310,1“ bis „310,3“ und
+              „28,1“ bis „28,3“ (gestrichen). Redaktionelle Vermerke.</p>
+            <p>Von Heinrich
+              <?oxy_comment_start author="strauss" timestamp="20170614T162218+0200" comment="(((nDietz,H.)))"?>Dietz’<?oxy_comment_end?>
+              Hand: Nummerierung des Briefes: „848“ (gestrichen).</p>
+            <p>Von unbekannter Hand: Vermerk mit Bleistift „Collin“ auf der ersten Seite oben links;
+              Anstreichung mit Bleistift von der ersten auf die zweite Seite, jeweils am linken Rand
+              („Wenn die Oesterreicher“ bis „sich vollständig bestätigt.“)</p>
+            <p>Engels beantwortet Marx' Brief vom 17.&#160;Mai 1866 (Marx an Engels, 17.5.1866).</p>
+          </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1970</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;312–323.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1866-05-25"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:24Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Mornington St. 25 <subst>
+                                                  <del rendition="#ow">Juni</del>
+                                                  <add place="across">Mai</add>
+                                                </subst> 66.</dateline><salute sameAs="MBAnrede">Lieber Mohr</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_rp2_cq2_qz"/>Der panic ist jedenfalls viel zu früh gekommen &amp; kann
+              uns möglicher Weise eine gute solide Krisis, die sonst 67 oder 68 gekommen wäre,
+              verderben. Wenn nicht zufällig gleichzeitig der starke Fall in Baumwolle gekommen
+              wäre, so wären wir hier kaum davon berührt worden. Dies Zusammenbrechen der limited
+              liability &amp; financing Schwindeleien war ja schon lange vorhergesehn &amp; berührte
+              unsern trade fast gar nicht. Aber die kolossalen Verluste auf <expan resp="editor" sameAs="dottet_underline">B<ex>aum</ex>wolle</expan> die gleichzeitig eintraten,
+              drohen die Sache ernsthaft für hier zu machen, es sind so viele hiesige &amp; L‘pooler
+              Häuser durch ihre Zweighäuser in Bombay &amp;c darin verwickelt &amp; da dies
+              gleichzeitig mit dem money panic &amp; 10% Disconto eintritt, so kann das sehr
+              ernsthaft für diejenigen <choice>
+                <sic>haben</sic>
+                <corr cert="high">sein</corr>
+              </choice> die viel Bwolle besitzen. Hier jedenfalls ist der Kram noch lange nicht
+              vorbei.</orig><anchor type="verweisziel" xml:id="stop_rp2_cq2_qz"/><note xml:id="c6c33992-95e5-4296-a882-70b046f1d9f4">Siehe <ref target="B00113">Marx an
+                Engels,
+                17.5.<?oxy_comment_start author="reichhoff" timestamp="20170420T131346+0200" comment="{{Br. 109.30–33}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p><p sameAs="MBTextmitEinzug">Wenn die Oestreicher gescheut genug sind nicht anzugreifen, so bricht
+          der Tanz in der preußischen Armee sicher los. So rebellisch wie die Kerle bei dieser
+          Mobilmachung sind, waren sie nie. Leider erfährt man nur den allergeringsten Theil von dem
+          was vorgeht, aber das ist schon genug um zu beweisen daß mit dieser Armee ein
+          Angriffskrieg unmöglich ist. Wenn nun diese Burschen erst in Massen konzentrirt sind,
+          anfangen sich zu zählen &amp; zu finden daß ¾ der Armee eines Sinnes sind, wenn sie dann
+            <seg type="comment"><orig>während des Kongresses</orig><note xml:id="be13629c-cd0f-46ee-b469-0349f363f0bc">Zum Kongress siehe <ref target="B00109/#efeb3d95-4878-4fa5-9766-c40fa70debaf">Erl. zu Marx an Engels,
+                10.5.<?oxy_comment_start author="reichhoff" timestamp="20170512T115858+0200" comment="{{Erl. 105m}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+          3–4&#160;Wochen unthätig unterm Gewehr stehn müssen, so kann dies nicht anders als zu
+          einer Krisis kommen, &amp; eines <pb/> schönen Morgens wird der Gehorsam verweigert
+          werden. Dazu findet sich schon ein Anlaß; &amp; bei einer solchen Armee, wenn <hi rendition="#u">ein</hi> Bataillon anfängt, so geht das wie ein Lauffeuer. Wenn aber auch
+          ein offener Ausbruch vermieden würde, so ist sicher, daß <hi rendition="#u">diese</hi>
+          Armee, mit diesem morale, &amp; kommandirt vom <seg type="comment"><orig><persName key="pdrPo.001.004.000005131">alten Wilhelm</persName>,</orig><note xml:id="b43df29e-946b-4ef0-bb32-6b9bf9ae6e8d"><persName key="pdrPo.001.004.000005131">Wilhelm&#160;I.</persName>
+            </note></seg> mit dem <persName key="pdrPo.001.004.000001664">Fr.&#160;Karl</persName>
+          &amp; <seg type="comment"><orig>dem Kronprinzen</orig><note xml:id="dbdc1b47-8f41-472c-b43d-2c0eb1490941"><persName key="pdrPo.001.004.000001661">Friedrich Wilhelm, der spätere Friedrich_III.</persName>
+            </note></seg> als Flügelkommandanten unter <subst>
+            <del>sich</del>
+            <add>ihm</add>
+          </subst>, sofort von den Wüthenden Östreichern unter <persName key="pdrPo.001.004.000000355">Benedek</persName>, der sich alle Erzherzöge &amp; alle
+          Einmischung in die Ernennung seines Stabs verbeten &amp; 300–360,000&#160;Mann unter sich
+          hat, heillos geschlagen werden würde. Das weiß auch der alte Esel, &amp; ich bin überzeugt
+          er zieht sich zurück wenn er irgend kann eben wegen dieser Stimmung der Armeen. Was ich in
+            <seg type="comment"><orig>meiner Brochüre</orig><note xml:id="edd25f8d-dade-4a7a-816b-6d8e771f0211">Friedrich Engels: Die preußische
+              Militärfrage und die deutsche Arbeiterpartei. Hamburg 1865 (MEGA²&#160;I/20.
+              S.&#160;71–108). (((lEngels,Friedrich: Die_preußische Militärfrage und die deutsche
+              Arbeiterpartei. Hamburg 1865 (MEGA²&#160;I/20. S.&#160;71–108))) </note></seg> voriges
+          Jahr über <del rendition="#ow">dxx<sic ana="#break-off"/></del> den Charakter der <hi rendition="#u">mobilisirten</hi> preußischen Armee gesagt, hat sich vollständig
+          bestätigt.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Kostbar ist die Verlegenheit der
+              Nationalvereinler seitdem <persName key="pdrPo.001.004.000000441">Bismark</persName>
+              ihnen ihr Programm plagiirt hat;</orig><note xml:id="f4a2e66e-2db4-4b53-b242-4b7644f5ac9d">Gemeint sind die Mitglieder und Anhänger
+              des Deutschen Nationalvereins, (<ref target="B00048/#b104eb5e-2cc3-41dd-a8e8-532d3ed998c7">Erl. zu L. Kugelmann an Marx,
+                23.2.<?oxy_comment_start author="reichhoff" timestamp="20170512T120130+0200" comment="{{Erl._45e}}"?>1866<?oxy_comment_end?></ref>).
+              Siehe auch <ref target="B00091/#start_ppg_bv2_qz">Engels an Marx,
+                13.4.<?oxy_comment_start author="reichhoff" timestamp="20170420T131804+0200" comment="{{Br._88.20–27}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          die Kerle müssen jetzt gegen ihre eignen großpreußischen Phrasen auftreten grade wie <seg type="comment"><orig>die Kreuzzeitung</orig><note xml:id="e2a1588d-8958-4301-afbc-3cf7447cbd10">„Neue Preußische Zeitung“ (Berlin).
+              (((zNeue Preußische Zeitung)))
+            </note></seg><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><index indexName="XE">
+            <term>zzNeue Preußische Zeitung</term>
+          </index><?oxy_custom_end?> gegen ihre <add>eignen</add> feudalen Phrasen.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Der Londoner Corresp. des Mchr <bibl sameAs="zzThe Manchester Guardian">Guardian</bibl> erzählt <persName key="pdrPo.001.004.000003392">Louis Bonaparte</persName> habe sich bei dieser Haupt-
+              &amp; Staatsaction ausbedungen als Preis für seine Genehmigung: von Italien Sardinien,
+              von Preußen Luxemburg, Saarlouis &amp; <expan resp="editor" sameAs="dottet_underline">Saarbrück<ex>en</ex></expan> (er vergißt nur Landau dabei) – dies als
+              Minimum.</orig><note xml:id="d289cc9f-a940-4865-976b-1b372a677ee8">Siehe From our own
+              London Correspondent. In: The Manchester Guardian. Nr._6165, 22. Mai 1866. S._4.
+              (((lFrom our own London Correspondent. In: The Manchester Guardian. Nr._6165, 22. Mai
+              1866. S._4.))) </note></seg>
+        </p><p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_crn_zsw_pz"/><pb/>
+          <seg type="comment"><orig>Ich werde sehen ob ich morgen einen Polen Artikel zu Stande
+              bringe.</orig><note xml:id="c12dcac6-9ab2-4046-b61b-32c20aa24d9b">Siehe <ref target="B00100/#cd9495c2-d6d6-467a-b5c9-9d4f9df854cd">Erl. zu Engels an Marx,
+                1.5.<?oxy_comment_start author="reichhoff" timestamp="20170512T120431+0200" comment="{{Erl._96n}}"?>1866<?oxy_comment_end?>
+                und <ref target="B00004/#start_ukw_lv2_qz">Marx an Engels,
+                  5.1.<?oxy_comment_start author="reichhoff" timestamp="20170420T132111+0200" comment="{{Br. 3.26–28}}"?>1866<?oxy_comment_end?></ref>.</ref></note></seg>
+          Aufrichtig gestanden ist es mir ein Opfer hinter dem Strich des Esels <persName key="ed_z5s_ptj_wx">Miall</persName> zu schreiben &amp; dabei alle Naselang ausdrücklich
+          vermerkt zu sehn <seg type="comment"><orig>daß die Redaction nicht verantwortlich ist für
+              die <expan resp="editor" sameAs="dottet_underline">Corresp<ex>ondenz</ex></expan>
+              hinter dem Strich wohl aber für die Eseleien davor.</orig><note xml:id="ef8b6ce0-4e0d-4917-afc0-6d5cf15d7526">Siehe We beg to inform our readers … In:
+              The Commonwealth. London. Nr._165, 5._Mai 1866. S._4. – Die Redaktion informierte hier
+              darüber, dass sie ausdrücklich nicht immer die Meinung von außen eingereichter,
+              abgedruckter Beiträge teilt. (((zWe beg to inform our readers … In: The Commonwealth.
+              London. Nr._165, 5._Mai 1866. S._4.))) </note></seg> Hätte ich von vorn herein gewußt
+          auf welche Art unsre Sachen in <seg type="comment"><orig>einem Blatt</orig><note xml:id="nsnx_2zf_2z">„The Commonwealth“ (London). (((zThe
+            Commonwealth)))</note></seg><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><index indexName="XE">
+            <term>zzThe Commonwealth</term>
+          </index><?oxy_custom_end?> behandelt werden das doch unser eignes – wenigstens das der
+          Arbeiterpartei sein soll, &amp; daß wir dort nur so eben tolerirt werden &amp; dafür
+          sozusagen noch dankbar sein sollen – keine Zeile hätte ich geschrieben. Aber Du warst
+          damals krank &amp; ich wollte nichts thun was Dich in Deiner Kur stören konnte. Geärgert
+          hat es mich aber doch. Indeß man hat A gesagt &amp; muß sehen daß man auch B sagt.<anchor type="verweisziel" xml:id="stop_crn_zsw_pz"/></p><p sameAs="MBTextmitEinzug">Beste Grüße.</p><closer sameAs="MBUnterschrift">Dein<lb/>F. E. </closer></div></body></text></TEI>

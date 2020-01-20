@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00100" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>96</idno>Friedrich Engels an Karl Marx in London. Manchester, Dienstag, 1. Mai 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1609/D III 379</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+              128&#160;×&#160;202&#160;mm, abgetrennt von einem Bogen. Engels hat die erste Seite
+              vollständig beschrieben, die zweite zu zwei Dritteln. Schreibmaterial: schwarze
+              Tinte.</p>
+            <p>Von
+              <?oxy_comment_start author="strauss" timestamp="20170613T114550+0200" comment="(((nBernstein,Ed.)))"?>Eduard
+              Bernsteins<?oxy_comment_end?> Hand: Nummerierung des Briefes bzw. der beschriebenen
+              Seiten: „308,1“bzw. „308,2“ und „23,1“ bzw. „23,2“ (gestrichen). Redaktionelle
+              Vermerke, Streichungen und Anstreichungen.</p>
+            <p>Von
+              <?oxy_comment_start author="strauss" timestamp="20170613T114130+0200" comment="(((nDietz,H.)))"?>Heinrich
+              Dietz’ <?oxy_comment_end?>Hand: Nummerierung des Briefes: „843“ (gestrichen).</p>
+            <p>Von unbekannter Hand: Vermerk mit Blaustift auf der ersten Seite oben links: „<hi rendition="#u">Abg.</hi>“ . </p>
+            <p>Engels beantwortet Marx' Brief vom 23.&#160;April 1866 (Marx an Engels,
+              23.4.1866).</p>
+          </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1962</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;315/316.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1866-05-01"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:14Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Mchr 1 Mai 1866.</dateline><salute sameAs="MBAnrede">Lieber Mohr</salute></opener><p sameAs="MBTextohneEinzug">Ich hoffe mit Deinem Rheumatismus &amp; Gesichtsschmerzen bist Du
+          glücklich durch &amp; sitzest wieder fleißig über <seg type="comment"><orig>dem <hi rendition="#u">Buch</hi>.</orig><note xml:id="ffc60b91-3717-4fd7-ad0e-d5c97cecbdfe">Gemeint ist hier Karl Marx: Das Kapital; siehe Erl. zu Marx an J. Ph. Becker,
+              zwischen 9. und 15.1.1866.<?oxy_comment_start author="lindenberg" timestamp="20170518T133334+0200" comment="{{Erl. 6b}}."?>
+              <?oxy_comment_end?>(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg> Wie
+          stehts damit &amp; wann wird der erste Band fertig?<anchor type="verweisziel" xml:id="start_jqy_dsd_qz"/> Übrigens mußt Du den Arsenik fortnehmen, er soll mindestens 3&#160;<subst>
+            <del>Wochen</del>
+            <add>Monate</add>
+          </subst> lang genommen werden &amp; steht mit <expan resp="editor" sameAs="dottet_underline">Rheum<ex>atismus</ex></expan> &amp;c durchaus nicht in
+          Verbindung. Die Lebergeschichten mögen durch Störung der Verdauung resp. Blutbildung mit
+          zu den Karbunkeln beigetragen haben, <del> aber <sic ana="#break-off"/></del> &amp; eben
+          deßwegen wirst Du auch immer fort Dir noch täglich regelmäßig einige Stunden anhaltende
+          Bewegung machen &amp; das Nachtarbeiten lassen müssen, damit Alles wieder in Ordnung
+          kommt. Wo einmal die Tendenz zur Hyperämie der Leber so klassisch &amp; systematisch
+          ausgebildet worden ist, wie bei Dir, geht sie natürlich nicht so auf ein Mal wieder
+            fort.<anchor type="verweisziel" xml:id="stop_jqy_dsd_qz"/></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Gut daß Du Dir wegen des Congresses &amp; der
+                Internat<hi rendition="#sup">l</hi> Ass. keine weiteren Sorgen zu machen
+              hast.</orig><note xml:id="d1ac954f-74a0-4556-8aca-91021252de3c">Siehe <ref target="B00097/#start_swk_lmw_pz">Marx an Engels,
+                23.4.<?oxy_comment_start author="reichhoff" timestamp="20170419T094825+0200" comment="{{Br. 93.17–24}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          <anchor type="verweisziel" xml:id="start_zxf_qsd_qz"/>Apropos, <seg type="comment"><orig>nach <expan resp="editor" sameAs="dottet_underline">Edinburg</expan> ist eine
+              Schiffsladung von <hi rendition="#u">57 deutschen Schneidern</hi> importirt worden to
+              put down a strike, &amp; 2 andre Ladungen werden erwartet. <expan resp="editor" sameAs="dottet_underline">Wahrscheinl<ex>ich</ex></expan> von Hamburg. Könnt Ihr
+              nicht in <del rendition="#s">H<ex>am</ex>b<ex>urg</ex><sic ana="#break-off"/></del>
+              Edinburg die Details erfahren &amp; auch dies stoppen?</orig><anchor type="verweisziel" xml:id="stop_zxf_qsd_qz"/><note xml:id="f2403266-7696-4a99-9654-89d0dd7a2f83">Am 26.&#160;März 1866 waren in Edinburgh
+              1000 Schneider in den Streik getreten. Nach den Londoner Ereignissen (siehe <ref target="B00097/#aaa785b0-040b-4650-8a8f-dad401bdbf2e">Erl. zu Marx an Engels,
+                23.4.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T133846+0200" comment="{{Erl. 93b}}"?>)<?oxy_comment_end?>
+              erreichten sie eine Herabsetzung der Arbeitszeit von 80 auf 57 Stunden pro Woche, eine
+              15%ige Lohnerhöhung und die anderthalbfache Vergütung von Überstunden. Jedoch hatten
+              die Unternehmer inzwischen deutsche und dänische Schneider als Streikbrecher anwerben
+              lassen. In London konstituierte sich ein Komitee deutscher Schneider, um in
+              Zusammenarbeit mit dem Zentralrat der IAA die Pläne der Unternehmer zu vereiteln
+              (siehe The_Minute Book 1864–1866. In: MEGA²&#160;I/20. S.&#160;407.18–24).
+              (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20. S._265–450))) Am 1.&#160;Mai 1866
+              erörterte der Zentralrat dieses Thema. Marx selbst beabsichtigte, deutsche Zeitungen
+              darüber zu informieren (siehe The_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+              S.&#160;18–26). (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20. S._265–450))) Am
+              4.&#160;Mai 1866 schrieb er, auch auf Bitten des Schneiderkomitees (siehe <ref target="B00104">A. F. Haufe und F. Leßner an Marx,
+              3.5.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170419T104325+0200" comment="{{Br. 100.13–15}}"?>)<?oxy_comment_end?>,
+              den Artikel „Warnung“ (MEGA²&#160;I/20. S.&#160;204/205) (((lMarx,Karl:Warnung. In:
+              MEGA²&#160;I/20. S.&#160;204/205))) und sandte ihn <persName key="pdrPo.001.004.000002822">Wilhelm Liebknecht</persName> (siehe <ref target="B00106/#start_mdv_srw_pz">Marx an W. Liebknecht,
+                4.5.<?oxy_comment_start author="reichhoff" timestamp="20170419T102619+0200" comment="{{Br. 102.23–28}}"?>1866<?oxy_comment_end?></ref>)
+              zur Weiterleitung an deutsche Zeitungen. (Siehe auch <ref target="B00108">Engels an
+                Marx,
+                9.5.<?oxy_comment_start author="reichhoff" timestamp="20170419T103007+0200" comment="{{Br._104. 53-59}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00110">Albert F. Haufe an Marx
+                12.5.<?oxy_comment_start author="reichhoff" timestamp="20170403T102115+0200" comment="{{Br. 106}}"?>1866<?oxy_comment_end?></ref>
+              sowie zum Streik in Edinburgh MEGA²&#160;I/20. Erl._204.15-18, 204.18-21, 407.19-21,
+              407.21-24 und 416.22-24.) </note></seg></p><p sameAs="MBTextmitEinzug"><persName key="pdrPo.001.004.000000441">Bismark</persName>
+                                        <hi rendition="#u">will</hi> Krieg à tout prix &amp; <seg type="comment"><orig>nachdem er in Böhmen
+                                                  gescheitert ist</orig><note xml:id="c9460808-6c31-4d52-ac84-56cba07617ca">Im
+                                                  zum Habsburgerreich gehörenden Königreich Böhmen
+                                                  war es nicht gelungen, die antihabsburgische
+                                                  Opposition preußischen Interessen dienstbar zu
+                                                  machen.</note></seg>
+                                        <seg type="comment"><orig>scheint es ihm in Italien gelingen
+                                                  zu wollen.</orig><note xml:id="d59c2348-8128-4b12-ad15-ec9b1bf2c9b8">Nach
+                                                  der Einigung Italiens (1861) war Venetien unter
+                                                  österreichischer Herrschaft verblieben, seine
+                                                  Befreiung Hauptziel der italienischen
+                                                  Nationalbewegung. Dies nutzte <persName key="pdrPo.001.004.000000441">Bismarck</persName>
+                                                  bei der Vorbereitung des Deutschen Krieges von
+                                                  1866, um Italien für ein Schutz- und Trutzbündnis
+                                                  gegen Österreich (8.&#160;April 1866) zu
+                                                  gewinnen.</note></seg> Ich hoffe, wenn es ihm
+                                        geräth, daß die Berliner losschlagen. Proclamiren sie dort
+                                        die Republik, so kann ganz Europa in 14&#160;Tagen umgewälzt
+                                        sein. Aber, aber werden sie? Wie stehts mit unsern
+                                        Verbindungen dort?</p><p sameAs="MBTextmitEinzug">Hast Du gesehn <seg type="comment"><orig>wie Louis <persName key="pdrPo.001.004.000000447">Blankchen</persName> im <bibl sameAs="zzLe Temps">Temps</bibl> jetzt als guter
+                                                  démocrate impérial erklärt, daß wenn Preußen die
+                                                  deutschen Kleinstaaten absorbirt, Frankreich <hi rendition="#u">mindestens</hi> das linke Rheinufer
+                                                  haben müsse?</orig><note xml:id="baca4555-30d6-4bac-9d6e-1b5dc9bb8a77">Siehe Louis Blanc: Lettres de Londres. In:
+                                                  Le_Temps. Paris. Nr._1815, 23._April 1866. S._1/2.
+                                                  (((lBlanc,Louis: Lettres de Londres. In: Le_Temps.
+                                                  Paris. Nr._1815, 23._April 1866.
+                                                S._1/2)))</note></seg> Das sind die rechte Art
+                                        Revolutionäre.</p><p sameAs="MBTextmitEinzug">Ich habe dieser Tage, um meinen alten Ingrimm wieder etwas
+                                        aufzustacheln, <seg type="comment"><orig>das Buch von dem
+                                                  49<hi rendition="#sup">r</hi> Dresdner
+                                                  Ge<pb/>fangnen <persName key="pdrPo.001.004.000004044">Röckel</persName> über seine Behandlung im
+                                                  Zuchthaus</orig><note xml:id="cd1d2f1b-8026-4e00-9dbd-566a4311b3f1">August Röckel: Sachsens Erhebung und das
+                                                  Zuchthaus zu Waldheim. Frankfurt a.M. 1865.
+                                                  (((lRöckel,August: Sachsens Erhebung und das
+                                                  Zuchthaus zu Waldheim. Frankfurt a. M. 1865)))
+                                                </note></seg> gelesen. Diese Infamieen der Sachsen
+                                        übersteigen Alles was mir je vorgekommen. Es wird über sehr
+                                        viele Canaillen ein strenges Gericht zu halten sein. Die
+                                        alte Zeit <hi rendition="#u">vor</hi> 48 kannte solche
+                                        Schweinereien gar nicht, &amp; die preußischen Festungen von
+                                        damals kommen einem wie ein Paradies dagegen vor.</p><p sameAs="MBTextmitEinzug"> Diese <seg type="comment"><orig>Adullamiter</orig><note xml:id="nfbp_kbq_dz"><note xml:id="f1b1329a-0e37-4156-af01-550646bbd832">Nach der
+                Bibel ursprünglich Bezeichnung <persName key="pdrPo.001.004.000010401">Davids</persName> mit seinem Anhang, die in der Höhle von Adullam Zuflucht
+                nahmen, um sich vor ihren Gegnern zu verbergen. Hier ein in Großbritannien 1866 von
+                  <persName key="pdrPo.001.004.000000612">John Bright</persName> geprägter Spitzname
+                für den rechten Flügel der Liberalen, der sich mit den Konservativen gegen die von
+                Gladstone eingebrachte Reformbill (siehe <ref target="B00097/#f941b872-3526-4946-833f-46483a82ac90">Erl. zu Marx an Engels,
+                  23.4.1866.<?oxy_comment_start author="lindenberg" timestamp="20170518T134034+0200" comment="{{Erl._93d}}"?></ref><?oxy_comment_end?>)
+                wandte und damit zum Sturz des Ministeriums Russel-Gladstone
+            beitrug.</note></note></seg> sind doch kolossale Esel so gegen diese pauvre Reformbill
+          anzugehn, das conservativste Ding das je hier gemacht worden ist. Indessen <seg type="comment"><orig>quem deus vult perdere &amp;c.</orig><note xml:id="f0ac61dc-fbd6-4765-b478-08fc158e232d">Nach Publilius Syrus: Sententiae: Quem
+              Deus vult perdere, prius dementat. – Wen Gott vernichten will, den macht er vorher
+              wahnsinnig. (((lPublilius Syrus: Sententiae))) </note></seg></p><p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_ll3_h4r_pz"/>Ich schickte <seg type="comment"><orig>meinen 3<hi rendition="#sup">t</hi>&#160;Polenartikel</orig>
+            <note xml:id="ae2404e9-9fa1-4e1b-8b10-cacb5a7cf0f7">
+              <p rend="endnote text">Frederic [Friedrich] Engels: What have the working classes to
+                do with Poland?_III. In: The Commonwealth. London. Nr.&#160;165, 5.&#160;Mai 1866.
+                S.&#160;5. (MEGA²&#160;I/20. S.&#160;200–203). ((lEngels,_[Friedrich]Frederic:_What
+                have the working classes to do with Poland? I–III. In: The Commonwealth. London.
+                Nr.&#160;159, 24.&#160;März 1866. S.&#160;5; Nr.&#160;160, 31.&#160;März 1866.
+                S.&#160;5; Nr.&#160;165, 5.&#160;Mai 1866. S.&#160;5. (MEGA² I/20.
+                S.&#160;193–203)_))) Siehe <ref target="B00004/#start_f3b_gqq_nz">Marx an Engels,
+                  5.1.<?oxy_comment_start author="reichhoff" timestamp="20170419T103232+0200" comment="{{Br. 3.22–28}}"?>1866<?oxy_comment_end?></ref>.
+                - Engels‘ Brief an <persName key="pdrPo.001.004.000001603">Peter Fox
+                  André</persName>, geschrieben um den 10.&#160;April 1866, ist nicht überliefert. </p>
+            </note>
+          </seg> schon vor <subst>
+            <del>14 Tagen</del>
+            <add>3&#160;Wochen</add>
+          </subst> an die <bibl sameAs="zzThe Commonwealth">Commonw.</bibl> &amp; erbat ihn mir
+          zurück falls er <add>für</add>
+          <hi rendition="#u">die</hi> Woche zu spät sei.<seg type="comment"><orig> Darauf erhielt
+              ich nach 8&#160;Tagen von <persName key="pdrPo.001.004.000001603">Fox</persName>
+              Antwort er könne erst die <hi rendition="#u">vorige</hi> No erscheinen zugleich den
+              Art. zurück.</orig><note xml:id="c0640bbb-98e4-4e04-94b2-456c9d51205e">Siehe <ref target="B00095">P. Fox André an Engels,
+                18.4.<?oxy_comment_start author="reichhoff" timestamp="20170403T105758+0200" comment="{{Br. 91a}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          <seg type="comment"><orig>Schickte ihn am Mittwoch wieder ab, aber zu spät.</orig><anchor type="verweisziel" xml:id="stop_ll3_h4r_pz"/><note xml:id="d7d691ad-f9a6-4cc3-ab37-ac05bfab8f08">Engels‘ zu spät abgeschickter Brief an
+                <persName key="pdrPo.001.004.000001603">Fox André</persName>, geschrieben spätestens
+              Mittwoch, 25.&#160;April 1866, ist nicht überliefert.</note></seg>
+          <seg type="comment"><orig>Du warst damals noch in Margate.</orig><note xml:id="d02144b9-ed72-4f82-b8cd-760ad803385e">Zu Marx’ Aufenthalt in Margate siehe
+                <ref target="B00054/#a9fd0c5d-779b-4626-bf9f-71889bd4804c">Erl. zu Engels an Marx,
+                5.3.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T134227+0200" comment="{{Erl. 51a}}."?></note><?oxy_comment_end?></seg>
+          <seg type="comment"><orig>Die folgenden N<hi rendition="#sup">os</hi> schicke ich Dir
+              wieder, wenn nicht die Zeit sofortige directe Einsendung nöthig macht.</orig><note xml:id="cd9495c2-d6d6-467a-b5c9-9d4f9df854cd">Engels plante offensichtlich, die
+              Artikelserie zu Polen ((lEngels,_[Friedrich]Frederic:_What have the working classes to
+              do with Poland? I–III. In: The Commonwealth. London. Nr.&#160;159, 24.&#160;März 1866.
+              S.&#160;5; Nr.&#160;160, 31.&#160;März 1866. S.&#160;5; Nr.&#160;165, 5.&#160;Mai
+              1866. S.&#160;5. (MEGA²&#160;I/20. S.&#160;193–203)_))) fortzusetzen (siehe <ref target="B00113/#start_xlv_tsw_pz">Marx an Engels,
+                17.5.<?oxy_comment_start author="reichhoff" timestamp="20170419T103624+0200" comment="{{Br. 109.3–10}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00115/#start_crn_zsw_pz">Engels an Marx,
+              25.5.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170419T103810+0200" comment="{{Br. 111.48–59}}"?>)<?oxy_comment_end?>,
+              jedoch sind keine weiteren Artikel erschienen (siehe auch MEGA²&#160;I/20.
+              S_1185-1187).</note></seg></p><p sameAs="MBTextmitEinzug">Viele Grüße an Deine Frau &amp; die Mädchen.</p><closer sameAs="MBUnterschrift">Dein<lb/>F. E. </closer></div></body></text></TEI>

@@ -1,0 +1,33 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00068" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>64</idno>Rudolph Bredt an Friedrich Engels in Manchester. Crewe, Samstag, 17. März 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 835/L II 200 Fotosign. 14981a–b</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, blauem Papier im Format
+                            126&#160;×&#160;200&#160;mm. Die erste Seite hat Bredt vollständig
+                            beschrieben, die zweite zu einem Drittel. Schreibmaterial: schwarze
+                            Tinte.</p>
+                        <p>Archivsignatur des SPD-Archivs auf der ersten Seite: „II 21 L 1“.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1645</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_pj3_wnl_xx">Rudolph Bredt</persName><placeName>Crewe</placeName><date when="1866-03-17"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:54Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Crewe den 17 März 1866</dateline><salute sameAs="MBAnrede">Werther Herr Engels!</salute></opener><p sameAs="MBTextohneEinzug">Meinen besten Dank für Ihre freundliche Besorgung des Briefes. Für
+                    ferner vorkommende Fälle zeige ich Ihnen hierdurch meine Addresse an:</p><p sameAs="MBTextmitEinzug"><persName key="ed_ikh_sht_jz">M<hi rendition="#sup">rs</hi>
+                        Mills</persName></p><p sameAs="MBTextmitEinzug">Victoria Street</p><p sameAs="MBTextmitEinzug">Leider habe ich Sie <seg type="comment"><orig>vergangenen
+                            Samstag</orig><note xml:id="fc2892b9-a00c-49bf-88b5-49483ff0dbbe">10.&#160;März 1866.</note></seg> nicht im <seg type="comment"><orig>Albert Clubb</orig><note xml:id="ca5c114d-587d-4979-ac9f-cefad47c8780">Gemeint ist der 1842
+                            gegründete Albert Club in Manchester. Seinen Namen verdankte er dem
+                            Prinzgemahl <persName key="pdrPo.001.004.000000051">Albert von
+                                Sachsen-Coburg und Gotha</persName>, unter dessen Patronat er stand.
+                            Der Klub war geselliger Mittelpunkt der deutschen Kaufleute und
+                            Intellektuellen und mit ihnen verbundener Engländer. 1866 zählte er 96
+                            Mitglieder. Engels war vom 20. Oktober 1858 bis 19. Februar 1874
+                            Mitglied und gehörte mehrere Jahre dem Vorstand an.</note></seg>
+                    getroffen, u. da ich Ihre Privat-Addresse nicht wußte konnte ich Sie auch
+                    Sonntag nicht mehr aufsuchen.</p><p sameAs="MBTextmitEinzug">Für Ihr freundliches Anerbieten in Betreff der Bibliothek kann ich Ihnen
+                    einstweilen danken, da hier auch eine leidliche Bibliothek ist, an der ich fürs
+                    erste genug haben werde. –</p><p sameAs="MBTextmitEinzug">Der Platz ist hier ganz wie Sie mir <pb/> diese Nester schilderten schauerlich öde u. langweilig – doch hoffe ich Ihnen davon bald mündlich erzählen zu können.</p><closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u1}</hi>-->Mit herzl. Gruß<lb/>Ihr<lb/>Rudolph Bredt </closer></div></body></text></TEI>

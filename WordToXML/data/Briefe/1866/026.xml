@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00029" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>26</idno>Carl Rode an Karl Marx in London. Liverpool, Sonntag, 4.
+                    Februar 1866</title>
+            </titleStmt>
+            <editionStmt>
+                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">f. 1 op. 5 d. 1633</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            113&#160;×&#160;178&#160;mm. Die erste Seite hat Rode vollständig
+                            beschrieben, die zweite zur Hälfte. Eine Passage ist als
+                            Zeitungsausschnitt am Anfang der zweiten Seite aufgeklebt, die letzte
+                            Passage ist auf der ersten Seite oben quer geschrieben. Schreibmaterial:
+                            schwarze Tinte.</p>
+                        <p>Von unbekannter Hand: Datierung mit schwarzer Tinte auf der ersten Seite
+                            oben rechts: „4/2&#160;66“.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000011456">Carl Rode</persName>
+                    <placeName>Liverpool</placeName>
+                    <date when="1866-02-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:38:30Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <p rend="MBTextOhneEinzug"><pb/> So eben erhalte ich ein Schreiben von
+                        Dr.&#160;<persName key="pdrPo.001.004.000011237">Neftel</persName> aus
+                    Cincinnati, er ist Arzt in den dortigen ersten Familien und hat sich schon Wagen
+                    und Pferde angeschafft&#160;– er schickte mir Gelder zum Ankauf von <expan resp="editor" sameAs="dottet_underline">chirurg<ex>ischen</ex></expan>
+                    <expan resp="editor" sameAs="dottet_underline">Instru<ex>me</ex>nten</expan>,
+                    was mich wahrscheinlich nach London ruft&#160;– er wünscht, daß ich die Inst.
+                    selbst mitbringe und wir zusammen leben.</p>
+                <p sameAs="MBTextmitEinzug"><persName key="pdrPo.001.004.000005144">Willich</persName> Ihr alter Freund, soll eine sehr beliebte Persönlichkeit
+                    in Cincinnati sein. </p>
+                <p sameAs="MBTextmitEinzug" rendition="#mPrint"><pb/> A Prussian lady named
+                        <persName key="ed_dt4_szp_kz">Wolff</persName> has been sent to gaol for
+                    four months for being in France notwithstanding a judgment of expulsion in
+                    1858.</p>
+                <p sameAs="MBTextmitEinzug">Avis aux expulsés qui ont l’intention de voir la belle
+                    France!</p>
+                <p sameAs="MBTextmitEinzug">Connaissez Vous cette Dame et pourquoi est elle
+                    expulsée, est elle une de vos connaissance?</p>
+                <p sameAs="MBTextmitEinzug">Nos salutations à Vous et à Votre famille.</p>
+                <closer sameAs="MBUnterschrift"><signed>Rode</signed></closer>
+                <p sameAs="MBAdresse">Liverpool le 4 Febr. 1866. </p>
+                <p rend="MBTextOhneEinzug">/ Was vegetiren Sie in London – gehen wir zusammen übers
+                    Meer? /</p>
+            </div>
+        </body>
+    </text>
+</TEI>

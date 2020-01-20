@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="sachregister" xml:lang="de" xml:id="prov1154">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sachregister MEGAdigital</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Gehört zur ediarum-App für eXist.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Hybrid: consult project description and document history for details.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <list>
+                <item xml:id="ed_wks_yvp_3x">
+                    <label type="reg">Deutscher Krieg 1866</label>
+                </item>
+                <item xml:id="ed_ujr_3c2_5z">
+                    <label type="reg">Frankreich</label>
+                </item>
+                <item xml:id="ed_jtl_xrw_ww">
+                    <label type="reg">Internationale Arbeiter Assoziation (IAA, A.I.T.,
+                        I.W.M.A.)</label>
+                </item>
+                <item xml:id="ed_otj_cwr_by">
+                    <label type="reg">Internationale Beziehungen in Europa</label>
+                </item>
+                <item xml:id="ed_lbn_rnw_px">
+                    <label type="reg">„Das Kapital“ (Arbeit an Manuskripten,
+                        Veröffentlichung)</label>
+                </item>
+                <item xml:id="ed_u5f_cpw_ww">
+                    <label type="reg">Naturwissenschaften</label>
+                </item>
+                <item xml:id="ed_hh2_bw2_hx">
+                    <label type="reg">Österreich </label>
+                </item>
+                <item xml:id="ed_gln_r4r_xw">
+                    <label type="reg">Privates</label>
+                </item>
+                <item xml:id="ed_rw2_4vl_qx">
+                    <label type="reg">Preußen</label>
+                </item>
+                <item xml:id="ed_vgk_5cg_fy">
+                    <label type="reg">Verfassungskonflikt in Preußen</label>
+                </item>
+            </list>
+        </body>
+    </text>
+</TEI>

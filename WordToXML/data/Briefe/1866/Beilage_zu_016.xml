@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_crj_qks_5y">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Visitenkarte von Paul Stumpf</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno>f. 207 <idno type="shelfmark">op. 1 d. 2</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Mit den Briefen Stumpfs ist eine Visitenkarte überliefert (Kopie: RGASPI,
+                            Sign. f. 207, op. 1, d. 2, mit der Fotosign. 12365 und Archivsignatur
+                            der SPD „II 10 No 97“)</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="pdrPo.001.004.000004646">Stumpf, Paul (1826-1912)</persName>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p rendition="#mPrint">Pumpen-Waaren- &amp; Water-Closets-Fabrik <lb/>von <lb/>Paul
+                    Stumpf <lb/>in <lb/>Mainz. <lb/>Stadionerhofstrasse, neben der Mohrenapotheke.
+                    <lb/>Das Etablissement besorgt die Einrichtungen für Wasch- <lb/>und
+                    Bade-Anstalten und übernimmt die Anlage von Dampf- und <lb/>Wasserheizungen,
+                    Wasserleitungen etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

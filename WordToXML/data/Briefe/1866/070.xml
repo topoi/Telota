@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00073" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>70</idno>Karl Marx an Laura Marx in London. Margate, Dienstag, 20. März
+          1866</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>RGASPI</institution>
+            <idno><idno type="shelfmark">f. 1 op. 1 d. 6048</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format
+              270&#160;×&#160;212&#160;mm. Die ersten zwei Seiten hat Marx vollständig beschrieben,
+              die dritte zu zwei Dritteln, die vierte ist leer. Schreibmaterial: schwarze Tinte.</p>
+            <p>Von unbekannter Hand: Nummerierung des Briefes: „3–1“ (die 3 ist eingekreist) auf der
+              ersten Seite oben in der Mitte. </p>
+            <p>Marx beantwortet den nicht überlieferten Brief von Jenny Marx, geschrieben
+              wahrscheinlich am 20.&#160;März 1866 (siehe L. Marx an Marx, 20.3.1866: „I send ...“)
+              und den hier letztgenannten Brief.</p>
+          </physDesc>
+        </msDesc>
+        <listWit>
+          <witness><bibl>Erstveröffentlichung: in deutscher Übersetzung: Mehring: Familienbriefe von
+              Karl Marx (1907/1908). S.&#160;74–75</bibl>.</witness>
+          <witness><bibl>in der Sprache des Originals: Lettres et documents de Karl Marx (1958).
+              S.&#160;160–162.</bibl></witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName>Margate</placeName>
+          <date when="1866-03-20"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="pdrPo.001.004.000003076">Laura Marx</persName>
+          <placeName>London</placeName>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-10-31T13:38:57Z</date> | <name>Regina Roth</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingAct">
+        <opener>
+          <dateline sameAs="MBDatumszeile"><pb/> 20 March 1866.<lb/>5, Lansell’s Place,
+            Margate.</dateline>
+          <salute sameAs="MBAnrede">My dear <seg type="comment"><orig>Cacadou,</orig><note xml:id="fe48b97e-6246-4797-8d0a-9e43658e09f6">Spitzname von <persName key="pdrPo.001.004.000003076">Laura Marx</persName>. </note></seg></salute>
+        </opener>
+        <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Very good news, indeed! I prefer
+                <persName key="ed_dv5_vzz_zy">Mrs. Grach</persName> to the mother of all the <expan resp="editor" sameAs="dottet_underline">Grac<ex>c</ex>hi.</expan></orig><note xml:id="abe25c25-23e3-43e3-8664-489ce36992fc">Wortspiel, das auf dem Gleichklang des
+              Namens des Trierer Bankiers <persName key="ed_shh_4zz_zy">Grach</persName> und der
+              römischen <persName key="ed_ovp_w2v_1z">Gracchen</persName> beruht. Vermutlich hatte
+                <persName key="pdrPo.001.004.000003075">Jenny Marx</persName> nun eine positive
+              Nachricht bezüglich ihrer Ansprüche aus dem Jahre 1855 gegen den damals bankrott
+              gegangenen Bankier erhalten. Siehe Marx an Engels, 8. März 1855. In: MEGA²_III/7. S.
+              183.21–31. (((lMEGA²_III/7)))</note></seg>
+          <seg type="comment"><orig>I am right glad that I have taken my lodgings in a private
+              House, and not in an Inn or Hotel,</orig><note xml:id="fd3451cb-5460-4d9f-acd3-f03f1a06eeaa">Siehe <ref target="B00054/#a9fd0c5d-779b-4626-bf9f-71889bd4804c">Erl. zu Engels an Marx,
+                5.3.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170517T144542+0200" comment="{{Erl. 51a}}."?></note><?oxy_comment_end?></seg>
+          where one could hardly escape being pestered with local politics, vestry scandals, and
+          neighbourly gossip. But still<anchor type="verweisziel" xml:id="start_pnb_4xg_4z"/>
+          <seg type="comment"><orig>I cannot sing with the miller of the Dee, that I care for
+              nobody, and nobody cares for me.</orig><anchor type="verweisziel" xml:id="stop_pnb_4xg_4z"/><note xml:id="c068a594-2393-4822-8a23-290014c77a2e">Aus dem
+              englischen Volkslied „The Miller of Dee“. (((lThe_Miller_of_Dee))) Siehe auch <ref target="B00071/#start_brg_djh_4z">Marx an N. Philips,
+                18.3.<?oxy_comment_start author="reichhoff" timestamp="20170413T180445+0200" comment="{{Br. 67.12–13}}"?>1866<?oxy_comment_end?>
+              </ref>und <ref target="B00075/#start_pfw_zxg_4z">Marx an Engels,
+                24.3.<?oxy_comment_start author="reichhoff" timestamp="20170413T180716+0200" comment="{{Br._72.14–16}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          For there is my landlady, who is deaf like a post, and her daughter, who is afflicted with
+          chronic hoarseness, but they are very nice people, attentive, and not intruding. As to
+          myself, I have turned into a perambulating stick, running about the greatest part of the
+          day, airing myself, going to bed at 10&#160;o’clock, reading nothing, writing less, and
+          altogether working up my mind to that state of nothingness which Buddhaism considers the
+          climax of human bliss. <seg type="comment"><orig><anchor type="verweisziel" xml:id="start_tqp_z1h_4z"/>However, with all that, I shall not turn that out on
+              Thursday,</orig><note xml:id="ncmg_zj5_1z">Am Donnerstag, den 22. März 1866
+              veranstalteten seine Töchter eine Feier, zu der Marx vom Kurort angereist war. Siehe
+                <ref target="B00072/#nmb2_vmp_1z">Erl. zu L. Marx an Marx, 20.3.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170517T144942+0200" comment="{{Erl. 69b}}."?></note><?oxy_comment_end?></seg>
+          that paragon of beauty which worthy <seg type="comment"><orig>By Bye,</orig><note xml:id="nm3h_xj5_1z"><persName key="pdrPo.001.004.000003074">Jenny Marx</persName>
+              (Tochter).</note></seg> in his phantastic mood, seems to expect.<anchor type="verweisziel" xml:id="stop_tqp_z1h_4z"/> The toothache on <del> my <sic ana="#break-off"/></del> the right side of the face has not yet altogether
+          disappeared, and the same side is afflicted with an inflammation of the eye. Not that
+          there is much to be seen of it, but that eye has taken to <del> be <sic ana="#break-off"/></del> the vicious habit of shedding tears on its own account, without the least
+          regard to the feelings of his master. <anchor type="verweisziel" xml:id="start_a1l_s35_4z"/>But for this state of things, <seg type="comment"><orig>I should have my photogramme
+              already taken<anchor type="verweisziel" xml:id="stop_a1l_s35_4z"/>, since you get here
+              12 cartes de visite for 3&#160;s. 6&#160;d. and 48&#160;cartes for
+              10&#160;sh.</orig><note xml:id="a2c13851-ec26-427c-920c-117fd73a549c">Siehe auch <ref target="B00080/#start_b2t_ckh_4z">J. Marx an L. Kugelmann,
+              1.4.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170413T181039+0200" comment="{{Br. 77.32–35}}"?>.<?oxy_comment_end?></note></seg>
+          <seg type="comment"><orig>Mümmelchen</orig><note xml:id="a4108185-5a3d-4dee-ac2d-122e071cdde5"><persName key="pdrPo.001.004.000003075">Jenny Marx</persName>. </note></seg> will oblige me by pacing her steps to
+            <persName key="ed_ykg_mwm_jz">Mr.&#160;Hall </persName>and ordering him to prepare a
+          solution of zink (he will know the composition of the drug) for my eye, <add>the</add>
+          which I expect to find ready on my arrival at London. This bad eye interferes with my
+          nightrest. Otherwise, I am turning a new leaf. </p>
+        <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_pzx_nyg_4z"/><pb/><seg type="comment"><orig>
+              <?oxy_custom_start type="oxy_content_highlight" color="255,60,255"?>Withdrawing
+              somewhat from the seaside, and roaming over the adjacent rustic district, you are
+              painfully reminded of <hi rendition="#u">“civilization”</hi> by large boards, staring
+                <add>at</add> you everywhere, headed <hi rendition="#u">“Cattle <subst>
+                  <del> </del>
+                  <del rendition="#s">Diseases</del>
+                  <add place="across">Disease</add>
+                </subst></hi><hi rendition="#u">”</hi>, and placarded over with a government
+              proclamation, the result of the wild rush which the horned cattle gentry, lords and
+              commoners, made at the government, on the opening of Parliament.</orig></seg></p>
+        <seg type="comment"><orig>
+            <p sameAs="MBTextmitEinzug">Oh, oh King <persName key="ed_i2f_nxm_jz">Wiswamitra</persName>,</p>
+            <p sameAs="MBTextmitEinzug">What fool of an oxen art thou,</p>
+            <p sameAs="MBTextmitEinzug">That thou so much wrangle’st and suffer’st,</p>
+            <p sameAs="MBTextmitEinzug">And all that for a cow. </p>
+          </orig></seg>
+        <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>But if honest <persName key="ed_i2f_nxm_jz">Wiswamitra</persName>, like a true Indian, tormented himself for
+              the salvation of the cow <persName key="ed_fcz_xym_jz">Sabala</persName>, those
+              English gentry, in the true style of modern martyrs, bleed the people to compensate
+              themselves for their cows’ ailings.</orig><?oxy_custom_end?><note xml:id="f50123da-3523-40d6-a508-8de82fa37a38">Siehe <ref target="B00071/#start_bmf_qkh_4z">Marx an N. Philips,
+                18.3.<?oxy_comment_start author="reichhoff" timestamp="20170413T181551+0200" comment="{{Br._67.20–34}}"?>1866<?oxy_comment_end?></ref>,
+                <ref target="B00071/#c4c0a2da-212e-4b63-b08e-d14a261ff62e">Erl. zu Marx an N.
+                Philips, 18.3.1866</ref> und  <ref target="B00071/#dda2b176-1535-457c-b0e5-75a21a6f550f">Erl. zu Marx an N. Philips,
+                18.3.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170517T145732+0200" comment=" {{Erl._67e und f}}."?></note><?oxy_comment_end?></seg>
+          The horn plague upon them! The horn, the horn, as discreet <persName key="pdrPo.001.004.000003074">By Bye</persName> rings it <del rendition="#s"><unclear reason="illegible" cert="high">so</unclear></del> lustily.<anchor type="verweisziel" xml:id="stop_pzx_nyg_4z"/></p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_jzc_smh_4z"/><orig>On Sunday,</orig><note xml:id="b88172e8-1ce6-4dd2-9c73-2ccd58ae5873">18.&#160;März 1866.</note></seg> I made
+          up my mind to walk per pedes to Canterbury. Unhappily, I only formed this grand
+          resolution, after having already measured for two hours the length and breadth of the
+          piers and so forth. So I had already expended too much physical power, when I set out for
+          the archbishop’s seat or see, as you like. And from here to Canterbury are fully
+          16&#160;miles. From Canterbury I returned to Margate by rail, but I had overworked myself,
+          and could not sleep during the whole night. Limbs and loins were not tired, but the plants
+          of my feet turned out tenderhearted rogues. As to Canterbury, <del> kn <sic ana="#break-off"/></del> you know, of course, all about it, and more than I can boast,
+            <seg type="comment"><seg type="comment"><orig><orig>from your Eves,</orig></orig><note xml:id="nxgm_yk5_1z">C[harles] Eves, G[eorgiana] Eves: The School Examiner.
+                Containing nearly 4000 Exercises on Sacred History; Geography; English Grammar, the
+                Histories of England and Rome, Sacred Geography, and Arithmetic. London [u._a.]
+                1865. (((lEves,_C[harles], G[eorgiana] Eves: The School Examiner. Containing nearly
+                4000 Exercises on Sacred History; Geography; English Grammar, the Histories of
+                England and Rome, Sacred Geography, and Arithmetic. London [u._a.]
+              1865)))</note></seg></seg> the trusted source of knowledge for all English Eves. (One
+          cannot help, in your company, bad punning. But mark. <persName key="pdrPo.001.004.000004725">Thackeray</persName> did worse, by playing upon Eves and
+          Ewes.) Happily, I was too tired, and it was too late, to look out for the celebrated
+          cathedral. Canterbury is an old, ugly, medieval sort of town, not mended by large modern
+          English barracks at the one, and a dismal dry Railway Station at the other end of the <del rendition="#s">town<sic ana="#break-off"/></del> oldish thing. There is no trace of that
+          poetry about it, which you find in continental towns of the same age. </p>
+        <p sameAs="MBTextmitEinzug"><pb/> The swaggering of the private soldiers and the officers in
+          the streets, reminded me somewhat of “Vaterland”. In the inn, where I was scantily
+          purveyed with some slices of cold beef, I caught the newest scandal. Captain <persName key="ed_mpm_vpm_jz">Le Merchant</persName>, it seems, had been taken up by the police on
+          Saturday night, for systematically knocking at the doors of all the most respectable
+          citizens. And a summons will be taken out against the Captain because of this innocent
+          pastime. And the redoubtable Captain will have to bend down his diminished head before
+          aldermanic majesty. This is my whole packet of <seg type="comment"><orig>“Canterbury
+              Tales”</orig><note xml:id="dbde1069-58f3-436d-8dc5-fc4944b71ab6"><anchor type="verweisziel" xml:id="stop_jzc_smh_4z"/><persName key="ed_ohm_ndw_yx">Geoffrey
+                Chaucer</persName>: The Canterbury Tales.
+              (((lChaucer,Geoffrey:The_Canterbury_Tales))) </note></seg>.</p>
+        <p sameAs="MBTextmitEinzug">And now, Cacadou, pay my compliments to <seg type="comment"><orig>Elly</orig><note xml:id="d49eb5d9-0f61-4307-b472-2a72cf826e76"><persName key="pdrPo.001.004.000003068">Eleanor Marx</persName>. </note></seg> to whom I shall
+          write one of those days, and <seg type="comment"><orig>whose little letter</orig><note xml:id="a6bc429c-8408-41a6-a11f-4472eacbd025">Siehe <ref target="B00070">
+                Eleanor Marx an Marx , 18.
+                  3.<?oxy_comment_start author="reichhoff" timestamp="20170320T101706+0100" comment="{{Br. 66}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          was very welcome. As to <seg type="comment"><orig>Möhmchen,</orig><note xml:id="b99bef9c-dea4-40b7-bb56-4e504bbd15f3"><persName key="pdrPo.001.004.000003075">Jenny Marx</persName>. </note></seg> she will hear of me by the by.</p>
+        <p sameAs="MBTextmitEinzug">That damned boy <persName key="pdrPo.001.004.000002648">Lafargue</persName> pesters me with his Proudhonism, and will not rest, it seems,
+          untill I have administered to him a sound cudgelling of his Creole pate.</p>
+        <p sameAs="MBTextmitEinzug">My <del> xxxx xxx <sic ana="#break-off"/></del> good wishes to
+          all.</p>
+        <closer sameAs="MBUnterschrift">
+          <signed>Your master.</signed>
+        </closer>
+        <postscript>
+          <p><seg type="comment"><orig>Has <persName key="ed_erg_rjw_wx">Orsini</persName> still
+                received the letter I sent him?</orig><note xml:id="e178b565-d624-4fd5-bddf-18cef5861958">Siehe <ref target="B00064">Marx an
+                  Engels,
+                  15.3.<?oxy_comment_start author="reichhoff" timestamp="20170320T102015+0100" comment="{{}Br. 60}}"?>1866<?oxy_comment_end?></ref>.
+                Ein Brief von Marx an <persName key="ed_erg_rjw_wx">Cesare Orsini</persName>,
+                geschrieben zwischen 15. und 20.&#160;März 1866, ist nicht überliefert.</note></seg>
+          </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

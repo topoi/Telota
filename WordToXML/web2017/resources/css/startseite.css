@@ -1,0 +1,164 @@
+/* ################ STARTSEITE ******************* */
+
+body {
+    /*background-color: #4f4435;*/
+}
+
+div.alignRight {
+    text-align: center;
+}
+
+div#header div.alignRight div {
+    border-top: 1px solid gray;
+    margin: 0 15% 3% 15%; 
+}
+
+div#header div.alignRight h1 {
+    margin-top: 1em;
+}
+
+div#header div.alignRight h2 {
+    font-size: 1.2em;   
+}
+
+div#header div.alignRight p {
+    margin: 1em 0 1em 0;
+    color: #5f5f5f;  
+}
+
+h3 {
+    margin-bottom: 0.5em;
+    font-size: 1.4em;
+
+}
+
+div.row1 {
+    padding-bottom: 2em;
+    border-bottom: 1px solid #9b9b9b;
+    margin-bottom: 2em;
+}
+
+div#content a.button,
+div#content button {
+    display: inline-block;
+    margin: 0.5em 0 0 0;
+    border: none;
+    border-radius: 0.3em;
+    padding: 0.5em 0.8em 0.5em 0.8em;
+    background-color: rgb(140,23,11);
+    color: white;
+    font-family: PTSans;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+div#content a.button:hover {
+    background-color: rgb(192,32,14);
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+div#search label {
+    display: none;
+}
+
+div#search select,
+div#search input {
+    width: 90%;
+    margin: 0 0 0.5em 0;
+    border: 1px solid gray;
+    border-radius: 0.3em;
+    padding: 5px;
+}
+
+div#search input:focus {
+    border: 1px solid rgb(140,23,11);
+}
+
+div#search select {
+    width: auto;
+    min-width: 51%;
+}
+
+div#search button.submit {
+    width: auto;
+    margin-left: 1em;
+    height: 2.35em;
+    cursor: pointer;
+}
+div#search button.submit:hover {
+    text-decoration: underline;
+}
+
+div#search p {
+    font-family: PTSans;
+    font-size: 0.8em;
+    margin: 1em 0 0 0;
+}
+
+/* AVH */
+
+div#header {
+    padding: 3em 0 2em 0;
+}
+
+div#header h1 {
+    font-size: 2em;
+    margin: 1em 0 0.5em 0;
+    padding: 0 0 0.5em 0;
+    border-bottom: 2px solid rgb(140,23,11);
+    font-weight: bold;
+}
+
+div#header h2 {
+    font-size: 1.5em;
+    font-weight: normal;
+}
+
+div#header p {
+    margin-top: 1em;
+    font-size: 1.4em;
+}
+
+div#content div.grid_4 {
+    padding: 0 0 1em 0;
+}
+
+div#content a.button, 
+div#content button {
+    
+}
+
+div#portraits {
+    position: relative;
+}
+
+div#portraits div {
+    position: relative;
+    display: none;
+}
+
+div#portraits:hover div {
+    display: block;
+    position: absolute;
+    top: 150px;
+    right: -2em;
+    width: 30%;
+    padding: 0.5em;
+    font-family: PTSans;
+    font-size: 0.7em;
+    background-color: #93816A;
+    text-align: left;  
+    -webkit-box-shadow: 5px 5px 5px 0px rgba(43,43,43,1);
+    -moz-box-shadow: 5px 5px 5px 0px rgba(43,43,43,1);
+    box-shadow: 5px 5px 5px 0px rgba(43,43,43,1);
+}
+
+div#portraits p {
+    margin: 0;
+}
+
+div#portraits p:nth-child(1) {
+   margin-bottom: 1em;    
+}

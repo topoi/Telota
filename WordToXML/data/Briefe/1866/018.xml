@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00019" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>18</idno>Wilhelm Liebknecht an Karl Marx in London. Berlin, Sonntag, 21. Januar 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 1631</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            284&#160;×&#160;220&#160;mm. Die ersten zwei Seiten hat Liebknecht
+                            vollständig beschrieben, auf der dritten stehen nur vier Zeilen , die
+                            vierte ist leer. Schreibmaterial: schwarze Tinte und Bleistift (die
+                            letzte Passage).</p><p>Von unbekannter Hand (vermutlich D. B.
+                            <?oxy_comment_start author="lindenberg" timestamp="20170420T140919+0200" comment="(((nRjazanov,D.))) Noch mit Register verbinden"?>Rjazanov<?oxy_comment_end?>):
+                            auf der ersten Seite oben rechts mit Blaustift die Jahresangabe „1866?“,
+                            korrigiert in „1865?“.</p><p>Die Jahresangabe stützt sich auf den Zusammenhang des Briefes mit den Briefen von Sigfrid Meyer
+                            an Liebknecht, 18.&#160;Januar 1866 (siehe Erl.&#160;) sowie von Marx an
+                            Meyer, 24.&#160;Januar 1866 (siehe dort).</p></physDesc></msDesc><listWit><witness><bibl>Erstveröffentlichung: in deutscher Übersetzung: Die I.&#160;Internationale in
+                            Deutschland (1964). S.&#160;101/102</bibl>.</witness><witness><bibl>in der Sprache des Originals wird der Brief hier erstmals veröffentlicht.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002822">Wilhelm Liebknecht</persName><placeName>Berlin</placeName><date when="1866-01-21"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:23Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile">Berlin, 21 Jan.</dateline><salute sameAs="MBAnrede">Dear Williams</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_kvb_vsv_mz"/><orig>I arrived here yesterday and found the
+                            people very perplexed in consequence of the arrival of a <hi rendition="#u">wrongly</hi> addressed Number of the <bibl sameAs="zzThe Bee-Hive Newspaper">Beehive</bibl> together with
+                            6&#160;cards, and of the <hi rendition="#u">non</hi>arrival of the
+                            promised et long expected letter—the wrong address of the packet causing
+                            the fear, that the letter might have got in the Dead letter office,
+                            where it would have to be opened.</orig><note xml:id="nqgn_w4k_5y">Von
+                            Marx‘ aus zwei Briefen bestehender Antwort an <persName key="pdrPo.001.004.000003176">Theodor Metzner</persName>, <persName key="pdrPo.001.004.000003187">Sigfrid Meyer</persName> und <persName key="pdrPo.001.004.000004960">August Vogt</persName> in Berlin
+                            (siehe <ref target="B00011/#e139a3b1-cfd1-4ba0-b331-14cfaba7e3fc">Erl.
+                                zu Marx an W. Liebknecht, 15.1.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170512T142752+0200" comment="{{Erl._10h}}"?>
+                            <?oxy_comment_end?>und <ref target="B00013/#b3a667ad-431c-4f5f-b652-064c7d0c2acf">Erl. zu Marx
+                                an Engels, 15.1.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170512T142822+0200" comment="{{Erl._12d}}"?>)<?oxy_comment_end?>
+                            war der falsch adressierte Brief an <persName key="pdrPo.001.004.000004960">August Vogt</persName> verloren
+                            gegangen. Siehe auch <ref target="B00020">Marx an S. Meyer,
+                                24.1.<?oxy_comment_start author="reichhoff" timestamp="20170410T104900+0200" comment="{Br. 19}}"?>1866<?oxy_comment_end?></ref>.
+                        </note></seg> The address of <persName key="pdrPo.001.004.000003187">Meyer</persName> is not <hi rendition="#u">Rother</hi>strasse 6, but <seg type="comment"><orig>Ritter (Ritter-) strasse 6. However as <expan resp="editor" sameAs="dottet_underline">M<ex>eyer</ex></expan> will
+                            leave Berlin soon, and as <hi rendition="#u">many</hi> addresses are apt
+                            to occasion desagreable imbroglios, you had best in future to address
+                            all letters etc. to: <persName key="pdrPo.001.004.000004960">August
+                                Vogt</persName>, Mathieustraße (Mathieustrasse) 16 (sixteen).<anchor type="verweisziel" xml:id="stop_kvb_vsv_mz"/></orig><note xml:id="ddb54f52-cab8-4f27-9b3f-759a156d306a">Die Adressen von Vogt und
+                            Meyer stehen in Marx‘ Notizbuch von Dezember 1864 bis Juni 1870 (RGASPI,
+                            Sign. f. 1, op. 1, d. 1797. [S. 33] von hinten). (((lMarx‘ Notizbuch von
+                            Dezember 1864 bis Juni 1870))) - Die Straßennamen sind im Brief in der
+                            Kombination lateinische/deutsche Schrift, bei „Ritterstrasse“ und
+                            deutsche/lateinische Schrift, bei „Mathieustrasse“
+                        geschrieben.</note></seg> Of any change of the address you will be duly
+                    informed.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>The money for the six cards sent here as well
+                            as for those sent to me you will receive in a short time;</orig><note xml:id="d2b71c1a-eeaa-40e3-b1f5-352b5619d329">International Working
+                            Men’s Association. Member’s Annual Subscription Card [for 1866].
+                            [London_1865]. Siehe <ref target="B00011/#start_ekh_gbj_nz">Marx an W.
+                                Liebknecht,
+                                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170410T095145+0200" comment="{{Br. 10.17–19}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00011/#cb864592-8d8a-4a93-b073-8383b8d607bc">Erl. zu
+                                Marx an W. Liebknecht, 15.1.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170512T142857+0200" comment="{{Erl._10c}}."?>
+                            <?oxy_comment_end?>Zur Bezahlung der Karten siehe auch <ref target="B00174/#start_p4h_sbj_nz">S. Meyer an Marx,
+                                22.9.<?oxy_comment_start author="reichhoff" timestamp="20170410T095512+0200" comment="{Br. 170.3–5}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    and more shall be asked for then.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>According to the late decisions of the
+                            Prussian Courts of Justice <hi rendition="#u">only individual</hi>
+                            <pb/> membership is possible,</orig>
+                        <note xml:id="be344359-52ce-4f90-9a9f-630c0da8624f">
+                            <p rend="endnote text">Siehe <ref target="B00011">Marx an W. Liebknecht,
+                                    15.1.<?oxy_comment_start author="reichhoff" timestamp="20170410T103933+0200" comment="{{Br. 10.20–25, 35–36}}"?>1866<?oxy_comment_end?></ref>
+                                sowie <ref target="B00007/#bacdc997-b8ee-4c1b-9872-3db7a910ad14">Erl. zu Marx an Becker, zwischen 9.u.15.1.1866.</ref>
+                                <?oxy_comment_start author="lindenberg" timestamp="20170512T142935+0200" comment="{{Erl. 6ff}}"?>
+                                <?oxy_comment_end?>und <ref target="B00011/#a4016170-75c2-4918-b14f-5981f8456429">Erl. zu
+                                    Marx an W. Liebknecht, 15.1.1866.</ref>
+                                <?oxy_comment_start author="lindenberg" timestamp="20170512T143001+0200" comment="{{Erl._10e}}."?>
+                                <?oxy_comment_end?>- Trotz verschiedener Bestrebungen war das Gesetz
+                                über das Versammlungs- und Vereinigungsrecht vom 11._März 1850
+                                (Verordnung über die Verhütung eines die gesetzliche Freiheit und
+                                Ordnung gefährdenden Mißbrauchs des Versammlungs- und
+                                Vereinigungsrechtes. Vom 11. März 1850. In: Gesetz-Sammlung für die
+                                Königlichen Preußischen Staaten. Berlin 1850. Nr. 3261.
+                                S.&#160;405–413) bis dahin nicht geändert worden. <persName key="pdrPo.001.004.000002822">Liebknecht</persName> meint hier
+                                offensichtlich Entwicklungen in der damals aktuellen Rechtsprechung
+                                preußischer Gerichte zu Fragen der Mitgliedschaft in Vereinen und
+                                der Interpretation der geltenden Vorschriften. (((lVerordnung über
+                                die Verhütung eines die gesetzliche Freiheit und Ordnung
+                                gefährdenden Mißbrauchs des Versammlungs- und Vereinigungsrechtes.
+                                Vom 11. März 1850. In: Gesetz-Sammlung für die Königlichen
+                                Preußischen Staaten. Berlin 1850. Nr. 3261. S.&#160;405–413))) </p>
+                        </note>
+                    </seg> but that is no obstacle. Only <hi rendition="#u">good</hi> and <hi rendition="#u">useful</hi> members will be sought, who are able to <hi rendition="#u">explain</hi> principles; <hi rendition="#u">if possible</hi>,
+                    a deputy will be sent to <seg type="comment"><orig>the congress.</orig><note xml:id="daadaea1-2ff9-4abb-9bb6-1986853821e7">Der erste Kongress der IAA
+                            in Genf.</note></seg> It is a money question.</p><p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_qk5_rjk_nz"/>By the by it would
+                    be good, if <seg type="comment"><orig>the manifest and statutes of the
+                            I.&#160;A.</orig><note xml:id="e555c810-7b5a-43c8-905c-230c116118d8">Karl Marx: Address of the Working Men’s International Association,
+                            established September 28, 1864, at a public meeting held at
+                            St.&#160;Martin’s Hall, Long Acre, London. In: MEGA² I/20. S.&#160;3–12;
+                            Derselbe: Provisional Rules of the Association. Ebenda. S.&#160;13–15.
+                            (((lMarx, Karl: Address of the Working Men’s International Association,
+                            established September 28, 1864, at a public meeting held at
+                            St.&#160;Martin’s Hall, Long Acre, London. In: MEGA² I/20.
+                            S.&#160;3–12))) (((lMarx, Karl: Provisional Rules of the International
+                            Working Men's Association. In: MEGA² I/20. S.&#160;13–15)))
+                        </note></seg> were printed in German as a small brochure. Have you a copy of
+                    the numbers of the Social <bibl sameAs="zzSD">Democrat</bibl> containing <seg type="comment"><orig>the Manifest and the Rules?</orig><note xml:id="nvm4_ttk_5y">Karl Marx:) Manifest an die arbeitende Klasse
+                            Europa’s. In: Der Social-Demokrat. Berlin. Nr.&#160;2, Probenr.,
+                            21.&#160;Dezember 1864. S.&#160;1-S._3; Nr.&#160;3., Probenr.,
+                            30.&#160;Dezember 1864. Beil. S.&#160;2 (MEGA² I/20. S.&#160;16–25 und
+                            920–929). (((l(Marx, Karl:) Manifest an die arbeitende Klasse Europa’s.
+                            In: Der Social-Demokrat. Berlin. Nr.&#160;2, Probenr., 21.&#160;Dezember
+                            1864. S.&#160;1-S. 3; Nr.&#160;3., Probenr., 30.&#160;Dezember 1864.
+                            Beil. S.&#160;2 (MEGA² I/20. S.&#160;16–25) ))) - [Karl Marx:]
+                            Provisorische Bestimmungen der „Internationalen Arbeiter-Association“.
+                            In: Der Social-Demokrat. Berlin. Nr.&#160;10, 18.&#160;Januar 1865.
+                            S.&#160;2-3 (MEGA² I/20. S.&#160;54–66 und 992–996). (((l[Marx, Karl:]
+                            Provisorische Bestimmungen der „Internationalen Arbeiter-Association“.
+                            In: Der Social-Demokrat. Berlin. Nr.&#160;10, 18.&#160;Januar 1865.
+                            S.&#160;2-3 (MEGA²&#160;I/20. S.&#160;54–66))) </note></seg> And could
+                    you send them here with your <hi rendition="#u">corrections</hi>? <seg type="comment"><orig>It would be printed here, and no doubt bring part of
+                            the necessary funds.</orig><anchor type="verweisziel" xml:id="stop_qk5_rjk_nz"/><note xml:id="baf67a25-a786-4da9-b8d2-9588e519036c">Diese Broschüre erschien
+                            nicht. Zu Publikationen siehe MEGA²&#160;I/20. S.&#160;922–929.
+                            (((lMEGA²&#160;I/20))) </note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_g4b_stk_nz"/>About Leipzig I shall write when I have
+                            returned there.<anchor type="verweisziel" xml:id="stop_g4b_stk_nz"/></orig><note xml:id="fda124b4-b219-4541-a057-8f8d23914330">Siehe <ref target="B00011/#start_vwb_zhj_nz">Marx an W. Liebknecht,
+                                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170410T104303+0200" comment="{Br. 10.42–48}}"?>1866<?oxy_comment_end?>
+                            </ref>und <ref target="B00033/#start_lh5_k3j_nz">W. Liebknecht an Marx,
+                                8.2.<?oxy_comment_start author="reichhoff" timestamp="20170410T104623+0200" comment="{Br. 30.9–17}}"?>1866<?oxy_comment_end?>.</ref></note></seg></p><p sameAs="MBTextmitEinzug">Many Grüsse from the friends and your</p><closer sameAs="MBUnterschrift"><signed>J. Miller.</signed></closer><postscript><p>In your letter (which ought to be copied by <seg type="comment"><orig>Jane</orig><note xml:id="e7940c60-e33d-4ecc-b3b6-b829fe3f84ce"><persName key="pdrPo.001.004.000003074">Jenny Marx</persName> (Tochter).
+                            </note></seg>) you must give full and clear particulars about the
+                        organisation and aims of the I.&#160;A. and in fact, you must write it so,
+                        that it can be shown about, and used for propa<pb/>gandistic purposes.
+                        However you will know yourself what is to the point.</p></postscript><p rend="MBTextMitEinzug"><expan resp="editor" sameAs="dottet_underline">Rem<ex>em</ex>ber</expan> me to your family.</p><postscript><p>I shall be back in Leipzig in <hi rendition="#u">two days</hi>. </p></postscript></div></body></text></TEI>

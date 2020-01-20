@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00043" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>40</idno>August Schlag an Karl Marx in London. New York, Mittwoch, 14.
+                    Februar 1866</title>
+            </titleStmt>
+            <editionStmt>
+                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 3970/D VII 38. Fotosign. 3178</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt dünnem, weißem, kariertem Papier im
+                            Format 160&#160;×&#160;250&#160;mm. Die erste Seite hat Schlag
+                            vollständig beschrieben, die zweite ist leer. Schreibmaterial: schwarze
+                            Tinte.</p>
+                        <p>Die Schreibweise wurde nicht korrigiert.</p>
+                        <p>Der Brief war vermutlich in einem Umschlag mit dem Brief von Friedrich
+                            Wilhelm Moll an Marx vom 14.&#160;Februar 1866 (siehe dort sowie„an Ihn
+                            einiche Zeilen“ und „Meine Adresse ...“) abgeschickt worden.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1639</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_cbz_fkp_wx">August Schlag</persName>
+                    <placeName>New York</placeName>
+                    <date when="1866-02-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:38:40Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener><dateline sameAs="MBDatumszeile"><pb/> New-York den 14<hi rendition="#sup">ten</hi> Februar 66</dateline><salute sameAs="MBAnrede">Geherter Herr
+                        Marx</salute></opener>
+                <p sameAs="MBTextohneEinzug">Ich erlaube mier auch, ubekande weise an Ihn einiche
+                    Zeilen zu Schreiben, en dem mein Freund <persName key="ed_ksb_ssd_xx">Moll</persName> an Ihn Schreibt. Ich habe nemlich schon seid einichen
+                    Jahren von Ihnen gehert, u. aufmerksam gewesen auf Ihre Schriften. <seg type="comment"><orig>Als Sie im Social <bibl sameAs="zzSD">Demokrat</bibl>
+                            Schrieben nach Berlin.</orig><note xml:id="b247712d-de97-4103-a558-e638d8e47159">Marx und Engels arbeiteten
+                            an der Zeitung „Der Social-Demokrat“ (Berlin) (((zDer_Social-Demokrat)))
+                            von November 1864 bis Februar 1865 mit. Siehe dazu MEGA²&#160;III/13.
+                            Br.&#160;30 und Erl._30.16, Br._116 und Erl._116.6-7 sowie Br._142 und
+                            Erl._142.79-80. (((lMEGA²&#160;III/13))) </note></seg> woh ich mier
+                    sehre Freude. Ich wahr damals Bevollmagtichter des Alg. Deutschen Arbeiter
+                    Vereins in Naumburg an der Saale, u. vorher Mitglied in Hamburg, herte damahls
+                    ofte von Ihn sprechen, durch <persName key="pdrPo.001.004.000000639">Karl
+                        Bruhn</persName>, welchen ich 3&#160;Jahre lang kante, ich aber nicht viel
+                    von Ihm hielt, denn Ehr wahr sich in vielen Dinge nicht klahr, was Sieh
+                    vieleicht besser kenen als ich, ich binn jetst Vohrsitzenter <seg type="comment"><orig>des Deutschen Arbeiter Vereins in New-York,</orig><note xml:id="a48e6a5e-2005-4b8b-9871-4fabe5e63083">Siehe <ref target="B00042/#start_iqh_4yq_nz">F. W. Moll an Marx,
+                                14.2.<?oxy_comment_start author="reichhoff" timestamp="20170411T115517+0200" comment="{{Br. 39.3–6}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    in welchen mier von Herrn <persName key="ed_ksb_ssd_xx">Moll</persName>
+                    <seg type="comment"><orig>Ihr Mannifest von 48</orig><note xml:id="f24bc06d-f7cd-4783-a336-4abe2f2c25a9">[Karl Marx, Friedrich
+                            Engels:] Manifest der Kommunistischen Partei. London (1848).
+                            (((l[Marx,Karl, Friedrich Engels:] Manifest der Kommunistischen Partei.
+                            London (1848) ))) </note></seg> vohrgelecht worde u. ebenfals <seg type="comment"><orig>den Karl Vogt</orig><note xml:id="e8c66add-e597-4f92-9b6a-c59273f6501e">Karl Marx: Herr Vogt.
+                            London 1860. (MEGA²&#160;I/18. S.&#160;55–339). (((lMarx,Karl: Herr
+                            Vogt. London 1860. (MEGA² I/18. S.&#160;55–339).))) </note></seg>,
+                    (((lMarx,Karl:HerrVogt))) welches mier stehts neuhe aufklährung gegeben hatt, wo
+                    ich Ihn sehr Dankbahr dafür bin, aber noch mehr würde es mier freuhen, wenn wier
+                    mit Ihren Verein, oder mit Ihnen in Korispontentz komen kenen indem es führ uns
+                    eine gute stütze, u. belehrung wehre, Es hoft baldichst eine Antwort von Ihn</p>
+                <p sameAs="MBTextmitEinzug"><!--<hi rend="color(0000FF)">{u2}</hi>-->Es grüßt
+                    aufrichtich Ihr</p>
+                <closer sameAs="MBUnterschrift"><signed>August Schlag</signed></closer>
+                <postscript>
+                    <p><seg type="comment"><orig>Meine Adresse ist diselbe wie an Moll.</orig><note xml:id="b12040ec-9220-4dcd-8a69-5338e9a4b36f">Siehe <ref target="B00042/#start_qnn_wzq_nz">F. W. Moll an Marx,
+                                    14.2.<?oxy_comment_start author="reichhoff" timestamp="20170411T120522+0200" comment="{{Br. 39.49–53}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    </p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

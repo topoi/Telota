@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00002" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>1a</idno>Arnold Hilberg’s Verlag an Karl Marx in London. Wien, Dienstag, 2. Januar 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 2324/D IV 248–1. Fotosign.
+                            7784a–b</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            443&#160;×&#160;282&#160;mm. Aufdruck auf der ersten Seite oben links:
+                            „<?oxy_comment_start author="strauss" timestamp="20170613T112800+0200" comment="(((Fa.Arnold Hilberg&apos;s Verlag)))"?>Arnold
+                            Hilberg’s Verlag<?oxy_comment_end?>. Wien, 1.&#160;Bäckerstraße&#160;30,
+                            1.&#160;Stock.“ Die erste Seite hat ein Schreiber vollständig
+                            beschrieben, die zweite zu drei Vierteln, die dritte ist leer, die
+                            vierte Seite wurde als Adressseite benutzt. Schreibmaterial: schwarze
+                            Tinte.</p>
+                        <p>Auf der Adressseite zwei Briefmarken zu 10 und 15 Kreuzern, Vermerke der
+                            Post: „14&#160;x&#160;X“ sowie fünf Poststempel: „Wien 2 1 6. A.“
+                            (zweimal), „London Paid A 5&#160;Ja&#160;66“, „P.D.“ und „London N.W. A
+                            F Ja&#160;5&#160;66“.</p>
+                        <p>Archivsignatur des SPD-Archivs auf der ersten Seite: „II 16 J 1a“.</p>
+                        <p>Die Beilage („Beiliegendes Blatt“), ein Blatt aus einer unbekannten
+                            Zeitschrift, ist überliefert.
+                            <?oxy_comment_start author="strauss" timestamp="20170609T145718+0200" comment="Siehe Abbildung/Faksimile"?></p>
+                        <?oxy_comment_end?>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1626</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><orgName key="ed_zmj_ltj_wx">Arnold Hilberg’s Verlag</orgName><placeName>Wien</placeName><date when="1866-01-02"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction>
+                <note>Marx hatte den Brief <ref target="B00013">seinem Brief an Engels vom
+                        15.&#160;Januar 1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170609T133504+0200" comment="(siehe {{Br. 12.7}})"?>
+                    <?oxy_comment_end?>beigelegt. <ref target="B00015">Seine Antwort an Arnold
+                        Hilberg’s Verlag, geschrieben am 15.&#160;Januar
+                    1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170609T133431+0200" comment="(siehe {{Br. 14.5}})"?>,<?oxy_comment_end?>
+                    ist nicht überliefert.</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:02Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                                                  <p sameAs="MBAdresse"><pb/> Sr.
+                                                  Wolgeboren<lb/>Herrn D<hi rendition="#sup">r</hi>
+                                                  Karl Marx in <hi rendition="#u">London</hi>.</p>
+                                                  <opener>
+                                                  <dateline sameAs="MBDatumszeile">Wien,
+                                                  2.&#160;Jänner 1866.</dateline>
+                                                  <salute sameAs="MBAnrede">Hochgeehrter
+                                                  Herr!</salute>
+                                                  </opener>
+                                                  <p sameAs="MBTextohneEinzug">Entschuldigen Sie
+                                                  geneigtest, wenn ich mir gestatte, Sie mit den
+                                                  nachstehenden Zeilen zu belästigen, für dieselben
+                                                  Ihre gütige Beachtung erbittend.</p>
+                                                  <p sameAs="MBTextmitEinzug">Ich beabsichtige,
+                                                  geleitet von der Erkenntniß, daß diese Richtung in
+                                                  der deutschen Journalistik noch nicht, wenigstens
+                                                  nicht genügend vertreten ist, <seg type="comment"><orig>eine neue Zeitschrift</orig><note xml:id="f7277f7a-c570-4f11-85f5-bd1a4833e97f">“<bibl sameAs="zzInternationale Revue">Internationale Revue“ (Wien).
+                                                  </bibl></note></seg> zu gründen, welche die
+                                                  fortschreitende Entwicklung der außerdeutschen
+                                                  Culturwelt in socialer und scientifischer Hinsicht
+                                                  im Auge behaltend, alle hervorragenden Momente
+                                                  derselben, wie nicht minder deren Gesammtbild in
+                                                  eingehender Weise zur Darstellung bringen soll.
+                                                  Sie soll somit <choice>
+                                                  <sic>zwißen</sic>
+                                                  <corr cert="high">zwischen</corr>
+                                                  </choice> der deutschen und außerdeutschen
+                                                  Culturwelt vermittelnd wirken, indem sie die
+                                                  Erscheinungen der leztern in Deutschland
+                                                  popularisirt und anderseits dem Auslande die
+                                                  Kenntniß der deutschen Auffaßung derselben, des
+                                                  deutschen Urtheils über dieselbe vermittelt.</p>
+                                                  <p sameAs="MBTextmitEinzug">Dies ist in bündigster
+                                                  Faßung das Programm der von mir projectirten
+                                                  Zeitschrift, deßen Detaillirung, sowie die
+                                                  Festsetzung näherer äußerlicher Modalitäten (Titel
+                                                  ect.) ich mir vorbehalte. </p>
+                                                  <p sameAs="MBTextmitEinzug"><pb/> Diese
+                                                  Zeitschrift soll in Monatsheften von je
+                                                  10&#160;Bogen größtes Lexiconoctav in elegantester
+                                                  Ausstattung erscheinen. <seg type="comment"><orig>Beiliegendes Blatt</orig><note xml:id="a132d1e9-b7e3-484b-91d0-adbdbc98a799">Siehe S.&#160;000 {{{Abbildung des
+                                                  Blatts}}}</note></seg> gibt von dem Format ein
+                                                  genaues, von der tipogr. Anordnung ein annäherndes
+                                                  Bild.</p>
+                                                  <p sameAs="MBTextmitEinzug">Ich honorire den Bogen
+                                                  von 16 solchen Seiten mit ös&#160;W. f&#160;64.
+                                                  –.</p>
+                                                  <p sameAs="MBTextmitEinzug">Nach Form und Inhalt
+                                                  wird diese Zeitschrift den hervorragendsten
+                                                  Publicationen an die Seite treten; ich habe schon
+                                                  jezt die angenehme Gewißheit, daß die
+                                                  hervorragendsten geeigneten schriftstellerischen
+                                                  Kräfte sich literarisch dabei betheiligen
+                                                  werden.</p>
+                                                  <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Ich gestatte mir nun, Hochgeehrter Herr, an
+                                                  Sie die ebenso höfliche als ergebene Bitte zu
+                                                  richten, diesem Unternehmen auch Ihre geneigte
+                                                  Mitwirkung zuwenden zu wollen,</orig><note xml:id="b076d9e2-fbdc-4bf3-bb1a-2d41aae8ac83">Marx
+                                                  besprach diesen Vorschlag mit Engels (siehe <ref target="B00013">Marx an Engels,
+                                                  15.1.<?oxy_comment_start author="reichhoff" timestamp="20170407T123018+0200" comment="{{Br. 12.7}}"?>1866<?oxy_comment_end?></ref>),
+                                                  und schrieb auch an Hilberg’s Verlag, vermutlich
+                                                  zustimmend, über seine Mitarbeit (siehe <ref target="B00015">A. Hilberg’s Verlag an Marx,
+                                                  18.1.<?oxy_comment_start author="reichhoff" timestamp="20170407T123759+0200" comment=" {{Br. 14.5–7}}"?>1866<?oxy_comment_end?></ref>).
+                                                  Siehe auch <ref target="B00040/#start_e3j_rc4_mz">Marx an Engels,
+                                                  14.2.<?oxy_comment_start author="reichhoff" timestamp="20170407T124645+0200" comment="{{Br. 37.4–7}}"?>1866<?oxy_comment_end?></ref>,
+                                                  <ref target="B00051">A. Hilberg’s Verlag an Marx,
+                                                  Anfang März 1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170313T114949+0100" comment="{{Br. 48}}"?>,<?oxy_comment_end?>
+                                                  <ref target="B00099">April
+                                                  <?oxy_comment_start author="reichhoff" timestamp="20170313T115947+0100" comment="{{Br. 95}}"?>1866<?oxy_comment_end?></ref>
+                                                  und <ref target="B00105">4.5.<?oxy_comment_start author="reichhoff" timestamp="20170313T120402+0100" comment="{{Br. 101}}"?>1866<?oxy_comment_end?></ref>.
+                                                  </note></seg> und habe die Ehre, mit dem Ausdrucke
+                                                  größter Hochachtung mich zu nennen</p>
+                                                  <closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u2}</hi>-->Ihren<lb/>ganz
+                                                  ergebensten<lb/>Arnold Hilberg’s Verlag
+                                                  </closer>
+                                                  <p sameAs="MBAdresse">/ Adr.<lb/>1 Einl.<lb/>fr.
+                                                  /</p>
+                                                  <p sameAs="MBAdresse"><pb/>&#160;Sr.
+                                                  Wolgeboren<lb/>Herrn <hi rendition="#u"><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>D</hi><hi rend="italic superscript"><hi rendition="#sup">r</hi></hi><hi rendition="#u"> Karl
+                                                  Marx<?oxy_custom_end?></hi><lb/>1, Modena Villas,
+                                                  Maitland Park,<lb/>Haverstock Hill<lb/><hi rendition="#u">London</hi>.</p>
+                                                  <p sameAs="MBAdresse">Absender:<lb/>Arnold
+                                                  Hilberg’s Verlag<lb/>I.&#160;Bäckerstr.
+                                                  30.<lb/>Wien.</p>
+                                                  <p sameAs="MBAdresse"><hi rendition="#u">fr.</hi>
+                                                  </p>
+                                                  </div></body></text></TEI>

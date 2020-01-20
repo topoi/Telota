@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00023" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>22</idno>S. Nördlinger an Friedrich Engels in Manchester. Manchester, Freitag, 26. Januar 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+          <msIdentifier>
+            <institution>IISG</institution>
+            <collection>Marx-Engels-Nachlass</collection>
+            <idno><idno type="shelfmark">L 5136/L VII 176. Fotosign. 14982a–b</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              229&#160;×&#160;184&#160;mm. Wasserzeichen: „Towgood’s Extra Super“. Prägung: ein
+              Wappenschild im Kreis mit der Schrift „London Extra Super“. Die ersten drei Seiten hat
+              Nördlinger vollständig beschrieben, die vierte zu einem Drittel. Schreibmaterial:
+              schwarze Tinte.</p>
+            <p>Von unbekannter Hand: Unterstreichungen mit Bleistift auf der ersten und dritten
+              Seite.</p>
+            <p>Archivsignatur des SPD-Archivs auf der ersten Seite: „II&#160;21&#160;L&#160;2.“ </p>
+            <p>Die Beilagen („Beiliegender Brief“ und „noch einen Brief“) sind nicht überliefert. </p>
+          </physDesc>
+          <additional>
+            <listBibl>
+              <bibl>RGASPI f. 1 op. 3 d. 45</bibl>
+            </listBibl>
+          </additional>
+        </msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_q1x_tqj_sx">S. Nördlinger</persName><placeName>Manchester</placeName><date when="1866-01-26"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:26Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 26/1/66.</dateline><salute sameAs="MBAnrede">Lieber Herr Engels.</salute></opener><p sameAs="MBTextohneEinzug">Beiliegender Brief <expan resp="editor" sameAs="dottet_underline">d<ex>es</ex></expan> Hr.&#160;<persName key="pdrPo.001.004.000000692">Burkhard</persName>
+                                        zur <expan resp="editor" sameAs="dottet_underline">gef<ex>älligen</ex></expan> Einsicht – <seg type="comment"><orig>Ich antwortete ihm:</orig><note xml:id="fc3f9388-7bd7-4578-a28a-5dd02725afee"><persName key="ed_q1x_tqj_sx">Nördlinger</persName> bezieht sich, als Mitglied
+                                                  der Schiller-Anstalt in Manchester, einem Ort der
+                                                  geselligen, literarischen und wissenschaftlichen
+                                                  Betätigung der in der Stadt ansässigen Deutschen,
+                                                  offensichtlich auf das Vorhaben ihres
+                                                  Direktoriums, ein neues Gebäude für die Anstalt zu
+                                                  errichten. Anfang 1866 hatte das Direktorium damit
+                                                  begonnen, unter Mitgliedern Spenden für den Neubau
+                                                  zu sammeln.</note></seg></p><p sameAs="MBTextmitEinzug">Wenn wir ein Versprechen geben wie M<hi rendition="#sup">r</hi>&#160;<persName key="pdrPo.001.004.000000276">Bates</persName> es verlangt so müßten wir uns doch frei halten – etwa auftauchende Anträge <hi rendition="#u">für uns</hi> <hi rendition="#uu">zu bauen</hi> demungeachtet in Berücksichtigung zu ziehen –</p><p sameAs="MBTextmitEinzug">Den Plot selbst betreffend sprach ich die Befürchtung aus – daß wir da bloß sehr dunkle Räume <pb/> bekommen würden – der Preis leuchtet mir nicht ein – denn wenn £&#160;13 für den guten &amp; schlechten Theil genügen sehe ich nicht ein wie so der schlechte allein £&#160;14 o. 15 werth sein sollen –</p><p sameAs="MBTextmitEinzug">Commissions Sitzung würde mir für Montag Mittag etwa um 2½&#160;Uhr passen – (Abends kann ich Montag nicht) und können wir da entweder unter uns oder mit Hrn <persName key="pdrPo.001.004.000000276">Bates</persName> die Sache besprechen</p><closer sameAs="MBUnterschrift">fdschaftlich<lb/>SNördlinger </closer><postscript><p><pb/> Ich lege noch einen Brief von M<hi rendition="#sup">r</hi>&#160;<persName key="pdrPo.001.004.000000276">Bates</persName> bei
+                                                den Hr&#160;<persName key="pdrPo.001.004.000000692">Burkhard</persName> mir heute Morgen brachte –
+                                                Der Vorschlag scheint mir wenig annehmbar oder
+                                                eigentlich richtiger gesagt unsere Kräfte zu
+                                                übersteigen – Ueberdieß £&#160;20 <expan resp="editor" sameAs="dottet_underline">p<ex>er</ex></expan>&#160;Square Yard ist ein
+                                                enormer Preis – Mir will es anderseits bedünken, daß
+                                                  M<hi rendition="#sup">r</hi>&#160;<persName key="pdrPo.001.004.000000276">Bates</persName> die
+                                                Kosten für den Bau zu niedrig anschlägt – Wie es
+                                                sich mit dem Mortgage einrichten lassen könnte – ist
+                                                der andere <pb/> kitzliche Punkt den wir ja schon
+                                                oftmals besprochen haben.</p></postscript><p sameAs="MBTextmitEinzug">Bitte die Einlagen zu retourniren </p></div></body></text></TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00140" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>136</idno>Hermann Engels an Friedrich Engels in Manchester. Barmen, Freitag, 13. Juli 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">Standort Orig. nicht bekannt; Kopie: f. 9 op. 1 d. 11/18 Fotosign. 630a&lt;–&gt;b.</idno></idno></msIdentifier><physDesc><p>Der Standort der Originalhandschrift ist zur Zeit nicht bekannt. Die Veröffentlichung erfolgt nach einer Fotokopie: RGASPI, Sign. f.&#160;9, op.&#160;1, d.&#160;11/18. Fotosign. 630a&lt;–&gt;b.</p><p>Soweit aus der Fotokopie zu ersehen ist, besteht der Brief aus einem Bogen, dessen zwei Seiten
+                            Hermann Engels vollständig beschrieben hat, die dritte Seite zu einem
+                            Drittel. Die Passage „Reclamation  ... hier“<?oxy_comment_start author="lindenberg" timestamp="20170424T132016+0200" comment="„Reclamation {bis} hier“"?>
+                            <?oxy_comment_end?>(Z.&#160;35) ist quer am linken Rand der zweiten
+                            Seite niedergeschrieben.</p><p>Von unbekannter Hand: Numerierung der Briefes: „630“.</p><p>Hermann Engels beantwortet zwei nicht überlieferte Briefe von Engels, geschrieben am 6. und 19.&#160;Juni 1866 (Z.&#160;3).</p><p>Die Beilage (Z.&#160;11) ist nicht überliefert.</p></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000001375">Hermann Engels</persName><placeName>Barmen</placeName><date when="1866-07-13"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:40Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> Barmen 13. Juli 1866.</dateline>
+                    <salute sameAs="MBAnrede">Lieber Friedrich!</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug">Deine beiden Briefe vom 6 &amp; 19.&#160;Juni habe ich
+                    erhalten &amp; mir bemerkt, daß wir nun über unsere Buchungen in Ordnung
+                    gehen.</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_jby_zw3_nz"/><orig>Die Contractgeschichte zwischen uns
+                            &amp; Funke</orig><note xml:id="f3155e3e-1ca2-403d-b8c5-9475cfa429d1">Zu
+                            den Verhandlungen und dem Kontrakt mit der Firma <orgName key="pdrPo.001.015.000090261">Robert
+                                Funke&#160;&amp;&#160;Co.</orgName> siehe <ref target="B00018/#a764c933-1f9d-4cb0-b8f5-2afc8056a8ad">Erl. zu H.
+                                Engels an Engels,
+                                20.1.<?oxy_comment_start author="reichhoff" timestamp="20170513T155034+0200" comment="{{Erl. 17c}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                    wird jetzt in den Händen des dortigen Advokaten sein &amp; dann wohl nun rasch
+                    erledigt werden.<anchor type="verweisziel" xml:id="stop_jby_zw3_nz"/> Seit <seg type="comment"><orig>dem Krieg</orig><note xml:id="b15f4bac-3b93-4378-8fcf-200e954af2c6">Der Deutsche Krieg
+                            1866.</note></seg> ist's auch in unserm Geschäft sehr still geworden,
+                    obschon hin &amp; wieder doch auch Einiges bestellt wird, weil kein Mensch den
+                    geringsten Vorrath hat. – Wir arbeiten 3&#160;Tage. – An
+                        <?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?>P.&#160;<persName key="ed_jmn_b4k_sy">Hüttemann</persName><?oxy_custom_end?> in Düsseldorf
+                    haben wir am 21.&#160;Juni <expan resp="editor" sameAs="dottet_underline">r<ex>eichstaler</ex></expan>&#160;60.–.– für den dortigen <seg type="comment"><orig>Albert-Club</orig><note xml:id="b9b89096-6fed-4c1f-98d2-76c4389fa898">Der Albert Club in
+                            Manchester; siehe <ref target="B00068/#ca5c114d-587d-4979-ac9f-cefad47c8780">Erl. zu R. Bredt
+                                an Engels,
+                                17.3.<?oxy_comment_start author="reichhoff" timestamp="20170513T155358+0200" comment="{{Erl._64b}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                    bezahlt laut einl. Quittung &amp; Dich dafür belastet.&#160;– <persName key="ed_z21_nts_gz">Justus Poscher</persName> hat uns seine Tratte von Th
+                    14.1.– 3&#160;Tage Sicht avisirt, bei Vorkommen werden wir sie einlösen zu
+                    Deinen Lasten.</p>
+                <p sameAs="MBTextmitEinzug">Was sagst Du aber jetzt von der Kriegführung, der
+                    Courage &amp; den Zündnadelgewehren der Preußen? &amp; das Alles gegen einen
+                        <persName key="pdrPo.001.004.000000355">Benedeck</persName>; denn <seg type="comment"><orig>so, wie bei Sadowa</orig><note xml:id="e0673857-154a-409d-99fd-99ecea042997"> Schlacht bei Sadowa, nach
+                            einem der umkämpften Dörfer, ist eine andere Bezeichnung für die
+                            Schlacht bei Königgrätz (1866).</note></seg> ist Oesterreich doch seit
+                    außerordentlich langer Zeit nicht geschlagen worden, obschon sie sich den Platz
+                    <pb/> für die Schlacht lange vorher gut ausgesucht hatten. Es war ein Vergnügen
+                        <seg type="comment"><orig>über diese Schlacht den Bericht des <bibl sameAs="zzThe Times">Times</bibl>-Correspondenten zu
+                            lesen.</orig><note xml:id="npsk_jh2_gz"><note xml:id="cd8bc363-34bb-43c1-83af-f29ee419f94f"><persName key="pdrPo.001.004.000001375">Hermann Engels</persName>  erwähnt
+                                vermutlich die zwei umfangreichen Beiträge: The battle of Sadowa.
+                                (From our military correspondent with the Prussian army.) In: The
+                                Times. London. Nr.&#160;25_546, 10.&#160;Juli 1866. S.&#160;9 und
+                                The Austrian defeat. The battle of Sadowa. (From our special
+                                correspondent.) Ebenda. Nr.&#160;25_547, 11.&#160;Juli 1866.
+                                S.&#160;9–11. (((lThe battle of Sadowa. (From our military
+                                correspondent with the Prussian army.) In: The Times. London.
+                                Nr.&#160;25_546, 10.&#160;Juli 1866. S.&#160;9))) (((lThe Austrian
+                                defeat. The battle of Sadowa. (From our special correspondent.)
+                                Ebenda. Nr.&#160;25_547, 11.&#160;Juli 1866. S.&#160;9–11)))
+                            </note></note></seg></p>
+                <p sameAs="MBTextmitEinzug">Jetzt wird's nun nächster Tage bei Erfurt &amp; Hanau
+                    losgehen &amp; obschon es ein Jammer ist, daß die Süddeutschen, noch nicht klug
+                    werden wollen &amp; so viel Blutvergießen veranlassen, hoffe ich von Herzen, daß
+                    die Preußen rasch siegen &amp; die Beschießung Erfurts nicht nöthig sein wird.
+                    –Schreibe mir mal, was man dort jetzt von den Preußen sagt &amp; sei von Allen
+                    hier herzlich gegrüßt, ebenso von Deinem</p>
+                <closer sameAs="MBUnterschrift">
+                    <signed>Hermann.</signed>
+                </closer>
+                <postscript>
+                    <p>Mit dem Capitaine d'Armes werden hat's jetzt gute Wege; die Zeiten sind
+                        vorüber; aber <seg type="comment"><orig>der Bräutigam</orig><note xml:id="fc3d7487-b246-4111-8a52-37c85ca1fe65"><persName key="ed_fzq_5lg_yx">Robert Barthels</persName>.  </note></seg>
+                        von
+                        <?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?>Marie
+                            <persName key="pdrPo.001.004.000000459">Blank</persName><?oxy_custom_end?> ist mit fort &amp; ist deshalb doch
+                        einige Unruhe in der Familie; morgen soll er mit an den Main ausrücken;
+                        hoffentlich wird er in Folge einer von 3&#160;Seiten befürworteten
+                        Reclamation noch vor der Action hier. </p>
+                </postscript>
+                <p rend="MBTextMitEinzug"><pb/> Der Bräutigam von
+                    <?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?>Marie
+                        <persName key="pdrPo.001.004.000000459">Blank</persName><?oxy_custom_end?>,
+                    <?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?>Rob.
+                        <persName key="ed_fzq_5lg_yx">Barthels</persName><?oxy_custom_end?> hat
+                    soeben telegraphirt, daß er entlassen sei &amp; morgen wieder hier eintreffen
+                    würde. <seg type="comment"><orig>Darüber großer Jubel im Hause!</orig><note xml:id="ny4b_fr2_gz">Die Hochzeit von <persName key="pdrPo.001.004.000000459">Marie Blank</persName> (Tochter), der
+                            Nichte von Engels, fand am 12. September 1866 statt.  </note></seg></p>
+            </div></body></text></TEI>

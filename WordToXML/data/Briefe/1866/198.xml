@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00205" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>198</idno>Elisabeth Engels an Friedrich Engels in Manchester. Barmen, Samstag, 8. Dezember 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">Standort Orig. nicht bekannt; Kopie: f. 9 op. 1 d. 6/16 Fotosign. 786a&lt;–&gt;b.</idno></idno></msIdentifier><physDesc><p>Der Standort der Originalhandschrift ist zur Zeit nicht bekannt. Die Veröffentlichung erfolgt nach einer Fotokopie: RGASPI, Sign. f.&#160;9, op.&#160;1, d.&#160;6/16. Fotosign. 786a&lt;–&gt;b.</p><p>Soweit aus der Fotokopie zu ersehen ist, besteht der Brief aus einem Bogen, dessen  vier
+                            <?oxy_comment_start author="lindenberg" timestamp="20170425T132340+0200" comment="ursprünglich:
+dessen alle vier Seiten"?>Seiten<?oxy_comment_end?>
+                            Elisabeth Engels vollständig beschrieben hat. Die letzte Passage steht
+                            am linken (Z.&#160;53–58, von „wird der Brief“ bis „Schrutenbraten.“)
+                            bzw. am oberen Rand (Z.&#160;56–58, von „Leb wohl“ bis „E.“) der vierten
+                            Seite quer bzw. kopfstehend niedergeschrieben. Schreibmaterial: schwarze
+                            Tinte.</p><p>Das Papier wurde gelocht, die zwei dadurch entstandenen Textverluste (Z.&#160;42 und 57) konnten rekonstruiert werden.</p><p>Von unbekannter Hand: Numerierung des Briefes: „786“.</p></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                    <persName key="pdrPo.001.004.000001367">Engels, Elisabeth (1797-1873)</persName><placeName>Barmen</placeName><date when="1866-12-08"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:40:17Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> Barmen 8 Decbr. 1866</dateline>
+                    <salute sameAs="MBAnrede">Lieber Friedrich!</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Ich habe recht lange nichts
+                            von Dir gehört</orig><note xml:id="dc62e085-9397-4d93-9cd1-7bc84cb6d04e">Siehe auch <ref target="B00186/#start_jhk_drs_5z">E. Engels an Engels,
+                                15.10.<?oxy_comment_start author="reichhoff" timestamp="20170506T181457+0200" comment="{{Br. 181.3–7}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    deshalb muß ich Dir einen kleinen Rippenstoß geben, damit Du einmal wieder an
+                    die alte Heimat u. die alte Mutter denkst. Ich sage Dir also hiermit, daß Dein
+                    Weihnachts-Geschenk wahrscheinlich jetzt in London auf <persName key="pdrPo.001.004.000000458">Emil Blanks</persName> Comptoir ist, wenn es
+                    nicht schon in Deinen Händen ist. Du wirst Dich erinnern daß Du <seg type="comment"><orig>bei Deiner Anwesenheit hier</orig><note xml:id="cb3f2bf3-a283-42b4-a90e-ecc7f2e613d7">Engels‘ Deutschlandreise
+                            im August/September 1866 (siehe <ref target="B00148/#ed7465d7-c7d0-4b8f-9b6a-d7b144a87d0c">Erl. zu Engels
+                                an Marx,
+                                6.8.<?oxy_comment_start author="reichhoff" timestamp="20170519T133442+0200" comment="{{Erl. 144e}}"?>1866<?oxy_comment_end?></ref>).</note></seg>
+                    darüber klagtest, daß Deine Uhrkette dünn u. verschlissen sei, ich habe Dir
+                    daher eine recht starke u. von ganz feinem Gold machen lassen u. <anchor type="verweisziel" xml:id="start_o1v_5rs_5z"/>Emil B. schickte sie vor
+                    8&#160;Tagen in eine seiner Kisten mit verpackt nach London, wo jetzt der <seg type="comment"><orig>Emil&#160;jr.</orig><note xml:id="fadbd811-11cd-44e4-a512-00e99c9d1b37"><persName key="pdrPo.001.004.000000456">Emil Blank</persName>. </note></seg>
+                    ist u. auch dort bleibt,<anchor type="verweisziel" xml:id="stop_o1v_5rs_5z"/>
+                    letzterer sagte mir zwar er wolle Dir die Kette selbst bringen, von seinem <pb/>
+                    Papa höre ich aber daß er vorläufig diese Reise noch nicht machen wird, wenn er
+                    die Kette also nicht schickt u. auch selbst nicht kommt, dann m<supplied cert="high">e</supplied>lde Dich bei ihm u. laß sie Dir schicken. Das Façon
+                    an der Kette ist jetzt mode, viele junge Herrn tragen auch noch einige Berlocs
+                    daran, da ich aber weiß daß Du dergleichen Schmuck nicht liebst, so habe ich ihn
+                    nicht daran machen lassen, ich hoffe nun sie wird Dir gefallen.</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Ich bin seid anfangs Novbr.
+                            wieder hier</orig><note xml:id="b8b5f5aa-15b0-47cc-a7ce-3d856a145ac7">Siehe <ref target="B00122/#fa653b3c-08c6-44cf-aa01-e371f6e69a53">E.
+                                Engels an Engels,
+                            8.6.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170508T180247+0200" comment="{{Erl. 118a}}"?>.<?oxy_comment_end?></note></seg>
+                    u. es hat mir bis jetzt gut gegangen. In der Familie geht es auch Gott sei Dank
+                    im Ganzen gut, nur <seg type="comment"><orig>Hedwig</orig><note xml:id="ce59e38d-9891-43ff-9522-05a9cb6f5cd1"><persName key="pdrPo.001.004.000000502">Hedwig Boelling</persName>.
+                        </note></seg> hat etwas Krankheit bei den Kindern gehabt, <persName key="pdrPo.001.004.000000499">Elise&#160;<expan resp="editor" sameAs="dottet_underline">B<ex>oelling</ex></expan></persName> bekam das
+                    Scharlachfieber u. obgleich ich der Hedwig vorschlug die andern Kinder aus dem
+                    Hause zu thun, meinte sie <pb/> man könne sie doch schon trennen u. nach
+                    14&#160;Tagen bekam <seg type="comment"><orig>Helene</orig><note xml:id="c7bc88d2-4bea-45a9-b6f3-d9564e289e4d"><persName key="pdrPo.001.004.000000503">Helene Boelling</persName>.
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></note></seg><?oxy_custom_end?>
+                    es auch, darauf hat sie mir dann <seg type="comment"><orig>die
+                            3&#160;Kleinsten</orig><note xml:id="ef9b46ba-6451-48e2-be81-42a4d213f660"><persName key="pdrPo.001.004.000000500">Friedrich Wilhelm</persName>,
+                                <persName key="pdrPo.001.004.000000505">Marie</persName> und
+                                <persName key="ed_fh3_2nh_yx">Hedwig Boelling</persName>.
+                        </note></seg> geschickt u. <seg type="comment"><orig>die
+                            ältesten</orig><note xml:id="cd8fcbff-5aa3-4bd0-b20f-458dc1254857"><persName key="pdrPo.001.004.000000498">Anna</persName> und
+                                <persName key="pdrPo.001.004.000000504">Klara Boelling</persName>.
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></note></seg><?oxy_custom_end?>
+                    sind bei <persName key="ed_tlg_fry_pz">August&#160;<expan resp="editor" sameAs="dottet_underline">B<ex>oelling</ex></expan></persName> seid
+                    3&#160;Wochen. Die beiden Kranken sind bald wieder besser u. in 14&#160;Tagen
+                    werden sie wol wieder Alle zusammen sein. Ich lebe jetzt etwas in Christtags
+                    Unruhe, habe viel zu besorgen ohne doch recht was thun zu können, denn es ist
+                    stürmisches u. nasses Wetter u. ich darf selten wagen einmal nach Elberfeld zu
+                    fahren, Du kannst wol denken wie wenig ich heraus komme, wenn ich Dir sage daß
+                    ich heute zum erstenmal <seg type="comment"><orig>das junge Ehepaar</orig><note xml:id="eb066e8c-a400-48f0-aedd-90b9668b3bb6"><persName key="pdrPo.001.004.000000459">Marie</persName> und <persName key="ed_fzq_5lg_yx">Robert Barthels</persName>.
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></note></seg><?oxy_custom_end?>
+                    in ihrem Hause besucht habe. Sie sind beide recht vergnügt, heute war <persName key="ed_fzq_5lg_yx">R.&#160;Bartels</persName> aber nicht ganz wohl, er
+                    hatte etwas Fieber u. klagte über Kopfschmerzen, was jetzt etwas ängstlich ist,
+                    denn man hört hier viel von <pb/> Nerwenfieber, hoffentlich wird es nur eine
+                    kleine Erkältung sein. Was ist daß aber für eine traurige Geschichte mit <seg type="comment"><orig><orgName key="ed_t2t_dpy_pz">Trost &amp;
+                                Comp.</orgName></orig><note xml:id="nwvl_wfk_wy">
+                            <p><orgName key="ed_t2t_dpy_pz">Abr. Troost &amp; Söhne</orgName>. <?oxy_comment_start author="lindenberg" timestamp="20170419T165332+0200" comment="Noch zum Register hinzufügen:
+
+Handelshaus in Elberfeld und Manchester"?>
+                                <?oxy_comment_end?>
+                            </p>
+                        </note></seg> in M<supplied cert="high">an</supplied>chstr, wie ist das doch
+                    eigentlich gekommen? Hier hört man nur daß sie ihre Zahlung eingestellt haben,
+                    ob <seg type="comment"><orig>der alte <persName key="Trost">Trost</persName></orig><note xml:id="nghv_zfk_wy"><persName key="ed_qwp_1ty_pz">Eduard Troost</persName>. </note></seg> noch
+                    Theilhaber im Geschäft ist oder nicht weiß man nicht. Ich konnte es wirklich
+                    erst kaum glauben. Die Geschäfte scheinen überhaupt jetzt nicht besonders zu
+                    gehn, hier hatten sie im Herbst vollauf zu thun, jetzt geht es mit den
+                    Bestellungen schwach, <persName key="pdrPo.001.004.000000501">Fritz
+                        Boelling</persName> klagt auch, ich glaube allein <seg type="comment"><orig>E. B.</orig><note xml:id="c8cd74e0-68f0-48a0-bb9d-a2ecb12d8d27"><persName key="pdrPo.001.004.000000458">Emil Blank</persName>.
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></note></seg><?oxy_custom_end?>
+                    ist sehr zufrieden, er scheint recht viel zu verdienen. <persName key="pdrPo.001.004.000001409">G.&#160;Ermen</persName> wird auch wol etwas
+                    weniger spekulieren.</p>
+                <p sameAs="MBTextmitEinzug">Doch es ist Zeit daß ich schließe, es ist schon sehr
+                    spät u. Zeit daß ich zu Bette gehe. Schreib mir nun recht bald wieder u. nicht
+                    grade wenn das Comptoir geschlossen werden soll sonst wird der Brief nur sehr
+                    kurz. Ich wünsche Dir recht frohe Christtage, verdirb Dir nur nicht den Magen an
+                    alle Puddings u. <seg type="comment"><orig>Schrutenbraten.</orig><note xml:id="c7414ee9-7505-4530-9699-beb8b095d30d">Siehe <ref target="B00006/#e55c0583-ad52-4931-82e4-957c035ffdaa">Erl. zu E.
+                                Engels an Engels,
+                                13.1.<?oxy_comment_start author="reichhoff" timestamp="20170519T133620+0200" comment="{{Erl._5e}}"?>1866<?oxy_comment_end?>.</ref></note></seg></p>
+                <p sameAs="MBTextmitEinzug">Leb wohl u. sei herzlich gegrüßt</p>
+                <closer sameAs="MBUnterschrift"><supplied cert="high">vo</supplied>n Deiner treuen
+                    Mutter<lb/>E. </closer>
+            </div></body></text></TEI>

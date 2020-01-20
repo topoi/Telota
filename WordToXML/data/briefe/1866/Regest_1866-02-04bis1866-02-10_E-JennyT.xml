@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_klq_bs4_tz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich Engels an Jenny Marx (Tochter). Zwischen Sonntag, 4. und Samstag,
+                    10. Februar 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution/>
+                        <collection/>
+                        <idno><idno type="shelfmark"/></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_eyg_crj_sx">Engels, Friedrich (1820-1895)</persName>
+                    <date from="1866-02-04" to="1866-02-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="pdrPo.001.004.000003074">Marx, Jenny (1844-1883)</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract>
+                <p>Nicht überlieferter Brief von Engels an Jenny Marx (Tochter), geschrieben
+                    zwischen dem 4. und  dem 10. Februar 1866; Antwort auf den Brief von <ref target="B00028">Jenny Marx (Tochter) an Friedrich Engels in Manchester,
+                        spätestens Sonntag 4. Februar 1866</ref>; siehe <ref target="B00034">Jenny
+                        Marx an Friedrich Engels in Manchester, London, vor Samstag, 10. Februar
+                        1866.</ref></p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+					<salute/>
+                </opener>
+				<p/>
+				<closer>
+					<salute/>
+					<signed/>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00211" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>204</idno>Jenny Marx an Friedrich Engels in Manchester. London, Montag, 24. Dezember 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 6 op. 1 d. 65</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen festem, weißem Papier im Format 223&#160;×&#160;180&#160;mm. Wasserzeichen: „Hammond's Trade Mark“ und ein Vogel. Die ersten zwei Seiten hat Jenny Marx vollständig beschrieben, die dritte zur Hälfte, die vierte Seite ist leer. Schreibmaterial: schwarze Tinte.</p><p>Archivsignatur auf der ersten Seite oben links: „11 P 3“.</p><p>Die Datierung ergibt sich aus dem Inhalt des Briefes: er ist vor der Weihnachtsfeier geschrieben;
+                                                  Jenny Marx dankt für „Die 10&#160;£, die am
+                                                  Sonnabend ankamen“ (Z.&#160;5): Engels schickte
+                                                  sie am Freitag, 21.&#160;Dezember 1866 (siehe
+                                                  Br.&#160;203.50–53); Jenny Marx erwähnt den
+                                                  „jungen Frenchman im Hause“ (Z.&#160;7–8), d.h.
+                                                  Paul Lafargue, den Verlobten von Laura Marx (die
+                                                  Verlobung wurde am 6.&#160;August 1866 erklärt,
+                                                  siehe Marx an Engels, 7.&#160;August 1866,
+                                                  Br.&#160;145.9–10) sowie das bevorstehende
+                                                  Erscheinen des „Kapitals“
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20170425T104853+0200" comment="ursprünglich:
+die bevorstehende Erscheinung des „Kapitals“"?>von<?oxy_comment_end?>
+                                                  Marx in Hamburg (Z.&#160;9–10): das kam im
+                                                  September 1867 zustande.</p><p>Datierung der Erstveröffentlichung: 24.&#160;Dezember 1866.</p></physDesc></msDesc><listWit><witness><bibl>Erstveröffentlichung: in russischer Übersetzung: МЭС2 31 (1963).
+                            S.&#160;497/498</bibl>.</witness><witness><bibl>in der Sprache des Originals: MEW&#160;31 (1965). S.&#160;593.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000003075">Jenny Marx</persName><placeName>London</placeName><date when="1866-12-24"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:40:21Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Montag 1 Uhr</dateline><salute sameAs="MBAnrede">Mein lieber Herr Engels,</salute></opener><p sameAs="MBTextohneEinzug">So eben kommt der Hamper an u. die Flaschen sind in Parade aufgestellt,
+                                                  der Rheinwein voran! Wie sollen wir Ihnen für alle
+                                                  Ihre Freundschaft danken! <seg type="comment"><orig>Die 10&#160;£, die am Sonnabend
+                                                  ankamen,</orig><note xml:id="ca995be7-84c8-4723-96ad-5b017188dce9">Siehe <ref target="B00210/#start_jmy_z5s_5z">Engels an Marx,
+                                                  21.12.<?oxy_comment_start author="reichhoff" timestamp="20170506T184428+0200" comment="{{Br. 203.51–54}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                                  halten die rauhsten Stürme der Weihnachtszeit ab
+                                                  u. lassen uns ein merry Christmas feiern. Der Wein
+                                                  war nun dieses Jahr besonders willkommen, da man
+                                                  bei <seg type="comment"><orig>dem jungen
+                                                  Frenchman</orig><note xml:id="d17de004-8e38-4bb9-976f-ff691a4ab282"><persName key="pdrPo.001.004.000002648">Paul
+                                                  Lafargue</persName>. </note></seg> im Hause gern
+                                                  die appearances aufrecht hält.</p><p sameAs="MBTextmitEinzug">Wenn <seg type="comment"><orig>der <persName key="pdrPo.001.004.000003135">Buchhändler</persName> in Hamburg</orig><note xml:id="nrg4_sdq_kz"><persName key="pdrPo.001.004.000003135">Otto
+                                                  Meißner</persName>. </note></seg> wirklich <pb/>
+                                                  <seg type="comment"><orig>so schnell drucken kann,
+                                                  als er sagt,</orig><note xml:id="nlnh_vdq_kz">Siehe <ref target="B00209">O. Meißner an Marx,
+                                                  20.12.<?oxy_comment_start author="reichhoff" timestamp="20170406T174708+0200" comment="{{Br. 202}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                                  so muß <seg type="comment"><orig>das
+                                                  Buch</orig><note xml:id="nbrc_d4w_yy">Gemeint ist
+                                                  hier Karl Marx: Das Kapital; siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an J. Ph. Becker, zwischen 9. und
+                                                  15.1.<?oxy_comment_start author="reichhoff" timestamp="20170519T140310+0200" comment="{{Erl. 6b}}"?>1866<?oxy_comment_end?>.</ref>
+                                                  (((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg>
+                                                  jedenfalls zu Ostern erscheinen. Es ist eine
+                                                  Freude das Manuscript so hoch aufgespeichert u.
+                                                  abgeschrieben da liegen zu sehen. Mir ist eine
+                                                  Riesenlast damit vom Herzen gewälzt; bleiben doch
+                                                  stets noch Lasten u. Sorgen genug übrig, besonders
+                                                  wenn die Mädchen sich verlieben u. verloben u. gar
+                                                  mit Franzosen und medical students! Ich wünschte
+                                                  ich könnte alles so couleur de rose sehn als die
+                                                  andern, aber <pb/> die vielen langen Sorgen haben
+                                                  mich ängstlich gemacht u. ich sehe oft schwarz in
+                                                  die Zukunft, wo ein heitrer Geist alles rosig
+                                                  sieht. Cela entre nous.</p><p sameAs="MBTextmitEinzug">Noch einmal tausend Dank für den <seg type="comment"><orig>Hohheimer</orig><note xml:id="fc8269d7-348d-45ed-b507-658f0f792b2c">eigtl. Hochheimer, Wein.</note></seg> u. Gefolge!</p><closer sameAs="MBUnterschrift"><signed>Ihre Jenny Marx. </signed></closer></div></body></text></TEI>

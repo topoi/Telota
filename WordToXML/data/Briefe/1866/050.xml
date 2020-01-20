@@ -1,0 +1,29 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00053" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>50</idno>Karl Marx an Friedrich Engels in Manchester. London, Freitag, 2. März 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4441/L VI 574</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format 268&#160;×&#160;212&#160;mm. Die erste Seite hat Marx vollständig beschrieben, die übrigen drei sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand: Nummerierung des Briefes:
+                            „9.“</p><p>Engels antwortete am 5.&#160;März 1866 (Engels an Marx, 5.3.1866).</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1941</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;298.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-03-02"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:46Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 2 März 1866.</dateline><salute sameAs="MBAnrede">Dear Fred,</salute></opener><p sameAs="MBTextohneEinzug">Die Sache geht jetzt ihrem Schluß entgegen. Ich denke, daß ich bis
+                    Morgen, höchstens Uebermorgen, wieder nicht nur mich vom Lager erheben, sondern
+                    ausgehn kann, u. daß mit diesem letzten bösartigen Hund die Reihe der Karbunkel
+                    zu Ende ist, for this season. Ich fühle mich auch generally wieder viel wohler.
+                    Diese letzte Attaque war infam. Sie machte nicht nur allem Arbeiten ein Ende,
+                    sondern auch allem Lesen, except <persName key="pdrPo.001.004.000004359">Walter
+                        Scott</persName>.</p><p sameAs="MBTextmitEinzug"><subst>
+                        <del>Das</del>
+                        <add>Der</add>
+                    </subst> Arsenik war mir im Anfang, (wo <subst>
+                        <del>das</del>
+                        <add>der</add>
+                    </subst> Cinnamon vorschmeckte), durchaus nicht unangenehmen. Jetzt fängt <del>
+                        mir <sic ana="#break-off"/></del> dessen spezifischer Geschmack an mir sehr
+                    zu widerstehn. Im übrigen glaube ich, daß es nützlich wirkte. Ich nahm es von
+                    vorn herein 3&#160;times a day.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Wie stehts mit Deinen Beiträgen zum Common
+                                <bibl sameAs="zzThe Commonwealth">Wealth</bibl>?</orig><note xml:id="e04276a4-b5f2-4997-b4c1-dfae5eac9901">Siehe <ref target="B00004/#a099d127-3ab3-4126-bcd4-b1896c4d8ccd">Erl. zu Marx
+                                an Engels,
+                            5.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170516T174731+0200" comment="{{Erl._3h}}"?></note><?oxy_comment_end?></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Und mit John <persName key="pdrPo.001.004.000005027">Watts</persName> „On
+                            Machinery“?</orig><note xml:id="d44baa8a-5517-4837-8a75-8a9fb72f87f9">John Watts: Trade Societies and Strikes. Their good and evil Influences
+                            on the Members of Trades’ Unions, and on Society at large. Machinery;
+                            its Influences on Work and Wages, and Co-operative Societies, productive
+                            and distributive, Past, Present, and Future. Manchester, London [1865].
+                            Siehe auch <ref target="B00036/#start_gyk_cnq_nz">Marx an Engels,
+                                10.2.<?oxy_comment_start author="reichhoff" timestamp="20170412T142021+0200" comment="{{Br. 33.51–53}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00039/#start_ayy_bzy_nz">13.2.<?oxy_comment_start author="reichhoff" timestamp="20170412T142348+0200" comment="{{Br._36.39-40}}"?>1866<?oxy_comment_end?></ref>
+                            (((lWatts,John: Trade Societies and Strikes. Manchester,
+                            London_[1865]))) </note></seg></p><p sameAs="MBTextmitEinzug">Das Sopha, worauf ich nun den 9.&#160;Tag festliege, ist in meinem Arbeitzimmer, aber dicht ans Fenster gestellt, so daß ich während bestimmter Tageszeiten, wie zB. in diesem Augenblick, sehr belebenden Luftstrom geniesse.</p><p sameAs="MBTextmitEinzug">Du brauchst Dich jetzt nun nicht weiter zu ängstigen, sondern kannst die Geschichte, as far as actual outbreaks are concerned, als abgemacht betrachten.</p><p sameAs="MBTextmitEinzug">Salut</p><closer sameAs="MBUnterschrift"><salute>D <lb/></salute><signed>KM.</signed></closer><postscript><p><persName key="pdrPo.001.004.000003068">Tussychen</persName> „sends her best compliments to her <expan resp="editor" sameAs="dottet_underline">Chimp<ex>anzee</ex></expan>.“ </p></postscript></div></body></text></TEI>

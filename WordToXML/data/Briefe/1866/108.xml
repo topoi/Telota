@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00112" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>108</idno>Friedrich Engels an Karl Marx in London. Manchester, Mittwoch, 16. Mai 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1611/D III 381</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 231&#160;×&#160;180&#160;mm. Wasserzeichen: „A Pirie &amp; Sons 1865“. Prägung: „London Superfine“ und ein Wappenschild. Engels hat die ersten zwei Seiten vollständig beschrieben, die dritte zu einem Drittel, die vierte Seite ist leer. Schreibmaterial: schwarze Tinte.</p><p>Von Eduard
+              <?oxy_comment_start author="strauss" timestamp="20170614T124621+0200" comment="(((nBernstein,Ed.)))"?>Bernsteins<?oxy_comment_end?>
+              Hand: Nummerierung des Briefes bzw. der beschriebenen Seiten: „309,1“ bis „309,3“ und
+              „26,1“ bis. „26,3“ (gestrichen). Redaktionelle Vermerke.</p><p>Von Heinrich
+              <?oxy_comment_start author="strauss" timestamp="20170614T124830+0200" comment="(((nDietz, H.)))"?>Dietz’<?oxy_comment_end?>
+              Hand: Nummerierung des Briefes: „846“ (gestrichen).</p><p>Engels beantwortet Marx' Brief vom 10.&#160;Mai 1866 (Marx an Engels, 10.5.1866). Marx'
+              antwortete am 17.&#160;Mai 1864 (Marx an Engels, 17.5.1866).</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1968</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;318–320.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1866-05-16"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:22Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Mchr 16 Mai 1866.</dateline><salute sameAs="MBAnrede">Lieber Mohr</salute></opener><p rend="MBTextOhneEinzug"><seg type="comment"><orig>Die Geschichte mit <expan resp="editor" sameAs="dottet_underline"><persName key="pdrPo.001.004.000001631">Freiligr<ex>ath</ex></persName></expan> ist sehr amüsant &amp; sehr
+              erfreulich.</orig><note xml:id="nfbr_cly_dz">Siehe <ref target="B00109/#start_lcm_ck2_qz">Marx an Engels,
+                10.5.<?oxy_comment_start author="reichhoff" timestamp="20170420T115434+0200" comment="{{Br. 105.12–31}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          Das hat er davon daß er sich an die respectabeln Leute der Emigration hängt &amp; sich von
+          der „Partei“ lossagt. <anchor type="verweisziel" xml:id="start_nd2_dbz_pz"/>Was den
+            <persName key="pdrPo.001.004.000000470">Blind</persName> angeht, so wird ihm <seg type="comment"><orig>mit Bezug auf sein: manus haec inimica tyrannis</orig><note xml:id="ca160c85-c678-48f4-970a-e9f28d73786f">Siehe <ref target="B00109/#start_glm_kk2_qz">Marx an Engels,
+                10.5.<?oxy_comment_start author="reichhoff" timestamp="20170420T115701+0200" comment="{{Br. 105.10–18}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00109/#nkkn_5xx_dz">Erl. zu Marx an Engels,
+                10.5.<?oxy_comment_start author="reichhoff" timestamp="20170510T121627+0200" comment="{{Erl._105f}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          zuzurufen sein daß Kinder nicht mit Schießgewehr spielen sollen. <seg type="comment"><orig>Übrigens ist aus der Geschichte ganz klar daß <persName key="pdrPo.001.004.000000441">Bismark</persName> ein Panzerhemd trägt. Die Schüsse
+              müssen ihn alle getroffen haben, die 3 letzten werden als volle Treffer zugegeben,
+              &amp; da der Revolver so construirt war daß er nicht ganz dicht schließend aufgesetzt
+              werden konnte, so ist keine andre Möglichkeit da.</orig><note xml:id="f5a29128-6087-4385-997d-bbd1e313f022"><persName key="pdrPo.001.004.000000441">Otto von Bismarck</persName> hatte bei dem Attentat mit einer Kurzwaffe am 7. Mai
+              1866 (siehe <ref target="B00108/#ace7d864-4443-421f-86ed-39d0fe717f07">Erl. zu Engels
+                an Marx,
+                9.5.<?oxy_comment_start author="reichhoff" timestamp="20170510T131313+0200" comment="{{Erl._104c}}"?>1866<?oxy_comment_end?></ref>),
+              vermutlich seiner dicken, warmen Kleidung wegen, ein „Panzerhemd“ soll er nicht
+              getragen haben, keine nennenswerten Verletzungen erlitten.</note></seg> Man macht
+          diese Dinger jetzt sehr fein &amp; doch stark. Sein Freund <persName key="pdrPo.001.004.000003392">Bonaparte</persName> wird ihm schon eins verschafft &amp;
+          empfohlen haben.<anchor type="verweisziel" xml:id="stop_nd2_dbz_pz"/></p><p sameAs="MBTextmitEinzug">Monsieur <persName key="pdrPo.001.004.000000441">Bismark</persName> hat
+          sich offenbar in den Kleinstaaten arg getäuscht, <seg type="comment"><orig>hinc</orig><note xml:id="nidf_yjf_2z">daher (lat.). </note></seg>
+          <seg type="comment"><orig>die Drohung mit der Reichsverfassung</orig><note xml:id="nt3k_1kf_2z">Zur von <persName key="pdrPo.001.004.000000441">Bismarck</persName> vorgeschlagenen Verfassungsreform siehe <ref target="B00089/#ea078a25-97c7-44bc-914d-edc4942498e9">Erl. zu Engels an Marx,
+                10.4.<?oxy_comment_start author="reichhoff" timestamp="20170510T131627+0200" comment="{{Erl. 86e}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          &amp; mit <persName key="pdrPo.001.004.000000359">Bennigsen</persName>. Auch finanz.
+          Mißerfolge müssen vorgefallen sein. Kann man sich aber etwas Possirlicheres denken, als
+            <seg type="comment"><orig>daß derselbe <persName key="pdrPo.001.004.000005131">Wilhelm</persName>,</orig><note xml:id="d057fe81-6640-46f9-a8db-c54d714ed0d8"><persName key="pdrPo.001.004.000005131">Wilhelm I.</persName>
+            </note></seg> der Anno 49 als Obergeneral die <expan resp="editor" sameAs="dottet_underline">Reichsv<ex>er</ex>f</expan><ex>assung</ex> zu Grabe trug, sie
+          jetzt wieder erwecken will, oder vielmehr muß. <seg type="comment"><orig>Bismark als
+              Restaurator der „deutschen Grundrechte“, das ist zu komisch.</orig><note xml:id="ef3ac6a4-8b93-4add-ae1c-ea801480db75">„Die Grundrechte des deutschen Volkes“
+              wurden Ende 1848 von der Frankfurter Nationalversammlung angenommen und 1851 vom
+              Bundestag wieder für ungültig erklärt. Die größeren deutschen Staaten lehnten den
+              Rechtskatalog ab.</note></seg> In der Landwehr &amp; den eingezognen Reserven siehts
+          auch nicht zum Besten aus, in Görlitz war bedeutender Krawall unter ihnen, die Linie mußte
+          ausrücken &amp; sich zurückziehn weil die Kerle sich derartiges Einschreiten nicht wollten
+          gefallen lassen. Wenn diese Leute noch 3–4&#160;Wochen unthätig unterm Gewehr stehn, sind
+          sie zu Allem kapabel. Und da weder Preußen noch Italien fertig ist zum Angriff, müssen sie
+          wohl noch bis Ende Mai wenigstens dastehn.</p><p sameAs="MBTextmitEinzug">Soviel ist sicher, Mons. <persName key="pdrPo.001.004.000000441">Bismarck</persName>
+                                        hat sich in eine Sauce hineingeritten mit der weder er noch
+                                        das ganze bisherige <pb/> Regime fertig wird. Wenn es
+                                        friedlich abgemacht wird, so hat er die disponiblen fonds
+                                        vermöbelt &amp; wird sich schon deßhalb nicht mehr helfen
+                                        können, &amp; wenn es Krieg gibt so muß er <seg type="comment"><orig>Acheronta movere</orig><note xml:id="f0ff1c41-12e6-4f8d-a197-4441baeee028">Die
+                                                  Kräfte der Unterwelt zu Hilfe rufen. Nach:
+                                                  „Flectere si nequeo superos, Acheronta movebo“
+                                                  –Publius Vergilius Maro: Aeneis VII, 312.
+                                                  (((lVergilius Maro, Publius: Aeneis)))
+                                                </note></seg>, die ihn sicher verschlingen. Selbst
+                                        ein directer Sieg der Kammerbürger hat unter diesen
+                                        Umständen einen revolutionären Charakter &amp; muß weiter
+                                        führen.</p><p sameAs="MBTextmitEinzug">Trotz alledem kann ich mir noch immer nicht denken daß in der Mitte des
+          19&#160;Jahrhdrts Nord &amp; Süddeutschland auf einander losschlagen werden bloß weil
+            <persName key="pdrPo.001.004.000000441">Bismark</persName> es im Interesse der Russen
+          &amp; des <persName key="pdrPo.001.004.000003392">Bonaparte</persName> so haben will. Wenn
+          es aber zum Klappen kommt, so kann es den Preußen schlecht gehn. Die Oestreicher scheinen
+          diesmal alle Kräfte bis aufs Äußerste anstrengen zu wollen, &amp; wenn auch die Renommagen
+          von 900,000&#160;Mann Unsinn sind so wäre es immer möglich daß sie in Sachsen mit
+          bedeutender Überzahl aufträten. Preußen kann über das rheinische &amp; <expan resp="editor" sameAs="dottet_underline">westfäl<ex>ische</ex></expan> Corps gar nicht,
+          über das sächsische nur theilweise <del> so verfügen daß es <sic ana="#break-off"/></del>
+          gegen Östreich verfügen. Bleiben die übrigen sechs Armeecorps, die schwerlich
+          240,000&#160;Mann stark vor den Feind rücken werden. Wenn die Oestr. wie es heißt, in
+          Italien sich zunächst defensiv halten, so brauchen sie dort nur 150,000&#160;Mann, &amp;
+          können ganz gut 300–350,000&#160;M. gegen Preußen schicken – es sei denn daß die Russen
+          sie nöthigen Galizien stark zu besetzen. Die entscheidende Schlacht könnte dann von
+          180,000&#160;Pr. gegen 240–280,000&#160;Oestr. geschlagen werden, &amp; würde fast
+          unfehlbar <seg type="comment"><orig>Jena sein</orig><note xml:id="d28ae000-4584-40ec-a807-f970df506104">Siehe <ref target="B00081/#f31cd957-c594-447c-b623-54795e6e770a">Erl. zu Engels an Marx,
+                2.4.<?oxy_comment_start author="reichhoff" timestamp="20170510T153759+0200" comment="{{Erl. 78f}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+          &amp; direct nach Berlin führen. Es ist aber schwer hierüber Hypothesen zu machen, da bei
+          den Oestr. die Truppen immer viel stärker auf dem Papier sind &amp; auch stark gelogen
+          wird grade jetzt.</p><p sameAs="MBTextmitEinzug">Leider ist <seg type="comment"><orig>Monsieur <persName key="pdrPo.001.004.000004049">Charles</persName></orig><note xml:id="beda823e-1c8e-4c49-bd17-828322ed28c4"><persName key="pdrPo.001.004.000004049">Karl
+                                                  Ludwig (Charles) Rösgen</persName>. </note></seg>
+                                        mit dem Hauptbuch zurück worin meine Rechnung ist, so daß
+                                        ich augenblicklich gar nicht einmal ordentlich nachsehen
+                                        kann wie ich stehe, &amp; da in 6&#160;Wochen das Bilanzjahr
+                                        um ist, &amp; ich dann ein bestimmtes Capital im Geschäft
+                                        haben muß, so muß ich mich <del> bestimmt <sic ana="#break-off"/></del> danach richten. Sobald
+                                        ich kann werde ich mein Soll &amp; Haben aufaddiren &amp;
+                                                <seg type="comment"><orig>wenn irgend möglich Dir
+                                                  einiges Geld schicken.</orig><note xml:id="fba64c3e-6efc-41f4-a003-0387a7e8ddb0">Siehe <ref target="B00109/#start_hwl_tk2_qz">Marx
+                                                  an Engels,
+                                                  10.5.<?oxy_comment_start author="reichhoff" timestamp="20170420T115801+0200" comment="{{Br. 105.60–66}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        Jeden<pb/>falls aber <seg type="comment"><orig>kannst Du
+                                                  darauf rechnen daß ich Dir in den ersten Tagen des
+                                                  Juli, nach dem Bilanzjahresschluß, sofort eine
+                                                  £&#160;50.– besorge.</orig><note xml:id="cc1bda8f-b6c2-4617-b37a-8a46840a422e">Siehe <ref target="B00123/#start_smj_jl2_qz">Marx
+                                                  an Engels,
+                                                  9.6.<?oxy_comment_start author="reichhoff" timestamp="20170420T120420+0200" comment="{{Br. 119.3}}"?>1866<?oxy_comment_end?></ref>
+                                                  und <ref target="B00131/#start_nmm_4l2_qz">Engels
+                                                  an Marx,
+                                                  4.7.<?oxy_comment_start author="reichhoff" timestamp="20170420T120542+0200" comment="{{Br._127.3}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p><p sameAs="MBTextmitEinzug">Schön ist <seg type="comment"><orig>die Kreuzzeitung</orig><note xml:id="dddbb3c2-db16-4a48-81c5-8a5611cdccbf">„Neue Preußische Zeitung“ (Berlin).
+              (((zNeue Preußische Zeitung)))
+            </note></seg><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><index indexName="XE">
+            <term>zzNeue Preußische Zeitung</term>
+          </index><?oxy_custom_end?> zu lesen wie sie für allgemeines Stimmrecht, Bonapartismus,
+            <persName key="pdrPo.001.004.000004955">Victor Emanuel</persName> etc auftritt. Der
+          Schmutz den <hi rendition="#u">die</hi> Kerls jetzt fressen müssen, ist massenhaft.</p><p sameAs="MBTextmitEinzug">Beste Grüße an Deine Frau &amp; die Mädchen.</p><closer sameAs="MBUnterschrift">Dein<lb/>F. E. </closer></div></body></text></TEI>

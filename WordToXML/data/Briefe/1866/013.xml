@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00014" xml:lang="de"><teiHeader><fileDesc><titleStmt>
+                <title><idno>13</idno>Edwin Shelley Mantz und Robert Applegarth an Karl Marx in
+                    London. London, vor Donnerstag, 18. Januar 1866</title>
+            </titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 1 d. 1964</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen festem, weißem Papier im Format 232&#160;×&#160;183&#160;mm.
+                            Wasserzeichen: „WN Superfine“. Der Brief steht auf der ersten Seite des
+                            Bogens. Die übrigen drei Seiten benutzte Marx für den Entwurf seines
+                            Artikels „Warnung“ (MEGA² I/20. S.&#160;204/205). Schreibmaterial:
+                            schwarze Tinte.</p><p>Von unbekannter Hand: Nummerierung der beschriebenen Seiten: „357/1“ bis „357/4“ (teilweise
+                            ausradiert). </p></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_lxb_zn2_sy">Edwin Shelley Mantz</persName><persName key="pdrPo.001.004.000000132">Robert Applegarth</persName><placeName>London</placeName><date when="1866-01-18"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:18Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/>
+                        <seg type="comment"><orig><hi rendition="#mPrint">INDUSTRIAL NEWSPAPER
+                                    COMPANY,</hi><lb/><hi rendition="#mPrint">(Limited).</hi></orig><note xml:id="nyww_lll_gy">Zur <orgName key="ed_isw_cry_sy">Industrial Newspaper Company</orgName> und
+                                Unterstützung der Zeitung „The Workman’s Advocate“ siehe <ref target="B00007/#nmrb_qzn_4y">Erl. zu Marx an J. Ph. Becker,
+                                    zwischen 9. und 15.1.1866.</ref>
+                                <?oxy_comment_start author="lindenberg" timestamp="20170512T130714+0200" comment="{{Erl. 6f}}."?>
+                                <?oxy_comment_end?>(((zThe_Workman’s
+                        Advocate)))</note></seg></dateline>
+                </opener>
+                <hi rendition="#i">
+                    <p sameAs="MBTextohneEinzug" rendition="#mPrint">Sir,—</p>
+                </hi>
+                <p sameAs="MBTextmitEinzug" rendition="#mPrint"><hi rendition="#i">You are urgently
+                        requested to attend a Meeting</hi></p>
+                <p rend="MBTextOhneEinzug"><hi rendition="#i"><hi rendition="#mPrint">of</hi></hi>
+                    Directors</p>
+                <p rend="MBTextOhneEinzug"><hi rendition="#mPrint"><hi rendition="#i">on</hi></hi>
+                    the 18<hi rendition="#sup">th</hi>
+                    <hi rendition="#i"><hi rendition="#mPrint">day of</hi></hi> January <hi rendition="#mPrint">1866</hi></p>
+                <p rend="MBTextOhneEinzug"><hi rendition="#mPrint"><hi rendition="#i">at</hi></hi> 8
+                    o’clock p.m. <hi rendition="#mPrint"><hi rendition="#i">to be held at</hi></hi>
+                    18</p>
+                <p rend="MBTextOhneEinzug"><seg type="comment"><orig>Bouveriestreet
+                            Fleetstreet</orig><note xml:id="e08f4e63-1152-476f-8105-f65da68737b8">In
+                            18 Bouverie Street Fleet Street fanden von Januar 1866 bis 25.&#160;Juni
+                            1867 die Sitzungen des Zentral- bzw. des Generalrats der IAA statt.
+                        </note></seg></p>
+                <p rend="MBTextOhneEinzug" rendition="#mPrint"><hi rendition="#i">Trusting you will
+                        not fail to attend, as matters of the utmost importance require our
+                        immediate attention.</hi></p>
+                <closer sameAs="MBUnterschrift"><hi rendition="#mPrint"><hi rendition="#i">Pro.</hi> E.S. Mantz.</hi><lb/><hi rendition="#mPrint"><hi rendition="#i">Secretary,</hi> R. Applegarth.</hi></closer>
+                <p sameAs="MBAdresse">Dr. Marx. </p>
+            </div></body></text></TEI>

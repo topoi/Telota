@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00187" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>182</idno>Louis Kugelmann an Karl Marx in London. Hannover, Dienstag, 23. Oktober 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f.  1 op. 5 d. 1677</idno></idno></msIdentifier><physDesc>
+                                                <p>Der Brief besteht aus einem Bogen mittelstarkem,
+                                                  weißem Papier im Format
+                                                  285&#160;×&#160;216&#160;mm. Prägung:
+                                                  „Dr.&#160;L.&#160;Kglm.“. Die ersten drei Seiten
+                                                  hat Kugelmann vollständig beschrieben, die vierte
+                                                  ist leer. Eine Passage („auf seine Adresse“ bis
+                                                  „50&#160;Amity-Street“, Z.&#160;6–8) ist mit dem
+                                                  Zuordnungszeichen „“<?oxy_comment_start author="lindenberg" timestamp="20170425T165733+0200" comment="Sonderzeichen noch nicht in der Website-Ansicht umgesetzt"?>
+                                                  <?oxy_comment_end?>versehen und steht am linken
+                                                  Rand der ersten Seite quer niedergeschrieben.
+                                                  Schreibmaterial: schwarze Tinte.</p>
+                                                <p>Von unbekannter Hand: Numerierung  der
+                                                  beschriebenen Seiten: „26a“ bis
+                                                  „26c“.<?oxy_comment_start author="lindenberg" timestamp="20170424T171853+0200" comment="Von unbekannter Hand: Numerierung des Briefes bzw. der beschriebenen Seiten: „26a“ bis „26c“."?></p>
+                                                <?oxy_comment_end?>
+                                                <p>Kugelmann beantwortet den Brief von Marx vom
+                                                  13.&#160;Oktober 1866 (Br.&#160;180). Marx'
+                                                  Antwort erfolgte am 25.&#160;Oktober 1866
+                                                  (Br.&#160;183).</p>
+                                        </physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName><placeName>Hannover</placeName><date when="1866-10-23"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:40:07Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                                <opener>
+                                        <dateline sameAs="MBDatumszeile"><pb/> Hannover, 23. Octob.
+                                                1866</dateline>
+                                        <salute sameAs="MBAnrede">Hochverehrter Freund!</salute>
+                                </opener>
+                                <p sameAs="MBTextohneEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_fkw_qbk_5z"/><orig>Es bedarf nicht der Bemerkung wie gern ich
+                                                  Ihren Wunsch erfüllen möchte, aber <hi ana="emph1">ich</hi> kann es nicht und meine Bemühungen sind
+                                                  vollständig fruchtlos gewesen.</orig><anchor type="verweisziel" xml:id="stop_fkw_qbk_5z"/><note xml:id="c0dd2d86-80a6-4df7-8356-af3d8dc7b04f">Siehe <ref target="B00185/#start_mfb_sw3_5z">Marx
+                                                  an L. Kugelmann,
+                                                  13.10.<?oxy_comment_start author="reichhoff" timestamp="20170505T095716+0200" comment="{{Br. 180.17–24}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        – <seg type="comment"><orig><anchor type="verweisziel" xml:id="start_bfr_3dk_5z"/>Ich möchte Ihnen anheim
+                                                  geben sich mal an <persName key="pdrPo.001.004.000002336">Dr.&#160;med.
+                                                  A.&#160;Jacobi</persName>, (Amity-street?, auf
+                                                  seine Adresse kömmt es so genau wohl nicht an, da
+                                                  er einer der beschäftigsten Ärzte in New-York ist.
+                                                  Im vorigen Jahre wohnte er 50&#160;Amity-Street.–)
+                                                  New-York zu wenden, der, wie mir glaubwürdig
+                                                  versichert wurde eine Praxis von
+                                                  20,000&#160;Dollars per Jahr hat. Er soll ein
+                                                  reicher Mann sein und hat sich kürzlich ein sehr
+                                                  elegantes Haus gekauft. Sie kennen ihn
+                                                  ja.</orig><anchor type="verweisziel" xml:id="stop_bfr_3dk_5z"/><note xml:id="nybq_vgn_jz">Siehe <ref target="B00188">Marx an L. Kugelmann,
+                                                  25.10.<?oxy_comment_start author="reichhoff" timestamp="20170505T095859+0200" comment="{{Br. 183.13–15}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        – <seg type="comment"><orig>Er hat selbst schwere Kämpfe mit
+                                                  dem Leben gehabt</orig><note xml:id="df00273d-9a2f-46a3-876e-422dfdd0d93a"><persName key="pdrPo.001.004.000002336">Abraham
+                                                  Jacobi</persName> war im Rahmen der
+                                                  Kommunistenverfolgung zwischen 1851 und 1853 für
+                                                  ca. anderthalb Jahre inhaftiert.</note></seg> und
+                                        wird wohl noch Verständniß dafür haben. – Früher war er
+                                        Ihnen, das weiß ich, mit Leib u. Seele ergeben. – Da wir auf
+                                        dies trübselige Thema kommen, so erlauben Sie mir wohl die
+                                        Bemerkung, daß es mir unbegreiflich ist, wie die Partei,
+                                        deren hervorragende Mitglieder mindestens, doch Ihre
+                                        Verdienste u. Ihre Bedeutung kennen, nicht dafür sorgen,
+                                        daß, indem man Ihnen eine sorglose Existenz bereitet, Sie im
+                                        Stande sein können, Ihre volle Kraft der Sache der Arbeiter
+                                        zu widmen. In England grade, wird man doch begreifen wie
+                                        wichtig es ist auf dem Gebiete der Wissenschaft, in specie
+                                        der National-Oeconomie, die Gegner zu besiegen u. so nicht
+                                        bloß instinctiv, sondern in klarem Verständniß die
+                                        Parteiforderungen aufzustellen, ohne <pb/> Gefahr, sich in
+                                        den Detail- u. Übergangsbestrebungen (8Stunden-Frage,
+                                        Cooperativgesellschaften pp) zu verrennen und zu borniren. –
+                                        Ihrerseits würde ich nicht allein keinen Anstand nehmen als
+                                        einflußreichster Beamter der Partei ein ehrenvolles Gehalt
+                                        anzunehmen, sondern es schon längst <hi rendition="#u">beansprucht</hi> haben. – Unter den dominirenden
+                                        Einflüssen der bürgerlichen Gesellschaft lebend, können wir
+                                        uns ihren Daseinsformen nicht entziehen, ohne im <seg type="comment"><orig>„Kampf um das
+                                                  Dasein“</orig><note xml:id="dc348bad-603d-4fb1-bb0a-73cb045ea27d">Entnommen dem Werk: Charles Darwin: On the Origin
+                                                  of Species by Means of natural Selection, or the
+                                                  Preservation of favoured Races in the Struggle for
+                                                  Life. London 1859. (((lDarwin,Charles:On the
+                                                  Origin of Species by Means of natural Selection,
+                                                  or the Preservation of favoured Races in the
+                                                  Struggle for Life. London 1859)))</note></seg>
+                                        <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(((lDarwin:
+                                        On the Origin. London 1859)))<?oxy_custom_end?> zu
+                                        unterliegen. – Ich glaube, daß mancher Einzelne mein
+                                        Interesse für Sie u. meine Ansicht theilt, aber als
+                                        Einzelner ebenso erfolglos wie ich; vereint würde es nicht
+                                        schwer werden können, Ihnen das Leben zu erleichtern u. uns
+                                        die Früchte Ihrer Arbeit zu verschaffen. – Verzeihen Sie mir
+                                        diese prosaisch-bürgerliche, aber, wie mir scheint,
+                                        practische Auffassung der Sachlage.&#160;– <anchor type="verweisziel" xml:id="start_lrd_zck_5z"/><seg type="comment"><orig>Ist es Ihnen recht, oder besser
+                                                  nicht unlieb, wenn ich in dieser Richtung anregend
+                                                  vorgehe, so erbitte ich mir die Adresse von Ihrem
+                                                  Freunde Friedr. Engels in Manchester mit dem ich
+                                                  das Nähere verabreden will.</orig><anchor type="verweisziel" xml:id="stop_lrd_zck_5z"/><note xml:id="f16a06e2-977c-4040-8101-d65b95b9d5b1">Siehe <ref target="B00188">Marx an L. Kugelmann,
+                                                  25.10.<?oxy_comment_start author="reichhoff" timestamp="20170505T095958+0200" comment="{{Br. 183.7–12}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        –</p>
+                                <p sameAs="MBTextmitEinzug">Höchst wichtig wäre es, wenn Sie das
+                                        Erscheinen <seg type="comment"><orig>des ersten
+                                                  Bandes</orig><note xml:id="c3195849-8a7b-45e8-9006-ebb61d1ded1d">
+                                                  <p rend="endnote text">Gemeint ist hier Karl Marx:
+                                                  Das Kapital; siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an J. Ph. Becker, zwischen 9. und
+                                                  15.1.<?oxy_comment_start author="reichhoff" timestamp="20170519T131021+0200" comment="{{Erl. 6b}}"?>1866<?oxy_comment_end?>.
+                                                  </ref>(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</p>
+                                                </note></seg> beschleunigen könnten. – <seg type="comment"><orig>Das erste Heft</orig><note xml:id="nmr2_sn4_yy">Karl Marx: Zur Kritik der
+                                                  politischen Oekonomie. H.&#160;1. Berlin 1859.
+                                                  (MEGA²&#160;II/2. S.&#160;95–245).
+                                                  (((lMarx,Karl:Zur Kritik der Politischen
+                                                  Oekonomie. H.&#160;1. Berlin 1859.
+                                                  (MEGA²&#160;II/2. S.&#160;95–245).))) Siehe <ref target="B00185/#start_xx3_qx3_5z">Marx an L.
+                                                  Kugelmann,
+                                                  13.10.<?oxy_comment_start author="reichhoff" timestamp="20170505T100422+0200" comment="{{Br. 180.44–46}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        <seg type="comment"><orig>(bei <orgName key="pdrPo.001.015.000090082">Dunker</orgName>)</orig><note xml:id="nc5r_5n4_yy"><orgName key="pdrPo.001.015.000090082">Verlag von Franz
+                                                  Duncker (W. Besser’s Verlagshandlung</orgName>).
+                                                </note></seg> ist schon so lange erschienen, man
+                                        wartete gespannt auf die Fortsetzung, auf die eigentliche
+                                        Entwicklung „Ihres Systems“ u. es kömmt immer nichts. – Man
+                                        hofft kaum noch darauf, – Mancher glaubt vielleicht gar
+                                        nicht mehr daran. – Sie werden mir, verehrter Freund, diese
+                                        Notiz nicht übel nehmen, <hi rendition="#u">ich</hi> weiß ja
+                                        zu gut, wie oft und <pb/> wie heillos Sie stets unterbrochen
+                                        wurden, aber die Andern wissen's nicht. –</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_wmj_sdk_5z"/>Der
+                                                  <bibl sameAs="zzThe Commonwealth">Commonwealth</bibl> hat sich ja wieder
+                                                  vergrößert. Schreiben Sie Artikel darin u.
+                                                  welche?</orig><anchor type="verweisziel" xml:id="stop_wmj_sdk_5z"/><note xml:id="ntrq_4ln_jz">Siehe <ref target="B00007/#nmrb_qzn_4y">Erl. zu Marx an J.
+                                                  Ph. Becker, zwischen 9. und
+                                                  15.1.<?oxy_comment_start author="reichhoff" timestamp="20170519T131107+0200" comment="{{Erl. 6f}}"?>1866<?oxy_comment_end?>.</ref>
+                                                  Marx schrieb keine Artikel für „The Commonwealth“
+                                                  (London). Siehe <ref target="B00188">Marx an L.
+                                                  Kugelmann,
+                                                  25.10.<?oxy_comment_start author="reichhoff" timestamp="20170505T123013+0200" comment="{{Br. 183.19}}"?>1866<?oxy_comment_end?></ref>.
+                                                  (((zThe Commonwealth)))</note></seg></p>
+                                <p sameAs="MBTextmitEinzug">Die Zustände sind hier höchst trostlos.
+                                        – Theils particularistisch, theils annexionistisch,
+                                        größtentheils apathisch begreift das Philisterium nicht, daß
+                                        die von ihm z.T. bejubelten <seg type="comment"><orig>Siege
+                                                  über Österreich u. den Bund</orig><note xml:id="f25c8f80-9e1b-4b42-8734-661ebac96d76"><persName key="pdrPo.001.004.000002616">Kugelmann</persName> bezieht sich hier auf den
+                                                  Deutschen Krieg (1866). </note></seg> Siege über
+                                        die bürgerliche Freiheit, über parlamentarisches Regiment
+                                        sind. – Nur <seg type="comment"><orig>die
+                                                  Kreuzzeitungspartei</orig><note xml:id="ccd62222-4d65-4139-b3a4-d5b74e77d03d">Äußerster rechter Flügel der preußischen
+                                                  Konservativen; nach der
+                                                  konservativ-monarchistischen „Neuen Preußischen
+                                                  Zeitung“ (Berlin), auch „Kreuzzeitung“ genannt.
+                                                  (((zNeue_Preußische Zeitung)))
+                                                </note></seg><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><index indexName="XE">
+                                                <term>zzNeue Preußische Zeitung</term>
+                                        </index><?oxy_custom_end?> handelt nach einem bestimmten
+                                        Programm und allen Respect! vor ihrer Energie u. Consequenz.
+                                        – <seg type="comment"><orig><anchor type="verweisziel" xml:id="start_mhv_22k_5z"/>Die Gothaer</orig><note xml:id="nxzs_pmn_jz">Siehe <ref target="B00116/#c0a50206-8d39-4240-add7-1df8139bd92d">Erl. zu W. Liebknecht an Marx,
+                                                  25.5.<?oxy_comment_start author="reichhoff" timestamp="20170519T131243+0200" comment="{{Erl. 112c}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                                        aller Couleuren glauben sich ein Herz u. eine Seele mit
+                                                <persName key="pdrPo.001.004.000000441">Bismark</persName>, von dem sie glauben (er sagt es
+                                        ja selbst), daß er seine Collegen <persName key="pdrPo.001.004.000001443">Eulenburg</persName>,
+                                                <persName key="pdrPo.001.004.000002846">Lippe</persName> etc gern los wäre, er bat <seg type="comment"><orig>die
+                                                  Fortschrittsleute</orig><note xml:id="a97b8357-8345-4c71-a525-f109b7def7ec">Siehe <ref target="B00092/#f2c48adb-68f5-4e55-a334-c67ab32c6107">Erl. zu W. Liebknecht an Marx,
+                                                  14.4.<?oxy_comment_start author="reichhoff" timestamp="20170519T131359+0200" comment="{{Erl. 89k}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                                        selbst, ihm dabei behülflich zu sein. <seg type="comment"><orig><persName key="pdrPo.001.004.000000359">Bennigsen</persName>, <persName key="pdrPo.001.004.000003226">Miquèl</persName>,
+                                                  <persName key="ed_xrt_mlp_pz">Braun</persName>,
+                                                  <persName key="ed_ngy_gmg_qz">Metz</persName> etc
+                                                  etc träumen sich schon in behaglichen
+                                                  Ministerfauteuils in Berlin, – das Erwachen aus
+                                                  diesem Traume wird ein eben so unbehagliches, wie
+                                                  für das Parterre komisches sein.</orig><note xml:id="nnp2_bnn_jz">Siehe <ref target="B00188">Marx an L. Kugelmann,
+                                                  25.10.<?oxy_comment_start author="reichhoff" timestamp="20170505T123113+0200" comment="{{Br. 183.21–22}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        <seg type="comment"><orig>Der Junker Georg v. <persName key="pdrPo.001.004.000004947">Vinke</persName> mit
+                                                  seinen Knappen hat für sie vergebens
+                                                  existirt.</orig><note xml:id="ni3v_dnn_jz"><anchor type="verweisziel" xml:id="stop_mhv_22k_5z"/><persName key="pdrPo.001.004.000004947">Georg
+                                                  Freiherr von Vincke</persName>, 1859–1861 Führer
+                                                  der altliberalen Mehrheit (gemäßigte Liberale) im
+                                                  preußischen Abgeordnetenhaus, war mit Ende der
+                                                  Neuen Ära im Frühjahr 1862 zunehmend in Konflikt
+                                                  mit der konservativen Politik <persName key="pdrPo.001.004.000000441">Otto von
+                                                  Bismarcks</persName> geraten. Marx attackierte ihn
+                                                  im Kapitel X „Patrone und Mitstrolche“ seines
+                                                  Pamphlets „Herr Vogt“ (siehe MEGA²_I/18. S.
+                                                  262–268). (((lMarx,Karl:Herr Vogt. In: MEGA²_I/18.
+                                                  S._51–339)))</note></seg> –</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_lhc_kck_5z"/><orig>Bitte, sagen Sie mir doch, <hi rendition="#u">ob Sie die in meinem vorigen
+                                                  erwähnten Briefe bekommen
+                                                  haben</hi>.</orig><anchor type="verweisziel" xml:id="stop_lhc_kck_5z"/><note xml:id="no3w_lnn_jz">Siehe <ref target="B00184">L.
+                                                  Kugelmann an Marx,
+                                                  11.10.<?oxy_comment_start author="reichhoff" timestamp="20170406T161339+0200" comment="{Br. 179}}"?>1866<?oxy_comment_end?></ref>
+                                                  und Erl. sowie <ref target="B00188">Marx an L.
+                                                  Kugelmann,
+                                                  25.10.<?oxy_comment_start author="reichhoff" timestamp="20170505T123148+0200" comment="{{Br. 183.5–6}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p>
+                                <closer sameAs="MBUnterschrift">Der
+                                        Ihrige<lb/>LKugelmann<lb/>Dr</closer>
+                                <postscript>
+                                        <p><seg type="comment"><orig>Seit <persName key="pdrPo.001.004.000002336">Jacobi</persName>
+                                                  von hier fort ist,</orig><note xml:id="ndv5_pnn_jz"><persName key="pdrPo.001.004.000002336">Abraham
+                                                  Jacobi</persName>   emigrierte 1853 in die
+                                                  USA.</note></seg> bin ich außer aller Verbindung
+                                                mit ihm, ich glaube daher, daß eine Anfrage von mir
+                                                nicht so nützlich sein würde. – </p>
+                                </postscript>
+                        </div></body></text></TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00074" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>71</idno>Friedrich Engels an Hermann Engels in Barmen. Manchester, Donnerstag, 22. März 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">Standort Orig. nicht bekannt; Kopie: f. 1 op. 1
+                                d. 1949. Fotosign. 597a–b</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Standort der Originalhandschrift ist gegenwärtig nicht bekannt. Die
+                            Veröffentlichung erfolgt nach einer Fotokopie.</p>
+                        <p>Soweit aus der Kopie zu ersehen ist, besteht der Brief aus einem Bogen.
+                            Die ersten zwei Seiten hat Engels vollständig beschrieben, die dritte zu
+                            zwei Dritteln. Das Papier wurde gelocht und beim Fotokopieren der untere
+                            Rand nicht mit aufgenommen. Die dadurch entstandenen Textverluste
+                            (Z.&#160;27 und 50) konnten rekonstruiert werden.</p>
+                        <p>Von unbekannter Hand: Nummerierung des Briefes: „597“.</p>
+                        <p>Engels beantwortet die Briefe von Hermann Engels vom 20.&#160;Januar und
+                            19.&#160;Februar 1866 (H. Engels an Engels, 20.1.1866 und H. Engels an
+                            Engels, 19.2.1866). Siehe auch Elisabeth Engels an Engels, 16. und
+                            17.&#160;März 1866: „... ihm doch seine Briefe zu beantworten.“). Die
+                            Antwort von Hermann Engels erfolgte am 27.&#160;März 1866 (H. Engels an
+                            Engels, 27.2.1866).</p>
+                    </physDesc>
+                </msDesc><listWit><witness><bibl>Erstveröffentlichung: gekürzt: Briefe von Friedr. Engels an Mutter und Geschwister
+                            (1921). S.&#160;142</bibl>.</witness><witness><bibl>vollständig: in russischer Übersetzung: МЭС<hi rendition="#sup">1 </hi>25 (1934).
+                            S.&#160;469–471</bibl>.</witness><witness><bibl>in der Sprache des Originals: MEW&#160;31 (1965). S.&#160;509/510.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1866-03-22"/></correspAction><correspAction type="received"><persName key="pdrPo.001.004.000001375">Hermann Engels</persName><placeName>Barmen</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:58Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Manchester 22 März 1866.</dateline><salute sameAs="MBAnrede">Lieber Hermann</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_lnb_xxt_4z"/><orig>Euer Act ist beim lawyer, leider traf
+                            ich ihn heut nicht zu Hause &amp; kann Dir also nicht sagen ob er ihn
+                            schon nach Lpool geschickt <expan resp="editor" sameAs="dottet_underline">resp<ex>ective</ex></expan> wie weit die
+                            betreffenden Reinschriften gediehen sind. Doch will ich dieser Tage noch
+                            einmal hingehn &amp; treiben.<anchor type="verweisziel" xml:id="stop_lnb_xxt_4z"/></orig><note xml:id="e30adc86-6d2b-47f9-b1a7-1187ff5ec69d">Zu den Verhandlungen mit
+                            der Firma <orgName key="pdrPo.001.015.000090261">Robert Funke
+                                &amp;&#160;Co.</orgName> siehe <ref target="B00018/#a764c933-1f9d-4cb0-b8f5-2afc8056a8ad">Erl. zu H.
+                                Engels an Friedrich Engels, 20.1.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170517T153129+0200" comment=" {{Erl. 17c}}."?></note><?oxy_comment_end?></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_bsb_4yt_4z"/><orig>Ich schreibe Dir heute wegen dem <expan resp="editor" sameAs="dottet_underline">C<ex>on</ex>to</expan>
+                            <expan resp="editor" sameAs="dottet_underline">C<ex>orren</ex>t</expan>
+                            den Du mir geschickt hast</orig><note xml:id="e96f02f9-a44d-449b-b357-cdf97559ca2f">Siehe <ref target="B00018">H. Engels an Engels,
+                                20.1.<?oxy_comment_start author="reichhoff" timestamp="20170413T181856+0200" comment="{{Br. 17.3–8}}"?>1866<?oxy_comment_end?>
+                            </ref>und <ref target="B00078/#start_hd1_zlh_4z">H. Engels an Engels,
+                                27.3.<?oxy_comment_start author="reichhoff" timestamp="20170413T182558+0200" comment="{{Br._75.6–9}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    &amp; zu dessen Durchsicht ich mir einen ruhigen Tag abwarten mußte, da die
+                    Buchungen im letzten Halbjahr 1864 drüben ganz anders gemacht worden sind wie
+                    hier. Ich mußte deßhalb den ganzen Kram von Anfang an wieder durchnehmen &amp;
+                    hab’ ihn endlich ins Reine gebracht. Die Posten stimmen, mit Ausnahme der laut
+                        <seg type="comment"><orig><subst>
+                                <del>Eures Briefs</del>
+                                <add>Eurem Brief</add>
+                            </subst> vom 20&#160;Juli 1864</orig><note xml:id="nn2p_qq5_1z">Dieser
+                            Brief konnte nicht ermittelt werden.</note></seg> direct auf
+                        <add>mein</add> Conto bei <orgName key="pdrPo.001.015.000090088">F.&#160;E.
+                        &amp; Co.</orgName> mir gutgebrachten <seg type="comment"><orig>Rimessen,</orig><note xml:id="cd591ae5-1e0a-4f03-a7b2-afce8dc4ccaa">Die Rimesse – ein
+                            gezogener aber noch nicht akzeptierter Wechsel, den der Aussteller dem
+                            Warenlieferanten in Zahlung gibt.</note></seg> &amp; werde ich diese
+                    Posten also wohl auf meinem <expan resp="editor" sameAs="dottet_underline">C<ex>on</ex>to</expan>
+                    <expan resp="editor" sameAs="dottet_underline">C<ex>orren</ex>t</expan> bei
+                    F.&#160;E. &amp; Co. vorfinden. Diese Posten sind: </p><table rend="rules"><row><cell rend="MBTextmitEinzug"/><cell rend="MBTextmitEinzug"/><cell rend="MBTextmitEinzug">{</cell><cell cols="2" rend="MBTextmitEinzug"><expan resp="editor" sameAs="dottet_underline">Rimes<ex>se</ex></expan></cell><cell rend="MBTextmitEinzug"><expan resp="editor" sameAs="dottet_underline">p<ex>er</ex></expan></cell><cell rend="MBTextmitEinzug">Apolda</cell><cell rend="MBTextmitEinzug">£</cell><cell rend="MBTextmitEinzug">2.&#160;2.&#160;2</cell></row><row><cell rend="MBTextmitEinzug">1864</cell><cell rend="MBTextmitEinzug">Juni 30</cell><cell rend="MBTextmitEinzug"/><cell rend="MBTextmitEinzug">"</cell><cell cols="2" rend="MBTextmitEinzug"/><cell rend="MBTextmitEinzug">München</cell><cell rend="MBTextmitEinzug">"</cell><cell rend="MBTextmitEinzug">1.&#160;2. –</cell></row><row><cell rend="MBTextmitEinzug"/><cell rend="MBTextmitEinzug"/><cell rend="MBTextmitEinzug"/><cell rend="MBTextmitEinzug">"</cell><cell cols="2" rend="MBTextmitEinzug"/><cell rend="MBTextmitEinzug">Rieslingen</cell><cell rend="MBTextmitEinzug">"</cell><cell rend="MBTextmitEinzug">8.&#160;19.&#160;6</cell></row><row><cell rend="MBTextmitEinzug">"</cell><cell rend="MBTextmitEinzug">Juli 4.&#160;3</cell><cell rend="MBTextmitEinzug"/><cell rend="MBTextmitEinzug">"</cell><cell cols="2" rend="MBTextmitEinzug"/><cell rend="MBTextmitEinzug">London zus.</cell><cell rend="MBTextmitEinzug">"</cell><cell rend="MBTextmitEinzug"><hi rend="underline">287.&#160;3.&#160;3</hi></cell></row></table><p sameAs="MBTextmitEinzug">Ich finde daß ich bei Euren <expan resp="editor" sameAs="dottet_underline">C<ex>on</ex>to</expan> <expan resp="editor" sameAs="dottet_underline">C<ex>orren</ex>ts</expan> direct Geld verliere, gegen die mir hier belasteten Saldo Überträge. Die Differenz macht auf die 18&#160;<subst><del>Monate:</del><add>Monate;</add></subst> genau ausgerechnet <hi rendition="#u">£&#160;1.14.9</hi> &amp; werde ich mir daher erlauben Euch in Zukunft alle 6&#160;Monate einen Cto Ct zu schicken denn ich muß natürlich die Cto Cts der hiesigen Firma anerkennen. Auch halte ich hier zu meiner Bequemlichkeit Euer Conto noch immer separat.</p><p sameAs="MBTextmitEinzug">Sei jetzt so gut mir meinen Auszug von <orgName key="pdrPo.001.015.000090088">F.&#160;E. &amp; Co.</orgName>
+                    <pb/>
+                    <hi rendition="#u">recht bald</hi> zu schicken, damit ich mein Privatbuch
+                    abschließen kann. Und zwar seit <supplied cert="high"><hi rendition="#u">Mi</hi></supplied><hi rendition="#u">tte</hi>
+                    <del rendition="#s">Juni</del> 18<hi rendition="#uu">64</hi>, da ich seitdem
+                    noch gar keinen Auszug von Dir gehabt habe über dies Cto – soviel ich weiß.
+                    (Hast Du es Mitte 1864 nicht abgeschlossen, dann von <hi rendition="#u">Anfang
+                        1864</hi>.)<anchor type="verweisziel" xml:id="stop_bsb_4yt_4z"/></p><p sameAs="MBTextmitEinzug">Im Geschäft geht es seit vorigem Septbr wieder besser; wir waren seitdem
+                    stets, &amp; sind jetzt sogar über Gebühr beschäftigt, &amp; stellen neue <seg type="comment"><orig>DT&#160;Maschinen</orig><note xml:id="d2a957f7-e121-4fc1-80b5-23159252ebd4">Dubliermaschinen.</note></seg> auf. Auch die Preise haben sich gebessert,
+                    &amp; im letzten Halbjahr 1865 haben wir doch soviel verdient daß ich meine
+                    Kosten von Juni 1864 an daraus bestritten &amp; noch eine Kleinigkeit übrig
+                    behalten habe; im ersten Jahr meiner Partnership wurde nämlich nicht ein rother
+                    Heller verdient, selbst wenn wir nichts auf Maschinerie abschrieben. Jetzt
+                    müssen wir ein recht gutes Geschäft machen, aber wenn <expan resp="editor" sameAs="dottet_underline">B<ex>aum</ex>wolle</expan> in Folge der starken
+                    Zufuhr unter 18<hi rendition="#sup">d</hi> für Middling Orleans gehn sollte, so
+                    verlieren wir wieder Alles. Das erwarte ich indeß nicht, ich glaube gute Amerik.
+                    Bwolle hält sich im Ganzen auf c<hi rendition="#sup">a</hi> 19<hi rendition="#sup">d</hi> während Surat allerdings stark fallen kann. Sonst
+                    glaub ich daß wir nicht mehr Bwolle bekommen als wir brauchen, &amp; im Ganzen
+                    auf c<hi rendition="#sup">a</hi> 19<hi rendition="#sup">d</hi> für <expan resp="editor" sameAs="dottet_underline">midd<ex>ling</ex></expan> Orleans
+                    bleiben bis gegen Herbst wo möglicher Weise wieder Speculation eintritt &amp;
+                    Preise herauftreibt.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Der <persName key="pdrPo.001.004.000001367">Mutter</persName> werde ich dieser Tage schreiben sobald ich irgend
+                            kann; ihren Brief habe ich vorigen Montag erhalten &amp; mich gefreut zu
+                            erfahren daß es ihr wieder wohlgeht.</orig><note xml:id="ba97592c-9bec-4f2f-8670-8271f47846f3">Siehe <ref target="B00065">E. Engels an Engels, 16. und
+                                17.3.<?oxy_comment_start author="reichhoff" timestamp="20170316T141237+0100" comment="{{Br. 61}}"?>1866<?oxy_comment_end?>.</ref>
+                            Engels’Antwort war nicht zu ermitteln.</note></seg> Grüße sie und alle
+                    Geschwister herzlich von</p><closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u1}</hi>-->Deinem<lb/><supplied cert="high">Friedrich</supplied> </closer><postscript><p><pb/> Apropos. Das hier mir gutgeschriebne Capital betrug wie Du weißt, schon <seg type="comment"><orig>am 30&#160;Juni 1864</orig><note xml:id="d57db503-6535-4187-87d6-1c439a180865">Seit dem 30.&#160;Juni
+                                1864 war Engels Teilhaber der Firma<orgName key="pdrPo.001.015.000090089"> Ermen_&amp;_Engels,
+                                    Manchester</orgName>
+                            </note></seg> etwas über £&#160;13,000.–, &amp; da ich nicht
+                        verpflichtet bin mehr als £&#160;12,000 im Geschäft zu haben, so braucht Ihr
+                        gegen Einkäufe durch uns nicht zu decken, könnt auch einige Rimessen haben,
+                        besonders da Ende Juni wieder c<hi rendition="#sup">a</hi> £&#160;300.–
+                        Zinsen fällig werden. Auch kann ich für Eure <expan resp="editor" sameAs="dottet_underline">Rechn<ex>ung</ex></expan> Zahlungen an
+                            <persName key="pdrPo.001.004.000010602">Funke</persName> machen wenn Du
+                        es wünschest; c<hi rendition="#sup">a</hi> £&#160;1500.– könnt Ihr auf diese
+                        Weise bis 30&#160;Juni oder gleich ziehen. Nur nicht auf uns trassiren, da
+                        hat <seg type="comment"><orig><expan resp="editor" sameAs="dottet_underline">Gottfr<ex>ied</ex></expan></orig><note xml:id="dca5e252-3d97-4c97-8ccd-788e66d07794"><persName key="pdrPo.001.004.000001409">Gottfried Ermen</persName>.
+                            </note></seg> was dagegen, er denkt die Leute könnten das als
+                        Wechselreiterei ansehn wegen der Gleichheit der Firmen.</p></postscript><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Anton</orig><note xml:id="fc431b0e-cc6a-4441-8b15-d078bc7e9bf0"><persName key="pdrPo.001.004.000001406">Anton Ermen</persName>. </note></seg>
+                    hat jetzt schon 4–5&#160;Patente. Das geht in einem fort, alle Nasenlang steht
+                    er in der Zeitung mit einem Patent. </p></div></body></text></TEI>

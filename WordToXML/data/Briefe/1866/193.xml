@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00200" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>193</idno>Sigfrid Meyer an Karl Marx in London. Dahlonega, Montag, 3.
+                    Dezember 1866</title>
+            </titleStmt>
+            <editionStmt>
+                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">f. 1 op. 5 d. 1682</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem, blau liniertem
+                            Papier im Format 179&#160;×&#160;115&#160;mm. Die ersten drei Seiten hat
+                            Meyer vollständig beschrieben, die vierte ist leer. Schreibmaterial:
+                            schwarze Tinte.</p>
+                        <p>Die Schreibweise wurde nicht berichtigt.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000003187">Sigfrid Meyer</persName>
+                    <placeName>Dahlonega</placeName>
+                    <date when="1866-12-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:40:14Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> Pleasant Retreat, near Dahlonega, Lumpkin
+                            C<hi rendition="#sup">o</hi><lb/>Georgia, U. St, december 3<hi rendition="#sup">rd</hi> 1866</dateline>
+                    <address><addrLine>A. Williams Esq London</addrLine></address>
+                    <salute sameAs="MBAnrede">
+                        <lb/>Hochverehrter herr,</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug"> Ich hoffe, daß sie im besize <seg type="comment"><orig>meines briefes vom 22&#160;september</orig><note xml:id="nojj_fl3_kz">Siehe <ref target="B00174">S. Meyer an Marx,
+                                22.9.<?oxy_comment_start author="reichhoff" timestamp="20170406T172836+0200" comment="{{Br. 170}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00174/#ddf47180-00d1-400e-9ef0-47b48d135524">Erl. zu
+                                Meyer an Marx,
+                            22.9.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170508T161526+0200" comment="{{Erl. 170a}}"?>.<?oxy_comment_end?></note></seg>
+                    sind, dem 2&#160;thaler beigefügt waren als verspätete berichtigung der <seg type="comment"><orig>am 17ten januar empfangenen 6&#160;karten.</orig><note xml:id="ndvq_hl3_kz">Siehe <ref target="B00011/#cb864592-8d8a-4a93-b073-8383b8d607bc">Erl. zu Marx
+                                an Liebknecht, 15.1.1866
+                                <?oxy_comment_start author="lindenberg" timestamp="20170508T164920+0200" comment="{{Erl. 10c}}"?></ref><?oxy_comment_end?>.</note></seg><seg type="comment"><orig> Freund Vogt</orig><note xml:id="ce9a87ab-bf6b-4e63-9aee-48e012acbeaf"><persName key="pdrPo.001.004.000004960">August Vogt</persName>. </note></seg>
+                    hat in Berlin eine harte aufgabe und vollzieht sie mit unermüdlicher
+                    anstrengung. Der bürgerliche erwerb lastet schwer auf ihm und dennoch gewinnt er
+                    stets neue kräfte, die aber erst allmälich brauchbar werden können. <seg type="comment"><orig><persName key="pdrPo.001.004.000003176">Mezner</persName>,</orig><note xml:id="njmm_nl3_kz"><persName key="pdrPo.001.004.000003176">Theodor Metzner</persName>.
+                        </note></seg> der, wie ich, längere zeit bei den <seg type="comment"><orig>Bo-Russen</orig><note xml:id="e34a0888-3d1e-4c8d-8640-7e770b52ed2c">eigtl. Borussen&#160;,
+                            neulat. für Preußen.</note></seg> hat söldnerdienste verrichten müssen,
+                    hat durchaus nicht <persName key="pdrPo.001.004.000004960">Vogts</persName>
+                    feuereifer. <seg type="comment"><orig>Es war, wie ich ihnen schon schrieb, nicht
+                            leicht, die karten unter zu bringen.</orig><note xml:id="c7e7ebf1-2e86-435d-b370-9888563b2b27">Siehe <ref target="B00174">S. Meyer an Marx,
+                                22.9.<?oxy_comment_start author="reichhoff" timestamp="20170506T175037+0200" comment="{{Br. 170.3–6}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    Ein junger buchdrucker, <persName key="ed_syf_sly_pz">Seiffert</persName>, liegt
+                    jezt entweder im lazareth oder ist gestorben. <seg type="comment"><orig><persName key="ed_qx2_xky_pz">Reimann</persName>, vorsizender
+                            des fortbildungsvereins der schneider,</orig><note xml:id="nsy4_mn3_kz">Der Schneider-Gewerkverein, dessen Vorsitzender <persName key="ed_qx2_xky_pz">Albert Reimann</persName> war, wurde etwa Anfang
+                            Dezember 1865 in Berlin gegründet. Siehe Liebknecht: Briefwechsel mit
+                            deutschen Sozialdemokraten. Bd._1. S. 141. (((lLiebknecht,Wilhelm:
+                            Briefwechsel mit deutschen Sozialdemokraten. Bd._1. 1862–1878. Assen
+                            1973)))</note></seg> ein verein, der wesentlich unter <persName key="pdrPo.001.004.000004960">Vogts</persName> leitung tüchtige fortschritte
+                    gemacht hat, hat sich noch in neuerer zeit gut entwickelt. Wer im besiz der 6ten
+                    karte ist, habe ich jezt nicht im gedächtnis.</p>
+                <p sameAs="MBTextmitEinzug">Meine Karte [[N.&#160;5413]] bitte ich gefälligst
+                    erneuern zu lassen. Freund <persName key="pdrPo.001.004.000004523">A.
+                        Fr.&#160;Sorge</persName> Hoboken N.J. via New-York</p>
+                <p sameAs="MBTextmitEinzug"><?oxy_comment_start author="lindenberg" timestamp="20161123T163509+0100" comment="mittig setzen!"?>P.O.
+                    letterbox 101<?oxy_comment_end?></p>
+                <p rend="MBTextOhneEinzug">dessen namen sie vielleicht kennen, wird den betrag für
+                    <pb/> mich zahlen und ihnen wol auch über die verhältnisse in den U. St. einige
+                    mittheilungen machen. Wollen sie die güte haben, meine adresse stets mit der von
+                        <persName key="pdrPo.001.004.000004523">Sorge</persName> zu verbinden. Ich
+                    bleibe jedenfalls noch mehrere monate im Süden, wo der goldschwindel mächtig im
+                    wachsen ist; meine aussichten sind nicht schlecht und ich werde wahrscheinlich
+                    über kurz oder lang in New-York mein lager aufschlagen.</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_dms_4zb_5z"/><orig>Ich verließ Deutschland am
+                            6ten&#160;october;</orig><note xml:id="a34ac63c-22c7-43ec-b734-33d1e781d385">Siehe auch <ref target="B00174">S. Meyer an Marx,
+                                22.9.<?oxy_comment_start author="reichhoff" timestamp="20170506T175130+0200" comment="{{Br. 170.13–16}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    <seg type="comment"><orig>unser <persName key="pdrPo.001.004.000002822">Leipziger freund</persName> wurde am 2ten in meiner gegenwart von
+                            den schergen ergriffen</orig><note xml:id="nyr3_rn3_kz">Zur Verhaftung
+                                <persName key="pdrPo.001.004.000002822">Wilhelm
+                                Liebknechts</persName> siehe <ref target="B00178/#d3cd7232-86f4-4309-a619-7609ed71e384">Erl. zu
+                                Liebknecht an Engels,
+                            1.10.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170508T165616+0200" comment="{{Erl. 173f}}"?>.<?oxy_comment_end?>
+                        </note></seg> und ich habe jezt, dank den postmeistern des Südens, noch
+                    keine andere nachricht über ihn, als die durch herrn <persName key="ed_jm1_vdy_pz">J. J.&#160;Sturz</persName> aus Berlin empfangene von
+                    seiner verurteilung zu 3&#160;monaten. Wenn es damit nur abgemacht ist! Er hat
+                    dem vol des Preußischen adlers zu unangenehme hindernisse bereitet.<anchor type="verweisziel" xml:id="stop_dms_4zb_5z"/></p>
+                <p sameAs="MBTextmitEinzug">Während meines 15tägigen aufenthalts in N.Y. besuchte
+                    ich <persName key="pdrPo.001.004.000002336">dr.&#160;A.&#160;Jacobi</persName>,
+                    dem ich mit <pb/> einem exemplar des <seg type="comment"><orig>m.d.c.p.</orig><note xml:id="c5ab0b67-a27e-4be5-8b28-26a6bd25de83">[Karl Marx, Friedrich
+                            Engels:] Manifest der Kommunistischen Partei. Veröffentlicht im Februar
+                            1848. London. Neu herausgegeben durch Sigfrid Meyer. Im Selbstverlage
+                            (Druck von Gustav Muthschall in Berlin). 1866. Siehe <ref target="B00016/#nchb_j4c_5y">Erl. zu Liebknecht an Marx,
+                                18.1.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170508T170353+0200" comment="{{Erl. 15h}}"?>.<?oxy_comment_end?>
+                            (((l[Marx, Karl, Friedrich Engels:] Manifest der Kommunistischen Partei.
+                            Veröffentlicht im Februar 1848. London. Neu herausgegeben durch Sigfrid
+                            Meyer. (Berlin) 1866))) </note></seg> eine große Freude bereiten konnte.
+                    Er sowol, als ich streben danach, vollständige exemplare der <seg type="comment"><orig>Revue <expan resp="editor" sameAs="dottet_underline">d<ex>er</ex></expan> N. Rh. z.</orig><note xml:id="nddt_5n3_kz">Neue
+                                Rheinische Zeitung. Politisch-ökonomische
+                            Revue. London, Hamburg, New York 1850.
+                            (((lNeue_Rheinische_Zeitung._Politisch-ökonomische Revue. London,
+                            Hamburg, New York 1850)))</note></seg> zu erlangen. Vielleicht sind sie
+                    im stande, andeutungen darüber zu geben; eben so erwünscht wäre mir <seg type="comment"><orig>ein vollständiges exemplar der N.Y. <bibl sameAs="zzNYT">tribune</bibl>, umfassend die von ihnen mit beiträgen
+                            bedachten jahrgänge.</orig><note xml:id="ndcn_243_kz">Siehe <ref target="B00093/#f2677181-a28b-459f-9357-476e4ac30f6c">Erl. zu J.
+                                Marx an Engels, nach dem
+                            14.4.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170508T170807+0200" comment="{{Erl. 90b}}"?>.<?oxy_comment_end?></note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Hat die Englische
+                            wochenschrift, welche als vertreterin der interessen der
+                            I.&#160;A.&#160;A. an zu sehen ist, ihren titel gewechselt? ich sah in
+                            Southampton ‚The <bibl sameAs="zzThe Working Man">workingman‘</bibl>.</orig><note xml:id="ntpw_j43_kz">Meyer hatte
+                            vermutlich das Londoner Wochenblatt „The Working Man“ (siehe auch <ref target="B00183/#ncl4_sks_3z">Erl. zu Marx an L. Kugelmann,
+                                9.10.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170508T171230+0200" comment="{{Erl. 178k}}"?>)<?oxy_comment_end?>
+                            gesehen. Zu den Presseorganen der IAA siehe <ref target="B00007/#nmrb_qzn_4y">Erl. zu Marx an J. Ph. Becker, zwischen
+                                9.u.16.1.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170508T172920+0200" comment="{{Erl. 6f}}"?>.<?oxy_comment_end?>
+                            (((zThe_Working_Man)))</note></seg></p>
+                <p sameAs="MBTextmitEinzug">Seit dem october erscheint in N.Y ein wochenblat: The
+                    national <bibl sameAs="zzThe National Workman">workman</bibl>, das sie natürlich
+                    kennen werden.</p>
+                <closer sameAs="MBUnterschrift">Ihr<lb/>Sgfrd. Meyer</closer>
+                <p sameAs="MBAdresse">care of <persName key="pdrPo.001.004.000004523">A. Fr.
+                        Sorge</persName><lb/>P.O. letterbox 101<lb/>Hoboken N.J. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

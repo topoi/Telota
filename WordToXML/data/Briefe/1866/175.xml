@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00180" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>175</idno>Friedrich Engels an Karl Marx in London. Manchester, Dienstag, 2. Oktober 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1620/D III 390</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                                                  228&#160;×&#160;180&#160;mm. Wasserzeichen: „[A
+                                                  Pirie &amp;] Sons [1865]“. Prägung: „ London
+                                                  Superfine“ und ein Wappenschild. Die ersten zwei
+                                                  Seiten hat Engels vollständig beschrieben, die
+                                                  übrigen zwei sind leer. Von dem zweiten, leeren
+                                                  Blatt des Bogens ist oben ein Stück Papier
+                                                  abgerissen worden, so daß die rechte Höhe des
+                                                  Bogens nur 127&#160;mm beträgt. <?oxy_comment_start author="lindenberg" timestamp="20170424T171012+0200" comment="Von dem zweiten, leeren Blatt des Bogens ist oben ein Stück Papier abgerissen worden, so daß die rechte Höhe des Bogens nur 127 mm beträgt. [III/12, Br. 22]"?>
+                                                  <?oxy_comment_end?>Schreibmaterial: schwarze
+                                                  Tinte.</p><p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand: Numerierung  der beschriebenen
+                                                  Seiten: „318,1“ bzw. „318,2“ und „42,1“ bzw.
+                                                  „42,2“ (gestrichen).<?oxy_comment_start author="lindenberg" timestamp="20170424T171101+0200" comment="Von Eduard Bernsteins Hand: Numerierung des Briefes bzw. der beschriebenen Seiten: „318,1“ bzw. „318,2“ und „42,1“ bzw. „42,2“ (gestrichen)."?>
+                                                  <?oxy_comment_end?>Eine Streichung.</p><p>Von Heinrich Dietz’ Hand: Numerierung des Briefes: „867“ (gestrichen).</p><p>Von unbekannter Hand: der Vermerk mit Bleistift auf der ersten Seite oben links: „Vierl[ing]“.</p><p>Engels beantwortet den Brief von Marx vom 1.&#160;Oktober 1866 (Br.&#160;174). Marx' Antwort erfolgte am 3.&#160;Oktober 1866 (Br.&#160;176).</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1997</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;347/348.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1866-10-02"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:40:02Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Mchr 2 Octbr 1866.</dateline><salute sameAs="MBAnrede">Lieber Mohr</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Daß Du einen Wechsel für £&#160;46–
+                                                  unterschrieben hattest Du mir nicht
+                                                  gesagt,</orig><note xml:id="f659e2d3-4052-4cb0-9e5a-9b0eeb269c00">Siehe <ref target="B00176/#start_x4f_vbc_5z">Marx
+                                                  an Engels,
+                                                  26.9.<?oxy_comment_start author="reichhoff" timestamp="20170504T113141+0200" comment="{{Br._171.5–6}}"?>1866<?oxy_comment_end?></ref>
+                                                  und <ref target="B00179">1.10.<?oxy_comment_start author="reichhoff" timestamp="20170504T113250+0200" comment="{{Br. 174.3–6}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        &amp; daher kam es daß ich Dir gestern nur halbe Noten für
+                                        £&#160;40.– schickte, heute folgen die fehlenden Hälften
+                                        &amp; dazu noch eine Fünf Pf. Note I/F 98&#160;815. Mchr
+                                        30&#160;Jan 65.</p><p sameAs="MBTextmitEinzug">Eine andre Fünf Pf Note hat unser Cassirer nicht &amp; zur Post Office Ordre ists zu spät so daß ich den fehlenden Sovereign nicht zulegen kann, indeß über <hi rendition="#u">diesen</hi> Berg wirst Du wohl wegkommen.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Über Moilin
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(((lMoilin,Tony
+                                                  [Jules Antoine]: Leçons de médecine physiologique.
+                                                  Paris 1866)))<?oxy_custom_end?> &amp; Tremaux
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(((lTrémaux,P[ierre]:
+                                                  Origine et transformations de l’homme et des
+                                                  autres êtres. Pt._1.
+                                                  Paris_1865)))<?oxy_custom_end?> schreib ich dieser
+                                                  Tage ausführlicher,</orig><note xml:id="cb70005d-e4d3-4750-bae0-7c7b4ac75860">Siehe <seg type="comment"><note xml:id="nqmt_p1s_3z"><ref target="B00176/#a1099f3f-3146-40b8-bd33-38c3396ff7bd">Erl. zu Marx an Engels,
+                                                  26.9.<?oxy_comment_start author="reichhoff" timestamp="20170519T124341+0200" comment="{{Erl._171c}}"?>1866<?oxy_comment_end?>.</ref></note></seg><?oxy_comment_start author="reichhoff" timestamp="20170519T124654+0200" comment="{{Erl._151g}}"?>
+                                                  <?oxy_comment_end?>und <ref target="B00149/#ncfd_nts_gz">Erl. zu Marx an
+                                                  Engels,
+                                                  7.8.<?oxy_comment_start author="reichhoff" timestamp="20170519T124823+0200" comment="{{Erl._145d}}"?>1866<?oxy_comment_end?></ref>
+                                                  sowie <ref target="B00182">Engels an Marx,
+                                                  5.10.<?oxy_comment_start author="reichhoff" timestamp="20170406T130016+0200" comment="{Br. 177}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        letzteren habe ich noch nicht ganz durchgelesen bin aber zu
+                                        der Überzeugung gekommen daß an seiner ganzen Theorie schon
+                                        deßwegen nichts ist weil er weder Geologie versteht noch <subst>
+                                                <del rendition="#ow">die</del>
+                                                <add place="across">der</add>
+                                        </subst>
+                                        <subst>
+                                                <del rendition="#ow">ordinärste</del>
+                                                <add place="across">ordinärsten</add>
+                                        </subst> literarisch historischen Kritik fähig ist. <seg type="comment"><orig>Die Geschichten von dem Nigger
+                                                  <persName key="ed_mkz_kkk_nz">Santa
+                                                  Maria</persName> &amp; von der Verwandlung der
+                                                  Weißen in Neger sind zum Kranklachen.</orig><note xml:id="c63d8bea-e387-42a0-87d0-66dd888e4432">Um
+                                                  seine Theorie zu untermauern, verwandte <persName key="ed_mly_4vn_hz">Pierre Trémaux</persName> in
+                                                  seinem Buch die These, Schwarze würden von den
+                                                  Weißen abstammen. Siehe P[ierre] Trémaux: Origine
+                                                  et transformations de l’homme et des autres êtres.
+                                                  Pt._1. Paris 1865. S._95–97.
+                                                  (((lTrémaux,P[ierre]:Origine et transformations de
+                                                  l’homme et des autres êtres. Pt._1. Paris 1865)))
+                                                </note></seg> Namentlich <pb/> daß die Traditionen
+                                        der Senegal Nigger unbedingten Glauben verdienen <hi rendition="#u">grade weil die Kerle nicht schreiben
+                                                können!</hi> Außerdem ist hübsch die Unterschiede
+                                        zwischen einem Basken, einem Franzosen, einem Bretonen &amp;
+                                        einem Elsasser auf die Bodenformation zu schieben, die
+                                        natürlich auch daran schuld ist daß die Leute vier
+                                        verschiedne Sprachen sprechen.</p><p sameAs="MBTextmitEinzug">Wie sich der Mann das erklärt daß wir Rheinländer auf unsrem devonischen
+                                        Übergangsgebirge (das seit <del> der Kohle<sic ana="#break-off"/></del> lange vor der
+                                        Kohlenformation nicht wieder unter dem Meere war) nicht
+                                        längst Idioten &amp; Nigger geworden sind, <seg type="comment"><orig>wird er vielleicht im 2<hi rendition="#sup">ten</hi>&#160;Band
+                                                  nachweisen</orig><note xml:id="nedh_zbs_3z">Ein
+                                                  zweiter Band dieses Werkes erschien
+                                                nicht.</note></seg> oder aber behaupten wir seien
+                                        wirkliche Nigger.</p><p sameAs="MBTextmitEinzug">Das Buch ist gar nichts werth, reine Construction die allen Thatsachen ins Gesicht schlägt, &amp; für jeden Beweis den es anführt, selbst erst wieder einen Beweis liefern müßte.</p><p sameAs="MBTextmitEinzug">Beste Grüße an die ladies.</p><closer sameAs="MBUnterschrift">Dein<lb/>F. E. </closer></div></body></text></TEI>

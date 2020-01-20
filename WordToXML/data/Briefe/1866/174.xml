@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00179" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>174</idno>Karl Marx an Friedrich Engels in Manchester. London, Montag, 1. Oktober 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4463/L VI 595</idno></idno></msIdentifier><physDesc>
+                                                <p>Der Brief besteht aus einem Bogen festem, weißem
+                                                  Papier im Format 223&#160;×&#160;175&#160;mm.
+                                                  Prägung: nicht deutlich erkennbar. Die erste Seite
+                                                  hat Marx vollständig beschrieben, die zweite zu
+                                                  einem Viertel, die übrigen zwei Seiten sind leer.
+                                                  Schreibmaterial: schwarze Tinte.</p>
+                                                <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand: Numerierung  der
+                                                  beschriebenen Seiten: „51,1“ bzw.
+                                                  „51,2“.<?oxy_comment_start author="lindenberg" timestamp="20170424T170910+0200" comment="Von Eduard Bernsteins Hand: Numerierung des Briefes bzw. der beschriebenen Seiten: „51,1“ bzw. „51,2“."?></p>
+                                                <?oxy_comment_end?>
+                                                <p>Engels beantwortet den Brief am 2. und
+                                                  5.&#160;Oktober 1866 (Br.&#160;175 und 177).</p>
+                                        </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1996</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;346/347.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-10-01"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:40:02Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 1 October.’66.</dateline><salute sameAs="MBAnrede">Lieber Engels,</salute></opener><p sameAs="MBTextohneEinzug">Ich weiß nicht, ob ich Dir <seg type="comment"><orig>in den letzten
+                                                  Zeilen</orig><note xml:id="d59bcdf5-3f18-41da-9735-8bc98c21352b">Siehe <ref target="B00176">Marx an Engels,
+                                                  26.9.<?oxy_comment_start author="reichhoff" timestamp="20170406T125611+0200" comment="{Br. 171}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        angezeigt, daß ich <add>einen</add>
+                                        <hi rendition="#u">Wechsel</hi> (nicht mehr in der Hand des
+                                        landlord) für die Miethe zu zahlen habe. <seg type="comment"><orig><persName key="ed_m5m_fhj_nz">Sawyer</persName> schrieb, der Wechsel sei am 2.
+                                                  dieses, also Morgen fällig.</orig><note xml:id="ny21_byr_3z">Ebenda.
+                                                {{Z._.5–6}}.</note></seg> Ich ging gestern zu ihm,
+                                        da nach meiner Rechnung die Sache erst am
+                                                3.&#160;<add>October</add> fällig sein konnte, indem
+                                        ich den Wechsel am 1.&#160;Juli, 3&#160;months, ausgestellt,
+                                        also 3&#160;Tage Sicht <add>zukommen</add>. Es fand sich
+                                        dann auch, daß ich Recht hatte. Die Summe beträgt 46&#160;l.
+                                                <add place="superlinear">(3&#160;quarters)</add> u.
+                                        ich bin seit vielen Wochen sans sou, indem die small sums,
+                                        die noch via Pfandhaus zu erlangen waren, aufgehört.</p><p sameAs="MBTextmitEinzug">Da ich nun ausserdem hard pressed von der in <expan resp="editor" sameAs="dottet_underline">d<ex>en</ex></expan> letzten Monaten <add>wieder</add>
+          accumulirten <del> v <sic ana="#break-off"/></del> täglichen „Zufuhr“ u. ich <seg type="comment"><orig>unter den jetzigen Umständen (<persName key="pdrPo.001.004.000002648">Lafargue</persName>) </orig><note xml:id="nakj_k1s_3z">Marx verweist hier auf die Verlobung seiner Tochter <persName key="pdrPo.001.004.000002647">Laura</persName> mit <persName key="pdrPo.001.004.000002648">Paul Lafargue</persName>. Siehe <ref target="B00149/#start_zxs_n2w_tz">Marx an Engels,
+                7.8.<?oxy_comment_start author="reichhoff" timestamp="20170504T112500+0200" comment="{{Br. 145.9–31}}"?>1866<?oxy_comment_end?></ref>,
+                <ref target="B00154">Marx an P. Lafargue,
+                13.8.<?oxy_comment_start author="reichhoff" timestamp="20170406T125809+0200" comment="{{Br._150}}"?>1866<?oxy_comment_end?></ref>,
+                <ref target="B00162">Marx an Engels,
+                23.8.<?oxy_comment_start author="reichhoff" timestamp="20170504T112607+0200" comment="{{Br._158.3–14}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00189">8.11.<?oxy_comment_start author="reichhoff" timestamp="20170504T112706+0200" comment="{{Br._184.19–22}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          mehr als je allen éclat vermeiden muß, würde ich sofort nach dem Continent abreisen, um zu
+          sehn was ich dort „persönlich“ ausrichten kann. Indeß muß ich das aufschieben, bis <seg type="comment"><orig>mein Mscpt</orig><note xml:id="b2f71398-fa13-4f31-a8ac-7bee33faa33d">Gemeint ist hier Karl Marx: Das Kapital;
+              siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an J.
+                Ph. Becker, zwischen 9. und
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170519T124148+0200" comment="{{Erl. 6b}}"?>1866<?oxy_comment_end?>.</ref>
+              (((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg> fertig, so daß ich es
+          mitholen kann u. keine neue Unterbrechung stattfindet. </p><p sameAs="MBTextmitEinzug"><pb/> Du entschuldigst mich, daß ich Dich beständig bother u. quäle mit
+          meinem Privatdreck. <seg type="comment"><orig>Ich hatte mich zu sehr auf Empfang <expan resp="editor" sameAs="dottet_underline">hölländ<ex>ischen</ex></expan> Gelds
+              verlassen.</orig><note xml:id="nqmt_p1s_3z">Siehe <ref target="B00176/#start_x4f_vbc_5z">Marx an Engels,
+                26.9.<?oxy_comment_start author="reichhoff" timestamp="20170504T112957+0200" comment="{{Br. 171.6–8}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00176/#a1099f3f-3146-40b8-bd33-38c3396ff7bd">Erl. zu Marx an Engels,
+                26.9.<?oxy_comment_start author="reichhoff" timestamp="20170519T124341+0200" comment="{{Erl._171c}}"?>1866<?oxy_comment_end?>.</ref></note></seg></p><closer sameAs="MBUnterschrift">Dein<lb/>KMarx</closer><postscript><p><seg type="comment"><orig>Was hälst Du von Moilin?</orig><note xml:id="c8836aa0-2b92-45d9-a997-809949ddd573">Siehe <ref target="B00155/#a68bf500-67f0-47d6-835a-d1768be5a5d0">Erl. zu Marx an Engels,
+                  13.8.<?oxy_comment_start author="reichhoff" timestamp="20170519T124521+0200" comment="{{Erl._151g}}"?>1866<?oxy_comment_end?>.</ref></note></seg><ref target="B00155/#a68bf500-67f0-47d6-835a-d1768be5a5d0"> </ref><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(((lMoilin,Tony
+            [Jules Antoine]: Leçons de médecine physiologique. Paris 1866)))<?oxy_custom_end?>
+          </p></postscript></div></body></text></TEI>

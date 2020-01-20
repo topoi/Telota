@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00075" xml:lang="de"><teiHeader><fileDesc><titleStmt>
+                <title><idno><?oxy_comment_start author="lindenberg" timestamp="20161215T133309+0100" comment="Registerauszeichnungen besonders prüfen (i&gt;&gt;&gt; fehlen ggf.)"?>72<?oxy_comment_end?></idno>Karl
+                    Marx an Friedrich Engels in Manchester. Margate, Samstag, 24. März 1866</title>
+            </titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4446/L VI 579</idno></idno></msIdentifier><physDesc>
+                        <p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format
+                            270&#160;×&#160;213&#160;mm. Die erste, dritte und vierte Seite hat Marx
+                            vollständig beschrieben, die zweite ist leer. Schreibmaterial: schwarze
+                            Tinte.</p>
+                        <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand:
+                            Nummerierung des Briefes bzw. der beschriebenen Seiten: „15,1“ bis
+                            „15,3“. </p>
+                        <p>Engels’ Antwort erfolgte am 27.&#160;März 1866 (Engels an Marx,
+                            27.3.1866).</p>
+                    </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1950</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;301–303.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>Margate</placeName><date when="1866-03-24"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:59Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 24 März, 1866.<lb/>5, Lansell’s Place, Margate.</dateline><salute sameAs="MBAnrede">Lieber Fred,</salute></opener><p sameAs="MBTextohneEinzug">Aus der verspäteten Erscheinung dieses Briefs kannst Du sehn, wie
+                    „professionell“ ich <seg type="comment"><orig>meine Zeit hier</orig><note xml:id="nycj_gdw_1z">Zu Marx’ Erholungsaufenthalt in Margate siehe <ref target="B00054/#a9fd0c5d-779b-4626-bf9f-71889bd4804c">Erl. zu Engels
+                                an Marx, 5.3.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170517T153540+0200" comment="{{Erl. 51a}}."?></note><?oxy_comment_end?></seg>
+                    anwende. Ich lese nichts, schreibe nichts. Schon des dreimaligen Arseniks <subst>
+                        <del rendition="#s">des</del>
+                        <add place="superlinear">im</add>
+                    </subst> Tag wegen muß man Mahlzeiten u. die Zeiten des Herumbummelns an der See
+                    u. auf den <del>be <sic ana="#break-off"/></del> nachbarlichen hills so
+                    einrichten, daß man „keine Zeit“ findet zu andern Dingen. Und Abends ist man zu
+                    müde, um etwas andres zu thun als zu schlafen. Das Wetter ist im Ganzen etwas
+                    rauh u. namentlich bläst hier oft ein Wind vom Osten, der somewhat chilling,
+                    aber auch daran ist man bald gewöhnt. Wie sehr ich mich erholt habe, kannst Du
+                    daraus sehn, daß ich <seg type="comment"><orig>letzten Sonntag</orig><note xml:id="np1g_n2w_1z">18. März 1866.</note></seg> per pedes <seg type="comment"><orig>nach Canterbury (17&#160;miles von hier) in weniger als
+                            4&#160;Stunden marschirte.</orig><note xml:id="numr_kmw_1z">Siehe auch
+                                <ref target="B00073/#start_jzc_smh_4z">Marx an L. Marx,
+                                20.3.<?oxy_comment_start author="reichhoff" timestamp="20170413T183002+0200" comment="{{Br. 70.47–74}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                    <anchor type="verweisziel" xml:id="start_pfw_zxg_4z"/>Was den geselligen Verkehr
+                    hier angeht, so existirt er natürlich nicht. Ich kann singen <seg type="comment"><orig>mit dem miller of the Dee: „I care for nobody and nobody cares
+                            for me.“</orig><anchor type="verweisziel" xml:id="stop_pfw_zxg_4z"/><note xml:id="c0b5053f-236f-49c2-a3cd-443786eaabe9">Aus dem englischen
+                            Volkslied „The Miller of Dee“. Siehe auch <ref target="B00071/#start_brg_djh_4z">Marx an N. Philips,
+                                18.3.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170413T215904+0200" comment=" {{Br. 67.12–13}} "?> und<?oxy_comment_end?>
+                            <ref target="B00073/#start_pnb_4xg_4z">Marx an L. Marx,
+                                20.3.<?oxy_comment_start author="reichhoff" timestamp="20170413T220031+0200" comment="{{Br._70.9–10}}"?>1866<?oxy_comment_end?></ref>.
+                            (((lThe_Miller_of_Dee))) </note></seg></p>
+                <anchor type="verweisziel" xml:id="start_xxs_dvg_4z"/><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Vorgestern Abend mußte ich nach London, um
+                            einer „Gesellschaft“ bei meinen Töchtern beizuwohnen.</orig><note xml:id="c89c158a-50c1-439a-bcb9-4b56de089b6d">Siehe <ref target="B00072">L. Marx an Marx,
+                                20.3.<?oxy_comment_start author="reichhoff" timestamp="20170413T220216+0200" comment="{{Br. 69.20–26}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    <seg type="comment"><orig>Mein Onkel</orig><note xml:id="fffc96ed-7a53-4242-8ad9-00c8b9c9499f"><persName key="pdrPo.001.004.000003715">Lion Philips</persName>. </note></seg>
+                    hatte ihnen Weihnachten 5&#160;l. geschickt, die aber zu <hi rendition="#u">general purposes</hi> ihnen „entlehnt“ wurden u. die sie erst
+                    zurückerhielten <seg type="comment"><orig>sobald Dein Geld ankam.</orig><note xml:id="dbf6011e-70b6-4548-a3db-4afcc076714c">Das Geld erhielt Marx
+                            vermutlich mit einem nicht überlieferten Brief von Engels, geschrieben
+                            zwischen 10. und 15.&#160;März 1866, zwischen <ref target="B00061">Marx
+                                an Engels, 10.3.1866</ref>
+                            <?oxy_comment_start author="reichhoff" timestamp="20170316T141530+0100" comment="{{Br._57}}"?>
+                            <?oxy_comment_end?>und <ref target="B00066">16.3.<?oxy_comment_start author="reichhoff" timestamp="20170316T141703+0100" comment="{{Br._62}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    Sie arrangirten damit ihre jährliche „party“ u. bombardirten mich so mit
+                    Briefen, daß ich nach London „machte“, wie Herr <persName key="pdrPo.001.004.000003476">Nothjung</persName> zu sagen pflegte. Ich
+                    kehrte aber gleich den nächsten Morgen (i.e. gestern) hier nach meiner
+                    Einsiedelei zurück.<anchor type="verweisziel" xml:id="stop_xxs_dvg_4z"/></p>
+                <anchor type="verweisziel" xml:id="start_ygp_bby_nz"/><p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_l5m_hvz_nz"/>Bevor ich hierhin
+                    aufbrach (<seg type="comment"><orig>was Mittwoch 14&#160;März
+                            geschah)</orig><note xml:id="a408e8e9-e9a2-4697-a272-5d934e108904">Möglicherweise irrt Marx hier, denn in seinen früheren Briefen (<ref target="B00066">Marx an Engels,
+                                16.3.<?oxy_comment_start author="reichhoff" timestamp="20170413T220343+0200" comment="{{Br._62.4}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00067/#start_ofk_w43_4z"><?oxy_comment_start author="reichhoff" timestamp="20170413T220640+0200" comment="{{Br._63.4}}"?>Marx
+                                an J. Marx, 16.3.1866<?oxy_comment_end?></ref>) ist von einer
+                            Anreise in Margate am 15._März die Rede.</note></seg>, mußte ich,
+                    obgleich damals noch in sehr elendem Zustand, 12 u. 13&#160;März <pb/> nach
+                    einander den Abendsitzungen, <seg type="comment"><orig>erst der shareholders des
+                            Common <bibl sameAs="zzThe Commonwealth">Wealth</bibl>,</orig><note xml:id="fa8fb2a3-075e-4bb2-8d67-089a3bbb45c5">Siehe <ref target="B00007/#nmrb_qzn_4y">Erl. zu Marx an J. Ph. Becker, zwischen
+                                9. und 15.1.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170517T153930+0200" comment="{{Erl. 6f}}"?>,<?oxy_comment_end?>
+                            <ref target="B00036/#nxqw_mn4_1y">Erl. zu Marx an Engels,
+                                10.2.1866</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170517T154938+0200" comment="{{33i}}}"?>
+                            <?oxy_comment_end?>und <ref target="B00061/#a2eadb9f-00d7-4678-bc70-36680da10dd1">Erl. zu Marx
+                                an Engels, 10.3.1866</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170517T155428+0200" comment="{{57e}}"?>
+                            <?oxy_comment_end?>sowie <ref target="B00062">R. Applegarth an Marx, vor
+                                dem 12. März 1866
+                            </ref><?oxy_comment_start author="reichhoff" timestamp="20170316T141935+0100" comment="{{Br. 58}}"?>.<?oxy_comment_end?></note></seg>
+                    u. zweitens <subst>
+                        <del rendition="#s">der</del>
+                        <add place="superlinear">am</add>
+                    </subst><seg type="comment"><orig> 13., des Central Council
+                            beiwohnen.</orig><anchor type="verweisziel" xml:id="stop_ygp_bby_nz"/><note xml:id="d24847fd-4f15-4d77-b55c-714791a68588">Siehe The_Minute
+                            Book 1864–1866. In: MEGA²&#160;I/20. S.&#160;392/393. (((lThe_Minute
+                            Book 1864–1866. In: MEGA²&#160;I/20. S._265–450))) </note></seg></p><p sameAs="MBTextmitEinzug"><subst>
+                        <del>An<sic ana="#break-off"/></del>
+                    </subst>
+                    <seg type="comment"><orig>Bei der erstern Gelegenheit hatte Herr <subst>
+                                <del>Kremer</del>
+                                <add><persName key="pdrPo.001.004.000001027">Cremer</persName></add>
+                            </subst> alles arrangirt, um <persName key="pdrPo.001.004.000001296">Eccarius</persName> an die Luft zu setzen,</orig><note xml:id="b14ba265-f5c6-4b18-a941-49d90ef50296">Seit dem 10.&#160;Februar
+                            1866 war <persName key="pdrPo.001.004.000001296">Johann Georg
+                                Eccarius</persName> Redakteur der Zeitung „The Commonwealth“.
+                            (((zThe_Commonwealth))) Siehe <ref target="B00036/#start_r1p_14k_nz">Marx an Engels,
+                                10.2.<?oxy_comment_start author="reichhoff" timestamp="20170413T220751+0200" comment="{{Br. 33.33–44}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    was ohne mein Erscheinen wohl geschehn wäre. So hatte die Sitzung nur den
+                    Erfolg, daß Herr Cremer „freiwillig“ abtrat von der Redaction. <seg type="comment"><orig>Wie die Sache weiter gegangen ist, weiß ich nicht, denn
+                            alles war nur „provisorisch“ für eine Woche settled, u. <expan resp="editor" sameAs="dottet_underline"><anchor type="verweisziel" xml:id="start_odz_25z_nz"/>d<ex>as</ex></expan> allgemeine
+                            shareholders meeting für den 19&#160;März vertagt.</orig><anchor type="verweisziel" xml:id="stop_odz_25z_nz"/><note xml:id="e4609216-64cc-40ca-baf9-715e219727d2">Siehe <ref target="B00062">R. Applegarth an Marx, vor dem 12. März 1866
+                            </ref><?oxy_comment_start author="reichhoff" timestamp="20170316T142257+0100" comment="{{Br. 58}}"?>.<?oxy_comment_end?></note></seg>
+                    Doch wird es wohl auch hier heissen: <seg type="comment"><orig>Beati
+                            possidentes</orig><note xml:id="ef067634-f1dc-408c-8c0f-53c33a254d03">beatus possidens (lat.) – glücklich [ist] der Besitzende (hier
+                            Plural).</note></seg>, u. zunächst war <persName key="pdrPo.001.004.000001296">Eccarius</persName>, in Folge jener Sitzung,
+                    der possidens.<anchor type="verweisziel" xml:id="stop_l5m_hvz_nz"/></p>
+                <anchor type="verweisziel" xml:id="start_ips_glm_qz"/><p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_jyy_s1y_nz"/><anchor type="verweisziel" xml:id="start_pbc_5bx_pz"/>Die Intrigue im Central <subst>
+                        <del>council</del>
+                        <add>Council</add>
+                    </subst> hing eng zusammen mit den rivalries u. jealousies in Bezug auf <seg type="comment"><orig>das Journal</orig><note xml:id="a341e2d4-6d8d-4de0-8a33-8bdcf9c9cb62">„The Commonwealth“
+                            (London). (((zThe_Commonwealth))) </note></seg>, (Herr <persName key="pdrPo.001.004.000002244">Howell</persName> wünschte Editor in chief zu
+                    werden, u. Herr <persName key="pdrPo.001.004.000001027">Cremer</persName>
+                    ditto). Herr Le <persName key="pdrPo.001.004.000002770">Lubez</persName> hatte
+                    das benutzt, um gegen German influence zu wühlen, u. <anchor type="verweisziel" xml:id="start_z5m_kbx_pz"/><seg type="comment"><orig>in der Sitzung vom
+                            6&#160;März fand eine schön u. still vorbereitete Scene
+                            statt.</orig><note xml:id="d1059336-c22b-455e-b1ed-1ea0f040f62f">Siehe
+                            The_Minute Book 1864–1866. In: MEGA²&#160;I/20. S.&#160;390/391
+                            (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20. S._265–450))) sowie
+                                <ref target="B00057">H. Jung an Marx,
+                                8.3.<?oxy_comment_start author="reichhoff" timestamp="20170316T142522+0100" comment="{{Br. 54}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00071/#start_ft5_1q3_4z">Marx an N. Philips,
+                                18.3.<?oxy_comment_start author="reichhoff" timestamp="20170413T221104+0200" comment="{{Br. 67.50–80}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    Es erschien nämlich plötzlich Major <persName key="pdrPo.001.004.000005182">Wolf</persName> u. hielt eine feierliche Rede in seinem u. <persName key="pdrPo.001.004.000003114">Mazzini’s</persName> Namen u. dem <seg type="comment"><orig>der Italian <del rendition="#s">Br<ex>anch</ex></del><sic ana="#break-off"/> society</orig>
+                        <note xml:id="c465cc8d-faf9-4107-acef-eca4f0158910">
+                            <p rend="endnote text">Associatione di Mutuo Progresso degli Operai
+                                Italiani di Londra. Diese Organisation italienischer Arbeiter in
+                                London wurde im Juni 1864 dort gegründet und stand unter dem
+                                Einfluss <persName key="pdrPo.001.004.000003114">Giuseppe
+                                    Mazzinis</persName>. Am 13.&#160;Dezember 1864 schloss sie sich
+                                der IAA an. (Siehe The_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+                                S.&#160;288 und 291/292.) (((lThe_Minute Book 1864–1866. In:
+                                MEGA²&#160;I/20. S._265–450))) </p>
+                        </note>
+                    </seg> gegen die Antwort auf <seg type="comment"><orig><persName key="pdrPo.001.004.000004915">Vésinier’s</persName>
+                            Attaque,</orig><note xml:id="njkx_d3w_1z">[Pierre Vésinier:]
+                            L’Association Internationale des Travailleurs. Un des membres du
+                            comité&#160;… In: L’Écho de Verviers. Nr.&#160;293, 16.&#160;Dezember
+                            1865. S.&#160;1/2; [derselbe:] L’Association Internationale des
+                            Travailleurs. Fin. Ebenda. Nr.&#160;294, 18.&#160;Dezember 1865.
+                            S.&#160;2/3. (((l[Vésinier,Pierre:] L’Association Internationale des
+                            Travailleurs. Un des membres du comité&#160;… In: L’Écho de Verviers.
+                            Nr.&#160;293, 16.&#160;Dezember 1865. S.&#160;1/2; [derselbe:]
+                            L’Association Internationale des Travailleurs. Fin. Ebenda.
+                            Nr.&#160;294, 18.&#160;Dezember 1865. S.&#160;2/3))) </note></seg> die
+                        <seg type="comment"><orig><persName key="pdrPo.001.004.000002417">Jung</persName>, im Namen des Central Council, dem „Echo de <bibl sameAs="zzL’Écho de Verviers">Verviers“</bibl> zugeschickt
+                            hatte.</orig><note xml:id="nzgt_j3w_1z"> Hermann Jung: [Lettre ouverte à
+                            Pierre Vésinier publiée dans „L’Écho de Verviers“.] In: L’Écho de
+                            Verviers. Nr.&#160;43, 20.&#160;Februar 1866. S.&#160;1/2. [dort
+                            u._d._T.:] L’Association Internationale des Travailleurs.
+                            (MEGA²&#160;I/20. S.&#160;603–611). (((lJung,Hermannnn: [Lettre ouverte
+                            à Pierre Vésinier publiée dans „L’Écho de Verviers“.] In: L’Écho de
+                            Verviers. Nr.&#160;43, 20.&#160;Februar 1866. S.&#160;1/2. [dort
+                            u._d._T.:] L’Association Internationale des Travailleurs.))) - Siehe
+                            auch <ref target="B00004">Marx an Engels,
+                                5.1.<?oxy_comment_start author="reichhoff" timestamp="20170316T142800+0100" comment="{{Br. 3}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    Er attaquirte Jung u. (impliciter) mich sehr heftig. Der alte Mazzinism v.
+                        <persName key="pdrPo.001.004.000003494">Odgers</persName>, <persName key="pdrPo.001.004.000002244">Howell</persName>, <persName key="pdrPo.001.004.000001027">Cremer</persName> u.s.w. machte sich Luft.
+                        <persName key="pdrPo.001.004.000002770">Le Lubez</persName> schürte das
+                    Feuer <seg type="comment"><orig>u., at all events, wurde eine Resolution
+                            passirt, die mehr od. minder amende honorable für <persName key="pdrPo.001.004.000003114">Mazzini</persName>, <persName key="pdrPo.001.004.000005182">Wolf</persName> etc
+                            einschloß.</orig><note xml:id="ee0edc3a-b6bc-43e1-8ada-999aac4bf5f8">Siehe The_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+                            S.&#160;390.27–391.2 (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+                            S._265–450))) </note></seg> Du siehst, die Sache war ernsthaft. (Von den
+                    Foreigners waren nur a few present u. keiner stimmte.) Es wäre ganz artiger
+                    Streich von <persName key="pdrPo.001.004.000003114">Mazzini</persName>,
+                        <del>nachdem ich<sic ana="#break-off"/></del> mich die Gesellschaft so weit
+                    bringen zu lassen u. sie dann sich anzueignen. <del> Den folgenden <sic ana="#break-off"/></del>
+                    <pb/> Er verlangte von den Engländern als chef der continentalen Demokratie
+                    anerkannt zu werden, als ob die Herrn Engländer <hi rendition="#u">uns</hi>
+                    chefs zu ernennen hätten!</p><p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_a3f_2zg_4z"/>Am Sonnabend
+                    (10&#160;März) versammelten sich die Foreign secretairs <expan resp="editor" sameAs="dottet_underline">d<ex>er</ex></expan> Gesellschaft bei mir, um
+                    Kriegsrath zu halten. (<persName key="pdrPo.001.004.000001279">Dupont</persName>, <persName key="pdrPo.001.004.000002417">Jung</persName>,
+                        <persName key="pdrPo.001.004.000002885">Longuet</persName>, <persName key="pdrPo.001.004.000002648">Lafargue</persName>, <persName key="pdrPo.001.004.000000484">Bobzinscki</persName>). Es wurde beschlossen,
+                    daß ich unter allen Umständen Dienstag (13) im Council erscheinen u. gegen die
+                    Proceedings im Namen <hi rendition="#u">aller</hi> Foreign secretaries <hi rendition="#u">protestiren</hi> sollte. <seg type="comment"><orig>Die
+                            Proceedings waren nämlich irregular, weil <persName key="pdrPo.001.004.000005182">Wolf</persName> aufgehört hat member
+                            of the Council zu sein,</orig><note xml:id="b10d9929-263c-479f-88d9-6a0e58e079a8">In der Sitzung des
+                            Zentralrats der IAA am 14.&#160;März 1865 hatte <persName key="pdrPo.001.004.000005182">Luigi Wolff</persName> schriftlich
+                            seinen Rücktritt als Mitglied des Zentralrats eingereicht; der
+                            Zentralrat vertagte aber die Bestätigung dieser Frage. (The_Minute Book
+                            1864–1866. In: MEGA²&#160;I/20. S.&#160;307.2–10) (((lThe_Minute Book
+                            1864–1866. In: MEGA²&#160;I/20. S._265–450))) Weitere Details dazu siehe
+                            MEGA²&#160;III/13. Erl._265.31–33.</note></seg> in seiner Gegenwart also
+                    keine Resolution passirt werden dürfte, über eine Sache, worin er persönlich
+                    implicirt war. Ich sollte ferner das Verhältniß Mazzinis theils zu unsrer
+                    Gesellschaft, theils zu <expan resp="editor" sameAs="dottet_underline">d<ex>en</ex></expan> continental working men’s parties auf dem
+                    Continent auseinandersetzen u.s.w. Endlich sollten die Franzosen César <persName key="ed_erg_rjw_wx">Orsini</persName> mitbringen u. er (der by the by
+                    persönlicher <subst>
+                        <del><unclear reason="illegible" cert="high">ami</unclear></del>
+                        <add>Freund</add>
+                    </subst> Mazzinis) evidence geben über <persName key="pdrPo.001.004.000003114">Mazzini</persName>, <persName key="pdrPo.001.004.000005182">Wolf</persName>, u. <expan resp="editor" sameAs="dottet_underline">d<ex>en</ex></expan> state of „socialism“ in Italien.<anchor type="verweisziel" xml:id="stop_a3f_2zg_4z"/><anchor type="verweisziel" xml:id="stop_jyy_s1y_nz"/><anchor type="verweisziel" xml:id="stop_z5m_kbx_pz"/></p><p sameAs="MBTextmitEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_bm3_mzg_4z"/><orig>Die Sache ging über alles Erwarten gut ab;</orig><note xml:id="a1789a38-725a-46a9-aebb-2eae7849e562">In der Sitzung des
+                            Zentralrats am 13.&#160;März 1866 war es Marx und seinen Anhängern nach
+                            heftiger Diskussion gelungen, den Beschluss vom 6.&#160;März für
+                            ungültig zu erklären. Siehe The_Minute Book 1864–1866. In:
+                            MEGA²&#160;I/20. S.&#160;392/393. In den Sitzungen des Zentralrats am
+                            27.&#160;März und 17.&#160;April 1866 kam es wieder zur Aussprache über
+                            diese Fragen. Siehe ebenda. S.&#160;395.32–396.4 und 401.31–402.6.
+                            (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20. S._265–450))))
+                        </note></seg> nur war leider (wegen der <seg type="comment"><orig>Reformliguescheisse</orig>)<note xml:id="e048dd74-61f3-43c7-bddb-3dfc5f49e285">
+                            <p rend="endnote text">Zur Reform League siehe <ref target="B00007/#ad3d64b6-cc97-4e64-a37d-88309702e416">Erl. zu
+                                    Marx an J. Ph. Becker, zwischen 9. und 15.1.1866</ref>
+                                <?oxy_comment_start author="lindenberg" timestamp="20170517T160109+0200" comment="{{Erl. 6x}}"?>
+                                <?oxy_comment_end?>und <ref target="B00007/#de3efba0-912a-4f0d-9099-88a83e4b4163">Erl. zu
+                                    Marx an J. Ph. Becker, zwischen 9. und 15.1.1866.</ref>
+                                <?oxy_comment_start author="lindenberg" timestamp="20170517T155941+0200" comment="{{6y}}."?>
+                                <?oxy_comment_end?>- In der Sitzung des Zentralrats am 13.&#160;März
+                                1866 hat <persName key="pdrPo.001.004.000001603">Peter Fox
+                                    André</persName> über die von der Reform League einberufene
+                                National Reform Conference berichtet, die am 28.&#160;Februar und
+                                1.&#160;März 1866 stattgefunden hatte. Siehe The Minute Book
+                                1864–1866. In: MEGA²&#160;I/20. S.&#160;392.5–8 und MEGA²&#160;I/20.
+                                Erl._392.6-8. (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+                                S._265–450))) </p>
+                        </note></seg> das englische Element nicht stark vertreten. Dem <persName key="pdrPo.001.004.000002770">Lubez</persName> wusch ich den Kopf.
+                    Jedenfalls ist den Engländern (in der That ist auch hier nur eine Minorität
+                    gemeint) klar geworden, daß das ganze Continental element wie Ein Mann mit mir
+                    zusammenhängt, u. daß es sich hier keines wegs, wie Herr <persName key="pdrPo.001.004.000002770">Lubez</persName> insinuirt hatte, um <hi rendition="#u">„German“</hi> influence handelt. <persName key="pdrPo.001.004.000002770">Lubez</persName> hatte ihnen beizubringen
+                    gesucht, daß ich als leader des <hi rendition="#u">English</hi> element des
+                    Council die übrigen <hi rendition="#u">continental</hi> elements down hielte;
+                    die Herrn Engländer haben sich jetzt <add>umgekehrt</add> überzeugt, daß ich <hi rendition="#u">sie</hi> durch das continental element vollständig in der
+                    Hand habe, sobald sie Eselssprünge machen. <anchor type="verweisziel" xml:id="stop_ips_glm_qz"/>Weiteres hierüber das nächstemal.<anchor type="verweisziel" xml:id="stop_pbc_5bx_pz"/><anchor type="verweisziel" xml:id="stop_bm3_mzg_4z"/></p><p sameAs="MBTextmitEinzug">Ehe ich herging, habe ich zu Haus natürlich die schreiendsten debts
+                    abgezahlt, da ich sonst keine ruhige Stunde gehabt hätte. <seg type="comment"><orig><anchor type="verweisziel" xml:id="start_cpt_5rt_4z"/>Wenn Du
+                            mir Ende dieses Monats noch eine Kleinigkeit schicken kannst, ist es mir
+                            lieb.</orig><anchor type="verweisziel" xml:id="stop_cpt_5rt_4z"/><note xml:id="e716e332-0088-4dc9-a56f-55fcb4ca70ac">Siehe <ref target="B00077">Engels an Marx,
+                                27.3.<?oxy_comment_start author="reichhoff" timestamp="20170413T221520+0200" comment="{{Br. 74.15}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    <seg type="comment"><orig><anchor type="verweisziel" xml:id="start_osx_2zq_5z"/>Unterdessen wird die Vollmacht vom Cape endlich anlangen u. so, wenn
+                            auch nichts Bedeutendes, doch immer etwas, in die Kasse
+                            fliessen.</orig><anchor type="verweisziel" xml:id="stop_osx_2zq_5z"/><note xml:id="e57ce159-87d9-4cb8-81dd-ab559b8cf1a5">Am 16.&#160;Juli
+                            1865 war Marx‘Tante väterlicherseits, <persName key="pdrPo.001.004.000002578">Esther Kosel</persName>, in Frankfurt
+                            a.M. verstorben. Die Erben Kosel mussten Vollmachten auf den Namen der
+                            Tante <persName key="pdrPo.001.004.000000479">Babette Blum</persName>,
+                            geb. Marx ausstellen, um ihren Anteil zu erhalten. Im Namen von Marx‘
+                            Schwester <persName key="pdrPo.001.004.000002425">Louise
+                            Juta</persName>, die mit ihrem Mann <persName key="pdrPo.001.004.000002421">Carel Juta</persName> in Cape Town
+                            wohnte, stellte die Vollmacht ihr Schwiegervater <persName key="ed_ejj_ll1_1z">Hubertus Johannes Juta</persName> in Zaltbommel
+                            aus. (Schöncke: Eine unerwartete Erbschaft. S.&#160;335.; derselbe: Karl
+                            und Heinrich Marx und ihre Geschwister. S.&#160;613 und 679). Marx
+                            erhielt seinen Anteil Anfang Sommer 1866. Siehe<ref target="B00189">
+                                Marx an Engels,
+                                8.11.<?oxy_comment_start author="reichhoff" timestamp="20170413T221656+0200" comment="{{Br. 184.9–11}}"?>1866<?oxy_comment_end?></ref>.
+                            (((lSchöncke: Eine unerwartete Erbschaft.))) (((lSchöncke: Karl und
+                            Heinrich Marx und ihre Geschwister))) </note></seg></p><p sameAs="MBTextmitEinzug">My compliments to <seg type="comment"><orig>Mrs. Lizzy</orig><note xml:id="ngz2_lnw_1z"><persName key="pdrPo.001.004.000000698">Lydia
+                                Burns</persName>.</note></seg></p><closer sameAs="MBUnterschrift"><salute>Dein <lb/></salute><signed>KM </signed></closer></div></body></text></TEI>

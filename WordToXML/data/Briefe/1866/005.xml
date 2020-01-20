@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00006" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>5</idno>Elisabeth Engels an Friedrich Engels in
+                                        Manchester. Barmen, Samstag, 13. Januar 1866</title>
+                        </titleStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>STAW (Stadtarchiv
+                                                  Wuppertal)</institution>
+                                                <collection>ND 3 (Dokumentation Friedrich
+                                                  Engels)</collection>
+                                                <idno><idno type="shelfmark">Nr. 202/5</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Blatt mittelstarkem,
+                                                  weißem Papier im Format 273 x 217 mm und einem
+                                                  Umschlag aus mittelstarkem, blauem Papier im
+                                                  Format 120 x 72 mm . Prägung: „EE“ auf dem
+                                                  Umschlag. Die ersten zwei Seiten hat Elisabeth <?oxy_comment_start author="strauss" timestamp="20170615T113429+0200" comment="E.E ist als die Briefschreiberin hier NICHT extra noch einmal in Reg. aufzunehmen. Gilt für alle analogen Fälle!"?>Engels<?oxy_comment_end?>
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20170420T140054+0200" comment="(((nEngels,Elisab.))) Noch Anbindung ans Register"?>
+                                                  <?oxy_comment_end?>vollständig beschrieben, die
+                                                  dritte zu zwei Dritteln, die vierte ist leer.
+                                                  Schreibmaterial: schwarze Tinte.</p>
+                                                <p>Auf dem Umschlag fünf Poststempel: „Barmen
+                                                  13&#160;1&#160;66 5–6&#160;N“ (zweimal), „P.D.“,
+                                                  „London-E.C B Ja&#160;15 66 Paid“ (auf der
+                                                  Vorderseite) und „F&#160;34 Manchester Ja&#160;15
+                                                  66“ (auf der Rückseite) sowie eine Drei-und eine
+                                                  Zwei-Silbergroschen-Briefmarke.</p>
+                                                <p>Von unbekannter Hand: auf dem Umschlag mit
+                                                  Bleistift der Vermerk „13.1.66.“</p>
+                                                <p> </p>
+                                        </physDesc>
+                                        <additional>
+                                                <listBibl>
+                                                  <bibl>RGASPI f. 9 op. 1 d. 50</bibl>
+                                                </listBibl>
+                                        </additional>
+                                </msDesc>
+                                <listWit>
+                                        <witness><bibl>Erstveröffentlichung: Die Herkunft des
+                                                  Friedrich Engels (1991).
+                                                S.&#160;646.</bibl></witness>
+                                </listWit>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000001367">Engels, Elisabeth
+                                                (1797-1873)</persName>
+                                        <placeName>Barmen</placeName>
+                                        <date when="1866-01-13"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                                        <placeName>Manchester</placeName>
+                                </correspAction>
+                                <note><?oxy_custom_start type="oxy_content_highlight" color="153,255,255"?>Der
+                                        Brief ist die Antwort auf einen nicht überlieferten Brief
+                                        von Engels, geschrieben vor dem 24. Dezember
+                                        <?oxy_comment_start author="lindenberg" timestamp="20170609T164859+0200" comment="({{Z. 3-5}})" mid="2"?>1865.<?oxy_custom_end?><?oxy_comment_end mid="2"?></note>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:38:09Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingAct">
+                                <opener>
+                                        <dateline sameAs="MBDatumszeile"><pb/> Barmen 13 Janr.
+                                                66.</dateline>
+                                        <salute sameAs="MBAnrede">Lieber Friedrich</salute>
+                                </opener>
+                                <p sameAs="MBTextohneEinzug">Deinen lieben, kurzen Brief erhielt
+                                        ich, wie grade die ganze Familie zur Bescherung hier
+                                        versammelt war u. ich würde ihn gleich beantwortet haben,
+                                        wenn ich nicht krank geworden wäre. Ich hatte schon die
+                                        Christtage einen tüchtigen Husten, dazu bekam ich Fieber u.
+                                        mußte zu Bette liegen. Ich ließ mir von Kaiserswerth eine
+                                        Diakonissin kommen, die mich gut <expan resp="editor" sameAs="dottet_underline">ver<ex>p</ex>flegte</expan> u. so bin ich denn
+                                        jetzt so weit, das ich den größten Theil des Tages auf sein
+                                        kann. Meine Krankheit war nicht von großer Bedeutung, aber
+                                        ich bin doch recht maager geworden, hoffe aber bei den guten
+                                        u. kräftigen Sachen die ich bekomme u. dem guten Appetit den
+                                        ich habe bald alles ersetzt zu haben. Meine Diakonissin hat
+                                        den <seg type="comment"><orig>Feldzug in
+                                                  Schleswich</orig><note xml:id="dd3d860a-c15e-402e-a0d6-a7a08bee081b">Der
+                                                  Deutsch-Dänische Krieg (Februar–Oktober
+                                                  1864).</note></seg> mit gemacht u. weiß <pb/> mir
+                                        viel Interessantes vom Kriegsschauplatz u. aus den
+                                        Lazaretten zu erzählen. Nun habe ich Dir aber auch einige
+                                        Familienneuigkeiten mit zu theilen. <anchor type="verweisziel" xml:id="start_zgp_ycf_4z"/>Zu
+                                        erst hat <seg type="comment"><orig>Hedwig</orig><note xml:id="bb6c504b-6c2b-4dd5-9f6d-5c6ca55e9dfd"><persName key="pdrPo.001.004.000000502">Hedwig
+                                                  Boelling</persName>.</note></seg> vor 7 oder
+                                        8&#160;Wochen das <seg type="comment"><orig>6<hi rendition="#sup">te</hi>&#160;Töchterchen</orig><note xml:id="a69099ee-dfef-43e5-ab32-8a61a1a43811"><persName key="ed_fh3_2nh_yx">Hedwig Boelling
+                                                  (Tochter)</persName> wurde am 22.&#160;November
+                                                  1865 geboren.</note></seg> bekommen, doch dies
+                                        weißt Du vieleicht schon.<anchor type="verweisziel" xml:id="stop_zgp_ycf_4z"/></p>
+                                <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_ush_hdf_4z"/>Dann hat sich <persName key="pdrPo.001.004.000000459">Marie Blank</persName>
+                                        mit dem Herrn <persName key="ed_fzq_5lg_yx">Roberth
+                                                Bartels</persName> Sohn von <persName key="pdrPo.001.004.000000266">Carl
+                                                Bartels</persName> hier verlobt u. dies zwar am
+                                        30&#160;Decb 1865. Ob <seg type="comment"><orig>Marie
+                                                  senr.</orig><note xml:id="fa53e085-89d7-4b18-84fd-3a6aa3a08296"><persName key="pdrPo.001.004.000000460">Marie
+                                                  Blank</persName>.</note></seg> es Dir schon
+                                        mitgetheilt hat weiß ich nicht, es wäre aber möglich daß sie
+                                        es noch nicht gethan hätte, denn sie ist durch dies Ereigniß <choice>
+                                                <sic>ich</sic>
+                                                <corr cert="high">in</corr>
+                                        </choice> eine große Unruhe versetzt. Der Bräutigam gefällt
+                                        übrigens der ganzen Familie sehr gut, ich habe ihn wegen
+                                        meiner Krankheit noch nicht gesehen, lernte ihn jedoch
+                                        diesen Herbst in Rolandseck kennen, wohin er kam um
+                                                <persName key="pdrPo.001.004.000000459">Marie</persName> zu sehen u. kennen zu lernen, da
+                                        in Barmen es fast unmöglich ist, <pb/> daß sich junge Leute
+                                        kennen lernen, es sei denn auf einem Ball.<anchor type="verweisziel" xml:id="stop_ush_hdf_4z"/></p>
+                                <p sameAs="MBTextmitEinzug">Nun soll ich wol schließen müssen, denn
+                                        das schreiben greift mich noch etwas an. Die Familienglieder
+                                        befinden sich Gott sei Dank alle recht wohl u. hoffe ich
+                                        dasselbe von Dir, Du wirst Deine Dinners mit <seg type="comment"><orig>Schruten,</orig><note xml:id="e55c0583-ad52-4931-82e4-957c035ffdaa">Schrute – Truthenne im westfälischen Dialekt.
+                                                  <persName key="pdrPo.001.004.000001367">Engels‘
+                                                  Mutter</persName> stammte aus Hamm.</note></seg>
+                                        Plumppuding u. Portwein wol glücklich überstanden haben.</p>
+                                <p sameAs="MBTextmitEinzug">Schreibe mir nur recht bald mal wieder
+                                        wenn auch kurzen Brief. –</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Herm.</orig><note xml:id="e5b7bef6-2467-4217-957e-d55bdc7f1e18"><persName key="pdrPo.001.004.000001375">Hermann
+                                                  Engels</persName>.</note></seg> u. <seg type="comment"><orig>Rudolf</orig><note xml:id="df9bd922-cbeb-4c10-a93c-2bd1d8e5183d"><persName key="pdrPo.001.004.000001391">Rudolf
+                                                  Engels</persName>.</note></seg> grüßen
+                                        herzlich.</p>
+                                <closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u2}</hi>-->Mit treuer
+                                        Liebe<lb/>Deine Mutter E. </closer>
+                        </div>
+                </body>
+        </text>
+</TEI>

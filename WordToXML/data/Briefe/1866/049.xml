@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00052" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>49</idno>Johann Philipp Becker an Jenny Marx London. Genf, Donnerstag, 1. März 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 21 op. 1 d. 348/3</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              270&#160;×&#160;213&#160;mm. Ovaler grüner Aufdruck auf der ersten Seite oben links:
+              „Association Internationale des Travailleurs Section Genevoise“. Becker hat alle vier
+              Seiten vollständig beschrieben. Eine Passage („&amp; hat mit“ bis „begonnen“) ist mit
+              dem Einfügungszeichen „†“ versehen und steht auf der dritten Seite am linken Rand.
+              Schreibmaterial: schwarze Tinte.</p><p>J. Ph.&#160;Becker beantwortet Jenny Marx' Brief vom 29.&#160;Januar 1866 (J. Marx an J. Ph.
+              Becker, 29.1.1866), siehe auch „Es hat mich gefreut ...“.</p><p>Die Schreibweise wurde zurückhaltend korrigiert, die Eingriffe sind ausgewiesen.</p></physDesc></msDesc><listWit><witness><bibl>Erstveröffentlichung: Hecker, Limmroth: Jenny Marx. Die Briefe (2014). S.&#160;387–389.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000000317">Johann Philipp Becker</persName><placeName>Genf</placeName><date when="1866-03-01"/></correspAction><correspAction type="received"><persName key="pdrPo.001.004.000003075">Jenny Marx</persName><placeName/></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:45Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+        <opener>
+          <dateline sameAs="MBDatumszeile"><pb/> Genf den 1 März 1866</dateline>
+          <salute sameAs="MBAnrede">Meine liebe Frau Marx.</salute>
+        </opener>
+        <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Daß ich Sie nolens volens zur
+              Korrespondentin des „<bibl sameAs="zzDer Vorbote">Vorbote“</bibl> gemacht werden Sie
+              aus der zweiten Nummer ersehen haben.</orig><note xml:id="b763cfeb-6bf4-411b-a9be-90787242318b">J._Ph.&#160;Becker hatte einige Passagen
+              aus dem <ref target="B00025/#start_gjy_jck_nz">Brief von Jenny Marx an ihn vom
+                29.&#160;Januar
+              1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170412T120844+0200" comment="({{Br. 24.25–49}})"?>,<?oxy_comment_end?>
+              etwas verändert, in seiner Zeitschrift veröffentlicht: [Jenny Marx:] In religiöser
+              Hinsicht&#160;… In: Der Vorbote. Genf. Jg.&#160;1. Nr.&#160;2, Februar 1866.
+              S.&#160;31/32. (MEGA²&#160;I/20. S.&#160;602). (((l[Marx,Jenny:] In religiöser
+              Hinsicht&#160;… In: Der Vorbote. Genf. Jg.&#160;1. Nr.&#160;2, Februar 1866.
+              S.&#160;31/32))) </note></seg> Das ist recht so, denn wenn die Männer krank sind oder
+          fallen, so müssen die Frauen an deren Stelle treten, die Lücke ausfüllen &amp; den Kampf
+          fortsetzen. Es ist ein wahres Unglück für unsere Sache, daß unser Marx gerade, wo wir ihn
+          nicht entbehren &amp; ersetzen können krank sein muß. Könnte ihm mit Beten geholfen
+          werden, ich würde es wahrhaftig seit meiner Kindheit zum erstenmal wieder versuchen. Sie
+          können nur allein den „lieben Herrgott“ machen &amp; den theuren Freund recht pflegen.
+            <expan resp="editor" sameAs="dottet_underline">Viel<ex>l</ex>eicht</expan> haben sie
+          ihn, wie ich hoffe &amp; wünsche schon langst wiederhergestellt.</p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Es hat mich sehr gefreut daß Karl
+              &amp; Sie mit der ersten Nummer des „<bibl sameAs="zzDer Vorbote">Vorbote“</bibl>
+              zufrieden waren</orig><note xml:id="f2075dea-0a37-4bf7-bef9-8e2f751dd86e"><ref target="B00025/#start_bhc_1py_nz">J. Marx an J. Ph. Becker,
+                29.1.<?oxy_comment_start author="reichhoff" timestamp="20170412T130644+0200" comment="{{Siehe Br. 24.16–17}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          &amp; ich hoffe Sie werden es mit der zweiten nicht minder gewesen sein.</p>
+        <p sameAs="MBTextmitEinzug">Ich muß hier gestehen, daß ich Freundin &amp; Freund Marx,
+          namentlich letztern allzu lange auf eine Antwort warten ließ; wenn Sie aber den Berg von
+          Arbeit, den ich ebenen soll oder kaum ein Tunnel durchbohren kann, <pb/> ohne darunter
+          begraben zu werden, sehen würden, so möchten Sie mich genügend entschuldigen.</p>
+        <p sameAs="MBTextmitEinzug">Zum Glücke wird die Mühe durch den Erfolg für die Sache belohnt.
+          In Deutschland machen wir jetzt ordentliche Fortschritte, obwohl ich nur sehr geringe
+          Mittel verwenden kann das Interesse für unsere Wirksamkeit wachzurufen. <seg type="comment"><orig>Auch <persName key="pdrPo.001.004.000002822">Liebknecht</persName>
+              hat endlich etwas von sich horen lassen &amp; wird mit Verbündung anderer
+              Gesinnungsgenossen, deren Adresse ich ihm angegeben, wohl bald in Leipzig eine größere
+              Sektion zu Stande bringen.</orig><note xml:id="efd09f2a-d3f6-40b1-a075-3be043c37745">Siehe Wilhelm Liebknecht an J.Ph.&#160;Becker, 8.&#160;Februar 1866 (IISG,
+              Becker-Nachlass, Sign. J.Ph.&#160;Becker addenda, add.&#160;45, S.&#160;4/5).
+              (((lLiebknecht, Wilhelm an J.Ph.&#160;Becker, 8.&#160;Februar 1866 (IISG,
+              Becker-Nachlaß, Sign. J.Ph.&#160;Becker addenda, add.&#160;45, S.&#160;4/5) ))) Am
+              selbenen Tag schrieb er an Marx einen Brief gleichen Inhalts. Siehe <ref target="B00016/#start_gp1_hky_nz">W. Liebknecht an Marx, 18.1.1866</ref>
+              <?oxy_comment_start author="reichhoff" timestamp="20170412T123046+0200" comment="{{Br. 15.7–13}} "?>und<?oxy_comment_end?>
+              <ref target="B00033/#start_cms_pky_nz">8.2.<?oxy_comment_start author="reichhoff" timestamp="20170412T123330+0200" comment="{{Br._30.9–14, 18}}"?>1866<?oxy_comment_end?></ref>.
+              Siehe auch <ref target="B00195/#start_uhp_xny_nz">J. Ph. Becker an Marx,
+                15.11.<?oxy_comment_start author="reichhoff" timestamp="20170412T125825+0200" comment="{{Br. 189.35–36}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          Es thut sehr Noth, daß recht bald Beiträge in die hiesige Kasse <seg type="comment"><orig>der deutschen Abtheilung,</orig><note xml:id="a6c788d3-d6a8-449c-99a0-5e79acdfaa55">Zur Deutschen Sektion Genf der IAA siehe
+              Erl.&#160;{6ff}.</note></seg> welche jetzt monatlich über fs&#160;200 Druck- &amp;
+          Korrespondenzkosten leistet, von auswärtigen Sektionen zu fließen, damit wir nicht
+          nächstens vor einer leeren Kasse halten bleiben &amp; das Bischen Weltgeschichte das wir
+          begonnen wieder in’s Stocken geräth. Es kostet keine geringe Anstrengung &amp; Umsicht die
+          Opferbereitwilligkeit der hiesigen deutschen Arbeiter in der rechten Spannung &amp; zwar
+          ungefährdet zu halten. In Briefen an die deutschen &amp; schweizer Arbeiter muß ich oft
+          ganze Abhandlungen liefern um die Leute auf den rechten Standpunkt zu <pb/> stellen &amp;
+          ihnen praktische Anleitungen zu geben. Indessen tritt die <expan resp="editor" sameAs="dottet_underline">Bourg<ex>e</ex>oisie</expan> in Deutschland &amp; der Schweiz
+          gegen uns auf &amp; greift zur Verdächtigung, Drohung &amp; Einschüchterung. Deßhalb
+          schrieben uns auch schon mehrere Arbeitergesellschaften, die zum Beitritt geneigt waren,
+          wir wären „zu roth gefärbt.“ <seg type="comment"><orig>Das Zentralkomite des deutschen
+              Arbeiterbildungsvereins (Vorort Zürich) intriguirt ebenfalls gegen uns &amp; hat mit
+              einem Mahnruf im „<bibl sameAs="zzFelleisen">Felleisen“ </bibl> seinem Moniteur den
+              Feldzug begonnen.</orig><note xml:id="e85327c5-b2e0-48b5-a302-322404a21b80">Internationale Arbeiterassociation. In: Felleisen. Zürich. Nr.&#160;1, Januar 1866.
+              S.&#160;1. [Unterschrift:] Der Vorort Zürich. {{siehe Abb.}} (((lInternationale
+              Arbeiterassociation. In: Felleisen. Zürich. Nr.&#160;1, Januar 1866. S.&#160;1.
+              [Unterschrift:] Der Vorort Zürich))) </note></seg> Derselbe ist leider von deutschen
+          Professoren &amp; Doktoren düpirt. Hat nichts zu sagen, ich werde ihnen schon die
+          viereckigen Blechköpfe rund klopfen.</p>
+        <p sameAs="MBTextmitEinzug">In der <seg type="comment"><orig>hiesigen romanischen
+              Sektion</orig><note xml:id="ca43884f-1d9a-4a9c-aa35-b0dc3e140a22">Zur Section
+              française de Genève de l’A.I.T. siehe <ref target="B00007/#bacdc997-b8ee-4c1b-9872-3db7a910ad14">Erl. zu Marx an J. Ph. Becker,
+                zwischen 9. und
+              15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170516T173447+0200" comment="{Erl. 6ff}."?></note><?oxy_comment_end?></seg>
+          gibt es zuweilen alberne Streitigkeiten, die noch zu ernstlicheren Auftritten führen
+          dürften. Unser eifriger &amp; braver <persName key="pdrPo.001.004.000001278">Düpleix</persName> ist zuviel Formalist &amp; fanatischer Tugendritter, in kleinen
+          Dingen groß und in großen ohne Verständniß.</p>
+        <p sameAs="MBTextmitEinzug">Le „Journal de l’association Internationale des <bibl sameAs="zzJournal de l’Association Internationale des Travailleurs">travailleurs“</bibl>
+          &amp; „La voix de <bibl sameAs="zzLa voix de l’avenir">l’avenir“</bibl> kommen nicht über
+          die Rohstoffwahrheit des <persName key="pdrPo.001.004.000004342">Schulze-Delitschzt</persName> hinaus &amp; wollen die Welt mit Konsumvereinlerei &amp;
+          dergleichen Eier satt &amp; seelig machen. Dem Freund <persName key="pdrPo.001.004.000001010">Coullery</persName> in Chauxdefonds habe ich deßhalb schon
+          einige Mal den Kopf gewaschen &amp; der hiesigen Redaktion den „Pfeffer gerieben“. Werde
+          wohl noch zum Nürnberger Trichter greifen müssen.</p>
+        <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_b2j_p2k_nz"/>Ich bin
+          sehr froh <seg type="comment"><orig>das „Kommunistenmanifest“</orig><note xml:id="nnyg_y2b_wy">[Karl Marx, Friedrich Engels:] Manifest der Kommunistischen
+              Partei. London (1848). (((l[Marx,Karl, Friedrich Engels:] Manifest der Kommunistischen
+              Partei. London (1848) ))) </note></seg> zu besitzen &amp; danke für <seg type="comment"><orig>die freundliche Besorgung;</orig><note xml:id="nhcy_fhb_wy">Siehe
+              Br. 6.14–18. und Br. 24.18–24.</note></seg> indessen hat das Päckchen das
+          ausserordentliche Porto von fs&#160;8,50&#160;Cents gekostet, während ein&#160;<pb/>
+          großeres Paket mit demselben Manifest von Berlin kommend nur fs&#160;1,70&#160;cents in
+          Anspruch nahm.<anchor type="verweisziel" xml:id="stop_b2j_p2k_nz"/></p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Soeben erhalte ich einen langen Brief
+              von unserem wackern Genossen <persName key="pdrPo.001.004.000002417">Jung</persName></orig><note xml:id="efd62812-4508-4a26-a4d9-a3df177c4769">Siehe <ref target="B00050/#start_gbp_k4y_nz">H. Jung an Marx,
+                27.2.<?oxy_comment_start author="reichhoff" timestamp="20170412T130207+0200" comment="{{Br. 47.4}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          woraus ich ersehe, daß unser Karl leider noch immer krank ist. Es ist dies
+          umsoverdrieslicher als es durchaus nothwenig ist, daß <seg type="comment"><orig>der
+              Generalrath</orig><note xml:id="aeb6a8f4-2206-4d52-9c17-c4cd92f019f2">Siehe <ref target="B00007/#ndyw_svh_4y">Erl. zu Marx an J. Ph. Becker, zwischen 9. und
+                15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170516T173650+0200" comment="{{Erl. 6d}}."?></note><?oxy_comment_end?></seg>
+          endlich wieder ein Lebenszeichen von sich gibt &amp; besonders in Betreff <seg type="comment"><orig>des bevorstehenden Kongresses</orig><note xml:id="f011eac9-74bd-4075-ab2d-6b3ccd38a95f">Der geplante Kongress der IAA in Genf.
+              Siehe auch  <ref target="B00004/#nrk1_sfc_3y">Erl. zu Marx an Engels, 5.1.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170516T173953+0200" comment="{{3d}}."?></note><?oxy_comment_end?></seg>
+          ein angemessenes Rundschreiben an die verschiedenen Zentralkomites wenigstens erlässt. Da
+          wir nun Organe verschiedener Sprachen zu unserer Verfügung haben, so konnen wir demselben
+          sofort die nöthige Veröffentlichung angedeihen lassen. Unser guter Marx soll doch, sobald
+          es ihm irgend möglich ist dafür sorgen, daß dies geschieht. Auch ist es unabweislich
+          nothwendig, daß ein Gesammtverfassungsentwurf zur Berathung auf dem Kongresse auf die
+          Tagesordnung kommt. Wir werden hier Alles aufbieten um die rechten Anordnungen zur
+          glänzenden Abhaltung des Kongresses zu veranstalten. Unser <persName key="pdrPo.001.004.000002417">Jung</persName> arbeitet, wie ich aus seinem Briefe
+          ersehe, immer noch mit der alten Rastlosigkeit; lassen Sie ihn gefalligst den wesentlichen
+          Inhalt dieses Schreibens wissen. <seg type="comment"><orig>Morgen werde ich ihm
+              einstweilen noch eine Parthie „<bibl sameAs="zzDer Vorbote">Vorbote“</bibl> N<hi rendition="#sup">o</hi>&#160;2 senden.</orig><note xml:id="d4a8e3a0-cf31-4789-ba69-84b63e3e76ec">Siehe <ref target="B00050/#start_lrk_r4y_nz">H. Jung an Marx,
+                27.2.<?oxy_comment_start author="reichhoff" timestamp="20170412T130405+0200" comment="{{Br. 47.4–8}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          Nun leben Sie wohl, grüssen Sie mir ihre Fräulein Tochter, besonders die „Kleine“ &amp;
+          umarmen Sie fur mich unsern kranken Freund</p>
+        <closer sameAs="MBUnterschrift">Ihr ergebener Joh Ph Becker </closer>
+      </div></body></text></TEI>

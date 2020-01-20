@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00169" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>165</idno>Karl Marx an Eleanor Marx in Hastings. London, Mittwoch, 5. September 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 1 d. 1992</idno></idno></msIdentifier><physDesc>
+                        <p>Der Brief besteht aus einem Blatt festem, weißem Papier im Format
+                            113&#160;×&#160;181&#160;mm. Wasserzeichen: „[Joyn]son [1]866“. Marx hat
+                            beide Seiten vollständig beschrieben, die letzte Passage (Z.&#160;37–38)
+                            steht kopf auf der ersten Seite oben. Schreibmaterial: schwarze
+                            Tinte.</p>
+                        <?oxy_comment_start author="lindenberg" timestamp="20170424T165853+0200" comment="[an Eleanor bzw. an Laura? an Eleanor: siehe Br. 160.12]"?>
+                        <p/>
+                        <?oxy_comment_end?>
+                    </physDesc></msDesc><listWit><witness><bibl>Erstveröffentlichung: in russischer Übersetzung: Из семейной переписки Карла Маркса (1925). S.&#160;163/164</bibl></witness><witness><bibl>in der Sprache des Originals: Private letters of Karl Marx (1929). S.&#160;45.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-09-05"/></correspAction><correspAction type="received"><persName key="pdrPo.001.004.000003068">Eleanor Marx</persName><placeName>Hastings</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:55Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 5 Sept. 1866.</dateline><salute sameAs="MBAnrede">My beloved <seg type="comment"><orig>master
+                                <?oxy_comment_start author="lindenberg" timestamp="20170119T153025+0100" comment="s. Nr 160, das gleiche Problem"?>{ein
+                                Pluszeichen über einem Minuszeichen} {ein Unendlichzeichen} {ein
+                                Minuszeichen über einem Pluszeichen}<?oxy_comment_end?>,</orig><note xml:id="a1935604-e7f2-433f-9f84-a5aa64745994"><persName key="pdrPo.001.004.000003068">Eleanor Marx</persName>. Siehe
+                                auch <ref target="B00164">Marx an L. Marx, 28.8.1866</ref>.<?oxy_comment_start author="roth" timestamp="20170425T121842+0200" comment="{{Br. 160.12}}."?>
+                                <?oxy_comment_end?></note></seg></salute></opener><p sameAs="MBTextohneEinzug">I bow to the earth before your immensity, whatever part you may
+                    condescend to act, that of the infinitely small or the infinitely grand.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Your letters have enchanted us, and we were
+                            really bursting out with laughter on reading that fine passage in which
+                            you describe the spontaneous explosion produced by the exhibition
+                            spinster.</orig><note xml:id="d3f532b2-e6c7-4f5a-82e5-746db9c8135d">Die
+                            Briefe von <persName key="pdrPo.001.004.000003076">Laura</persName> und
+                                <persName key="pdrPo.001.004.000003068">Eleanor Marx</persName>  an
+                            Familie Marx, geschrieben zwischen 29.&#160;August {{(Br.&#160;161)}}
+                            und 5.&#160;September 1866, konnten nicht ermittelt
+                    werden.</note></seg></p><p sameAs="MBTextmitEinzug">I am much belaboured by <seg type="comment"><orig>a Gorilla
+                            offspring</orig><note xml:id="c72e8059-ef69-4ab8-9193-7cc1f5e06f02"><persName key="pdrPo.001.004.000002648">Paul Lafargue</persName>.
+                        </note></seg> who can hardly stand the separation <subst>
+                        <del>of</del>
+                        <add>from</add>
+                    </subst>
+                    <seg type="comment"><orig>a velvet mouse</orig><note xml:id="add9cf67-976e-4cc3-be2f-9ce0442393cf"><persName key="pdrPo.001.004.000003076">Laura Marx</persName>.  </note></seg>
+                    he has put his mind upon. If he knew her as well as I do—he would of course be
+                    still more Calypso, qui ne pouvait se consoler du départ d'Ulysse. She may be a
+                        <persName key="ed_cxs_4pt_cz">Calypso</persName>, but he is not an <persName key="pdrPo.001.004.000011294">Ulysses</persName>, with all that. A spoony
+                    fellah rather. However, he deserves some praise at my hands. <seg type="comment"><orig>He has worked hard <del> in <sic ana="#break-off"/></del> (from
+                            1&#160;o'clock p.m. to&#160;9) in translating the instructions I <del>
+                                sent <sic ana="#break-off"/></del> had to draw up for the Geneva
+                            Congress Delegates.</orig><note xml:id="nftp_qdj_3z">Karl Marx:
+                            Instructions for the Delegates of the Provisional General Council. The
+                            different questions. In: MEGA²_I/20. S. 225–235.
+                            (((lMarx.Karl:Instructions for the Delegates of the Provisional General
+                            Council. The different questions. In: MEGA²_I/20. S. 225–235)))
+                                <persName key="pdrPo.001.004.000002648">Lafargue</persName>
+                            übersetzte diese am 31. August 1866 ins Französische. Siehe Jenny Marx
+                            (Tochter) an Jenny Marx, 2. September 1866 (RGASPI, Sign. f. 7, op. 1,
+                            d. 214). (((lMarx,Jenny (Tochter) an Jenny Marx, 2. September 1866
+                            (RGASPI, Sign. f. 7, op. 1, d. 214) ))) Es entstand die französische
+                            Fassung: Rapport du Conseil Central. Sur les différentes questions mises
+                            à l’étude par la Conférence de septembre 1865 (MEGA²_I/20. S. 635–643).
+                            (((lMarx,Karl: Rapport du Conseil Central. Sur les différentes questions
+                            mises à l’étude par la Conférence de septembre 1865. In: MEGA² I/20. S.
+                            635–643))) Diese Übersetzung trug <persName key="pdrPo.001.004.000001279">Eugène Dupont</persName>  auf der
+                            Sitzung des Genfer Kongresses am 4. September 1866 vor; siehe
+                            Association_lnternationale des Travailleurs. Compte rendu du Congrès de
+                            Genève (1866). In: MEGA²_I/20. S. 656.16–19.
+                            (((lAssociation_lnternationale des Travailleurs. Compte rendu du Congrès
+                            de Genève (1866). In: MEGA²_I/20. S. 649–679)))</note></seg> He has
+                    worked not less hard as a tailor at certain <pb/> gymnastic apparatus you are to
+                        <del> y <sic ana="#break-off"/></del> use. Last, not least, he affects great
+                    attention to the scientifick gabble I affect to treat him with, although he and
+                    myself are far away from the scene of <add place="superlinear">that</add> mental
+                    entertainment.</p><p sameAs="MBTextmitEinzug">The day before yesterday <seg type="comment"><orig>the
+                            Lormiers</orig><note xml:id="nos2_bqg_mz"><persName key="ed_zx5_kmb_kz">Éléonore</persName> und <persName key="ed_lfk_vgz_lz">Alfred
+                                Lormier</persName>.</note></seg> were here, and <seg type="comment"><orig>the negrillo</orig><note xml:id="fa95a35a-8fcf-46fc-8c9a-089e991c98f3"><persName key="pdrPo.001.004.000002648">Paul Lafargue</persName>.
+                        </note></seg> too. <seg type="comment"><orig>Old Lormier</orig><note xml:id="cf2bcb29-f92d-4a09-8d50-d8c89a012d1d"><persName key="ed_lfk_vgz_lz">Alfred Lormier</persName>. </note></seg>, on the
+                    pretext of having to communicate him some gymnastic trick, told him <hi rendition="#u">“secretly”</hi>, and discreetly, of course, he must stop that
+                    fountain of saliva which, while smoking, he is in the habit of inundating the
+                    chimney with. When both returned from the kitchen, where the secret
+                    communication was taking place, our poor Negrillo looked rather downcast, and
+                    behaved like a “good <subst>
+                        <del rendition="#s">g<ex>uy</ex></del>
+                        <add place="across">boy</add>
+                    </subst>”.</p><p sameAs="MBTextmitEinzug">In fact, I like the boy. At the same time, I feel rather jealous of his
+                    encroachments upon <seg type="comment"><orig>my old
+                            “Geheimsecretair”</orig><note xml:id="bf97cac1-1ba8-4ed4-bab9-c81f9ff1180a"><persName key="pdrPo.001.004.000003076">Laura Marx</persName>.
+                    </note></seg>.</p><p sameAs="MBTextmitEinzug">Don't forget to write me <hi rendition="#u">immediately</hi> what you
+                    have to pay <hi rendition="#u">per week</hi>.</p><p sameAs="MBTextmitEinzug">The damned weather. I hope it will still mend.</p><p sameAs="MBTextmitEinzug">Address of <lb/><seg type="comment"><orig>Mimmelchen:</orig><note xml:id="d0e38e85-ffbe-49f1-a1e2-5449828825dd">
+                            <p rend="endnote text"><persName key="pdrPo.001.004.000003075">Jenny
+                                    Marx</persName>. Siehe auch <ref target="B00164">Marx an L.
+                                    Marx, 28.8.1866</ref><?oxy_comment_start author="roth" timestamp="20170425T122203+0200" comment="{{Br.160.16–17}}"?>
+                                <?oxy_comment_end?>und Erl. </p>
+                        </note></seg> “<persName key="ed_oy2_mvy_lz">Mrs. Goodbun</persName>. Rose
+                    and Crown. Dover”.</p><p sameAs="MBTextmitEinzug">Adio, my dear child. Many kisses to you and to the immortal <seg type="comment"><orig>Cacadou.</orig><note xml:id="e26e5eb1-996f-4016-8509-702300b0ee32"><persName key="pdrPo.001.004.000003076">Laura Marx</persName>.
+                    </note></seg></p><closer sameAs="MBUnterschrift"><signed>Yours<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?> {eine Null}
+                        {darunter ein Unendlichzeichen} {beides getrennt durch einen
+                        Bruchstrich}<?oxy_custom_end?>
+                    </signed></closer><p sameAs="MBAdresse">/ You don't want to write to <persName key="pdrPo.001.004.000003075">Mamma</persName>, as she probably leaves Dover on Friday morning for another place. /</p></div></body></text></TEI>

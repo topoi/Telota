@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00010" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>9</idno>Hermann Jung an Karl Marx in London. London, Montag, 15. Januar 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 21 op. 1 d. 76/1</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, blauem Papier im Format
+                            228&#160;×&#160;183&#160;mm. Alle vier Seiten hat Jung vollständig
+                            beschrieben. Schreibmaterial: schwarze Tinte.</p><p>Von unbekannter Hand: mit Bleistift der Vermerk: „15/1 66“, auf der ersten Seite oben links.</p></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002417">Hermann Jung</persName><placeName>London</placeName><date when="1866-01-15"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:14Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> 4 Charles Street.<lb/>Northampton
+                        Square.</dateline>
+                    <salute sameAs="MBAnrede">Cher ami Marx</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Jeudi</orig><note xml:id="nach_dfr_3y">11. Januar 1866.</note></seg><seg type="comment">
+                        <orig> j’étais seul avec <persName key="pdrPo.001.004.000001603">Fox</persName> à l’assemblée du sous-comité, aussi avons nous tenu
+                            une séance «<hi rendition="#u">in the Dark</hi></orig>».<note xml:id="e2f3fc4b-cfb6-4b6c-b0fa-fddca2812c4b">Zum Subkomitee des
+                            Zentralrats der IAA siehe <ref target="B00007/#a7670d8d-64cc-4490-8979-8389f13760a8">Erl. zu Marx
+                                an J. Ph. Becker, zwischen 9. und 15.1.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170509T144421+0200" comment="{{Erl. 6e}}."?></note><?oxy_comment_end?></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Samedi</orig><note xml:id="d0d7e935-b47b-4448-9f8a-51e4c2bd2b4d">13.&#160;Januar
+                            1866.</note></seg> soir je suis allé chez <persName key="pdrPo.001.004.000001279">Dupont</persName> &amp; ensemble nous nous
+                    sommes rendus chez <persName key="pdrPo.001.004.000002885">Longuet</persName>,
+                    en compagnie duquel nous avons passé 2&#160;heures; Longuet me parait plein
+                    d’espoir pour notre association &amp; je crois qu’il sera <hi rendition="#u">«a
+                        regular attendant»</hi> à nos réunions; ses idées <hi rendition="#u">Proudhonniennes</hi> ne sont pas assises aussi fortement que je me l’étais
+                    imaginé en premier <pb/> &amp; si vous pouviez avoir quelques heures de
+                    conversation avec lui, elles produiraient <hi rendition="#u">«a healthy
+                        influence»</hi> sur lui.</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Je suppose que vous êtes en
+                            train de faire le réfutation sur l’article
+                                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><persName key="pdrPo.001.004.000004915"><hi rendition="#u"><?oxy_custom_end?>Vésinier</hi></persName>;</orig>
+                        <note xml:id="b2d9a221-a390-4e30-8a55-d2253373b013">
+                            <p rend="endnote text">[Pierre Vésinier:] L’Association Internationale
+                                des Travailleurs. Un des membres du comité&#160;… In: L’Écho de
+                                Verviers. Nr.&#160;293, 16.&#160;Dezember 1865. S.&#160;1/2;
+                                [derselbe:] L’Association Internationale des Travailleurs. Fin.
+                                Ebenda. Nr.&#160;294, 18.&#160;Dezember 1865. S.&#160;2/3.
+                                (((l[Vésinier,Pierre:] L’Association Internationale des
+                                Travailleurs. Un des membres du comité&#160;… In: L’Écho de
+                                Verviers. Nr.&#160;293, 16.&#160;Dezember 1865. S.&#160;1/2;
+                                [derselbe:] L’Association Internationale des Travailleurs. Fin.
+                                Ebenda. Nr.&#160;294, 18.&#160;Dezember 1865. S.&#160;2/3))) - Siehe
+                                    <ref target="B00004/#start_itl_grp_mz">Marx an Engels,
+                                    5.1.<?oxy_comment_start author="reichhoff" timestamp="20170407T175325+0200" comment="{{Br. 3.8–21}}"?>1866<?oxy_comment_end?></ref>
+                                und Erl. </p>
+                        </note>
+                    </seg> je vous conseillerais de ne pas tarder &amp; vous prierais en même tems
+                    d’apporter, mardi soir, les N<hi rendition="#sup">os</hi> de l’écho de <bibl sameAs="zzL’Écho de Verviers">Verviers</bibl>, pour les remettre à Dupont;
+                    ce dernier à l’occasion de les envoyer à Paris, Jeudi, par un de ses amis, qui
+                    part pour Paris &amp; qui ira voir <persName key="pdrPo.001.004.000004773">Tolain</persName>; une pareille occasion ne se trouve pas tous les jours
+                    &amp; je crois que nous ferions bien d’en profiter. </p>
+                <p sameAs="MBTextmitEinzug"><pb/>
+                    <persName key="pdrPo.001.004.000002885">Longuet</persName> dit: que la lettre,
+                    que nous enverrons à <persName key="pdrPo.001.004.000004915">Vésinier</persName>, devrait être envoyée simultanément à l’Écho de <bibl sameAs="zzL’Écho de Verviers">Verviers</bibl>; Verviers, dit-il, est plus
+                    important que les grandes villes de Belgique, en ce que c’est un grand centre
+                    ouvrier &amp; que Vésinier aura sans doute, pour cette même raison, choisi cet
+                    endroit de préférance aux autres villes; il dit même: que <expan resp="editor" sameAs="dottet_underline">lor<ex>s</ex>qu</expan>’il était en Belgique, les
+                    ouvriers de Verviers avaient l’air d’être très bien disposés en faveur de notre
+                    association. </p>
+                <p sameAs="MBTextmitEinzug"><pb/> Je me rendrai ce soir au <seg type="comment"><orig><hi rendition="#u">director’s meeting</hi></orig><note xml:id="e8d1a028-274d-4937-9d00-c99b46b6cbab">Eine Sitzung des
+                            Direktoriums der Aktiengesellschaft <orgName key="ed_isw_cry_sy">„The
+                                Industrial Newspaper Company (Limited)“</orgName>, der die Zeitung
+                            „The Workman’s Advocate“ gehörte. Siehe  <ref target="B00007/#nmrb_qzn_4y">Erl. zu Marx an J. Ph. Becker, zwischen
+                                9. und 15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170509T144710+0200" comment="{{Erl. 6f}}"?>
+                            <?oxy_comment_end?>(((zThe Workman’s Advocate)))</note></seg>, si vous
+                    pouvez y venir, je serais charmé de vous y voir; en tout cas <seg type="comment"><orig>je vous verrai mardi soir.</orig><note xml:id="b16534f1-d3ef-4447-a023-981d1762c990">Am Dienstag, den
+                            16.&#160;Januar 1866, fand eine Sitzung des Zentralrats der IAA statt
+                            (The_Minute Book 1864–1866. In: MEGA²&#160;I/20. S.&#160;380).
+                            (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20. S._265–450)))
+                        </note></seg></p>
+                <closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u1}</hi>-->Salut
+                        fraternel.<lb/>H<hi rendition="#sup">n</hi> Jung.</closer>
+                <p sameAs="MBAdresse">15 January 1866.</p>
+                <postscript>
+                    <p>Saluez votre aimable famille de ma part &amp; de celle de <seg type="comment"><orig>ma femme</orig><note xml:id="dbeb4a6d-0de7-463b-890a-9b15461c58c3"><persName key="ed_kyz_h2t_sy">Sarah Jung</persName>. </note></seg>
+                    </p>
+                </postscript>
+            </div></body></text></TEI>

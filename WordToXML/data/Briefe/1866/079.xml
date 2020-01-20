@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00082" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>79</idno>Karl Marx an Friedrich Engels in Manchester. Margate, Montag, 2. April
+          1866</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>IISG</institution>
+            <collection>Marx-Engels-Nachlass</collection>
+            <idno><idno type="shelfmark">L 4447/L VI 580</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              226&#160;×&#160;182&#160;mm. Prägung: Wappenschild mit kleinem Stern und der
+              Aufschrift „Brasier Margate“. Marx hat alle vier Seiten vollständig beschrieben.
+              Schreibmaterial: schwarze Tinte.</p>
+            <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand: Nummerierung der
+              beschriebenen Seiten: „17,1“ bis „17,4“. </p>
+            <p>Von unbekannter Hand: Nummerierung „15,4“ bzw. „18,4“ (wahrscheinlich ausradiert
+              ).</p>
+            <p>Marx beantwortet Engels' Brief vom 2.&#160;April 1866 (Engels an Marx, 2.4.1866).
+              Engels antwortete am 6.&#160;April 1866 (Engels an Marx, 6.4.1866).</p>
+          </physDesc>
+          <additional>
+            <listBibl>
+              <bibl>RGASPI f. 1 op. 1 d. 1952</bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+        <listWit>
+          <witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;304–306.</bibl></witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term key="ed_jtl_xrw_ww">Internationale Arbeiter Assoziation (IAA, A.I.T., I.W.M.A.)</term>
+          <term key="ed_u5f_cpw_ww">Naturwissenschaften</term>
+          <term key="ed_rw2_4vl_qx">Preußen</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName>Margate</placeName>
+          <date when="1866-04-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+          <placeName>Manchester</placeName>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-10-31T13:39:04Z</date> | <name>Regina Roth</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingAct">
+        <opener><dateline sameAs="MBDatumszeile"><pb/> 2 April 1866.<lb/>5, Lansell's Place,
+            Margate.</dateline><salute sameAs="MBAnrede">Lieber Fred,</salute></opener>
+        <p sameAs="MBTextohneEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_wf1_hj5_4z"/><orig>D'abord mit bestem Dank erhalten die
+              £&#160;10.</orig><anchor type="verweisziel" xml:id="stop_wf1_hj5_4z"/><note xml:id="d57a71b3-f521-4993-a0d5-2f440818b76d">Siehe Engels an Marx, <ref target="B00077">27.3.1866</ref>
+              <?oxy_comment_start author="reichhoff" timestamp="20170415T152133+0200" comment="{{Br._74.15}}"?>
+              <?oxy_comment_end?>und <ref target="B00081/#start_s4g_fcv_4z">2.4.<?oxy_comment_start author="reichhoff" timestamp="20170415T152658+0200" comment="{{Br. 78.3–4}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_zp2_f3p_pz"/>Während meiner Abwesenheit</orig><note xml:id="c48fae0c-6a8e-465e-a338-fc10469838af">Siehe <ref target="B00054/#a9fd0c5d-779b-4626-bf9f-71889bd4804c">Erl. zu Engels an Marx,
+                5.3.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170517T171239+0200" comment="{{Erl. 51a}}."?></note><?oxy_comment_end?></seg>
+          ist im <bibl sameAs="zzThe Commonwealth"><hi rendition="#u">Commonwealth</hi></bibl>
+          <seg type="comment"><orig>ein changement de décoration</orig><note xml:id="nonb_5lm_cz">Siehe <ref target="B00075/#start_l5m_hvz_nz">Marx an Engels,
+                24.3.<?oxy_comment_start author="reichhoff" timestamp="20170415T155822+0200" comment="{{Br. 72.25–38}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          vorgegangen oder vielmehr de direction, das mit nächster Woche ins Leben tritt. <persName key="pdrPo.001.004.000003494"><hi rendition="#u">Odgers</hi></persName> Editor; <hi rendition="#u"><persName key="pdrPo.001.004.000001603">Fox</persName></hi>, subeditor;
+            <seg type="comment"><orig>der „<hi rendition="#u">son of toil</hi>“</orig><note xml:id="nxdz_rpg_cz"><persName key="pdrPo.001.004.000001296">Johann Georg
+                Eccarius</persName> schrieb im „Commonwealth“ (((lThe_Commonwealth))) unter diesem
+              Pseudonym.</note></seg> engagirt wöchentlich einen Artikel für 10&#160;s. zu liefern;
+            <seg type="comment"><orig><hi rendition="#u"><persName key="pdrPo.001.004.000001027">Crämer</persName></hi></orig><note xml:id="ncfq_dqg_cz"><persName key="pdrPo.001.004.000001027">William Randall Cremer</persName> .</note></seg>
+          <seg type="comment"> out of place; <orig>hat auch seine Demission als Gen. Secret. der
+              „Intern. Assoc.“ gegeben.</orig><note xml:id="fd92820b-bd2f-4ca8-ac56-a30caad3f5d2">Die Funktion des Generalsekretärs der IAA legte Cremer in der Sitzung des Zentralrats
+              am 17.&#160;Oktober 1865 nieder (siehe The_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+              S.&#160;359.4–13). (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20. S._265–450)))
+              Am 9.&#160;Januar 1866 erklärte er sich bereit, die Funktion wieder aufzunehmen
+              (ebenda. S.&#160;379.29–32). Am 24.&#160;April bestätigte der Zentralrat <persName key="pdrPo.001.004.000001027">Cremer</persName> in dieser Funktion (The_Minute Book
+              1864–1866. In: MEGA²&#160;I/20. S.&#160;403.4–8). (((lThe_Minute Book 1864–1866. In:
+              MEGA²&#160;I/20. S._265–450))) Nach dem Genfer Kongress der IAA (siehe <ref target="B00004/#nrk1_sfc_3y">Erl. zu Marx an Engels,
+              5.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170517T171825+0200" comment="{{Erl. 3d}}"?>)<?oxy_comment_end?>,
+              in der Sitzung des Generalrats der IAA am 25.&#160;September 1866, wurde <persName key="pdrPo.001.004.000001603">Peter Fox André</persName> zum Generalsekretär gewält
+              (Minutes of the General Council 1866/1867. In: MEGA²&#160;I/20. S.&#160;485.38–39).
+              (((lMinutes of the General Council 1866/1867. In: MEGA²&#160;I/20. S._477–591))
+            </note></seg> Im Ganzen habe ich nichts gegen den change. <seg type="comment"><orig><persName key="pdrPo.001.004.000001296">Eccarius</persName> konnte sich kaum
+              (oder sollte sich wenigstens nicht) einbilden, daß man ihm die nominelle Leitung
+              lassen werde, sobald das Blatt Position erobert. Ich hatte ihn vergebens gewarnt. Es
+              war meinerseits ein „politischer“ Fehler seinem Drängen nachzugeben u. ihn in einem
+              Briefe zu seinem jetzt erledigten Posten vorzuschlagen.</orig><note xml:id="cd0106ca-0b92-4e8b-a7b4-557e1839a7a5">Zur Reorganisation der Zeitung „The
+              Commonwealth“ (((zThe_Commonwealth))) siehe <ref target="B00036/#start_vgc_rhv_4z">Marx an Engels,
+                10.2.<?oxy_comment_start author="reichhoff" timestamp="20170415T160522+0200" comment="{{Br. 33.33–47}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00007/#nmrb_qzn_4y">Erl. zu Marx an J. Ph. Becker, zwischen 9. und
+                15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170517T172136+0200" comment="{{Erl._6f}}."?></note><?oxy_comment_end?></seg>
+          Wäre ich nicht krank gewesen, so hätte er vergebens angepocht. Ich wußte im voraus, daß
+          mir die Sache auf den Buckel fallen würde. Vermeidung allen Scheins persönlicher Absichten
+          oder Mißbrauchs persönlichen Einflusses zu geheimen Zwecken, u. gutes Einverständniß mit
+          den Engländern müssen uns natürlich wichtiger sein als Befriedigung von <persName key="pdrPo.001.004.000001296">Eccarius'</persName> mehr oder minder berechtigter
+          Ambition. </p>
+        <p sameAs="MBTextmitEinzug"><pb/> Solche trocknen Naturen wie <persName key="pdrPo.001.004.000001296">Eccarius</persName> besitzen auch einen gewissen trocknen
+          Egoismus, der sie leicht irrführt. Als <seg type="comment"><orig>die Reform Ligue das
+              grosse Meeting in St. Martin's Hall beschloß,</orig><note xml:id="c38aba8d-4da0-4939-8faf-442fc1c1417f">Zur Reform League siehe <ref target="B00007/#ad3d64b6-cc97-4e64-a37d-88309702e416">Erl. zu Marx an J. Ph. Becker,
+                zwischen 9. und 15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170517T172325+0200" comment="{{Erl. 6x}}."?>
+              <?oxy_comment_end?>Marx bezieht sich hier auf das am 12.&#160;Dezember 1865 von der
+              Reform League in der St.&#160;Martin’s Hall veranstaltete Massenmeeting. Siehe <ref target="B00007/#de3efba0-912a-4f0d-9099-88a83e4b4163">Erl. zu Marx an J. Ph. Becker,
+                zwischen 9. und
+              15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170517T172523+0200" comment="{{Erl. 6y}}."?></note><?oxy_comment_end?></seg>
+          ernannte der Council der Ligue ihn als einen der public speakers. <seg type="comment"><orig>Die Kerls von <persName key="pdrPo.001.004.000003797">Potter's</persName>
+              Clique</orig><note xml:id="a84a03b5-04bf-4992-82a3-9e00be9e207f"><persName key="pdrPo.001.004.000003797">George Potter</persName> war ein Redakteur und
+              Mitherausgeber der Zeitung „The Bee-Hive Newspaper“. (((zThe_Bee-Hive_Newspaper))) Zu
+              Marx’ Urteil über ihn siehe MEGA²&#160;III/13. Br.&#160;245.15–25. (Siehe auch Mares:
+              Die englischen Publikationsorgane der IAA. Zum Kontext der politischen Tätigkeit von
+              Karl Marx. In: MEGA-Studien. 1998/2. Amsterdam_1999. S._35.) (((lMares: Die englischen
+              Publikationsorgane der IAA. Zum Kontext der politischen Tätigkeit von Karl Marx. In:
+              MEGA-Studien. 1998/2. Amsterdam_1999. S._24–48))) </note></seg> protestirten gegen ihn
+          als Foreigner. Ich warnte ihn ausdrücklich seinen „brief“ nicht anzunehmen. Er aber
+          glaubte über alle Berge zu sein u. kitzelte sich mit der wichtigen Rolle in dem
+          metropolitan movement. Und er war a dead failure. Der arme Kerl hat natürlich ein Leben
+          von disappointments durchgemacht, u. die Ehrenposten, <del> wozu <sic ana="#break-off"/></del> die ihm die Engländer spontaneously einräumten, <seg type="comment"><orig>als
+              Vicepräsident der „Internat.“</orig><note xml:id="b312f9fa-5089-45e2-ad9a-09b1c010aaa5"><persName key="pdrPo.001.004.000001296">Johann Georg Eccarius</persName> bekleidete die Funktion des Vizepräsidenten der
+              IAA in den Jahren 1864–1867, als er am 9.&#160;Juli 1867 zum Generalsekretär der
+              Internationale gewählt wurde. Siehe The_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+              S.&#160;273 und Minutes of the General Council 1866/1867. In: MEGA²&#160;I/20.
+              S.&#160;569.10–11. (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20. S._265–450)))
+              (((lMinutes of the General Council 1866/1867. In: MEGA²&#160;I/20. S._477–591))
+            </note></seg> u.s.w., täuschten ihn so weit, daß er nun glaubte auf einmal Revanche für
+          seine ganze Vergangenheit nehmen zu können. Hätte er mir gefolgt, langsam operirt,
+          bescheidne Haltung behauptet, so war alles im besten Gang. Wenn ich trotz seiner
+          Undisciplin u. seines eigensinnigen Vorgehns für ihn sogar selbst in den Dreck ging, so
+          bestimmte mich namentlich dazu die Rücksicht, daß er immer mit uns gearbeitet u. niemals
+          Früchte geerndtet. Aber man macht immer blunders, wenn man sich durch derlei Rücksichten
+          influenciren läßt.</p>
+        <p sameAs="MBTextmitEinzug">Was <seg type="comment"><orig>die Zeitung</orig><note xml:id="f0f23fd6-1c00-43e8-8012-15f4df06d8b4">„The Commonwealth“ (London).
+              (((zThe_Commonwealth))) </note></seg> selbst angeht, <seg type="comment"><orig>so
+              besteht die Gefahr – von wegen mangelnder fonds – in den wachsenden Uebergriffen u.
+              Uebergewicht der <bibl sameAs="zzThe Nonconformist">Nonconformist</bibl>
+              Clique.</orig><anchor type="verweisziel" xml:id="stop_zp2_f3p_pz"/><note xml:id="d597f4b6-110a-4279-b323-9ee9c37a4ccf">Siehe <ref target="B00081/#start_qws_33v_4z">Engels an Marx,
+                2.4.<?oxy_comment_start author="reichhoff" timestamp="20170415T161029+0200" comment="{{Br. 78.12–17}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+        </p>
+        <p sameAs="MBTextmitEinzug"><pb/> Der verfluchte traditionelle Charakter aller englischen
+          Bewegungen zeigt sich wieder in dem Reformmovement. Dieselben „instalments“, die mit der
+          höchsten Indignation noch vor wenigen Wochen von der Volkspartei verworfen wurden, – sie
+          hatten sogar <persName key="pdrPo.001.004.000000612">Bright's</persName> Ultimatum eines
+          household suffrage zurückgewiesen – werden jetzt als würdiger Kampfpreiß behandelt. Und
+          warum? Weil die Tories Zetermordio schreien. Den Kerls fehlt das mettle der alten
+          Chartisten.</p>
+        <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_ecj_vhp_pz"><anchor type="verweisziel" xml:id="start_by2_wh2_qz"/></anchor>Was meinst Du von der östr.
+          preuss. Wirre? Ich sehe gar kein continentales Blatt. <seg type="comment"><orig>So viel
+              ist mir jedoch klar, daß hinter den Preussen Rußland steht, u. daß die Oestreicher,
+              die dieß wissen, nolens volens sich mit französischem Hinterhalt
+              vertrösten.</orig><anchor type="verweisziel" xml:id="stop_ecj_vhp_pz"/><note xml:id="eacc3226-3f76-4a0f-af9a-3791775c8e42">Siehe auch <ref target="B00084">Engels
+                an Marx,
+                6.4.<?oxy_comment_start author="reichhoff" timestamp="20170415T163709+0200" comment="{{Br. 81.3–18}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          Schönes Spiel dieser Hauptlandesväter! Das ist das ewige Dilemma, wozu uns der deutsche
+          Philister stets von neuem treibt. Für den <persName key="pdrPo.001.004.000003392">Bonaparte</persName> wäre wirklicher civil war in Germany wahrer godsend.</p>
+        <p sameAs="MBTextmitEinzug">Allerdings möglich bleibt es immer, daß die Sache eines schönen
+          Morgens mit einfacher Absetzung des würdigen <persName key="pdrPo.001.004.000000441">Bismarck</persName> endet. Aber <seg type="comment"><orig>„Wilhelm der
+              Erobrer“</orig><note xml:id="eb78ca12-e23d-452c-ba1a-1c0e035c5e2d">Hier <persName key="pdrPo.001.004.000005131">Wilhelm&#160;I., König von Preußen</persName>, mit
+              Anspielung auf <persName key="pdrPo.001.004.000011754">William I</persName> (genannt
+              William the Conqueror). </note></seg> glaubt <seg type="comment"><orig>seit
+              Düppel</orig><note xml:id="e48b9b3a-fe27-4100-8846-9b83eb2198f5">Zu Düppel siehe <ref target="B00081/#f31cd957-c594-447c-b623-54795e6e770a">Erl. zu Engels an Marx,
+                2.4.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170517T172959+0200" comment="{{Erl. 78f}}."?></note><?oxy_comment_end?></seg>
+          an die Unbesiegbarkeit seiner „herrlichen Armeen“ u. <seg type="comment"><orig>ein zweites
+              Olmütz,</orig><note xml:id="fe6d60a1-dc7d-41f8-a889-90216b9fe9be">Gemeint ist die
+              Olmützer Punktation von 1850, mit der die preußischen Hegemoniebestrebungen in
+              Deutschland einen Rückschlag erlitten.</note></seg> bei dem internal conflict, muß
+          selbst ihm riskirt erscheinen. <anchor type="verweisziel" xml:id="stop_by2_wh2_qz"/></p>
+        <p sameAs="MBTextmitEinzug"><pb/> Das Wetter ist hier sehr schlecht seit einigen Tagen, als
+          ob es eigens auf Bestellung gemacht wäre für die Cockneys, die diesen Platz zur Osterfeier
+          invadiret haben.</p>
+        <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_tvq_l5p_pz"/><hi rendition="#u">Wie lange</hi> ist das Arsenik zu nehmen?<anchor type="verweisziel" xml:id="stop_tvq_l5p_pz"/></p>
+        <p sameAs="MBTextmitEinzug">My compliments to Mrs <persName key="pdrPo.001.004.000000698">Burns</persName>.</p>
+        <closer sameAs="MBUnterschrift">Dein<lb/>K. M.</closer>
+        <postscript>
+          <p><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_fmt_sjf_4z"/>Mein
+                Freund <persName key="pdrPo.001.004.000002460">Kaub</persName> schreibt mir aus
+                Paris, ein gewisser M.&#160;<persName key="ed_xg4_3rr_3z">Rebour</persName> habe
+                Mittel gefunden <del> to separate <sic ana="#break-off"/></del> Wasser in Hydrogen
+                u. Oxygen zu theilen durch eine Methode, die eine Ausgabe von 2 sous täglich kosten
+                würde for a fire to melt iron with. Er behandle die Sache aber einstweilen noch als
+                Geheimniß, da bei früherer Gelegenheit <add>ihm</add> eine Entdeckung gestohlen u.
+                in London patentirt worden sei.</orig><anchor type="verweisziel" xml:id="stop_fmt_sjf_4z"/><note xml:id="e6d8db7b-f070-41fa-89f2-189421a68515">Siehe
+                  <ref target="B00069/#start_t4y_3mv_4z">K. Kaub an die Familie Marx,
+                  17.3.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170415T164124+0200" comment="{{Br. 65.121–125}}"?>.<?oxy_comment_end?></note></seg>
+            <seg type="comment"><orig>Qui vivra verra.</orig><note xml:id="nbcl_hym_cz">Wer leben
+                wird, wird sehen; es wird sich zeigen (frz.).</note></seg> Du weißt, wie oft wir
+            beide geträumt haben von einer wohlfeilen Manier aus Wasser Feuer zu machen. </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

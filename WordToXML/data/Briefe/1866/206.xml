@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00213" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>206</idno>Karl Marx an Friedrich Engels in Manchester.
+                                        London, Montag, 31. Dezember 1866</title>
+                        </titleStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>IISG</institution>
+                                                <collection>Marx-Engels-Nachlass</collection>
+                                                <idno><idno type="shelfmark">L 4469/L VI
+                                                  602</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Bogen mittelstarkem,
+                                                  weißem Papier im Format
+                                                  226&#160;×&#160;178&#160;mm. Prägung: eine Krone
+                                                  auf dem Schild. Marx hat die erste Seite
+                                                  vollständig beschrieben, die übrigen drei sind
+                                                  leer. Schreibmaterial: schwarze Tinte.</p>
+                                                <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand: Numerierung  der
+                                                  beschrieben Seite:
+                                                  „63,1“.<?oxy_comment_start author="lindenberg" timestamp="20170425T100757+0200" comment="Von Eduard Bernsteins Hand: Numerierung des Briefes bzw. der beschrieben Seite: „63,1“."?></p>
+                                                <?oxy_comment_end?>
+                                        </physDesc>
+                                        <additional>
+                                                <listBibl>
+                                                  <bibl>RGASPI f. 1 op. 1 d. 2010</bibl>
+                                                </listBibl>
+                                        </additional>
+                                </msDesc>
+                                <listWit>
+                                        <witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913).
+                                                  S.&#160;359.</bibl></witness>
+                                </listWit>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName>London</placeName>
+                                        <date when="1866-12-31"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                                        <placeName>Manchester</placeName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:40:22Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingAct">
+                                <opener><dateline sameAs="MBDatumszeile"><pb/> 31 Dec.
+                                                1866.</dateline><salute sameAs="MBAnrede">Dear
+                                                Fred,</salute></opener>
+                                <p sameAs="MBTextohneEinzug">Prost Neujahr! Ditto für <seg type="comment"><orig>Madame Lizzy!</orig><note xml:id="e14b3f2b-ebd2-4b0f-8a12-77529d8d3432"><persName key="pdrPo.001.004.000000698">Lydia
+                                                  Burns</persName>.  </note></seg> Möge der Teufel
+                                        das nächste Jahr Russen, Preussen, <persName key="pdrPo.001.004.000003392">Bonaparte</persName>
+                                        und den British Juryman holen!</p>
+                                <p sameAs="MBTextmitEinzug">À Propos. <seg type="comment"><orig>Die
+                                                  französische Regierung hatte für uns bestimmte
+                                                  Papiere <add>u. Schriften</add>, die nach dem
+                                                  Genfer Congreß von französischen members über die
+                                                  Grenze gebracht wurden, mit Beschlag belegt u. dem
+                                                  Polizeiarchiv annexirt. Wir reclamirten durch
+                                                  <persName key="pdrPo.001.004.000004561">Lord
+                                                  Stanley</persName>, Foreign Minister, die Sachen
+                                                  als „British Property“. Und in der That, poor
+                                                  Bonaparte hat uns via Foreign Office alles
+                                                  ausliefern müssen.</orig><note xml:id="nxkv_xfq_kz">Siehe <ref target="B00195/#nf2j_vq1_kz">Erl. zu J. Ph. Becker
+                                                  an Marx,
+                                                  15.11.<?oxy_comment_start author="reichhoff" timestamp="20170519T140506+0200" comment="{{Erl. 189p}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                                        Ist das nicht hübsch! Er ist heruntergesimpelt u. weiß doch
+                                        selber nicht wie.</p>
+                                <p sameAs="MBTextmitEinzug">Ich habe heute <seg type="comment"><orig>eine sehr trübe Nachricht erhalten, den Tod
+                                                  meines <persName key="pdrPo.001.004.000003715">Onkels</persName>,</orig><note xml:id="nymn_fgq_kz"><persName key="pdrPo.001.004.000003715">Lion
+                                                  Philips</persName>  war am 28. Dezember 1866
+                                                  gestorben. Die Nachricht an Marx ist nicht
+                                                  überliefert.</note></seg> der ein ausgezeichneter
+                                        Mann war. Er starb aber schön, rasch, umgeben von allen
+                                        seinen Kindern, mit vollem Bewußtsein, u. den Pfaffen mit
+                                        feiner <persName key="pdrPo.001.004.000011719">Voltairescher</persName> Ironie begiessend.</p>
+                                <p sameAs="MBTextmitEinzug">Die ganze Familie sendet Dir ihr Prost
+                                        Neujahr.</p>
+                                <p sameAs="MBTextmitEinzug">Salut</p>
+                                <closer sameAs="MBUnterschrift">D<lb/>KM </closer>
+                        </div>
+                </body>
+        </text>
+</TEI>

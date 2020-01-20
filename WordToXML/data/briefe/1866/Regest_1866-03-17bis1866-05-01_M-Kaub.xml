@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_izv_bgp_f1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Marx (oder Jenny Marx) an Karl Kaub. Zwischen Samstag, 17. März und
+                    Dienstag, 1. Mai 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution/>
+                        <collection/>
+                        <idno><idno type="shelfmark"/></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Marx, Karl (1818-1883)</persName>
+                    <persName key="pdrPo.001.004.000003075">Marx, Jenny (1814-1881)</persName>
+                    <date from="1866-03-17" to="1866-05-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="pdrPo.001.004.000002460">Kaub, Karl</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract>
+                <p>Nicht überlieferter Brief  (“your letter“) von Karl oder Jenny Marx, geschrieben
+                    zwischen dem 17. März 1866 und 1. Mai 1866; siehe <ref target="B00069">Karl Kaub
+                        an Familie Marx in London. Paris, Samstag, 17. März 1866</ref> u. <ref target="B00101">Karl Kaub an Familie Marx in London. Paris, Dienstag, 1. Mai
+                        1866.</ref>
+                </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+					<salute/>
+                </opener>
+				<p/>
+				<closer>
+					<salute/>
+					<signed/>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

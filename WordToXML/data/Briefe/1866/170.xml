@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00174" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>170</idno>Sigfrid Meyer an Karl Marx in London. Berlin, Samstag, 22. September 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 1673</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 287&#160;×&#160;219&#160;mm. Die erste Seite hat Meyer vollständig beschrieben, die übrigen drei sind leer. Schreibmaterial: schwarze Tinte.</p><p>Die Schreibweise wurde nicht berichtigt.</p></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000003187">Sigfrid Meyer</persName><placeName>Berlin</placeName><date when="1866-09-22"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:59Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Berlin 6 Ritterstraße 22/9 66</dateline><salute sameAs="MBAnrede">Sehr geehrter herr,</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_p4h_sbj_nz"/>Daß ich erst heute den betrag für die am 17ten januar
+              empfangenen karten einsende,</orig><note xml:id="ddf47180-00d1-400e-9ef0-47b48d135524"><persName key="pdrPo.001.004.000003187">Meyer</persName> bezieht sich auf den nicht
+              überlieferten Brief von Marx, geschrieben am 15.&#160;Januar 1866, dem auch
+              Mitgliedskarten der IAA (siehe <ref target="B00011/#cb864592-8d8a-4a93-b073-8383b8d607bc">Erl. zu Marx an W. Liebknecht,
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170519T121357+0200" comment="{{Erl. 10c}}"?>1866<?oxy_comment_end?></ref>)
+              beilagen. Siehe <ref target="B00020">Marx an S. Meyer,
+                24.1.<?oxy_comment_start author="reichhoff" timestamp="20170406T122031+0200" comment="{{Br. 19}}"?>1866<?oxy_comment_end?></ref>,
+              siehe auch <ref target="B00019/#nqgn_w4k_5y">Erl. zu W. Liebknecht an Marx,
+                21.1.<?oxy_comment_start author="reichhoff" timestamp="20170519T121615+0200" comment="{{Erl. 18a}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00200">S. Meyer an Marx,
+                3.12.<?oxy_comment_start author="roth" timestamp="20170425T130200+0200" comment="{{Br. 193.5–7}}."?>1866<?oxy_comment_end?></ref>.
+            </note></seg> möge in den materiellen verhältnissen der wenigen getreuen entschuldigung
+          finden, die <seg type="comment"><orig>in der intelligenz-stadt</orig><note xml:id="nctk_qkr_3z">Möglicherweise Bezugnahme auf [Eduard] Schmidt-Weißenfels: Die
+              Stadt der Intelligenz. Geschichten aus Berlin’s Vor- und Nachmärz. Berlin 1865.
+              (((lSchmidt-Weißenfels, [Eduard]: Die Stadt der Intelligenz. Geschichten aus Berlin’s
+              Vor- und Nachmärz. Berlin 1865)))</note></seg> gar schwer zu finden sind.<anchor type="verweisziel" xml:id="stop_p4h_sbj_nz"/></p><p sameAs="MBTextmitEinzug">Sie werden vielleicht schon erfahren haben, <seg type="comment"><orig>daß mein freund <persName key="pdrPo.001.004.000004960">Vogt</persName> mit J.
+                Ph.&#160;<persName key="pdrPo.001.004.000000317">Becker</persName> in verbindung
+              getreten ist.</orig><note xml:id="ncvp_tkr_3z">Aus einem Briefwechsel zwischen
+                <persName key="pdrPo.001.004.000004960">August Vogt</persName>  und <persName key="pdrPo.001.004.000000317">Johann Philipp Becker</persName>  sind vier Briefe,
+              alle von ersterem, bekannt – vom 29. Januar, 8. April und 18. August 1866 sowie 30.
+              April 1867 (IISG, Johann Philipp Becker-Nachlass, Sign. D III 72–75). (((Vogt,August
+              an Johann Philipp Becker, 29. Januar, 8. April, 18. August 1866 und 30. April 1867.
+              (IISG, Johann Philipp Becker-Nachlass, Sign. D III 72–75) )))</note></seg> Wir
+          beabsichtigen binnen kurzer zeit hier vor zu gehen und hoffen auf langsamen zwar, doch
+          stetigen fortschrit. <seg type="comment"><orig>Politik wird natürlich im einzureichenden
+              statut eben so aus zu schließen sein, wie jede verbindung mit andern
+              vereinen.</orig><note xml:id="e3856e69-4a5b-477e-9074-747223ce2674">Siehe die
+              Verordnung über die Verhütung eines die gesetzliche Freiheit und Ordnung gefährdenden
+              Mißbrauchs des Versammlungs- und Vereinigungsrechtes. Vom 11. März 1850. In:
+              Gesetz-Sammlung für die Königlichen Preußischen Staaten. Berlin 1850. Nr. 3261.
+              S.&#160;405–413. Das Preußische Vereinsgesetz verbot politischen Vereinen, mit solchen
+              gleicher Art zu gemeinsamen Zwecken in Verbindung zu treten (§ 8). (((lVerordnung über
+              die Verhütung eines die gesetzliche Freiheit und Ordnung gefährdenden Mißbrauchs des
+              Versammlungs- und Vereinigungsrechtes. Vom 11. März 1850. In: Gesetz-Sammlung für die
+              Königlichen Preußischen Staaten. Berlin 1850. Nr. 3261. S.&#160;405–413)))
+            </note></seg></p><p sameAs="MBTextmitEinzug">Leider nötigen mich meine verhältnisse, Deutschland auf einige jahre zu
+                                        verlassen. <seg type="comment"><orig>Ich werde in
+                                                  14&#160;tagen nach New-York segeln, um wo möglich
+                                                  schon dort eine stellung für irgend welche
+                                                  bergbau-distrikte der U. St. zu
+                                                  finden.</orig><note xml:id="f77739b6-deee-4a0e-9d87-ad9292e68041">Über
+                                                  <persName key="pdrPo.001.004.000003187">Meyers</persName>  Ankunft und den Aufenthalt in
+                                                  Amerika siehe <ref target="B00200">S. Meyer an
+                                                  <?oxy_comment_start author="reichhoff" timestamp="20170406T122250+0200" comment="{{Br. 193}}"?>Marx<?oxy_comment_end?>,
+                                                  3.12.1866</ref>.</note></seg> Sollten sie geneigt
+                                        und im stande sein, mich dabei durch eine empfehlung zu
+                                        unterstützen, so würden sie mich sehr verbinden.</p><p sameAs="MBTextmitEinzug">Ich verlasse Berlin am 3ten&#160;oktober.</p><p sameAs="MBAdresse"><persName key="pdrPo.001.004.000003187">Meyer</persName>, bergingenieur 6
+                                        Ritterstraße 2 treppen<lb/><persName key="pdrPo.001.004.000004960">A.&#160;Vogt</persName> Brandenburg straße 45
+                                        <?oxy_comment_start author="lindenberg" timestamp="20170120T104206+0100" comment="&quot;4 treppen&quot; unter &quot;2 teppen&quot; setzen"?>4
+                                        treppen<?oxy_comment_end?></p><p sameAs="MBTextmitEinzug">Darf ich mir anzufragen erlauben, ob es mir vergönnt sein wird, <seg type="comment"><orig>ihr großes werk</orig><note xml:id="f5137979-5920-48b2-8f18-20eee85b7f5c">Gemeint ist hier Karl Marx: Das Kapital;
+              siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an J.
+                Ph. Becker, zwischen 9. und
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170519T121759+0200" comment="{{Erl. 6b}}"?>1866<?oxy_comment_end?>.</ref>
+              (((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg> mit hinüber zu nehmen?</p><closer sameAs="MBUnterschrift">Hochachtungsvoll<lb/>Sgfd Meyer </closer></div></body></text></TEI>

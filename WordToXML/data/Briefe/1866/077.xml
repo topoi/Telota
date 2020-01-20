@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00080" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>77</idno>Jenny Marx an Louis Kugelmann in Hannover. London, Sonntag, 1. April 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 6 op. 1 d. 62</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              224&#160;×&#160;178&#160;mm. Prägung: eine Krone mit Federbusch. Die ersten drei
+              Seiten hat Jenny Marx vollständig beschrieben, die vierte zur Hälfte. Schreibmaterial:
+              schwarze Tinte.</p>
+            <p>Archivsignatur des des Moskauer Marx-Engels-Instituts (IMĖ) auf den beschriebenen
+              Seiten: „RJ&#160;182a“ bis „RJ&#160;182d“.</p>
+            <p>Jenny Marx beantwortet den Brief Kugelmanns an Marx vom 30.&#160;März 1866 (L.
+              Kugelmann an Marx, 30.3.1866).</p>
+            <p><ref target="mega_hq4_lr3_rz">Der Brief enthält ein Foto („1 Copy“)
+                <?oxy_comment_start author="strauss" timestamp="20170609T173147+0200" comment="Siehe die Abbildung/Faksimile (Vorder- u. Rückseite)"?>als
+                Beilage.</ref><?oxy_comment_end?></p>
+          </physDesc></msDesc><listWit><witness><bibl>Erstveröffentlichung: in russischer Übersetzung: МЭС<hi rendition="#sup">2</hi> 31
+              (1963). S.&#160;496/497</bibl>.</witness><witness><bibl>in der Sprache des Originals: MEW&#160;31 (1965). S.&#160;591/592.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000003075">Jenny Marx</persName><placeName>London</placeName><date when="1866-04-01"/></correspAction><correspAction type="received"><persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName><placeName>Hannover</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:02Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                                <opener>
+                                        <dateline sameAs="MBDatumszeile"><pb/> 1 Modena
+                                                Villas<lb/>Maitland Park.<lb/>1<hi rendition="#sup">sten</hi> April. 1866</dateline>
+                                        <salute sameAs="MBAnrede">Sehr geehrter Herr,</salute>
+                                </opener>
+                                <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Ich vermuthe,
+              daß der recommandirte Brief, den ich gestern Abend spät aus Hannover erhielt, von
+              Ihnen kommt.</orig><note xml:id="d46b4bbc-0273-4127-a602-a0158bda437a"><ref target="B00079">L. Kugelmann an Marx,
+                30.3.<?oxy_comment_start author="reichhoff" timestamp="20170316T145038+0100" comment="{{Br. 76}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          Leider kann ich ihn erst Morgen, da im frommen England <expan resp="editor" sameAs="dottet_underline">Son<ex>n</ex>tags</expan> jeder Verkehr stockt, <seg type="comment"><orig>meinem Manne nach Margate nachschicken.</orig><note xml:id="nzsx_mbx_1z">Zu Marx’ Aufenthalt in Margate siehe <ref target="B00054/#a9fd0c5d-779b-4626-bf9f-71889bd4804c">Erl. zu Engels an Marx,
+                5.3.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170517T170613+0200" comment="{{Erl. 51a}}."?></note><?oxy_comment_end?></seg>
+          Da nun durch diesen Verzug möglicher Weise eine Verschleppung der Beantwortung entstehen
+          könnte, so eile ich gleich heute Ihnen den richtigen Empfang des Briefes anzuzeigen;
+          zugleich aber benutze ich diese Gelegenheit um mich bei Ihnen wegen meines völligen
+          Verstummens zu entschuldigen. Meine Schuld Ihrer großen Theilnahme u. rührenden
+          Freundschaft, welche Sie meinem Manne gezeigt haben, <pb/> gegenüber, fiel mir erst recht
+          schwer auf die Seele, als der junge Mann aus der City kam um sich in Ihrem Auftrage nach
+          dem Befinden meines Mannes zu erkundigen. Gleich <seg type="comment"><orig>nach meinem
+              letzten Schreiben an Sie,</orig><note xml:id="c7e4c112-23a7-4381-90b3-94f3e8ad0027"><ref target="B00049">J. Marx an L. Kugelmann, zwischen 23. und
+                26.2.<?oxy_comment_start author="reichhoff" timestamp="20170316T145316+0100" comment="{{Br. 46}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          erkrankte Karl erst recht ernstlich; ein neuer Carbuncle (kein Furunkel) brach aus u. zwar
+          von einer so hartnäckigen, entzündlichen Natur, daß mein armer Mann während fast
+          3&#160;Wochen sich kaum bewegen konnte u. fest an's Sopha gebunden war. Da wir Alle nur zu
+          genau wissen wie gefährlich diese Krankheit ist, wenn sie sich beständig wiederholt u.
+          Jahre lang anhält, so können Sie wohl denken, welche traurigen Tage u. Nächte wir
+          durchgemacht haben. </p>
+                                <p sameAs="MBTextmitEinzug"><pb/> Auf den Rath des Doctors <persName key="pdrPo.001.004.000001969">Gumpert</persName> in Manchester entschloß er sich die
+          Arsenikcur zu beginnen u. ebenfalls, nach dem Ausheilen des <expan resp="editor" sameAs="dottet_underline">Ab<ex>s</ex>cesses</expan> auf einige Wochen an die See zu
+          gehn. Seit beinahe 2&#160;Wochen befindet er sich nun in Margate, einem hier ganz in der
+          Nähe gelegenen Seebadeplatze u. wie es uns scheint, hat er sich dort ganz bedeutend
+          erholt. Die nächste Woche wird er zurückkehren um mit erfrischten Kräften an die
+          Vollendung seines so oft unterbrochenen <seg type="comment"><orig>Werkes</orig><note xml:id="a6022013-ac3e-4656-aabe-1853451b9228">Gemeint ist hier Karl Marx: Das Kapital;
+              siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an J.
+                Ph. Becker, zwischen 9. und 15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170517T170826+0200" comment="{{Erl. 6b}}."?>
+              <?oxy_comment_end?>(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg> zu
+          gehn.</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_b2t_ckh_4z"/><orig>Er hat mir gestern seinen
+              Photograph geschickt</orig><note xml:id="b95b8b76-58cf-4daf-844d-7e8e0495689e">Ein
+              Brief von Marx an <persName key="pdrPo.001.004.000003075">Jenny Marx</persName>,
+              geschrieben vor dem 31.&#160;März 1866, ist nicht überliefert.</note></seg> u. da es
+          Ihnen vielleicht Spaß macht von dem Mann, dem Sie ohne ihn <expan resp="editor" sameAs="dottet_underline">persönl<ex>ich</ex></expan> zu kennen so viel Freundschaft
+          bezeugen, ein Sonnenbild zu besitzen, <pb/>
+          <seg type="comment"><orig>so lege ich diesem Blättchen 1&#160;Copy bei.<anchor type="verweisziel" xml:id="stop_b2t_ckh_4z"/></orig><note xml:id="cb81fdf1-e2eb-45e9-ab82-6ea9e752443f">Siehe die Beschreibung des beigelegten
+              Fotos und <ref target="B00073/#start_a1l_s35_4z">Marx an L. Marx,
+                20.3.<?oxy_comment_start author="reichhoff" timestamp="20170415T125539+0200" comment="{{Br. 70.23–25}}"?>1866<?oxy_comment_end?></ref>.
+              sowie  die Abbildung/Faksimile. Es ist ein weiteres Original dieses Fotos überliefert
+              (ebenfalls unter RGASPI, Sign._f.&#160;389, op.&#160;1, d.&#160;4).</note></seg></p>
+                                <p sameAs="MBTextmitEinzug">Mich Ihnen unbekannter Weise empfehlend
+                                        bin ich Ihre ergebene</p>
+                                <closer sameAs="MBUnterschrift">Jenny Marx. </closer>
+                        </div></body></text></TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_wyk_gqy_sy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Formular „Internationale Revue</title>
+                <title>“</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno>
+                            <idno type="shelfmark">D 2327/D IV 248–5. Fotosign. 7787</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Formular für die Bestellung der Zeitschrift „Internationale Revue“</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p rendition="#mPrint">
+                    <pb n=""/>
+                    <?oxy_comment_start author="roth" timestamp="20170127T103123+0100" comment="gesamter Text ist gedruckter Formulartext; müsste gleich behandelt werden wie in Briefen; Absatz mit &quot;p&quot; ausgezeichnet"?>Ort
+                    und Datum des Poststempels<?oxy_comment_end?>. </p>
+                <p rendition="#mPrint">Ich wünsche die
+                    „<?oxy_comment_start author="lindenberg" timestamp="20170210T102502+0100" comment="Durch Fettdruck hervorgehoben"?>Internationale
+                    Revue<?oxy_comment_end?>“ unter den von Ihnen mitgetheilten Modalitäten zu
+                    empfangen.</p>
+                <p rendition="#mPrint">Absender: </p>
+                <p rendition="#mPrint"><pb n=""/> Abgesendet von:
+                    <lb/>...........................................................................................................................</p>
+                <p rendition="#mPrint">Herrn</p>
+                <p rendition="#mPrint"><?oxy_comment_start author="lindenberg" timestamp="20170210T103713+0100" comment="Durch Fettdruck hervorgehoben.
+Eventuell Textaufteilung nach der Vorlage in der Ansicht ändern (Herrn ... Wien) mittig setzen"?>Arnold
+                    Hilberg's Verlag </p>
+                <p rendition="#mPrint">I. Bäckerstrasse 30,</p>
+                <p rendition="#mPrint">Wien.<?oxy_comment_end?></p>
+                <p rendition="#mPrint">Gedrucktes.</p>
+                <p rendition="#mPrint">Franko.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

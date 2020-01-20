@@ -1,0 +1,2 @@
+MEGA Blau 	rgb(29,43,87)
+MEGA Rot	rgb(140,23,11)

@@ -1,0 +1,924 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="mega_personenregister" xml:lang="de" xml:id="personZ">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Gehört zur ediarum-App für eXist.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Hybrid: consult project description and document history for details.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="pdrPo.001.004.000005228">
+                    <idno type="mega">1030551</idno>
+                    <persName type="reg">
+                        <surname>Zabel</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <birth>1802</birth>
+                    <death>1875</death>
+                    <note>deutscher Journalist; Liberaler; 1848–1875 erster Chefredakteur der „National-Zeitung“ (Berlin)</note>
+                    <linkGrp>
+                        <ptr target="III/9#989" type="page"/>
+                        <ptr target="III/10#233" type="page"/>
+                        <ptr target="III/10#256" type="page"/>
+                        <ptr target="III/10#314" type="page"/>
+                        <ptr target="III/10#443" type="page"/>
+                        <ptr target="III/10#454" type="page"/>
+                        <ptr target="III/10#455" type="page"/>
+                        <ptr target="III/10#492" type="page"/>
+                        <ptr target="III/10#509" type="page"/>
+                        <ptr target="III/10#564" type="page"/>
+                        <ptr target="III/10#628" type="page"/>
+                        <ptr target="III/10#796" type="page"/>
+                        <ptr target="III/10#800" type="page"/>
+                        <ptr target="III/10#812" type="page"/>
+                        <ptr target="III/10#815" type="page"/>
+                        <ptr target="III/10#824" type="page"/>
+                        <ptr target="III/10#828" type="page"/>
+                        <ptr target="III/10#834" type="page"/>
+                        <ptr target="III/10#845" type="page"/>
+                        <ptr target="III/10#853" type="page"/>
+                        <ptr target="III/10#863" type="page"/>
+                        <ptr target="III/10#870" type="page"/>
+                        <ptr target="III/10#875" type="page"/>
+                        <ptr target="III/10#891" type="page"/>
+                        <ptr target="III/10#892" type="page"/>
+                        <ptr target="III/10#894" type="page"/>
+                        <ptr target="III/10#900" type="page"/>
+                        <ptr target="III/10#901" type="page"/>
+                        <ptr target="III/10#903" type="page"/>
+                        <ptr target="III/10#936" type="page"/>
+                        <ptr target="III/10#938" type="page"/>
+                        <ptr target="III/10#940" type="page"/>
+                        <ptr target="III/10#944" type="page"/>
+                        <ptr target="III/10#948" type="page"/>
+                        <ptr target="III/10#950" type="page"/>
+                        <ptr target="III/10#975" type="page"/>
+                        <ptr target="III/10#1030" type="page"/>
+                        <ptr target="III/10#1098" type="page"/>
+                        <ptr target="III/10#1143" type="page"/>
+                        <ptr target="III/10#1162" type="page"/>
+                        <ptr target="III/11#53" type="page"/>
+                        <ptr target="III/11#84" type="page"/>
+                        <ptr target="III/11#138" type="page"/>
+                        <ptr target="III/11#208" type="page"/>
+                        <ptr target="III/11#209" type="page"/>
+                        <ptr target="III/11#323" type="page"/>
+                        <ptr target="III/11#331" type="page"/>
+                        <ptr target="III/11#334" type="page"/>
+                        <ptr target="III/11#469" type="page"/>
+                        <ptr target="III/11#470" type="page"/>
+                        <ptr target="III/11#502" type="page"/>
+                        <ptr target="III/11#670" type="page"/>
+                        <ptr target="III/11#727" type="page"/>
+                        <ptr target="III/11#739" type="page"/>
+                        <ptr target="III/11#788" type="page"/>
+                        <ptr target="III/11#789" type="page"/>
+                        <ptr target="III/11#809" type="page"/>
+                        <ptr target="III/11#824" type="page"/>
+                        <ptr target="III/11#826" type="page"/>
+                        <ptr target="III/11#827" type="page"/>
+                        <ptr target="III/11#857" type="page"/>
+                        <ptr target="III/11#867" type="page"/>
+                        <ptr target="III/11#868" type="page"/>
+                        <ptr target="III/11#882" type="page"/>
+                        <ptr target="III/11#943" type="page"/>
+                        <ptr target="III/11#944" type="page"/>
+                        <ptr target="III/11#970" type="page"/>
+                        <ptr target="III/11#1054" type="page"/>
+                        <ptr target="III/11#1055" type="page"/>
+                        <ptr target="III/11#1060" type="page"/>
+                        <ptr target="III/11#1207" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005229">
+                    <idno type="mega">1030565</idno>
+                    <persName type="reg">
+                        <name>Zadek, Doris geb. Kronthal</name>
+                    </persName>
+                    <birth>1820</birth>
+                    <death>1916</death>
+                    <note>Mutter von Julie Romm, Regina Bernstein und Ignaz Zadek</note>
+                    <linkGrp>
+                        <ptr target="I/31#971" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005230">
+                    <idno type="mega">1030571</idno>
+                    <persName type="reg">
+                        <surname>Zaholtko</surname>
+                        <forename>R.</forename>
+                    </persName>
+                    <note>Unterzeichner (aus Prossnitz) des Einberufungsschreibens zum Internationalen Sozialistischen Arbeiterkongreß 1889 für die Sozialistische Arbeiterpartei Österreichs</note>
+                    <linkGrp>
+                        <ptr target="I/31#582" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005232">
+                    <idno type="mega">1030581</idno>
+                    <persName type="reg">
+                        <surname>Zamboni</surname>
+                        <forename>Giuseppe</forename>
+                    </persName>
+                    <birth>1776</birth>
+                    <death>1846</death>
+                    <note>italienischer Physiker; erfand eine „trockene Säule“ zur Stromerzeugung</note>
+                    <linkGrp>
+                        <ptr target="IV/31#537" type="page"/>
+                        <ptr target="IV/31#950" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005233">
+                    <idno type="mega">1030582</idno>
+                    <persName type="reg">
+                        <name>Zambrano, Miguel Ibarrola, marqués de</name>
+                    </persName>
+                    <birth>1776</birth>
+                    <death>1848</death>
+                    <note>spanischer General und Politiker; 1824 Kriegsminister</note>
+                    <linkGrp>
+                        <ptr target="IV/12#820" type="page"/>
+                        <ptr target="IV/12#821" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005234">
+                    <idno type="mega">1030583</idno>
+                    <persName type="reg">
+                        <name>Zamoyski, Władysław, Graf</name>
+                    </persName>
+                    <birth>1803</birth>
+                    <death>1868</death>
+                    <note>polnischer Magnat, General, Neffe des Fürsten Adam Czartoryski; 1854–1856 Kommandeur einer aus polnischen Freiwilligen bestehenden, auf türkischer Seite kämpfenden Kavalleriedivision (2.&#160;Kosakenkorps oder Sultan-Kosaken); polnischer General und Politiker; Teilnehmer am polnischen Aufstand 1830/31, an der ungarischen Nationalbewegung 1848/49 und, auf türkischer Seite, am Krimkrieg; ein Führer der polnischen konservativen Emigration in Paris</note>
+                    <linkGrp>
+                        <ptr target="I/14#128" type="page"/>
+                        <ptr target="I/31#197" type="page"/>
+                        <ptr target="I/31#235" type="page"/>
+                        <ptr target="I/31#998" type="page"/>
+                        <ptr target="III/13#278" type="page"/>
+                        <ptr target="III/13#968" type="page"/>
+                        <ptr target="IV/12#157" type="page"/>
+                        <ptr target="IV/12#1170" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005235">
+                    <idno type="mega">1030587</idno>
+                    <persName type="reg">
+                        <surname>Zang</surname>
+                        <forename>August</forename>
+                    </persName>
+                    <birth>1807</birth>
+                    <death>1888</death>
+                    <note>österreichischer Offizier, später Publizist; Liberaler; entwickelte in seiner Jugend ein Perkussionsgewehr; Gründer, Eigentümer und Herausgeber der „Presse“ (Wien) (1848–1867); danach Bankier</note>
+                    <linkGrp>
+                        <ptr target="III/11#637" type="page"/>
+                        <ptr target="III/11#1361" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011780">
+                    <idno type="mega">1030594</idno>
+                    <persName type="reg">
+                        <name>Zapf</name>
+                    </persName>
+                    <linkGrp>
+                        <ptr target="III/13#371" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005236">
+                    <idno type="mega">1030603</idno>
+                    <persName type="reg">
+                        <surname>Zapp</surname>
+                        <forename>Robert</forename>
+                    </persName>
+                    <birth>1837</birth>
+                    <death>1917</death>
+                    <note>Kaufmann in Ründeroth (Engelskirchen) und Düsseldorf; Sohn von Bernhard Zapp, seit 1862 verheiratet mit Engels’ Cousine Bertha van Haar</note>
+                    <linkGrp>
+                        <ptr target="III/11#477" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011781">
+                    <idno type="mega">1030600</idno>
+                    <persName type="reg">
+                        <surname>Zapp</surname>
+                        <forename>Bernhard</forename>
+                    </persName>
+                    <note>Kaufmann in Ründeroth (Engelskirchen); Vater von Robert Zapp</note>
+                    <linkGrp>
+                        <ptr target="III/11#477" type="page"/>
+                        <ptr target="III/11#478" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005237">
+                    <idno type="mega">1030607</idno>
+                    <persName type="reg">
+                        <surname>Zariátegui</surname>
+                        <forename>Juan Antonio</forename>
+                    </persName>
+                    <birth>1804</birth>
+                    <death>1869</death>
+                    <note>spanischer General; Karlist</note>
+                    <linkGrp>
+                        <ptr target="IV/12#861" type="page"/>
+                        <ptr target="IV/12#938" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005238">
+                    <idno type="mega">1030608</idno>
+                    <persName type="reg">
+                        <name>Zarudnyj, Mitrofan Ivanovič (Зарудный)</name>
+                    </persName>
+                    <birth>1834</birth>
+                    <death>1883</death>
+                    <note>russischer Jurist, Staatsbeamter</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000011782">
+                    <idno type="mega">1030610</idno>
+                    <persName type="reg">
+                        <name>Zasius, Ulrich eigtl. Zäsy</name>
+                    </persName>
+                    <birth>1461</birth>
+                    <death>1536</death>
+                    <note>deutscher Humanist, ein Begründer der modernen Rechtswissenschaft</note>
+                    <linkGrp>
+                        <ptr target="III/11#518" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005239">
+                    <idno type="mega">1030612</idno>
+                    <persName type="reg">
+                        <surname>Zastrow</surname>
+                        <forename>Heinrich Adolf von</forename>
+                    </persName>
+                    <birth>1801</birth>
+                    <death>1875</death>
+                    <note>preußischer General und Militärschriftsteller, 1839 in der Türkei, Teilnehmer an den Kriegen gegen Dänemark (1848–1850), Österreich (1866) und Frankreich (1870/71)</note>
+                    <linkGrp>
+                        <ptr target="I/14#1319" type="page"/>
+                        <ptr target="IV/12#1055" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005240">
+                    <idno type="mega">1030614</idno>
+                    <persName type="reg">
+                        <name>Zasulič, Vera Ivanovna (Засулич)</name>
+                    </persName>
+                    <birth>1849</birth>
+                    <death>1919</death>
+                    <note>russische Revolutionärin; 1883 Mitbegründerin der Gruppe „Osvoboždenie truda“, wirkte führend in der Volkstümler-, später in der sozialdemokratischen Bewegung Rußlands</note>
+                    <linkGrp>
+                        <ptr target="I/31#118" type="page"/>
+                        <ptr target="I/31#254" type="page"/>
+                        <ptr target="I/31#741" type="page"/>
+                        <ptr target="I/31#961" type="page"/>
+                        <ptr target="I/31#967" type="page"/>
+                        <ptr target="I/31#968" type="page"/>
+                        <ptr target="I/31#982" type="page"/>
+                        <ptr target="I/31#1002" type="page"/>
+                        <ptr target="I/31#1005" type="page"/>
+                        <ptr target="I/31#1015" type="page"/>
+                        <ptr target="II/11#1610" type="page"/>
+                        <ptr target="II/13#573" type="page"/>
+                        <ptr target="II/14#393" type="page"/>
+                        <ptr target="II/14#463" type="page"/>
+                        <ptr target="II/14#693" type="page"/>
+                        <ptr target="II/15#933" type="page"/>
+                        <ptr target="II/15#1002" type="page"/>
+                        <ptr target="II/15#1237" type="page"/>
+                        <ptr target="II/12#532" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005241">
+                    <idno type="mega">1030617</idno>
+                    <persName type="reg">
+                        <name>Zavala Bravo del Rivero, Pedro José de, marqués de San Lorenzo</name>
+                    </persName>
+                    <birth>1779</birth>
+                    <death>1850</death>
+                    <note>spanischer Militär und Politiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#641" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011783">
+                    <idno type="mega">1030618</idno>
+                    <persName type="reg">
+                        <surname>Zavala y Auñón</surname>
+                        <forename>Miguel de</forename>
+                    </persName>
+                    <note>spanischer Beamter; Autor zur Volkswirtschaft</note>
+                    <linkGrp>
+                        <ptr target="IV/12#730" type="page"/>
+                        <ptr target="IV/12#731" type="page"/>
+                        <ptr target="IV/12#759" type="page"/>
+                        <ptr target="IV/12#1405" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005242">
+                    <idno type="mega">1030620</idno>
+                    <persName type="reg">
+                        <surname>Zayas</surname>
+                        <forename>José Pascual de</forename>
+                    </persName>
+                    <birth>1772</birth>
+                    <death>1827</death>
+                    <note>spanischer General</note>
+                    <linkGrp>
+                        <ptr target="IV/12#500" type="page"/>
+                        <ptr target="IV/12#643" type="page"/>
+                        <ptr target="IV/12#767" type="page"/>
+                        <ptr target="IV/12#819" type="page"/>
+                        <ptr target="IV/12#835" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011791">
+                    <idno type="mega">1030622</idno>
+                    <persName type="reg">
+                        <name>Zebaoth</name>
+                    </persName>
+                    <note>in der Bibel nicht übersetzter, hebräischer Gottesname, bedeutet Heerscharen, himmlische oder irdische</note>
+                    <linkGrp>
+                        <ptr target="III/13#1078" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005243">
+                    <idno type="mega">1030626</idno>
+                    <persName type="reg">
+                        <name>Zedlitz und Neukirch, Constantin, Freiherr vonZedlitz-Neukirch, Constantin, Freiherr von</name>
+                    </persName>
+                    <birth>1813</birth>
+                    <death>1889</death>
+                    <note>1856–1862 Polizeipräsident von Berlin</note>
+                    <linkGrp>
+                        <ptr target="III/9#194" type="page"/>
+                        <ptr target="III/9#195" type="page"/>
+                        <ptr target="III/9#847" type="page"/>
+                        <ptr target="III/11#400" type="page"/>
+                        <ptr target="III/11#401" type="page"/>
+                        <ptr target="III/11#404" type="page"/>
+                        <ptr target="III/11#410–413" type="page"/>
+                        <ptr target="III/11#418" type="page"/>
+                        <ptr target="III/11#426–432" type="page"/>
+                        <ptr target="III/11#434" type="page"/>
+                        <ptr target="III/11#437" type="page"/>
+                        <ptr target="III/11#438" type="page"/>
+                        <ptr target="III/11#446" type="page"/>
+                        <ptr target="III/11#457" type="page"/>
+                        <ptr target="III/11#459" type="page"/>
+                        <ptr target="III/11#499" type="page"/>
+                        <ptr target="III/11#502" type="page"/>
+                        <ptr target="III/11#512" type="page"/>
+                        <ptr target="III/11#515" type="page"/>
+                        <ptr target="III/11#516" type="page"/>
+                        <ptr target="III/11#529" type="page"/>
+                        <ptr target="III/11#538" type="page"/>
+                        <ptr target="III/11#539" type="page"/>
+                        <ptr target="III/11#701" type="page"/>
+                        <ptr target="III/11#705" type="page"/>
+                        <ptr target="III/11#1089" type="page"/>
+                        <ptr target="III/11#1130" type="page"/>
+                        <ptr target="III/11#1132" type="page"/>
+                        <ptr target="III/11#1141" type="page"/>
+                        <ptr target="III/11#1151" type="page"/>
+                        <ptr target="III/11#1161" type="page"/>
+                        <ptr target="III/11#1164–1167" type="page"/>
+                        <ptr target="III/11#1170" type="page"/>
+                        <ptr target="III/11#1174" type="page"/>
+                        <ptr target="III/11#1184" type="page"/>
+                        <ptr target="III/11#1194" type="page"/>
+                        <ptr target="III/11#1232" type="page"/>
+                        <ptr target="III/11#1249" type="page"/>
+                        <ptr target="III/13#684" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005244">
+                    <idno type="mega">1030627</idno>
+                    <persName type="reg">
+                        <surname>Zednicek</surname>
+                        <forename>T.</forename>
+                    </persName>
+                    <note>Unterzeichner (aus Prossnitz) des Einberufungsschreibens zum Internationalen Sozialistischen Arbeiterkongreß 1889 für die Sozialistische Arbeiterpartei Österreichs</note>
+                    <linkGrp>
+                        <ptr target="I/31#582" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005246">
+                    <idno type="mega">1030637</idno>
+                    <persName type="reg">
+                        <name>Zeller, J. vermtl. Johann</name>
+                    </persName>
+                    <note>deutscher Ökonom</note>
+                    <linkGrp>
+                        <ptr target="II/13#9" type="page"/>
+                        <ptr target="II/13#561" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005247">
+                    <idno type="mega">1030639</idno>
+                    <persName type="reg">
+                        <name>Zellweger</name>
+                    </persName>
+                    <note>Mitglied der Schiller-Anstalt in Manchester (1860)</note>
+                    <linkGrp>
+                        <ptr target="III/11#1016" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005248">
+                    <idno type="mega">1030643</idno>
+                    <persName type="reg">
+                        <surname>Zendoquis</surname>
+                        <forename>Mateo</forename>
+                    </persName>
+                    <note>1814/1815 spanischer Politiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#502" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011784">
+                    <idno type="mega">1030644</idno>
+                    <persName type="reg">
+                        <name>Zenon</name>
+                    </persName>
+                    <note>byzantinischer Kaiser (474/475, seit 476); versuchte erfolglos den religiösen Streit zwischen Orthodoxen und Monophysiten zu schlichten</note>
+                    <linkGrp>
+                        <ptr target="IV/12#17" type="page"/>
+                        <ptr target="IV/12#1094" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005249">
+                    <idno type="mega">1030649</idno>
+                    <persName type="reg">
+                        <surname>Zentner</surname>
+                        <forename>Heinrich</forename>
+                    </persName>
+                    <birth>1830</birth>
+                    <death>1896</death>
+                    <note>deutscher Justizbeamter; Bekannter von Victor Schily</note>
+                    <linkGrp>
+                        <ptr target="III/13#415" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011792">
+                    <idno type="mega">1030652</idno>
+                    <persName type="reg">
+                        <name>Zerberus</name>
+                    </persName>
+                    <note>in der griechischen Mythologie ein dreiköpfiger Hund, der den Eingang zum Hades bewacht (Höllenhund)</note>
+                    <linkGrp>
+                        <ptr target="I/14#647" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005250">
+                    <idno type="mega">1030659</idno>
+                    <persName type="reg">
+                        <surname>Zerffi</surname>
+                        <forename>Gusztáv</forename>
+                    </persName>
+                    <birth>1820</birth>
+                    <death>1891</death>
+                    <note>Teilnehmer der Revolution 1848/49 in Ungarn; Geheimagent der österreichischen Regierung (1849–1865), seit 1849 in der Türkei, seit 1851 in Frankreich, seit 1853 in Großbritannien; ungarischer Journalist und Publizist; Mitglied und zeitweise Sekretär des Deutschen Nationalvereins in London; 1862 in Großbritannien naturalisiert, dort als Kunst- und Kulturhistoriker tätig</note>
+                    <linkGrp>
+                        <ptr target="III/10#187" type="page"/>
+                        <ptr target="III/10#815" type="page"/>
+                        <ptr target="III/10#973" type="page"/>
+                        <ptr target="III/11#483" type="page"/>
+                        <ptr target="III/11#484" type="page"/>
+                        <ptr target="III/11#506" type="page"/>
+                        <ptr target="III/11#521" type="page"/>
+                        <ptr target="III/11#536" type="page"/>
+                        <ptr target="III/11#537" type="page"/>
+                        <ptr target="III/11#556" type="page"/>
+                        <ptr target="III/11#1219" type="page"/>
+                        <ptr target="III/11#1239–1242" type="page"/>
+                        <ptr target="III/11#1285" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005251">
+                    <idno type="mega">1030660</idno>
+                    <persName type="reg">
+                        <surname>Zernin</surname>
+                        <forename>Eduard</forename>
+                    </persName>
+                    <note>deutscher Publizist, Herausgeber der „Allgemeinen Militär-Zeitung“</note>
+                    <linkGrp>
+                        <ptr target="III/10#231" type="page"/>
+                        <ptr target="III/10#854" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005252">
+                    <idno type="mega">1030663</idno>
+                    <persName type="reg">
+                        <surname>Zetkin</surname>
+                        <forename>Clara</forename>
+                    </persName>
+                    <birth>1857</birth>
+                    <death>1933</death>
+                    <note>deutsche Lehrerin, Politikerin; seit 1878 Mitglied der Sozialistischen Arbeiterpartei Deutschlands, Redakteurin der „Gleichheit“ (1891–1917); Mitbegründerin der internationalen revolutionären Frauenbewegung, führende Funktionärin der deutschen und internationalen Arbeiterbewegung; Ehefrau von Osip Cetkin</note>
+                    <linkGrp>
+                        <ptr target="I/31#1294" type="page"/>
+                        <ptr target="I/31#1295" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011793">
+                    <idno type="mega">1030668</idno>
+                    <persName type="reg">
+                        <name>Zeus</name>
+                    </persName>
+                    <note>höchster Gott in der griechischen Mythologie</note>
+                    <linkGrp>
+                        <ptr target="I/14#1360" type="page"/>
+                        <ptr target="II/11#1257" type="page"/>
+                        <ptr target="III/10#1066" type="page"/>
+                        <ptr target="III/10#1069" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005253">
+                    <idno type="mega">1030670</idno>
+                    <persName type="reg">
+                        <surname>Zeuß</surname>
+                        <forename>Johann Kaspar</forename>
+                    </persName>
+                    <birth>1806</birth>
+                    <death>1856</death>
+                    <note>deutscher Altertumsforscher und Keltologe</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000005254">
+                    <idno type="uri">http://d-nb.info/gnd/170885348</idno>
+                    <idno type="mega">1030676</idno>
+                    <persName type="reg">
+                        <surname>Ziber (Зибер)</surname>
+                        <forename>Nikolaj Ivanovič</forename>
+                    </persName>
+                    <birth>1844</birth>
+                    <death>1888</death>
+                    <note>russischer Ökonom schweizerischer Abstammung (Sieber); einer der ersten Propagandisten der ökonomischen Theorie von Marx in Rußland; 1873–1875 Professor in Kiev; 1875–1884 Emigrant in der Schweiz; Mitarbeiter an verschiedenen Emigrantenzeitschriften, u.&#160;a. „Znanie“ und „Slovo“ (1876–1882)</note>
+                    <linkGrp>
+                        <ptr target="II/11#1506" type="page"/>
+                        <ptr target="II/13#574" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005255">
+                    <idno type="mega">1030680</idno>
+                    <persName type="reg">
+                        <name>Ziedlinski</name>
+                    </persName>
+                    <birth>1797</birth>
+                    <death>1855</death>
+                    <note>türkischer General polnischer Herkunft, als Selim Pasha Truppenkommandeur im Kaukasus</note>
+                    <linkGrp>
+                        <ptr target="I/14#782" type="page"/>
+                        <ptr target="I/14#783" type="page"/>
+                        <ptr target="I/14#784" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005256">
+                    <idno type="mega">1030685</idno>
+                    <persName type="reg">
+                        <surname>Ziegler</surname>
+                        <forename>Franz</forename>
+                    </persName>
+                    <birth>1803</birth>
+                    <death>1876</death>
+                    <note>deutscher Rechtsanwalt und Schriftsteller; Demokrat; 1840–1848 Oberbürgermeister von Brandenburg a. d. Havel; Teilnehmer der Revolution 1848/49, zu Festungshaft verurteilt; Mitglied der Deutschen Fortschrittspartei; 1865–1870 Mitglied des preußischen Abgeordnetenhauses, seit 1867 Mitglied des Norddeutschen bzw. des Deutschen Reichstags</note>
+                    <linkGrp>
+                        <ptr target="III/11#559" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005257">
+                    <idno type="mega">1030695</idno>
+                    <persName type="reg">
+                        <name>Ziepel</name>
+                    </persName>
+                    <note>deutscher Referendar, Teilnehmer der Revolution 1848/49, Emigrant in Australien (1852–1857)</note>
+                    <linkGrp>
+                        <ptr target="III/10#260" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005259">
+                    <idno type="mega">1030707</idno>
+                    <persName type="reg">
+                        <surname>Zimmermann</surname>
+                        <forename>J.</forename>
+                    </persName>
+                    <note>Unterzeichner (aus Jägerndorf) des Einberufungsschreibens zum Internationalen Sozialistischen Arbeiterkongreß 1889 für die Sozialistische Arbeiterpartei Österreichs</note>
+                    <linkGrp>
+                        <ptr target="I/31#582" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005258">
+                    <idno type="uri">http://d-nb.info/gnd/116995238</idno>
+                    <idno type="mega">1030706</idno>
+                    <persName type="reg">
+                        <surname>ZimmermannZimmermann</surname>
+                        <forename>Ernst Wilhelm EduardEduard</forename>
+                    </persName>
+                    <birth>1811</birth>
+                    <death>1880</death>
+                    <note>deutscher Historiker und Politiker, Junghegelianer, Demokrat; Verfasser einer „Allgemeinen Geschichte des großen Bauernkrieges“ (1841–1843); preußischer Jurist und Politiker; Linksliberaler; bis 1839 Stadtrichter, dann Bürgermeister in Spandau; 1848/49 Mitglied der Frankfurter Nationalversammlung (äußerste Linke); wegen Hochverrats angeklagt und entflohen; 1850 Emigration nach London, ab 1855 Anwalt bei allen Gerichten in London, zugleich Mitarbeiter deutscher und englischer Zeitungen und Verfasser juristischer Schriften; Anfang der 1870er Jahre Rückkehr nach Deutschland, Mitglied der Deutschen Fortschrittspartei, 1874–1877 und 1877–1880 Mitglied des Deutschen Reichstags, 1877–1880 Mitglied des preußischen Abgeordnetenhauses</note>
+                    <linkGrp>
+                        <ptr target="III/10#257" type="page"/>
+                        <ptr target="III/11#123" type="page"/>
+                        <ptr target="III/11#135" type="page"/>
+                        <ptr target="III/11#136" type="page"/>
+                        <ptr target="III/11#155" type="page"/>
+                        <ptr target="III/11#270" type="page"/>
+                        <ptr target="III/11#271" type="page"/>
+                        <ptr target="III/11#277" type="page"/>
+                        <ptr target="III/11#315" type="page"/>
+                        <ptr target="III/11#389" type="page"/>
+                        <ptr target="III/11#597" type="page"/>
+                        <ptr target="III/11#598" type="page"/>
+                        <ptr target="III/11#671" type="page"/>
+                        <ptr target="III/11#695" type="page"/>
+                        <ptr target="III/11#880" type="page"/>
+                        <ptr target="III/11#889" type="page"/>
+                        <ptr target="III/11#893" type="page"/>
+                        <ptr target="III/11#1001" type="page"/>
+                        <ptr target="III/11#1323" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005260">
+                    <idno type="mega">1030711</idno>
+                    <persName type="reg">
+                        <surname>Zinkeisen</surname>
+                        <forename>Johann Wilhelm</forename>
+                    </persName>
+                    <birth>1803</birth>
+                    <death>1863</death>
+                    <note>deutscher Historiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#950" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005261">
+                    <idno type="mega">1030712</idno>
+                    <persName type="reg">
+                        <surname>Zinn</surname>
+                        <forename>Christian Friedrich</forename>
+                    </persName>
+                    <note>Teilnehmer an der Erhebung in der Pfalz und in Baden 1849; danach Emigrant in der Schweiz, 1852 in England; gründete den Bund deutscher Männer in London (1859); deutscher Buchdrucker und Journalist; Demokrat; verantwortlicher Herausgeber der Zeitung „Die Neue Zeit“ (London)</note>
+                    <linkGrp>
+                        <ptr target="III/9#245" type="page"/>
+                        <ptr target="III/9#901" type="page"/>
+                        <ptr target="III/9#902" type="page"/>
+                        <ptr target="III/10#152" type="page"/>
+                        <ptr target="III/10#787" type="page"/>
+                        <ptr target="III/11#210" type="page"/>
+                        <ptr target="III/11#1270" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005262">
+                    <idno type="mega">1030715</idno>
+                    <persName type="reg">
+                        <surname>Zinram</surname>
+                        <forename>A.</forename>
+                    </persName>
+                    <note>Unterzeichner (aus Wien) des Einberufungsschreibens zum Internationalen Sozialistischen Arbeiterkongreß 1889 für die Sozialistische Arbeiterpartei Österreichs</note>
+                    <linkGrp>
+                        <ptr target="I/31#582" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005263">
+                    <idno type="mega">1030720</idno>
+                    <persName type="reg">
+                        <surname>Zitz</surname>
+                        <forename>Franz</forename>
+                    </persName>
+                    <birth>1803</birth>
+                    <death>1877</death>
+                    <note>deutscher Rechtsanwalt; Abgeordneter der Frankfurter Nationalversammlung (linker Flügel), 1849 Teilnehmer am badisch-pfälzischen Aufstand; emigrierte nach dessen Scheitern in die USA</note>
+                    <linkGrp>
+                        <ptr target="III/9#423" type="page"/>
+                        <ptr target="III/9#485" type="page"/>
+                        <ptr target="III/9#1085" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011786">
+                    <idno type="mega">1030727</idno>
+                    <persName type="reg">
+                        <name>Zoe</name>
+                    </persName>
+                    <birth>1440</birth>
+                    <death>1503</death>
+                    <note>byzantinische Prinzessin, Gemahlin Ivans&#160;III Vasil’evič (seit 1472); als russische Großfürstin: Sofija Fominična Paleolog; Nichte des letzten byzantinischen Kaisers Konstantinos&#160;XI. Dragases Palaiologos</note>
+                    <linkGrp>
+                        <ptr target="IV/12#21" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005264">
+                    <idno type="mega">1030734</idno>
+                    <persName type="reg">
+                        <surname>Zollinger</surname>
+                        <forename>A.</forename>
+                    </persName>
+                    <note>Schweizer Sozialist, Emigrant in England, Mitglied der Schiller-Anstalt in Manchester (1860)</note>
+                    <linkGrp>
+                        <ptr target="III/11#1016" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005265">
+                    <idno type="mega">1030741</idno>
+                    <persName type="reg">
+                        <surname>Zorraquin</surname>
+                        <forename>José</forename>
+                    </persName>
+                    <note>spanischer Politiker; Februar/März 1823 Justizminister</note>
+                    <linkGrp>
+                        <ptr target="IV/12#903" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005266">
+                    <idno type="mega">1030742</idno>
+                    <persName type="reg">
+                        <surname>Zorraquin</surname>
+                        <forename>Mariano</forename>
+                    </persName>
+                    <birth>1779</birth>
+                    <death>1823</death>
+                    <note>spanischer General und Politiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#501" type="page"/>
+                        <ptr target="IV/12#502" type="page"/>
+                        <ptr target="IV/12#829" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011787">
+                    <idno type="mega">1030746</idno>
+                    <persName type="reg">
+                        <name>Zschackwitz, Johann Ehrenfried genannt Pseudonym Rochezang von Isecem</name>
+                    </persName>
+                    <birth>1669</birth>
+                    <death>1744</death>
+                    <note>deutscher Jurist, Historiker und Publizist</note>
+                    <linkGrp>
+                        <ptr target="IV/12#283" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005267">
+                    <idno type="mega">1030760</idno>
+                    <persName type="reg">
+                        <surname>Zumalacárregui</surname>
+                        <forename>Miguel Antonio de</forename>
+                    </persName>
+                    <birth>1784</birth>
+                    <death>1846</death>
+                    <note>Bruder von Tomás de Zumalacárregui; Anhänger Esparteros; 1842/1843 Justizminister und Präsident der Cortez</note>
+                    <linkGrp>
+                        <ptr target="IV/12#913" type="page"/>
+                        <ptr target="IV/12#1460" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005268">
+                    <idno type="mega">1030761</idno>
+                    <persName type="reg">
+                        <surname>Zumalacárregui</surname>
+                        <forename>Tomás de</forename>
+                    </persName>
+                    <birth>1788</birth>
+                    <death>1835</death>
+                    <note>spanischer General und Politiker; militärischer Führer der Karlisten</note>
+                    <linkGrp>
+                        <ptr target="IV/12#496" type="page"/>
+                        <ptr target="IV/12#501" type="page"/>
+                        <ptr target="IV/12#815" type="page"/>
+                        <ptr target="IV/12#819" type="page"/>
+                        <ptr target="IV/12#858" type="page"/>
+                        <ptr target="IV/12#859" type="page"/>
+                        <ptr target="IV/12#870" type="page"/>
+                        <ptr target="IV/12#911–913" type="page"/>
+                        <ptr target="IV/12#915" type="page"/>
+                        <ptr target="IV/12#1460" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005269">
+                    <idno type="mega">1030769</idno>
+                    <persName type="reg">
+                        <surname>Zurbano</surname>
+                        <forename>Martín</forename>
+                    </persName>
+                    <birth>1788</birth>
+                    <death>1845</death>
+                    <note>spanischer General; erschossen</note>
+                    <linkGrp>
+                        <ptr target="IV/12#411" type="page"/>
+                        <ptr target="IV/12#412" type="page"/>
+                        <ptr target="IV/12#865" type="page"/>
+                        <ptr target="IV/12#871" type="page"/>
+                        <ptr target="IV/12#872" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005270">
+                    <idno type="mega">1030771</idno>
+                    <persName type="reg">
+                        <surname>Zurkowski</surname>
+                        <forename>Alexander</forename>
+                    </persName>
+                    <note>badischer Offizier; Teilnehmer der Kämpfe 1849</note>
+                    <linkGrp>
+                        <ptr target="IV/12#959" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005271">
+                    <idno type="mega">1030776</idno>
+                    <persName type="reg">
+                        <surname>Zweytinger</surname>
+                        <forename>G.</forename>
+                    </persName>
+                    <note>1854 Schiffbaumeister in Kolberg</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000005272">
+                    <idno type="mega">1030779</idno>
+                    <persName type="reg">
+                        <surname>Zwilchenbart</surname>
+                        <forename>Rudolph</forename>
+                    </persName>
+                    <note>Schweizer Kaufmann in Liverpool</note>
+                    <linkGrp>
+                        <ptr target="II/14#418" type="page"/>
+                        <ptr target="II/15#466" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011789">
+                    <idno type="mega">1030782</idno>
+                    <persName type="reg">
+                        <surname>Zwingli</surname>
+                        <forename>Ulrich</forename>
+                    </persName>
+                    <birth>1484</birth>
+                    <death>1531</death>
+                    <note>Schweizer Theologe, Reformator</note>
+                    <linkGrp>
+                        <ptr target="IV/12#1119" type="page"/>
+                        <ptr target="IV/12#1291" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011790">
+                    <idno type="mega">1030785</idno>
+                    <persName type="reg">
+                        <name>Zygmunt&#160;II August</name>
+                    </persName>
+                    <birth>1520</birth>
+                    <death>1572</death>
+                    <note>Großfürst von Litauen (seit 1529/1544), König von Polen (seit 1530/1548); wandelte 1569 die Personalunion mit Litauen in eine Realunion um; letzter Jagiellone</note>
+                    <linkGrp>
+                        <ptr target="IV/12#72" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011788">
+                    <idno type="mega">1030766</idno>
+                    <persName type="reg">
+                        <surname>Zúñiga y Losada</surname>
+                        <forename>José Francisco de</forename>
+                    </persName>
+                    <note>spanischer Regionalpolitiker und Rechtstheoretiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#728" type="page"/>
+                        <ptr target="IV/12#1404" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005231">
+                    <idno type="mega">1030573</idno>
+                    <persName type="reg">
+                        <surname>Žak</surname>
+                        <forename>Vincenc Pavel</forename>
+                    </persName>
+                    <birth>1795</birth>
+                    <death>1867</death>
+                    <note>tschechischer Geistlicher und Philologe</note>
+                    <linkGrp>
+                        <ptr target="IV/12#968" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005245">
+                    <idno type="mega">1030632</idno>
+                    <persName type="reg">
+                        <name>Željabov, Andrej Ivanovič (Желябовъ)</name>
+                    </persName>
+                    <birth>1851</birth>
+                    <death>1881</death>
+                    <note>russischer Revolutionär</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000011785">
+                    <idno type="mega">1030724</idno>
+                    <persName type="reg">
+                        <surname>Žižka z Trocnova</surname>
+                        <forename>Jan</forename>
+                    </persName>
+                    <death>1424</death>
+                    <note>Edelmann aus Südböhmen; hussitischer Heerführer; besiegte König Siegmund 1420 und, obgleich erblindet, erneut 1422</note>
+                    <linkGrp>
+                        <ptr target="III/9#453" type="page"/>
+                        <ptr target="III/9#455" type="page"/>
+                        <ptr target="III/11#277" type="page"/>
+                    </linkGrp>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

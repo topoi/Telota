@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00103" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>99</idno>Friedrich Leßner an Karl Marx in London. London, Mittwoch, 2. Mai 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 3022/D V 183–9. Fotosign. 9494</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            177&#160;×&#160;111&#160;mm. Die Prägung ist nicht deutlich erkennbar.
+                            Die erste Seite hat Leßner vollständig beschrieben; die übrigen drei
+                            sind leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Die Schreibweise wurde nicht berichtigt.</p>
+                        <p>Von unbekannter Hand: auf der ersten Seite oben mit Bleistift: Datierung
+                            „2.5.66“ (rechts) und Nummerierung des Briefes „9“ in der Mitte.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 21 op. 1 d. 76/11#</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc><listWit><witness><bibl>Erstveröffentlichung: in russischer Übersetzung: Письма Фридриха Лесснера Карлу
+                            Марксу (1935). S.&#160;153</bibl>.</witness><witness><bibl>in der Sprache des Originals wird der Brief hier erstmals veröffentlicht.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_l54_cks_xy">Friedrich Leßner</persName><placeName>London</placeName><date when="1866-05-02"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:17Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 4 Francis St. Tottenham Court Road</dateline><salute sameAs="MBAnrede">Lieber Marx.</salute></opener><p sameAs="MBTextohneEinzug">Du wirst morgen die abfaßung <seg type="comment"><orig>des
+                            zirkulars</orig><note xml:id="nghq_bsq_dz">F[riedrich] Lessner, A[lbert]
+                            Haufe: An die deutschen Schneider-Arbeiter in London. In:
+                            MEGA²&#160;I/20. S._1467/1468. (((lLessner,_F[riedrich],
+                            Haufe,_A[lbert]:_An die deutschen Schneider-Arbeiter in London. In:
+                            MEGA²&#160;I/20. S._1467/1468))) - <persName key="ed_l54_cks_xy">Leßner</persName> (Präsident) und <persName key="ed_fnn_3qj_wx">Albert F.&#160;Haufe</persName> (Sekretär) standen an der Spitze
+                            des Komitees deutscher Schneider in London (siehe <ref target="B00100/#f2403266-7696-4a99-9654-89d0dd7a2f83">Erl. zu Engels
+                                an Marx, 1.5.1866.
+                            </ref><?oxy_comment_start author="lindenberg" timestamp="20170518T140058+0200" comment="{{Erl. 96c}})."?></note><?oxy_comment_end?></seg>
+                    <seg type="comment"> </seg>erhalten, ich muste heute erst rücksprache mit unserm
+                    Deutschen Secretary, Haufe, nehmen, und <seg type="comment"><orig>derselbe wird
+                                <hi rendition="#u">Dir</hi> sofort zuschicken: so schnell als
+                            möglich.</orig><note xml:id="e5e0da7d-6a13-446a-bb97-d12f44c5d8f0">Siehe
+                                <ref target="B00104">A.F. Haufe und F. Leßner an Marx ,
+                                3.5.<?oxy_comment_start author="reichhoff" timestamp="20170403T143502+0200" comment="{{Br. 100}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Unser Arb. Bil. Verein </orig><note xml:id="nqlx_dtq_dz">Der Deutsche Arbeiterbildungsverein in London.
+                            Siehe <ref target="B00038/#c2b92f66-d06a-490c-bd05-0958a974106d">Erl. zu
+                                F. Leßner an Marx,
+                            12.2.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T140403+0200" comment="{{Erl. 35a}}."?></note><?oxy_comment_end?>
+                    </seg>hat Beschloßen einen Peny per Kopf wöchentlich aufzuschlagen, zur
+                    Unterstützung der I.&#160;Ar.&#160;Asso.</p><p sameAs="MBTextmitEinzug">Grüst freundlichst</p><closer sameAs="MBUnterschrift"><signed>Fried. Leßner</signed></closer><p sameAs="MBAdresse">London 2/5 66. </p></div></body></text></TEI>

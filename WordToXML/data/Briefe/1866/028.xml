@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00031" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>28</idno>August Vogt an Karl Marx in London. Berlin, Montag, 5. Februar
+          1866</title>
+      </titleStmt>
+      <editionStmt>
+        <edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>RGASPI</institution>
+            <idno><idno type="shelfmark">f. 1 op. 5 d. 1634</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              283&#160;×&#160;220&#160;mm. Die ersten zwei Seiten hat Vogt vollständig beschrieben,
+              die übrigen zwei sind leer. Schreibmaterial: schwarze Tinte.</p>
+            <p>Die Schreibweise wurde zurückhaltend korrigiert, die Eingriffe sind ausgewiesen.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="pdrPo.001.004.000004960">August Vogt</persName>
+          <placeName>Berlin</placeName>
+          <date when="1866-02-05"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName>London</placeName>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-10-31T13:38:32Z</date> | <name>Regina Roth</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingAct">
+        <opener>
+          <dateline sameAs="MBDatumszeile"><pb/> B <hi rend="background(yellow)">5/2</hi>
+            66.</dateline>
+          <salute sameAs="MBAnrede">Geehrter Herr!</salute>
+        </opener>
+        <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Es ist diß die erste Unterschlagung
+              ich habe sogar mit nicht ganz richtiger Adresse <expan resp="editor" sameAs="dottet_underline">Bri<ex>e</ex>fe</expan> erhalten es wird angegeben
+              derselbe sei zurükgegangen.</orig><note xml:id="e6ea86d7-0714-4a0a-a0ad-5071ba69aa3b"><persName key="pdrPo.001.004.000004960">Vogt</persName> meint den
+              verlorengegangenen Brief von Marx an ihn vom 15.&#160;Januar 1866. Siehe <ref target="B00020">Marx an S. Meyer,
+                24.1.<?oxy_comment_start author="reichhoff" timestamp="20170410T143623+0200" comment="{{Br. 19.3–7}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00026">J. Marx an S. Meyer, etwa
+                29.1.<?oxy_comment_start author="reichhoff" timestamp="20170410T143832+0200" comment="{{Br. 25.7–12}}"?>1866<?oxy_comment_end?></ref>
+              und Erl. sowie <ref target="B00011/#e139a3b1-cfd1-4ba0-b331-14cfaba7e3fc">Erl. zu Marx
+                an W. Liebknecht, 15.1.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170516T095725+0200" comment="{{Erl. 10h}}"?>,<?oxy_comment_end?>
+              <ref target="B00013/#b3a667ad-431c-4f5f-b652-064c7d0c2acf">Erl. zu Marx an Engels,
+                15.1.1866</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170516T095744+0200" comment="{{12d}}"?>
+              <?oxy_comment_end?>und <ref target="B00019/#nqgn_w4k_5y">Erl. zu W. Liebknecht an
+                Marx,
+              21.1.1866</ref>.<?oxy_comment_start author="lindenberg" timestamp="20170516T095817+0200" comment="{{18a}}"?></note><?oxy_comment_end?></seg>
+          <seg type="comment"><orig>Sie werden nächste Woche von <hi rendition="#u">Bewußtem</hi>
+              eine Sendung erhalten.</orig><note xml:id="ef462a58-7779-4b0d-b497-3121077f4ec9">Wahrscheinlich spielt <persName key="pdrPo.001.004.000004960">Vogt</persName> auf
+              eine Zusendung der Neuausgabe des Manifests durch <persName key="pdrPo.001.004.000003187">Sigfrid Meyer</persName> an. Siehe <ref target="B00016/#nchb_j4c_5y">Erl. zu W. Liebknecht an Marx, 18.1.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170516T100609+0200" comment="{{Erl. 15h}}."?>
+              <?oxy_comment_end?>(((l[Marx,Karl, Friedrich Engels:] Manifest der Kommunistischen
+              Partei. Veröffentlicht im Februar 1848. London. Neu herausgegeben durch Sigfrid Meyer.
+              Im Selbstverlage (Druck von Gustav Muthschall in Berlin) 1866))) </note></seg></p>
+        <p sameAs="MBTextmitEinzug">Es wäre mir sehr angenehm mit Ihnen einmal persönlich zu
+          sprechen da ich der vertrauteste von <persName key="pdrPo.001.004.000002711"><expan resp="editor" sameAs="dottet_underline">Lass<ex>alle</ex></expan></persName> in den
+          letzten 2&#160;Jahren seines Lebens war ohne <hi rendition="#u">Ihre</hi> Prinzipien Ihm
+          gegenüber zu opfern. Da ich Ihm sehr stark beobachtet habe so würde Ihnen manches gewiß
+          nicht <expan resp="editor" sameAs="dottet_underline">unint<ex>e</ex>resant</expan>
+          sein.</p>
+        <p sameAs="MBTextmitEinzug">Da wir noch Aufklärung über das Gesandte bedürfen so bitte ich
+          so bald es Ihre Gesundheit erlaubt uns zu schreiben. <pb/> Es wird hier vielseitig mit der
+          größten Spannung auf das Erscheinen <seg type="comment"><orig>Ihres Werkes</orig><note xml:id="a7d6da22-ec93-46cf-a1e6-4156e3848389">Gemeint ist hier Karl Marx: Das Kapital;
+              siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an J.
+                Ph. Becker, zwischen 9. und 15.1.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170516T101028+0200" comment="{{Erl. 6b}}."?>
+              <?oxy_comment_end?>(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg> gewartet.
+          Ihre Schriften werden sehr gesucht und sogar theuer von den Gelehrten bezahlt.</p>
+        <p><seg type="comment"><orig>Schreiben Sie unter der Adresse</orig><note xml:id="ntdy_fjd_5z">Siehe <ref target="B00026">J. Marx an S. Meyer, etwa 29.1.
+                <?oxy_comment_start author="strauss" timestamp="20170504T154653+0200" comment="{{Br. 25.17-19}}"?>1866.</ref></note></seg><?oxy_comment_end?></p>
+        <p><orgName key="ed_qsm_1pt_cz">E Schütte u Cop.</orgName></p>
+        <p> 97 Ritterstraße 97</p>
+        <p sameAs="MBTextmitEinzug">Schließen Sie den Brief 2&#160;mal und schreiben Sie auf die
+          unterste Adresse die Buchstaben</p>
+        <p sameAs="MBTextmitEinzug">A. V.</p>
+        <closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u1}</hi>-->Hochachtungsvol<lb/>Ihr<lb/>V.</closer>
+        <postscript>
+          <p>Solten Sie Paket schicken machen Sie das ebenso. </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

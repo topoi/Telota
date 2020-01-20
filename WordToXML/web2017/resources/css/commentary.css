@@ -1,0 +1,159 @@
+div#content {
+    background-color: white;
+}
+
+div#content div.container_16 {
+    padding-top: 1em;
+}
+
+div.boxInner.transkription {
+    border-left: 1px solid silver;
+    padding: 0 1em 0 1em;
+}
+
+span.introInner {
+    display: inline !important;
+}
+
+span.footnoteContainer {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: -51%;
+    width: 270px;
+    font-size: 0.8em;
+    color: #444;
+}
+
+span.footnote {
+    display: block;
+    margin-bottom: 1em;
+}
+
+div#endnotes h3 {
+    margin-top: 2em;
+}
+
+div#endnotes ul {
+    margin-left: 3em;
+    list-style-type: none;
+    font-size: 0.8em;
+} 
+
+div#endnotes li {
+    position: relative;
+    margin-bottom: 0.5em;
+}
+
+div#endnotes span.number {
+    position: absolute;
+    left: -3em;
+}
+
+span.number {
+    color: #C56700;
+}
+
+p.author {
+    font-size: 1em;
+}
+
+p.author a {
+    color: silver;
+}
+
+p.author a:hover {
+    color: #AC4D00;
+    text-decoration: none;
+}
+
+div#content span.paragraphNumber {
+    display: block;
+    position: absolute;
+    left: -4em;
+    width: 1.5em;
+    padding: 0.1em 0 0.1em 0.3em;
+    font-size: 0.8em;
+    background-color: white;
+    text-align: right;
+}
+
+div#content span.paragraphNumber a {
+    color: gray;
+}
+
+
+/* authorInfo */
+div.authorInfo {
+    font-size: 0.8em;
+}
+
+div.authorInfo h3 {
+    font-size: 1.5em;
+    font-weight: normal;
+}
+
+div.authorInfo h2 {
+    font-size: 1.2em;
+    font-weight: normal;
+    font-style: italic;
+    margin: 2em 0 1em 0;
+    border-bottom: 1px solid silver;
+    padding: 0 0 1em 0;
+}
+
+div#content div.authorInfo p {
+    margin: 0;
+}
+
+div#content div.authorInfo p.mail {
+    margin-bottom: 1em;
+}
+
+p.introQuote {
+    position: relative;
+    font-style: italic;
+}
+
+p.introQuote span.footnoteContainer {
+    font-style: normal;
+}
+
+p.block {
+    position: relative;
+    margin: 1em 2em 1em 2em;
+    font-style: italic;
+}
+
+p.block span.footnoteContainer {
+    right: -63%;
+    font-style: normal;
+}
+
+div#content h2 {
+    margin: 2em 0 0.5em 0;
+}
+
+ul.toc {
+    margin: 1em 0 3em 0;
+    padding: 1em;
+    font-family: PTSans;
+    font-size: 0.8em;
+    background-color: #f0f0f0;
+}
+
+ul.toc li {
+    margin: 0 0 0.5em 0;
+}
+
+ul.toc h3 {
+    margin-bottom: 1em;
+}
+
+span.bold {
+    font-weight: bold;
+}
+
+.yearLink {
+    padding-left: 1.8em;
+}

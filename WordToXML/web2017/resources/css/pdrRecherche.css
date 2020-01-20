@@ -1,0 +1,41 @@
+div.match {
+    position: relative;
+    padding-bottom: 1em;
+    border-bottom: 1px solid silver;
+    margin-bottom: 1em;
+    font-family: 'PTSans';
+    font-size: 0.8em;
+}
+
+div.score_wrap {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 10em; 
+    height: 1em; 
+    border: 1px silver solid
+}
+
+div.score {
+    height: 100%; 
+    background-color: green;
+    font-family: 'PTSans';
+    font-size: 0.8em;
+    color: white;
+}
+
+div.matchcontent {
+	
+}
+
+div.match ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+div.match ul ul {
+    list-style-type: none;
+    margin: 0 0 0 2em;
+    padding: 0;
+}

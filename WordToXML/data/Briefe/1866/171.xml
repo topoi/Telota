@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00176" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>171</idno>Karl Marx an Friedrich Engels in Manchester. London, Mittwoch, 26. September 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4462/L VI 594</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Bogen festem, weißem Papier im Format
+              225&#160;×&#160;175&#160;mm. Prägung: eine nicht erkennbare Aufschrift auf dem
+              Wappenschild. Die erste Seite hat Marx vollständig beschrieben, die zweite zu drei
+              Vierteln, die übrigen zwei Seiten sind leer. Schreibmaterial: schwarze Tinte.</p>
+            <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand: Numerierung  der
+              beschriebenen Seiten: „50,1“ bzw.
+              „50,2“.<?oxy_comment_start author="lindenberg" timestamp="20170424T170736+0200" comment="Von Eduard Bernsteins Hand: Numerierung des Briefes bzw. der beschriebenen Seiten: „50,1“ bzw. „50,2“."?></p>
+            <?oxy_comment_end?>
+            <p>Die Beilage (Z.&#160;3) ist nicht überliefert.</p>
+            <p>Das Datum der „26.&#160;September“ wird auch durch den Inhalt des Briefes bestätigt
+              (siehe Erl.&#160;171a)</p>
+            <p>Datierung der Erstveröffentlichung: 20.&#160;September 1866.</p>
+          </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1993</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;345/346.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-09-26"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:40:00Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 26 Sept. 66.</dateline><salute sameAs="MBAnrede">Dear Fred,</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Einliegend Quittung für <persName key="pdrPo.001.004.000003296">Moore</persName>; <choice>
+                <sic>ich</sic>
+                <corr cert="high">(ich</corr>
+              </choice> erhielt gestern erst die Quittung von <persName key="pdrPo.001.004.000001124">Dell</persName>.)</orig><note xml:id="nfj5_p4r_3z">Beitragsquittung für <persName key="pdrPo.001.004.000003296">Samuel Moore</persName>
+              über den Jahresbeitrag in Höhe von £ 5 als Mitglied der IAA. <persName key="pdrPo.001.004.000001124">William Dell</persName>  war der Schatzmeister des
+              Generalrats.</note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_x4f_vbc_5z"/>Herr <hi rendition="#u"><persName key="ed_m5m_fhj_nz">Sawyer</persName></hi>, der Landlord, hat mir auch Brief geschrieben,</orig><note xml:id="nhyd_yqr_3z">Der Brief von <persName key="ed_m5m_fhj_nz">Sawyer</persName> an
+              Marx, geschrieben vor dem 26. September 1866, ist nicht überliefert.</note></seg> daß
+          am 2.&#160;October die 3&#160;Quartale (46&#160;£) fällig sind. <anchor type="verweisziel" xml:id="start_rxb_ncr_5z"/><seg type="comment"><orig>Ich habe noch keinen Farthing von
+              Holland erhalten</orig><note xml:id="a1099f3f-3146-40b8-bd33-38c3396ff7bd">Genaue
+              Angaben über einen Versuch von Marx, Geld aus den Niederlanden zu beschaffen, konnten
+              nicht ermittelt werden. Marx schrieb darüber auch in Briefen an Engels, <ref target="B00179">1.10.<?oxy_comment_start author="reichhoff" timestamp="20170504T103447+0200" comment="{{Br. 174.20–21}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00189">8.11.<?oxy_comment_start author="reichhoff" timestamp="20170504T103545+0200" comment="{{Br._184.10–12}}"?>1866<?oxy_comment_end?></ref>.
+              Möglicherweise hoffte er, noch etwas aus der Erbschaft seiner Tante <persName key="pdrPo.001.004.000002578">Esther Kosel</persName> zu erhalten. Siehe <ref target="B00075/#e57ce159-87d9-4cb8-81dd-ab559b8cf1a5">Erl. zu Marx an Engels,
+                24.3.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170519T121935+0200" comment="{{Erl. 72v}} "?> und<?oxy_comment_end?>
+              <ref target="B00189/#ndbd_pd5_jz">Erl. zu Marx an Engels,
+                8.11.<?oxy_comment_start author="reichhoff" timestamp="20170519T122121+0200" comment="{{Erl._184d}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+          u. kann also nicht darauf rechnen.<anchor type="verweisziel" xml:id="stop_rxb_ncr_5z"/><anchor type="verweisziel" xml:id="stop_x4f_vbc_5z"/></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>In Demonstration gegen die Herrn Franzosen, –
+              die alle Leute ausser „travailleurs manuels“ ausschliessen wollten, erst von der
+              Mitgliedschaft der Intern. Assoc., dann wenigstens von der Fähigkeit als Delegirter
+              zum Congreß gewählt zu werden – schlugen <del rendition="#s">mich</del> die Engländer
+                <hi rendition="#u">mich</hi> gestern zum <hi rendition="#u">Präsidenten des Central
+                Council</hi> vor. Ich erklärte die Sache unter <hi rendition="#u">keinen </hi>
+              Umständen <del rendition="#s">anzu<ex>nehmen</ex><sic ana="#break-off"/></del>
+              annehmen zu können u. schlug meinerseits <persName key="pdrPo.001.004.000003494"><hi rendition="#u">Odgers</hi></persName> vor, der dann auch wieder gewählt wurde,
+              obgleich Einige <del> mir <sic ana="#break-off"/></del> trotz meiner Erklärung für
+              mich stimmten. <del> Es gab <sic ana="#break-off"/></del>
+              <persName key="pdrPo.001.004.000001279">Dupont</persName> hat mir übrigens den
+              Schlüssel zu <persName key="pdrPo.001.004.000004773">Tolain's</persName> u. <persName key="pdrPo.001.004.000001654">Fribourg's</persName> Operation gegeben. Sie wollen
+              1869 als <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><subst>
+                <del rendition="#ow"><hi ana="emph1">Arbeite</hi>rxxg<sic ana="#break-off"><?oxy_custom_end?></sic></del>
+                <add place="across"><hi rendition="#u">Arbeiter</hi>kandidaten</add>
+              </subst> für das Corps Législatif auftreten, unter dem <pb/> „Prinzip“, daß <hi rendition="#u">nur Arbeiter</hi> die Arbeiter vertreten können. Es war daher
+              äusserst <add>wichtig</add> für die Herrn dieß Prinzip durch den Congreß proclamirt zu
+              haben.</orig><note xml:id="nyyt_lrr_3z">Auf dem Genfer Kongress war kontrovers über
+              die Mitgliedschaft in der IAA, insbesondere zur Aufnahme von Angehörigen der
+              Intelligenz diskutiert worden (sieheAssociation_lnternationale des Travailleurs.
+              Compte rendu du Congrès de Genève (1866). In: MEGA²_I/20. S. 659.26–40 und 675/676
+              sowie <ref target="B00170/#start_vq3_sz4_rz">J. G. Eccarius an Marx,
+                5./6.9.<?oxy_comment_start author="roth" timestamp="20170425T124236+0200" comment="Br. 166.19–39)."?>1866<?oxy_comment_end?></ref>.
+              (((lAssociation_lnternationale des Travailleurs. Compte rendu du Congrès de Genève
+              (1866). In: MEGA²_I/20. S. 649–679))) Auf der Sitzung des Generalrats am 25. September
+              1866 wurde <persName key="pdrPo.001.004.000003494">George Odger</persName> zum
+              Vorsitzenden gewählt (siehe Minutes of the General Council 1866/1867. In: MEGA²_I/20.
+              S. 485.31–35). Siehe auch <ref target="B00167/#nanx_hjd_3z">Erl. zu Marx an J. Ph.
+                Becker,
+                31.8.<?oxy_comment_start author="reichhoff" timestamp="20170519T122335+0200" comment="{{Erl._163e}}"?>1866<?oxy_comment_end?>.
+              </ref>(((lMinutes_of the General Council 1866/1867. In: MEGA²_I/20.
+              S._477–591)))</note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_ws2_kp4_rz"/>In der gestrigen Sitzung des Central Council gab es
+              allerlei dramatische Scenen. Herr <persName key="pdrPo.001.004.000001027">Cremer</persName> z.&#160;B. fiel aus den Wolken, als statt seiner <persName key="pdrPo.001.004.000001603">Fox</persName> zum Generalsekretair ernannt wurde. Er
+              bändigte seine Wuth nur sehr mühvoll.<anchor type="verweisziel" xml:id="stop_ws2_kp4_rz"/></orig><note xml:id="njvh_5rr_3z">Siehe das Protokoll der
+              Sitzung des Generalrats der IAA vom 25. September 1866 (Minutes_of the General Council
+              1866/1867. In: MEGA²_I/20. S. 485.38–39) sowie Marx an <ref target="B00167/#start_dbd_bvb_5z">J. Ph. Becker,
+                31.8.<?oxy_comment_start author="reichhoff" timestamp="20170504T103827+0200" comment="{{Br. 163.21–26}}"?>1866<?oxy_comment_end?></ref>.
+              (((lMinutes_of the General Council 1866/1867. In: MEGA²_I/20.
+            S._477–591)))</note></seg>
+          <seg type="comment"><orig>Andre Scene, als Herrn <persName key="pdrPo.001.004.000002770">Le Lubez</persName>
+              <del rendition="#s">seine<sic ana="#break-off"/></del> sein Ausschluß aus dem Central
+              Council par décret des Congresses officiell mitzutheilen war. Er machte der bedrängten
+              Seele in einer stundenlangen Rede Luft, worin er Gift u. Galle auf die Pariser spie,
+              sich selbst mit erstaunlicher Hochachtung behandelte, u. allerlei Bedenkliches
+              murmelte von Intriguen, wodurch man die ihm freundlichen Nationalitäten (Belgien u.
+              Italien) vom Congreß ferngehalten habe. Er verlangte schließlich – u. dieß kömmt
+              nächsten Dienstag zur Diskussion – ein Vertrauensvotum des Centralraths.</orig><note xml:id="njvd_fsr_3z">Siehe <ref target="B00172">J. G. Eccarius an Marx,
+                10.9.1866</ref><?oxy_comment_start author="roth" timestamp="20170425T125838+0200" comment=" {{Br. 168.7–9}} und Erl."?>.<?oxy_comment_end?>
+              In der Sitzung des Generalrats am 25. September 1866 erfolgte auf die Mitteilung
+                <persName key="pdrPo.001.004.000001027">William Randall Cremers</persName> über den
+              Beschluss des Genfer Kongresses, <persName key="pdrPo.001.004.000002770">Victor Le
+                Lubez</persName> aus dem Generalrat auszuschließen (siehe Association_lnternationale
+              des Travailleurs. Compte rendu du Congrès de Genève (1866). In: MEGA²_I/20. S.
+              676.9–25), eine Diskussion (siehe Minutes of the General Council 1866/1867. In:
+              MEGA²_I/20. S. 485.6–29). Le Lubez besuchte weiter Sitzungen des Generalrats und
+              forderte mehrfach, den Beschluss des Kongresses gegen ihn wieder aufzuheben (ebenda.
+              S. 494.18–27, 496/497 und 503.4–15). (((lMinutes of the General Council 1866/1867. In:
+              MEGA²_I/20. S._477–591))) ((((lAssociation_lnternationale des Travailleurs. Compte
+              rendu du Congrès de Genève (1866). In: MEGA²_I/20. S. 649–679)))</note></seg></p><p sameAs="MBTextmitEinzug">Salut</p><closer sameAs="MBUnterschrift">Dein<lb/>KM </closer></div></body></text></TEI>

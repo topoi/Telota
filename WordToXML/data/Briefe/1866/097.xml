@@ -1,0 +1,399 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00101" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>97</idno>Karl Kaub an Familie Marx in London. Paris,
+                                        Dienstag, 1. Mai 1866</title>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                                        veröffentlicht.</edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>IISG</institution>
+                                                <collection>Marx-Engels-Nachlass</collection>
+                                                <idno><idno type="shelfmark">D 2620/D V 45.
+                                                  Fotosign. 9580a–b bzw. 9579</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Bogen und einem Blatt
+                                                  dünnem, weißem Papier im Format
+                                                  412&#160;×&#160;266&#160;mm bzw.
+                                                  207&#160;×&#160;266&#160;mm. Die erste, dritte und
+                                                  fünfte Seite hat Kaub vollständig beschrieben, die
+                                                  zweite, vierte und sechste sind leer. Die fünfte
+                                                  Seite hat Kaub mit „III“ paginiert.
+                                                  Schreibmaterial: schwarze Tinte.</p>
+                                                <p>Vermutlich von Marx’ Hand: Anstreichungen mit
+                                                  schwarzer Tinte auf der ersten und dritten Seite
+                                                  („Our international“  bis „men“ und „Creamer“ bis
+                                                  „ways“).</p>
+                                                <p>Von unbekannter Hand: Vermerk „Mai i. 66“ mit
+                                                  schwarzer Tinte auf der vierten Seite unten am
+                                                  rechten Rand quer. </p>
+                                                <p>Kaub hat den Brief versehentlich mit „Sunday“
+                                                  datiert, während der 1.&#160;Mai 1866 auf einen
+                                                  Dienstag fällt.</p>
+                                                <p>In die Schreibweise Kaubs wurde behutsam, allein
+                                                  dem Textverständnis dienend, eingegriffen.
+                                                  Sämtliche Eingriffe sind ausgewiesen. </p>
+                                        </physDesc>
+                                        <additional>
+                                                <listBibl>
+                                                  <bibl>RGASPI f. 1 op. 1 d. 5588</bibl>
+                                                </listBibl>
+                                        </additional>
+                                </msDesc>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000002460">Karl Kaub</persName>
+                                        <placeName>Paris</placeName>
+                                        <date when="1866-05-01"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_cqm_n53_f1b">Marx, Familie (-)</persName>
+                                        <placeName>London</placeName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:39:15Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingAct">
+                                <opener>
+                                        <p sameAs="MBAdresse"><pb/> 33, Rue des trois Couronnes, du
+                                                Temple</p>
+                                        <dateline sameAs="MBDatumszeile">Paris Mai 1/1866<lb/>Sunday
+                                                afternoon.</dateline>
+                                        <salute sameAs="MBAnrede">My dear friends,</salute>
+                                </opener>
+                                <p sameAs="MBTextohneEinzug">Mohr must be made of a goodish bit of
+                                        stuff.—Tossed about, for half a lifetime, as he has been,
+                                        from wave to shore, from shore to wave—but wretched little
+                                        amusement and far to much hard work—to this, to have been
+                                        badly afflicted for something like a tenth part of a
+                                        century, by continued sickness, and yet to hold his head up
+                                        and walk again, like a man&#160;… this seems more than one
+                                        can do, without the aid of magic powers. But there are
+                                        occasions, at which men seem much alike—if looked at from a
+                                        goodly distance. For example we all are always ready to
+                                                <expan resp="editor" sameAs="dottet_underline">beli<ex>e</ex>ve</expan> any thing, however
+                                        improbable it may seem, if it only chances to fit our
+                                        likeings. I tell you, it fits mine—and I should like to see
+                                        you well. I was exceedingly pleased to hear you are out of
+                                        all danger now and even better, as you ever was before. So
+                                        told me <persName key="pdrPo.001.004.000004249">Schily</persName> at least, who had some
+                                        correspondence from <seg type="comment"><orig>Rhinländer</orig><note xml:id="d9dac5e3-e77a-456b-881b-4f9a6aa24885"><persName key="pdrPo.001.004.000003961">Georg
+                                                  Friedrich Rheinlaender</persName>. </note></seg>—I
+                                        belive.</p>
+                                <p sameAs="MBTextmitEinzug">If you but could do as you liked, it
+                                        would be infinitly better for you to live altogether
+                                        somewhere on the sea side, or in some other merry place,
+                                        than in that nasty London. It will never do for any one that
+                                        once had serious wreck of health. Besides this, there is, in
+                                        such an accumulation, to much cause for you, to meet with
+                                        anger and annoyance … Come on, I shall talk to you now, like
+                                        an old man. But don't laugh.—In my high opinion, there is,
+                                        in every man's life, a decided period, when he rejoices to
+                                        study and to learn, whatever it will cost him; learn more
+                                        and more, and all he meets, he takes to heart, as so much of
+                                        a useful lesson.</p>
+                                <p sameAs="MBTextmitEinzug">There comes then, inevitably too—another
+                                        period, when he gets sick of any further learning and often
+                                        even, should like to know of many things, far less. He now
+                                        rejoices in forgetting. Theese two periods are however
+                                        seldom sharply trenched, but to the contrary, so closely
+                                        often interweaven, at the ends and beginning of each of
+                                        them, that most poeples are not aware of an existing change,
+                                        even if it existes for years and years. Some catastrophe
+                                        than, in their life, that does come on like a thunderstorm
+                                        in spring, does set them suddenly on the alarm—they percieve
+                                        the accomplished change, they think the effect to be the
+                                        cause, belive the world to have grown worse, of what it ever
+                                        was before—grow dull and never smile, as on the eve, the day
+                                        of which they lay their heads on chaps … I do belive, that
+                                        my good Mohr is one of those, who, by the life they had to
+                                        lead, must long have reached the highest pitch in studying
+                                        mankind. His philosophy must be formed. He needs no more to
+                                        know, and would do well, if he could but forget. He must
+                                        have passed his learning phase, when he thought, that every
+                                        new deception he was subjected to, that every <expan resp="editor" sameAs="dottet_underline">fals<ex>e</ex></expan> friend he brake with, was
+                                        worthy lesson for a future time, and he would profit of.
+                                        No—them self same lessons, in the present day, will make one
+                                        heartsick and spoil the blood. And crowded London is sure
+                                        not a place, where one could soon forget, what he has seen
+                                        there most. One wants a merry land for this, a deep blue
+                                        sea—a lovely shore, the jolly boulevards, et du petit bleu.
+                                        But all this wanting, you have dull hours, the physik-battle
+                                        takes the place of books and the pipe, you do not enjoy your
+                                        life by half, and almost wish that you should be no more. I
+                                        have felt all this as well, and therefore feel with each
+                                        one, that does feel like I.</p>
+                                <p sameAs="MBTextmitEinzug">Our international, I fear, was not much
+                                        either, as a sweet deception. What you have told me in <seg type="comment"><orig>your letter,</orig><note xml:id="e76c508b-af25-476f-827a-81e831d482d9">Der
+                                                  Brief von Marx’ (bzw. vermutlich Jenny Marx) an
+                                                  <persName key="pdrPo.001.004.000002460">Kaub</persName>, geschrieben zwischen
+                                                  17.&#160;März (siehe Br.&#160;65) und 1.&#160;Mai
+                                                  1866, ist nicht überliefert.</note></seg> I never
+                                        should have dared to belive. It must have much affected you.
+                                        It did not much affect me, as I am still a little in my
+                                        learning mood, and think of taking it <seg type="comment"><orig>ad notam.</orig><note xml:id="ee8a3b82-ef30-42fd-9958-34037c143624">zur
+                                                  Kenntnis (lat.).</note></seg> Some more of these
+                                        events, and with same effect, I think, I will be able as
+                                        well, to kick myself out of this phase. <seg type="comment"><orig><persName key="pdrPo.001.004.000001027">Creamer</persName>,</orig><note xml:id="b24e5544-affb-4d9e-9ebe-e55ff8102ece"><persName key="pdrPo.001.004.000001027">William
+                                                  Randall Cremer</persName>. </note></seg>
+                                        <persName key="pdrPo.001.004.000003494">Odgers</persName>,
+                                                <persName key="pdrPo.001.004.000002244">Howel</persName>, all these immolating,
+                                        selfdeneying, generous, intelligent and I know not what
+                                        all—creatures, that looked so streight at each man's face,
+                                        and were so bold, because they said: they know they were in
+                                        truth—I see—they showd no better than the rest of men. </p>
+                                <p sameAs="MBTextmitEinzug"><pb/> They wagg'd their tale as long as
+                                        they smelled crap, that seemed quite close at hand. I for my
+                                        part, I dare not exactly blame any one, that does things out
+                                        of interest. But one thing I hate—and this is, if poeple do
+                                        it in to showy and to unclean a manner. Do nothing without
+                                        an interest, but at least hide it, and do it in a decent
+                                        manner. To look for interest, I think, is so general and
+                                        natural a disposition, that you will find it to be the
+                                        motive power for all and every one, from the meanest animal,
+                                        through mankind, the saints all and the angels, together
+                                        with our good old man in heaven. As to him, we are told, he
+                                        lived a huge tremendous part of his eternity, in stern
+                                        lazyness and annoyance, until at last he grew so dammnedably
+                                        sick and tired of it, nothing but gaping and scratching his
+                                        head, that he made up his mind to put a step to it—and made
+                                        the world. His interest then was, to get some sport—need man
+                                        to be ashamed? In fact; motive, reason, interest, are all
+                                        but different words for the very selfsame thing. A man gives
+                                        a poor beggar a “bob” he sais; he followd the generous
+                                        motive of doing good to others. This sounds well! At the
+                                        same time if he questiones himself closely, he will find,
+                                        that he had the interest before all, to quench his interieur
+                                        uneasiness, which he was sure, as he has found on former
+                                        occasion, he would have felt and be troubled with, that
+                                        would have cost him an hour and half's of sleep, or more,
+                                        had he not given the shilling away——uneasiness resulted by
+                                        means of a particular sentimental education, some others are
+                                        fully free of. All may be reduced to interestedness, and I
+                                        consider it mere proudness of one, to belive himself exempte
+                                        of it. But I admit of a difference in the sort of
+                                        interestedness. I find that the meanness of a man's
+                                        interest, increases in direct ratio to the closeness it is
+                                        stationed, to the hand of those that want to attain it. For
+                                        example:——The prussian Hussars—those who give no pardon, but
+                                        are always glad to take it— stand in the roaring battle. A
+                                        lieutenant is taken prisoner, because his hors has kicked
+                                        him off. The commanding general calls for volunteers to free
+                                        him, of two drummers that hold him. As none comes out of the
+                                        file he offers 15 jute Jroschen to bring him hither. A
+                                        patriotic “Hinterpommer” spurs his fiery steed and fetches
+                                        the swooming lieutenant back, tied to his horses tale … etc.
+                                        The fellow may have had different interests for doing this
+                                        heroic action. The nearest interest was the fifteen “jute
+                                                Jros<ex>c</ex>hen”—the second: the leaden decoration
+                                        his is sure to get, the third: the applause of the multitude
+                                        together with the gentle stroke on his cheek by the
+                                        astonished general, the fourth: that he will go to heaven
+                                        for it and the fifth: that, should he ever get himself in
+                                        trouble, by stealing a cotton pocket handkerchief of his
+                                        corporal, he would have the probability, instead of being
+                                        otherwise shot, to be pardoned to 150&#160;lashes only. You
+                                        clearly see: the first interest— about the money—was the
+                                        vilest; the following grew nobler and nobler … <persName key="pdrPo.001.004.000001027">Creamer</persName> and
+                                                <persName key="pdrPo.001.004.000003494">Odgers</persName>, I believe had an interest, to be
+                                        international, which was very close at hand: The applause of
+                                        the multitude to which he belonged, and personal prospects.
+                                        They care, <expan resp="editor" sameAs="dottet_underline">b<ex>e</ex>yond</expan> this a “damm” for their
+                                        class. They were as good Englishmen as any
+                                        bourg<ex>e</ex>ois, and thought little about continental
+                                        affairs, which only may bear a very remote interest indeed.
+                                        Up to now, I found the great heap of working men as
+                                        creatures, that can no further be trusted, as the profit is
+                                        within the reach of their mouth, and even then you want a
+                                        deal of persuasion to make them bite. They fell off.—They
+                                        will come to again, and—belive me—the same may fell off
+                                        again. Never trust them far! I hate faithlessness more than
+                                        death. In matters of importance one should never give his
+                                        word, unless he feels himself man to fall with it. There are
+                                        occasions in life, when we may—in the worst of cases—fail …
+                                        where unlooked for circumstances laid rocks in our ways …
+                                        There are others—we <hi rendition="#u">dare</hi> not fail,
+                                        whatever unlooked for events will thunder down our might.
+                                        Where I feel myself to weak—I never promise.</p>
+                                <p sameAs="MBTextmitEinzug">I waited with this letter, as I thought
+                                                <seg type="comment"><orig>your Hamburg
+                                                  Kaufmann</orig><note xml:id="b87b2070-2c43-419f-a961-7aa77ae3b6f0"><persName key="pdrPo.001.004.000011173">Theodor
+                                                  Heinrich Menke</persName>. Siehe auch <ref target="B00079">L. Kugelmann an Marx,
+                                                  30.3.<?oxy_comment_start author="reichhoff" timestamp="20170419T112944+0200" comment="{{Br. 76.7}}"?>1866<?oxy_comment_end?></ref>
+                                                  und <ref target="B00086/#start_uwn_d15_4z">Marx an
+                                                  L. Kugelmann,
+                                                  6.4.<?oxy_comment_start author="reichhoff" timestamp="20170419T113815+0200" comment="{{Br._83.17–23}}"?>1866<?oxy_comment_end?></ref>).</note></seg>,
+                                        would make his apparition. Up to now, no such thing has
+                                        called on me.</p>
+                                <p sameAs="MBTextmitEinzug">I have seen your friend <seg type="comment"><orig>Chily</orig><note xml:id="de244892-1704-44c3-ae6a-96987e371429"><persName key="pdrPo.001.004.000004249">Victor
+                                                  Schily</persName>. </note></seg>. He is well, and
+                                        conveys his amities. He told me, that he had written a
+                                        letter for you, but, it had been laying by for some time,
+                                        and then, when he came to read it once again, he made <hi rend="background(yellow)">up</hi> his mind to write
+                                        another. So it rested. He is not like I—I send them away
+                                        whatever nonsense It will once contain. I know, friends will
+                                        be indulgent. He promised to make up for his neglectfulness.
+                                        He asked me, whether I kept <seg type="comment"><orig><persName key="pdrPo.001.004.000000317">Becker's</persName> monthly <bibl sameAs="zzDer Vorbote">journal</bibl>.</orig><note xml:id="f6defc61-bce7-4c4e-b3e4-c09dc674c021">„Der
+                                                  Vorbote“ (Genf). (((zDer_Vorbote))) </note></seg>
+                                        I had the misfortune of saying I found it to dry for my
+                                        taste. He seemed much vexed about this, and meant; that
+                                        since I am in the money making line, it is not surprising, I
+                                        find all other things dry. He is agent for this our friend
+                                                <persName key="pdrPo.001.004.000000317">Becker's</persName> journal. He is agent for a
+                                        german “Unterstützungs-Verein” etc. We made the matter moist
+                                        again, by some glasses of small beer. He is a right charming
+                                        man, obligeing to everyone, only, as far as I can judge—but
+                                        shallow in politics. </p>
+                                <p sameAs="MBTextmitEinzug"><pb/> III <pb/> The new invention, I had
+                                        spoken to you about <seg type="comment"><orig>in my last
+                                                  letter,</orig><note xml:id="fb24a354-0351-4b1e-84e4-61ac8eef8fe7">Siehe <ref target="B00069">K. Kaub an Familie
+                                                  Marx
+                                                  17.3.<?oxy_comment_start author="reichhoff" timestamp="20170403T140731+0200" comment="{{Br. 65}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        is still a most mysterious affair. Baron <persName key="ed_kvh_jmc_3y">Gablenz</persName>, with whom we
+                                        had chiefly to do in the matter, as he was told to have the
+                                        “sack”, wanted a price to be made before hand, as he had
+                                        already been taken in somewhere else, and when we told him,
+                                        together with the conditio<hi rend="background(yellow)">n</hi>, that half the money should be paid at once,
+                                        the other half, the day before the trial, as it is usual
+                                        with all inventors—who never like else paying, should the
+                                        invention proove bad—he found us to dear and to sharp for
+                                        his sweet taste. He expected we wanted to work and be out of
+                                        pocket <seg type="comment"><orig>“pour l'amour de ses beaux
+                                                  yeux”</orig><note xml:id="dd030855-62c3-43f7-8ae1-6e33eb15e824">Nach
+                                                  <persName key="ed_xmk_2kz_bz">La Grange</persName>
+                                                  in <persName key="pdrPo.001.004.000011201">Molières</persName> Komödie „Les Précieuses
+                                                  ridicules“. Szene&#160;15: „Mais ils n’auront pas
+                                                  l’avantage de se servir de nos habits pour vous
+                                                  donner dans la vue; et si vous les voulez aimer,
+                                                  ce sera, ma foi, pour leurs beaux yeux. Vîte,
+                                                  qu’on les dépouille sur le champ.“
+                                                  (((lMolière:_Les Précieuses ridicules)))
+                                                </note></seg>—because we would have the honour to
+                                        starve pour Monsieur le Baron … However it is quite likely
+                                        we shall nevertheless get something to do with it, through
+                                        some other of the noble protectors—who pay before hand
+                                        naturally—and who are less miserly than Baron <persName key="ed_kvh_jmc_3y">Gablenz</persName>. Hang the
+                                        fellow!</p>
+                                <p sameAs="MBTextmitEinzug">Paris is putting on its sunday coat, and
+                                        is beautifying in every corner for <seg type="comment"><orig>the coming exhibition, in 67.</orig><note xml:id="b66d2d0c-31b2-484b-8aa8-21c0e2ce8df8">Die
+                                                  Weltausstellung 1867 in Paris.</note></seg> The
+                                        building will be placed on the champ de Mars, of an oval
+                                        construction and of stupefying demensions. If you should pay
+                                        me a visit to Paris you will be surprised.</p>
+                                <p sameAs="MBTextmitEinzug">We have had very hot weather already and
+                                        a blue sky is more of a common think than in London. I think
+                                        that ten years of blue sky are quite worth a lifetime of
+                                        dull weather as you see in your quarter.</p>
+                                <p sameAs="MBTextmitEinzug">My kind regards to M.&#160;<persName key="pdrPo.001.004.000001603">Fox</persName>. He
+                                        kept good—did not he?——T'is only pity he is so afraid to
+                                        kill a king. We all have our weak places.</p>
+                                <p sameAs="MBTextmitEinzug"><expan resp="editor" sameAs="dottet_underline">W<ex>h</ex>y</expan> did
+                                        you not tell me how <seg type="comment"><orig>your
+                                                  work</orig><note xml:id="a4b78512-d849-4b84-a5fe-5e0cfa769880">Gemeint ist hier Karl Marx: Das Kapital; siehe
+                                                  <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an J. Ph. Becker, zwischen 9. und
+                                                  15.1.1866. </ref><?oxy_comment_start author="lindenberg" timestamp="20170518T135337+0200" comment="{{Erl. 6b}}."?>
+                                                  <?oxy_comment_end?>(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg>
+                                        is progressing? Do you not like the tune?</p>
+                                <p sameAs="MBTextmitEinzug">My compliments to friend <persName key="ed_l54_cks_xy">Lessner</persName>—if you see
+                                        him. He is as earnest a fellow as one to be found. I belive
+                                        him to be the only one, of working men, that could be
+                                        trusted to the fullest extend. There is no false string in
+                                        him.</p>
+                                <p sameAs="MBTextmitEinzug">My kindest love to all of you. I know
+                                        Mohr has no time for writing such every day's talk as I do.
+                                        I shall never trouble him. But good <seg type="comment"><orig>Jenny</orig><note xml:id="aa3f4e98-4fa5-4aff-aebb-e4fc7d4d22be"><persName key="pdrPo.001.004.000003074">Jenny
+                                                  Marx</persName> (Tochter). </note></seg> may do me
+                                        the kindness, from time to time, if she happens to have an
+                                        hour, that else would be lost to all, and write a word or
+                                        two to one that holds you dear.</p>
+                                <p sameAs="MBTextmitEinzug">How is my <seg type="comment"><orig>philosopher <persName key="pdrPo.001.004.000003076">Laura</persName>?</orig><note xml:id="f52db436-f4d6-4087-afec-c381744b689f"><persName key="pdrPo.001.004.000003076">Laura
+                                                  Marx</persName>. </note></seg> Still pensive? How
+                                        l'ange bleue du Nord—little Thoussy. How your good <seg type="comment"><orig><persName key="pdrPo.001.004.000003075">mother</persName>.</orig><note xml:id="e93048d7-14d7-45b9-a03f-5108c1efd98b"><persName key="pdrPo.001.004.000003075">Jenny
+                                                  Marx</persName>. </note></seg> Did you have such
+                                        good cake again as last year on Christmas? You remember, how
+                                        I immolated myself in eating it—but it was stronger than I.
+                                        What has become of <seg type="comment"><orig>Mistress'
+                                                  Marx's <persName key="pdrPo.001.004.000005086">brother</persName></orig><note xml:id="nnym_kqq_dz"><persName key="pdrPo.001.004.000005086">Edgar von
+                                                  Westphalen</persName>.</note></seg>? The
+                                        rattelsnake killer. I earnestly hope he aquired his health
+                                        again.</p>
+                                <p sameAs="MBTextmitEinzug">It says in <seg type="comment"><orig>a
+                                                  very old song</orig><note xml:id="a23b0be7-fdad-4524-8569-b144df72feb4">Abgewandelter Text des deutschen Volksgesanges:
+                                                  Je höher der Kirchturm desto schöner das Geläut,
+                                                  je weiter mein Schätzel desto größer die
+                                                  Freud.</note></seg> “Je höher die Glocken, je
+                                        schöner's Geleut——Je weiter das Dirnderl, je größer die
+                                        Freud'.“ It is a remarkable thing, that with the increase of
+                                        distance, simular minds draw closer and closer. I remember,
+                                        when I first left my fathers house, where I had passed a
+                                        very dull youth, as dull as any boy may have passed one—it
+                                        was perhaps the most happy hour of my life, when I saw the
+                                        town vanish at a distance. I tell you: I was never so
+                                        fortunate to know, what love to on's parents is. I hated my
+                                                <persName key="ed_zw5_dtd_5z"><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>father<?oxy_custom_end?></persName>,
+                                        I barely once knew my <persName key="ed_k2h_ctd_5z"><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>mother<?oxy_custom_end?></persName>
+                                        and the world became my home. But a few miles distance, a
+                                        few years time, soon mended all, and as misfortune had long
+                                        created the simularity of mind in me and them—soon space
+                                        between us, brought us closer to each oneother. We grew
+                                        friends, and were no less sorry, for what has passed in
+                                        younger days, when we had to part for ever. I remember I
+                                        wept.</p>
+                                <p sameAs="MBTextmitEinzug">It seems to me, that you, who had as
+                                        well not always sun<hi rend="background(yellow)">s</hi>hine
+                                        in your garden, are simular to me, however great a
+                                        difference may be, in o<hi rend="background(yellow)">ur</hi>
+                                        ways of walking through the mud. The little distance that
+                                        came now between, makes me think we are old cousins and
+                                        knew' anothers for theese twenty years.</p>
+                                <p sameAs="MBTextmitEinzug">If you look at a fine country, from the
+                                        hight of some mountain top, down at the distance in a
+                                        peaceful vale—Your eye will grow voratious at the sight. Go
+                                        down from your hill, look close at the play—see the cowdung
+                                        in the roads, the roughness of the path, the sweating
+                                        pasants, a heap of lousy children, a stinking pool before
+                                        each peasant's house a drunken woman bowing to the cross—you
+                                        will look back in full disgust and see the hill wherever you
+                                        stood, as <expan resp="editor" sameAs="dottet_underline">be<ex>a</ex>utyful</expan> as you did see the
+                                        dale before … I think there is no dale so deep, and no hill
+                                        so high, we have more or less looked closely to. We need
+                                        never fear to loose our humour at the sight. We will, I
+                                        hope, be able to look ever from the longest distance at each
+                                        other, however near we might yet be. Won't that be the
+                                        style?——all right! Ich habe Durst bekommen über dem vielen
+                                        Schreiben. Fare you well. Sonstige Neuigkeiten gibt's jetzt
+                                        kaum u. die <expan resp="editor" sameAs="dottet_underline">meiste<ex>n</ex></expan> Sachen bleiben beim
+                                        alten.</p>
+                                <p sameAs="MBTextmitEinzug">Grüße mir auch <seg type="comment"><orig><persName key="pdrPo.001.004.000001129">Kaetchen</persName>.</orig><note xml:id="c61b9dd9-2ce1-49b3-80c7-1974abf2f684">Vermutlich <persName key="pdrPo.001.004.000001129">Helena
+                                                  Demuth</persName>. </note></seg></p>
+                                <p sameAs="MBTextmitEinzug">Auf baldige Antwort hofft Euer
+                                        Freund</p>
+                                <closer sameAs="MBUnterschrift">Ch. Kaub </closer>
+                        </div>
+                </body>
+        </text>
+</TEI>

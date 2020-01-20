@@ -1,0 +1,357 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00195" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>189</idno>Johann Philipp Becker an Karl Marx in London.
+                                        Genf, Donnerstag, 15.&#160;November 1866</title>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                                        veröffentlicht.</edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>RGASPI</institution>
+                                                <idno><idno type="shelfmark">f. 21 op. 303 d.
+                                                  5</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Bogen festem, weißem
+                                                  Papier im Format 223&#160;×&#160;180&#160;mm.
+                                                  Becker hat alle vier Seiten vollständig
+                                                  beschrieben. Schreibmaterial: schwarze Tinte.</p>
+                                                <p>Von unbekannter Hand: Anstreichung mit Blaustift
+                                                  auf der vierten Seite (Z.&#160;50–51).</p>
+                                                <p>Die Schreibweise wurde nicht berichtigt.</p>
+                                                <p>Der Brief kam nach London in einem Paket mit
+                                                  Büchern und anderen Materialien an (siehe
+                                                  Erl.&#160;189g).</p>
+                                        </physDesc>
+                                </msDesc>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords>
+                                        <term key="ed_jtl_xrw_ww">Internationale Arbeiter Assoziation (IAA, A.I.T., I.W.M.A.)</term>
+                                </keywords>
+                        </textClass>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000000317">Johann Philipp
+                                                Becker</persName>
+                                        <placeName>Genf</placeName>
+                                        <date when="1866-11-15" cert="high"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName>London</placeName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:40:11Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingAct">
+                                <opener>
+                                        <dateline sameAs="MBDatumszeile"><pb/> Genf den 15 Nvbr
+                                                1866</dateline>
+                                        <dateline sameAs="MBDatumszeile"> </dateline>
+                                        <salute sameAs="MBAnrede">Lieber Marx!</salute>
+                                </opener>
+                                <p sameAs="MBTextohneEinzug">Was sagst Du zum <seg type="comment"><orig>Kongreß?</orig><note xml:id="b645b461-1f44-441d-b894-302b541b619b">Der
+                                                  erste Kongress der IAA in Genf
+                                                  (3.–8.&#160;September 1866). Siehe <ref target="B00004/#nrk1_sfc_3y">Erl. zu Marx an
+                                                  Engels, 5.1.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170508T152849+0200" comment="{{Erl. 3d}}"?>
+                                                  <?oxy_comment_end?>und <ref target="B00163/#npsb_tbw_hz">Erl. zu Marx an
+                                                  Kugelmann 23.8.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170523T153836+0200" comment="{{159d}}"?>
+                                                  <?oxy_comment_end?>sowie auch <ref target="B00167">Marx an J. Ph. Becker,
+                                                  31.8.<?oxy_comment_start author="reichhoff" timestamp="20170406T165328+0200" comment="{{Br._163}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        Ich sah ihm mit nicht wenig zagem Herzen entgegen &amp; weiß
+                                        auch wohl allein am Besten, welche Bemühungen es gekostet
+                                        hat um nicht kolossale Dummheiten zum Vorschein kommen zu
+                                        lassen. <seg type="comment"><orig>Jetzt kann man sagen, es
+                                                  ging Alles über erwarten gut &amp; und wir haben
+                                                  die Parthie gewonnen.</orig><note xml:id="e4a273ab-7781-4c11-b221-dc38f8b96eee">Schilderungen zum Verlauf des Kongresses siehe in
+                                                  <ref target="B00168">H. Jung an Marx,
+                                                  5.9.<?oxy_comment_start author="reichhoff" timestamp="20170406T170111+0200" comment="{{Br. 164}}"?>1866<?oxy_comment_end?></ref>
+                                                  und <ref target="B00170">J. G. Eccarius an Marx,
+                                                  5. und
+                                                  6.9.<?oxy_comment_start author="reichhoff" timestamp="20170406T170300+0200" comment="{{Br._166}}"?>1866<?oxy_comment_end?>.</ref></note></seg></p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Mit unserem
+                                                  deutschen Kongreßsekretar (<persName key="ed_ksb_ssd_xx">Moll</persName>) waren wir aus
+                                                  totaler Unfähigkeit zu solchem Posten schlecht
+                                                  gefahren</orig><note xml:id="nl3t_wm1_kz"><persName key="ed_ksb_ssd_xx">Friedrich Wilhelm
+                                                  Molls</persName> Aufzeichnungen waren lediglich
+                                                  als Ergänzung zum Protokoll gedacht. Als Arbeiter
+                                                  besaß er weder Fremdsprachenkenntnisse noch Übung
+                                                  im schriftlichen Ausdruck, somit vermochte er die
+                                                  deutschsprachigen Diskussionsbeiträge und
+                                                  Beschlüsse nur sehr knapp und unvollständig
+                                                  wiederzugeben. Siehe hierzu ausführlich MEGA²
+                                                  I/20. S. 1749/1750 sowie [Osobova] Ossobowa: Über
+                                                  das Schicksal der Dokumente des Genfer Kongresses
+                                                  S._268/269. (((lMEGA²_I/20))) (((l[Osobova]
+                                                  Ossobowa: Über das Schicksal der Dokumente des
+                                                  Genfer Kongresses der Ersten Internationale. In:
+                                                  Marx-Engels-Jahrbuch. Berlin. Bd._6. 1983.
+                                                  S._265–282.)))</note></seg> &amp; werdet Ihr daher
+                                        wenig oder nichts im Protokoll über die Wirksamkeit der
+                                        deutschen &amp; deutsch-schweizerischen Delegation finden.
+                                                <seg type="comment"><orig>Meine Kongreßbeschreibung
+                                                  im „Vorboten“</orig><note xml:id="nstp_yn1_kz">[Johann Philipp Becker:] Der Kongreß der
+                                                  Internationalen Arbeiterassociation in Genf. In:
+                                                  Der Vorbote. Genf. Jg. 1. Nr. 9, September 1866.
+                                                  S. 125–140; Nr. 10, Oktober 1866. S. 141–155; Nr.
+                                                  11, November 1866. S. 157–174. (((l[Becker, Johann
+                                                  Philipp:] Der Kongreß der Internationalen
+                                                  Arbeiterassociation in Genf. In: Der Vorbote.
+                                                  Genf. Jg. 1. Nr. 9, September 1866. S. 125–140;
+                                                  Nr. 10, Oktober 1866. S. 141–155; Nr. 11, November
+                                                  1866. S. 157–174)))</note></seg> kann Euch jedoch
+                                                <seg type="comment"><orig>bei Eurer
+                                                  Berichtsabfassung</orig><note xml:id="db38b1b9-fc2a-4454-8dad-1d13514d2e8c">Der
+                                                  Genfer Kongress hatte auf Vorschlag <persName key="pdrPo.001.004.000000317">Beckers</persName>
+                                                  beschlossen, die Veröffentlichung der
+                                                  Kongressmaterialien dem Generalrat anzutragen.
+                                                  Siehe Association lnternationale des Travailleurs.
+                                                  Compte rendu du Congrès de Genève (1866). In:
+                                                  MEGA²&#160;I/20. S.&#160;660.
+                                                  (((lAssociation_lnternationale des Travailleurs.
+                                                  Compte rendu du Congrès de Genève (1866). In:
+                                                  MEGA²&#160;I/20. S.&#160;649–679))) Die Arbeit
+                                                  wurde am 1.&#160;Dezember 1866 abgeschlossen und
+                                                  am 4.&#160;Dezember 1866 dem Generalrat vorgelegt
+                                                  (siehe <ref target="B00199">E. Dupont an Marx,
+                                                  1.12.<?oxy_comment_start author="reichhoff" timestamp="20170406T170525+0200" comment="{{Br. 192a}}"?>1866<?oxy_comment_end?>
+                                                  </ref>und Minutes of the General Council
+                                                  1866/1867. In: MEGA²&#160;I/20.
+                                                  S.&#160;513.12–14). (((lMinutes of the General
+                                                  Council 1866/1867. In: MEGA²&#160;I/20.
+                                                  S._477–591))) Ausführlich dazu siehe
+                                                  MEGA²&#160;I/20. S.&#160;1748–1759.
+                                                  (((lMEGA²&#160;I/20))) </note></seg> zu Hülfe
+                                        kommen. Du siehst daß ich dort vermied einiger eklen
+                                        Geschichtchen zu erwähnen.</p>
+                                <p sameAs="MBTextmitEinzug"><persName key="ed_ijs_l1x_pz">Schwitzguebel</persName>, Präsident der Sektion
+                                        Sonvillier, sandte mir gestern die&#160;<pb/> Uebersetzung
+                                        von 7&#160;Fragen <seg type="comment"><orig>der deutschen
+                                                  Denkschrift,</orig><note xml:id="b5da29b4-6d80-45bc-818b-0dd7786dad51">Siehe <ref target="B00170/#c19c5470-02e6-45e3-9a4a-d06e2e242a5f">Erl. zu Eccarius an Marx, 5. und
+                                                  6.9.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170508T153601+0200" comment="{{Erl._166n}}"?>.<?oxy_comment_end?>
+                                                  Siehe auch <ref target="B00170/#start_pxd_phr_5z">J. G. Eccarius an Marx, 5. und
+                                                  6.9.<?oxy_comment_start author="reichhoff" timestamp="20170506T134432+0200" comment="{{Br. 166.54–56}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        die er s.Z. gemacht &amp; sie nun dem Generalrath fur den
+                                        offiziellen Bericht zur Disposition schickt. Ob die
+                                        Uebersetzung richtig &amp; von vollig brauchbarer Redaktion,
+                                        weiß ich nicht, <seg type="comment"><orig>da ich um die
+                                                  gebotene Gelegenheit zu dieser Sendung zu
+                                                  benützen, keine Zeit mehr zum Lesen
+                                                  hatte.</orig><note xml:id="b066e0c6-69cf-4655-8bd0-2281c0242199">Am
+                                                  18.&#160;November 1866 verschickte <persName key="pdrPo.001.004.000001278">Jean-Baptiste
+                                                  Dupleix</persName> Exemplare des „Vorboten“,
+                                                  (((lDer_Vorbote. Genf. Jg.&#160;1. Nr.&#160;8,
+                                                  August 1866; Nr.&#160;11, November 1866))) Bücher,
+                                                  eine Teilübersetzung (sieben Punkte) von <persName key="pdrPo.001.004.000000317">Beckers</persName>
+                                                  „Denkschrift“ durch <persName key="ed_ijs_l1x_pz">Adhémar Schwitzguebel</persName>, Fotos sowie
+                                                  Beckers Briefe vom 15.&#160;November 1866 an
+                                                  <?oxy_comment_start author="reichhoff" timestamp="20170406T172215+0200" comment=" ({{Br. 189}}) - nicht verlinkt, da es sich um genau diesen Brief handelt"?>Marx<?oxy_comment_end?>,
+                                                  <persName key="pdrPo.001.004.000002417">Hermann
+                                                  Jung</persName> (IISG, Jung-Nachlaß,
+                                                  Sign.&#160;433<hi rendition="#sup">e</hi>) und
+                                                  <persName key="ed_l54_cks_xy">Friedrich
+                                                  Leßner</persName> (Kopie: RGASPI, Sign.
+                                                  f.&#160;185, op.&#160;1, d.&#160;25/3) in einer
+                                                  Kiste als Frachtgut über Deutschland nach London.
+                                                  Die Kiste traf in London Anfang Dezember 1866 ein.
+                                                  (((lBecker,J.Ph. an Hermann Jung (IISG,
+                                                  Jung-Nachlaß, Sign.&#160;433<hi rendition="#sup">e</hi>) ))) (((lBecker,J.Ph. an Friedrich Leßner
+                                                  (Kopie: RGASPI, Sign. f.&#160;185, op.&#160;1,
+                                                  d.&#160;25/3) ))) Siehe Minutes of the General
+                                                  Council 1866/1867. In: MEGA²&#160;I/20.
+                                                  S.&#160;509.28–34 und 512.12–15 und ebenda.
+                                                  S._1751. (((lMinutes of the General Council
+                                                  1866/1867. In: MEGA²&#160;I/20. S._477–591)))
+                                                  Siehe auch [Osobova] Ossobowa: Über das Schicksal
+                                                  der Dokumente des Genfer Kongresses. S.&#160;275.
+                                                  (((l[Osobova] Ossobowa, Inna: Über das Schicksal
+                                                  der Dokumente des Genfer Kongresses der Ersten
+                                                  Internationale. In: Marx-Engels-Jahrbuch. Berlin.
+                                                  Bd._6. 1983. S._265–282))) </note></seg>
+                                        <seg type="comment"><orig>Die noch übrigen 4&#160;Fragen
+                                                  kann S. jetzt nicht übersetzen, weil er eben in
+                                                  Bern in Garnison ist. Wenn es noch 14&#160;Tage
+                                                  Zeit hat, so werde ich sie sonst übersetzen
+                                                  lassen.</orig><note xml:id="fc3de5a1-0a7a-406d-aea4-7c738436e57c"><persName key="pdrPo.001.004.000000317">Becker</persName> bat seinen Freund <persName key="pdrPo.001.004.000004249">Victor
+                                                  Schily</persName> um die Übersetzung der letzten
+                                                  vier Punkte, doch konnte dieser die Aufgabe nicht
+                                                  übernehmen. Siehe Schily an Becker,
+                                                  27.&#160;November 1866 (Kopie: RGASPI, Sign.
+                                                  f.&#160;185, op.&#160;1, d.&#160;54/18)
+                                                  (((lSchily,Victor an Becker, 27.&#160;November
+                                                  1866 (Kopie: RGASPI, Sign. f.&#160;185,
+                                                  op.&#160;1, d.&#160;54/18) ))) sowie [Osobova]
+                                                  Ossobowa. Ebenda. Fn._60. (((l[Osobova] Ossobowa:
+                                                  Über das Schicksal der Dokumente des Genfer
+                                                  Kongresses der Ersten Internationale. In:
+                                                  Marx-Engels-Jahrbuch. Berlin. Bd._6. 1983.
+                                                  S._265–282.))) </note></seg></p>
+                                <p sameAs="MBTextmitEinzug">Die Kongreßkosten <expan resp="editor" sameAs="dottet_underline">habe<ex>n</ex></expan> die
+                                        Kasse unserer kleinen Sektion stark mitgenommen, werde aber
+                                        Sorge tragen, daß Euch unser Beitrag zur Generalkasse
+                                        nächsten Monat zu geht.</p>
+                                <p sameAs="MBTextmitEinzug">Der „Vorbote“ steht fest &amp; ist seine
+                                        Existenz durch Abonnements hinreichend gesichert.</p>
+                                <p sameAs="MBTextmitEinzug">In Deutschland hat <seg type="comment"><orig>der lausige Krieg</orig><note xml:id="f5183c6f-4900-469b-b3b0-5a04df17afbd">Der
+                                                  Deutsche Krieg (1866).</note></seg> uns einen
+                                        verdammten Strich durch die&#160;<pb/> Rechnung gemacht.
+                                        Jetzt will zwar dort wieder einiges Leben fur uns erwachen
+                                        &amp; <seg type="comment"><orig>kann ich im nachsten Vorbote
+                                                  die Bildung neuer Sektionen anzeigen.</orig><note xml:id="a3395eb7-a0c4-4a56-be52-7c65b84932c2">[Johann Philipp Becker:] Seit unserm letzten
+                                                  Bericht sind noch Sektionen entstanden&#160;… In:
+                                                  Der Vorbote. Genf. Jg.&#160;1. Nr.&#160;11,
+                                                  November 1866. S.&#160;175. (((l[Becker,_Johann
+                                                  Philipp:] Seit unserm letzten Bericht sind noch
+                                                  Sektionen entstanden&#160;… In: Der Vorbote. Genf.
+                                                  Jg.&#160;1. Nr.&#160;11, November 1866.
+                                                  S.&#160;175.))) </note></seg> Doch stehen diese
+                                        Resultate lange nicht im Verhaltniß zu der Mühe, die ich mir
+                                        dafur gebe &amp; zu den Zeit- &amp; <expan resp="editor" sameAs="dottet_underline">Geldopfer<ex>n</ex></expan> die wir dafür gebracht.
+                                        Nun es wird die Aussaat nicht verloren gehen.</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_uhp_xny_nz"/><persName key="pdrPo.001.004.000002822">Liebknecht</persName> der tappiger Weise in die
+                                                  Amnestie gerumpelt,</orig><note xml:id="nify_z41_kz"><persName key="pdrPo.001.004.000000317">Becker</persName>
+                                                  spielt auf die Verhaftung <persName key="pdrPo.001.004.000002822">Wilhelm
+                                                  Liebknechts</persName> in Berlin im Oktober 1866
+                                                  an. Siehe <ref target="B00178/#d3cd7232-86f4-4309-a619-7609ed71e384">Erl. zu Liebknecht an Engels,
+                                                  1.10.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170508T154628+0200" comment="{{Erl. 173f}}"?>.<?oxy_comment_end?></note></seg>
+                                        ließ <seg type="comment"><orig>seit Februar, wo er zum
+                                                  ersten Mal schrieb,</orig><note xml:id="cce8c0c4-2632-4935-969b-a80c3552f079">Siehe <ref target="B00052/#efd09f2a-d3f6-40b1-a075-3be043c37745">Erl. zu Becker an J. Marx,
+                                                  1.3.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170508T155141+0200" comment="{{Erl. 49c}}"?>.<?oxy_comment_end?></note></seg>
+                                        nichts mehr von sich hören.<anchor type="verweisziel" xml:id="stop_uhp_xny_nz"/></p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Aus Genua ging
+                                                  mir vorgestern die Nachricht zu, daß man
+                                                  wahrscheinlich nächstens eine
+                                                  Arbeiterdelegirten-Conferenz in Venedig abhalten
+                                                  werde um neben Andrem auch den formellen Anschluß
+                                                  an unsere Association zu beschließen.</orig><note xml:id="a43ad25f-c85a-44a0-a41c-a429366b2405"><persName key="pdrPo.001.004.000000317">Becker</persName> schrieb darüber auch in seinem
+                                                  Brief an <persName key="pdrPo.001.004.000002417">Jung</persName> vom 15.&#160;November 1866 (siehe
+                                                  <ref target="B00195/#b066e0c6-69cf-4655-8bd0-2281c0242199">Erl. zu Becker an Marx, 15.11.1866
+                                                  </ref>)<?oxy_comment_start author="lindenberg" timestamp="20170508T155733+0200" comment="{{Erl. 189.g}}"?>,<?oxy_comment_end?>
+                                                  der diese Nachricht, vermutlich erhalten von
+                                                  <persName key="ed_ty1_254_yx">Luigi Domenico
+                                                  Canessa</persName>, auf der Sitzung des
+                                                  Generalrats am 4.&#160;Dezember 1866 vortrug
+                                                  (siehe Minutes of the General Council 1866/1867.
+                                                  In: MEGA²&#160;I/20. S.&#160;512.23–30).
+                                                  (((lMinutes of the General Council 1866/1867. In:
+                                                  MEGA²&#160;I/20. S._477–591))) Der
+                                                  12.&#160;Kongress der italienischen
+                                                  Arbeitervereine fand erst vom&#160;1. bis
+                                                  6.&#160;November 1871 in Rom statt (siehe
+                                                  MEGA²&#160;I/20. S.&#160;1576).
+                                                  (((lMEGA²&#160;I/20.))) </note></seg></p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Für ein
+                                                  Bischen Mitarbeitung am „Vorboten“ rührt sich
+                                                  keiner der alten „Brüder“, bleibt mir allein auf
+                                                  dem Hals.</orig><note xml:id="ee44a015-86ef-4452-8da2-1e6efae082c4">„Der
+                                                  Vorbote“ (Genf).</note></seg></p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Unserm
+                                                  <persName key="ed_l54_cks_xy">Lessner</persName>
+                                                  schrieb ich seit dem Kongreß gelegenheitlich schon
+                                                  zwei &amp; heute zum dritten Mal, ihm verschiedene
+                                                  Aufträge&#160;<pb/> an dich gebend.</orig><note xml:id="nozn_dq1_kz">Siehe Becker an Friedrich
+                                                  Leßner, 28. September, 29. Oktober und 15.
+                                                  November 1866 (RGASPI, Sign. f. 21, op. 1, d.
+                                                  303/2, 303/4 und f. 185, op. 1, d. 25/3 [Kopien]).
+                                                  (((lBecker,J.Ph. an Friedrich Leßner, 28.
+                                                  September 1866. (RGASPI, Sign. f. 21, op. 1, d.
+                                                  303/2 [Kopie] ))) (((lBecker,J.Ph. an Friedrich
+                                                  Leßner, 29. Oktober 1866. (RGASPI, Sign. f. 21,
+                                                  op. 1, d. 303/4 [Kopie]) ))) (((lBecker,J.Ph. an
+                                                  Friedrich Leßner, 15. November 1866. RGASPI, Sign.
+                                                  f. 185, op. 1, d. 25/3 [Kopie] )))</note></seg> Es
+                                        scheint, daß <seg type="comment"><orig>der gefallige
+                                                  Ueberbringer,</orig><note xml:id="nf2j_vq1_kz"><persName key="ed_aps_4sw_pz">Jules
+                                                  Gottraux</persName>. </note></seg> Freund
+                                                <persName key="pdrPo.001.004.000002417">Jung’s</persName>, <seg type="comment"><orig>sich
+                                                  Briefe Vorbote, Bücher an der franz. Grenze hat
+                                                  wegnehmen lassen, was mir sehr, sehr ärgerlich
+                                                  ist&#160;– besonders auch wegen dem an <persName key="pdrPo.001.004.000002417">Jung</persName>
+                                                  gerichteten Brief.</orig><note xml:id="nlzt_1r1_kz">Zum Hergang der Beschlagnahme
+                                                  der Sendung siehe MEGA²&#160;I/20. Erl._491.13–16
+                                                  und S._1750 sowie [Osobova] Ossobowa: Über das
+                                                  Schicksal der Dokumente des Genfer Kongresses.
+                                                  S._265, 274/275. (((l[Osobova] Ossobowa, Inna:
+                                                  Über das Schicksal der Dokumente des Genfer
+                                                  Kongresses der Ersten Internationale. In:
+                                                  Marx-Engels-Jahrbuch. Berlin. Bd._6. 1983.
+                                                  S._265–282))) Ein Brief des Generalrats der IAA an
+                                                  den französischen Innenminister, um die Herausgabe
+                                                  zu erwirken, blieb unbeantwortet (der Brief konnte
+                                                  nicht ermittelt werden; siehe Minutes of the
+                                                  General Council 1866/1867. In: MEGA²&#160;I/20.
+                                                  S.&#160;492.19–21 und 526.10–16). Daher wandte
+                                                  sich der Generalrat an den britischen
+                                                  Außenminister <persName key="pdrPo.001.004.000004561">Lord
+                                                  Stanley</persName> mit der Bitte um Unterstützung.
+                                                  Dieser erreichte über den britischen Gesandten in
+                                                  Frankreich, <persName key="pdrPo.001.004.000005062">Lord
+                                                  Cowley</persName>, die Aushändigung der Sendung
+                                                  (siehe ebenda. S.&#160;526.16–26). Siehe auch <ref target="B00213">Marx an Engels,
+                                                  31.12.<?oxy_comment_start author="reichhoff" timestamp="20170506T134735+0200" comment="{{Br. 206.6–12}}"?>1866<?oxy_comment_end?></ref>
+                                                  und die Sitzungsprotokolle des Generalrats vom 1.
+                                                  und 15.&#160;Januar 1867 (Minutes of the General
+                                                  Council 1866/1867. In: MEGA²&#160;I/20.
+                                                  S.&#160;519.4–18 und 524–527). (((lMinutes of the
+                                                  General Council 1866/1867. In: MEGA²&#160;I/20.
+                                                  S._477–591)))</note></seg></p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_vjb_pns_5z"/><orig>Engels kam also zur Zeit des Kongresses
+                                                  durch Mainz, hatte aber, wie es scheint, den Weg
+                                                  nach Genf nicht gefunden.<anchor type="verweisziel" xml:id="stop_vjb_pns_5z"/></orig><note xml:id="e4b7172f-f04c-4175-bfd6-82502700d5b9">Zur
+                                                  Engels’ Deutschlandreise im August/September 1866
+                                                  siehe <ref target="B00148/#ed7465d7-c7d0-4b8f-9b6a-d7b144a87d0c">Erl. zu Engels an Marx,
+                                                  6.8.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170508T154033+0200" comment="{{Erl. 144e}}"?>.<?oxy_comment_end?></note></seg></p>
+                                <p sameAs="MBTextmitEinzug">Hier geht es mit der Association sehr
+                                        gut &amp; wird das Gesellschaftshaus durch den Getränkedebit
+                                        ein sehr einträgliches genossenschaftliches Konsumgeschaft.
+                                                <seg type="comment"><orig>Mit sehr vieler Mühe
+                                                  brachte ich aber bei Abfassung des Vertrags &amp;
+                                                  der Statuten kommunistische Grundsatze durch &amp;
+                                                  wird nun aller Reinertrag untheilbar nur für
+                                                  gemeinschaftliche Zwecke verwendet. Vieleicht
+                                                  spreche ich schon in N<hi rendition="#sup">o</hi>&#160;11 des Vorboten darüber.</orig><note xml:id="nwg4_qr1_kz">[Johann Philpp Becker:] Da
+                                                  man an mehrern Orten die Gründung der
+                                                  Produktionsgenossenschaften im Schooß der
+                                                  Sektionen beabsichtigt … In: Der Vorbote. Genf.
+                                                  Jg. 1. Nr. 11, November 1866. S. 175/176. Rubrik:
+                                                  Entwicklungsgang unserer Association.
+                                                  (((l[Becker,Johann Philpp:] Da man an mehrern
+                                                  Orten die Gründung der Produktionsgenossenschaften
+                                                  im Schooß der Sektionen beabsichtigt … In: Der
+                                                  Vorbote. Genf. Jg. 1. Nr. 11, November 1866. S.
+                                                  175/176. Rubrik: Entwicklungsgang unserer
+                                                  Association)))</note></seg> Indessen bin ich
+                                        beschaftigt Tag &amp; Nacht ohne ein Sou zu verdienen &amp;
+                                        sehe mich daher sehnlichst um einen Bruder um, der mich
+                                        ablosen konnte, ehe ich darüber krebire.</p>
+                                <p sameAs="MBTextmitEinzug">Dies in Eil’! herzliche Grüsse an deine
+                                        Familie <lb/><closer rend="paragraph">
+                                                <signed>Dein <lb break="no"/>Joh Ph Becker</signed>
+                                        </closer></p>
+                        </div>
+                </body>
+        </text>
+</TEI>

@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00150" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>146</idno>Friedrich Engels an Karl Marx in London. Manchester, Freitag, 10. August 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1619/D III 389</idno></idno></msIdentifier><physDesc>
+                                                <p>Der Brief besteht aus einem Bogen mittelstarkem,
+                                                  weißem Papier im Format
+                                                  231&#160;×&#160;180&#160;mm. Wasserzeichen: „A
+                                                  Pirie &amp; Sons 1865“. Prägung: „London
+                                                  Superfine“ und ein Wappenschild. Die ersten zwei
+                                                  Seiten hat Engels vollständig beschrieben, die
+                                                  dritte zu einem Viertel, die vierte Seite ist
+                                                  leer. Schreibmaterial: schwarze Tinte.</p>
+                                                <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand: Numerierung  der
+                                                  beschriebenen Seiten: „317,1“ bis „317,3“ und
+                                                  „41,1“ bis „41,3“ (gestrichen).<?oxy_comment_start author="lindenberg" timestamp="20170424T144752+0200" comment="Von Eduard Bernsteins Hand: Numerierung des Briefes bzw. der beschriebenen Seiten: „317,1“ bis „317,3“ und „41,1“ bis „41,3“ (gestrichen)"?>
+                                                  <?oxy_comment_end?>Redaktionelle Vermerke und
+                                                  Streichungen.</p>
+                                                <p>Von Heinrich Dietz’ Hand: Numerierung des
+                                                  Briefes: „861“ (gestrichen).</p>
+                                                <p>Von unbekannter Hand: der mit Tintenstift auf der
+                                                  ersten Seite oben links geschriebene Vermerk:
+                                                  „Wacker“.</p>
+                                                <p>Engels beantwortet den Brief von Marx vom
+                                                  7.&#160;August 1866 (Br.&#160;145). Marx
+                                                  antwortete ihm am 13.&#160;August 1866
+                                                  (Br.&#160;150 ).
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20170424T144824+0200" comment="Marx antwortete ihm am 13. August 1866 (Br. 150 [evtl. 151])."?></p>
+                                                <?oxy_comment_end?>
+                                                <p>Erstveröffentlichung (gekürzt): Bw&#160;3 (1913).
+                                                  S.&#160;343/344; vollständig: MEGA<hi rendition="#sup">1</hi> III/3 (1930).
+                                                  S.&#160;356/357.</p>
+                                        </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1985</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1866-08-10"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:46Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Mchr 10 Aug 1866.</dateline><salute sameAs="MBAnrede">Lieber Mohr</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_aqh_bqb_5z"/><orig>Ich weiß nicht ob ich auf die „halbe“ Verlobung von
+                <persName key="pdrPo.001.004.000003076">Laura</persName> ganz, halb oder gar nicht
+              gratuliren darf.</orig><note xml:id="ndn3_xym_hz">Siehe <ref target="B00149/#start_dw5_j5n_tz">Marx an Engels,
+                7.8.<?oxy_comment_start author="reichhoff" timestamp="20170502T122114+0200" comment="{{Br. 145.9–10}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          Was aber auch die Quantität des zulässigen Glückwunsches sein mag, so geht das doch die
+          Qualität nichts an &amp; so gratulire ich von ganzem Herzen.<anchor type="verweisziel" xml:id="stop_aqh_bqb_5z"/></p><p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_aqv_cjn_tz"/>Wie viel ungefähr
+          kostet <seg type="comment"><orig>das Buch von <persName key="ed_mly_4vn_hz">Tremaux</persName>?</orig><note xml:id="dd9345ea-4f5e-47b6-b0aa-c0e7716c7fc0">P[ierre]&#160;Trémaux: Origine et transformations de l’homme et des autres êtres.
+              Pt.&#160;1. Paris 1865. Siehe <ref target="B00149/#start_yjh_t5n_tz">Marx an Engels,
+                7.8.<?oxy_comment_start author="reichhoff" timestamp="20170502T122355+0200" comment="{{Br. 145.33–71}}"?>1866<?oxy_comment_end?></ref>.
+              (((lTrémaux,P[ierre]: Origine et transformations de l’homme et des autres êtres.
+              Pt._1. Paris 1865))) </note></seg> wenn es nicht etwa wegen Illustrationen oder sonst
+          was sehr theuer ist, schaff’ ichs mir an dann brauchst Du's nicht zu schicken.<anchor type="verweisziel" xml:id="stop_aqv_cjn_tz"/></p>
+        <anchor type="verweisziel" xml:id="start_iqf_cmw_tz"/><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Um dem wüthigen Schlächter den Zorn zu brechen
+              &amp; den Papiervorrath zu erneuern</orig><note xml:id="nafl_g1r_5x">Siehe <ref target="B00149/#start_ib2_bvn_tz">Marx an Engels, 7.8.1866</ref>
+              <?oxy_comment_start author="reichhoff" timestamp="20170502T122603+0200" comment="{{Br. 145.6-8.}}"?></note><?oxy_comment_end?></seg>
+          schicke ich Dir inl. I/F 65865 &amp; 66, 2&#160;Noten à 5&#160;£, <expan resp="editor" sameAs="dottet_underline">zus<ex>ammen</ex></expan>
+          <hi rendition="#u">£&#160;10</hi>.– Manchester 30&#160;Jan. 65. datirt. Ich wollte ich
+          könnte Dir mehr als 200&#160;Pfd. jährlich sicher stellen, aber leider kann ich das nicht.
+          Wenn Alles gut geht, kann ich freilich wohl noch eine £&#160;50.– mehr aufbringen, aber
+          die Baumwolle ist jetzt wieder am Fallen &amp; <seg type="comment"><orig>die <persName key="pdrPo.001.004.000003392">Bonapartistische</persName> Note von wegen der Gränzen
+              von 1814</orig><note xml:id="nebj_f1n_hz">Für seine Zugeständnisse an den preußischen
+              Sieger im Deutschen Krieg sowie seine vermittelnde Neutralität während des Konfliktes
+              verlangte <persName key="pdrPo.001.004.000003392">Napoléon III</persName> nach
+              Kriegsende, die Grenzen von 1814 wiederherzustellen, was er jedoch nicht erreichte.
+              Siehe Baumgart: Europäisches Konzert. S. 386/387. (((lBaumgart:Europäisches
+              Konzert)))</note></seg> erschreckt den Philister, &amp; das wirkt auf die
+            Bilanzen.<anchor type="verweisziel" xml:id="stop_iqf_cmw_tz"/></p><p sameAs="MBTextmitEinzug">Diese Bonap. Note scheint zu beweisen daß zwischen <persName key="pdrPo.001.004.000003392">ihm</persName> &amp;
+                                                <persName key="pdrPo.001.004.000000441">Bismark</persName> ein hitch eingetreten ist. <pb/>
+                                        Die Forderung wäre sonst sicher nicht so grob &amp;
+                                        plötzlich &amp; grade zu der für Bism. ungelegensten Zeit
+                                        gemacht worden. Daß dem Bism. nichts daran läge sie zu
+                                        erfüllen, ist sicher, aber wie kann er jetzt? <del rendition="#ow">Wie<sic ana="#break-off"/></del> Was
+                                        wird das siegreiche Kriegsheer dazu sagen? Und das deutsche
+                                                <expan resp="editor" sameAs="dottet_underline">Parlam<ex>en</ex>t</expan> &amp; die Kammern,
+                                        &amp; die Süddeutschen? Und <seg type="comment"><orig>der
+                                                  alte Esel</orig><note xml:id="np5h_n1n_hz"><persName key="pdrPo.001.004.000005131">Wilhelm
+                                                  I.</persName>
+                                                </note></seg> der jetzt grade so dummglücklich
+                                        aussehn wird wie mein schwarzweißer Hund <persName key="Dido">Dido</persName> wenn er sich
+                                        vollgefressen hat, &amp; der gesagt hat keinen Fußbreit
+                                        deutschen Bodens usw?</p><p sameAs="MBTextmitEinzug">Die Depesche ist eine große Dummheit von <persName key="pdrPo.001.004.000003392">Bonap. </persName> aber das Geschrei der Opposition &amp;
+            <expan resp="editor" sameAs="dottet_underline">wahrsch<ex>einlich</ex></expan> auch der
+          Armee wird ihn wohl gezwungen haben die Sache zu überstürzen. Sie kann ihm sehr gefährlich
+          werden. Entweder macht <persName key="pdrPo.001.004.000000441">Bismark</persName> es
+          möglich nachzugeben &amp; dann ist er gezwungen bei erster Gelegenheit Krieg mit <persName key="pdrPo.001.004.000003392">Bon.</persName> anzufangen um Revanche zu nehmen; oder
+          aber er kann nicht nachgeben und dann kommts schon früher zum Krieg. In beiden Fällen hat
+            <persName key="pdrPo.001.004.000003392">Bon.</persName> das Risiko einen Krieg gegen
+          seinen Willen &amp; ohne gehörige diplomat. Vorbereitung ohne gesicherte Allianzen führen
+          zu müssen für <del rendition="#ow">die<sic ana="#break-off"/></del> den offen
+          ausgesprochnen Zweck der Eroberung. <persName key="pdrPo.001.004.000000441">Bismark</persName> hat übrigens schon vor mehreren Jahren dem hannov. Minister
+            <persName key="ed_ulp_byn_hz">Platen</persName> gesagt <seg type="comment"><orig>er
+              werde Deutschland unter den preuß. Helm bringen, &amp; es dann, um es „in Eins zu
+              schmieden“ gegen die Franzosen führen.</orig><note xml:id="ntch_pjn_hz">Möglicherweise
+              nach: Hermann Kuhn: Lettres de Berlin. Berlin, 4 août. In: Le Monde. Paris. Nr. 215,
+              8. August 1866. S. 1/2. (((lKuhn,Hermann: Lettres de Berlin. Berlin, 4 août. In: Le
+              Monde. Paris. Nr. 215, 8. August 1866. S. 1/2.))) Engels wiederholte dies später auch
+              in seinen „Notizen für das Kapitel IV“ und dem „Entwurf des Kapitels IV“ seiner
+              Broschüre „Die Rolle der Gewalt in der Geschichte“ (siehe MEGA<hi rendition="#sup">2</hi>_I/31. S. 65.1–10 und S._91.35–42). Hier gab er als Quelle „The Manchester
+              Guardian“ an, was nicht zu belegen ist (siehe ebenda. Erl. 65.1–10).
+              (((lEngels,F.:_Notizen für das Kapitel IV der Broschüre „Die Rolle der Gewalt in der
+              Geschichte.“ II. In: MEGA2_I/31. S. 64/65))) (((lEngels,F.:_Entwurf des Kapitels IV
+              der Broschüre „Die Rolle der Gewalt in der Geschichte“ In: MEGA2_I/31. S.
+              66–116)))</note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Hier circuliren Cirkulare zu einer <persName key="pdrPo.001.004.000002500">„Kinkelfeier“</persName>,</orig><note xml:id="nh3b_k3n_hz">Engels meint den Aufruf des
+                                                  Comités für die Kinkel-Feier: Aufruf zu einer
+                                                  Oeffentlichen Feier die beim Abgange des
+                                                  Professor_Dr._Kinkel, nach Zürich, am
+                                                  27._September d._J. stattfinden wird. London,
+                                                  9._Juli 1866. [Unterzeichnet:] Wm. Engelmann,
+                                                  Secretär. (((lAufruf zu einer Oeffentlichen Feier
+                                                  die beim Abgange des Professor_Dr._Kinkel, nach
+                                                  Zürich, am 27._September d._J. stattfinden wird.
+                                                  London, 9._Juli 1866. [Unterzeichnet:] Wm.
+                                                  Engelmann, Secretär)))</note></seg> verbreitet von
+                                                <persName key="ed_byt_4g5_2z">Leppoc</persName>
+                                        „groß als Dichter &amp; als Mensch“, à propos von <persName key="pdrPo.001.004.000002500">Fromm-Gottfriedels</persName> Abreise <pb/> nach
+                                        Zürich. Ich habe meine Bereitwilligkeit erklärt mich bis zum
+                                        Belaufe eines Farthings dabei zu betheiligen.</p><p sameAs="MBTextmitEinzug">Mit besten Grüßen an Deine Frau &amp; die Mädchen</p><closer sameAs="MBUnterschrift">Dein<lb/>F. E. </closer></div></body></text></TEI>

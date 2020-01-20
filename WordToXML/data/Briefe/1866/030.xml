@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00033" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>30</idno>Wilhelm Liebknecht an Karl Marx in London. Leipzig, Donnerstag, 8. Februar 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 1636</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, blauem, kariertem Papier im Format 285&#160;×&#160;225&#160;mm. Die ersten zwei Seiten hat Liebknecht vollständig beschrieben, die dritte zur Hälfte, die vierte Seite ist leer. Schreibmaterial: schwarze Tinte.</p></physDesc></msDesc><listWit><witness><bibl>Erstveröffentlichung: in deutscher Übersetzung: Die I.&#160;Internationale in
+                            Deutschland (1964). S.&#160;107/108</bibl>.</witness><witness><bibl>in der Sprache des Originals wird der Brief hier erstmals veröffentlicht.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002822">Wilhelm Liebknecht</persName><placeName>Leipzig</placeName><date when="1866-02-08"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:33Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body>
+      <div type="writingAct">
+        <opener>
+          <dateline sameAs="MBDatumszeile"><pb/> 10 Baÿrische Straße, Leipzig<lb/>8 Febr.
+            66.</dateline>
+          <salute sameAs="MBAnrede">Dear Williams!</salute>
+        </opener>
+        <p sameAs="MBTextohneEinzug">I am sorry to hear, you have fallen ill again. Poor fellow, I
+          should like to be with you for some time.</p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>My note from Berlin you have
+              received.</orig><note xml:id="cdedd78b-fbab-44b0-b3b3-9d0feb3c9664">Siehe <ref target="B00019">W. Liebknecht an Marx,
+                21.1.<?oxy_comment_start author="reichhoff" timestamp="20170314T142722+0100" comment="{{Br. 18}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          I dare say a good address there is now found. <seg type="comment"><orig>The <expan resp="editor" sameAs="dottet_underline">manif<ex>est</ex></expan>
+              <hi rendition="#u">will</hi> be printed</orig><note xml:id="ced3ec0d-6a91-4d86-a91a-b6a9c822e881">[Karl Marx, Friedrich Engels:] Manifest
+              der Kommunistischen Partei. Veröffentlicht im Februar 1848. London. Neu herausgegeben
+              durch Sigfrid Meyer. Im Selbstverlage (Druck von Gustav Muthschall in Berlin) 1866.
+              (((l[Marx, Karl, Friedrich Engels:] Manifest der Kommunistischen Partei.
+              Veröffentlicht im Februar 1848. London. Neu herausgegeben durch Sigfrid Meyer. Im
+              Selbstverlage (Druck von Gustav Muthschall in Berlin) 1866))) Siehe auch <ref target="B00016/#start_yfb_trk_nz">W. Liebknecht an Marx,
+                18.1.<?oxy_comment_start author="reichhoff" timestamp="20170410T151526+0200" comment="{{Br. 15.13–17}}"?>1866<?oxy_comment_end?></ref>
+              sowie <ref target="B00016/#nm4z_zyc_5y">Erl. zu W. Liebknecht an Marx, 18.1.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170516T102550+0200" comment="{{Erl. 15e"?>
+              <?oxy_comment_end?>und <ref target="B00016/#nchb_j4c_5y">Erl. zu W. Liebknecht an Marx,
+                18.1.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170516T102716+0200" comment=" und 15h}}."?></note><?oxy_comment_end?></seg>
+          and, <seg type="comment"><orig>if you could send us a corrected copy, the Address and
+              Rules of the I.&#160;A. as well.</orig><note xml:id="f2cce20d-e017-405b-9e25-9ef6bb04c009">
+              <p rend="endnote text">(Karl Marx:) Manifest an die arbeitende Klasse Europa’s. In:
+                Der Social-Demokrat. Berlin. Nr.&#160;2, Probenr., 21.&#160;Dezember 1864.
+                S.&#160;1-3; Nr.&#160;3., Probenr., 30.&#160;Dezember 1864. Beil. S.&#160;2. (MEGA²
+                I/20. S.&#160;16–25 und 920–929). (((l(Marx,Karl:) Manifest an die arbeitende Klasse
+                Europa’s. In: Der Social-Demokrat. Berlin. Nr.&#160;2, Probenr., 21.&#160;Dezember
+                1864. S.&#160;1-3; Nr.&#160;3., Probenr., 30.&#160;Dezember 1864. Beil. S.&#160;2.
+                (MEGA²&#160;I/20. S.&#160;16–25) ))) [Karl Marx:] Provisorische Bestimmungen der
+                „Internationalen Arbeiter-Association“. In: Der Social-Demokrat. Berlin.
+                Nr.&#160;10, 18.&#160;Januar 1865. S.&#160;2/3. (MEGA²&#160;I/20. S.&#160;54–66 und
+                992–996). (((l[Marx,Karl:] Provisorische Bestimmungen der „Internationalen
+                Arbeiter-Association“. In: Der Social-Demokrat. Berlin. Nr.&#160;10, 18.&#160;Januar
+                1865. S.&#160;2/3. (MEGA²&#160;I/20. S.&#160;54–66).))) - Siehe auch <ref target="B00019/#start_qk5_rjk_nz">W. Liebknecht an Marx,
+                  21.1.<?oxy_comment_start author="reichhoff" timestamp="20170410T154338+0200" comment="{{Br. 18.20–24}}"?>1866<?oxy_comment_end?></ref>.</p>
+            </note></seg></p>
+        <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_lh5_k3j_nz"/><anchor type="verweisziel" xml:id="start_cms_pky_nz"/><seg type="comment"><orig>Here things are going as well, as can be desired. I have 12 <hi rendition="#u">sure</hi> members already,</orig><note xml:id="f6c9d0cd-1f85-4dea-aecc-f97ef70f564b">Siehe <ref target="B00011/#start_izl_psk_nz">Marx an W. Liebknecht,
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170410T152146+0200" comment="{{Br. 10.42–48}}"?>1866<?oxy_comment_end?>
+              </ref>sowie <ref target="B00016/#start_uxx_ctk_nz">W. Liebknecht an Marx,
+                18.1.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170410T152548+0200" comment="{{Br. 15.6–11}} "?> und<?oxy_comment_end?>
+              <ref target="B00019/#start_g4b_stk_nz">W. Liebknecht an Marx,
+                21.1.<?oxy_comment_start author="reichhoff" timestamp="20170410T152907+0200" comment="{{Br._18.25}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          amongst them the <hi rendition="#u">whole</hi> Committee of <seg type="comment"><orig>the
+              quondam <persName key="pdrPo.001.004.000004342">Schulze</persName>-Verein,</orig><note xml:id="bc388b22-e435-4d94-961e-518dbe537870">Der Arbeiterbildungsverein in Leipzig.
+              Siehe <ref target="B00016/#start_kmz_c5k_nz">W. Liebknecht an Marx,
+                18.1.<?oxy_comment_start author="reichhoff" timestamp="20170410T153422+0200" comment="{{Br. 15.6–12}}"?>1866<?oxy_comment_end?></ref>.
+            </note></seg> and <hi rendition="#u">all</hi> the others people of some influence. In a
+          few days we have a private meeting, and then the thing will be started <hi rendition="#u">officially</hi>. Without delay I shall communicate you the results, <seg type="comment"><orig>send you the money for the six cards and ask for more.</orig><anchor type="verweisziel" xml:id="stop_cms_pky_nz"/><note xml:id="db49bcd0-20a3-4958-adc8-b7b4798921ab">Zur Bezahlung der Mitgliedskarten der
+              IAA siehe <ref target="B00011/#start_ekh_gbj_nz">Marx an W. Liebknecht,
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170410T153816+0200" comment="{{Br. 10.17–19}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p>
+        <p sameAs="MBTextmitEinzug">To-morrow I lecture about the I.&#160;A. in the
+          Buchdruckerverein, and next week in the Arbeiterverein, in summa before more than a
+          thousand workmen. All is prepared, and I shall doubtlessly get good results.<anchor type="verweisziel" xml:id="stop_lh5_k3j_nz"/></p>
+        <p sameAs="MBTextmitEinzug"><persName key="pdrPo.001.004.000000317">Becker</persName>, to whom I have written
+          but to-day, has sent me a lot of “<bibl sameAs="zzDer Vorbote">Vorboten”</bibl> which I
+          have all sold, and shall sell more. I asked him for the address <pb/> of those
+          “Lassalleaners”, with whom he is in correspondence. If he should withhold the address, it
+          would not matter, as I have means to get at the few good amongst these people. In fact,
+          many “advances” have been made to me, but in my disgust with the “glorious movement” I
+          repelled them rather rudely. However I think, the moment has come now to collect <hi rendition="#u">all</hi> the good elements, and to <hi rendition="#u">unite them in the
+            I.&#160;A</hi><hi rendition="#u">.</hi></p>
+        <p sameAs="MBTextmitEinzug">In case, you have a photograph of yours to spare, send it to me.
+          I should have it multiplied, as so many people bother me about your portrait.</p>
+        <p sameAs="MBTextmitEinzug">Good bye, my dear Williams, take care of <unclear reason="illegible" cert="low">Dowle</unclear>-health, and don’t forget your</p>
+        <closer sameAs="MBUnterschrift">
+          <signed>J. Miller.</signed>
+        </closer>
+        <postscript>
+          <p>Many Grüsse from us to you all. <seg type="comment"><orig>My wife</orig><note xml:id="c1827dda-7640-41b8-ac7a-7dcd3313ff53"><persName key="pdrPo.001.004.000002819">Ernestine Liebknecht</persName>. </note></seg> is
+            much better (though not well yet) and begs you to tell <seg type="comment"><orig>Mrs.&#160;Williams</orig><note xml:id="bb924af2-03af-4d06-a0ae-a4624e716edf"><persName key="pdrPo.001.004.000003075">Jenny Marx</persName>. </note></seg>and
+              <seg type="comment"><orig>Jane</orig><note xml:id="c2bf0e02-11d7-43fa-a4c7-39c193316f70"><persName key="pdrPo.001.004.000003074">Jenny Marx</persName> (Tochter). </note></seg>, that
+            the long promised letter will soon be dispatched, accompanied by one of <seg type="comment"><orig>Alice</orig><note xml:id="fe4d1494-8912-4693-a1b7-8c018c7cd3b7"><persName key="pdrPo.001.004.000002818">Alice Liebknecht</persName>.
+              </note></seg> to her <persName key="pdrPo.001.004.000003068">Tussy</persName>.</p>
+        </postscript>
+        <p sameAs="MBTextmitEinzug">Apropos. <expan resp="editor" sameAs="dottet_underline"><persName key="pdrPo.001.004.000001296">Ecc<ex>arius</ex></persName></expan> never
+          sent any <seg type="comment"><orig>“Advocates”</orig><note xml:id="ba0e2612-0a6b-40ed-b04c-146ac74cfa33">„The Workman’s Advocate” (London). Siehe
+                <ref target="B00007/#nmrb_qzn_4y">Erl. zu Marx an J. Ph. Becker, zwischen 9. und
+                15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170516T103455+0200" comment="{{Erl. 6f}}"?>
+              <?oxy_comment_end?>(((zThe_Workman’s
+              Advocate)))<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+            </note></seg><index indexName="XE">
+            <term>zzThe Workman’s Advocate</term>
+            <?oxy_custom_end?>
+          </index>. I have only the first two numbers. He must not be angry with me, for not having
+          yet sent any correspondence—I was in tremendous tribulation in consequence of two rents
+          having fallen upon me at the same time, my present landlord insisting on <pb/>
+          “prenumerando” payment, which unfortunately is rather the rule here. Well, this morning I
+          got rid of the fellow, and you see I at once made use of my regained liberty, and ease of
+          mind. If ever you don’t hear of me for any length of time, you may always be sure that
+          there is some good reason why in the shape of an “ungemüthlichen” Landlord, or something
+          else of that kind. <hi rendition="#u">Illnes</hi> does not prevent me from writing.</p>
+        <closer sameAs="MBUnterschrift">In a hurry! </closer>
+      </div>
+    </body></text></TEI>

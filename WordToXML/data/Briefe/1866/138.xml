@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00142" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>138</idno>Hermann Jung an Karl Marx in London. London, </title>
+                                <title>zwischen Mittwoch, 18. und Montag, 23. Juli 1866</title>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                                        veröffentlicht.</edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>RGASPI</institution>
+                                                <idno><idno type="shelfmark">f. 21 op. 1 d.
+                                                  10/1</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus zwei Zeilen, die Jung quer
+                                                  auf die letzte Seite des Briefes von Rochat und
+                                                  Jean-Baptiste Dupleix an Jung vom 18.&#160;Juli
+                                                  1866 geschrieben hat. Schreibmaterial:
+                                                  Bleistift.</p>
+                                                <p>Die Datierung ergibt sich aus dem Datum des
+                                                  beigelegten Briefs (siehe unten) sowie aus der
+                                                  Bitte Jungs, den Brief ihm am Montag,
+                                                  23.&#160;Juli 1866, zurückzugeben (Z.&#160;1).</p>
+                                                <p><ref target="mega_vwc_vxs_sy">Der Brief hat eine
+                                                  Beilage.</ref></p>
+                                                <p><?oxy_comment_start author="lindenberg" timestamp="20170424T135807+0200" comment="{beilage}Wiedergabe der Beilage"?><?oxy_custom_start type="oxy_content_highlight" color="207,241,255" mid="1"?></p>
+                                                <?oxy_comment_end?>
+                                                <?oxy_custom_end mid="1"?>
+                                        </physDesc>
+                                </msDesc>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000002417">Hermann
+                                                Jung</persName>
+                                        <placeName>London</placeName>
+                                        <date from="1866-07-18" to="1866-07-23" cert="high"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName>London</placeName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:39:41Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingAct">
+                                <postscript>
+                                        <p><pb/> Ayez soin de <seg type="comment"><orig>cette
+                                                lettre,</orig><note xml:id="bf777fd2-32ca-4ee9-9ed7-89cf18633d67"><p rend="endnote text">Siehe die Beilage, <ref target="mega_vwc_vxs_sy">Rochat und Jean-Baptiste
+                                                  Dupleix an Jung, 18.&#160;Juli 1866.</ref>
+                                                  <persName key="pdrPo.001.004.000002417">Jung</persName> hat den Brief in der Sitzung des
+                                                  Zentralrats der IAA am 24.&#160;Juli 1866 verlesen
+                                                  (The_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+                                                  S.&#160;436.20–437.6). (((lThe_Minute Book
+                                                  1864–1866. In: MEGA²&#160;I/20. S._265–450))) </p></note></seg> vous me la rendrez <seg type="comment"><orig>lundi</orig><note xml:id="c58d3df7-c4e2-4942-9a22-f78392a2357e">Montag, der 23.&#160;Juli 1866.</note></seg>
+                                                soir. </p>
+                                </postscript>
+                        </div>
+                </body>
+        </text>
+</TEI>

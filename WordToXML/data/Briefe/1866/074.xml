@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00077" xml:lang="de"><teiHeader><fileDesc><titleStmt>
+                                <title><idno>74</idno>Friedrich Engels an Karl Marx in Margate.
+                                        Manchester, Dienstag, 27. März 1866</title>
+                        </titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1604/D III 374</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              230&#160;×&#160;180&#160;mm. Wasserzeichen: „A Pirie &amp; Sons 1865“. Prägung:
+              „London Superfine“ und ein Wappenschild. Die erste Seite hat Engels vollständig
+              beschrieben, die übrigen drei sind leer. Schreibmaterial: schwarze Tinte.</p>
+            <p>Von Eduard
+              <?oxy_comment_start author="strauss" timestamp="20170613T101139+0200" comment="(((nBernstein,Ed.)))"?>Bernsteins<?oxy_comment_end?>
+              Hand: Nummerierung des Briefes: „303“ und „16“ (gestrichen). Redaktionelle
+              Vermerke.</p>
+            <p>Von Heinrich
+              <?oxy_comment_start author="strauss" timestamp="20170613T101211+0200" comment="(((nDietz,Heinr.)))"?>Dietz’<?oxy_comment_end?>
+              Hand: Nummerierung des Briefes: „836“ (gestrichen). </p>
+            <p>Von unbekannter Hand der Vermerk „Collin“ mit Bleistift auf der ersten Seite oben
+              links. </p>
+            <p>Engels beantwortet den Brief von Marx vom 24.&#160;März 1866 (Marx an Engels,
+              24.3.1866).</p>
+          </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1951</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;303/304.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                                        <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                                        <placeName>Manchester</placeName>
+                                        <date when="1866-03-27"/>
+                                </correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>Margate</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:01Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Manchester 27 März 1866</dateline><salute sameAs="MBAnrede">Lieber Mohr</salute></opener><p sameAs="MBTextohneEinzug">Ich war grade darauf gefaßt Dir wegen Deiner, aus Deinem Schweigen
+          geschlossenen Gewissenhaftigkeit <seg type="comment"><orig>im Nichtarbeiten</orig><note xml:id="eac7c74a-8879-4660-89db-703dc564fdd3">Zu Marx’ Erholungsaufenthalt in Margate
+              siehe <ref target="B00054/#a9fd0c5d-779b-4626-bf9f-71889bd4804c">Erl. zu Engels an
+                Marx, 5.3.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170517T161625+0200" comment="{{Erl. 51a}}."?></note><?oxy_comment_end?></seg>
+          einen Gratulationsbrief zu schreiben als <seg type="comment"><orig>Dein Brief</orig><note xml:id="cf54da23-173c-4203-88dc-84b83ba6391d"><ref target="B00075">Marx an Engels,
+                24.3.<?oxy_comment_start author="reichhoff" timestamp="20170316T143506+0100" comment="{{Br. 72}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+          ankam. Er beruhigte mich nicht wenig, denn ich fing an zu vermuthen daß doch möglicher
+          Weise ein neuer Karbunkel <del> an Stelle <sic ana="#break-off"/></del> die Ursache des
+          hartnäckigen Schweigens sein könne. Halt’ Dich nur tüchtig an der Bewegung &amp; fahre
+          fort den Erzbischof in Canterbury per pedes zu besuchen, das wirds schon schließlich
+          ausrotten. Die Hauptsache bei dieser Geschichte wie sonst auch ist daß man die Langeweile
+          der <subst>
+            <del>Seestadt</del>
+            <add>Seeküste</add>
+          </subst> eben lange genug erträgt; wo möglich solltest Du den ganzen April dableiben,
+          damit der Kram gründlich kurirt wird.</p><p sameAs="MBTextmitEinzug">Eben kommt der alte <persName key="pdrPo.001.004.000002173">Hill</persName> &amp; stört mich. Ich muß also für
+                                        heute abbrechen. <seg type="comment"><orig>Inl. die
+                                                  £&#160;10.–</orig><note xml:id="e02e7f38-558c-4991-b0a9-c16a3f10abd1">Siehe <ref target="B00075/#start_cpt_5rt_4z">Marx
+                                                  an Engels,
+                                                  24.3.<?oxy_comment_start author="reichhoff" timestamp="20170415T104632+0200" comment="{{Br. 72. 88–89}}"?>1866<?oxy_comment_end?>.</ref></note></seg></p><p rend="MBTextMitEinzug">E/T 96 963. Manchester 20 Jan. 1865.</p><closer sameAs="MBUnterschrift"><salute>Dein <lb/></salute><signed>FEngels </signed></closer></div></body></text></TEI>

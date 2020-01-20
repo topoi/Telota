@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00178" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>173</idno>Wilhelm Liebknecht an Friedrich Engels in Manchester. Berlin, Montag, 1. Oktober 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 3430/L V 360</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen dünnem, blauen Papier im Format 284&#160;×&#160;225&#160;mm.
+                                                  Die ersten drei Seiten hat Liebknecht vollständig
+                                                  beschrieben, die vierte zur Hälfte.
+                                                  Schreibmaterial: schwarze Tinte. Auf Seite drei
+                                                  ist am rechten unteren Rand des Blattes ein Stück
+                                                  Papier abgerissen, der dadurch entstandene
+                                                  Textverlust  („Verte!“) konnte rekonstruiert
+                                                  werden.</p><p>Von unbekannter Hand: Numerierung der beschriebenen Seiten „7.“ bis „10.“</p><p>Die Beilage (Z.&#160;3) konnte nicht ermittelt werden.<?oxy_comment_start author="lindenberg" timestamp="20170424T170829+0200" comment="Die Beilage (Z. 3) konnte nicht ermittelt werden. [Im IISG nicht gefunden]"?>
+                                                  <?oxy_comment_end?></p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1675</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Liebknecht Bw (1963). S.&#160;76–78.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002822">Wilhelm Liebknecht</persName><placeName>Berlin</placeName><date when="1866-10-01"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:40:01Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                                <opener>
+                                        <dateline sameAs="MBDatumszeile"><pb/> Octbr. 1,
+                                                66.</dateline>
+                                        <salute sameAs="MBAnrede">Dear Engels!</salute>
+                                </opener>
+                                <p sameAs="MBTextohneEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_pgx_hcy_pz"/><orig>I enclose you a Prospectus of the
+                                                  Mitteldeutsche <bibl sameAs="zzMitteldeutsche Volks-Zeitung">Volkszeitung</bibl>.</orig><note xml:id="c584406c-2078-4416-8755-c18ba9b97eef">Zur
+                                                  <persName key="pdrPo.001.004.000002822">Liebknechts</persName> Absicht, eine Zeitung
+                                                  herauszugeben, siehe <ref target="B00107/#e33a4f20-560e-4751-bfa6-23082a56d336">Erl. zu W. Liebknecht an Marx, zwischen 8. und
+                                                  15.5.<?oxy_comment_start author="reichhoff" timestamp="20170519T122808+0200" comment="{{Erl. 103g}}"?>1866<?oxy_comment_end?>.</ref>
+                                                  Siehe auch <ref target="B00151">W. Liebknecht an
+                                                  Marx,
+                                                  10.8.<?oxy_comment_start author="reichhoff" timestamp="20170504T104004+0200" comment="{{Br. 147.2–15}}"?>1866<?oxy_comment_end?></ref>.
+                                                  Der beigelegte Prospekt der „Mitteldeutschen
+                                                  Volks-Zeitung“ (((zMitteldeutsche Volks-Zeitung)))
+                                                  konnte nicht ermittelt werden.</note></seg>
+                                        Originally this paper was founded 5&#160;years ago by
+                                        “honest democrats” (Confusionarii) became soon quite <seg type="comment"><orig>“Gothaic”</orig><note xml:id="a59684de-f3b7-4b37-8b1e-d579cdd4a04b">Siehe <ref target="B00116/#c0a50206-8d39-4240-add7-1df8139bd92d">Erl. zu W. Liebknecht an Marx,
+                                                  25.5.<?oxy_comment_start author="reichhoff" timestamp="20170519T123118+0200" comment="{{Erl. 112c}}"?>1866<?oxy_comment_end?>.</ref></note></seg>,
+                                        attacked us, and was attacked in return, had to be sold
+                                        because we had robbed it of almost all its Abonnenten, was
+                                        offered to me, bought by me (!!) and a friend as rich as I
+                                        for a trifle, and handed over to a committee, out of which
+                                        sprang the Share-company, that published the enclosed
+                                        prospectus. <seg type="comment"><orig>For one month I edited
+                                                  the paper with some success, until it was
+                                                  suppressed by the Prussians four weeks
+                                                  ago;</orig><note xml:id="f82e1f68-fa93-4096-97f3-15804babdd85">Die
+                                                  „Mitteldeutsche Volks-Zeitung“ (Leipzig)
+                                                  (((zMitteldeutsche Volks-Zeitung))) wurde am
+                                                  29.&#160;August 1866 von der preußischen
+                                                  Stadtkommandatur für zunächst vier Wochen
+                                                  verboten; siehe auch <ref target="B00107/#e33a4f20-560e-4751-bfa6-23082a56d336">Erl. zu W. Liebknecht an Marx, zwischen 8. und
+                                                  15.5.<?oxy_comment_start author="reichhoff" timestamp="20170519T122808+0200" comment="{{Erl. 103g}}"?>1866<?oxy_comment_end?></ref>.
+                                                  Sie Anfang Oktober 1866 erneut herauszugeben
+                                                  scheiterte.</note></seg> and now we are waiting
+                                        for the conclusion of peace, when it shall reappear
+                                        again.</p>
+                                <p sameAs="MBTextmitEinzug">The “Mitteldeutsche” will be an organ of
+                                        the <hi rendition="#u">International W.&#160;Ass.</hi> and
+                                                <hi rendition="#u">expects</hi> articles <hi rendition="#u">from you</hi> and <seg type="comment"><orig><hi rendition="#u">Williams</hi></orig><note xml:id="dba27732-8e28-4f9b-bca2-880eec96657f">Karl
+                                                  Marx.</note></seg>; and besides articles it
+                                        expects some <hi rendition="#u">more substantial assistance
+                                                in the form of shares</hi> and Abonnements. Please,
+                                        do what you can,—the more shares and subscriptions our party
+                                        takes, <pb/> the greater is my (and our) influence in the
+                                        direction of the paper.</p>
+                                <p sameAs="MBTextmitEinzug">As to the Abonnements I need hardly tell
+                                        you, that they have to be taken in England at the <hi rendition="#u">Post-office</hi>.</p>
+                                <p sameAs="MBTextmitEinzug">Please to send the prospectus <hi rendition="#uu">filled up</hi> to <hi rendition="#uu">me</hi>; <seg type="comment"><orig><expan resp="editor" sameAs="dottet_underline">Adv<ex>okat</ex></expan>
+                                                  Freytag</orig><note xml:id="c695f34b-a8ca-4725-9fba-0149bd9629c8"><persName key="ed_kft_qck_nz">Otto
+                                                  Freytag</persName>. </note></seg>, mentioned in
+                                        it, is overworked now, and has several cases of Cholera in
+                                        his house.<anchor type="verweisziel" xml:id="stop_pgx_hcy_pz"/></p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>I am at
+                                                  present in Berlin (since 3&#160;days) and shall
+                                                  stop till the 4<hi rendition="#sup">th</hi>&#160;inst.</orig><note xml:id="d3cd7232-86f4-4309-a619-7609ed71e384">Nach
+                                                  Verkündung einer Amnestie 1866 in Preußen,
+                                                  anlässlich des Sieges über Österreich, glaubte
+                                                  <persName key="pdrPo.001.004.000002822">Liebknecht</persName>, seine Ausweisung aus
+                                                  Preußen vom Sommer 1865 (siehe <ref target="B00011/#a4016170-75c2-4918-b14f-5981f8456429">Erl. zu Marx an W. Liebknecht,
+                                                  15.1.<?oxy_comment_start author="reichhoff" timestamp="20170519T123257+0200" comment="{{Erl. 10e}}"?>1866<?oxy_comment_end?></ref>)
+                                                  wäre hinfällig. Er war offen nach Berlin gekommen,
+                                                  aber am 2.&#160;Oktober 1866 nach einer
+                                                  Versammlung im Verein der Buchdruckergehilfen dort
+                                                  verhaftet und am 19.&#160;Oktober zu drei Monaten
+                                                  Gefängnis (bis 17.&#160;Januar 1867) verurteilt
+                                                  worden. Siehe Offizieller Bericht des Königlichen
+                                                  Polizeipräsidiums in Berlin an <persName key="pdrPo.001.004.000002819">Ernestine
+                                                  Liebknecht</persName> vom 15.&#160;Oktober 1866
+                                                  über die Verhaftung Liebknechts (RGASPI, Sign.
+                                                  f.&#160;200, op.&#160;3, d.&#160;23) und
+                                                  Offizieller Bericht des Stadtgerichts Berlin an
+                                                  Ernestine Liebknecht vom 15.&#160;Oktober 1866
+                                                  über die Verhaftung Liebknechts (IISG, Wilhelm
+                                                  Liebknecht-Nachlass, Sign.&#160;482).
+                                                  (((lOffizieller_Bericht des Königlichen
+                                                  Polizeipräsidiums in Berlin an Ernestine
+                                                  Liebknecht vom 15.&#160;Oktober 1866 über die
+                                                  Verhaftung Liebknechts (RGASPI, Sign. f.&#160;200,
+                                                  op.&#160;3, d.&#160;23) )))
+                                                  (((lOffizieller_Bericht des Stadtgerichts Berlin
+                                                  an Ernestine Liebknecht vom 15.&#160;Oktober 1866
+                                                  über die Verhaftung Liebknechts (IISG, Wilhelm
+                                                  Liebknecht-Nachlass, Sign.&#160;482) ))) Siehe
+                                                  <ref target="B00184/#start_ick_czb_5z">L.
+                                                  Kugelmann an Marx,
+                                                  11.10.<?oxy_comment_start author="reichhoff" timestamp="20170504T110810+0200" comment="{{Br._179.37–43}}"?>1866<?oxy_comment_end?></ref>,
+                                                  <ref target="B00195/#start_uhp_xny_nz">J. Ph.
+                                                  Becker an Marx,
+                                                  15.11.<?oxy_comment_start author="reichhoff" timestamp="20170504T111031+0200" comment="{{Br. 189.35–37}}"?>1866<?oxy_comment_end?></ref>,
+                                                  <ref target="B00200/#start_dms_4zb_5z">S. Meyer an
+                                                  Marx,
+                                                  3.12.<?oxy_comment_start author="reichhoff" timestamp="20170504T111306+0200" comment="{{Br._193.30–36}}"?>1866<?oxy_comment_end?></ref>
+                                                  und <ref target="B00206/#start_iry_wzb_5z">Marx an
+                                                  Engels,
+                                                  8.12.<?oxy_comment_start author="reichhoff" timestamp="20170504T111523+0200" comment="{{Br. 199.15–17}}"?>1866<?oxy_comment_end?></ref>.
+                                                  Siehe auch Bernstein: Geschichte der Berliner
+                                                  Arbeiter-Bewegung. Bd.&#160;1. S.&#160;151.
+                                                  (((lBernstein: Geschichte der Berliner
+                                                  Arbeiter-Bewegung. Bd.&#160;1.))) </note></seg>
+                                        Amongst the working classes there is good democratic
+                                        feeling, but the bourgeoisie is <hi rendition="#u">thoroughly corrupted</hi>. <seg type="comment"><orig><hi rendition="#u">Jacoby</hi></orig><note xml:id="bdec74d2-8d25-497d-8995-18a017c63ac9"><persName key="pdrPo.001.004.000002341">Johann
+                                                  Jacoby</persName>. </note></seg> owned that to me
+                                        yesterday, and I think he will <hi rendition="#u">quite</hi>
+                                        come round to us. <hi rendition="#u"><persName key="pdrPo.001.004.000001931">Groote</persName></hi> too, who is the best of the
+                                        whole lot , though a little narrow in his ideas; but full of
+                                        energy and—gall.</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Your 5&#160;£.
+                                                  note</orig><note xml:id="nqvy_1wr_3z">Über eine
+                                                  Zuwendung von Engels an <persName key="pdrPo.001.004.000002822">Liebknecht</persName> gibt es keine
+                                                  Anhaltspunkte. </note></seg> I had to use after
+                                        all, and could have used several more if I had had them.
+                                        From the moment I had to unfurl our banner here I was <pb/>
+                                        systematically deprived of all sources of existence; then
+                                        came <seg type="comment"><orig>the war crisis,</orig><note xml:id="d608c527-d4e6-45fd-9684-caf1784b3f09">Der
+                                                  sich abzeichnende Deutsche Krieg von
+                                                1866.</note></seg> and last not least the
+                                        suppression of the paper, which blow took <hi rendition="#u">every farthing</hi> from me; the shares not being
+                                        taken yet, and nobody having money enough to advance me my
+                                        salary. From this you see that if you send some money you
+                                        will oblige not only our “party” but also my own poor self,
+                                        at least to some extent. (Here I am as the guest of a <expan resp="editor" sameAs="dottet_underline">manufa<ex>c</ex>turer</expan>, who took me over
+                                        from Leipzig and will also pay the journey back. His name is
+                                                <persName key="ed_jkt_33k_nz">Schütte</persName>, 97
+                                        Ritterstr.)  The money invested in shares is <hi rendition="#u">not lost</hi>; we have already <hi rendition="#uu">1500</hi> subscribers, the number
+                                        was fast increasing when the paper was suppressed, and the
+                                        suppression has made us only the more popular. The “Caution”
+                                        of 2000 r<ex>eichstaler</ex>
+                                        <hi rendition="#u">is paid</hi>. In fact the <bibl sameAs="zzMitteldeutsche Volks-Zeitung">Mitteldeutsche</bibl> is not a sham but a reality,
+                                        and as <hi rendition="#u">all</hi> the noteworthy democrats
+                                        of Germany have promised their assistance I hope it will
+                                        become worthy of the principles I shall try to advocate in
+                                        it.</p>
+                                <p sameAs="MBTextmitEinzug">I am in a hurry. So excuse me.</p>
+                                <closer sameAs="MBUnterschrift">Your <hi rendition="#u">J. Miller,
+                                                10 Bayrische Strasse</hi><lb/><hi rendition="#u">Leipzig</hi>.</closer>
+                                <closer sameAs="MBUnterschrift"><supplied cert="high">Ve</supplied>rte! </closer>
+                                <postscript>
+                                        <p><pb/>
+                                                <seg type="comment"><orig>Won't you write anything
+                                                  about the war?</orig><note xml:id="bf57ea93-94c8-4aa8-bd69-2e0b30d12045">Engels schrieb zu Beginn des Deutschen Krieges im
+                                                  Juni/Juli 1866 die 5-teilige Artikelserie „Notes
+                                                  on the War“ für „The Manchester Guardian“ (MEGA²
+                                                  I/20. S.&#160;206–223). Siehe auch <ref target="B00125/#fea1b6e7-864d-4c78-ab8c-74c4578f26b2">Erl. zu H. M. Acton an Engels,
+                                                  18.6.<?oxy_comment_start author="reichhoff" timestamp="20170519T123557+0200" comment="{{Erl. 121a}}"?>1866<?oxy_comment_end?></ref>
+                                                  und <ref target="B00128/#nrl1_jnp_fz">Erl. zu Marx
+                                                  an Engels,
+                                                  20.6.<?oxy_comment_start author="reichhoff" timestamp="20170519T123744+0200" comment="{{Erl._124c}}"?>1866<?oxy_comment_end?>.</ref>
+                                                  (((l[Engels, Friedrich:] Notes on the war in
+                                                  Germany. No.&#160;I. In: The Manchester Guardian.
+                                                  Nr.&#160;6190, 20.&#160;Juni 1866. S.&#160;2/3;
+                                                  Notes on the war in Germany. No.&#160;II. Ebenda.
+                                                  Nr.&#160;6194, 25.&#160;Juni 1866. S.&#160;2/3;
+                                                  Notes on the war. No.&#160;III. Ebenda.
+                                                  Nr.&#160;6197, 28.&#160;Juni 1866. S.&#160;2/3;
+                                                  Notes on the war. No.&#160;IV. Ebenda.
+                                                  Nr.&#160;6201, 3.&#160;Juli 1866. S.&#160;6; Notes
+                                                  on the war. No.&#160;V. Ebenda. Nr.&#160;6204,
+                                                  6.&#160;Juli 1866. S.&#160;2/3. (MEGA² I/20.
+                                                  S.&#160;206–223.) )))</note></seg>——When will the
+                                                second Edition of <seg type="comment"><orig>your
+                                                  “Lage” appear?</orig><note xml:id="d84eca62-0b57-49fa-9b0e-881c61cdd394">Friedrich Engels: Die Lage der arbeitenden Klasse
+                                                  in England. Leipzig 1845. Die zweite deutsche
+                                                  Ausgabe erschien erst im Jahre 1892. Siehe auch
+                                                  <ref target="B00036/#ng5n_lfy_5y">Erl. zu Marx an
+                                                  Engels,
+                                                  10.2.<?oxy_comment_start author="reichhoff" timestamp="20170519T123953+0200" comment="{{Erl. 33d}}"?>1866<?oxy_comment_end?></ref><hi rend="bold">. </hi>(((lEngels,Friedrich:Die Lage
+                                                  der arbeitenden Klasse in England. Leipzig 1845)))
+                                                  (((lEngels,Friedrich:Die Lage der arbeitenden
+                                                  Klasse in England. Nach eigner Anschauung und
+                                                  authentischen Quellen. 2. durchges. Aufl.
+                                                  Stuttgart 1892)))</note></seg>— Could you not send
+                                                me your photograph?—</p>
+                                </postscript>
+                                <p sameAs="MBAdresse">Once more your<lb/>J. Miller<lb/>10 Bayrische
+                                        Strasse<lb/>Leipzig. </p>
+                        </div></body></text></TEI>

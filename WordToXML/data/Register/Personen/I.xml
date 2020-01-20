@@ -1,0 +1,1204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="mega_personenregister" xml:lang="de" xml:id="personI">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Gehört zur ediarum-App für eXist.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Hybrid: consult project description and document history for details.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="pdrPo.001.004.000002290">
+                    <idno type="mega">1013402</idno>
+                    <persName type="reg">
+                        <surname>Ibarnavarro</surname>
+                        <forename>Justo</forename>
+                    </persName>
+                    <note>spanischer Beamter, Richter</note>
+                    <linkGrp>
+                        <ptr target="IV/12#661" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002289">
+                    <idno type="mega">1013401</idno>
+                    <persName type="reg">
+                        <name>Ibañez</name>
+                    </persName>
+                    <note>spanischer Offizier; Karlist; hingerichtet</note>
+                    <linkGrp>
+                        <ptr target="IV/12#863" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010892">
+                    <idno type="mega">1013404</idno>
+                    <persName type="reg">
+                        <name>Ibeles, Hans</name>
+                    </persName>
+                    <note>Titelgestalt aus dem Buch von Johanna Kinkel „Hans Ibeles in London“, die Gottfried Kinkel darstellt</note>
+                    <linkGrp>
+                        <ptr target="III/11#358" type="page"/>
+                        <ptr target="III/11#371" type="page"/>
+                        <ptr target="III/11#423" type="page"/>
+                        <ptr target="III/11#1086" type="page"/>
+                        <ptr target="III/11#1158" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010786">
+                    <idno type="mega">1013408</idno>
+                    <persName type="reg">
+                        <surname>Ibn al-Awwam</surname>
+                        <forename>Abu Zakariya Yahya ibn Mohammed</forename>
+                    </persName>
+                    <note>hispano-arabischer Agronom; Autor einer umfangreichen Darstellung zur Landwirtschaft</note>
+                    <linkGrp>
+                        <ptr target="IV/12#748" type="page"/>
+                        <ptr target="IV/12#1412" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002291">
+                    <idno type="mega">1013414</idno>
+                    <persName type="reg">
+                        <name>Ibrahim Karabatir</name>
+                    </persName>
+                    <note>tscherkessischer Prinz, Sohn von Sefer Pascha; nahm an den Kriegen der Tscherkessen gegen Rußland teil</note>
+                    <linkGrp>
+                        <ptr target="III/9#135" type="page"/>
+                        <ptr target="III/9#806" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002292">
+                    <idno type="mega">1013416</idno>
+                    <persName type="reg">
+                        <name>Ibrahim Pascha</name>
+                    </persName>
+                    <birth>1789</birth>
+                    <death>1848</death>
+                    <note>ägyptischer Heerführer aus Makedonien, befehligte 1824–1827 die osmanischen Truppen gegen den griechischen Aufstand; Oberbefehlshaber des ägyptischen Heeres im Konflikt mit der Hohen Pforte (1831–1833, 1839–1841); als Adoptivsohn des Statthalters Mehmed Ali seit 1844 Mitregent, Juli–November 1848 Regent von Ägypten</note>
+                    <linkGrp>
+                        <ptr target="I/14#127" type="page"/>
+                        <ptr target="IV/12#108–110" type="page"/>
+                        <ptr target="IV/12#112" type="page"/>
+                        <ptr target="IV/12#116" type="page"/>
+                        <ptr target="IV/12#117" type="page"/>
+                        <ptr target="IV/12#131" type="page"/>
+                        <ptr target="IV/12#134" type="page"/>
+                        <ptr target="IV/12#149" type="page"/>
+                        <ptr target="IV/12#153" type="page"/>
+                        <ptr target="IV/12#171" type="page"/>
+                        <ptr target="IV/12#172" type="page"/>
+                        <ptr target="IV/12#195" type="page"/>
+                        <ptr target="IV/12#196" type="page"/>
+                        <ptr target="IV/12#200" type="page"/>
+                        <ptr target="IV/12#202–209" type="page"/>
+                        <ptr target="IV/12#213" type="page"/>
+                        <ptr target="IV/12#216" type="page"/>
+                        <ptr target="IV/12#217" type="page"/>
+                        <ptr target="IV/12#219–223" type="page"/>
+                        <ptr target="IV/12#228–233" type="page"/>
+                        <ptr target="IV/12#236" type="page"/>
+                        <ptr target="IV/12#238–240" type="page"/>
+                        <ptr target="IV/12#243" type="page"/>
+                        <ptr target="IV/12#251" type="page"/>
+                        <ptr target="IV/12#252" type="page"/>
+                        <ptr target="IV/12#254" type="page"/>
+                        <ptr target="IV/12#257" type="page"/>
+                        <ptr target="IV/12#305" type="page"/>
+                        <ptr target="IV/12#379" type="page"/>
+                        <ptr target="IV/12#1105" type="page"/>
+                        <ptr target="IV/12#1132–1134" type="page"/>
+                        <ptr target="IV/12#1140" type="page"/>
+                        <ptr target="IV/12#1174" type="page"/>
+                        <ptr target="IV/12#1178" type="page"/>
+                        <ptr target="IV/12#1179" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002293">
+                    <idno type="mega">1013418</idno>
+                    <persName type="reg">
+                        <surname>Ibsen</surname>
+                        <forename>Henrik</forename>
+                    </persName>
+                    <birth>1828</birth>
+                    <death>1906</death>
+                    <note>norwegischer Dichter und Dramatiker</note>
+                    <linkGrp>
+                        <ptr target="I/31#282" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002294">
+                    <idno type="mega">1013432</idno>
+                    <persName type="reg">
+                        <name>Iglesias</name>
+                    </persName>
+                    <note>Kunstschmied aus Madrid; als Milizionär von den Königlichen hingerichtet</note>
+                    <linkGrp>
+                        <ptr target="IV/12#820" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002295">
+                    <idno type="mega">1013433</idno>
+                    <persName type="reg">
+                        <surname>Iglesias Posse</surname>
+                        <forename>Pablo</forename>
+                    </persName>
+                    <birth>1850</birth>
+                    <death>1925</death>
+                    <note>spanischer Drucker; aktives Mitglied der Internationalen Arbeiterassoziation; 1879 Mitbegründer des Partido Socialista Obrero Español</note>
+                    <linkGrp>
+                        <ptr target="I/31#582" type="page"/>
+                        <ptr target="I/31#706" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010787">
+                    <idno type="mega">1013437</idno>
+                    <persName type="reg">
+                        <name>Ignatios&#160;I.</name>
+                    </persName>
+                    <note>Patriarch von Konstantinopel (847–858, seit 867)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#18" type="page"/>
+                        <ptr target="IV/12#20" type="page"/>
+                        <ptr target="IV/12#26" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010788">
+                    <idno type="mega">1013438</idno>
+                    <persName type="reg">
+                        <name>Ignatius von Loyola eigtl. Íñigo López Oñaz y Loyola</name>
+                    </persName>
+                    <birth>1491</birth>
+                    <death>1556</death>
+                    <note>katholischer Ordensgründer baskischer Herkunft; schuf 1540 den Jesuitenorden (Societas Jesu)und war seit 1541 dessen erster Generaloberer</note>
+                    <linkGrp>
+                        <ptr target="IV/12#1096" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002296">
+                    <idno type="mega">1013441</idno>
+                    <persName type="reg">
+                        <surname>Ihász</surname>
+                        <forename>Dániel</forename>
+                    </persName>
+                    <birth>1813</birth>
+                    <death>1881</death>
+                    <note>ungarischer Offizier; Teilnehmer an der Revolution von 1848/49 in Ungarn, danach Emigrant in England, den USA und Italien, 1861/1862 Teilnahme am Kampf für die Einigung Italiens; Gefährte Kossuths</note>
+                    <linkGrp>
+                        <ptr target="III/9#548" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002297">
+                    <idno type="mega">1013450</idno>
+                    <persName type="reg">
+                        <surname>Iliński</surname>
+                        <forename>Alexander</forename>
+                    </persName>
+                    <birth>1810</birth>
+                    <death>1861</death>
+                    <note>polnischer Militär; nahm 1848/49 an der Revolution in Ungarn teil; emigrierte in die Türkei; unter dem Namen Iskander Bei (Iskender Beg) 1853/54 General und Kommandierender der türkischen Truppen an der Donau, 1855 auf der Krim, 1855/56 im Kaukasus</note>
+                    <linkGrp>
+                        <ptr target="I/14#250" type="page"/>
+                        <ptr target="I/14#514" type="page"/>
+                        <ptr target="I/14#1190" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002298">
+                    <idno type="mega">1013451</idno>
+                    <persName type="reg">
+                        <surname>Illaire</surname>
+                        <forename>Ernst Emil</forename>
+                    </persName>
+                    <birth>1797</birth>
+                    <death>1866</death>
+                    <note>preußischer Beamter, Vertrauter von Friedrich Wilhelm&#160;IV.</note>
+                    <linkGrp>
+                        <ptr target="III/9#195" type="page"/>
+                        <ptr target="III/10#1031" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002300">
+                    <idno type="mega">1013460</idno>
+                    <persName type="reg">
+                        <surname>Imandt</surname>
+                        <forename>Carl</forename>
+                    </persName>
+                    <note>Sohn von Caspar Imandt, Neffe von Peter Imandt</note>
+                    <linkGrp>
+                        <ptr target="III/9#49" type="page"/>
+                        <ptr target="III/9#82" type="page"/>
+                        <ptr target="III/9#84" type="page"/>
+                        <ptr target="III/9#177" type="page"/>
+                        <ptr target="III/9#250" type="page"/>
+                        <ptr target="III/9#251" type="page"/>
+                        <ptr target="III/9#280" type="page"/>
+                        <ptr target="III/9#340" type="page"/>
+                        <ptr target="III/9#425" type="page"/>
+                        <ptr target="III/9#518" type="page"/>
+                        <ptr target="III/9#529" type="page"/>
+                        <ptr target="III/9#578" type="page"/>
+                        <ptr target="III/9#722" type="page"/>
+                        <ptr target="III/9#761–763" type="page"/>
+                        <ptr target="III/9#835" type="page"/>
+                        <ptr target="III/9#912" type="page"/>
+                        <ptr target="III/9#948" type="page"/>
+                        <ptr target="III/9#1007–1009" type="page"/>
+                        <ptr target="III/9#1086" type="page"/>
+                        <ptr target="III/9#1160" type="page"/>
+                        <ptr target="III/10#87" type="page"/>
+                        <ptr target="III/10#724" type="page"/>
+                        <ptr target="III/11#302" type="page"/>
+                        <ptr target="III/11#1037" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002301">
+                    <idno type="mega">1013461</idno>
+                    <persName type="reg">
+                        <surname>Imandt</surname>
+                        <forename>Caspar</forename>
+                    </persName>
+                    <birth>1815</birth>
+                    <death>1849</death>
+                    <note>deutscher Lehrer; Teilnehmer an der Revolution 1848/49; Bruder von Peter Imandt, Vater von Carl Imandt</note>
+                    <linkGrp>
+                        <ptr target="III/9#84" type="page"/>
+                        <ptr target="III/9#762" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002302">
+                    <idno type="mega">1013462</idno>
+                    <persName type="reg">
+                        <surname>Imandt</surname>
+                        <forename>Fanny</forename>
+                    </persName>
+                    <note>Tochter von Peter und Anna Imandt</note>
+                    <linkGrp>
+                        <ptr target="III/11#219" type="page"/>
+                        <ptr target="III/11#956" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002303">
+                    <idno type="mega">1013464</idno>
+                    <persName type="reg">
+                        <surname>Imandt</surname>
+                        <forename>Peter</forename>
+                    </persName>
+                    <birth>1823</birth>
+                    <death>1897</death>
+                    <note>deutscher Lehrer; Teilnehmer an der Revolution 1848/49, emigrierte nach deren Scheitern zunächst in die Schweiz, dann (nach seiner Ausweisung im März 1852) nach England; seit Juli 1852 Mitglied des Bundes der Kommunisten; seit 1855 Lehrer in Dundee; 1851/1852 Leiter der Genfer Gemeinde des Willich-Schapperschen Kommunistenbundes, ging nach seiner Ausweisung 1852 nach England</note>
+                    <linkGrp>
+                        <ptr target="III/9#49" type="page"/>
+                        <ptr target="III/9#82" type="page"/>
+                        <ptr target="III/9#83" type="page"/>
+                        <ptr target="III/9#84" type="page"/>
+                        <ptr target="III/9#176" type="page"/>
+                        <ptr target="III/9#177" type="page"/>
+                        <ptr target="III/9#180" type="page"/>
+                        <ptr target="III/9#237" type="page"/>
+                        <ptr target="III/9#250" type="page"/>
+                        <ptr target="III/9#251" type="page"/>
+                        <ptr target="III/9#279" type="page"/>
+                        <ptr target="III/9#280" type="page"/>
+                        <ptr target="III/9#292" type="page"/>
+                        <ptr target="III/9#339" type="page"/>
+                        <ptr target="III/9#340" type="page"/>
+                        <ptr target="III/9#402" type="page"/>
+                        <ptr target="III/9#405" type="page"/>
+                        <ptr target="III/9#424" type="page"/>
+                        <ptr target="III/9#425" type="page"/>
+                        <ptr target="III/9#432" type="page"/>
+                        <ptr target="III/9#438" type="page"/>
+                        <ptr target="III/9#518" type="page"/>
+                        <ptr target="III/9#529" type="page"/>
+                        <ptr target="III/9#578" type="page"/>
+                        <ptr target="III/9#584–587" type="page"/>
+                        <ptr target="III/9#608" type="page"/>
+                        <ptr target="III/9#612" type="page"/>
+                        <ptr target="III/9#613" type="page"/>
+                        <ptr target="III/9#645" type="page"/>
+                        <ptr target="III/9#646" type="page"/>
+                        <ptr target="III/9#653" type="page"/>
+                        <ptr target="III/9#722" type="page"/>
+                        <ptr target="III/9#761–763" type="page"/>
+                        <ptr target="III/9#835" type="page"/>
+                        <ptr target="III/9#838" type="page"/>
+                        <ptr target="III/9#899" type="page"/>
+                        <ptr target="III/9#912" type="page"/>
+                        <ptr target="III/9#913" type="page"/>
+                        <ptr target="III/9#946–948" type="page"/>
+                        <ptr target="III/9#952" type="page"/>
+                        <ptr target="III/9#1007–1009" type="page"/>
+                        <ptr target="III/9#1086–1089" type="page"/>
+                        <ptr target="III/9#1091" type="page"/>
+                        <ptr target="III/9#1093" type="page"/>
+                        <ptr target="III/9#1094" type="page"/>
+                        <ptr target="III/9#1160" type="page"/>
+                        <ptr target="III/9#1168" type="page"/>
+                        <ptr target="III/10#21" type="page"/>
+                        <ptr target="III/10#87" type="page"/>
+                        <ptr target="III/10#95" type="page"/>
+                        <ptr target="III/10#130" type="page"/>
+                        <ptr target="III/10#151" type="page"/>
+                        <ptr target="III/10#174" type="page"/>
+                        <ptr target="III/10#184" type="page"/>
+                        <ptr target="III/10#207" type="page"/>
+                        <ptr target="III/10#208" type="page"/>
+                        <ptr target="III/10#214" type="page"/>
+                        <ptr target="III/10#216" type="page"/>
+                        <ptr target="III/10#232" type="page"/>
+                        <ptr target="III/10#266" type="page"/>
+                        <ptr target="III/10#291" type="page"/>
+                        <ptr target="III/10#353" type="page"/>
+                        <ptr target="III/10#354" type="page"/>
+                        <ptr target="III/10#356" type="page"/>
+                        <ptr target="III/10#407" type="page"/>
+                        <ptr target="III/10#498" type="page"/>
+                        <ptr target="III/10#530" type="page"/>
+                        <ptr target="III/10#609" type="page"/>
+                        <ptr target="III/10#626" type="page"/>
+                        <ptr target="III/10#629" type="page"/>
+                        <ptr target="III/10#671" type="page"/>
+                        <ptr target="III/10#711" type="page"/>
+                        <ptr target="III/10#723" type="page"/>
+                        <ptr target="III/10#724" type="page"/>
+                        <ptr target="III/10#743" type="page"/>
+                        <ptr target="III/10#772" type="page"/>
+                        <ptr target="III/10#786" type="page"/>
+                        <ptr target="III/10#800" type="page"/>
+                        <ptr target="III/10#805" type="page"/>
+                        <ptr target="III/10#835" type="page"/>
+                        <ptr target="III/10#836" type="page"/>
+                        <ptr target="III/10#841" type="page"/>
+                        <ptr target="III/10#903" type="page"/>
+                        <ptr target="III/10#961" type="page"/>
+                        <ptr target="III/10#1011–1016" type="page"/>
+                        <ptr target="III/10#1024" type="page"/>
+                        <ptr target="III/10#1131" type="page"/>
+                        <ptr target="III/11#44" type="page"/>
+                        <ptr target="III/11#90–92" type="page"/>
+                        <ptr target="III/11#219" type="page"/>
+                        <ptr target="III/11#300–302" type="page"/>
+                        <ptr target="III/11#423" type="page"/>
+                        <ptr target="III/11#583–585" type="page"/>
+                        <ptr target="III/11#601" type="page"/>
+                        <ptr target="III/11#610" type="page"/>
+                        <ptr target="III/11#675" type="page"/>
+                        <ptr target="III/11#695" type="page"/>
+                        <ptr target="III/11#697" type="page"/>
+                        <ptr target="III/11#734" type="page"/>
+                        <ptr target="III/11#742" type="page"/>
+                        <ptr target="III/11#747" type="page"/>
+                        <ptr target="III/11#795" type="page"/>
+                        <ptr target="III/11#835" type="page"/>
+                        <ptr target="III/11#836" type="page"/>
+                        <ptr target="III/11#1036" type="page"/>
+                        <ptr target="III/11#1037" type="page"/>
+                        <ptr target="III/11#1312" type="page"/>
+                        <ptr target="III/11#1313" type="page"/>
+                        <ptr target="III/11#1327" type="page"/>
+                        <ptr target="III/11#1336" type="page"/>
+                        <ptr target="III/13#200" type="page"/>
+                        <ptr target="III/13#546" type="page"/>
+                        <ptr target="III/13#549" type="page"/>
+                        <ptr target="III/13#1058" type="page"/>
+                        <ptr target="III/13#1245" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010789">
+                    <idno type="mega">1013454</idno>
+                    <persName type="reg">
+                        <name>Imandt</name>
+                    </persName>
+                    <note>Ehefrau von Caspar Imandt, Mutter von Carl Imandt</note>
+                    <linkGrp>
+                        <ptr target="III/9#83" type="page"/>
+                        <ptr target="III/9#84" type="page"/>
+                        <ptr target="III/9#762" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010790">
+                    <idno type="mega">1013463</idno>
+                    <persName type="reg">
+                        <surname>Imandt</surname>
+                        <forename>Margaretha</forename>
+                    </persName>
+                    <note>Mutter von Peter und Caspar Imandt</note>
+                    <linkGrp>
+                        <ptr target="III/9#84" type="page"/>
+                        <ptr target="III/9#763" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002299">
+                    <idno type="mega">1013459</idno>
+                    <persName type="reg">
+                        <name>Imandt, Anna geb. Mackenzie</name>
+                    </persName>
+                    <note>seit Juli 1859 Ehefrau von Peter Imandt</note>
+                    <linkGrp>
+                        <ptr target="III/9#49" type="page"/>
+                        <ptr target="III/9#424" type="page"/>
+                        <ptr target="III/9#438" type="page"/>
+                        <ptr target="III/9#529" type="page"/>
+                        <ptr target="III/9#722" type="page"/>
+                        <ptr target="III/9#1086" type="page"/>
+                        <ptr target="III/9#1100" type="page"/>
+                        <ptr target="III/9#1160" type="page"/>
+                        <ptr target="III/9#1168" type="page"/>
+                        <ptr target="III/10#87" type="page"/>
+                        <ptr target="III/11#302" type="page"/>
+                        <ptr target="III/11#1037" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002304">
+                    <idno type="mega">1013466</idno>
+                    <persName type="reg">
+                        <surname>Imaz</surname>
+                        <forename>José de</forename>
+                    </persName>
+                    <note>spanischer General und Politiker; 1819, 1834 Finanzminister</note>
+                    <linkGrp>
+                        <ptr target="IV/12#463" type="page"/>
+                        <ptr target="IV/12#858" type="page"/>
+                        <ptr target="IV/12#1266" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002305">
+                    <idno type="mega">1013467</idno>
+                    <persName type="reg">
+                        <surname>Imbert</surname>
+                        <forename>Jacques</forename>
+                    </persName>
+                    <birth>1793</birth>
+                    <death>1851</death>
+                    <note>französischer Journalist, Sozialist; nahm 1834 am Lyoner Aufstand teil; in den 1840er Jahren Emigrant in Belgien, Vizepräsident der Association démocratique in Brüssel; nach der Februarrevolution 1848 Kommandant der Tuilerien</note>
+                    <linkGrp>
+                        <ptr target="III/10#346" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010791">
+                    <idno type="mega">1013469</idno>
+                    <persName type="reg">
+                        <name>Imhof, Anton Albrecht, Freiherr von</name>
+                    </persName>
+                    <note>sächsischer Minister und Diplomat</note>
+                    <linkGrp>
+                        <ptr target="IV/12#284" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002306">
+                    <idno type="mega">1013474</idno>
+                    <persName type="reg">
+                        <name>Imrefi eigtl. Imre Vahot</name>
+                    </persName>
+                    <note>(1820–1879) ungarischer Schriftsteller und Journalist</note>
+                    <linkGrp>
+                        <ptr target="IV/12#954" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002307">
+                    <idno type="mega">1013477</idno>
+                    <persName type="reg">
+                        <surname>Inama-Sternegg</surname>
+                        <forename>Karl Theodor von</forename>
+                    </persName>
+                    <birth>1843</birth>
+                    <death>1908</death>
+                    <note>deutscher Wirtschaftshistoriker und Statistiker, Vertreter der jüngeren Historischen Schule der deutschen Nationalökonomie</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000002308">
+                    <idno type="mega">1013479</idno>
+                    <persName type="reg">
+                        <surname>Inca Yupangui</surname>
+                        <forename>Dionisio</forename>
+                    </persName>
+                    <note>Abgeordneter der Cortes von Cádiz (1810–1813) für Peru</note>
+                    <linkGrp>
+                        <ptr target="IV/12#581" type="page"/>
+                        <ptr target="IV/12#1326" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010792">
+                    <idno type="mega">1013484</idno>
+                    <persName type="reg">
+                        <surname>Infantado</surname>
+                        <forename>duques del</forename>
+                    </persName>
+                    <note>spanische herzogliche Famile; Großgrundbesitzer</note>
+                    <linkGrp>
+                        <ptr target="IV/12#756" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002309">
+                    <idno type="mega">1013485</idno>
+                    <persName type="reg">
+                        <name>Infantado, Alcántara de Toledo, Pedro, duque del</name>
+                    </persName>
+                    <birth>1773</birth>
+                    <death>1841</death>
+                    <note>spanischer General und Politiker; 1823 Präsident des Regentschaftsrates, 1825/1826 Ministerpräsident</note>
+                    <linkGrp>
+                        <ptr target="IV/12#476" type="page"/>
+                        <ptr target="IV/12#485" type="page"/>
+                        <ptr target="IV/12#491" type="page"/>
+                        <ptr target="IV/12#497" type="page"/>
+                        <ptr target="IV/12#500" type="page"/>
+                        <ptr target="IV/12#501" type="page"/>
+                        <ptr target="IV/12#617" type="page"/>
+                        <ptr target="IV/12#618" type="page"/>
+                        <ptr target="IV/12#622" type="page"/>
+                        <ptr target="IV/12#646" type="page"/>
+                        <ptr target="IV/12#659" type="page"/>
+                        <ptr target="IV/12#671" type="page"/>
+                        <ptr target="IV/12#697" type="page"/>
+                        <ptr target="IV/12#767" type="page"/>
+                        <ptr target="IV/12#769" type="page"/>
+                        <ptr target="IV/12#798" type="page"/>
+                        <ptr target="IV/12#1274" type="page"/>
+                        <ptr target="IV/12#1341" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002310">
+                    <idno type="mega">1013486</idno>
+                    <persName type="reg">
+                        <surname>Infante</surname>
+                        <forename>Facundo</forename>
+                    </persName>
+                    <birth>1790</birth>
+                    <death>1873</death>
+                    <note>spanischer General und Politiker; 1841/1842 Innenminister</note>
+                    <linkGrp>
+                        <ptr target="IV/12#869" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002311">
+                    <idno type="mega">1013493</idno>
+                    <persName type="reg">
+                        <surname>Inglis</surname>
+                        <forename>Sir John Eardley Wilmot</forename>
+                    </persName>
+                    <birth>1814</birth>
+                    <death>1862</death>
+                    <note>britischer General; nahm an der Unterdrückung des indischen Aufstandes von 1857–1859 teil</note>
+                    <linkGrp>
+                        <ptr target="III/9#22" type="page"/>
+                        <ptr target="III/9#692" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002312">
+                    <idno type="mega">1013494</idno>
+                    <persName type="reg">
+                        <name>Inglis, Sir Robert Harry, 2nd Baronet</name>
+                    </persName>
+                    <birth>1786</birth>
+                    <death>1855</death>
+                    <note>britischer Politiker; Tory, Mitglied des Parlaments (1824–1853)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#127" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002313">
+                    <idno type="mega">1013496</idno>
+                    <persName type="reg">
+                        <surname>Ingram</surname>
+                        <forename>John Kells</forename>
+                    </persName>
+                    <birth>1823</birth>
+                    <death>1907</death>
+                    <note>britischer Ökonom und Lyriker</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000002314">
+                    <idno type="mega">1013497</idno>
+                    <persName type="reg">
+                        <surname>Inguanzo</surname>
+                        <forename>Pedro</forename>
+                    </persName>
+                    <birth>1764</birth>
+                    <death>1836</death>
+                    <note>spanischer Theologe und Politiker; Abgeordneter der Cortes von Cádiz (1810–1813), Kardinal und Erzbischof von Toledo (seit 1824)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#499" type="page"/>
+                        <ptr target="IV/12#689" type="page"/>
+                        <ptr target="IV/12#693" type="page"/>
+                        <ptr target="IV/12#787" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010793">
+                    <idno type="mega">1013507</idno>
+                    <persName type="reg">
+                        <name>Innozenz&#160;IX.</name>
+                    </persName>
+                    <birth>1519</birth>
+                    <death>1591</death>
+                    <note>Papst 1591</note>
+                    <linkGrp>
+                        <ptr target="IV/12#71" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010794">
+                    <idno type="mega">1013508</idno>
+                    <persName type="reg">
+                        <name>Innozenz&#160;X.</name>
+                    </persName>
+                    <birth>1574</birth>
+                    <death>1655</death>
+                    <note>Papst seit 1644</note>
+                    <linkGrp>
+                        <ptr target="IV/12#76" type="page"/>
+                        <ptr target="IV/12#83" type="page"/>
+                        <ptr target="IV/12#84" type="page"/>
+                        <ptr target="IV/12#1121" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010795">
+                    <idno type="mega">1013509</idno>
+                    <persName type="reg">
+                        <name>Innozenz&#160;XI.</name>
+                    </persName>
+                    <birth>1611</birth>
+                    <death>1689</death>
+                    <note>Papst seit 1676</note>
+                    <linkGrp>
+                        <ptr target="IV/12#263" type="page"/>
+                        <ptr target="IV/12#265" type="page"/>
+                        <ptr target="IV/12#1182" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010796">
+                    <idno type="mega">1013510</idno>
+                    <persName type="reg">
+                        <name>Innozenz&#160;XII.</name>
+                    </persName>
+                    <birth>1615</birth>
+                    <death>1700</death>
+                    <note>Papst seit 1691</note>
+                    <linkGrp>
+                        <ptr target="IV/12#263" type="page"/>
+                        <ptr target="IV/12#273" type="page"/>
+                        <ptr target="IV/12#1185" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010797">
+                    <idno type="mega">1013511</idno>
+                    <persName type="reg">
+                        <name>Innozenz&#160;XIII.</name>
+                    </persName>
+                    <birth>1655</birth>
+                    <death>1724</death>
+                    <note>Papst seit 1721</note>
+                    <linkGrp>
+                        <ptr target="IV/12#289" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010798">
+                    <idno type="mega">1013515</idno>
+                    <persName type="reg">
+                        <name>Ioannes&#160;VIII. Palaiologos</name>
+                    </persName>
+                    <birth>1392</birth>
+                    <death>1448</death>
+                    <note>byzantinischer Kaiser (seit 1425)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#19" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010799">
+                    <idno type="mega">1013521</idno>
+                    <persName type="reg">
+                        <name>Iov</name>
+                    </persName>
+                    <note>erster Patriarch von Moskau und ganz Rußland (1589–1605); Metropolit von Moskau (seit 1586)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#21" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002315">
+                    <idno type="mega">1013522</idno>
+                    <persName type="reg">
+                        <name>Iovanovic, Vladimir (Іовановић)</name>
+                    </persName>
+                    <birth>1833</birth>
+                    <death>1922</death>
+                    <note>serbischer Publizist und Politiker</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000010893">
+                    <idno type="mega">1013525</idno>
+                    <persName type="reg">
+                        <name>Iphigenie</name>
+                    </persName>
+                    <note>in der griechischen Mythologie Tochter des Königs Agamemnon; Titelgestalt in Tragödien von Euripides und Goethe</note>
+                    <linkGrp>
+                        <ptr target="I/14#583" type="page"/>
+                        <ptr target="I/14#597" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002317">
+                    <idno type="mega">1013533</idno>
+                    <persName type="reg">
+                        <surname>Iriarte</surname>
+                        <forename>Martín José de</forename>
+                    </persName>
+                    <birth>1803</birth>
+                    <death>1872</death>
+                    <note>spanischer Militär</note>
+                    <linkGrp>
+                        <ptr target="IV/12#416" type="page"/>
+                        <ptr target="IV/12#450" type="page"/>
+                        <ptr target="IV/12#858" type="page"/>
+                        <ptr target="IV/12#865" type="page"/>
+                        <ptr target="IV/12#872" type="page"/>
+                        <ptr target="IV/12#873" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002318">
+                    <idno type="mega">1013540</idno>
+                    <persName type="reg">
+                        <surname>Irwin</surname>
+                        <forename>Henry Crossley</forename>
+                    </persName>
+                    <birth>1848</birth>
+                    <death>1925</death>
+                    <note>britischer Kolonialbeamter und Schriftsteller</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000002316">
+                    <idno type="mega">1013527</idno>
+                    <persName type="reg">
+                        <name>Irányi, Daniel eigtl. Halbschuh</name>
+                    </persName>
+                    <birth>1822</birth>
+                    <death>1892</death>
+                    <note>ungarischer Politiker, Publizist; Teilnehmer an der Revolution von 1848/49 in Ungarn; emigrierte 1850 über die Schweiz nach Frankreich, lebte in Paris, ab 1861 in Turin; 1868 Rückkehr nach Ungarn</note>
+                    <linkGrp>
+                        <ptr target="III/9#548" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="ed_xps_dzt_cz">
+                    <persName type="reg">
+                        <surname>Isaak</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Gestalt aus der Bibel</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000010800">
+                    <idno type="mega">1013547</idno>
+                    <persName type="reg">
+                        <name>Isabel de Portugal</name>
+                    </persName>
+                    <birth>1431</birth>
+                    <death>1496</death>
+                    <note>Königin von Kastilien, Gemahlin Juans&#160;II von Aragón</note>
+                    <linkGrp>
+                        <ptr target="IV/12#421" type="page"/>
+                        <ptr target="IV/12#1256" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010801">
+                    <idno type="mega">1013548</idno>
+                    <persName type="reg">
+                        <name>Isabel de Portugal</name>
+                    </persName>
+                    <birth>1503</birth>
+                    <death>1539</death>
+                    <note>Königin von Spanien, erste Gemahlin von König Carlos&#160;I, dem späteren römisch-deutschen Kaiser Karl&#160;V.</note>
+                    <linkGrp>
+                        <ptr target="IV/12#509" type="page"/>
+                        <ptr target="IV/12#1282" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002319">
+                    <idno type="mega">1013546</idno>
+                    <persName type="reg">
+                        <name>Isabella&#160;II</name>
+                    </persName>
+                    <birth>1830</birth>
+                    <death>1904</death>
+                    <note>Tochter Fernandos&#160;VII und der Maria Cristina; Königin von Spanien (1833/1843–1868)</note>
+                    <linkGrp>
+                        <ptr target="I/14#1120" type="page"/>
+                        <ptr target="I/14#1121" type="page"/>
+                        <ptr target="III/13#463" type="page"/>
+                        <ptr target="III/13#1166" type="page"/>
+                        <ptr target="IV/12#165" type="page"/>
+                        <ptr target="IV/12#399" type="page"/>
+                        <ptr target="IV/12#400" type="page"/>
+                        <ptr target="IV/12#401" type="page"/>
+                        <ptr target="IV/12#412" type="page"/>
+                        <ptr target="IV/12#418–420" type="page"/>
+                        <ptr target="IV/12#427" type="page"/>
+                        <ptr target="IV/12#444" type="page"/>
+                        <ptr target="IV/12#452" type="page"/>
+                        <ptr target="IV/12#453" type="page"/>
+                        <ptr target="IV/12#822" type="page"/>
+                        <ptr target="IV/12#836" type="page"/>
+                        <ptr target="IV/12#837" type="page"/>
+                        <ptr target="IV/12#855–859" type="page"/>
+                        <ptr target="IV/12#861" type="page"/>
+                        <ptr target="IV/12#864" type="page"/>
+                        <ptr target="IV/12#865" type="page"/>
+                        <ptr target="IV/12#869" type="page"/>
+                        <ptr target="IV/12#870" type="page"/>
+                        <ptr target="IV/12#873" type="page"/>
+                        <ptr target="IV/12#877" type="page"/>
+                        <ptr target="IV/12#883" type="page"/>
+                        <ptr target="IV/12#888" type="page"/>
+                        <ptr target="IV/12#890" type="page"/>
+                        <ptr target="IV/12#891" type="page"/>
+                        <ptr target="IV/12#894" type="page"/>
+                        <ptr target="IV/12#897" type="page"/>
+                        <ptr target="IV/12#898" type="page"/>
+                        <ptr target="IV/12#900" type="page"/>
+                        <ptr target="IV/12#928" type="page"/>
+                        <ptr target="IV/12#937–939" type="page"/>
+                        <ptr target="IV/12#1109" type="page"/>
+                        <ptr target="IV/12#1222" type="page"/>
+                        <ptr target="IV/12#1223" type="page"/>
+                        <ptr target="IV/12#1247" type="page"/>
+                        <ptr target="IV/12#1248" type="page"/>
+                        <ptr target="IV/12#1252–1255" type="page"/>
+                        <ptr target="IV/12#1258" type="page"/>
+                        <ptr target="IV/12#1264" type="page"/>
+                        <ptr target="IV/12#1429" type="page"/>
+                        <ptr target="IV/12#1434" type="page"/>
+                        <ptr target="IV/12#1447" type="page"/>
+                        <ptr target="IV/12#1448" type="page"/>
+                        <ptr target="IV/12#1452" type="page"/>
+                        <ptr target="IV/12#1453" type="page"/>
+                        <ptr target="IV/12#1457" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010802">
+                    <idno type="mega">1013545</idno>
+                    <persName type="reg">
+                        <surname>Isabel&#160;I</surname>
+                        <forename>la Católica</forename>
+                    </persName>
+                    <birth>1451</birth>
+                    <death>1504</death>
+                    <note>gemeinsam mit ihrem Gemahl (seit 1469) Fernando&#160;V Königin von Kastilien (seit 1474) und Aragón (seit 1479)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#66" type="page"/>
+                        <ptr target="IV/12#67" type="page"/>
+                        <ptr target="IV/12#68" type="page"/>
+                        <ptr target="IV/12#402" type="page"/>
+                        <ptr target="IV/12#421" type="page"/>
+                        <ptr target="IV/12#507" type="page"/>
+                        <ptr target="IV/12#749" type="page"/>
+                        <ptr target="IV/12#1249" type="page"/>
+                        <ptr target="IV/12#1263" type="page"/>
+                        <ptr target="IV/12#1281" type="page"/>
+                        <ptr target="IV/12#1282" type="page"/>
+                        <ptr target="IV/12#1379" type="page"/>
+                        <ptr target="IV/12#1412" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002320">
+                    <idno type="mega">1013567</idno>
+                    <persName type="reg">
+                        <name>Isaev, Andrej Alekseevič (Исаевъ)</name>
+                    </persName>
+                    <birth>1851</birth>
+                    <death>1924</death>
+                    <note>russischer Ökonom, Jurist und Statistiker</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000010894">
+                    <idno type="mega">1013571</idno>
+                    <persName type="reg">
+                        <name>Isaschar</name>
+                    </persName>
+                    <note>in der Bibel der neunte von zwölf Söhnen des Patriarchen Jakob und damit Ahne einer der zwölf Stämme Israels</note>
+                    <linkGrp>
+                        <ptr target="I/14#422" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010803">
+                    <idno type="mega">1013576</idno>
+                    <persName type="reg">
+                        <name>Isidor</name>
+                    </persName>
+                    <birth>1380</birth>
+                    <death>1463</death>
+                    <note>griechischer Theologe; Metropolit von Kiev und ganz Rußland (1437–1441); Anhänger der Kirchenunion mit Rom</note>
+                    <linkGrp>
+                        <ptr target="IV/12#21" type="page"/>
+                        <ptr target="IV/12#1097" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010804">
+                    <idno type="mega">1013577</idno>
+                    <persName type="reg">
+                        <name>Isidor von Sevilla</name>
+                    </persName>
+                    <note>spanischer Bischof und Kirchenlehrer; Erzbischof von Sevilla (seit 600)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#505" type="page"/>
+                        <ptr target="IV/12#688" type="page"/>
+                        <ptr target="IV/12#1280" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002321">
+                    <idno type="mega">1013590</idno>
+                    <persName type="reg">
+                        <name>Ismail Pascha</name>
+                    </persName>
+                    <birth>1830</birth>
+                    <death>1895</death>
+                    <note>erblicher Statthalter (Chediv) von Ägypten (1867–1879)</note>
+                    <linkGrp>
+                        <ptr target="I/31#652" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010805">
+                    <idno type="mega">1013594</idno>
+                    <persName type="reg">
+                        <name>Isokrates</name>
+                    </persName>
+                    <note>griechischer Redner und Publizist; propagierte den Zusammenschluß der griechischen Staaten zum Krieg gegen das Perserreich</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000002322">
+                    <idno type="mega">1013596</idno>
+                    <persName type="reg">
+                        <name>Isquierdo</name>
+                    </persName>
+                    <note>spanischer Diplomat; 1807 Generalkonsul in Paris</note>
+                    <linkGrp>
+                        <ptr target="IV/12#632" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002323">
+                    <idno type="mega">1013600</idno>
+                    <persName type="reg">
+                        <surname>Istúriz</surname>
+                        <forename>Francisco Javier de</forename>
+                    </persName>
+                    <birth>1790</birth>
+                    <death>1871</death>
+                    <note>spanischer Politiker; Liberaler; 1823 Präsident der Cortes, Ministerpräsident (1836, 1846 und 1858)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#417" type="page"/>
+                        <ptr target="IV/12#425" type="page"/>
+                        <ptr target="IV/12#501" type="page"/>
+                        <ptr target="IV/12#838" type="page"/>
+                        <ptr target="IV/12#859" type="page"/>
+                        <ptr target="IV/12#896–898" type="page"/>
+                        <ptr target="IV/12#908" type="page"/>
+                        <ptr target="IV/12#926" type="page"/>
+                        <ptr target="IV/12#927" type="page"/>
+                        <ptr target="IV/12#938" type="page"/>
+                        <ptr target="IV/12#1254" type="page"/>
+                        <ptr target="IV/12#1449" type="page"/>
+                        <ptr target="IV/12#1450" type="page"/>
+                        <ptr target="IV/12#1457" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002324">
+                    <idno type="mega">1013603</idno>
+                    <persName type="reg">
+                        <surname>Iturbe</surname>
+                        <forename>José Ignacio de</forename>
+                    </persName>
+                    <note>spanischer Militär; General der Karlisten</note>
+                    <linkGrp>
+                        <ptr target="IV/12#864" type="page"/>
+                        <ptr target="IV/12#916" type="page"/>
+                        <ptr target="IV/12#917" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010806">
+                    <idno type="mega">1013605</idno>
+                    <persName type="reg">
+                        <name>Ituriaga</name>
+                    </persName>
+                    <note>spanischer Militär; General der Karlisten</note>
+                    <linkGrp>
+                        <ptr target="IV/12#916" type="page"/>
+                        <ptr target="IV/12#917" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002325">
+                    <idno type="mega">1013606</idno>
+                    <persName type="reg">
+                        <surname>Iturrigaray</surname>
+                        <forename>José de</forename>
+                    </persName>
+                    <birth>1742</birth>
+                    <death>1815</death>
+                    <note>spanischer Militär und Politiker; Vizekönig von Neuspanien (1803–1808)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#1348" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002326">
+                    <idno type="mega">1013608</idno>
+                    <persName type="reg">
+                        <name>Itzenplitz, Heinrich Friedrich August, Graf von</name>
+                    </persName>
+                    <birth>1799</birth>
+                    <death>1883</death>
+                    <note>preußischer Staatsmann, Handelsminister (1862–1873)</note>
+                    <linkGrp>
+                        <ptr target="III/13#237" type="page"/>
+                        <ptr target="III/13#927" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010268">
+                    <idno type="mega">1004361</idno>
+                    <persName type="reg">
+                        <surname>Iulius Caesar</surname>
+                        <forename>Gaius</forename>
+                    </persName>
+                    <note>römischer Staatsmann, Feldherr und Schriftsteller</note>
+                    <linkGrp>
+                        <ptr target="III/9#11" type="page"/>
+                        <ptr target="III/9#622" type="page"/>
+                        <ptr target="III/9#966" type="page"/>
+                        <ptr target="III/13#384" type="page"/>
+                        <ptr target="III/13#530" type="page"/>
+                        <ptr target="III/13#1165" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010807">
+                    <idno type="mega">1013618</idno>
+                    <persName type="reg">
+                        <surname>Iulius Caesar</surname>
+                        <forename>Gaius</forename>
+                    </persName>
+                    <note>römischer Staatsmann, Feldherr und Schriftsteller</note>
+                    <linkGrp>
+                        <ptr target="IV/12#391" type="page"/>
+                        <ptr target="IV/12#569" type="page"/>
+                        <ptr target="IV/12#746" type="page"/>
+                        <ptr target="IV/12#1354" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010808">
+                    <idno type="mega">1013624</idno>
+                    <persName type="reg">
+                        <name>Iupiter</name>
+                    </persName>
+                    <note>höchster römischer Gott, Beherrscher des Himmels</note>
+                    <linkGrp>
+                        <ptr target="III/13#147" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010809">
+                    <idno type="mega">1013625</idno>
+                    <persName type="reg">
+                        <name>Iustinianus I.</name>
+                    </persName>
+                    <note>oströmischer Kaiser (seit 527)</note>
+                    <linkGrp>
+                        <ptr target="III/11#1335" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010810">
+                    <idno type="mega">1013626</idno>
+                    <persName type="reg">
+                        <surname>Iustinus</surname>
+                        <forename>Marcus Iunianus</forename>
+                    </persName>
+                    <note>römischer Schriftsteller</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000010811">
+                    <idno type="mega">1013627</idno>
+                    <persName type="reg">
+                        <surname>Iuvenalis</surname>
+                        <forename>Decimus Iunius</forename>
+                    </persName>
+                    <note>römischer Satirendichter und Redner</note>
+                    <linkGrp>
+                        <ptr target="I/14#1318" type="page"/>
+                        <ptr target="III/9#322" type="page"/>
+                        <ptr target="III/9#514" type="page"/>
+                        <ptr target="III/9#986" type="page"/>
+                        <ptr target="III/9#1157" type="page"/>
+                        <ptr target="III/11#598" type="page"/>
+                        <ptr target="III/11#1324" type="page"/>
+                        <ptr target="III/13#385" type="page"/>
+                        <ptr target="III/13#1088" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010812">
+                    <idno type="mega">1013629</idno>
+                    <persName type="reg">
+                        <name>Ivan&#160;III Vasil’evič</name>
+                    </persName>
+                    <birth>1440</birth>
+                    <death>1505</death>
+                    <note>Großfürst von Moskau (seit 1462)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#21" type="page"/>
+                        <ptr target="IV/12#66" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010813">
+                    <idno type="mega">1013630</idno>
+                    <persName type="reg">
+                        <name>Ivan&#160;IV Vasil’evič</name>
+                    </persName>
+                    <birth>1530</birth>
+                    <death>1584</death>
+                    <note>Großfürst von Moskau (seit 1533), erster Zar von Rußland (seit 1547)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#72" type="page"/>
+                        <ptr target="IV/12#73" type="page"/>
+                        <ptr target="IV/12#1119" type="page"/>
+                        <ptr target="IV/12#1182" type="page"/>
+                        <ptr target="I/31#987" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010814">
+                    <idno type="mega">1013631</idno>
+                    <persName type="reg">
+                        <name>Ivan&#160;V</name>
+                    </persName>
+                    <birth>1666</birth>
+                    <death>1696</death>
+                    <note>älterer Halbbruder Petrs&#160;I; gemeinsam mit diesem 1682–1689, unter Vormundschaft seiner Schwester Sof’ja Alekseevna für beide, Zar von Rußland, nach deren Sturz nomineller Mitregent</note>
+                    <linkGrp>
+                        <ptr target="IV/12#263" type="page"/>
+                        <ptr target="IV/12#1182" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010815">
+                    <idno type="mega">1013632</idno>
+                    <persName type="reg">
+                        <name>Ivan&#160;VI</name>
+                    </persName>
+                    <birth>1740</birth>
+                    <death>1764</death>
+                    <note>Kaiser von Rußland (1740/1741) unter der Regentschaft seiner Mutter Anna Leopol’dovna</note>
+                    <linkGrp>
+                        <ptr target="IV/12#293" type="page"/>
+                        <ptr target="IV/12#1189" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002327">
+                    <idno type="mega">1013659</idno>
+                    <persName type="reg">
+                        <name>Iznardi, Angel genannt Pseudonym Darsino Daltico</name>
+                    </persName>
+                    <note>spanischer Journalist und Politiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#455" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002328">
+                    <idno type="mega">1013660</idno>
+                    <persName type="reg">
+                        <name>Izquierdo</name>
+                    </persName>
+                    <note>spanischer Botaniker und Beamter; 1808 Direktor des Botanischen Gartens in Madrid</note>
+                    <linkGrp>
+                        <ptr target="IV/12#703" type="page"/>
+                    </linkGrp>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

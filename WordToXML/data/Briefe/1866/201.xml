@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00208" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>201</idno>Karl Marx an Friedrich Engels in Manchester. London, Montag, 17. Dezember 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4468/I VI 601</idno></idno></msIdentifier><physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            222&#160;×&#160;178&#160;mm. Prägung: eine Krone auf dem Schild. Marx
+                            hat die erste und dritte Seite vollständig beschrieben, die zweite und
+                            vierte sind leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand:
+                            Numerierung  der beschriebenen Seiten: „61,1“ bzw.
+                            „61,2“.<?oxy_comment_start author="lindenberg" timestamp="20170425T100342+0200" comment="Von Eduard Bernsteins Hand: Numerierung des Briefes bzw. der beschriebenen Seiten: „61,1“ bzw. „61,2“."?></p>
+                        <?oxy_comment_end?>
+                        <p>Marx beantwortet den Brief von Engels vom 14.&#160;Dezember 1866
+                            (Br.&#160;200). Engels' Antwort erfolgte am 21.&#160;Dezember 1866
+                            (Br.&#160;203).</p>
+                    </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2008</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;357/358.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-12-17"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:40:19Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 17 Dec. 1866.</dateline><salute sameAs="MBAnrede">Dear Fred,</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Thanks for the £.&#160;10.</orig><note xml:id="ca21fe74-a957-44cc-87e7-2023221ae82f">Siehe <ref target="B00207">Engels an Marx,
+                                14.12.<?oxy_comment_start author="reichhoff" timestamp="20170522T153744+0200" comment="{{Br. 200}}"?>1866<?oxy_comment_end?>.</ref></note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Was den <persName key="pdrPo.001.004.000011456">Rode</persName> angeht, so hat er die
+                            Manie politischer Verbindungen u. Wichtigthuerei.</orig><note xml:id="nodr_zdp_kz">Siehe <ref target="B00207/#start_tyg_mss_5z">Engels
+                                an Marx,
+                                14.12.<?oxy_comment_start author="reichhoff" timestamp="20170506T182519+0200" comment="{{Br. 200.10–20}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    Da diese Manie Dir lästig – u. justly so – so schreib ihm bei der nächsten
+                    Gelegenheit, daß Du nicht die Ehre hast ihn zu kennen u. Dir dergleichen
+                    liberties verbittest.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Die „Revue des deux <bibl sameAs="zzRevue des deux Mondes">Mondes“</bibl> u. „Revue <bibl sameAs="zzRevue Contemporaine">Contemporaine“</bibl> hatten zwei
+                            ausführliche Artikel über die „International“, worin sie u. ihr Congreß
+                            als eins der bedeutendsten Ereignisse des Jahrhunderts behandelt
+                            wird.</orig><note xml:id="nzr4_32p_kz">Louis Reybaud: L’Économie
+                            politique des ouvriers. In: Revue des deux Mondes. Paris. T. 66, 1.
+                            November 1866. S. 202–219; (((lReybaud,_Louis: L’Économie politique des
+                            ouvriers. In: Revue des deux Mondes. Paris. T. 66, 1. November 1866. S.
+                            202–219))) Jules Émile Alaux: Le Congrès ouvrier de Genève. In: Revue
+                            contemporaine. Paris. 2. sér. T. 53, 15. Oktober 1866. S. 353–382.
+                            [U.d.T.:] Une forme nouvelle du socialisme. (((lAlaux,_Jules Émile: Le
+                            Congrès ouvrier de Genève. In: Revue contemporaine. Paris. 2. sér. T.
+                            53, 15. Oktober 1866. S. 353–382. [U.d.T.:] Une forme nouvelle du
+                            socialisme))) - Marx berichtete darüber auf der Sitzung des Generalrats
+                            der IAA am 18. Dezember 1866 (siehe Minutes of the General Council
+                            1866/1867. In: MEGA²_I/20. S. 517.23–518.3). (((lMinutes of the General
+                            Council 1866/1867. In: MEGA²_I/20. S._477–591))</note></seg> In Folge
+                    dessen <seg type="comment"><orig>ähnlich in der „Fortnightly <bibl sameAs="zzThe Fortnightly Review">Review“</bibl>.</orig><note xml:id="namc_gfp_kz">Ebenda. S. 518.3–4. A study of history … In: The
+                            Fortnightly Review. London. Nr. 37, 1. Dezember 1866. S. 390/391.
+                            Rubrik: Farewell causerie. (((lA study of history … In: The Fortnightly
+                            Review. London. Nr. 37, 1. Dezember 1866. S. 390/391.</note></seg>
+                    Unterdeß sind wir faktisch gelähmt by Want of Funds u. selbst of men, indem <seg type="comment"><orig>alle Engländer durch das Reform movement ganz absorbirt
+                            sind.</orig><note xml:id="d384d00e-db98-4062-aa0b-70f16bd45a74">Hinweis
+                            auf die breite Bewegung für eine zweite, 1867 in Kraft getretene
+                            Wahlrechtsreform (Second Reform Act 1867).</note></seg>
+                    <seg type="comment"><orig>Die französische Regierung (heureusement) fängt an uns
+                            feindlich zu behandeln.</orig><note xml:id="a57fca8e-5303-47eb-90e4-671f35156a3c">Marx bezieht sich auf die
+                            Beschlagnahme von Dokumenten der IAA an der französischen Grenze im
+                            September 1866 (siehe <ref target="B00195/#nwg4_qr1_kz">Erl. zu J. Ph.
+                                Becker an Marx,
+                                15.11.<?oxy_comment_start author="reichhoff" timestamp="20170519T134529+0200" comment="{{Erl. 189p}}"?>1866<?oxy_comment_end?></ref>).</note></seg>
+                    <seg type="comment"><orig>Eine unsrer zweideutigen Acquisitions</orig><note xml:id="nvm3_wfp_kz">Diese Nachricht stammte von <persName key="ed_erg_rjw_wx">Cesare Orsini</persName>, der sich mehrere
+                            Monate in USA aufgehalten hatte. Siehe<ref target="B00201/#nmzd_qs3_kz">
+                                Erl. zu C. Orsini an Marx, 4.12.1866
+                            </ref><?oxy_comment_start author="reichhoff" timestamp="20170519T134707+0200" comment="{{Erl. 194a}} "?>und<?oxy_comment_end?>
+                            das Sitzungsprokoll vom 4.&#160;Dezember 1866 (Minutes of the General
+                            Council 1866/1867. In: MEGA²&#160;I/20. S.&#160;512.33–513.5).
+                            (((lMinutes of the General Council 1866/1867. In: MEGA²&#160;I/20.
+                            S._477–591))</note></seg> war der Eintritt (at New york) von <seg type="comment"><orig>headcentre <persName key="ed_wgw_lym_mz">Stephens</persName>.</orig><note xml:id="nam4_yfp_kz">Gemäß der
+                            Gliederung der Bruderschaft das Hauptzentrum der Fenier in Irland,
+                            welches dem dortigen Führer, <persName key="ed_wgw_lym_mz">James
+                                Stephens</persName>, unterstand. Er war Ende 1865 in Irland
+                            verhaftet worden, entfloh und emigrierte in die USA.</note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>War die Allocution des <persName key="pdrPo.001.004.000003745">Pabstes</persName> an die franz.
+                            officers nicht famos? Nur ein italienischer Priester konnte dem
+                                <persName key="pdrPo.001.004.000003392">Bonaparte</persName> unter
+                            der Form von blessing solche Fußtritte vor ganz Europa
+                            geben.</orig><note xml:id="nvnm_3gp_kz">Päpstliche Ansprache bei der
+                            sich <persName key="pdrPo.001.004.000003745">Pius IX.</persName>  im
+                            Dezember 1866 gegen eine Eingliederung des Kirchenstaates in das
+                            Königreich Italien gewandt hatte. Siehe Within five days … [Leitart.]
+                            In: The Times. London. Nr._25 674, 6._Dezember 1866. S._8; The
+                            evacuation of Rome by the French troops, …[ Leitart.] In: The Times.
+                            London. Nr._25 678, 11._Dezember 1866. S._6; The anticipations of the
+                            world … [Leitart.] In: The Times. London. Nr._25 680, 13._Dezember 1866.
+                            S._6. (((lWithin five days … [Leitart.] In: The Times. London. Nr._25
+                            674, 6._Dezember 1866. S._8))) (((lThe evacuation of Rome by the French
+                            troops, …[ Leitart.] In: The Times. London. Nr._25 678, 11._Dezember
+                            1866. S._6))) (((lThe anticipations of the world … [Leitart.] In: The
+                            Times. London. Nr._25 680, 13._Dezember 1866. S._6)))</note></seg></p><p sameAs="MBTextmitEinzug">Es ist höchst charakteristisch für den <seg type="comment"><orig>status
+                            rerum</orig><note xml:id="b0766ca8-5731-46c4-a4ff-c182af3fca09">Der
+                            Stand der Dinge (lat.).</note></seg>, daß Bonaparte u. <seg type="comment"><orig>Wilhelm der Erobrer</orig><note xml:id="nbff_5gp_kz">Hier <persName key="pdrPo.001.004.000005131">Wilhelm I.</persName>,
+                            König von Preußen, mit Anspielung auf <persName key="pdrPo.001.004.000011754">William I</persName> (genannt William
+                            the Conqueror). </note></seg> beide nicht ganz richtig im obersten
+                    Department. Der letztere glaubt an eine besondre ihm von Gott Allerhöchstselbst
+                    aufgetragne <pb/> Mission u. den erstern hat <seg type="comment"><orig>Mexico</orig><note xml:id="f090e91a-94b5-4866-b916-11c7322c6ee4">Die gescheiterte französische Intervention in Mexiko
+                            (1861-1867).</note></seg> u. <persName key="pdrPo.001.004.000000441">Bismarck</persName> so turned topsy turvy daß <subst>
+                        <del rendition="#ow">er</del>
+                        <add place="across">es</add>
+                    </subst>
+                    <add place="superlinear">ihm</add> positiv von Zeit zu Zeit rapelt.</p>
+                <anchor type="verweisziel" xml:id="start_w31_f5s_5z"/><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Glaubst Du nicht auch, daß es wenigstens noch
+                            ein Jahr Friede bleibt (natürlich von accidents wie <persName key="pdrPo.001.004.000003392">Bonap's</persName> Tod etc abgesehn)?
+                            Die Kerls brauchen doch alle Zeit für die conversion u. production of
+                            arms?</orig><anchor type="verweisziel" xml:id="stop_w31_f5s_5z"/><note xml:id="njsr_php_kz">Siehe <ref target="B00210/#start_vpl_wss_5z">Engels
+                                an Marx,
+                                21.12.<?oxy_comment_start author="reichhoff" timestamp="20170506T182809+0200" comment="{{Br. 203.3–31}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p><p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_mnf_fqn_mz"/><seg type="comment"><orig>Von Herrn <persName key="pdrPo.001.004.000003135">Meißner</persName> noch keine Silbe.</orig><note xml:id="nz1v_whp_kz">Siehe <ref target="B00206">Marx an Engels,
+                                8.12.<?oxy_comment_start author="reichhoff" timestamp="20170506T182910+0200" comment="{{Br. 199.3–5}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    Ich unterstelle, daß jezt, Schluß des Jahrs, der Geschäftsdrang sehr groß
+                        <add>bei ihm</add> ist. Im Uebrigen bürgt mir der Contract gegen etwaige
+                    Sprünge. In der zweiten, emendirten u. <hi rendition="#u">definitiven</hi> Form
+                    enthält <seg type="comment"><orig>der Contract</orig><note xml:id="njtf_j3p_kz">Die endgültige Fassung des Vertrages zwischen Marx und <persName key="pdrPo.001.004.000003135">Otto Meißner</persName> vom März 1865
+                            sah die Herausgabe des ganzen „Kapitals“ in zwei gleichzeitig
+                            erscheinenden Bänden vor, deren Gesamtumfang 60 Bogen nicht
+                            überschreiten sollte (siehe MEGA²_III/13. Br._122. Wiedergabe der
+                            Beilage. S. 912/913 und ebenda Erl._195.3–7). Vom Verzicht auf den
+                            vertraglich vereinbarten Abgabetermin des Manuskripts zeugt nur der hier
+                            vorliegende Brief. (((lMEGA²_III/13)))</note></seg> no stipulation
+                    whatever as to the <subst>
+                        <del rendition="#ow">time</del>
+                        <add place="across">term</add>
+                    </subst>
+                    <subst>
+                        <del rendition="#ow">of</del>
+                        <add place="across">for</add>
+                    </subst> which <seg type="comment"><orig>the mscpt</orig><note xml:id="nex5_k3p_kz">Gemeint ist hier Karl Marx: Das Kapital; siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx
+                                an J. Ph. Becker, zwischen 9. und
+                                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170519T134926+0200" comment="{{Erl. 6b}"?>1866<?oxy_comment_end?>.</ref>
+                            (((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg> is to be
+                    ready. <seg type="comment"><orig>Wenn übrigens bis Morgen keine Antwort kommt,
+                            schreibe ich wieder.</orig><note xml:id="a53e48d2-93fb-4f7c-aed2-b07ccb72e570"><ref target="B00209"><persName key="pdrPo.001.004.000003135">Otto Meißner</persName>
+                                schrieb Marx am 20.&#160;Dezember 1866</ref>
+                            <?oxy_comment_start author="reichhoff" timestamp="20170406T174323+0200" comment="({{Br. 202}})"?>.<?oxy_comment_end?></note></seg><anchor type="verweisziel" xml:id="stop_mnf_fqn_mz"/></p><p sameAs="MBTextmitEinzug">Es wäre mir sehr lieb, da Du doch Credit bei einem Buchhändler
+                    quelconque hast, u. ich in diesem Augenblick keinen farthing can spend für
+                    Bücher, <seg type="comment"><orig>wenn Du mir <hi rendition="#u">so rasch als
+                                möglich verschafftest</hi>: <hi rendition="#u">„</hi><hi rendition="#u"><persName key="pdrPo.001.004.000004052">J. E.
+                                    Th.&#160;Rogers</persName></hi><hi rendition="#u">: „A History
+                                of Agriculture“</hi>.</orig><note xml:id="nc4m_ljp_kz">James E[dwin]
+                            Thorold Rogers: A History of Agriculture and Prices in England. From the
+                            Year after the Oxford Parliament (1259) to the Commencement of the
+                            Continental War (1793). Vol.&#160;1.2. Oxford 1866. (((lRogers, James
+                            E[dwin] Thorold: A History of Agriculture and Prices in England. From
+                            the Year after the Oxford Parliament (1259) to the Commencement of the
+                            Continental War (1793). Vol.&#160;1.2. Oxford 1866))) - Siehe auch <ref target="B00210/#start_jyq_hts_5z">Engels an Marx,
+                                21.12.<?oxy_comment_start author="reichhoff" timestamp="20170506T183135+0200" comment="{{Br. 203.32–33}}"?>1866<?oxy_comment_end?></ref>
+                            und Marx an Engels, 19. Januar 1867 (IISG, Marx-Engels-Nachlass, Sign. L
+                            4470/L VI 603). (((lMarx an Engels, 19. Januar 1867 (IISG,
+                            Marx-Engels-Nachlass, Sign. L 4470/L VI 603) )))</note></seg> Ich muß
+                    das Buch durchaus ansehn u. <seg type="comment"><orig>habe in einem Kapitel
+                            deßwegen eine Lücke gelassen.</orig><note xml:id="a5fbc9a1-1c9c-4351-a8cb-e115570e4f09">Siehe Karl Marx: Das
+                            Kapital. Bd.&#160;1. Buch&#160;1. Hamburg_1867. Sechstes Kapitel: Der
+                            Accumulationsprozeß des Kapitals. S.&#160;661, 666 und 707.
+                            (MEGA²&#160;II/5. S.&#160;543, 548 und 581). (((lMarx,Karl:_Das_Kapital.
+                            Bd.&#160;1. Buch&#160;1. Hamburg_1867.
+                        (MEGA²&#160;II/5).)))</note></seg> Obgleich schon seit längerer Zeit heraus,
+                    ist es noch nicht <ex>a</ex>uf der Bibliothek. Auch nicht bei <persName key="ed_jnj_jy1_yy">Mudy</persName>,<del> der <sic ana="#break-off"/></del>
+                    wie <persName key="pdrPo.001.004.000001296">Eccarius</persName>, dem der <bibl sameAs="zzThe Commonwealth">Commonwealth</bibl> dort ein Abonnement nahm,
+                    versichert hat.</p><p sameAs="MBTextmitEinzug">Salut</p><closer sameAs="MBUnterschrift">D<lb/>KM </closer></div></body></text></TEI>

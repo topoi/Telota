@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00163" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>159</idno>Karl Marx an Louis Kugelmann in Hannover. London, Donnerstag, 23. August 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">C 332/C 91</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format 271&#160;×&#160;215&#160;mm.
+                            Die erste und dritte Seite hat Marx vollständig beschrieben, die zweite
+                            und vierte sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von Kugelmanns Hand: der Vermerk mit Tinte auf der vierten Seite: „empfangen 27/ii 66 nach Freiburg i/12 nachgeschickt u. erst heute erhalten.&#160;–“ Siehe dazu auch Kugelmann an Marx, 15.&#160;Februar 1867 (RGASPI, Sign. f.&#160;1, op.&#160;5, d.&#160;1688).</p><p>Von unbekannter Hand: waagerechte Anstreichung
+                            <?oxy_comment_start author="lindenberg" timestamp="20170426T162244+0200" comment="ursprünglich:
+mit dem Rotstift"?>mit
+                            Rotstift<?oxy_comment_end?> auf der dritten Seite oben, nach dem Wort
+                            „vollenden“ (Z.&#160;21).</p><p>Marx beantwortet die Briefe Kugelmanns vom 15. und 25.&#160;April sowie vom 6.&#160;Juli 1866
+                            (Br.&#160;91 und 128). Kugelmann erhielt den Brief erst vor dem
+                            15.&#160;Februar 1867 (siehe {{Erl._178a}}).</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1988</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Briefe von Karl Marx an Dr.&#160;L.&#160;Kugelmann (1902). S.&#160;61/62.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-08-23"/></correspAction><correspAction type="received"><persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName><placeName>Hannover</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:52Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> London 23. August 1866.</dateline><salute sameAs="MBAnrede">Mein lieber Freund,</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Sie müssen mit Recht ungehalten sein über
+                            mein verlängertes Schweigen, trotz ihrer verschiednen freundschaftlichen
+                            Zuschriften.</orig><note xml:id="af2d2223-1766-4969-a0fa-160a5031883c">Siehe <ref target="B00094">L. Kugelmann an Marx, 15. und 25. April
+                                <?oxy_comment_start author="reichhoff" timestamp="20170406T091521+0200" comment="{{Br. 91}}"?>1866<?oxy_comment_end?>
+                            </ref>und <ref target="B00132">6.7.<?oxy_comment_start author="reichhoff" timestamp="20170406T091725+0200" comment="{Br._128}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p><p sameAs="MBTextmitEinzug">Aber Sie müssen mich entschuldigen mit den ausserordentlichen Zuständen, worin ich mich befinde.</p><p sameAs="MBTextmitEinzug">In Folge meiner langen Krankheit haben meine ökonomischen Zustände einen
+                    Krisenpunkt erreicht. Ich habe Schulden aufgehäuft, die mir das Gehirn
+                    zusammendrücken u. mich zu allem ausser der Arbeit, die mich absorbirt, unfähig
+                    machen. Wenn es mir nicht gelingt, wenigstens 1000&#160;Thaler, sage zu einem
+                    Zins von 5%, aufzunehmen, so sehe ich wirklich keinen Ausweg. Und trotz der
+                    zahlreichen, anerkennenden Zuschriften, die ich von Deutschland erhalte, <del>
+                        gl <sic ana="#break-off"/></del> weiß ich nicht, wohin mich wenden. Ich kann
+                    nur Hilfe von Privatfreunden brauchen, <add place="superlinear">nichts
+                        Oeffentliches.</add> Sie begreifen, daß unter derartigen Verhältnissen,
+                    Briefschreiben schwer wird.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Es ist mir noch nicht gelungen, meine alten,
+                            ergiebigen Verbindungen mit Amerika wieder herzustellen.</orig><note xml:id="bd9c181f-0fbb-4374-a9ab-7ddb989314eb">Siehe <ref target="B00093/#f2677181-a28b-459f-9357-476e4ac30f6c">Erl. zu J.
+                                Marx an Engels, nach dem
+                                14.4.<?oxy_comment_start author="reichhoff" timestamp="20170518T153804+0200" comment="{{Erl._90b}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                    Man hat dort so viel mit <subst>
+                        <del>den</del>
+                        <add>der</add>
+                    </subst> eignen Bewegung zu thun, daß man jede Ausgabe für europäische
+                    Correspondenz als faux frais de production betrachtet. Ich könnte dem abhelfen,
+                    wenn ich selbst <del rendition="#s">überwe<sic ana="#break-off"/></del>
+                    übersiedelte. Aber ich halte es für meinen Beruf in Europa zu bleiben u. <seg type="comment"><orig>meine vieljährige Arbeit</orig><note xml:id="bf08bbc5-1606-47d1-a207-519a5ad5ce87">Gemeint ist hier Karl
+                            Marx: Das Kapital; siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx
+                                an J. Ph. Becker, zwischen 9. und
+                                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170518T153946+0200" comment="{{Erl. 6b}}"?>1866<?oxy_comment_end?>.</ref>
+                            (((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg> zu <pb/>
+                    vollenden.</p><p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_d4c_y2p_mz"/>Was diese Arbeit
+                    selbst betrifft, so glaube ich nicht, daß ich vor October das Manuscript des
+                    ersten Bands (es werden jezt 3&#160;Bände) nach Hamburg bringen kann. Ich kann
+                    nur sehr wenige Stunden per Tag produktiv arbeiten, ohne es gleich körperlich zu
+                    spüren, u. aus Rücksicht auf meine Familie muß ich mich wohl widerwillig
+                    entschliessen <del> die <sic ana="#break-off"/></del> zur Beobachtung der
+                    hygienischen Grenzen, bis ich völlig hergestellt bin. Ausserdem wird die Arbeit
+                    oft unterbrochen durch den Einfluß widriger Umstände von aussen. <anchor type="verweisziel" xml:id="stop_d4c_y2p_mz"/></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_c1y_42x_mz"/>Obgleich ich den Vorarbeiten für den
+                            Congreß <add>zu Genf</add> viel Zeit widme,</orig><note xml:id="npsb_tbw_hz">Zum Genfer Kongress der IAA siehe<ref target="B00004/#nrk1_sfc_3y"> Erl. zu Marx an Engels,
+                                5.1.<?oxy_comment_start author="reichhoff" timestamp="20170518T154227+0200" comment="{{Erl. 3d}}"?>1866<?oxy_comment_end?>.</ref>
+                            Speziell zu Marx‘ Anteil an der Vorbereitung des Kongresses siehe
+                            MEGA²_I/20, zusammenfassend dazu aus Marx‘ Feder auch <ref target="B00183">Marx an L. Kugelmann,
+                                9.10.<?oxy_comment_start author="reichhoff" timestamp="20170406T110637+0200" comment="{{Br. 178}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    kann ich nicht hingehn u. will es nicht, weil keine längere Unterbrechung meiner
+                    Arbeit möglich. Ich halte das, was ich durch dieselbe thue, für viel wichtiger
+                    für die Arbeiterklasse als alles was ich persönlich auf einem Congrès quelconque
+                    thun könnte.<anchor type="verweisziel" xml:id="stop_c1y_42x_mz"/></p><p sameAs="MBTextmitEinzug">Die internationalen Zustände in Europa betrachte ich als ganz
+                    provisorisch. <seg type="comment"><orig>Was Deutschland speziell angeht, so muß
+                            man die Dinge nehmen wie sie sind,</orig><note xml:id="ea268c65-b4e8-4d56-b984-34ad087ac251">Siehe <ref target="B00132">L. Kugelmann an Marx,
+                                6.7.<?oxy_comment_start author="reichhoff" timestamp="20170406T110928+0200" comment="{{Br. 128}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    d.h. das revolutionäre Interesse in einer den veränderten Umständen
+                    entsprechenden Weise geltend machen. As to Prussia, so ist es jezt wichtiger als
+                    je seine relations to Russia to watch and to denounce.</p><closer sameAs="MBUnterschrift">Ihr ganz ergebner<lb/>K Marx </closer></div></body></text></TEI>

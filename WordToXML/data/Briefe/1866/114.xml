@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00118" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>114</idno>Ernest Jones an Karl Marx in London. Manchester, Donnerstag, 31. Mai 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 1659</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Bogen festem, weißem Papier im Format
+              228&#160;×&#160;175&#160;mm.</p>
+            <p>Prägung: „Ivory“ in einer Vignette. Jones hat die ersten zwei Seiten vollständig
+              beschrieben, auf der dritten steht die Nachschrift, die vierte Seite ist leer.
+              Schreibmaterial: schwarze Tinte.</p>
+            <p>Archivsignatur des Moskauer Marx-Engels-Instituts (IMĖ) auf den beschriebenen Seiten:
+              „Rj 1576a“ bis „Rj 1576c“.</p>
+            <p><ref target="mega_b5c_qwz_sy">Der Brief enthält eine Beilage („I enclose you a
+                copie“).</ref></p>
+          </physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002387">Ernest Jones</persName><placeName>Manchester</placeName><date when="1866-05-31"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:26Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 47, Princess Street,<lb/>Manchester,<lb/>May 31/66.</dateline><salute sameAs="MBAnrede">Dear Marx,</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Some time ago, I received a letter from M<hi rendition="#sup">r</hi>
+              <persName key="pdrPo.001.004.000000296">Beales</persName>, in the name of the Reform
+              League, asking me still to remain a member.</orig><note xml:id="e1f194ca-6c60-4132-9cc7-3506d383dee6">Siehe <title><ref target="B00111">E.
+                  Jones an Marx ,
+              12.5.1866</ref></title><?oxy_comment_start author="reichhoff" timestamp="20170403T163505+0200" comment="{{Br. 107}}"?>.<?oxy_comment_end?>
+              Nachdem die Reform League (siehe <ref target="B00007/#ad3d64b6-cc97-4e64-a37d-88309702e416">Erl. zu Marx an J. Ph. Becker,
+                zwischen 9. und
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170512T122813+0200" comment="{{Erl. 6x}}"?>1866<?oxy_comment_end?></ref>)
+              die Regierungs bei der Bill über die Wahlrechtsreform unterstützt hatte,
+              veröffentlichte <persName key="pdrPo.001.004.000002387">Jones</persName>, der seit
+              Juni 1865 Vizepräsident der League war, einen Artikel dagegen. Siehe Ernest Jones: To
+              the editor of the Commonwealth. In: The Commonwealth. London. Nr.&#160;163,
+              21.&#160;April 1866. S.&#160;5. (((lJones,Ernest:_To the editor of the Commonwealth.
+              In: The Commonwealth. London. Nr.&#160;163, 21.&#160;April 1866. S.&#160;5.))) Aus
+              Protest gegen die Entscheidung der Reform League, die Bill zu unterstützen, beschloss
+              Jones aus der League auszutreten. Siehe seine Erklärung vom 4.&#160;Mai 1866: Dear
+              Sir,—I must beg you to erase my name&#160;… In: The Commonwealth. London.
+              Nr.&#160;166, 12.&#160;Mai 1866. S.&#160;6. (((lJones,Ernest:_Dear Sir,—I must beg you
+              to erase my name&#160;… In: The Commonwealth. London. Nr.&#160;166, 12.&#160;Mai 1866.
+              S.&#160;6.))) Zum Brief von <persName key="pdrPo.001.004.000000296">Edmond
+                Beales</persName> an <persName key="pdrPo.001.004.000002387">Jones</persName> siehe
+              Bell: Administration and Finance of the Reform League. S.&#160;399. (((lBell:
+              Administration and Finance of the Reform League))) Siehe auch <ref target="B00090">E.
+                Jones an Marx,
+                11.4.<?oxy_comment_start author="reichhoff" timestamp="20170403T163728+0200" comment="{{Br. 87}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p><p sameAs="MBTextmitEinzug">I answered that letter.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig><hi rendition="#u">Has that answer been read
+                to the Council</hi>?</orig><note xml:id="d2e18862-7780-4f41-9c66-493a8337bb47">In den Protokollen des Zentralrats der
+                  IAA finden sich keine Angaben dazu.</note></seg></p><p sameAs="MBTextmitEinzug"><hi rendition="#u">If not, will you kindly take steps that it be read</hi>.</p><p sameAs="MBTextmitEinzug">Next: I received a long letter from M<hi rendition="#sup">r</hi>&#160;Beales, of a rather extraordinary kind, and attacking me <hi rendition="#u">rather</hi> severely. To that I have replied, enclosing the reply under cover to M<hi rendition="#sup">r</hi>
+          <persName key="pdrPo.001.004.000002244">Howell</persName>, <hi rendition="#u">requesting
+            that letter to be read to the council</hi>.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>I enclose you a copy of this <pb/>
+                    <hi rendition="#u">second letter</hi>.</orig><note xml:id="c3e9fcf0-2608-4203-bbd0-6de4c28668d2"><ref target="mega_b5c_qwz_sy">Siehe die Beilage.</ref></note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>May I ask you to let me know if the second
+              letter is read to the Council, in its entirety,—<hi rendition="#u">and if not, may I
+                ask you to secure its being read</hi>.</orig><note xml:id="f4c2458b-a11b-4b67-9fe9-bc3413800c91">In den Protokollen des Zentralrats der
+                  IAA finden sich keine Angaben dazu.</note></seg></p><p sameAs="MBTextmitEinzug">I hold this to be rather important for the sake of the movement, or else I would not trouble you.</p><p sameAs="MBTextmitEinzug"><hi rendition="#u">Pray write</hi>.</p><p sameAs="MBTextmitEinzug">Kindest regards.</p><closer sameAs="MBUnterschrift">Ever your's<lb/>Ernest Jones. </closer><postscript><p><pb/> What is your view of things in Germany?. </p></postscript></div></body></text></TEI>

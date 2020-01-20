@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00199" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>192a</idno>Eugène Dupont an Karl Marx in London. London, Samstag, 1.
+                    Dezember 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 1084/D II 56
+                            Fotosign.&#160;9539.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt dünnem, weißem Papier im Format
+                            131&#160;×&#160;216&#160;mm. Dupont hat die erste Seite vollständig
+                            beschrieben, die zweite ist leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von unbekannter Hand: Numerierung des Briefes „37,4“ mit Bleistift auf
+                            der ersten Seite oben in der Mitte.</p>
+                        <p>Zur Datierung: die Jahresangabe stützt sich auf die Tatsache, daß Dupont
+                            die Sitzung des Subkomitees der IAA (siehe Erl.&#160;6e) „ce soir“
+                            erwähnt. Diese Sitzungen fanden gewöhnlich samstags statt (siehe MEGA²
+                            I/20. S.&#160;1327). Der 1.&#160;Dezember  1866 fällt auf einen Samstag.<?oxy_comment_start author="lindenberg" timestamp="20170425T142843+0200" comment="ursprünglich:
+Der 1. Dezember fällt  im Jahr 1866 auf einen Samstag."?>
+                            <?oxy_comment_end?>Darüber
+                            <?oxy_comment_start author="lindenberg" timestamp="20170425T143046+0200" comment="ursprünglich:
+Außerdem"?>hinaus<?oxy_comment_end?>
+                            hängt der Inhalt des Briefes mit der Sitzung des Generalrats der IAA am
+                            4.&#160;Dezember 1866 zusammen (siehe Erl.&#160;192aa).</p>
+                        <p>Datierung der Erstveröffentlichung: 1.&#160;Dezember 1867.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 21 op. 1 d. 76/21</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl>Erstveröffentlichung: in russischer Übersetzung: Генеральный
+                            Совет 1866–1868 (1963). S.&#160;264/265</bibl>.</witness>
+                    <witness><bibl>in der Sprache des Originals, unter dem Datum 1.&#160;Dezember
+                            1866 (gekürzt): MEGA2 I/20. S.&#160;1755</bibl>.</witness>
+                    <witness><bibl>vollständig in der Sprache des Originals wird der Brief hier erstmals veröffentlicht.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000001279">Eugène Dupont</persName>
+                    <placeName>London</placeName>
+                    <date when="1866-12-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:40:14Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> Londres le 1<hi rendition="#sup">er</hi>
+                        decembre.</dateline>
+                    <salute sameAs="MBAnrede">Mon Cher Marx.</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug">J'ai lu <seg type="comment"><orig>les
+                            protocoles,</orig><note xml:id="nm4y_lwb_kz">Siehe <ref target="B00195/#db38b1b9-fc2a-4454-8dad-1d13514d2e8c">Erl. zu J. Ph.
+                                Becker an Marx,
+                                15.11.<?oxy_comment_start author="reichhoff" timestamp="20170519T133251+0200" comment="{{Erl. 189e}}"?>1866<?oxy_comment_end?>.</ref>
+                            Am 1.&#160;Dezember 1866 besprach das Subkomitee die endgültige Fassung
+                            für den Entwurf des Berichts über den Genfer Kongress der IAA, der dann
+                            auf der Sitzung des Generalrats am 4.&#160;Dezember 1866 von den
+                            Delegierten bestätigt werden sollte (siehe Minutes of the General
+                            Council 1866/1867. In: MEGA²&#160;I/20. S.&#160;513.12–14). Siehe auch
+                                MEGA<hi rendition="#sup">2</hi>_I/20. S.&#160;1755. (((lMinutes of
+                            the General Council 1866/1867. In: MEGA²&#160;I/20. S._477–591)))
+                            (((lMEGA²&#160;I/20)))</note></seg> il me semble, qu'ils contiennent
+                    quelques erreurs, au cas ou vous seriez dans l'impossibilité de venir ce soir au
+                    sous-comité, ayez la bonté de remettre au <hi rendition="#u">Boy</hi>, <seg type="comment"><orig>les procès-verbeaux du congrès,</orig><note xml:id="nr3l_fwb_kz">Handschriftliche Sitzungsprotokolle des Genfer
+                            Kongresses der IAA. Siehe: Antoine Bourdon, Joseph Card, Pierre
+                            Coullery: Congrés Ouvrier de l’Association Internationale des
+                            Travailleurs. Procès-verbaux (IISG, Jung-Nachlass, Sign. 8–51). Siehe
+                            auch MEGA²_I/20. S._1749. Diese Vorlagen befanden sich zu jenem
+                            Zeitpunkt bei Marx. (((lBourdon,Antoine, Card,Joseph, Coullery,Pierre:
+                            Congrés Ouvrier de l’Association Internationale des Travailleurs.
+                            Procès-verbaux (IISG, Jung-Nachlass, Sign. 8–51) )))</note></seg> sans
+                    cela nous ne pourrions rien faire.</p>
+                <p sameAs="MBTextmitEinzug">Mes Respects à votre aimable Famille</p>
+                <p sameAs="MBTextmitEinzug">Je vous serre affectueusement la main.</p>
+                <closer sameAs="MBUnterschrift">Eugene Dupont <pb/></closer>
+                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+            </div>
+        </body>
+    </text>
+    <?oxy_custom_end?>
+</TEI>

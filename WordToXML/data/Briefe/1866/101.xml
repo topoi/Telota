@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00105" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>101</idno>Arnold Hilberg’s Verlag an Karl Marx in London. Wien,
+                    Freitag, 4. Mai 1866</title>
+            </titleStmt>
+            <editionStmt>
+                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 2329/D IV 248–4. Fotosign.
+                            7783a–b.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, blauem Papier im Format
+                            460&#160;×&#160;293&#160;mm. Aufdruck von Arnold
+                            <?oxy_comment_start author="strauss" timestamp="20170614T102253+0200" comment="(((nFa. Hilberg&apos;s Verlag)))"?>Hilberg’s
+                            Verlags<?oxy_comment_end?> auf der ersten Seite oben (siehe A. Hilberg's
+                            Verlag an Marx, April 1866) und „franco gegen franco“ unten. Ein
+                            Schreiber hat die erste Seite vollständig beschrieben, die zweite und
+                            dritte Seite sind leer, die vierte wurde als Adressseite benutzt.
+                            Schreibmaterial: schwarze Tinte.</p>
+                        <p>Auf der Adressseite die gedruckte Anschrift des Absenders
+                            „4&#160;Kolowrat-Ring. Arnold Hilberg’s Verlag in Wien.
+                            Kolowrat-Ring&#160;4.“ und die aufgedruckte Werbung: „Internationale
+                            Revue. Monatsschrift für das gesammte geistige Leben und Streben der
+                            ausserdeutschen Culturwelt. In Heften von 10&#160;Bogen, grösstes
+                            Lexicon-Octav, doppelspaltig, auf Velinpapier, nebst Beilagen.
+                            Subscriptionspreis für das Heft 1&#160;Thaler oder 1&#160;fl.
+                            50&#160;kr. öst. W. Sechs Hefte bilden einen Band, dem ein Registerheft
+                            unentgeltlich nachgeliefert wird. Alle Buchhandlungen und Postanstalten
+                            nehmen Bestellungen entgegen. Für den Raum einer Seite im Annoncentheile
+                            wird Thaler&#160;20 oder fl.&#160;30 öst. W. berechnet.“; dazu zwei
+                            Briefmarken zu 10 und 15&#160;Kreuzern sowie vier Poststempel: „Wien [x]
+                            5 9.F“, „Weit Franko 14“ „P.D.“, und „Paid Z My 11&#160;66 NW
+                            London“.</p>
+                        <p>Archivsignatur der SPD: „II 16 J 1&#160;d“.</p>
+                        <p>Hilberg’s Verlag beantwortet einen nicht überlieferten Brief von Jenny
+                            Marx, geschrieben im Februar 1866 („die geneigte Zuschrift“).</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1654</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_zmj_ltj_wx">Arnold Hilberg’s Verlag</orgName>
+                    <placeName>Wien</placeName>
+                    <date when="1866-05-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:39:18Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <p sameAs="MBAdresse"><pb/>
+                    <hi rend="smallcaps"><hi rendition="#i"><hi rendition="#mPrint">Herrn</hi></hi></hi> D<hi rendition="#sup">r</hi> Karl Marx Wohlgeboren</p>
+                <p sameAs="MBAdresse"><hi rend="smallcaps"><hi rendition="#mPrint"><hi rendition="#i">in</hi></hi></hi> London</p>
+                <p sameAs="MBAdresse"><hi rend="smallcaps"><hi rendition="#mPrint"><hi rendition="#i">Wien,</hi></hi></hi>  4. Mai 1866.</p>
+                <opener><salute sameAs="MBAnrede">Hochgeehrter Herr!</salute></opener>
+                <p rend="MBTextOhneEinzug"><seg type="comment"><orig>Mit Bezug auf die geneigte
+                            Zuschrift Ihrer geehrten Frau <expan resp="editor" sameAs="dottet_underline"><persName key="pdrPo.001.004.000003075">Gema<ex>h</ex>lin</persName></expan> vom Februar
+                            d.&#160;J.</orig><note xml:id="ef0a505c-2d67-4985-83a9-6d2c76cca9a5">Ein
+                            Brief von <persName key="pdrPo.001.004.000003075">Jenny Marx</persName>
+                            an <orgName key="ed_zmj_ltj_wx">Arnold Hilberg’s Verlag</orgName> vom
+                            Februar 1866 konnte nicht ermittelt werden.</note></seg> erlaube ich mir
+                    die ebenso höfliche als ergebene Anfrage, ob ich Ihren ersten Londoner Brief für
+                    das zweite Heft <seg type="comment"><orig>meiner Revue</orig><note xml:id="aca03666-fdc8-4ec1-b003-8359aa19a4e3">„Internationale Revue“
+                            (Wien). (((zInternationale Revue)))Siehe <ref target="B00002">A.
+                                Hilberg’s Verlag an Marx,
+                                2.1.<?oxy_comment_start author="reichhoff" timestamp="20170403T144052+0200" comment="{{Br. 1a}}"?>1866<?oxy_comment_end?></ref>.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></note></seg><index indexName="XE">
+                        <term>zzInternationale Revue</term>
+                        <?oxy_custom_end?>
+                    </index> mit Bestimmtheit erwarten kann. Im bejahenden Falle müßte ich jedoch um
+                    gef. Zusendung des Manuscriptes bis Ende dieses Monats bitten. Ihrer geneigten
+                    postwendenden Rückäußerung entgegensehend</p>
+                <p sameAs="MBTextmitEinzug">Mit</p>
+                <closer sameAs="MBUnterschrift">Ausgezeichneter
+                    Hochachtung<lb/>Ergebenster<lb/>Arnold Hilberg's Verlag </closer>
+                <p sameAs="MBAdresse"><pb/>
+                    <hi rend="smallcaps"><hi rendition="#mPrint"><hi rendition="#i">Herrn</hi></hi></hi> D<hi rendition="#sup">r</hi> Karl
+                        Marx<lb/>Wohlgeboren<lb/><hi rend="smallcaps"><hi rendition="#mPrint"><hi rendition="#i">in</hi></hi></hi> London<lb/>2 Modena Villas,
+                    Maitland Park</p>
+                <p sameAs="MBAdresse">Haverstock Hill<lb/><hi rend="smallcaps"><hi rendition="#mPrint">Frei</hi></hi>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

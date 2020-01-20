@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00085" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>82</idno>Karl Marx an Friedrich Engels in Manchester. Margate, Freitag,
+                    6. April 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 4448/L VI 581</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            225&#160;×&#160;183&#160;mm. Wasserzeichen: „Towgood’s Extra Super“.
+                            Prägung: ein Wappenschild mit Stern und der Aufschrift „Brasier
+                            Margate“. Marx hat alle vier Seiten vollständig beschrieben. Die letzten
+                            Passagen  stehen oben auf der ersten und vierten Seite auf dem Kopf.
+                            Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand:
+                            Nummerierung des Briefes bzw. der beschriebenen Seiten: „29,1“ bis
+                            „29,4“, korrigiert aus „19,1“ bis „19,4“. </p>
+                        <p>Engels beantwortet den Brief am 10.&#160;April 1866 (Engels an Marx,
+                            10.4.1866).</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 1956</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913).
+                        S.&#160;308/310.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords><term key="ed_jtl_xrw_ww">Internationale Arbeiter Assoziation (IAA, A.I.T., I.W.M.A.)</term></keywords>
+                <keywords><term key="ed_ujr_3c2_5z">Frankreich</term></keywords>
+                <keywords><term key="ed_rw2_4vl_qx">Preußen</term></keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>Margate</placeName>
+                    <date when="1866-04-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName>Manchester</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:39:06Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener><dateline sameAs="MBDatumszeile"><pb/> 6 April 1866.<lb/>5, Lansell's
+                        Place,<lb/>Margate.</dateline><salute sameAs="MBAnrede">Dear
+                    Fred,</salute></opener>
+                <p sameAs="MBTextohneEinzug">Ich habe mich sehr hier erholt u. nicht das geringste
+                    Zeichen von Wiederkehr der infamen <expan resp="editor" sameAs="dottet_underline">carb<ex>uncles</ex></expan>. An der Stelle, wo der
+                    letzte u. bösartigste war, ist noch ein wenig wundes Gefühl. Vielleicht ist er
+                    zu früh zugeheilt u. steckt noch ein Atom Eiter hinter der Zuheilungshaut. Indeß
+                    bei den warmen Seebädern u. dem rough <subst>
+                        <del>Handtuch</del>
+                        <add>Waschtuch</add>
+                    </subst>, womit ich mich abtrockne, wäre in diesem Fall der Dreck wohl
+                    aufgegangen, u. in der That, seit zwei Tagen, scheint auch dieß letzte Wundmal
+                    ganz zu verschwinden. Der einzige drawback ist ein <subst>
+                        <del>schmerzliches</del>
+                        <add>schmerzlicher</add>
+                    </subst>, hier <subst>
+                        <del>wiedergekehrtes</del>
+                        <add>wiedergekehrter</add>
+                    </subst> Rheumatismus in der rechten Schulter, der mich sehr am Schlafen stört.
+                        <seg type="comment"><orig>Ich bin jetzt bald 4&#160;Wochen hier u. habe rein
+                            der Gesundheit <pb/> gelebt. Es ist Zeit, daß dieß bald
+                            aufhört.</orig><note xml:id="ccd7b021-91bb-4d16-ba03-47476e632b12">Marx
+                            beendete seine Kur in Margate am 8.&#160;April 1866.</note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Unsre Briefe haben sich
+                            gekreuzt, so daß Du den meinen beantwortest.</orig><note xml:id="f0f9d594-4390-4fea-b3aa-ccd9d96413ab">Siehe <ref target="B00084">Engels an Marx,
+                                6.4.<?oxy_comment_start author="reichhoff" timestamp="20170320T133330+0100" comment="{{Br. 81}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    Du läßt aus die Chance von italienischer Diversion zu Gunsten Preussens.</p>
+                <p sameAs="MBTextmitEinzug">Daß Rußland, obgleich es Herrn <persName key="pdrPo.001.004.000003392">Bonaparte</persName> erlaubt auf dem
+                    Proscenium als arbiter zu spielen, hinter den Preussen steht, unterliegt nicht
+                    dem geringsten Zweifel. Es muß nicht (um à la <persName key="pdrPo.001.004.000002103">Hegel</persName> zu sprechen) übersehn werden,
+                    daß die Danubian mine was sprung gleichzeitig mit<persName key="pdrPo.001.004.000000441"> </persName><seg type="comment"><orig><persName key="pdrPo.001.004.000000441">Bismarck's</persName>
+                            Vorgehn.</orig><note xml:id="af12bc91-e7a5-40ef-9564-3d84df036cb9">Siehe
+                                <ref target="B00084/#b88d5f09-fafe-4354-b275-fd878607cacf">Erl. zu
+                                Engels an Marx, 6.4.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170518T094345+0200" comment="{{Erl. 81b}}."?></note><?oxy_comment_end?></seg></p>
+                <p sameAs="MBTextmitEinzug">Gesetzt selbst, was wahrscheinlich, daß die preuss.
+                    Hunde wieder rückkriechen, so bleibt klar u. muß selbst den deutschen Philistern
+                    klar werden, daß <hi rendition="#u">ohne Revolution</hi> in Dtschld die Hunde
+                    von <persName key="ed_sw5_fwp_fz">Hohenzollern</persName> u. <persName key="ed_spp_k2v_hz">Habsburgern</persName> unser Land durch Bürgerkrieg
+                    (dynastischen) wieder für 50–100&#160;Jahre rückwerfen werden.</p>
+                <anchor type="verweisziel" xml:id="start_twz_stp_pz"/>
+                <p sameAs="MBTextmitEinzug">Ich muß Dir offen sagen, daß es sehr schief mit der
+                    „Intern.“ steht, um so mehr als <pb/> durch die Ungeduld der Franzosen <seg type="comment"><orig>der Congress auf <hi rendition="#u">Ende Mai</hi>
+                            festgesetzt ist.</orig><note xml:id="c0937d28-884b-4ebc-b0ce-2f977aa9ef3e">Zur Einberufung des ersten
+                            Kongresses der IAA siehe <ref target="B00004/#nr1k_5fc_3y">Erl. zu Marx
+                                an Engels,
+                            5.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T094941+0200" comment="{{Erl. 3d.}} --&gt; die ursprüngliche Erläuterung wurde geteilt; ich habe auf den zweiten Teil verwiesen."?></note><?oxy_comment_end?></seg></p>
+                <p sameAs="MBTextmitEinzug">The fact ist this, daß die Londoner englischen leaders,
+                    nachdem wir ihnen eine Position geschaffen, (wozu kommt <expan resp="editor" sameAs="dottet_underline">d<ex>ie</ex></expan> Unfähigkeit jedes Engländers
+                    zwei Dinge auf einmal zu thun) sehr <hi rendition="#u">kühl</hi> in unserem
+                    engeren movement sind. <seg type="comment"><orig>Meine Abwesenheit für beinah
+                            3&#160;Monate</orig><note xml:id="e967eb3f-61bf-4f55-9382-cc6353e5e7df">Seit Anfang 1866 litt Marx an Furunkulose.</note></seg> hat <hi rendition="#u">ausserordentlich geschadet</hi>. <hi rendition="#uu">Was
+                        thun?</hi> In Fkrch, Belgien, Schweiz, (u. selbst hier u. da in Dtschld, u.
+                    sogar sporadisch in Amerika) hat <expan resp="editor" sameAs="dottet_underline">d<ex>ie</ex></expan> Gesellschaft grosse u. beständige Fortschritte
+                    gemacht. <seg type="comment"><orig>In England hat die Reformbewegung,
+                                <add>die</add> von uns ins Leben gerufen,</orig><note xml:id="ae6bd013-a566-4d4f-b63c-ff8ef0ea8c9e">Marx meint die Reform
+                            League, gegründet von Mitgliedern der IAA zur Förderung der
+                            Wahlrechtsreform in Großbritannien. Siehe <ref target="B00007/#ad3d64b6-cc97-4e64-a37d-88309702e416">Erl. zu Marx
+                                an J. Ph. Becker, zwischen 9. und 15.1.1866</ref>, <ref target="B00007/#de3efba0-912a-4f0d-9099-88a83e4b4163">Erl. zu Marx
+                                an J. Ph. Becker, zwischen 9. und 15.1.1866</ref> und <ref target="B00025/#b8a97236-b613-42d9-873d-013173a1a928">Erl. zu J.
+                                Marx an J. Ph. Becker,
+                            29.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T100302+0200" comment="{{Erl. 6x, 6y und 24c}}."?></note><?oxy_comment_end?></seg>
+                    uns beinah killed. Die Sache wäre gleichgiltig, wäre der Genf. Congress nicht
+                    für Ende Mai angesagt, u. <seg type="comment"><orig>hätten <expan resp="editor" sameAs="dottet_underline">d<ex>ie</ex></expan> Pariser, für welche
+                            diese Bewegung <hi rendition="#u">die einzig mögliche</hi>, <supplied cert="high">nicht</supplied> durch ein eignes Journal, „Le Congrès“,
+                            es fast <pb/> unmöglich gemacht, den Congress zu prorogiren.</orig><note xml:id="a110eec6-594e-4a61-b0be-fd5aaad8353c">Anfang 1866 war eine von
+                            der Section de Paris der IAA herausgegebene Flugschrift erschienen –
+                            „Congrès Ouvrier. Association Internationale des Travailleurs“ Paris
+                            [1866]. (((lCongrès Ouvrier. Association Internationale des Travailleurs
+                            Paris [1866]))) Sie enthielt das „Règlement provisoire“ in der
+                            Übersetzung des Bureau de Paris (siehe MEGA²&#160;I/20.
+                            S.&#160;1697–1700), den vom Bureau de Paris im Sommer 1865
+                            veröffentlichen Aufruf mit dem Programm des zunächst für 1865 geplanten
+                            ersten Kongresses der IAA (siehe ebenda. Erl._341.4–5), den Bericht der
+                            französischen Delegierten über die Londoner Konferenz der IAA (siehe
+                            ebenda. Erl._362.10–12) mit dem Programm des Genfer Kongresses (siehe
+                            ebenda. Erl._187.1) nebst weiteren Materialien.</note></seg>
+                    <anchor type="verweisziel" xml:id="start_qbw_mh2_qz"/>Die Engländer würden bald
+                    die Lauserei des Reformmovements, wie es jetzt ist, einsehn. Nach meiner
+                    Rückkehr würde Drohung mit Koketterie mit der <seg type="comment"><orig><persName key="pdrPo.001.004.000003797">Potter</persName>
+                            Clique</orig><note xml:id="b410b921-ae1d-4d45-a972-3031063e36d5">Siehe
+                                <ref target="B00082/#a84a03b5-04bf-4992-82a3-9e00be9e207f">Erl. zu
+                                Marx an Engels, 2.4.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T095353+0200" comment="{{Erl. 79g}}."?>
+                            <?oxy_comment_end?></note></seg> etc bald alles wieder ins Gleis
+                        bringen.<anchor type="verweisziel" xml:id="stop_qbw_mh2_qz"/> Aber there is
+                    no time. Für die Engländer ist selbst failure des Congress Wurst. Aber für uns?
+                        <hi rendition="#u">Eine europäische Blamage!!</hi> Ich sehe in der That kaum
+                    einen Ausweg. Die Engl. haben alles vernachlässigt, um den Congress in irgend
+                    einer anständigen Form möglich zu machen. Que faire! <anchor type="verweisziel" xml:id="start_tmy_25p_pz"/><seg type="comment"><orig>Glaubst Du, daß ich <hi rendition="#u">nach Paris reisen soll,</hi> um den Leuten dort
+                            vorzustellen, wie <hi rendition="#u">unmöglich</hi> der Congress jetzt
+                                ist?<anchor type="verweisziel" xml:id="stop_twz_stp_pz"/> Antworte
+                                bald.<anchor type="verweisziel" xml:id="stop_tmy_25p_pz"/></orig><note xml:id="eebd736f-1c25-419b-ac0b-0d758b52a1aa"><ref target="B00089/#start_vkw_zqp_pz">Engels antwortete hierzu am
+                                10.&#160;April 1866</ref>.
+                            <?oxy_comment_start author="reichhoff" timestamp="20170418T111640+0200" comment="({{Br. 86.46–63)}}."?></note><?oxy_comment_end?></seg>
+                    Nur im <expan resp="editor" sameAs="dottet_underline">Einverständ<ex>ni</ex>ß</expan> mit den Parisern seh ich möglichen Ausweg.
+                    Andrerseits weiß ich, daß ihre Position selbst <del> ohne C <sic ana="#break-off"/></del> auf dem Spiel steht, wenn kein Congress
+                    stattfindet. Que faire! Herr <persName key="pdrPo.001.004.000004915"><hi rendition="#u">Vésinier</hi></persName> hat <pb ana="xxx_special"/>
+                    unsre Pariser <hi rendition="#u">gefordert</hi>. Sie sollen nach Belgien kommen
+                    um sich mit ihm zu schiessen. L'imbécile. // <seg type="comment"><orig><anchor type="verweisziel" xml:id="start_z5r_jcf_4z"/>As to <persName key="ed_erg_rjw_wx">Orsini</persName>, wußte ich, daß Du nichts thun
+                            konntest. Aber ich konnte <expan resp="editor" sameAs="dottet_underline">d<ex>ie</ex></expan> Empfehlung an Dich nicht
+                            versagen.</orig><anchor type="verweisziel" xml:id="stop_z5r_jcf_4z"/><note xml:id="c5517ff1-f2cc-49a0-9920-10fb191ad70a">Siehe <ref target="B00064">Marx an Engels,
+                                15.3.<?oxy_comment_start author="reichhoff" timestamp="20170320T133508+0100" comment="{{Br. 60}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00081/#start_ycw_zbf_4z">Engels an Marx,
+                                2.4.<?oxy_comment_start author="reichhoff" timestamp="20170418T111917+0200" comment="{{Br. 78.6–9}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p>
+                <closer sameAs="MBUnterschrift"><signed>D KM /</signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00123" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>119</idno>Karl Marx an Friedrich Engels in Manchester.
+                                        London, Samstag, 9. Juni 1866</title>
+                        </titleStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>IISG</institution>
+                                                <collection>Marx-Engels-Nachlass</collection>
+                                                <idno><idno type="shelfmark">L 4453/L VI
+                                                  585</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Bogen mittelstarkem,
+                                                  weißem Papier im Format
+                                                  225&#160;×&#160;178&#160;mm. Wasserzeichen:
+                                                  „Joynson 1866“. Marx hat die ersten zwei Seiten
+                                                  vollständig beschrieben, die übrigen zwei sind
+                                                  leer. Schreibmaterial: schwarze Tinte.</p>
+                                                <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand: Nummerierung des
+                                                  Briefes bzw. der beschriebenen Seiten: „30,1“ bzw.
+                                                  „30,2“.</p>
+                                                <p>Marx beantwortet einen nicht überlieferten Brief
+                                                  von Engels, geschrieben zwischen 7. und
+                                                  9.&#160;Juni 1866 (siehe Marx an Engels, 7.6.1866:
+                                                  „Ich bin sehr in der Klemme,“ und im vorliegenden
+                                                  Brief: „Besten Dank für ...“. Engels antwortete am
+                                                  11.&#160;Juni 1866 (Engels an Marx,
+                                                  11.6.1866).</p>
+                                        </physDesc>
+                                        <additional>
+                                                <listBibl>
+                                                  <bibl>RGASPI f. 1 op. 1 d. 1972</bibl>
+                                                </listBibl>
+                                        </additional>
+                                </msDesc>
+                                <listWit>
+                                        <witness><bibl>Erstveröffentlichung: gekürzt: Bw&#160;3
+                                                  (1913). S.&#160;324/325</bibl>.</witness>
+                                        <witness><bibl>vollständig: MEGA<hi rendition="#sup">1</hi>
+                                                  III/3 (1930). S.&#160;338/339.</bibl></witness>
+                                </listWit>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName>London</placeName>
+                                        <date when="1866-06-09"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                                        <placeName>Manchester</placeName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:39:29Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingAct">
+                                <opener><dateline sameAs="MBDatumszeile"><pb/> 9 Juni.
+                                                1866.</dateline><salute sameAs="MBAnrede">Dear
+                                                Fred,</salute></opener>
+                                <p sameAs="MBTextohneEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_smj_jl2_qz"/>Besten Dank für die £&#160;10.</orig><anchor type="verweisziel" xml:id="stop_smj_jl2_qz"/><note xml:id="b6f2b314-6bc7-44ac-86e8-b9ccdf4e6784">Siehe <ref target="B00120/#start_sym_tvl_qz">Marx
+                                                  an Engels,
+                                                  7.6.<?oxy_comment_start author="reichhoff" timestamp="20170421T122931+0200" comment="{{Br. 116.3–4}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p>
+                                <p sameAs="MBTextmitEinzug">Welches immer der Drang der Ereignisse,
+                                                <seg type="comment"><orig>meine Arbeit</orig><note xml:id="cf9f2040-f035-4c99-a16b-4649ba61790d">Gemeint ist hier Karl Marx: Das Kapital; siehe
+                                                  <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an J. Ph. Becker, zwischen 9. und
+                                                  15.1.<?oxy_comment_start author="reichhoff" timestamp="20170512T143451+0200" comment="{{Erl. 6b}}"?>1866<?oxy_comment_end?>.</ref>
+                                                  (((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg>
+                                        ist bis jezt <seg type="comment"><orig>seit meiner Rückkehr
+                                                  von Margate</orig><note xml:id="d1aafe53-f77a-41a8-b018-60f72c84fff5">Zu
+                                                  Marx’ Erholungsaufenthalt in Margate siehe <ref target="B00054/#a9fd0c5d-779b-4626-bf9f-71889bd4804c">Erl. zu Engels an Marx,
+                                                  5.3.<?oxy_comment_start author="reichhoff" timestamp="20170512T143726+0200" comment="{{Erl. 51a}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                                        schlecht vorangegangen, in Folge rein körperlicher Zustände.
+                                        In den letzten Wochen war ich so herunter, daß ich selbst
+                                        die Intern. Assoc. nicht mehr besuchen konnte. Ich habe mir
+                                        gestern <persName key="pdrPo.001.004.000001969">Gumperts</persName> Recept (für die Lëber) machen
+                                        lassen, da Allens Geschichten mir nichts halfen. Ausserdem
+                                        habe ich mir einen Zahn ausreissen lassen, um den
+                                        Zahnschmerzen ein Ende zu machen, u. wahrscheinlich muß noch
+                                        ein zweiter folgen.</p>
+                                <p sameAs="MBTextmitEinzug">Wenn Dein Weinvorrath es erlaubt (also
+                                        Du nicht neue Einkäufe dafür nöthig hast), ist es mir lieb,
+                                        wenn Du etwas herschickst, da ich Bier jezt durchaus nicht
+                                        trinken darf.</p>
+                                <p sameAs="MBTextmitEinzug">
+                                                <seg type="comment"><orig>Die Verse</orig><note xml:id="nmcz_qpt_2z">Hier wird offensichtlich auf
+                                                  eine Stelle oder eine Beilage aus Engels‘ nicht
+                                                  überliefertem Brief, geschrieben zwischen 7. und
+                                                  9._Juni 1866, Bezug genommen, die nicht mehr
+                                                  genauer zu rekonstruieren ist. (Siehe die
+                                                  Beschreibung des Textzeugen.)</note></seg>
+                                        erwarten Deinen „Commentar“. In meiner Hand bringen sie es
+                                        zu Nichts.</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_awv_jq2_qz"/>Heut
+                                                  Abend bin ich gezwungen in die Sitzung der
+                                                  „Directors u. friends“ des „Common <bibl sameAs="zzThe Commonwealth">Wealth“</bibl> zu
+                                                  gehn.</orig><note xml:id="c386caa7-2f8a-4502-8dd2-f20a5dfb497c">Siehe <ref target="B00121">J.Weston an Marx ,
+                                                  7.6.<?oxy_comment_start author="reichhoff" timestamp="20170403T174713+0200" comment="{{Br. 117}}"?>1866<?oxy_comment_end?></ref>
+                                                  und Erl.</note></seg> Die Sache pfeift auf dem
+                                        lezten Loch. Abgesehn von den <add>extremen</add>
+                                        finanziellen Schwierigkeiten innere politische. Da der Esel
+                                        von Bradford Manufacturer, <persName key="ed_kyp_csm_2z">Mr.
+                                                Kell</persName>, <del> der <sic ana="#break-off"/></del> (der 50&#160;l. gegeben, sein <persName key="ed_qb1_fsm_2z">Bruder</persName> ditto, u. mehr
+                                        in Aussicht gestellt) den <persName key="ed_z5s_ptj_wx">Miall</persName> ganz beherrscht, haben Dr
+                                                <persName key="ed_vgr_vwh_yx">Bridges</persName>,
+                                        Prof. <persName key="pdrPo.001.004.000000329">Beesley</persName>, <persName key="pdrPo.001.004.000002056">Harrison</persName>
+                                        (die Comteists) nicht <add>nur mit</add> ihrem Abtritt,
+                                        sondern auch mit einer öffentlichen Erklärung über ihren
+                                        Abtritt gedroht.</p>
+                                <p sameAs="MBTextmitEinzug">Ich bin des Zeugs müde u. werde den
+                                        Leuten heut Abend vorschlagen ihr bankeruttes Institut an
+                                        Kell et Cons. zu <hi rendition="#u">verkaufen</hi> u. <pb/>
+                                        der Lächerlichkeit ein Ende zu machen, <choice>
+                                                <sic>Daß</sic>
+                                                <corr cert="high">daß</corr>
+                                        </choice> a Bradford manufacturer ein Londoner
+                                        „Arbeiterorgan“ dirigirt. Wollen sie nicht, so geb ich
+                                        jedenfalls meine Entlassung. Aus eignen fonds kann das Blatt
+                                        sich noch für längere Zeit nicht halten <del> u. die <sic ana="#break-off"/></del>, ist also abhängig von
+                                        den Bourgeoisvorschüssen u. verliert dadurch seinen
+                                        Charakter. Ich habe viel Geduld bei dieser Gelegenheit
+                                        entwickelt, weil ich immer noch hoffte, die Arbeiter selbst
+                                        würden sich hinreichend anstrengen, um die Sache
+                                        selbstständig fortzuführen; da ich andrerseits nicht
+                                        Spielverderber sein wollte.<anchor type="verweisziel" xml:id="stop_awv_jq2_qz"/></p>
+                                <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_ytj_tdm_qz"/>Herr Gottfried <persName key="pdrPo.001.004.000002501">Kinkel</persName> ist
+                                        zum Professor in Zürich bestallt.<anchor type="verweisziel" xml:id="stop_ytj_tdm_qz"/></p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Seit der
+                                                  Kriegslärm begonnen, haben sich die „Sächsischen“
+                                                  Arbeiter zahlreich an die „Intern. Assoc.“
+                                                  angeschlossen.</orig><note xml:id="b4f7e554-af69-45c0-9d20-c805def603ef">Siehe <ref target="B00119">W. Liebknecht an Marx,
+                                                  5.6.<?oxy_comment_start author="reichhoff" timestamp="20170421T123253+0200" comment="{{Br. 115.9–13}}"?>1866<?oxy_comment_end?></ref>.
+                                                  Marx berichtete darüber in der Sitzung des
+                                                  Zentralrats der IAA am 12.&#160;Juni 1866 (siehe
+                                                  The_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+                                                  S.&#160;423.4–5). (((lThe_Minute Book 1864–1866.
+                                                  In: MEGA²&#160;I/20. S.&#160;265–450)))
+                                                </note></seg></p>
+                                <closer sameAs="MBUnterschrift">Salut.<lb/>D<lb/>KM</closer>
+                                <postscript>
+                                        <p>Compliments to <seg type="comment"><orig>Mrs
+                                                  Lizzy</orig><note xml:id="b76df068-3a72-4410-8cc3-7689163def34"><persName key="pdrPo.001.004.000000698">Lydia
+                                                  Burns</persName>. </note></seg>.</p>
+                                </postscript>
+                                <p sameAs="MBTextmitEinzug">À Propos. <persName key="pdrPo.001.004.000002648">Lafargue</persName>
+                                        sagt mir, daß die ganze neue französische Schule der
+                                        mikroskopischen Physiologen, mit <persName key="ed_v41_rcn_hz">Robin</persName> an der Spitze,
+                                        sich gegen <persName key="pdrPo.001.004.000003625">Pasteur</persName>, <persName key="ed_qq4_dmk_sy">Huxley</persName> etc u. für <seg type="comment"><orig>generatio aequivoca</orig><note xml:id="e1c03f1d-9a33-43d1-953e-b4be9a28510f">Urzeugung (lat.).</note></seg> erklären. Er wird
+                                        mir einige neue Schriften darüber mittheilen. </p>
+                        </div>
+                </body>
+        </text>
+</TEI>

@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00146" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>142</idno>Karl Marx an Friedrich Engels in Manchester. London, Freitag,
+                    27. Juli 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 4455/L VI 593</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format
+                            270&#160;×&#160;208&#160;mm. Marx hat die ersten zwei Seiten vollständig
+                            beschrieben, die dritte zu drei Vierteln, die vierte ist leer.
+                            Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand:
+                            Numerierung  der beschriebenen Seiten: „49,1“ bis „49,3“.
+                            <?oxy_comment_start author="lindenberg" timestamp="20170424T141816+0200" comment="Von Eduard Bernsteins Hand: Numerierung des Briefes bzw. der beschriebenen Seiten: „49,1“ bis „49,3“."?></p>
+                        <?oxy_comment_end?>
+                        <p>Den versehentlich mit August datierten Brief schreibt Marx am
+                            27.&#160;Juli als Antwort auf den Brief von Engels vom 25.&#160;Juli
+                            1866 (Br.&#160;140). Engels beantwortet ihn am 6.&#160;August 1866
+                            (Br.&#160;144).</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 1982</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913).
+                        S.&#160;337–339.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                    <date when="1866-07-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName>Manchester</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:39:43Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener><dateline sameAs="MBDatumszeile"><pb/> 27 Aug. 1866.</dateline><salute sameAs="MBAnrede">Lieber Fred,</salute></opener>
+                <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Besten Dank für die
+                            £&#160;10. Sie kamen grade noch zur rechten Zeit.</orig><note xml:id="c7019ada-474f-4de4-b517-287ae4cee633">Siehe <ref target="B00144/#start_cmc_5pt_qz">Engels an Marx,
+                                25.7.<?oxy_comment_start author="reichhoff" timestamp="20170422T140816+0200" comment="{{Br. 140.3–8}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_bjg_n2n_qz"/>Dem <persName key="pdrPo.001.004.000004646">Stumpf</persName> schrieb ich nicht,
+                            eben weil er „Verhaltungs“maßregeln wollte u. meine Ansicht war, daß der
+                            am besten thue sich gar nicht zu „verhalten“, bevor die Ereignisse
+                            entschieden. Es war dieß eine Ansicht, die ich ihm rather nicht
+                            schriftlich zu geben für gut hielt. Nun ist Mainz, so viel ich weiß,
+                            immer noch cernirt, also wohl auch die Postverbindung
+                            unterbrochen.</orig><note xml:id="nzfw_hnr_gz">Siehe <ref target="B00130/#start_d5l_y35_qz">P. Stumpf an Marx,
+                                30.6.<?oxy_comment_start author="reichhoff" timestamp="20170422T163439+0200" comment="{{Br. 126.36–38}}"?>1866<?oxy_comment_end?></ref>,
+                                <ref target="B00135">10.7.<?oxy_comment_start author="reichhoff" timestamp="20170422T163554+0200" comment="{{Br._131.3, 9}}"?>1866<?oxy_comment_end?></ref>
+                            sowie <ref target="B00141">16.7.<?oxy_comment_start author="reichhoff" timestamp="20170422T163722+0200" comment="{{Br. 137.3-5}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    <seg type="comment"><orig>Hast Du an St. geschrieben?</orig><anchor type="verweisziel" xml:id="stop_bjg_n2n_qz"/><note xml:id="f68e7508-0c10-49a8-9d96-2603c4b03444">Ein Brief von Engels an
+                                <persName key="pdrPo.001.004.000004646">Stumpf</persName>,
+                            geschrieben zwischen 16. und 27.&#160;Juli 1866, ist nicht
+                            bekannt.</note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_uqd_qhn_tz"/><orig>Die Frankfurter Komödie gewährt einige
+                            Entschädigung für den Duft der Sieger. Au wai! geschrien, 25&#160;Mill.!
+                            Und der Herr <persName key="ed_zpc_5nd_2y">Bürgermeister</persName>
+                            erhängt sich!</orig><note xml:id="nfnw_qnr_gz">Während des Deutschen
+                            Krieges wurde die Freie Stadt Frankfurt am Main am 16.&#160;Juli 1866
+                            von preußischen Truppen besetzt. Am 19.&#160;Juli war eine zweite
+                            Kontribution in Höhe von 25&#160;Mio. Gulden gefordert worden, deren
+                            Zahlung die Gesetzgebende Versammlung im Gegensatz zu Bürgermeister Carl
+                            Fellner ablehnte. Daraufhin verlangten die Besatzer von <persName key="ed_zpc_5nd_2y">Fellner</persName> eine Liste der bedeutendsten
+                            Bürger mit Angabe ihres Besitzes. Am 24.&#160;Juli, seinem Geburtstag,
+                            erhängte sich Fellner.</note></seg> Und die Preussen erklären ihrerseits
+                    offiziell, das Fkfurt blechen muß, weil seine Zeitungen Seine Maj. <seg type="comment"><orig><persName key="pdrPo.001.004.000005131">Wilhelm</persName> den Eroberer</orig><note xml:id="nvmy_tnr_gz"><persName key="pdrPo.001.004.000005131">Wilhelm I.</persName> mit
+                            Anspielung auf <persName key="pdrPo.001.004.000011754">William
+                                I</persName> (genannt William the Conqueror). </note></seg>
+                    „beleidigt“ haben. <seg type="comment"><orig><persName key="pdrPo.001.004.000004595">Stieber</persName> wird, da sein
+                            Regierungsposten in Brünn nur interimistisch, am Ende noch Bürgermeister
+                            von den Frankfurter am Mainern,</orig><note xml:id="nmz1_ppr_gz">Zu
+                                <persName key="pdrPo.001.004.000004595">Wilhelm Stieber</persName>
+                            siehe <ref target="B00124/#b5fa5313-7ac5-4495-88a8-f4c6b531d808">Erl. zu
+                                Engels an Marx,
+                                11.6.<?oxy_comment_start author="reichhoff" timestamp="20170515T162750+0200" comment="{{Erl._120g}}"?>1866<?oxy_comment_end?>.</ref>
+                        </note></seg> die übrigens mir immer unerträgliche Canaillen waren. Und
+                    Edgar <persName key="pdrPo.001.004.000000282">Bauer</persName> wird ihnen als
+                    Obercensor octroyirt. Was aber die <seg type="comment"><orig>Eschenheimer
+                            Gaß</orig><note xml:id="db6f1f42-5e7b-4e33-a9b5-1d7284094d63">In der
+                            Großen Eschenheimer Gasse, im Palais Thurn und Taxis hatte 1815–1866 die
+                            Bundesversammlung, der deutsche Bundestag seinen Sitz.</note></seg>
+                    angeht, so würde <seg type="comment"><orig><persName key="pdrPo.001.004.000001264">Geheimrath
+                            Duncker</persName></orig><note xml:id="nill_y2q_yy"><persName key="pdrPo.001.004.000001264">Maximilian Duncker</persName>.
+                        </note></seg> – doch der regiert ja in Kassel.<anchor type="verweisziel" xml:id="stop_uqd_qhn_tz"/></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Ich bin ganz Deiner Ansicht,
+                            daß man den Dreck nehmen muß, wie er ist.</orig><note xml:id="f8cdb0b1-71b4-45fa-ba2f-afa2258cdde9">Siehe <ref target="B00144/#start_bsq_qk5_qz">Engels an Marx,
+                                25.7.<?oxy_comment_start author="reichhoff" timestamp="20170422T164607+0200" comment="{{Br. 140.44–47}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    Doch ist es angenehm, während <seg type="comment"><orig>dieser jungen Zeit der
+                            ersten Liebe</orig><note xml:id="acae828c-af20-44b0-a036-7051de4db738">
+                            <p rend="endnote text">Vermutlich nach Friedrich Schiller: Das Lied von
+                                der Glocke:</p>
+                            <p rend="endnote text">„O! zarte Sehnsucht, süßes Hoffen,<lb/>Der ersten
+                                Liebe goldne Zeit,<lb/>Das Auge sieht den Himmel offen,<lb/>Es
+                                schwelgt das Herz in Seligkeit.<lb/>O! daß sie ewig grünen
+                                bliebe,<lb/>Die schöne Zeit der jungen Liebe!“
+                                (((lSchiller,Friedr.:DasLied von der Glocke))) </p>
+                        </note></seg><index indexName="XE">
+                        <term>Schiller</term>
+                    </index> in der Ferne zu sein. Die Anmaßung der Preussen, die Narrheit des
+                    schönen <persName key="pdrPo.001.004.000005131">Wilhelms</persName>, der glaubt,
+                    daß sich seit dem Siegestraum nichts geändert hat ausser daß er großmächtig
+                    geworden u.s.w. werden schon wirken. <seg type="comment"><orig>Die Oestreicher
+                            stehn jezt da, wo die Prager Slavenfanatiker sie 1848 <pb/>
+                            wollten.</orig><note xml:id="nhtm_1qr_gz">Marx erinnert an den vom 2.
+                            bis 12.&#160;Juni 1848 in Prag tagenden Slawenkongress. Hier setzten
+                            sich die liberalen Vertreter des tschechischen Bürgertums durch. Der
+                            Kongress trat im Sinne des Austroslawismus für den Erhalt der
+                            Habsburgermonarchie als Föderation gleichberechtigter, unter ihrem Dach
+                            lebender Nationalitäten mit Selbstbestimmungsrecht in inneren
+                            Angelegenheiten ein. (Siehe Fischel: Der Panslawismus. S._280–284;
+                            I._I._Udalzow: Aufzeichnungen. S._120–122, 225; Kohn: Die Slawen.
+                            S._78–83.) (((lFischel,Alfred:Der Panslawismus bis zum Weltkrieg.
+                            Stuttgart, Berlin_1919))) (((lUdalzow,I._I.: Aufzeichnungen über die
+                            Geschichte des nationalen und politischen Kampfes in Böhmen im Jahre
+                            1848. Berlin 1953))) (((lKohn,Hans:Die Slawen und der Westen. Wien,
+                            München 1956))) </note></seg> Indeß ist einstweilen <seg type="comment"><orig>ihr Verlust Venedigs,</orig><note xml:id="c8cd4d0a-ad90-4e4a-b82e-35427d308c3a">Siehe <ref target="B00133/#d384247d-a727-4f9f-ab1b-8d8f9a5a2454">Erl. zu Engels
+                                an Marx, 1.5.1866.</ref></note></seg> ihre nothgedrungene
+                    Concentration der Kraft, den Russen keineswegs günstig. Als selbst
+                    panslavistisches Reich werden sie den Moskovitern um so antagonistischer. Bei
+                    der ausserordentlichen Verkommenheit der <persName key="ed_spp_k2v_hz">Habsburger</persName> steht zwar zu fürchten, daß sie sich by u. by von den
+                    Russen verleiten lassen zu gemeinschaftlichem Angriff auf die Türkei.</p>
+                <p sameAs="MBTextmitEinzug">Für die Arbeiter ist natürlich alles günstig, was die
+                    Bourgeoisie centralisirt. Jedenfalls ist <seg type="comment"><orig>der Friede,
+                            wenn auch Morgen geschlossen,</orig><note xml:id="a05cfc40-57cb-4f27-97c5-facd34f6e7a0">Am 22.&#160;Juli 1866 trat
+                            im Deutschen Krieg der Waffenstillstand zwischen Preußen und Österreich
+                            in Kraft, am 26.&#160;Juli wurde in Nikolsburg der Vorfrieden
+                            unterzeichnet. Der Frieden von Prag wurde am 23. August 1866
+                            geschlossen.</note></seg> noch provisorischer als der von Villa Franca
+                    u. Zürich war. Sobald von <add>den</add> verschiednen Seiten die „Waffenreform“
+                    vorgenommen, gehts wieder ans „Haun“, wie der <persName key="pdrPo.001.004.000004227">Schapper</persName> sagt. Jedenfalls hat auch
+                        <persName key="pdrPo.001.004.000003392">Bonaparte</persName> eine Schlappe
+                    erhalten, obgleich die Bildung militairischer Königreiche rechts u. links in den
+                        <seg type="comment"><orig><persName key="pdrPo.001.004.000000523">plonplonistischen</persName> Plan „de la démocratie générale“
+                            paßt.</orig><note xml:id="nh3n_yqr_gz">Vermutlich Anspielung auf die im
+                            Vergleich zu seinem Cousin <persName key="pdrPo.001.004.000003392">Napoléon_III</persName> liberaleren und antiklerikalen Ansichten
+                            des <persName key="pdrPo.001.004.000000523">Prinzen Napoléon</persName>.
+                        </note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Hier hat die Regierung es
+                            beinahe zu einer Emeute gebracht.</orig><note xml:id="nvyx_wrr_gz">Es
+                            geht hier um Meetings im Rahmen der Wahlrechtsbewegung zwischen 23. und
+                            25. Juli im Londoner Hyde Park, bei denen es zu schweren Konfrontationen
+                            mit der Polizei gekommen war. In dieser Situation verhandelten Vertreter
+                            der Reform League mit dem <persName key="pdrPo.001.004.000005010">britischen Innenminister</persName>. </note></seg> Der Engländer
+                    bedarf natürlich erst der revolutionären Erziehung, wozu zwei Wochen genügen
+                    würden, wenn Sir Richard <persName key="pdrPo.001.004.000003111">Mayne</persName> absolut zu befehlen hätte. In der That hing es an einem
+                    Punkt. Wurden die railings&#160;– u. es war drauf u. dran – zur Attaque u.
+                    Defensive gegen die Polizei benutzt, u. einige 20&#160;Stück der letzten
+                    todtgeschlagen, so mußte Militair „einschreiten“, nicht nur paradiren. Und dann
+                    wäre es lustig geworden. So viel ist sicher, daß diese steifköpfigen <persName key="pdrPo.001.004.000010902">John Bulls</persName>, <del> die <sic ana="#break-off"/></del> deren Hirnschädel für die bludgeons der
+                    Constabler eigends fabricirt scheinen, ohne wirklich blutiges Zusammentreffen
+                    mit den Herrschenden zu nichts kommen werden.</p>
+                <p sameAs="MBTextmitEinzug">Die Rührscene zwischen dem alten Esel <persName key="pdrPo.001.004.000000296">Beales</persName> u. dem ebenso grossen
+                    Eselalten <persName key="pdrPo.001.004.000005010">Walpole</persName>, dann
+                    dazwischen der dünnstimmige, intrusive, wichtig thuende, u. aus „Wahlheitsliebe“
+                    stets seinen Weg <pb/>
+                    <seg type="comment"><orig>in die <hi rendition="#u"><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></hi><bibl sameAs="zzThe Times"><hi rendition="#u"><?oxy_custom_end?>Times</hi></bibl> findende <persName key="pdrPo.001.004.000002220">Holyoake</persName>, – nichts als
+                            Friede u. Liederlichkeit.</orig><note xml:id="nhkz_bsr_gz"><persName key="pdrPo.001.004.000002220">George Jacob Holyoake</persName>, ein
+                            Vorstandsmitglied der Reform League, veröffentlichte einen Bericht über
+                            die Verhandlungen mit dem Innenminister, siehe G[eorge] J[acob]
+                            Holyoake: The Interview with Mr.&#160;Walpole. To the Editor of the
+                            Times. In: The Times. London. Nr.&#160;25_561, 27.&#160;Juli 1866.
+                            S.&#160;5. (((lHolyoake,G[eorge] J[acob]:_The Interview with
+                            Mr.&#160;Walpole. To the Editor of the Times. In: The Times. London.
+                            Nr.&#160;25_561, 27.&#160;Juli 1866. S.&#160;5))) </note></seg>
+                    Dazwischen, während dieß Gesindel sich <del rendition="#ow">bekl<sic ana="#break-off"> </sic></del> becomplementirt u. beseuchbeitelt,
+                    verknurrt Hund <persName key="ed_uzs_j4s_gz">Knox</persName>, der
+                    Polizeimagistrate von <expan resp="editor" sameAs="dottet_underline">Mar<ex>y</ex>l</expan><ex>ebone</ex>, in einer summarischen Manier, die
+                    zeigt, was geschähe <seg type="comment"><orig>wenn London Jamaika
+                            wäre.</orig><note xml:id="ni4l_str_gz">Zum Aufstand auf Jamaika siehe
+                                <ref target="B00054/#ny1x_1fc_wy">Erl. zu Engels an Marx,
+                                5.3.<?oxy_comment_start author="reichhoff" timestamp="20170515T183000+0200" comment="{{Erl. 51e}}"?>1866<?oxy_comment_end?>.</ref></note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Disraeli hat sich sehr
+                            lächerlich gemacht, erstens durch die elegische Äusserung im Unterhaus,
+                            „er wisse nicht, ob er noch ein Haus habe“</orig><note xml:id="nnqm_bvr_gz">Siehe Benjamin Disraeli: [Rede im House of Commons,
+                            24. Juli 1886, u._d._T.]: The Chancellor of the Exchequer. – I take it
+                            for granted … In: The Times. London. Nr. 25_559, 25. Juli 1866. S.
+                            7.</note></seg> u. dann durch die starke militärische Besetzung
+                    desselbigen Hauses, obgleich drittens der Mob (durch die Leute von der
+                    Reformleague <add>vorher</add> instruirt) absichtlich das Haus <seg type="comment"><orig>des Herrn „Vivian Grey“</orig><note xml:id="f7035483-d69e-4485-9879-f53b49dc174c">Gemeint ist hier <persName key="pdrPo.001.004.000001166">Benjamin Disraeli</persName> – es ist
+                            der Titel seines ersten Romans, der 1826 anonym erschienen war.
+                            (((l[Disraeli,Benjamin:]Vivian Grey))) </note></seg><index indexName="XE">
+                        <term>Vivian Grey</term>
+                    </index><index indexName="XE">
+                        <term>Disraeli</term>
+                    </index> untouched ließ. Nicht ein Haar wurde diesem Haus ausgezogen. Dafür
+                    hatten die Fensterscheiben <persName key="ed_vfr_yqq_bz">Elchos</persName>
+                    <supplied cert="high">um</supplied> so mehr zu büssen. Ich hatte an <persName key="pdrPo.001.004.000001027">Crämer</persName> u. andre managers den hint
+                    fallen lassen, ob es nicht passend dem <hi rendition="#u"><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></hi><bibl sameAs="zzThe Times"><hi rendition="#u"><?oxy_custom_end?>Times</hi></bibl><hi rendition="#u"> </hi><hi rendition="#u">Newspaper</hi> einen Besuch abzustatten? Da der hint nicht
+                    gleich „verstanden“ wurde oder werden wollte, kam ich nicht darauf zurück.</p>
+                <p sameAs="MBTextmitEinzug">Die Cholera hat uns <add place="superlinear">(ich meine
+                        den Londonern)</add> ihre Aufwartung alles Ernstes gemacht u. <seg type="comment"><orig><anchor type="verweisziel" xml:id="start_slh_45s_qz"/>der Bericht des Dr&#160;<persName key="pdrPo.001.004.000002277">Hunter</persName>, im letzte Woche erschienenen VIII&#160;<expan resp="editor" sameAs="dottet_underline">Rep<ex>ort</ex></expan>
+                            <expan resp="editor" sameAs="dottet_underline">d<ex>es</ex></expan>
+                            Health Board <del> , soll <sic ana="#break-off"/></del> über das
+                            „Housing <expan resp="editor" sameAs="dottet_underline">d<ex>er</ex></expan> Poor“<anchor type="verweisziel" xml:id="stop_slh_45s_qz"/>,</orig><note xml:id="nnkg_ftr_gz">Siehe
+                                <ref target="B00143/#nojn_lwl_gz">Erl. zu Marx an Engels,
+                                28.7.<?oxy_comment_start author="reichhoff" timestamp="20170515T183224+0200" comment="{{Erl._139i}}"?>1866<?oxy_comment_end?>.</ref>
+                            (((lPublic Health. [Reports.] Eight Report of the medical officer of the
+                            Privy Council. With App. 1865. Presented pursuant to Act of Parliament.
+                            London 1866))) </note></seg> soll der Madame Cholera wohl als Directory
+                    dienen, <subst>
+                        <del>wohin</del>
+                        <add>wo</add>
+                    </subst> sie vorzugsweise Besuch abzustatten.</p>
+                <p sameAs="MBTextmitEinzug">My best compliments to <seg type="comment"><orig>Mrs
+                            Lizzy</orig><note xml:id="nqcj_svr_gz"><persName key="pdrPo.001.004.000000698">Lydia Burns</persName>.
+                    </note></seg></p>
+                <closer sameAs="MBUnterschrift">Dein<lb/>KM </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

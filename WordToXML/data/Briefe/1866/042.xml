@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00045" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>42</idno>Hermann Engels an Friedrich Engels in Manchester. Barmen, Montag, 19. Februar 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">Standort Orig. nicht bekannt; Kopie: f. 9 op. 1
+                                d. 11/15. Fotosign.&#160;598</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Standort der Originalhandschrift ist gegenwärtig nicht bekannt, die
+                            Veröffentlichung erfolgt nach einer Fotokopie.</p>
+                        <p>Soweit aus der Kopie zu ersehen ist, besteht der Brief aus einem Blatt,
+                            dessen erste Seite Hermann Engels vollständig beschrieben hat. Die
+                            letzte Passage steht am linken Rand der Seite quer.</p>
+                        <p>Von unbekannter Hand: Nummerierung der Briefes: „598“.</p>
+                    </physDesc>
+                </msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000001375">Hermann Engels</persName><placeName>Barmen</placeName><date when="1866-02-19"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:41Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Barmen, 19. Febr. 1866</dateline><salute sameAs="MBAnrede">Lieber Friedrich!</salute></opener><p sameAs="MBTextohneEinzug"><persName key="pdrPo.001.004.000000501">Fritz Boelling</persName>, der
+                                                  mir neulich die Muster □&#160;Kordel für Eueren
+                                                  Agenten sandte &amp; die Du ja erhalten hast,
+                                                  theilte mir gestern mit, daß der betreffende Agent
+                                                  ihnen (<orgName key="pdrPo.001.015.000090159">C.&#160;Karthaus &amp; C<hi rendition="#sup">o</hi></orgName>) geschrieben habe; die Sache
+                                                  gehe nun zwar so weit in Ordnung, nur habe es nach
+                                                  dem Inhalt des Briefs geschienen, als ob Euer
+                                                  Agent diese Waare für <orgName key="pdrPo.001.015.000090159">Karthaus &amp; C<hi rendition="#sup">o</hi></orgName> provisionsweise
+                                                  verkaufen wolle; denn er habe von 2½% oder so,
+                                                  welche sie ihm reserviren möchten, geschrieben.
+                                                  Das würde aber schließlich nicht angehen, weil sie
+                                                  schon dort einen Agenten, dem sie von Allem, was
+                                                  sie nach Nord England schickten schon Provision
+                                                  gäben, hätten. Diese Angelegenheit werden sie nun
+                                                  wohl unter sich ordnen; nur möchte <persName key="pdrPo.001.004.000000501">Fritz
+                                                  Boelling</persName> gerne eine etwas genauere
+                                                  Auskunft über den Agenten haben, damit er wisse,
+                                                  falls der Mann die Waare für feste Rechnung kaufe,
+                                                  wie weit er mit ihm gehen könne; denn diese
+                                                  Artikel liefern oft bei einem Mann zu
+                                                  £&#160;1500–2000 auf.</p><p sameAs="MBTextmitEinzug">Du bist deshalb wohl so gut, mir recht bald eine Auskunft über die <hi rendition="#u">Mittel</hi> dieses Mannes zu geben.</p><p sameAs="MBTextmitEinzug">Es geht bei uns jetzt wieder ziemlich flott, wenigstens kommen jetzt
+                                                  <expan resp="editor" sameAs="dottet_underline">pr<ex>o</ex></expan> Woche oft 17&#160;000 bis
+                                                  20&#160;000&#160;℔&#160; engl. Orders ein, so daß
+                                                  wir seit einigen Monaten wieder volle Zeit
+                                                  arbeiten können.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Mutter</orig><note xml:id="ad75e97c-7d91-496e-8f32-2af25abd5fed"><persName key="pdrPo.001.004.000001367">Elisabeth
+                                                  Engels</persName>. </note></seg> ist wohl &amp;
+                                                  läßt Dich mit mir herzlichst grüßen</p><closer sameAs="MBUnterschrift"><signed>Dein Herm. Engels.</signed></closer><postscript><p>Ich habe neulich für Mutter ein paar sehr schöne neue Wagenpferde gegen die Ungarn eingetauscht, mit denen Mutter außerordentlich zufrieden ist.– </p></postscript></div></body></text></TEI>

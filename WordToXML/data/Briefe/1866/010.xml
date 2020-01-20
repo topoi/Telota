@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00011" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>10</idno>Karl Marx an Wilhelm Liebknecht in Leipzig. London, Montag, 15. Januar
+          1866</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>IISG</institution>
+            <collection>Marx-Engels-Nachlass</collection>
+            <idno><idno type="shelfmark">C 506/C 154</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Blatt dünnem, blauem Papier im Format
+              135&#160;×&#160;208&#160;mm. Marx hat beide Seiten vollständig beschrieben.
+              Schreibmaterial: schwarze Tinte.</p>
+            <p>Auf der ersten Seite oben links trägt der Brief den ovalen roten Aufdruck des Central
+              Council der IAA (siehe Marx an J. Ph. Becker., zw. 9. u. 15.1.1866).</p>
+            <p/>
+            <p>Die Beilage („Ich lege Dir ...“) ist nicht überliefert (siehe Erl.).</p>
+          </physDesc>
+          <additional>
+            <listBibl>
+              <bibl>RGASPI f. 1 op. 1 d. 1927</bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+        <listWit>
+          <witness><bibl>Erstveröffentlichung: in russischer Übersetzung: МЭС<hi rendition="#sup">1</hi> 29 (1946). S.&#160;436/437.</bibl></witness>
+          <witness><bibl>in der Sprache des Originals: Liebknecht Bw (1963).
+            S.&#160;70–72.</bibl></witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName>London</placeName>
+          <date when="1866-01-15"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="pdrPo.001.004.000002822">Wilhelm Liebknecht</persName>
+          <placeName>Leipzig</placeName>
+        </correspAction>
+        <note>Der Brief ist die Antwort auf Liebknechts Brief, geschrieben vor dem 26.&#160;Dezember
+          1865 (MEGA² III/13. Br.&#160;350). Liebknecht beantwortete ihn am 18.&#160;Januar 1866
+            <ref target="B00016">(Liebknecht an Marx, 18.1.1866).</ref></note>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-10-31T13:38:15Z</date> | <name>Regina Roth</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingAct">
+        <opener>
+          <dateline sameAs="MBDatumszeile"><pb/> 15 Jan. 1866.</dateline>
+          <salute sameAs="MBAnrede">Lieber Library,</salute>
+        </opener>
+        <p sameAs="MBTextohneEinzug">Glück Neujahr!</p>
+        <p sameAs="MBTextmitEinzug">Du mußt mein Schweigen entschuldigen, ditto die Kürze meiner
+            <add>jetzigen</add> Zeilen. Du glaubst nicht, wie ich mit meiner Zeit am bothered. <hi rendition="#u">Unwohlsein</hi>, immer periodisch rekurrirend, <hi rendition="#u">Pech</hi> durch allerlei Zufälle, <hi rendition="#u">In Anspruch Genommenheit</hi>
+          durch die „Intern. Assoc.“ u.s.w. haben alle meine freien Momente für Reinschrift <seg type="comment"><orig>meines Mscpts</orig><note xml:id="nzzm_lb3_dy">Gemeint ist hier
+              Karl Marx: Das Kapital; siehe  <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an J. Ph. Becker,
+                zwischen 9. und 15.1.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170510T103536+0200" comment="{{Erl. 6b}}."?>
+              <?oxy_comment_end?>(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867))). Marx ging zu diesem
+              Zeitpunkt noch davon aus, dass „Das Kapital“, Bd._1 die sog. Bücher_1 und 2 seines
+              Werkes umfassen würde.</note></seg> confiscirt. <anchor type="verweisziel" xml:id="start_krt_zz4_mz"/>Ich hoffe davon Band I für den Druck <seg type="comment"><orig>dem <persName key="pdrPo.001.004.000003135">Buchhändler </persName></orig><note xml:id="ndy3_v23_dy"><persName key="pdrPo.001.004.000003135">Otto Meißner</persName>.
+            </note></seg> selbst im März bringen zu können.<anchor type="verweisziel" xml:id="stop_krt_zz4_mz"/> (Das Ganze, die beiden Bände, wird aber <hi rendition="#u">gleichzeitig</hi> erscheinen. Die Sache <hi rendition="#u">ist gut.</hi>*)</p>
+        <p sameAs="MBTextmitEinzug">Also ganz summarisch.</p>
+        <p sameAs="MBTextmitEinzug">*<anchor type="verweisziel" xml:id="start_vtj_qcw_mz"/>Ich
+          schicke Dir heute per Post die 2 letzten Nummern des <hi rendition="#u">„Workman’s <bibl sameAs="zzThe Workman’s Advocate">Advocate“</bibl></hi>, <seg type="comment"><orig>wovon <persName key="pdrPo.001.004.000001296">Eccarius</persName> jetzt
+              Redacteur.</orig><note xml:id="e87a2b32-35b7-4797-b12c-5a6d089e60aa">Zu „The Workman’s
+              Advocate“ (((zThe Workman’s Advocate))) siehe <ref target="B00007/#start_fkq_br5_mz">Marx an J. Ph. Becker,
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170408T102209+0200" comment="{{Br. 6.62–65}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          Schickst Du <hi rendition="#u">Artikel</hi> dafür, wie ich hoffe, so an mich (politisch,
+          social, was Du willst.)</p>
+        <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_ekh_gbj_nz"/><seg type="comment"><anchor type="verweisziel" xml:id="start_jml_clq_pz"/><orig>Ich lege Dir
+              auch <hi rendition="#u">cards of membership</hi> bei.</orig><note xml:id="cb864592-8d8a-4a93-b073-8383b8d607bc">
+              <p rend="endnote text">International Working Men’s Association. Member’s Annual
+                Subscription Card [for 1866]. [London 1865].Die Mitgliedskarten der IAA für das Jahr
+                1866 wurden etwa Ende November–Anfang Dezember 1865 gedruckt. (Siehe auch
+                MEGA²&#160;I/20. S.&#160;815, 817 und 1909/1910.) (((lInternational Working Men’s
+                Association. Member’s Annual Subscription Card [for 1866]. [London 1865].
+                In:MEGA²&#160;I/20. S.&#160;817))) - In seinem Notizbuch von Dezember 1864 bis Juni
+                1870 (RGASPI, Sign. f.&#160;1, op.&#160;1, d.&#160;1797. [S.&#160;3] von hinten)
+                (((lMarx:Notizbuch von Dezember 1864 bis Juni 1870 (RGASPI, Sign. f.&#160;1,
+                op.&#160;1, d.&#160;1797).))) notierte Marx die laufenden Nummern der
+                Mitgliedskarten, die er Anfang 1866 an <persName key="pdrPo.001.004.000002822">Liebknecht</persName> (6&#160;Karten), sowie an Engels, <persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName> (je 2&#160;Karten),
+                  <persName key="pdrPo.001.004.000004646">Paul Stumpf</persName> (3&#160;Karten) und
+                  <persName key="pdrPo.001.004.000004960">August Vogt</persName> (6&#160;Karten)
+                geschickt hatte. </p>
+              <p rend="endnote text">{{{Als Abbildung bringen}}}</p>
+            </note></seg> Ich habe sie bezahlt. Du kannst sie also geben, wem Du willst u. hast nur
+          den Namen einzuschreiben u. hinter £&#160;0, dagegen hinter 0&#160;s.&#160;1.<anchor type="verweisziel" xml:id="stop_vtj_qcw_mz"/><anchor type="verweisziel" xml:id="stop_ekh_gbj_nz"/></p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Die Bedingungen, generally sind die:
+              Eine <hi rendition="#u">Gesellschaft als solche</hi>, wenn sie zutreten will, hat
+                <add>eine</add>
+              <hi rendition="#u">Gesellschaftskarte wofür</hi>, 5&#160;shil. per Jahr zu zahlen.
+              Treten aber alle Mitglieder <hi rendition="#u">individuell</hi> bei, so müssen sie
+              Karten der Art, wie ich sie Dir schicke, lösen.</orig><note xml:id="f979043b-8513-4258-9b3a-7c9ff56e8e77">Zur Mitgliedschaft in der IAA siehe
+                <ref target="B00007/#d2800d63-c8c5-47ca-9850-daa256487b96">Erl. zu Marx an J. Ph.
+                Becker, zwischen 9. und 15.1.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170510T094455+0200" comment="{{Erl. 6gg}}"?></note><?oxy_comment_end?></seg>
+          Es ist dieß den Arbeitern nützlich. Die <expan resp="editor" sameAs="dottet_underline">Karte<ex>n</ex></expan> dienen als Paß im Ausland, u. die confrères in London, Paris,
+          Brüssel, Lyons, Genf etc verschaffen ihnen Arbeit.<anchor type="verweisziel" xml:id="stop_jml_clq_pz"/></p>
+        <p sameAs="MBTextmitEinzug">Die Gesellschaft hat grosse Fortschritte gemacht. Sie besitzt
+          bereits 1&#160;englisches officielles Journal, <hi rendition="#u">„The Workman’s
+            </hi><bibl sameAs="zzThe Workman’s Advocate"><hi rendition="#u">Advocate“</hi></bibl>,
+          <pb/> ein Brüßler, <hi rendition="#u">„La Tribune du </hi><bibl sameAs="zzLa Tribune du Peuple"><hi rendition="#u">Peuple“</hi></bibl>, ein
+          französisches in Genf, „<hi rendition="#u">Journal de l’Assoc. Intern. des
+            Travailleurs</hi>, Section de la Suisse <bibl sameAs="zzJournal de l’Association Internationale des Travailleurs">Romande“</bibl> u.
+          ein deutsches in Genf, <hi rendition="#u">„Der </hi><bibl sameAs="zzDer Vorbote"><hi rendition="#u">Vorbote“</hi></bibl>, der in einigen Tagen erscheinen wird. <hi rendition="#u">Adresse: 6,&#160;rue du Mole, Genf, J.P.&#160;</hi><persName key="pdrPo.001.004.000000317"><hi rendition="#u">Becker</hi></persName>, im Fall Du v.
+          Zeit zu Zeit dem Alten schreiben willst (was ich auch hoffe.)</p>
+        <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_vwb_zhj_nz"/><anchor type="verweisziel" xml:id="start_izl_psk_nz"/><seg type="comment"><orig>Ich hoffe nun,
+              daß Du mich bald in den Stand setzen wirst, hier die Stiftung einer Leipziger Gemeinde
+              anzeigen u. Correspondenz vorlegen zu können.</orig><note xml:id="a4016170-75c2-4918-b14f-5981f8456429">
+              <p rend="endnote text">Am 3.&#160;Juli 1865 war <persName key="pdrPo.001.004.000002822">Liebknecht</persName> wegen seiner politischen
+                Tätigkeit aus Preußen ausgewiesen worden. Am 24.&#160;August 1865 hatte er sich in
+                Leipzig niedergelassen (MEGA²&#160;III/13. Br.&#160;271, Erl._271.2 und Br._299).
+                (((lMEGA²&#160;III/13))) Über seine dortige Tätigkeit, insbesondere für die IAA,
+                berichtete er am 8.&#160;Februar 1866 u._a. Marx (<ref target="B00033">W. Liebknecht
+                  an Marx
+                  8.2.<?oxy_comment_start author="reichhoff" timestamp="20170314T105522+0100" comment="{{Br. 30}}"?>1866<?oxy_comment_end?></ref>).
+                Es gelang ihm zu dieser Zeit, 12&#160;Mitglieder des Leipziger
+                Arbeiterbildungsvereins auch als individuelle Mitglieder für die IAA zu gewinnen.
+                Eine Sektion der IAA konstituierte sich in Leipzig erst im April 1869. </p>
+            </note></seg> (<hi rendition="#u">Englisch</hi>. Sie kann dann auch im <hi rendition="#u">Workman’s </hi><bibl sameAs="zzThe Workman’s Advocate"><hi rendition="#u">Advocate</hi></bibl> dienen.) Auf die Zahl kömmt es nicht an, obgleich the more, the
+          better.</p>
+        <p sameAs="MBTextmitEinzug">Wollen die Leute en masse, als Gesellschaft eintreten, so siehst
+          Du daß der <hi rendition="#u">Gesammtpreiß</hi> von 5&#160;sh., den sie jährlich zu
+          zahlen, <hi rendition="#u">Nichts</hi> ist.<anchor type="verweisziel" xml:id="stop_izl_psk_nz"/></p>
+        <p sameAs="MBTextmitEinzug"><persName key="pdrPo.001.004.000000317">J.P. Becker</persName>
+          schreibt mir:<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig><?oxy_custom_end?>„In Leipzig, Gotha,
+              Stuttgart u. Nürnberg werden sich Sektionen bilden; sollen wir sie einstweilen hier
+              aufnehmen, bis es eine grosse Anzahl ist, u. sich in Dtschd ein Zentralcomité gebildet
+              hat?“</orig><note xml:id="d5096879-d42e-4122-8289-66347f310442">Siehe
+              MEGA²&#160;III/13. Br.&#160;348.15–17. (((lMEGA²&#160;III/13))) </note></seg></p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Ich habe das <hi rendition="#u">bejahend</hi> beantwortet.</orig><note xml:id="e58142f7-cc03-4cc5-adca-086fa964a93d">Siehe <ref target="B00007/#start_knb_qtp_mz">Marx an J. Ph. Becker, zwischen 9. und
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170407T181150+0200" comment="{{Br. 6.69–72}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          Da aber in einer Stadt verschiedne Branchen existiren können, so kannst Du u. die Deinen
+          direkt mit uns zusammenhängen.<anchor type="verweisziel" xml:id="stop_vwb_zhj_nz"/></p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_q4f_42l_nz"/>Von den Berlinern habe ich einen zweiten Brief
+                erhalten.<anchor type="verweisziel" xml:id="stop_q4f_42l_nz"/> Ich schreibe ihnen
+              endlich, heute.</orig><note xml:id="e139a3b1-cfd1-4ba0-b331-14cfaba7e3fc">Den ersten
+              Brief aus Berlin von <persName key="pdrPo.001.004.000003176">Metzner</persName>,
+                <persName key="pdrPo.001.004.000003187">Meyer</persName> und <persName key="pdrPo.001.004.000004960">Vogt</persName> an Marx siehe MEGA² III/13.
+              Br.&#160;335. Der zweite Brief, von Sigfrid Meyer an Marx, geschrieben vor dem
+              15.&#160;Januar 1866, ist nicht überliefert. Marx beantwortete die Briefe nach eigenem
+              Bekunden mit nicht überlieferter Post vom 15.&#160;Januar 1866. Siehe <ref target="B00013/#start_lnz_xr5_mz">Marx an Engels,
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170408T102852+0200" comment="{{Br. 12.11–12}}"?>1866<?oxy_comment_end?></ref>
+              und Erl.</note></seg>
+          <seg type="comment"><orig>Ditto von Dr&#160;<persName key="pdrPo.001.004.000002616">Kugelmann</persName>.</orig><note xml:id="cb6257b2-2909-4791-9e58-f0e26b41c4a8">Marx beantwortete am 15.&#160;Januar 1866 (<ref target="B00012">Marx an L. Kugelmann
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170314T105726+0100" comment="{{Br. 11}}"?>1866<?oxy_comment_end?></ref>)
+              den Brief Kugelmanns vom 20.&#160;Dezember 1865 (MEGA² III/13. Br.&#160;349).
+              (((lMEGA²&#160;III/13))) </note></seg></p>
+        <p sameAs="MBTextmitEinzug">Salut</p>
+        <closer sameAs="MBUnterschrift">
+          <salute>D <lb/></salute>
+          <signed>K M</signed>
+        </closer>
+        <postscript>
+          <p><seg type="comment"><orig>Die Fragen, die auf dem Genfer Congreß, Ende Mai verhandelt
+                werden sollen,</orig><note xml:id="a5297833-aadd-4a3e-8522-5c8886c5ab5f">
+                <p rend="endnote text">Siehe <ref target="B00004/#nrk1_sfc_3y">Erl. zu Marx an
+                    Engels, 5.1.1866.</ref>
+                  <?oxy_comment_start author="lindenberg" timestamp="20170510T103047+0200" comment="{{Erl. 3d}}"?>
+                  <?oxy_comment_end?>- Zum Programm des Kongresses siehe Karl Marx: Programme du
+                  Congrès de Gèneve adopté à la Conférence de Londres (1865). In: MEGA²&#160;I/20.
+                  S.&#160;187/188; MEGA²&#160;III/13. Br.&#160;342 und Br._344 sowie
+                  MEGA²&#160;I/20. Erl._187.1 und Karl Marx: Programme du Congrès de Genève (1866)
+                  In: MEGA²&#160;I/20. S.&#160;224. (((lMarx,Karl: Programme du Congrès de Gèneve
+                  adopté à la Conférence de Londres (1865). In: MEGA²&#160;I/20. S.&#160;187/188)))
+                  (((lMEGA²&#160;III/13))) (((lMarx,Karl: Programme du Congrès de Genève (1866) In:
+                  MEGA²&#160;I/20. S.&#160;224))) </p>
+              </note></seg> theile ich Dir nächstesmal mit. </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00132" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>128</idno>Louis Kugelmann an Karl Marx in London. Hannover, Freitag, 6. Juli
+          1866</title>
+      </titleStmt>
+      <editionStmt>
+        <edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>RGASPI</institution>
+            <idno><idno type="shelfmark">f. 1 op. 1 d. 5589</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              283&#160;×&#160;217&#160;mm. Prägung: „Dr.&#160;L.&#160;Kglm.“ Die ersten drei Seiten
+              hat Kugelmann vollständig beschrieben, die vierte ist leer. Schreibmaterial: schwarze
+              Tinte.</p>
+            <p>Von Marx’  Hand: Anstreichung mit Rotstift auf der dritten Seite („Wie“ bis
+              „ist.&#160;–“,
+              Z.&#160;39–45).<?oxy_comment_start author="lindenberg" timestamp="20170421T183003+0200" comment="Von Marx’ [so im Katalog RGASPI] Hand: Anstreichung mit Rotstift auf der dritten Seite („Wie“ bis „ist. –“, Z. 39–45)."?></p>
+            <?oxy_comment_end?>
+            <p>Von unbekannter Hand: Numerierung der beschriebenen Seiten: „24a“ bis
+              „24c“.<?oxy_comment_start author="lindenberg" timestamp="20170421T183027+0200" comment="Von unbekannter Hand: Numerierung des Briefes bzw. der beschriebenen Seiten: „24a“ bis „24c“."?></p>
+            <?oxy_comment_end?>
+            <p>Marx beantwortet den Brief am 23.&#160;August 1866 (Br.&#160;159).</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName>
+          <placeName>Hannover</placeName>
+          <date when="1866-07-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName>London</placeName>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-10-31T13:39:34Z</date> | <name>Regina Roth</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingAct">
+        <opener>
+          <dateline sameAs="MBDatumszeile"><pb/> Hannover, 6. Juli 1866</dateline>
+          <salute sameAs="MBAnrede">Hochverehrter Freund!</salute>
+        </opener>
+        <p sameAs="MBTextohneEinzug">Mit Ausnahme einer kleinen Clique von Beamten Officieren u.
+          Hof-Ouvrier ist Norddeutschland bismarkisch.&#160;– Wir werden unsere
+          Einzelsouverainitäten, mit militairischer, diplomatischer pp Beschränkung, wiederhaben,
+          dabei einen allgemeinen deutschen Handelstag unter der Firma Parlament, woselbst die
+          Helden der <seg type="comment"><orig>Fortschrittspartei</orig><note xml:id="f79d7a3b-5ad6-4b72-ad4f-57ceeac76381">Die Deutsche Fortschrittspartei
+              (1861-1884).</note></seg> ihre oratorische Nothdurft verrichten können und – eine
+          nachhaltige Action gegen <seg type="comment"><orig>das „innere Düppel“</orig><note xml:id="a5a3dcce-f91a-4c70-ac22-18be12f4f80f">Im Deutsch-Dänischen Krieg 1864 stürmten
+              preußische Truppen in der Entscheidungsschlacht am 18.&#160;April 1864 die befestigte
+              Anhöhe bei Düppel (Düppeler Schanzen). Der Ausdruck „inneres Düppel“ stammt aus der
+              konservativen, regierungsnahen „Norddeutschen Allgemeinen Zeitung“ (Berlin).
+              (((zNorddeutsche Allgemeine Zeitung))) Am 30.&#160;September 1864 hatte sie in
+              Nr.&#160;229 auf S.&#160;1 unter „Politischer Tagesbericht. Berlin, den
+              29.&#160;September.“ nach dem Sieg über Dänemark, über die
+              „&lt;sperr&gt;dänische&lt;/sperr&gt; Fortschrittspartei“ nun zum Kampf gegen die
+              „&lt;sperr&gt;deutsche&lt;/sperr&gt; Fortschrittspartei“ gegen das „Düppel im Innern“
+              aufgerufen. Engels benutzte diesen Ausdruck auch in seiner Arbeit „Die preußische
+              Militärfrage und die deutsche Arbeiterpartei“ (MEGA² I/20. S.&#160;85.13).
+              (((lEngels,Friedrich: Die preußische Militärfrage und die deutsche Arbeiterpartei. I.
+              In: MEGA²&#160;I/20. S.&#160;71–87))) (((lPolitischer Tagesbericht. Berlin, den
+              29._September. In: Norddeutsche Allgemeine Zeitung. Berlin. Nr.&#160;229,
+              30.&#160;September 1864. S.&#160;1.))) </note></seg> auf dem ganzen Continente. – Die
+          dummpfiffigen Krämergesichter, die glauben der <persName key="pdrPo.001.004.000000441">Bismark</persName> sei ein heidenmäßiger Fortschrittsmann, könne nur den <seg type="comment"><orig>König</orig><note xml:id="ec6cc63f-e0d9-4833-9885-143f7861e261"><persName key="pdrPo.001.004.000005131">Wilhelm&#160;I.</persName>
+            </note></seg> u. die Feudalen ohne Umwege nicht fortziehen, werden wohl bald etwas
+          länger werden, wenn ihnen der bismarkische Parlamentarismus, allgemeine Militairpflicht,
+          erhöhte Steuern etc etwas näher vor die abwechselungsdurstigen Lippen tritt. – Sie haben
+          keine Vorstellung von dem rührenden Entzücken, von der hündischen Dankbarkeit für Bismark,
+          der dies Philistervolk der Mühe überhob, selbst mit ihren „Angestammten“ abzu<pb/>rechnen;
+          er, der Hort der Conservativen sagte laut vor aller Welt: „Brave Bürger – verblendete
+          Regierungen.“ Sie hatten das auch immer <hi rendition="#u">gedacht,</hi> aber nie zu sagen
+          gewagt. <seg type="comment"><orig>Wie <persName key="pdrPo.001.004.000002109">Heine</persName> erzählt, daß <persName key="pdrPo.001.004.000003391">Napoleon</persName> durch die Düsseldorfer Allee ritt, ohne daß sich ihm ein
+              Polizeidiener wiedersetzte,</orig><note xml:id="f33d9773-3c76-453d-a072-31f790922a45">Siehe Heinrich Heine: Reisebilder. Teil_2. Ideen. Das Buch Le Grand. Cap._VIII: „Der
+              Kaiser ritt ruhig mitten durch die Allee, kein Polizeydiener widersetzte sich ihm, …“.
+              (((lHeine,Heinrich: Reisebilder. Teil_2. Ideen. Das Buch Le Grand. Cap._VIII)))
+            </note></seg> so sagte <persName key="pdrPo.001.004.000000441">Bismark</persName> den
+          ligitimen Herrschern fatale Unannehmlichkeiten, ließ die hochverrätherischen
+          Proclamationen an alle Anschlagssäulen anheften und kein Staatsanwalt erhob Klage. –
+          Einstweilen (u. ich glaube daß <seg type="comment"><orig>der Krieg</orig><note xml:id="a7f90586-8af4-42b6-87e5-fd96d03cc7dd">Der Deutsche Krieg (1866).</note></seg>
+          damit beendet sein wird) hat der Unpartheiische den Schläger zwischen die Paucanten
+          gestreckt und „halt“ gerufen. – Die Consequenzen werden dazu beitragen die Illusionen zu
+          beseitigen, welche das Volk sich noch von abgenutzten Persönlichkeiten u. Classen macht,
+          die Bourgeoisie, ohne die Fähigkeit eigener Initiative, schwankt zwischen Revolution u.
+          Reaction, ihrer Auflösung entgegentaumelnd einher. – Das Proletariat hat sich in
+          Deutschland noch nicht organisirt, aber die Wege sind erkannt u. es wird langsam, aber
+          sicher weiter gehen. – Köstlich wäre es, wenn <pb/> als einziger positiver Erfolg sich
+          herausstellen sollte, daß Preussen für Frankreich Genua u. die Riviera erkämpft hätte,
+          ohne daß ein französischer Soldat das Bajonnett gefällt hat. –</p>
+        <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_axx_y53_5z"/>Wie stehts
+          mit Ihrer Gesundheit? und wie weit sind Sie <seg type="comment">mit <orig>Ihrem
+              Buche?</orig><note xml:id="ad5ed8cd-e1fe-4530-9158-26e015ac8323">Gemeint ist hier Karl
+              Marx: Das Kapital; siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl.
+                zu Marx an J. Ph. Becker, zwischen 9. und
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170513T110018+0200" comment="{{Erl. 6b}}"?>1866<?oxy_comment_end?>.</ref>
+              (((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg>
+          <seg type="comment"><orig>Kommen Sie zu uns</orig><note xml:id="e4ff2aad-c90c-42ba-aa90-a62ff0efe2d4">Marx beabsichte, das Manuskript des
+              „Kapitals“ (((lMarx,Karl:DasKapital.Bd.1.Hamburg1867))) persönlich nach Hamburg zum
+              Verlag zu bringen und dabei <persName key="pdrPo.001.004.000002616">Louis</persName>
+              und <persName key="pdrPo.001.004.000002615">Gertrud Kugelmann</persName> in Hannover
+              zu besuchen. Das geschah im April 1867. Siehe auch <ref target="B00163/#start_d4c_y2p_mz">Marx an L. Kugelmann,
+              23.8.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170421T144416+0200" comment="{{Br. 159.22–28}}"?>.<?oxy_comment_end?></note></seg>,
+            <seg type="comment"><orig>oder gehen Sie nach Genf zum Congreß?</orig><note xml:id="d078de77-6a92-42f9-87ea-c44205804f4f">Marx‘ Erklärung für sein Fernbleiben
+              beim Genfer Kongress der IAA siehe <ref target="B00163/#start_c1y_42x_mz">Marx an L.
+                Kugelmann,
+                23.8.<?oxy_comment_start author="reichhoff" timestamp="20170421T144229+0200" comment="{{Br. 159.31–35}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p>
+        <p sameAs="MBTextmitEinzug">Ich bitte um die Freundlichkeit mir <hi rendition="#u">recht
+            bald</hi> Antwort zu geben. – Giebst Frieden, so denke ich noch eine Erholungsreise zu
+          machen u. möchte mich gern nach Ihnen dabei richten, da ich Sie doch nicht verfehlen
+          möchte. – Auch wüßte ich gern, ob dieser Brief u. <seg type="comment"><orig>der vom
+              15./25&#160;April d.&#160;J.</orig><note xml:id="cbaca8e9-fcae-4a0a-85e1-9528d32c9adc"><ref target="B00094">L. Kugelmann an Marx, 15. und
+                25.4.<?oxy_comment_start author="reichhoff" timestamp="20170404T152551+0200" comment="{{Br. 91}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          in Ihre Hände gelangt ist. –<anchor type="verweisziel" xml:id="stop_axx_y53_5z"/></p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig><bibl sameAs="zzThe Commonwealth">Commonwealth</bibl> u. <bibl sameAs="zzDer Vorbote">Vorbote</bibl> bekomme ich
+              jetzt.</orig><note xml:id="ee756fdd-f0ee-4845-bc5e-96fae2b3c218">Siehe <ref target="B00094/#start_mcn_z4m_qz">L. Kugelmann an Marx, 15. und
+                25.4.<?oxy_comment_start author="reichhoff" timestamp="20170421T145626+0200" comment="{{Br. 91.13–21}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+          –</p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Mit nochmaliger Bitte um baldige
+              Antwort</orig><note xml:id="f68fa52e-dead-4941-a73e-5ddcb0b49da6"><ref target="B00163">Marx antwortete <persName key="pdrPo.001.004.000002616">Kugelmann</persName> am
+                23.&#160;August
+                <?oxy_comment_start author="reichhoff" timestamp="20170421T144810+0200" comment=" {{(Br. 159)}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          u. den herzlichsten Grüßen stets</p>
+        <closer sameAs="MBUnterschrift">der Ihrige<lb/>LKugelmann<lb/>Dr </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

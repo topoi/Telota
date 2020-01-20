@@ -1,0 +1,2574 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="iffland_werkregister" xml:lang="de" xml:id="prov1154">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Gehört zur ediarum-App für eXist.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Hybrid: consult project description and document history for details.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <bibl xml:id="ed_rwc_kw2_2y">
+                    <editor>
+                        <persName key="prov_djr_jzz_q5"><surname>Kotzebue</surname><forename>August
+                                Friedrich Ferdinand von</forename></persName>
+                    </editor>
+                    <editor>
+                        <persName key="ed_eld_lbk_2y"><surname>Merkel</surname><forename>Garlieb</forename></persName>
+                    </editor>
+                    <title>Freimüthige, Der, oder Berlinische Zeitung für gebildete Leser, Berlin
+                        1803ff.</title>
+                </bibl>
+                <bibl xml:id="ed_smv_wbt_tv">
+                    <author>
+                        <persName>
+                            <surname/>
+                            <forename/>
+                        </persName>
+                    </author>
+                    <title>Adreß-Kalender der Preußischen Haupt- und Residenz-Städte Berlin und
+                        Potsdam, besonders der daselbst befindlichen hohen und niederen Collegien,
+                        Instanzen und Expeditionen auf das Jahr [1797ff.]. Mit Genehmigung der
+                        Königlich Preußischen Akademie der Wissenschaften</title>
+                </bibl>
+                <bibl xml:id="ed_hms_hlq_gy">
+                    <editor>
+                        <persName><surname>Rambach</surname><forename>Friedrich
+                            Eberhard</forename></persName>
+                    </editor>
+                    <title>Kronos, ein Archiv der Zeit, Berlin 1801</title>
+                </bibl>
+                <bibl xml:id="ed_nky_5g5_cy">
+                    <editor>
+                        <persName key="ed_ptc_qjq_sx"><surname>Rambach</surname><forename>Friedrich
+                                Eberhard</forename></persName>
+                    </editor>
+                    <title>Annalen des Königlichen Nationaltheates zu Berlin und der gesammten
+                        deutschen dramatischen Literatur und Kunst, Berlin 1802</title>
+                </bibl>
+                <bibl xml:id="ed_lmf_zgq_gy">
+                    <editor>
+                        <persName key="ed_ptc_qjq_sx"><surname>Rambach</surname><forename>Friedrich
+                                Eberhard</forename></persName>
+                    </editor>
+                    <title>Jahrbücher der preußischen Monarchie unter der Regierung Friedrich
+                        Wilhelms III., Berlin 1798-1801</title>
+                </bibl>
+                <bibl xml:id="prov_fnb_l2w_3v">
+                    <author>
+                        <persName>
+                            <surname/>
+                            <forename/>
+                        </persName>
+                    </author>
+                    <title>Berlinische Nachrichten von Staats- und gelehrten Sachen. Im Verlag der
+                        Haude- und Spenerschen Buchhandlung, (genant: Haude- und Spenersche
+                        Zeitung)</title>
+                </bibl>
+                <bibl xml:id="ed_tt2_wm5_4x">
+                    <editor>
+                        <persName key="ed_tnp_pn5_4x">
+                            <surname>Meyer</surname>
+                            <forename>Friedrich Ludwig Wilhelm</forename>
+                        </persName>
+                    </editor>
+                    <editor>
+                        <persName key="ed_ptc_qjq_sx">
+                            <surname>Rambach</surname>
+                            <forename>Friedrich Eberhard</forename>
+                        </persName>
+                    </editor>
+                    <editor>
+                        <persName key="ed_x2d_vq5_4x">
+                            <surname>Fessler</surname>
+                            <forename>Ignaz Aurelius</forename>
+                        </persName>
+                    </editor>
+                    <title>Berlinisches Archiv der Zeit und des Geschmacks</title>
+                </bibl>
+                <bibl xml:id="ed_g3n_lxm_vw">
+                    <author>
+                        <persName>
+                            <surname/>
+                            <forename/>
+                        </persName>
+                    </author>
+                    <title>Handbuch über den Königlich Preußischen Hof und Staat, Berlin,
+                        1794-1918</title>
+                </bibl>
+                <bibl xml:id="ed_lsm_vx2_2y">
+                    <author>
+                        <persName key="ed_d44_f1p_rx"><surname>Spazier</surname><forename>Karl</forename></persName>
+                    </author>
+                    <title>Zeitung für die elegante Welt, Leipzig 1801ff.</title>
+                </bibl>
+                <bibl xml:id="ed_g2b_csw_yx">
+                    <author role="music">
+                        <persName key="ed_hxv_xkw_yx"><surname>Abeille</surname><forename>Johann
+                                Christian Ludwig</forename></persName>
+                    </author>
+                    <author role="translation">
+                        <persName key="ed_nd2_2bp_yx"><surname>Hiemer</surname><forename>Franz
+                                Karl</forename></persName>
+                    </author>
+                    <title>Amor und Psyche, Singspiel in 4 Akten, UA Stuttgart 1801</title>
+                </bibl>
+                <bibl xml:id="ed_sfz_tqr_5x">
+                    <author role="translation">
+                        <persName key="ed_bkf_zlr_5x">
+                            <surname>Apell</surname>
+                            <forename>David August von</forename>
+                        </persName>
+                    </author>
+                    <author role="text">
+                        <persName key="ed_m41_nsr_5x">
+                            <surname>Marmontel</surname>
+                            <forename>Jean- François</forename>
+                        </persName>
+                    </author>
+                    <author role="music">
+                        <persName key="ed_sqf_mqw_dw">
+                            <surname>Grétry</surname>
+                            <forename>André-Ernest-Modeste</forename>
+                        </persName>
+                    </author>
+                    <title>Cephalus und Procris. Eine mythologische Oper (Manuskript)</title>
+                </bibl>
+                <bibl xml:id="ed_bjz_crr_5x">
+                    <author role="translation">
+                        <persName key="ed_bkf_zlr_5x">
+                            <surname>Apell</surname>
+                            <forename>David August </forename>
+                        </persName>
+                    </author>
+                    <author role="music">
+                        <persName key="ed_xx5_2sr_5x">
+                            <surname>Piccini</surname>
+                            <forename>Alexandre </forename>
+                        </persName>
+                    </author>
+                    <author role="text">
+                        <persName key="ed_m41_nsr_5x">
+                            <surname>Marmontel</surname>
+                            <forename>Jean- François </forename>
+                        </persName>
+                    </author>
+                    <title>Roland. Eine heroische Oper nach Marmontel und Piccini
+                        (Manuskript)</title>
+                </bibl>
+                <bibl xml:id="ed_jvf_qsf_fw">
+                    <author>
+                        <persName key="ed_eb1_jsf_fw">
+                            <surname>Ayrenhoff</surname>
+                            <forename>Cornelius Hermann von</forename>
+                        </persName>
+                    </author>
+                    <title>Postzug, Der, oder die noblen Passionen. Lustspiel in 2 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_whx_fnx_s5">
+                    <author>
+                        <persName key="prov_b1g_xzb_s5">
+                            <surname>Babo</surname>
+                            <forename>Joseph Marius</forename>
+                        </persName>
+                    </author>
+                    <title>Puls, Der. Ein Lustspiel in 2 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_vbz_21x_z5">
+                    <author>
+                        <persName key="prov_kty_vzw_z5">
+                            <surname> Barthélemy</surname>
+                            <forename> Barthélemy Jean Jacques</forename>
+                        </persName>
+                    </author>
+                    <title>Voyage du jeune Anacharsis en Grèce dans le milieu du quatrieme siècle
+                        avant L'ère vulgaire (1788)</title>
+                </bibl>
+                <bibl xml:id="ed_hr5_kmy_sx">
+                    <author>
+                        <persName key="ed_mgn_tly_sx">
+                            <surname>Baumann</surname>
+                            <forename>Sophie</forename>
+                        </persName>
+                    </author>
+                    <title>Bruderliebe, Schauspiel </title>
+                </bibl>
+                <bibl xml:id="ed_t12_pjw_nw">
+                    <author>
+                        <persName key="ed_ayc_wjw_nw">
+                            <surname>Beck</surname>
+                            <forename>Heinrich Christian</forename>
+                        </persName>
+                    </author>
+                    <title>Schachmaschine, Die. Ein Lustspiel in Vier Akten, nach dem Englischen.
+                        Frey bearbeitet</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_kck_jrf_fw">
+                    <author>
+                        <persName key="prov_gpm_33b_gv">
+                            <surname>Benda</surname>
+                            <forename>Georg Anton</forename>
+                        </persName>
+                    </author>
+                    <title>Ariadne auf Naxos, Duodrama</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_z11_qdl_sv">
+                    <author>
+                        <persName key="prov_gpm_33b_gv">
+                            <surname>Benda</surname>
+                            <forename>Georg Anton</forename>
+                        </persName>
+                    </author>
+                    <title>Julie und Romeo. Ein Schauspiel mit Gesang</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_wjm_x3b_gv">
+                    <author>
+                        <persName key="prov_gpm_33b_gv">
+                            <surname>Benda</surname>
+                            <forename>Georg Anton (Musik)</forename>
+                        </persName>
+                    </author>
+                    <author>
+                        <persName key="prov_tbj_2nw_dv">
+                            <surname>Rousseau</surname>
+                            <forename>Jean-Jacques (Text)</forename>
+                        </persName>
+                    </author>
+                    <title>Pygmalion, Melodrama</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_gny_zcl_qx">
+                    <author>
+                        <persName key="ed_lsx_rcl_qx">
+                            <surname>Benkowitz</surname>
+                            <forename>Karl Friedrich </forename>
+                        </persName>
+                    </author>
+                    <title>Cambyses (Manuskript)</title>
+                </bibl>
+                <bibl xml:id="ed_fnv_2m5_4x">
+                    <author>
+                        <persName key="ed_c1d_tzt_4x">
+                            <surname>Bernhardi</surname>
+                            <forename>August Ferdinand</forename>
+                        </persName>
+                    </author>
+                    <title>Ueber Ifflands mimische Darstellungen (1799)</title>
+                </bibl>
+                <bibl xml:id="prov_ftj_wgb_3v">
+                    <author>
+                        <persName key="prov_fb2_hp1_3v">
+                            <surname>Bianchi</surname>
+                            <forename>Antonio</forename>
+                        </persName>
+                    </author>
+                    <author>
+                        <persName key="prov_kmh_b1c_55">
+                            <surname>Herklots</surname>
+                            <forename>Karl Alexander (Übersetzer)</forename>
+                        </persName>
+                    </author>
+                    <title>Insel der Alcina, Die. Singspiel in 2 Akten </title>
+                </bibl>
+                <bibl xml:id="ed_mrz_nxy_5x">
+                    <author>
+                        <persName key="ed_wdh_qvy_5x"><surname>Bilderbeck</surname><forename>Franz
+                                Ludwig Freiherr von</forename></persName>
+                    </author>
+                    <title>Vaterherz, Das. Ein Schauspiel in fünf Aufzügen (Manuskript)</title>
+                </bibl>
+                <bibl xml:id="ed_adp_2hz_gy">
+                    <author>
+                        <persName key="ed_anh_sgz_gy"><surname> Boutet de
+                                Monvel</surname><forename>Jacques Marie</forename></persName>
+                    </author>
+                    <author role="translation">
+                        <persName key="ed_d3n_s5p_5x"><surname>Cords</surname><forename/></persName>
+                    </author>
+                    <title>Mathilde, Schauspiel in 5. Akten #B</title>
+                </bibl>
+                <bibl xml:id="ed_yxf_zt4_rx">
+                    <author>
+                        <persName key="ed_zqh_ct4_rx">
+                            <surname>Brandes</surname>
+                            <forename>Johann Christian</forename>
+                        </persName>
+                    </author>
+                    <title>Gerechtigkeit und Naturgefühl, oder die Mediceer, Schauspiel</title>
+                </bibl>
+                <bibl xml:id="ed_zft_ds4_rw">
+                    <author>
+                        <persName key="ed_vwf_dr2_hw">
+                            <surname>Brömel</surname>
+                            <forename>Wilhelm Heinrich</forename>
+                        </persName>
+                    </author>
+                    <title>Fallbrücke, Die. Lustspiel in 5 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_wzy_zmb_pw">
+                    <author>
+                        <persName key="ed_gp5_tmb_pw">
+                            <surname>Broughton</surname>
+                            <forename>Thomas</forename>
+                        </persName>
+                    </author>
+                    <title>Thomas Broughtons Historisches Lexicon aller Religionen: seit der
+                        Schöpfung der Welt bis auf gegenwärtige Zeit : worinnen die heydnischen,
+                        jüdischen, christlichen und gottesdienstlichen Lehrbegriffe, Cerimonien,
+                        Gebräuche, Oerter, Personen und Schriften, nebst ihren Schicksalen
+                        beschrieben werden; Aus den besten Schriftstellern zusammengetragen, Dresden
+                        1756 </title>
+                </bibl>
+                <bibl xml:id="ed_ekn_h4z_gy">
+                    <author>
+                        <persName key="ed_p2d_ynz_gy"><surname>Brousse-Desfaucherets</surname><forename>Jean
+                                Louis</forename></persName>
+                    </author>
+                    <title>Le Mariage secret, comédie en 3 actes</title>
+                </bibl>
+                <bibl xml:id="prov_vry_wfb_3v">
+                    <author>
+                        <persName key="prov_c2q_rfb_3v">
+                            <surname>Bruni</surname>
+                            <forename>Antonio Bartolomeo</forename>
+                        </persName>
+                    </author>
+                    <author>
+                        <persName key="prov_kmh_b1c_55">
+                            <surname>Herklots</surname>
+                            <forename>Karl Alexander (Übersetzer)</forename>
+                        </persName>
+                    </author>
+                    <title> Tobern, oder: die schwedischen Fischer, ein Singspiel in 2 Akten
+                       </title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_brq_5b4_fx">
+                    <author>
+                        <persName key="prov_c2q_rfb_3v">
+                            <surname>Bruni</surname>
+                            <forename>Antonio Bartolomeo</forename>
+                        </persName>
+                    </author>
+                    <title>Palmer. Singspiel in 3 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_zdy_tvp_5x">
+                    <author>
+                        <persName key="ed_mts_jvp_5x">
+                            <surname>Candeille</surname>
+                            <forename>Amélie-Julie </forename>
+                        </persName>
+                    </author>
+                    <title>Catherine, ou La belle fermière ; comédie, en trois actes, en prose,
+                        mêlée de chant, Paris 1793</title>
+                </bibl>
+                <bibl xml:id="ed_mck_fyw_yx">
+                    <author role="music">
+                        <persName key="ed_q2b_yxw_yx"><surname>
+                                Catel</surname><forename>Charles-Simon </forename></persName>
+                    </author>
+                    <author role="translation">
+                        <persName key="ed_dqh_hfj_sv"><surname>Schmieder</surname><forename>Heinrich
+                                Gottlieb</forename></persName>
+                    </author>
+                    <title>Bajaderen, Die. Oper in 3 Akten</title>
+                </bibl>
+                <bibl xml:id="ed_cq4_rxl_4x">
+                    <author role="music">
+                        <persName key="prov_kwt_t4g_kv">
+                            <surname> Cherubini</surname>
+                            <forename>Luigi Carlo Zenobio Salvatore Maria </forename>
+                        </persName>
+                    </author>
+                    <author>
+                        <persName key="prov_kmh_b1c_55">
+                            <surname>Herklots</surname>
+                            <forename>Karl Alexander (Übersetzer)</forename>
+                        </persName>
+                    </author>
+                    <title>Elise. Singspiel in 2 Aufzügen</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_eym_brg_kv">
+                    <author role="music">
+                        <persName key="prov_kwt_t4g_kv">
+                            <surname>Cherubini</surname>
+                            <forename>Luigi Carlo Zenobio Salvatore Maria</forename>
+                        </persName>
+                    </author>
+                    <title>Lodoiska. Ein heroisches Singspiel in Drey Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_l5l_zs1_rx">
+                    <author role="music">
+                        <persName key="prov_kwt_t4g_kv">
+                            <surname>Cherubini</surname>
+                            <forename>Luigi Carlo Zenobio Salvatore Maria</forename>
+                        </persName>
+                    </author>
+                    <author role="translation">
+                        <persName key="ed_dqh_hfj_sv">
+                            <surname>Schmieder</surname>
+                            <forename>Heinrich Gottlieb </forename>
+                        </persName>
+                    </author>
+                    <title>Wasserträger, Der. Singspiel in Drey Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_hc2_vr3_5x">
+                    <author>
+                        <persName key="ed_fs1_jpg_tx">
+                            <surname>Cimarosa</surname>
+                            <forename>Domenico</forename>
+                        </persName>
+                    </author>
+                    <title>bestrafte Eifersucht, Die. Komische Oper</title>
+                </bibl>
+                <bibl xml:id="ed_ols_bpg_tx">
+                    <author>
+                        <persName key="ed_fs1_jpg_tx">
+                            <surname>Cimarosa</surname>
+                            <forename>Domenico</forename>
+                        </persName>
+                    </author>
+                    <title>heimliche Ehe, Die. Ein komisches Singspiel in Zwey Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_rg3_r3c_by">
+                    <author>
+                        <persName key="ed_uyr_l3y_sx"><surname>Collin</surname><forename>Heinrich
+                                Joseph von</forename></persName>
+                    </author>
+                    <title>Coriolan, Trauerspiel in 5 Akten #B</title>
+                </bibl>
+                <bibl xml:id="ed_ohc_rmy_sx">
+                    <author>
+                        <persName key="ed_uyr_l3y_sx">
+                            <surname>Collin</surname>
+                            <forename>Heinrich Joseph von</forename>
+                        </persName>
+                    </author>
+                    <title> Regulus. Ein Trauerspiel in fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_ixq_m3b_dy">
+                    <author>
+                        <persName key="ed_mhj_f3b_dy"><surname> Corneille</surname><forename>Pierre
+                            </forename></persName>
+                    </author>
+                    <author role="translation">
+                        <persName key="ed_uqj_jj1_dy"><surname>Bode</surname><forename>Theodor
+                                Heinrich August</forename></persName>
+                    </author>
+                    <title>Rodogüne. Ein Trauerspiel in Fünf Akten #B</title>
+                </bibl>
+                <bibl xml:id="ed_ncv_4ts_xw">
+                    <author>
+                        <persName key="ed_ggq_nps_xw">
+                            <surname>Crux</surname>
+                            <forename>Peter Antoine</forename>
+                        </persName>
+                    </author>
+                    <title>Amerikanerin in Spanien, Die. Ballett</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_umh_m4h_px">
+                    <author>
+                        <persName key="ed_phd_g4h_px">
+                            <surname>Cumberland</surname>
+                            <forename> Richard </forename>
+                        </persName>
+                    </author>
+                    <title>Jude, Der. Ein Schauspiel in fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_wcx_drh_px">
+                    <author>
+                        <persName key="ed_phd_g4h_px">
+                            <surname>Cumberland</surname>
+                            <forename>Richard</forename>
+                        </persName>
+                    </author>
+                    <title>Westindier, Der. Lustspiel in 5 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_cp1_pmz_gy">
+                    <author>
+                        <persName key="prov_ngm_2d4_y5"><surname>Dalayrac</surname><forename>Nicolas</forename></persName>
+                    </author>
+                    <title>Adèle et Dorsan. Comédie en trois Actes en Prose</title>
+                </bibl>
+                <bibl xml:id="ed_lyx_gww_yx">
+                    <author role="music">
+                        <persName key="prov_ngm_2d4_y5"><surname>Dalayrac</surname><forename>Nicolas</forename></persName>
+                    </author>
+                    <author role="translation">
+                        <persName key="ed_dqh_hfj_sv"><surname>Schmieder</surname><forename>Heinrich
+                                Gottlieb</forename></persName>
+                    </author>
+                    <title>Adolf und Klara</title>
+                </bibl>
+                <bibl xml:id="ed_arc_wpw_yx">
+                    <author role="music">
+                        <persName key="prov_ngm_2d4_y5"><surname>Dalayrac</surname><forename>Nocolas</forename></persName>
+                    </author>
+                    <author role="translation">
+                        <persName key="ed_nd2_2bp_yx"><surname>Hiemer</surname><forename>Franz
+                                Karl</forename></persName>
+                    </author>
+                    <title>Adolf und Klara (Manuskript)</title>
+                </bibl>
+                <bibl xml:id="ed_vhl_dzv_yx">
+                    <author role="music">
+                        <persName key="prov_ngm_2d4_y5"><surname>Dalayrac</surname><forename>Nicolas</forename></persName>
+                    </author>
+                    <author role="translation">
+                        <persName key="prov_kmh_b1c_55"><surname>Herklots</surname><forename>Karl
+                                Alexander</forename></persName>
+                    </author>
+                    <title>Adolph und Clara. Singspiel in Einem Akt</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_dvf_rvh_rx">
+                    <author>
+                        <persName key="prov_ngm_2d4_y5">
+                            <surname>Dalayrac </surname>
+                            <forename>Nicolas </forename>
+                        </persName>
+                    </author>
+                    <author>
+                        <persName key="ed_dqh_hfj_sv">
+                            <surname>Schmieder</surname>
+                            <forename>Heinrich Gottlieb (Übersetzung/Bearbeitung)</forename>
+                        </persName>
+                    </author>
+                    <title>Gulnar, oder: die persische Sclavin. Singspiel in 1 Akt</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_m35_xlc_by">
+                    <author>
+                        <persName key="prov_ngm_2d4_y5"><surname>Dalayrac</surname><forename>Nicolas</forename></persName>
+                    </author>
+                    <title>Hausverkauf, Der. Komische Operette In Einem Ak</title>
+                </bibl>
+                <bibl xml:id="prov_lyq_jd4_y5">
+                    <author>
+                        <persName key="prov_ngm_2d4_y5">
+                            <surname>Dalayrac</surname>
+                            <forename>Nicolas </forename>
+                        </persName>
+                    </author>
+                    <title> Heirath auf eine Stunde, Die. Lustspiel in 1 Akt mit Gesängen</title>
+                </bibl>
+                <bibl xml:id="ed_tfv_rkq_sv">
+                    <author>
+                        <persName key="prov_ngm_2d4_y5">
+                            <surname>Dalayrac</surname>
+                            <forename>Nicolas</forename>
+                        </persName>
+                    </author>
+                    <title> Nina, oder: Wahnsinn aus Liebe. Ein Singspiel in Einem Akt</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_mhb_15l_1v">
+                    <author>
+                        <persName key="prov_ngm_2d4_y5">
+                            <surname>Dalayrac</surname>
+                            <forename>Nicolas</forename>
+                        </persName>
+                    </author>
+                    <author>
+                        <persName key="prov_kmh_b1c_55">
+                            <surname>Herklots</surname>
+                            <forename>Karl Alexander</forename>
+                        </persName>
+                    </author>
+                    <title>Raoul von Crequi. Ein Singspiel in Drey Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_jwr_zvg_1y">
+                    <author role="music">
+                        <persName key="prov_ngm_2d4_y5"><surname>Dalayrac</surname><forename>Nicolas</forename></persName>
+                    </author>
+                    <author role="translation">
+                        <persName key="ed_dqh_hfj_sv"><surname>Schmieder</surname><forename>Heinrich
+                                Gottlieb</forename></persName>
+                    </author>
+                    <title>schwarze Schloß, Das. Oper in drei Aufzügen (Manuskript)</title>
+                </bibl>
+                <bibl xml:id="ed_l3y_www_yx">
+                    <author>
+                        <persName key="prov_ngm_2d4_y5"><surname>Dalayrac</surname><forename>Nicolas</forename></persName>
+                    </author>
+                    <author>
+                        <persName key="ed_dqh_hfj_sv"><surname>Schmieder</surname><forename>Heinrich
+                                Gottlieb</forename></persName>
+                    </author>
+                    <title>Wilden, Die. Singspiel in drei Akten </title>
+                </bibl>
+                <bibl xml:id="ed_eyn_4cg_tw">
+                    <author>
+                        <persName key="ed_dct_gsv_fw">
+                            <surname>Dalberg</surname>
+                            <forename>Wolfgang Heribert von</forename>
+                        </persName>
+                    </author>
+                    <title>eheliche Probe, Die. Lustspiel in 1 Akt</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_drg_vtc_2y">
+                    <author>
+                        <persName key="ed_urh_gg4_fw"><surname>Danefield</surname><forename/></persName>
+                    </author>
+                    <title>Liebe in Egypten, Die (Manuskript)</title>
+                </bibl>
+                <bibl xml:id="ed_sh5_ptc_2y">
+                    <author>
+                        <persName key="ed_urh_gg4_fw"><surname>Danefield</surname><forename/></persName>
+                    </author>
+                    <title>Taube, Der (Manuskript)</title>
+                </bibl>
+                <bibl xml:id="ed_ygv_4m4_fx">
+                    <author>
+                        <persName key="ed_vpx_fm4_fx">
+                            <surname> Della Maria</surname>
+                            <forename>Pierre-Antoine-Dominique</forename>
+                        </persName>
+                    </author>
+                    <title>Gefangene, Die. Ein Singspiel in Einem Ak</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_zb4_y5w_yx">
+                    <author role="music">
+                        <persName key="ed_vpx_fm4_fx"><surname> Della
+                                Maria</surname><forename>Pierre-Antoine-Dominique</forename></persName>
+                    </author>
+                    <author role="translation">
+                        <persName key="ed_dqh_hfj_sv"><surname>Schmieder</surname><forename>Heinrich
+                                Gottlieb</forename></persName>
+                    </author>
+                    <title>komische Oper, Die (Das Singspiel)</title>
+                </bibl>
+                <bibl xml:id="ed_fh3_yqw_yx">
+                    <author role="music">
+                        <persName key="ed_vpx_fm4_fx"><surname>Della
+                                Maria</surname><forename>Pierre-Antoine-Dominique</forename></persName>
+                    </author>
+                    <author role="translation">
+                        <persName key="ed_nd2_2bp_yx"><surname>Hiemer</surname><forename>Franz
+                                Karl</forename></persName>
+                    </author>
+                    <title>Singspiel, Das (Manuskript)</title>
+                </bibl>
+                <bibl xml:id="ed_ztd_wsw_yx">
+                    <author role="music">
+                        <persName key="ed_vpx_fm4_fx"><surname>Della
+                                Maria</surname><forename>Pierre-Antoine-Dominique</forename></persName>
+                    </author>
+                    <author role="translation">
+                        <persName key="ed_mzt_pmw_yx"><surname>Treitschke</surname><forename>Georg
+                                Friedrich</forename></persName>
+                    </author>
+                    <title>Singspiel, Das </title>
+                </bibl>
+                <bibl xml:id="ed_fz1_3jf_fw">
+                    <author>
+                        <persName key="ed_yg2_m3f_fw">
+                            <surname>Dezède</surname>
+                            <forename>Nicolas Marie</forename>
+                        </persName>
+                    </author>
+                    <title>Töffel und Dorchen, Oper in 2 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_pr1_thd_jw">
+                    <author>
+                        <persName key="ed_kb2_gb5_fw">
+                            <surname>Ditters von Dittersdorf</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                    </author>
+                    <title>Apotheker und der Doktor, Der. Ein komisches Singspiel in Zwey Akten
+                       </title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_k5q_xj2_jw">
+                    <author>
+                        <persName key="ed_kb2_gb5_fw">
+                            <surname>Ditters von Dittersdorf</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                    </author>
+                    <title>Hieronymus Knicker. Ein komisches Singspiel in zwey Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_ivt_d15_fw">
+                    <author>
+                        <persName key="ed_kb2_gb5_fw">
+                            <surname>Ditters von Dittersdorf</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                    </author>
+                    <title>Liebe im Narrenhause, Die. Singspiel in 2. Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_m51_ygr_nw">
+                    <author>
+                        <persName key="ed_kb2_gb5_fw">
+                            <surname>Ditters von Dittersdorf</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                    </author>
+                    <title>rothe Käppchen, Das. Ein komisches Singspiel in Zwey Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_oyd_v5g_fw">
+                    <author>
+                        <persName key="ed_q5f_bvg_fw">
+                            <surname>Duny</surname>
+                            <forename>Egidio Romualdo</forename>
+                        </persName>
+                    </author>
+                    <title>Milchmädchen, und Die beiden Jäger, Das. Ein komisches Singspiel in Einem
+                        Akt</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_x15_55b_55">
+                    <author>
+                        <persName key="prov_w1b_n5b_55">
+                            <surname>Dupaty</surname>
+                            <forename>Emmanuel Mercier</forename>
+                        </persName>
+                    </author>
+                    <title>drey Gefangenen, Die. Ein Lustspiel in drei Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_xpq_psh_3v">
+                    <author>
+                        <persName key="prov_cj3_jsh_3v">
+                            <surname>Engel</surname>
+                            <forename>Karl Christian</forename>
+                        </persName>
+                    </author>
+                    <title>Mutterpferd, Das. Ein Lustspiel in 2 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_wx1_tp2_jx">
+                    <author>
+                        <persName key="ed_iqg_jq2_jx">
+                            <surname>Fabre d'Églantine</surname>
+                            <forename>Philippe François Nazaire</forename>
+                        </persName>
+                    </author>
+                    <author role="translation">
+                        <persName key="ed_bkx_2yt_fw">
+                            <surname>Huber</surname>
+                            <forename>Ludwig Ferdinand </forename>
+                        </persName>
+                    </author>
+                    <title>verliebte Briefwechsel, Der, Lustspiel in 5 Aufzügen</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_kzy_4g5_fv">
+                    <author>
+                        <persName key="prov_u5q_hg5_fv">
+                            <surname>Favart</surname>
+                            <forename>Charles Simon</forename>
+                        </persName>
+                    </author>
+                    <title>Rosenmädchen, Das, oder das Fest der weiblichen Tugend</title>
+                </bibl>
+                <bibl xml:id="prov_jpg_srh_y5">
+                    <author>
+                        <persName key="prov_uwh_kqh_y5">
+                            <surname> Filistri da Caramondani</surname>
+                            <forename>Antonio de</forename>
+                        </persName>
+                    </author>
+                    <title>Callirohe, Tragedia Tespica</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_ohp_tbs_jv">
+                    <author>
+                        <persName key="prov_p5f_kbs_jv">
+                            <surname>Florian</surname>
+                            <forename>Jean-Pierre Claris de </forename>
+                        </persName>
+                    </author>
+                    <title>gute Mutter, Die. Ein Lustspiel in 1 Akt</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_b32_3wf_fw">
+                    <author>
+                        <persName key="prov_p5f_kbs_jv">
+                            <surname>Florian</surname>
+                            <forename>Jean-Pierre Claris de</forename>
+                        </persName>
+                    </author>
+                    <title>Gutherzige, Der. Ein Lustspiel in einem Akt</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_wnh_b3h_y5">
+                    <author>
+                        <persName key="prov_tnx_f3h_y5">
+                            <surname>Franul von Weißenthurn</surname>
+                            <forename>Johanna </forename>
+                        </persName>
+                    </author>
+                    <title>Erben, Die. Ein Lustspiel in Vier Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_v24_wnk_2y">
+                    <author>
+                        <persName key="prov_tnx_f3h_y5"><surname> Franul von
+                                Weißenthurn</surname><forename>Johanna </forename></persName>
+                    </author>
+                    <title>Nachspiel, Das (Manuskript)</title>
+                </bibl>
+                <bibl xml:id="ed_ff1_kwm_jw">
+                    <author>
+                        <persName key="ed_bkm_lqf_fw">
+                            <surname>Gaveaux</surname>
+                            <forename>Pierre</forename>
+                        </persName>
+                    </author>
+                    <title>Kindliche Liebe. Ein Singspiel in Einem Akt</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_qvg_ybj_sv">
+                    <author>
+                        <persName key="ed_bkm_lqf_fw">
+                            <surname>Gaveaux</surname>
+                            <forename>Pierre</forename>
+                        </persName>
+                    </author>
+                    <title>kleine Matrose, Der. Oper in 1 Akt</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_ikv_rqz_cx">
+                    <author>
+                        <persName key="ed_dzf_brz_cx">
+                            <surname>Gemmingen</surname>
+                            <forename>Otto Heinrich von</forename>
+                        </persName>
+                    </author>
+                    <title>Familie, Die, oder: der deutsche Hausvater. Schauspiel in 5 Akten
+                       </title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_bwv_fdc_55">
+                    <author>
+                        <persName key="prov_ikp_pdc_55">
+                            <surname>Gluck</surname>
+                            <forename>Christoph Willibald von</forename>
+                        </persName>
+                    </author>
+                    <title>Armide, große heroische Oper in 5 Akten</title>
+                    <note>Textübersetzung von Julius von Voß</note>
+                </bibl>
+                <bibl xml:id="prov_cyr_phg_w5">
+                    <author role="music">
+                        <persName key="prov_ikp_pdc_55">
+                            <surname>Gluck</surname>
+                            <forename>Christoph Willibald von </forename>
+                        </persName>
+                    </author>
+                    <author role="translation">
+                        <persName key="ed_hzr_r5j_5x">
+                            <surname>Sander</surname>
+                            <forename>Johann Daniel </forename></persName>
+                    </author>
+                    <title>Iphigenia in Tauris. Eine große Oper in Vier Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_nzm_3r2_jx">
+                    <author>
+                        <persName key="prov_k3v_gmw_55">
+                            <surname>Goethe</surname>
+                            <forename>Johann Wolfgang von</forename>
+                        </persName>
+                    </author>
+                    <title>Clavigo, Trauerspiel in 5 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_ost_qfk_qv">
+                    <author role="text">
+                        <persName key="ed_vmg_ffk_qv">
+                            <surname>Goldoni</surname>
+                            <forename> Carlo </forename>
+                        </persName>
+                    </author>
+                    <author role="music">
+                        <persName key="ed_nh4_mvt_rv">
+                            <surname>Gassmann</surname>
+                            <forename>Florian Leopold </forename>
+                        </persName>
+                    </author>
+                    <title>Liebe unter den Handwerksleuten, Die. Oper in 3 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_aqs_tbj_sv">
+                    <author>
+                        <persName key="ed_vmg_ffk_qv">
+                            <surname>Goldoni</surname>
+                            <forename>Carlo</forename>
+                        </persName>
+                    </author>
+                    <title>Diener zweier Herren, Der. Ein Lustspiel in 2 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_hwz_2mp_pw">
+                    <author>
+                        <persName key="ed_bmr_qlp_pw">
+                            <surname>Goldoni</surname>
+                            <forename>Carlo</forename>
+                        </persName>
+                    </author>
+                    <title>verstellte Kranke, Die. Lustspiel in 3 Aufzügen</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_pwt_qbr_2v">
+                    <author>
+                        <persName key="prov_zty_3br_2v">
+                            <surname>Graun</surname>
+                            <forename>Karl Heinrich</forename>
+                        </persName>
+                    </author>
+                    <title>Tod Jesu, Der (Passionsoratorium, 1755)</title>
+                </bibl>
+                <bibl xml:id="ed_xm3_5qw_dw">
+                    <author>
+                        <persName key="ed_sqf_mqw_dw">
+                            <surname>Grétry</surname>
+                            <forename>André Ernest Modeste</forename>
+                        </persName>
+                    </author>
+                    <title>Richard Löwenherz, Oper in 3 Aufzügen</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_ism_lkk_sx">
+                    <author>
+                        <persName key="ed_sqf_mqw_dw">
+                            <surname> Grétry</surname>
+                            <forename>André Ernest Modeste </forename>
+                        </persName>
+                    </author>
+                    <title>Karawane von Kairo, Die, Oper, 1783</title>
+                </bibl>
+                <bibl xml:id="ed_tkj_jdw_dw">
+                    <author>
+                        <persName key="ed_msw_1dw_dw">
+                            <surname>Hagemann</surname>
+                            <forename>Friedrich Ludwig</forename>
+                        </persName>
+                    </author>
+                    <title>Ludwig der Springer, Schauspiel in 5 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_jcr_tzc_qv">
+                    <author>
+                        <persName key="ed_dn5_hzc_qv">
+                            <surname>Haydn</surname>
+                            <forename>Joseph </forename>
+                        </persName>
+                    </author>
+                    <title>Ritter Roland, Der. Oper in 3 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_xsb_14h_rx">
+                    <author>
+                        <persName key="ed_gyj_rlh_rx">
+                            <surname>Hiller</surname>
+                            <forename>Friedrich Adam </forename>
+                        </persName>
+                    </author>
+                    <author>
+                        <persName key="ed_dqh_hfj_sv">
+                            <surname>Schmieder</surname>
+                            <forename>Heinrich Gottlieb (Text)</forename>
+                        </persName>
+                    </author>
+                    <title>Nixenreich, Das. Oper in drei Akten</title>
+                </bibl>
+                <bibl xml:id="ed_agb_ss3_5x">
+                    <author>
+                        <persName key="ed_yxx_ct3_5x">
+                            <surname>Hiller</surname>
+                            <forename>Johann Adam</forename>
+                        </persName>
+                    </author>
+                    <title>Jagd, Die. Eine komische Oper in zwei Aufzügen</title>
+                </bibl>
+                <bibl xml:id="ed_zdv_wc5_cy">
+                    <author role="music">
+                        <persName key="prov_yhv_bf1_r5"><surname>Himmel</surname><forename>Friedrich
+                                Heinrich</forename></persName>
+                    </author>
+                    <author role="text">
+                        <persName key="prov_kmh_b1c_55"><surname>Herklots</surname><forename>Karl
+                                Alexander</forename></persName>
+                    </author>
+                    <title>Frohsinn und Schwärmerei. Liederspiel in einem Akt #B</title>
+                </bibl>
+                <bibl xml:id="prov_fd2_fvh_55">
+                    <author>
+                        <persName key="prov_yhv_bf1_r5">
+                            <surname>Himmel</surname>
+                            <forename>Friedrich Heinrich</forename>
+                        </persName>
+                    </author>
+                    <title>Sylphen, Die. Zauberoper in 3 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_xjm_w5h_55">
+                    <author>
+                        <persName key="prov_yhv_bf1_r5">
+                            <surname>Himmel</surname>
+                            <forename>Friedrich Heinrich </forename>
+                        </persName>
+                    </author>
+                    <title>Fanchon, das Leyermädchen. Operette in Drey Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_hmy_w2q_wx">
+                    <author>
+                        <persName key="ed_bkx_2yt_fw"><surname>Huber</surname><forename>Ludwig
+                                Ferdinand</forename></persName>
+                    </author>
+                    <title>heimliche Gericht, Das. Ein Trauerspiel</title>
+                </bibl>
+                <bibl xml:id="ed_rwm_vxt_fw">
+                    <author>
+                        <persName key="ed_bkx_2yt_fw">
+                            <surname>Huber</surname>
+                            <forename>Ludwig Ferdinand</forename>
+                        </persName>
+                    </author>
+                    <title>offne Fehde, Die. Ein Lustspiel in Drey Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_xlc_hfq_wx">
+                    <author>
+                        <persName key="ed_bkx_2yt_fw"><surname>Huber</surname><forename>Ludwig
+                                Ferdinand</forename></persName>
+                    </author>
+                    <title>Wer erst kommt, mahlt erst. Lustspiel in 3 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_bvt_2s3_px">
+                    <author>
+                        <persName key="prov_d4h_dtz_q5">
+                            <surname>Iffland</surname>
+                            <forename>August Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Antwort des Direktor Iffland auf das Schreiben an ihn über das Schauspiel
+                        der Jude und dessen Vorstellung auf dem hiesigen Theater, Berlin
+                        1798</title>
+                </bibl>
+                <bibl xml:id="ed_lzh_qpf_fw">
+                    <author>
+                        <persName key="prov_d4h_dtz_q5">
+                            <surname>Iffland</surname>
+                            <forename>August Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Aussteuer, Die. Ein Schauspiel in Fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_k5z_bqv_pw">
+                    <author>
+                        <persName key="prov_d4h_dtz_q5">
+                            <surname>Iffland</surname>
+                            <forename>August Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Dienstpflicht. Schauspiel in Fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_ed3_vnf_fw">
+                    <author>
+                        <persName key="prov_d4h_dtz_q5">
+                            <surname>Iffland</surname>
+                            <forename>August Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Elise von Valberg. Schauspiel in 5 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_cnx_plm_4v">
+                    <author>
+                        <persName key="prov_d4h_dtz_q5">
+                            <surname>Iffland</surname>
+                            <forename>August Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Erinnerung. Ein Schauspiel in fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_zfl_llv_wx">
+                    <author>
+                        <persName key="prov_d4h_dtz_q5"><surname>Iffland</surname><forename>August
+                                Wilhelm</forename></persName>
+                    </author>
+                    <title>Familie Lonau, Die. Ein Lustspiel in fünf Aufzügen</title>
+                </bibl>
+                <bibl xml:id="prov_tjq_4vb_3v">
+                    <author>
+                        <persName key="prov_d4h_dtz_q5">
+                            <surname>Iffland</surname>
+                            <forename>August Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Frauenstand. Schauspiel in 5 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_fkp_5th_rw">
+                    <author>
+                        <persName key="prov_d4h_dtz_q5">
+                            <surname>Iffland</surname>
+                            <forename>August Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Gewissen, Das. Trauerspiel in 5 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_fnl_jyw_5w">
+                    <author>
+                        <persName key="prov_d4h_dtz_q5">
+                            <surname>Iffland</surname>
+                            <forename>August Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Hagestolzen, Die. Ein Lustspiel in Fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_awn_xvk_cv">
+                    <author>
+                        <persName key="prov_d4h_dtz_q5">
+                            <surname>Iffland</surname>
+                            <forename>August Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Hausfreunde, Die. Schauspiel in 5 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_bdy_wsf_rw">
+                    <author>
+                        <persName key="prov_d4h_dtz_q5">
+                            <surname>Iffland</surname>
+                            <forename>August Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Hausfriede, Der. Ein Lustspiel in Fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_sb3_b4z_cx">
+                    <author>
+                        <persName key="prov_d4h_dtz_q5">
+                            <surname>Iffland</surname>
+                            <forename>August Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Herbsttag, Der. Lustspiel in 5 Aufzügen</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_rh4_cpt_fv">
+                    <author>
+                        <persName key="prov_d4h_dtz_q5">
+                            <surname>Iffland</surname>
+                            <forename>August Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Jäger, Die. Ein ländliches Sittengemälde in Fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_o4w_wdm_tw">
+                    <author>
+                        <persName key="prov_d4h_dtz_q5">
+                            <surname>Iffland</surname>
+                            <forename>August Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Leichter Sinn. Lustspiel in Fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_n1v_frc_qv">
+                    <author>
+                        <persName key="prov_d4h_dtz_q5">
+                            <surname>Iffland</surname>
+                            <forename>August Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Magnetismus, Der. Lustspiel in 1 Akt</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_ish_d4x_s5">
+                    <author>
+                        <persName key="prov_d4h_dtz_q5">
+                            <surname>Iffland</surname>
+                            <forename>August Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Mündel, Die. ein Schauspiel in 5 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_ocr_mgf_fx">
+                    <author>
+                        <persName key="prov_d4h_dtz_q5">
+                            <surname>Iffland</surname>
+                            <forename>August Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Reise nach der Stadt, Die . Ein Lustspiel in Fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_zcs_k1c_sw">
+                    <author>
+                        <persName key="prov_d4h_dtz_q5">
+                            <surname>Iffland</surname>
+                            <forename>August Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Spieler, Der. Schauspiel in Fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_il5_1t1_gv">
+                    <author>
+                        <persName key="prov_d4h_dtz_q5">
+                            <surname>Iffland</surname>
+                            <forename>August Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Vaterhaus, Das. Schauspiel in Fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_pyw_wfp_dx">
+                    <author>
+                        <persName key="prov_d4h_dtz_q5">
+                            <surname>Iffland</surname>
+                            <forename>August Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Veteran, Der. Schauspiel in 1 Akt</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_f25_wbx_pv">
+                    <author>
+                        <persName key="prov_smn_np4_3v">
+                            <surname>Jünger</surname>
+                            <forename>Johann Friedrich</forename>
+                        </persName>
+                    </author>
+                    <title>Strich durch die Rechnung, Der. Lustspiel in 4 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_rm3_yp4_3v">
+                    <author>
+                        <persName key="prov_smn_np4_3v">
+                            <surname>Jünger</surname>
+                            <forename>Johann Friedrich</forename>
+                        </persName>
+                    </author>
+                    <title>beiden Figaro, Die. Lustspiel in fünf Aufzügen </title>
+                </bibl>
+                <bibl xml:id="ed_rfj_q1c_2w">
+                    <author>
+                        <persName key="prov_smn_np4_3v">
+                            <surname>Jünger</surname>
+                            <forename>Johann Friedrich</forename>
+                        </persName>
+                    </author>
+                    <title>Er mengt sich in Alles, Lustspiel in 5 Akten nach der Centlivre
+                       </title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_krj_p1s_qx">
+                    <author>
+                        <persName key="prov_ghf_5cc_55">
+                            <surname>Kauer</surname>
+                            <forename>Ferdinand</forename>
+                        </persName>
+                    </author>
+                    <author>
+                        <persName key="prov_ujm_55d_cv">
+                            <surname>Hensler</surname>
+                            <forename>Karl Friedrich</forename>
+                        </persName>
+                    </author>
+                    <title>Nymphe der Donau, Die. Erster Theil</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_a4g_z1s_qx">
+                    <author>
+                        <persName key="prov_ghf_5cc_55">
+                            <surname>Kauer</surname>
+                            <forename>Ferdinand</forename>
+                        </persName>
+                    </author>
+                    <author>
+                        <persName key="prov_ujm_55d_cv">
+                            <surname>Hensler</surname>
+                            <forename>Karl Friedrich</forename>
+                        </persName>
+                    </author>
+                    <title>Nymphe der Donau, Die. Zweiter Theil</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_xzr_2vd_cv">
+                    <author>
+                        <persName key="prov_ghf_5cc_55">
+                            <surname>Kauer</surname>
+                            <forename>Ferdinand </forename>
+                        </persName>
+                    </author>
+                    <author>
+                        <persName key="prov_ujm_55d_cv">
+                            <surname>Hensler</surname>
+                            <forename>Karl Friedrich</forename>
+                        </persName>
+                    </author>
+                    <title>Nymphe der Donau, Die. Dritter Theil</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_cgv_qcc_55">
+                    <author>
+                        <persName key="prov_ghf_5cc_55">
+                            <surname>Kauer</surname>
+                            <forename>Ferdinand</forename>
+                        </persName>
+                    </author>
+                    <author>
+                        <persName key="ed_vld_ttj_sx">
+                            <surname>Voß</surname>
+                            <forename>Julius von (Übersetzung)</forename>
+                        </persName>
+                    </author>
+                    <title>Sternenkönigin, Die. Romantisches Feenmärchen</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_x5g_lbd_xx">
+                    <author role="music">
+                        <persName key="prov_ghf_5cc_55"><surname>Kauer</surname><forename>Ferdinand</forename></persName>
+                    </author>
+                    <author role="text">
+                        <persName key="prov_ujm_55d_cv"><surname>Hensler</surname><forename>Karl
+                                Friedrich</forename></persName>
+                    </author>
+                    <title>Waldweibchen, Das. Ein romantisch-komisches Volksmährchen mit Gesang in
+                        drey Aufzügen</title>
+                </bibl>
+                <bibl xml:id="prov_g4k_hpb_3v">
+                    <author>
+                        <persName key="prov_fln_plb_3v">
+                            <surname>Klesheim </surname>
+                            <forename>Anton von</forename>
+                        </persName>
+                    </author>
+                    <title>Stiefmutter, Die. Schauspiel in 5 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_mkn_1wv_y5">
+                    <author>
+                        <persName key="prov_djr_jzz_q5">
+                            <surname>Kotzebue</surname>
+                            <forename>August von</forename>
+                        </persName>
+                    </author>
+                    <title>beiden Klingsberge, Die. Ein Lustspiel in Vier Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_l11_fmm_2y">
+                    <author>
+                        <persName key="prov_djr_jzz_q5"><surname>Kotzebue</surname><forename>August
+                                von</forename></persName>
+                    </author>
+                    <title>Deutschen Kleinstädter, Die. Ein Lustspiel in vier Akten </title>
+                </bibl>
+                <bibl xml:id="ed_gvc_xlm_2y">
+                    <author role="translation">
+                        <persName key="prov_djr_jzz_q5"><surname>Kotzebue</surname><forename>August
+                                von</forename></persName>
+                    </author>
+                    <author>
+                        <persName key="prov_ztd_55f_t5"><surname>Picard</surname><forename>Louis-Benoît</forename></persName>
+                    </author>
+                    <title>Französischen Kleinstädter, Die. Ein Lustspiel in Vier Akten #B</title>
+                </bibl>
+                <bibl xml:id="ed_lgb_thy_xw">
+                    <author>
+                        <persName key="prov_djr_jzz_q5">
+                            <surname>Kotzebue</surname>
+                            <forename>August von</forename>
+                        </persName>
+                    </author>
+                    <title>Graf Benjowsky auf Kamtschatka. Ein Schauspiel in Fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_tjs_24q_55">
+                    <author>
+                        <persName key="prov_djr_jzz_q5">
+                            <surname>Kotzebue</surname>
+                            <forename>August von</forename>
+                        </persName>
+                    </author>
+                    <title>Graf von Burgund, Der. Ein Schauspiel in Vier Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_pvp_yw4_55">
+                    <author>
+                        <persName key="prov_djr_jzz_q5">
+                            <surname>Kotzebue</surname>
+                            <forename>August von</forename>
+                        </persName>
+                    </author>
+                    <title>Heinrich Reuß von Plauen, oder: die Belagerung von Marienburg.
+                        Trauerspiel</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_o1p_yhr_xw">
+                    <author>
+                        <persName key="prov_djr_jzz_q5">
+                            <surname>Kotzebue</surname>
+                            <forename>August von</forename>
+                        </persName>
+                    </author>
+                    <title>Korsen, Die. Schauspiel in 4 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_ksw_fsf_tx">
+                    <author>
+                        <persName key="prov_djr_jzz_q5">
+                            <surname>Kotzebue</surname>
+                            <forename>August von</forename>
+                        </persName>
+                    </author>
+                    <author role="music">
+                        <persName key="ed_xxv_dwt_fx"><surname>Reichardt</surname><forename>Johann
+                                Friedrich</forename></persName>
+                    </author>
+                    <title>Kreuzfahrer, Die, Schauspiel in fünf Akten. Die Ouvertüre und die zur
+                        Handlung gehörige Instrumental- und Chormusik ist vom Herrn Kapellmeister
+                        Reichhardt </title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_vkl_psl_qv">
+                    <author>
+                        <persName key="prov_djr_jzz_q5">
+                            <surname>Kotzebue</surname>
+                            <forename>August von</forename>
+                        </persName>
+                    </author>
+                    <title>Menschenhaß und Reue. Ein Schauspiel in 5 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_zn3_3sf_tx">
+                    <author>
+                        <persName key="prov_djr_jzz_q5">
+                            <surname>Kotzebue</surname>
+                            <forename>August von</forename>
+                        </persName>
+                    </author>
+                    <title>Octavia. Ein Trauerspiel in Fünf Akten </title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_dxm_4sc_x5">
+                    <author>
+                        <persName key="prov_djr_jzz_q5">
+                            <surname>Kotzebue</surname>
+                            <forename>August von</forename>
+                        </persName>
+                    </author>
+                    <title>Organe des Gehirns, Die. Ein Lustspiel in Drey Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_jnr_ywx_5w">
+                    <author>
+                        <persName key="prov_djr_jzz_q5">
+                            <surname>Kotzebue</surname>
+                            <forename>August von</forename>
+                        </persName>
+                    </author>
+                    <title>silberne Hochzeit, Die. Schauspiel in 5 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_pct_1x4_55">
+                    <author>
+                        <persName key="prov_djr_jzz_q5">
+                            <surname>Kotzebue</surname>
+                            <forename>August von</forename>
+                        </persName>
+                    </author>
+                    <title>Stricknadeln, Die. Schauspiel in vier Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_jpd_wrw_dw">
+                    <author>
+                        <persName key="prov_djr_jzz_q5">
+                            <surname>Kotzebue</surname>
+                            <forename>August von</forename>
+                        </persName>
+                    </author>
+                    <title>Üble Laune, Schauspiel in 4 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_tsp_tfl_sv">
+                    <author>
+                        <persName key="prov_djr_jzz_q5">
+                            <surname>Kotzebue</surname>
+                            <forename>August von</forename>
+                        </persName>
+                    </author>
+                    <title>Unglücklichen, Die. Lustspiel in 1 Akt</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_wsg_mtm_2y">
+                    <author>
+                        <persName key="prov_djr_jzz_q5"><surname>Kotzebue</surname><forename>August
+                                von</forename></persName>
+                    </author>
+                    <title>Unser Fritz. Ein Schauspiel in einem Aufzuge</title>
+                </bibl>
+                <bibl xml:id="prov_djc_j4x_s5">
+                    <author>
+                        <persName key="prov_djr_jzz_q5">
+                            <surname>Kotzebue</surname>
+                            <forename>August Friedrich Ferdinand von </forename>
+                        </persName>
+                    </author>
+                    <title>Wildfang, Der. Posse in 3 Akten</title>
+                    <note>Posse</note>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_egz_qmn_1v">
+                    <author>
+                        <persName key="prov_djr_jzz_q5">
+                            <surname>Kotzebue</surname>
+                            <forename>August von</forename>
+                        </persName>
+                    </author>
+                    <title>Wirrwarr, Der. Eine Posse in Fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_jdb_4cc_2w">
+                    <author>
+                        <persName key="ed_idl_fcc_2w">
+                            <surname>Kratter</surname>
+                            <forename>Franz </forename>
+                        </persName>
+                    </author>
+                    <title>Mädchen von Marienburg, Das. Ein Schauspiel in Fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_grs_cpg_fw">
+                    <author>
+                        <persName key="ed_b1h_kpg_fw">
+                            <surname>Lafontaine</surname>
+                            <forename>August Heinrich Julius </forename>
+                        </persName>
+                    </author>
+                    <title>Tochter der Natur, Die. Schauspiel in 3 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_jdt_5f1_rx">
+                    <author>
+                        <persName key="ed_b1h_kpg_fw">
+                            <surname> Lafontaine</surname>
+                            <forename>August Heinrich Julius</forename>
+                        </persName>
+                    </author>
+                    <title>Sonderling, Der. Ein Gemählde des menschlichen Herzens, Roman
+                        1793-94</title>
+                </bibl>
+                <bibl xml:id="ed_czz_j1x_yx">
+                    <author>
+                        <persName key="ed_mbj_b1x_yx"><surname>Lang</surname><forename>Carl</forename></persName>
+                    </author>
+                    <title>Taschenbuch für häusliche und gesellschaftliche Freuden, Leipzig
+                        1796-1800</title>
+                </bibl>
+                <bibl xml:id="prov_xkq_ssc_x5">
+                    <author>
+                        <persName key="prov_jt5_tvc_x5">
+                            <surname>Lebrun</surname>
+                            <forename>Ludwig August</forename>
+                        </persName>
+                    </author>
+                    <title>Pachter Robert. Singspiel in einem Akt</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_r2w_jzt_fw">
+                    <author>
+                        <persName key="ed_tdj_yyt_fw">
+                            <surname>Lessing</surname>
+                            <forename>Gotthold Ephraim </forename>
+                        </persName>
+                    </author>
+                    <title>Minna von Barnhelm, oder: Das Soldatenglück. Ein Lustspiel in Fünf
+                        Aufzügen</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_cbp_yhc_px">
+                    <author>
+                        <persName key="ed_tdj_yyt_fw">
+                            <surname>Lessing</surname>
+                            <forename>Gotthold Ephraim</forename>
+                        </persName>
+                    </author>
+                    <title>Nathan der Weise. Ein dramatisches Gedicht in Fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_ixt_s53_px">
+                    <author>
+                        <persName key="ed_dfj_h53_px">
+                            <surname> Loewe</surname>
+                            <forename>Lazarus </forename>
+                        </persName>
+                    </author>
+                    <title>Schreiben an den Herrn Direktor Iffland, über das Schauspiel der Jude und
+                        dessen Vorstellung auf dem hiesigen Theater</title>
+                </bibl>
+                <bibl xml:id="ed_hyn_br3_sv">
+                    <author>
+                        <persName key="ed_pgk_hr3_sv">
+                            <surname>Martin y Soler</surname>
+                            <forename>Vicente</forename>
+                        </persName>
+                    </author>
+                    <title>Baum der Diana, Der. Ein Singspiel in Zwei Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_szs_y2p_rw">
+                    <author>
+                        <persName key="ed_wmd_r2p_rw">
+                            <surname>Mercier</surname>
+                            <forename>Louis Sébastien </forename>
+                        </persName>
+                    </author>
+                    <title>Essighändler, Der. Ein Schauspiel in Drey Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_rqb_zdt_cy">
+                    <author role="music">
+                        <persName key="ed_kcr_qdt_cy"><surname>Méhul</surname><forename>Étienne
+                                Nicolas </forename></persName>
+                    </author>
+                    <author role="text">
+                        <persName key="ed_pgf_cft_cy"><surname>Hoffmann</surname><forename>François-Benoît</forename></persName>
+                    </author>
+                    <author role="translation">
+                        <persName key="prov_kmh_b1c_55"><surname>Herklots</surname><forename>Karl
+                                Alexander</forename></persName>
+                    </author>
+                    <title>Stratonice. Comédie héroique</title>
+                </bibl>
+                <bibl xml:id="ed_ipy_rhk_sx">
+                    <author role="music">
+                        <persName key="ed_lf1_4yj_sx">
+                            <surname>Mederitsch</surname>
+                            <forename>Johann Georg Anton </forename></persName>
+                    </author>
+                    <author role="music">
+                        <persName key="prov_nsq_czc_cv">
+                            <surname>Winter</surname>
+                            <forename>Peter </forename></persName>
+                    </author>
+                    <author role="text">
+                        <persName key="ed_gsb_czd_sv">
+                            <surname>Schikaneder</surname>
+                            <forename>Emanuel </forename></persName>
+                    </author>
+                    <title>Baylons Pyramiden. Eine große heroisch-komische Oper, 1797</title>
+                </bibl>
+                <bibl xml:id="prov_mt5_2hb_dv">
+                    <author>
+                        <persName key="prov_nkq_lhb_dv">
+                            <surname>Molière</surname>
+                            <forename/>
+                        </persName>
+                    </author>
+                    <title>Geitzige, Der. Ein Lustspiel in 5 Akten </title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_tf5_2nz_gy">
+                    <author>
+                        <persName key="prov_nkq_lhb_dv"><surname>Molière</surname><forename/></persName>
+                    </author>
+                    <title>Tartuffe ou l'Imposteur, Le</title>
+                </bibl>
+                <bibl xml:id="ed_rzs_ypz_gy">
+                    <author>
+                        <persName key="ed_ky3_qng_tx"><surname> Monsigny</surname><forename>Pierre
+                                Alexandre de</forename></persName>
+                    </author>
+                    <title>Déserteur, Le</title>
+                </bibl>
+                <bibl xml:id="ed_i4h_14g_tx">
+                    <author>
+                        <persName key="ed_ky3_qng_tx">
+                            <surname>Monsigny</surname>
+                            <forename>Pierre Alexandre de</forename>
+                        </persName>
+                    </author>
+                    <title>Felix, oder: der Findling. Singspiel in 3 Aufzügen</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_os3_d5j_gw">
+                    <author>
+                        <persName key="prov_hbv_1kq_s5">
+                            <surname>Mozart</surname>
+                            <forename>Wolfgang Amadeus </forename>
+                        </persName>
+                    </author>
+                    <title>Belmonte und Konstanze. Ein Singspiel in 3 Akten [Die Entführung aus dem
+                        Serail]</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_c3v_ylc_qv">
+                    <author>
+                        <persName key="prov_hbv_1kq_s5">
+                            <surname>Mozart</surname>
+                            <forename>Wolfgang Amadeus</forename>
+                        </persName>
+                    </author>
+                    <title>Hochzeit des Figaro, Die. Ein Singspiel in 4 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_gqc_j5s_qv">
+                    <author>
+                        <persName key="prov_hbv_1kq_s5">
+                            <surname>Mozart</surname>
+                            <forename>Wolfgang Amadeus</forename>
+                        </persName>
+                    </author>
+                    <title>Don Juan, oder: der steinerne Gast, Oper in 4 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_lf5_tz3_gv">
+                    <author>
+                        <persName key="prov_hbv_1kq_s5">
+                            <surname>Mozart</surname>
+                            <forename>Wolfgang Amadeus</forename>
+                        </persName>
+                    </author>
+                    <title>Requiem</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_kzx_tyd_sv">
+                    <author>
+                        <persName key="prov_hbv_1kq_s5">
+                            <surname>Mozart</surname>
+                            <forename>Wolfgang Amadeus</forename>
+                        </persName>
+                    </author>
+                    <title>Zauberflöte, Die. Ein Singspiel in Zwei Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_cz2_tkn_tx">
+                    <author>
+                        <persName key="ed_gxv_jjp_pw">
+                            <surname>Müchler</surname>
+                            <forename>Johann Georg Philipp</forename>
+                        </persName>
+                    </author>
+                    <title>Gespenst im Wirtshaus, Das (Übersetzung, Manuskript)</title>
+                </bibl>
+                <bibl xml:id="ed_qbp_kyd_sv">
+                    <author>
+                        <persName key="prov_uvv_x1c_55">
+                            <surname>Müller</surname>
+                            <forename>Wenzel</forename>
+                        </persName>
+                    </author>
+                    <title>Neusonntagskind, Das. Ein komisches Singspiel in zwei Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_w4k_bbc_55">
+                    <author role="music">
+                        <persName key="prov_uvv_x1c_55">
+                            <surname>Müller</surname>
+                            <forename>Wenzel</forename>
+                        </persName>
+                    </author>
+                    <author role="arrangement">
+                        <persName key="ed_vld_ttj_sx">
+                            <surname>Voß</surname>
+                            <forename>Julius von </forename>
+                        </persName>
+                    </author>
+                    <title>zwölf schlafenden Jungfrauen, Die. Erster Theil</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_syv_nxm_jw">
+                    <author>
+                        <persName key="ed_fx5_swm_jw">
+                            <surname>Murphy</surname>
+                            <forename>Arthur </forename>
+                        </persName>
+                    </author>
+                    <title>Uebereilung, Die. Ein Lustspiel in Einem Akt</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_gvd_qgw_wx">
+                    <author>
+                        <persName key="ed_qkn_ggw_wx"><surname>N. N.</surname><forename>(d. i. ein
+                                Schauspieldichter in Braunschweig)</forename></persName>
+                    </author>
+                    <title>Narbe auf der Stirn, Die. Lustspiel (Manuskript)</title>
+                </bibl>
+                <bibl xml:id="ed_y14_43r_nw">
+                    <author>
+                        <persName key="ed_o1l_y3r_nw">
+                            <surname>N. N. (d. i. ein Dramatiker, Dalberg?)</surname>
+                            <forename/>
+                        </persName>
+                    </author>
+                    <title>eheliche Vergeltung, Die. Lustspiel in 1 Akt</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_rdm_g52_vx">
+                    <author>
+                        <persName key="prov_ts3_5yz_q5"><surname> Opitz</surname><forename>Christian
+                                Wilhelm </forename></persName>
+                    </author>
+                    <title>Wittwer und Wittwe (Manuskript, 1801)</title>
+                </bibl>
+                <bibl xml:id="ed_fh1_d1w_rw">
+                    <author>
+                        <persName key="ed_nvv_vzv_rw">
+                            <surname>Otway</surname>
+                            <forename>Thomas </forename>
+                        </persName>
+                    </author>
+                    <title>gerettete Venedig, Das. Trauerspiel in 5 Aufzügen</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_rdh_bfn_y5">
+                    <author>
+                        <persName key="prov_c43_ffn_y5">
+                            <surname>Paër</surname>
+                            <forename>Ferdinando</forename>
+                        </persName>
+                    </author>
+                    <title>Achilles. Eine heroische Oper in Drey Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_pk3_cpf_1y">
+                    <author role="music">
+                        <persName key="prov_c43_ffn_y5"><surname> Paër </surname><forename>
+                                Ferdinando </forename></persName>
+                    </author>
+                    <title>Weiberkur, Die, oder Der lustige Schuster. Eine komische Oper</title>
+                </bibl>
+                <bibl xml:id="ed_wpv_zmd_qv">
+                    <author>
+                        <persName key="ed_cv1_rmd_qv">
+                            <surname>Paisiello</surname>
+                            <forename>Giovanni </forename>
+                        </persName>
+                    </author>
+                    <title>Barbier von Sevilla, Der. Oper in 4 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_rnz_wjk_qv">
+                    <author>
+                        <persName key="ed_scx_4jk_qv">
+                            <surname> Paneck</surname>
+                            <forename>Johann Baptist </forename>
+                        </persName>
+                    </author>
+                    <title>christliche Judenbraut, Die, oder die Alte muß zahlen</title>
+                    <date>1793</date>
+                </bibl>
+                <bibl xml:id="ed_bmx_2g5_tx">
+                    <author>
+                        <persName key="prov_ztd_55f_t5">
+                            <surname>Picard</surname>
+                            <forename>Louis-Benoît</forename>
+                        </persName>
+                    </author>
+                    <title>Herr Müßling, oder: Wie die Zeit vergeht. Ein Lustspiel in Einem
+                        Akt</title>
+                </bibl>
+                <bibl xml:id="ed_d4l_sk2_vx">
+                    <author>
+                        <persName key="prov_ztd_55f_t5"><surname>Picard</surname><forename>Louis-Benoît</forename></persName>
+                    </author>
+                    <title>La petite ville, 1801</title>
+                </bibl>
+                <bibl xml:id="ed_bxn_yhz_gy">
+                    <author>
+                        <persName key="ed_zyx_4fz_gy"><surname>Pigault-Lebrun</surname><forename>Charles Antoine
+                                Guillaume</forename></persName>
+                    </author>
+                    <author role="translation">
+                        <persName key="ed_d3n_s5p_5x"><surname>Cords</surname><forename/></persName>
+                    </author>
+                    <title>Claudine, Lustspiel in 1 Akt #B</title>
+                </bibl>
+                <bibl xml:id="ed_jb2_gft_qx">
+                    <author>
+                        <persName key="ed_z4s_p2t_qx">
+                            <surname> Prochaska</surname>
+                            <forename>C. J. </forename>
+                        </persName>
+                    </author>
+                    <title>Erscheinungen, Die, Nachspiel (Manuskript)</title>
+                </bibl>
+                <bibl xml:id="ed_pjt_lft_qx">
+                    <author>
+                        <persName key="ed_z4s_p2t_qx">
+                            <surname> Prochaska</surname>
+                            <forename>C. J. </forename>
+                        </persName>
+                    </author>
+                    <title>Sohn der Natur, Nachspiel (Manuskript) </title>
+                </bibl>
+                <bibl xml:id="ed_tsp_fjb_dy">
+                    <author>
+                        <persName key="ed_xsy_njb_dy"><surname>Racine</surname><forename>Jean
+                                Baptiste</forename></persName>
+                    </author>
+                    <author role="translation">
+                        <persName key="ed_uqj_jj1_dy"><surname>Bode</surname><forename>Theodor
+                                Heinrich August</forename></persName>
+                    </author>
+                    <title>Bajazet. Ein Trauerspiel in fünf Aufzügen</title>
+                </bibl>
+                <bibl xml:id="ed_rjc_tjq_5x">
+                    <author>
+                        <persName key="ed_ptc_qjq_sx">
+                            <surname>Rambach</surname>
+                            <forename>Friedrich Eberhard</forename>
+                        </persName>
+                    </author>
+                    <title>Kuhpocken, Die. Ein Familiengemälde (Manuskript)</title>
+                </bibl>
+                <bibl xml:id="prov_dpb_z5b_3v">
+                    <author>
+                        <persName key="ed_ptc_qjq_sx">
+                            <surname>Rambach</surname>
+                            <forename>Friedrich Eberhard </forename>
+                        </persName>
+                    </author>
+                    <title>Graf Marino, oder : Der schuldlose Verbrecher, Grätz 1799</title>
+                </bibl>
+                <bibl xml:id="ed_evf_qzq_sx">
+                    <author>
+                        <persName key="ed_ptc_qjq_sx">
+                            <surname>Rambach</surname>
+                            <forename>Friedrich Eberhard</forename>
+                        </persName>
+                    </author>
+                    <title>Reiherbusch, Der. Schauspiel, (Manuskript)</title>
+                </bibl>
+                <bibl xml:id="ed_lbq_1tq_gy">
+                    <author role="translation">
+                        <persName key="ed_ptc_qjq_sx"><surname>Rambach</surname><forename>Friedrich
+                                Eberhard</forename></persName>
+                    </author>
+                    <author>
+                        <persName><surname>Reynolds</surname><forename>Frederick</forename></persName>
+                    </author>
+                    <title>Triumph des Frohsinns, Der (Manuskript)</title>
+                </bibl>
+                <bibl xml:id="prov_uqh_jjv_dv">
+                    <author>
+                        <persName key="prov_orz_vgv_dv">
+                            <surname>Ramler</surname>
+                            <forename>Karl Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Allegorische Personen zum Gebrauche der bildenden Künstler (1788)</title>
+                </bibl>
+                <bibl xml:id="ed_whq_1g1_fy">
+                    <author role="music">
+                        <persName key="ed_xxv_dwt_fx"><surname>Reichardt</surname><forename>Johann
+                                Friedrich</forename></persName>
+                    </author>
+                    <title>Brenno. Musikalisches Drama mit Chören und Tänzen in 3 Akten </title>
+                </bibl>
+                <bibl xml:id="ed_igr_lwt_fx">
+                    <author>
+                        <persName key="ed_xxv_dwt_fx">
+                            <surname>Reichardt</surname>
+                            <forename>Johann Friedrich </forename>
+                        </persName>
+                    </author>
+                    <title> Geisterinsel, Die. Ein Singspiel in drey Akten, nach dem Sturm von
+                        Shakespeare</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_fys_mmt_2y">
+                    <author role="music">
+                        <persName key="ed_xxv_dwt_fx"><surname>Reichardt</surname><forename>Johann
+                                Friedrich</forename></persName>
+                    </author>
+                    <author role="text">
+                        <persName key="prov_k3v_gmw_55"><surname>Goethe</surname><forename>Johann
+                                Wolfgang von</forename></persName>
+                    </author>
+                    <title> Jery und Bätely. Komische Operette in Einem Akt #B</title>
+                </bibl>
+                <bibl xml:id="ed_vq3_wmt_2y">
+                    <author role="music">
+                        <persName key="ed_xxv_dwt_fx"><surname>Reichardt</surname><forename>Johann
+                                Friedrich</forename></persName>
+                    </author>
+                    <title> Lieb' und Treue. Ein Liederspiel in Einem Akt #B</title>
+                </bibl>
+                <bibl xml:id="ed_gsz_glz_2y">
+                    <author role="music">
+                        <persName key="ed_xxv_dwt_fx"><surname>Reichardt</surname><forename>Johann
+                                Friedrich</forename></persName>
+                    </author>
+                    <title>Tamerlan. Große Oper mit Ballets in 4 Aufzügen #B</title>
+                </bibl>
+                <bibl xml:id="ed_mvc_g4r_2y">
+                    <author role="music">
+                        <persName key="ed_xxv_dwt_fx"><surname>Reichardt</surname><forename>Johann
+                                Friedrich</forename></persName>
+                    </author>
+                    <author role="text">
+                        <persName key="ed_xxv_dwt_fx"><surname>Reichardt</surname><forename>Johann
+                                Friedrich</forename></persName>
+                    </author>
+                    <title>Tod des Herkules, Der. Melodrama mit Chören #B</title>
+                </bibl>
+                <bibl xml:id="ed_jhj_wgp_wx">
+                    <author role="music">
+                        <persName key="ed_xxv_dwt_fx"><surname>Reichardt</surname><forename>Johann
+                                Friedrich</forename></persName>
+                    </author>
+                    <author role="text">
+                        <persName key="prov_djr_jzz_q5"><surname>Kotzebue</surname><forename>August
+                                Friedrich Ferdinand von </forename></persName>
+                    </author>
+                    <title>Zauberschloß, Das, eine natürliche Zauberoper in 3 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_mt4_1lx_wx">
+                    <author>
+                        <persName key="ed_wjt_yml_qx"><surname>Reinbeck</surname><forename>Georg</forename></persName>
+                    </author>
+                    <title>Geheimrath, Der (Manuskript)</title>
+                </bibl>
+                <bibl xml:id="ed_hrz_5vl_qx">
+                    <author>
+                        <persName key="ed_wjt_yml_qx">
+                            <surname>Reinbeck</surname>
+                            <forename>Georg</forename>
+                        </persName>
+                    </author>
+                    <title> Graf Rasowsky, oder Nicht alles ist falsch, was glänzt. Russisches
+                        Sittengemälde in 4 Aufzügen</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_bjs_2lx_wx">
+                    <author>
+                        <persName key="ed_wjt_yml_qx"><surname>Reinbeck</surname><forename>Georg</forename></persName>
+                    </author>
+                    <title>Verführer, Der (Manuskript)</title>
+                </bibl>
+                <bibl xml:id="ed_ew4_xbs_gy">
+                    <author>
+                        <persName key="ed_ovn_qbs_gy"><surname>Reynolds</surname><forename>Frederick
+                            </forename></persName>
+                    </author>
+                    <title>Schachmaschine, Die. Ein Lustspiel in Vier Akten #B</title>
+                </bibl>
+                <bibl xml:id="ed_pq5_pqz_gy">
+                    <author>
+                        <persName key="ed_ttt_wjb_gw"><surname>Sacchini</surname><forename>Antonio
+                                Maria Gaspare Gioachino</forename></persName>
+                    </author>
+                    <title>Oedipe à Colone. Tragédie lyrique</title>
+                </bibl>
+                <bibl xml:id="ed_mrp_mkb_gw">
+                    <author>
+                        <persName key="ed_ttt_wjb_gw">
+                            <surname>Sacchini</surname>
+                            <forename>Antonio Maria Gaspare Gioachino</forename>
+                        </persName>
+                    </author>
+                    <title>Oedip zu Colonos. Große Oper mit Ballets in 3 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_kby_pxg_1y">
+                    <author role="music">
+                        <persName key="prov_mpq_jzb_55"><surname>Salieri</surname><forename>Antonio</forename></persName>
+                    </author>
+                    <title>Cäsar auf Pharmacusa (Manuskript)</title>
+                </bibl>
+                <bibl xml:id="prov_f4y_rtg_3v">
+                    <author role="music">
+                        <persName key="prov_mpq_jzb_55">
+                            <surname>Salieri</surname>
+                            <forename>Antonio</forename>
+                        </persName>
+                    </author>
+                    <title>Axur. Ein Singspiel in vier Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_l31_yyb_55">
+                    <author role="music">
+                        <persName key="prov_mpq_jzb_55">
+                            <surname>Salieri</surname>
+                            <forename>Antonio</forename>
+                        </persName>
+                    </author>
+                    <title>Kästchen mit der Chiffer, Das. Ein komisches Singspiel</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_wcd_vpp_pv">
+                    <author>
+                        <persName key="prov_mpq_jzb_55">
+                            <surname>Salieri</surname>
+                            <forename>Antonio</forename>
+                        </persName>
+                    </author>
+                    <title>Palmira, Prinzessin von Persien, Oper in drei Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_unt_jcf_tx">
+                    <author>
+                        <persName key="ed_ejg_gcf_tx">
+                            <surname>Sallmann</surname>
+                            <forename>F. B.</forename>
+                        </persName>
+                    </author>
+                    <title>Sophie van der Daalen. Schauspiel in 5 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_z5t_rnf_vx">
+                    <author>
+                        <persName key="ed_bct_mmf_vx"><surname>Saunders</surname><forename>George</forename></persName>
+                    </author>
+                    <title>Treatise on Theatres, 1790</title>
+                </bibl>
+                <bibl xml:id="ed_es4_tpr_qx">
+                    <author>
+                        <persName key="ed_bwd_xjr_qx">
+                            <surname>Schaum</surname>
+                            <forename>Johann O. H.</forename>
+                        </persName>
+                    </author>
+                    <title>Vorspiel mit Musik und Tanz (Manuskript)</title>
+                </bibl>
+                <bibl xml:id="ed_axm_csc_qv">
+                    <author>
+                        <persName key="ed_u2c_prc_qv">
+                            <surname>Schenck</surname>
+                            <forename>Johann Baptist </forename>
+                        </persName>
+                    </author>
+                    <title>Dorfbarbier, Der. Oper in 1 Akt</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_gcz_vh5_1y">
+                    <author role="text">
+                        <persName key="ed_gsb_czd_sv"><surname>Schikaneder</surname><forename>Emanuel</forename></persName>
+                    </author>
+                    <author role="music">
+                        <persName key="prov_nsq_czc_cv"><surname>Winter</surname><forename>Peter
+                                von</forename></persName>
+                    </author>
+                    <title>Labyrinth, Das, oder: Der Kampf mit den Elementen. (Zweyter Theil der
+                        Zauberflöte.) Ein großes heroisch-komisches Singspiel in Zwey Akten
+                       </title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_bqh_hs2_jx">
+                    <author>
+                        <persName key="prov_wdd_1cd_s5">
+                            <surname>Schiller</surname>
+                            <forename>Johann Christoph Friedrich von </forename>
+                        </persName>
+                    </author>
+                    <title>Don Carlos. Ein Trauerspiel in Fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_snn_dxr_sx">
+                    <author>
+                        <persName key="prov_wdd_1cd_s5">
+                            <surname>Schiller</surname>
+                            <forename>Johann Christoph Friedrich von</forename>
+                        </persName>
+                    </author>
+                    <title>Jungfrau von Orleans, Die. Eine romantische Tragödie in Fünf Akten
+                       </title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_fwl_y3x_s5">
+                    <author>
+                        <persName key="prov_wdd_1cd_s5">
+                            <surname>Schiller</surname>
+                            <forename>Johann Christoph Friedrich von</forename>
+                        </persName>
+                    </author>
+                    <title>Kabale und Liebe. Ein Trauerspiel in Fünf Akten</title>
+                    <note/>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_fzc_kzg_w5">
+                    <author>
+                        <persName key="prov_wdd_1cd_s5">
+                            <surname>Schiller</surname>
+                            <forename>Johann Christoph Friedrich von</forename>
+                        </persName>
+                    </author>
+                    <title>Maria Stuart. Ein Trauerspiel in Fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_cnx_x42_jx">
+                    <author>
+                        <persName key="prov_wdd_1cd_s5">
+                            <surname>Schiller</surname>
+                            <forename>Johann Christoph Friedrich von</forename>
+                        </persName>
+                    </author>
+                    <title>Piccolomini, Die. Schauspiel in Fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_q3v_p1g_rw">
+                    <author>
+                        <persName key="prov_wdd_1cd_s5">
+                            <surname>Schiller</surname>
+                            <forename>Johann Christoph Friedrich von</forename>
+                        </persName>
+                    </author>
+                    <title>Räuber, Die. Trauerspiel in Fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_ivc_syr_sx">
+                    <author>
+                        <persName key="prov_wdd_1cd_s5">
+                            <surname>Schiller</surname>
+                            <forename>Johann Christoph Friedrich von</forename>
+                        </persName>
+                    </author>
+                    <title> Über die ästhetische Erziehung des Menschen in einer Reihe von Briefen,
+                        1793/94</title>
+                </bibl>
+                <bibl xml:id="prov_bvc_vdj_55">
+                    <author>
+                        <persName key="prov_wdd_1cd_s5">
+                            <surname>Schiller</surname>
+                            <forename>Johann Christoph Friedrich von </forename>
+                        </persName>
+                    </author>
+                    <title>Wilhelm Tell. Schauspiel in Fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_bqn_sf1_y5">
+                    <author>
+                        <persName key="prov_wdd_1cd_s5">
+                            <surname>Schiller</surname>
+                            <forename>Johann Christoph Friedrich von </forename>
+                        </persName>
+                    </author>
+                    <title>Wallensteins Tod. Ein Trauerspiel in Fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_w4n_kbl_xx">
+                    <author>
+                        <persName key="ed_h3b_yw2_xx"><surname>Schlegel</surname><forename>Friedrich
+                                von</forename></persName>
+                    </author>
+                    <title>Über die Unverständlichkeit, 1800</title>
+                </bibl>
+                <bibl xml:id="ed_kjp_pnb_dy">
+                    <author>
+                        <persName key="ed_olt_n14_yx"><surname>Schlegel</surname><forename>August
+                                Wilhelm von</forename></persName>
+                    </author>
+                    <title>Ion. Ein Schauspiel in Fünf Akten #B</title>
+                </bibl>
+                <bibl xml:id="ed_kkb_m52_2y">
+                    <author>
+                        <persName key="prov_q32_3pw_w5"><surname>Schmid</surname><forename>Siegfried</forename></persName>
+                    </author>
+                    <title>Vermuthungen, Schauspiel (Manuskript)</title>
+                </bibl>
+                <bibl xml:id="prov_rlm_smx_s5">
+                    <author>
+                        <persName key="prov_zjc_bzb_s5">
+                            <surname>Schmidt</surname>
+                            <forename> Friedrich Ludwig</forename>
+                        </persName>
+                    </author>
+                    <title>deutsche Familie, Die. Schauspiel in 5 Akten, nach dem Charaktergemälde:
+                        Herr Lorenz Stark, vom Professor Engel</title>
+                    <note/>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_yzv_tfj_sv">
+                    <author>
+                        <persName key="ed_dqh_hfj_sv">
+                            <surname>Schmieder</surname>
+                            <forename>Heinrich Gottlieb</forename>
+                        </persName>
+                    </author>
+                    <title>Journal für Theater und andere schöne Künste, Hamburg 1797-1799</title>
+                </bibl>
+                <bibl xml:id="ed_bf3_54g_fw">
+                    <author>
+                        <persName key="ed_yvy_xr3_sv">
+                            <surname>Schröder</surname>
+                            <forename>Friedrich Ludwig</forename>
+                        </persName>
+                    </author>
+                    <title>Blatt hat sich gewendet, Das. Lustspiel in 5 Aufzügen</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_cnw_hs3_sv">
+                    <author>
+                        <persName key="ed_yvy_xr3_sv">
+                            <surname>Schröder</surname>
+                            <forename>Friedrich Ludwig</forename>
+                        </persName>
+                    </author>
+                    <title>Ring, Der. Ein Lustspiel in fünf Aufzügen</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_py3_bwj_sv">
+                    <author>
+                        <persName key="ed_yvy_xr3_sv">
+                            <surname>Schröder</surname>
+                            <forename>Friedrich Ludwig</forename>
+                        </persName>
+                    </author>
+                    <title>Zwillingsbrüder, Die. Posse in 5 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_fpy_wlf_tw">
+                    <author>
+                        <persName key="ed_pps_hsp_pw">
+                            <surname>Schulz</surname>
+                            <forename>Johann Caspar Friedrich</forename>
+                        </persName>
+                    </author>
+                    <title>Berlinische Dramaturgie. Hg. von Friedrich Schulz, Berlin
+                        1797-1798</title>
+                </bibl>
+                <bibl xml:id="ed_izl_zsf_1y">
+                    <author role="music">
+                        <persName key="ed_nqp_psf_1y"><surname>Seyfried</surname><forename>Ignaz
+                                Xaver von </forename></persName>
+                    </author>
+                    <author role="text">
+                        <persName key="ed_mlk_1fy_sx"><surname>Stegmayer</surname><forename>Matthaeus</forename></persName>
+                    </author>
+                    <title>Holga, die Königin der Kristallgebirge</title>
+                </bibl>
+                <bibl xml:id="ed_fqz_scy_gy">
+                    <author>
+                        <persName key="ed_pvp_4hk_qv"><surname>Shakespeare</surname><forename>William</forename></persName>
+                    </author>
+                    <author role="translation">
+                        <persName key="ed_fbg_1dy_gy"><surname>Falk</surname><forename>Johannes
+                                Daniel</forename></persName>
+                    </author>
+                    <title> Coriolan. Trauerspiel in Fünf Akten #B</title>
+                </bibl>
+                <bibl xml:id="ed_zsg_xyx_gy">
+                    <author>
+                        <persName key="ed_pvp_4hk_qv"><surname>Shakespeare</surname><forename>William</forename></persName>
+                    </author>
+                    <author role="translation">
+                        <persName key="ed_olt_n14_yx"><surname>Schlegel</surname><forename>August
+                                Wilhelm</forename></persName>
+                    </author>
+                    <title>Hamlet, Prinz von Dänemark. Schauspiel in 5 Akten #B</title>
+                </bibl>
+                <bibl xml:id="ed_mq4_j1y_gy">
+                    <author>
+                        <persName key="ed_pvp_4hk_qv"><surname>Shakespeare</surname><forename>William</forename></persName>
+                    </author>
+                    <author role="translation">
+                        <persName key="ed_olt_n14_yx"><surname>Schlegel</surname><forename>August
+                                Wilhelm</forename></persName>
+                    </author>
+                    <title>Julius Cäsar. Ein Trauerspiel in Fünf Akten #B</title>
+                </bibl>
+                <bibl xml:id="ed_c2z_bby_gy">
+                    <author>
+                        <persName key="ed_pvp_4hk_qv"><surname>Shakespeare</surname><forename>William</forename></persName>
+                    </author>
+                    <author role="translation">
+                        <persName key="ed_dct_gsv_fw"><surname>Dalberg</surname><forename>Wolfgang
+                                Heribert von</forename></persName>
+                    </author>
+                    <title>Julius Cäsar, Mannheim 1785</title>
+                </bibl>
+                <bibl xml:id="ed_j4r_xhk_qv">
+                    <author>
+                        <persName key="ed_pvp_4hk_qv">
+                            <surname>Shakespeare</surname>
+                            <forename>William </forename>
+                        </persName>
+                    </author>
+                    <author role="translation">
+                        <persName key="ed_yvy_xr3_sv"><surname>Schröder</surname><forename>Friedrich
+                                Ludwig</forename></persName>
+                    </author>
+                    <title>König Lear. Ein Trauerspiel in Fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_ucj_xzx_gy">
+                    <author>
+                        <persName><surname>Shakespeare</surname><forename>William</forename></persName>
+                    </author>
+                    <title>Macbeth. Ein Trauerspiel in Fünf Akten #B</title>
+                </bibl>
+                <bibl xml:id="ed_kbq_pzx_gy">
+                    <author>
+                        <persName key="ed_pvp_4hk_qv"><surname>Shakespeare</surname><forename>William</forename></persName>
+                    </author>
+                    <title>Othello. Trauerspiel in Fünf Akten #B</title>
+                </bibl>
+                <bibl xml:id="ed_i3m_4sz_4w">
+                    <author>
+                        <persName key="ed_pvp_4hk_qv">
+                            <surname>Shakespeare</surname>
+                            <forename>William</forename>
+                        </persName>
+                    </author>
+                    <title> Richard der Dritte, Trauerspiel in 5 Akten, nach Steinberg</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_rwr_24v_rw">
+                    <author>
+                        <persName key="ed_uvh_5cv_rw">
+                            <surname>Sheridan</surname>
+                            <forename>Richard Brinsley</forename>
+                        </persName>
+                    </author>
+                    <title>Lästerschule, Die. Ein Lustspiel in Fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_kq3_25f_fw">
+                    <author>
+                        <persName key="ed_fgq_xtf_fw">
+                            <surname>Spiess</surname>
+                            <forename>Christian Heinrich</forename>
+                        </persName>
+                    </author>
+                    <title>Klara von Hoheneichen. Ein Schauspiel in vier Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_vbp_sw5_fv">
+                    <author>
+                        <persName key="prov_ktj_vv5_fv">
+                            <surname>Steigentesch</surname>
+                            <forename>August Ernst von </forename>
+                        </persName>
+                    </author>
+                    <title>Entdeckung, Die. Ein Lustspiel in zwei Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_plf_2lp_55">
+                    <author>
+                        <persName key="prov_qqk_klp_55">
+                            <surname>Süßmayr</surname>
+                            <forename>Franz Xaver</forename>
+                        </persName>
+                    </author>
+                    <title>neuen Arkadier, Die. Ein heroisch-komisches Singspiel in Zwey Akten
+                       </title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_zmx_1kc_xw">
+                    <author>
+                        <persName key="prov_qqk_klp_55">
+                            <surname>Süßmayer</surname>
+                            <forename>Franz Xaver</forename>
+                        </persName>
+                    </author>
+                    <title>Spiegel von Arkadien, Der. Eine grosse heroisch-komische Oper in zwey
+                        Aufzügen</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_kyk_fj1_pw">
+                    <author>
+                        <persName key="ed_l2n_w31_pw">
+                            <surname>Törring</surname>
+                            <forename>Josef August von </forename>
+                        </persName>
+                    </author>
+                    <title>Kaspar der Thorringer. Historisches Schauspiel in 5 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_qqg_dgq_wx">
+                    <author>
+                        <persName key="ed_q5r_tfq_wx"><surname>Vial</surname><forename>Jean-Baptiste-Charles</forename></persName>
+                    </author>
+                    <title>Le premier venu ou Six lieues de chemin</title>
+                </bibl>
+                <bibl xml:id="ed_h5v_w4x_sx">
+                    <author>
+                        <persName key="ed_ulh_bnx_sx">
+                            <surname>Vogel</surname>
+                            <forename>Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Bräutigam in der Irre, Der. Lustspiel in 3 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_kwc_lpx_sx">
+                    <author>
+                        <persName key="ed_ulh_bnx_sx">
+                            <surname>Vogel</surname>
+                            <forename>Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Pflicht und Liebe, Schauspiel in 5 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_tgl_zhv_1y">
+                    <author>
+                        <persName key="ed_ulh_bnx_sx"><surname>Vogel</surname><forename>Wilhelm</forename></persName>
+                    </author>
+                    <title>Verführung ist Tugendprobe. Schauspiel in 5 Akten. Nach dem Französischen
+                        frei bearbeitet</title>
+                </bibl>
+                <bibl xml:id="ed_vhj_bnl_2y">
+                    <author>
+                        <persName key="ed_rts_k2k_2y"><surname>Vogler</surname><forename>Georg
+                                Joseph</forename></persName>
+                    </author>
+                    <title>Castor und Pollux, eine große Oper in dreyx Akten </title>
+                </bibl>
+                <bibl xml:id="ed_gjl_1rs_4x">
+                    <author>
+                        <persName key="ed_upw_fqs_4x">
+                            <surname>Voltaire</surname>
+                            <forename/>
+                        </persName>
+                    </author>
+                    <title>Merope, Trauerspiel in 5. Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_dnj_xk1_fy">
+                    <author>
+                        <persName key="ed_upw_fqs_4x"><surname>Voltaire</surname><forename/></persName>
+                    </author>
+                    <title>Rome sauvée, ou Catilina de Voltaire, UA Paris 1752</title>
+                </bibl>
+                <bibl xml:id="ed_gfn_th5_cy">
+                    <author role="music">
+                        <persName key="prov_r3g_zdc_55"><surname>Weber</surname><forename>Bernhard
+                                Anselm</forename></persName>
+                    </author>
+                    <author role="text">
+                        <persName key="prov_kmh_b1c_55"><surname>Herklots</surname><forename>Karl
+                                Alexander</forename></persName>
+                    </author>
+                    <title>Sulmalle, lyrisches Drama, mit Chören #B</title>
+                </bibl>
+                <bibl xml:id="prov_hjm_wdy_55">
+                    <author>
+                        <persName key="prov_ojt_5hs_s5">
+                            <surname>Werner</surname>
+                            <forename>Zacharias</forename>
+                        </persName>
+                    </author>
+                    <title>Söhne des Thals, Die. Erster Theil: Die Templer auf Cypern. Ein
+                        Ordensgemählde in Fünf Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_kyj_qnh_3v">
+                    <author>
+                        <persName key="prov_nsq_czc_cv">
+                            <surname>Winter</surname>
+                            <forename>Peter</forename>
+                        </persName>
+                    </author>
+                    <title>Helena und Paris, Oper in 3 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_a5t_5rd_qv">
+                    <author>
+                        <persName key="prov_nsq_czc_cv">
+                            <surname>Winer</surname>
+                            <forename>Peter</forename>
+                        </persName>
+                    </author>
+                    <title>Babylons Pyramiden. Eine große heroisch-komische Oper</title>
+                </bibl>
+                <bibl xml:id="ed_m5s_djb_pw">
+                    <author>
+                        <persName key="prov_nsq_czc_cv">
+                            <surname>Winter</surname>
+                            <forename>Peter</forename>
+                        </persName>
+                    </author>
+                    <title>Schlangenfest in Sangora, Das. Eine heroisch-komische Oper in 2 Aufzügen
+                       </title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_jhv_myc_cv">
+                    <author>
+                        <persName key="prov_nsq_czc_cv">
+                            <surname>Winter</surname>
+                            <forename>Peter von </forename>
+                        </persName>
+                    </author>
+                    <title>unterbrochene Opferfest, Das. Ein heroisch-komisches Singspiel in Zwey
+                        Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_xt3_zxk_qx">
+                    <author>
+                        <persName key="ed_qjs_qvk_qx">
+                            <surname>Wurrwitz</surname>
+                            <forename>G. F.</forename>
+                        </persName>
+                    </author>
+                    <title>Don Vasconcellos, Trauerspiel</title>
+                </bibl>
+                <bibl xml:id="ed_p31_v4w_dw">
+                    <author>
+                        <persName key="ed_kzl_fpw_dw">
+                            <surname>Ziegler</surname>
+                            <forename> Friedrich Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Jolantha, Königin von Jerusalem, Trauerspiel in 4 Aufzügen</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_xzk_qnx_s5">
+                    <author>
+                        <persName key="prov_bwx_b11_r5">
+                            <surname>Zschokke</surname>
+                            <forename>Heinrich</forename>
+                        </persName>
+                    </author>
+                    <title>eiserne Larve, Die. Trauerspiel in 5 Akten</title>
+                    <note>Trauerspiel</note>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="prov_ycd_sln_1v">
+                    <author>
+                        <persName key="prov_bwx_b11_r5">
+                            <surname>Zschokke</surname>
+                            <forename>Johann Heinrich Daniel</forename>
+                        </persName>
+                    </author>
+                    <title>Abällino, der große Bandit. Ein Schauspiel in fünf Aufzügen</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_chm_ql4_rx">
+                    <author>
+                        <persName key="ed_kzl_fpw_dw">
+                            <surname>Ziegler</surname>
+                            <forename>Friedrich Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Mohrin, Die. Schauspiel in 4 Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_nhn_nl4_rx">
+                    <author>
+                        <persName key="ed_kzl_fpw_dw">
+                            <surname>Ziegler</surname>
+                            <forename>Friedrich Wilhelm</forename>
+                        </persName>
+                    </author>
+                    <title>Repressalien. Ein Schauspiel in vier Aufzügen</title>
+                </bibl>
+                <bibl xml:id="prov_hhr_xgb_dv">
+                    <author role="translation">
+                        <persName key="prov_bwx_b11_r5">
+                            <surname>Zschokke</surname>
+                            <forename>Johann Heinrich Daniel </forename>
+                        </persName>
+                    </author>
+                    <author>
+                        <persName><surname>Molière</surname><forename/></persName>
+                    </author>
+                    <title>Geizige, Der. Ein Lustspiel in 5 Akten von Molière, Augsburg 1805</title>
+                </bibl>
+                <bibl xml:id="ed_wy4_wq3_sv">
+                    <author>
+                        <persName key="prov_bwx_b11_r5">
+                            <surname>Zschokke</surname>
+                            <forename>Johann Heinrich Daniel</forename>
+                        </persName>
+                    </author>
+                    <title>Zauberin Sidonia, Die. Ein Schauspiel in Vier Akten</title>
+                <note>Wurde in <placeName role="venue">Berlin</placeName> aufgeführt</note></bibl>
+                <bibl xml:id="ed_vtd_pmm_qx">
+                    <author>
+                        <persName key="ed_d2g_nlm_qx">
+                            <surname>Zaumsegel</surname>
+                            <forename/>
+                        </persName>
+                    </author>
+                    <title>Wolf in Schafskleidern, Der (Posse, Manuskript)</title>
+                </bibl>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

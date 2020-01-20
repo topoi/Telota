@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00081" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>78</idno>Friedrich Engels an Karl Marx in Margate. Manchester, Montag, 2. April 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1605/D III 378</idno></idno></msIdentifier><physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            127&#160;×&#160;201&#160;mm. Wasserzeichen: „A &#160;Pirie [&amp; Sons]
+                            18[6x]“. Engels hat beide Seiten vollständig beschrieben.
+                            Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von Eduard
+                            <?oxy_comment_start author="strauss" timestamp="20170613T101427+0200" comment="(((nBernstein,Ed.)))"?>Bernsteins<?oxy_comment_end?>
+                            Hand: Nummerierung des Briefes bzw. der beschriebenen Seiten:
+                            „307,1“bzw. „307,2“ und „19,1“ bzw. „19,2“ (gestrichen). Redaktionelle
+                            Vermerke. </p>
+                        <p>Von Heinrich
+                            <?oxy_comment_start author="strauss" timestamp="20170613T101507+0200" comment="(((nDietz,H.)))"?>Dietz’<?oxy_comment_end?>
+                            Hand: Nummerierung des Briefes: „838“ (gestrichen).</p>
+                        <p>Von unbekannter Hand: Vermerk mit Bleistift auf der ersten Seite oben
+                            links: „Schuster“; Unterstreichung des Namens „Miall“ mit Rotstift.</p>
+                        <p>Marx beantwortet den Brief am 2.&#160;April 1866 (Marx an Engels,
+                            2.4.1866).</p>
+                    </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1953</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;306/307.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1866-04-02"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>Margate</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:03Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Mchr 2 April 1866.</dateline><salute sameAs="MBAnrede">Lieber Mohr</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_s4g_fcv_4z"/><orig>Ich hoffe Du hast die <hi rendition="#u">£&#160;10</hi>.– die ich Dir nach Margate schickte
+                                erhalten.<anchor type="verweisziel" xml:id="stop_s4g_fcv_4z"/></orig><note xml:id="e0dc321d-4dea-4640-a147-2e16bda70ae3">Siehe <ref target="B00077">Engels an Marx,
+                                27.3.<?oxy_comment_start author="reichhoff" timestamp="20170415T125725+0200" comment="{{Br. 74.15}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00082/#start_wf1_hj5_4z">Marx an Engels,
+                                2.4.<?oxy_comment_start author="reichhoff" timestamp="20170415T125930+0200" comment="{{Br. 79.4}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    Ich war die Feiertage über in Wales &amp; komme endlich heute dazu Dir zu
+                    schreiben.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_ycw_zbf_4z"/><persName key="ed_erg_rjw_wx">Orsini</persName></orig><note xml:id="nmgr_hcx_1z"><persName key="ed_erg_rjw_wx">Cesare Orsini</persName>. </note></seg>
+                    <seg type="comment"><orig>war bei mir, leider konnte ich nichts für ihn thun, in
+                                <expan resp="editor" sameAs="dottet_underline">N<ex>ew</ex></expan>
+                            York hab' ich keine Verbindungen irgend welcher Art mehr, &amp; hier
+                            Jemand zu finden der mit ihm den Guano Dodge macht &amp; die fonds dazu
+                            vorschießt, ist out of the question. Er ist ein sehr netter
+                            Kerl.</orig><anchor type="verweisziel" xml:id="stop_ycw_zbf_4z"/><note xml:id="ncl3_pcx_1z">Siehe <ref target="B00064">Marx an Engels,
+                                15.3.<?oxy_comment_start author="reichhoff" timestamp="20170320T102501+0100" comment="{{Br. 60}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>PolenArtikel N<hi rendition="#sup">r</hi>&#160;3</orig><note xml:id="ac022372-2f37-4815-9155-6c37d1e6b07e">Frederic [Friedrich]
+                            Engels: What have the working classes to do with Poland?_III. In: The
+                            Commonwealth. London. Nr.&#160;165, 5.&#160;Mai 1866. S.&#160;5.
+                            (MEGA²&#160;I/20. S.&#160;200–203). (((lEngels,[Friedrich]Frederic: What
+                            have the working classes to do with Poland?_III. In: The Commonwealth.
+                            London. Nr.&#160;165, 5.&#160;Mai 1866. S.&#160;5. (MEGA²&#160;I/20.
+                            S.&#160;200–203) ))) </note></seg> wird morgen <expan resp="editor" sameAs="dottet_underline">Ab<ex>en</ex>d</expan> gemacht, wenn nichts
+                    dazwischen kommt. Ich schicke ihn direct an <persName key="pdrPo.001.004.000001296">Eccarius</persName> care of Editor of <expan resp="editor" sameAs="dottet_underline"><?oxy_comment_start author="lindenberg" timestamp="20170222T131508+0100" comment="noch mit Register verlinken (((zThe_Commonwealth)))"?>Commonw<ex>ealth<?oxy_comment_end?></ex></expan><index indexName="XE">
+                        <term>zzThe Commonwealth</term>
+                    </index>. Leider ist die Correctur hundeschlecht, &amp; <seg type="comment"><orig><anchor type="verweisziel" xml:id="start_qws_33v_4z"/>es wäre
+                            auch an der Zeit daß dem wöchentlichen Abdruck eines Leaders aus dem
+                                <bibl sameAs="zzThe Nonconformist">Nonconformist</bibl> ein Ende
+                            gemacht würde. Es ist doch zu unverschämt von <persName key="ed_z5s_ptj_wx">Miall</persName> das Ding so offen als einen
+                            reinen Appendix des <expan resp="editor" sameAs="dottet_underline">Noncon<ex>formist</ex></expan> darzustellen.<anchor type="verweisziel" xml:id="stop_qws_33v_4z"/></orig><note xml:id="df9095eb-c202-4caf-8c56-46fa632d96f2">Seit der Reorganisation
+                            des „Commonwealth“ (((zThe_Commonwealth))) gehörte <persName key="ed_z5s_ptj_wx">Arthur Miall</persName>, der Sohn des
+                            Herausgebers der Zeitung „The Nonconformist“, <persName key="pdrPo.001.004.000003192">Edward Miall</persName>,
+                            (((zThe_Nonconformist))) zum Redaktionskomitee (siehe <ref target="B00036/#start_osy_qv5_4z">Marx an Engels,
+                            10.2.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170415T143355+0200" comment="{{Br. 33.39–43}}"?>)<?oxy_comment_end?>.</note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Was sagst Du zu <persName key="pdrPo.001.004.000000441">Bismark</persName>? Es hat jetzt fast
+                            den Anschein daß er es zum Krieg treibt &amp; dadurch dem Louis
+                                <persName key="pdrPo.001.004.000003392">Bonaparte</persName>
+                            <subst>
+                                <del>den schönsten</del>
+                                <add>die schönste</add>
+                            </subst> Gelegenheit bietet sich ohne Mühe ein Stück linkes Rheinufer zu
+                            erwerben &amp; damit sich à vie festzusetzen.</orig><note xml:id="ec27c23c-f6bd-4799-acac-bd496d728864"> Seit Oktober 1865 hatte
+                            sich <persName key="pdrPo.001.004.000000441">Bismarck</persName> mit
+                                <persName key="pdrPo.001.004.000003392">Napoléon&#160;III</persName>
+                            verständigt, wobei er angesichts des Konfliktes mit Österreich die
+                            Neutralität Frankreichs in der bevorstehenden innerdeutschen
+                            Auseinandersetzung anstrebte. Bismarck stellte in unverbindlicher Form
+                            die Möglichkeit territorialer Zugeständnisse an Frankreich vor allem zu
+                            Lasten Belgiens und Luxemburgs in Aussicht. Österreich schloss erst kurz
+                            vor Kriegsbeginn, am 12. Juni 1866 einen Geheimvertrag mit Frankreich,
+                            in dem es in Italien in jedem Falle auf Venetien verzichtete und im
+                            Falle eines Sieges sich Aussichten auf Schlesien sicherte. Auch eine
+                            Vergrößerung der Territorien traditionell mit Österreich verbündeter
+                            süddeutscher Mittelstaaten stand in Aussicht. Ebenfalls zur Schwächung
+                            Preußens sollte dessen Rheinprovinz in einen de jure unabhängigen, de
+                            facto aber frankreichhörigen Staat verwandelt werden. (Baumgart:
+                            Europäisches Konzert. S.&#160;377–383). Siehe auch <ref target="B00131/#start_ezg_zv5_4z">Engels an Marx,
+                                4.7.<?oxy_comment_start author="reichhoff" timestamp="20170415T143620+0200" comment="{{Br. 127.30–33}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00134/#start_flh_3w5_4z">Engels an Marx,
+                                9.7.<?oxy_comment_start author="reichhoff" timestamp="20170415T143905+0200" comment="{{Br._130.40–45}}"?>1866<?oxy_comment_end?></ref>.
+                            (((lBaumgart: Europäisches Konzert))) </note></seg> Wenn nun auch Jeder
+                    der <del> mit <sic ana="#break-off"/></del> an diesem Krieg – wenn es dazu kommt
+                    – mit Schuld ist, gehangen zu werden verdient &amp; ich mit gleicher
+                    Unparteilichkeit dies auf die Östreicher auch ausgedehnt wünsche, so ist doch
+                    mein Hauptwunsch daß die Preußen heillose Prügel besehn mögen. Dann gibt es
+                    2&#160;Chancen: 1)&#160;die Östreicher diktiren den Frieden in 14&#160;Tagen in
+                    Berlin &amp; damit wird die directe Einmischung des Auslands vermieden,
+                    gleichzeitig aber das jetzige <pb/> Regime in Berlin unmöglich gemacht &amp; es
+                    kommt eine andre Bewegung die von vorn herein das specifische Preußenthum
+                    verläugnet; oder 2)&#160;es gibt einen Umschwung in Berlin ehe die <expan resp="editor" sameAs="dottet_underline">Östr<ex>eicher</ex></expan>
+                    hinkommen &amp; dann kommt die Bewegung auch in Zug.</p><p sameAs="MBTextmitEinzug">Militärisch ist meine Ansicht daß beide Armeen sich ungefähr gleich
+                    stehn, &amp; die Schlachten sehr blutig ausfallen werden. <persName key="pdrPo.001.004.000000355">Benedek</persName> ist aber jedenfalls ein
+                    bessrer General als <persName key="pdrPo.001.004.000001664">Prinz Friedrich
+                        Karl</persName>, &amp; wenn <persName key="pdrPo.001.004.000001622">Franz
+                        Josef</persName> dem B. nicht hilft <del> so <sic ana="#break-off"/></del>
+                    oder Fr. Karl keine sehr guten &amp; einflußreichen Stabsoffiziere hat, so
+                    glaube ich daß die Preußen Keile bekommen. Schon das Bramarbasiren <seg type="comment"><orig>nach Düppel</orig><note xml:id="f31cd957-c594-447c-b623-54795e6e770a">In der
+                            Entscheidungsschlacht des Deutsch-Dänischen Krieges (Februar–Oktober
+                            1864) erstürmten preußische Truppen am 18.&#160;April 1864 die Düppeler
+                            Schanzen.</note></seg> zeigt <seg type="comment"><orig>auf ein
+                            Jena.</orig><note xml:id="d33832d3-ec7d-454c-9994-0d8d1ebff5bb">Bezugnahme auf die Niederlage Preußens gegen das napoleonische
+                            Frankreich in der Doppelschlacht von Jena und Auerstedt am 14._Oktober
+                            1806.</note></seg></p><p sameAs="MBTextmitEinzug">Fällt die erste Schlacht entscheidend aus gegen die Preußen, so steht den Östreichern nichts im Wege auf Berlin zu rücken. Siegt Preußen, so hat es nicht die nachhaltige Kraft eine Offensive über die Donau hinaus nach Wien, geschweige über Pest hinaus, zu unternehmen. <expan resp="editor" sameAs="dottet_underline">Oestr<ex>eich</ex></expan> kann wohl Preußen, nicht aber Preußen Oestreich single handed zum Frieden zwingen. Jeder preußische Erfolg wäre also eine Aufmunterung an <persName key="pdrPo.001.004.000003392">Bonaparte</persName> sich einzumischen. Übrigens werden Beide die deutschen Schweinhunde sich schon jetzt zu überbieten suchen in Offerten deutsches Gebiets an den dritten französischen Schweinhund.</p><closer sameAs="MBUnterschrift">Dein<lb/>F. E. </closer></div></body></text></TEI>

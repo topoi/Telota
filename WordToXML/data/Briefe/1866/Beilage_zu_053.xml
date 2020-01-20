@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_nb4_ldt_sy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zettel </title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 1949/L III 402</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Zettel mit dem Namen einer Firma.</p>
+                        <p>Eine Blatt dünnes, weißes, kariertes Papier im Format
+                            94&#160;×&#160;75&#160;mm. Die erste Seite ist zur Hälfte beschrieben,
+                            die zweite ist leer. Schreibmaterial: schwarze Tinte.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>W<hi rendition="#sup">m</hi> Brunner &amp; C<hi rendition="#sup">o</hi>
+                </p>
+                <p>Manchester.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

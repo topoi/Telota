@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00104" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>100</idno>Albert F. Haufe und Friedrich Leßner an Karl Marx in London.
+                    London, Donnerstag, 3. Mai 1866</title>
+            </titleStmt>
+            <editionStmt>
+                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">f. 1 op. 1 d. 1963</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt festem, weißem Papier im Format
+                            113&#160;×&#160;178&#160;mm. Prägung: eine Krone auf einem Schild. Haufe
+                            hat die erste Seite vollständig beschrieben, die zweite zur Hälfte.
+                            Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von Marx’ Hand: Berechnungen mit schwarzer Tinte auf der zweiten Seite
+                            unten. <?oxy_comment_start author="lindenberg" timestamp="20170421T173154+0200" comment="Von Marx’ Hand: Berechnungen mit schwarzer Tinte auf der zweiten Seite unten:
+{/autor} Berechnungen aus WORD-Datei ergänzen"?><?oxy_comment_end?></p>
+                        <p>Von unbekannter Hand: die Jahresangabe „66“ auf der ersten Seite
+                            oben.</p>
+                        <p>Die Jahresangabe stützt sich auf die Erwähnung der Publikation im „Bee
+                            Hive Newspaper“ („in der Beehive newspaper“ und Erl.) und den
+                            Zusammenhang des Briefes mit dem Brief von Haufe an Marx vom
+                            12.&#160;Mai 1866 (siehe dort).</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_fnn_3qj_wx">Albert F. Haufe</persName>
+                    <persName key="ed_l54_cks_xy">Friedrich Leßner</persName>
+                    <placeName>London</placeName>
+                    <date when="1866-05-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:39:18Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener><dateline sameAs="MBDatumszeile"><pb/> London 3<hi rendition="#sup">rd</hi>
+                        May.</dateline><salute sameAs="MBAnrede">Werther Herr!</salute></opener>
+                <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>In Folge einer angezeigten
+                            Importation von Schneidern nach Edinburgh in der Beehive newspaper vom
+                            Sonnabend den 28&#160;April 1866.</orig><note xml:id="ae17ad39-fe54-4f1e-a05a-92982e6408f1">The Edinburgh tailors and
+                            the Germans. In: The Bee-Hive Newspaper. London. Nr.&#160;237,
+                            28.&#160;April 1866. S.&#160;6. Siehe auch <ref target="B00100/#f2403266-7696-4a99-9654-89d0dd7a2f83">Erl. zu Engels
+                                an Marx,
+                                1.5.<?oxy_comment_start author="reichhoff" timestamp="20170509T102735+0200" comment="{{Erl. 96c}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    sahen wir Deutschen uns veranlaßt ferneren Zuzügen von Deutschland entgegen zu
+                    arbeiten. Es scheint als ob ein Agent die Leute von mecklenburgischen oder
+                    hanöverschen Dörfern zusammengetrieben habe um gegen die schottischen Schneider
+                    zu handeln welche nur kürzlich mit ihren Meistern ein Agreement gemacht haben,
+                    bis auf weiteres in ihre Werkstellen zurückzugehen mit einer Erhöhung von 15 pro
+                    Cent. Sollte es daher gelingen genug Arbeiter von Deutschland zu bekommen so
+                    würden sie wahrscheinlich ihr gemachtes Agreement umwerfen.</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Wir ersuchen Sie daher einen
+                            kurzen Aufruf an die deutschen Schneider in einigen der deutschen
+                            Arbeitsorgane zu senden</orig><note xml:id="bd09c828-996e-4e56-977c-a9f2777c8c76">In der Sitzung des
+                            Zentralrats der IAA am 1.&#160;Mai 1866 erklärte sich Marx bereit, einen
+                            Aufruf zu verfassen, wenn <persName key="ed_l54_cks_xy">Leßner</persName> ihm zuarbeitete. (The_Minute Book 1864–1866. In:
+                            MEGA²&#160;I/20. S.&#160;407.18–27). (((lThe_Minute Book 1864–1866. In:
+                            MEGA²&#160;I/20. S._265–450))) Marx schrieb den Aufruf „Warnung“
+                            (MEGA²&#160;I/20. S.&#160;204/205) und schickte ihn <persName key="pdrPo.001.004.000002822">Wilhelm Liebknecht</persName>
+                            <ref target="B00106/#start_nsm_4cx_pz">Marx an W. Liebknecht,
+                                4.5.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170419T114915+0200" comment="{{Br. 102.23–29}}"?>.<?oxy_comment_end?>
+                            Siehe auch <ref target="B00107">W. Liebknecht an Marx, zwischen 8. und
+                                15.5.<?oxy_comment_start author="reichhoff" timestamp="20170419T124704+0200" comment="{{Br. 103.18–21}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00108">Engels an Marx,
+                                9.5.<?oxy_comment_start author="reichhoff" timestamp="20170419T124759+0200" comment="{{Br. 104.53–59}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    und uns womöglich einige Exemplare davon zu schicken.</p>
+                <p sameAs="MBTextmitEinzug">Alle verursachenden Unkosten wird das Comité prompt
+                    entrichten.</p>
+                <p sameAs="MBTextmitEinzug">Correspondenzen werden entgegen genommen at the Crown
+                    Publichouse, Heddon Court</p>
+                <p sameAs="MBTextmitEinzug">Regent Street</p>
+                <p sameAs="MBTextmitEinzug">London.</p>
+                <p rend="MBTextOhneEinzug">Im Namen des deutschen</p>
+                <p rend="MBTextOhneEinzug">Comités Albert F. Haufe. Secretary.</p>
+                <p rend="MBTextOhneEinzug">Lessner, President. </p>
+                <postscript>
+                    <p><pb/> Da wir keine spezielle Auskunft haben unter welchen Bedingungen diese
+                        Leute arbeiten so habe ich gestern nach Edinburgh an das dortige Commité
+                        geschrieben um mich von allem zu unterrichten ich werde Ihnen die Antwort
+                        von dort gefälligst zukommen lassen um Ihnen noch näheren Aufschluß davon zu
+                        geben. Für den Aufruf wird ihnen vorläufig genügen daß die Leute sich
+                        wahrscheinlich durch ein gerichtliches Document für eine Zeit verdingt haben
+                        welches in England sehr sonderbar klingt. </p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

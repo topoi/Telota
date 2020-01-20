@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00192" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>186</idno>Friedrich Engels an Karl Marx in London. Manchester, Sonntag, 11. November 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1622/D III 392</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 220&#160;×&#160;180&#160;mm. Prägung: die Aufschrift „Ivory Note“ im Lorbeerkranz. Die ersten zwei Seiten hat Engels vollständig beschrieben, auf der dritten stehen nur die letzte Zeile und die Unterschrift, die vierte Seite ist leer. Schreibmaterial: schwarze Tinte.</p><p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand: Numerierung  der beschriebenen
+              Seiten: „320,1“ bis „320,3“ bzw. „52,1“ bis „52,3“, korrigiert aus „51,1“ bis „51,3“ (gestrichen).<?oxy_comment_start author="lindenberg" timestamp="20170424T172502+0200" comment="
+Von Eduard Bernsteins Hand: Numerierung des Briefes bzw. der beschriebenen Seiten: „320,1“ bis „320,3“ bzw. „52,1“ bis „52,3“, korrigiert aus „51,1“ bis „51,3“ (gestrichen)."?>
+              <?oxy_comment_end?>Redaktionelle Vermerke.</p><p>Von Heinrich Dietz’ Hand: Numerierung des Briefes: „872“ (gestrichen).</p><p>Engels beantwortet Marx' Brief vom 10.&#160;November 1866 (Br.&#160;185).</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2005</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;353/354.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1866-11-11"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:40:09Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 86 Mornington St 11 Nov 66.</dateline><salute sameAs="MBAnrede">Lieber Mohr</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Besten Dank für die Free Press.</orig><note xml:id="f7100562-1707-41c7-92ad-283258a6c11d">Vermutlich schickte Marx die Zeitung
+              gleichzeitig mit seinem <ref target="B00191">Brief an Engels vom 10.&#160;November
+                <?oxy_comment_start author="reichhoff" timestamp="20170406T162208+0200" comment="({{Br. 185}})"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          Kannst Du mir die N<hi rendition="#sup">o</hi> von <hi rendition="#u">August</hi> &amp;
+            <hi rendition="#u"><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Septbr<?oxy_custom_end?></hi>
+          schicken? ich habe sie nicht bekommen.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Inl. die 2<hi rendition="#sup">ten</hi>
+              Hälften der 30&#160;Pfd.</orig><note xml:id="ngjf_1m5_jz">Siehe <ref target="B00191">Marx an Engels,
+                10.11.<?oxy_comment_start author="reichhoff" timestamp="20170508T143940+0200" comment="{{Br. 185.3}}"?>1866<?oxy_comment_end?></ref>
+              und Erl.</note></seg> Ich schickte Dir gern mehr, aber ich kanns wahrhaftig nicht. Ich
+          will sehn was ich nächsten Monat thun kann, &amp; am 31&#160;Dezbr werden wir wieder
+          Bilanz machen, wenn die gut ausfällt so läßt sich auch wohl noch was machen.</p><p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_dgd_zgp_mz"/> Die Anzeige daß
+            <seg type="comment"><orig>Manuscr. </orig><note xml:id="nc3k_3m5_jz">Gemeint ist hier
+              Karl Marx: Das Kapital; siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an J. Ph. Becker,
+                zwischen 9. und
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170519T131835+0200" comment="{{Erl. 6b}}"?>1866<?oxy_comment_end?>.</ref><?oxy_comment_start author="reichhoff" timestamp="20170519T131951+0200" comment="{{Erl. 6b}}"?>.<?oxy_comment_end?>
+              <?oxy_comment_start author="reichhoff" timestamp="20170519T132050+0200" comment="{{Erl. 6b}}."?>
+              <?oxy_comment_end?>(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg><seg type="comment"><orig>abgegangen ist,</orig><note xml:id="nm23_mm5_jz">Siehe <ref target="B00191/#start_v4x_jdg_vz">Marx an Engels,
+              10.11.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170508T144336+0200" comment="{{Br. 185.8–9}}"?>.<?oxy_comment_end?></note></seg>
+          wälzt mir einen Stein von der Seele.<anchor type="verweisziel" xml:id="stop_dgd_zgp_mz"/>
+          <seg type="comment"><orig>Endlich also ein Commencement d'exécution wie der Code pénal
+              sagt.</orig><note xml:id="b5cd1590-244d-4618-bd82-052b11784cec">Engels erwähnt den
+              „Code pénal“, die im Jahre 1810 entstandene Kodifizierung des französischen
+              Strafrechts.</note></seg> Hierfür trinke ich ein besondres Glas auf Dein specielles
+          Wohl. Das Buch hat sehr viel dazu beigetragen Dich caput zu machen, ist es erst
+          abgeschüttelt so wirst Du auch wieder ein ganz <del rendition="#ow">andres<sic ana="#break-off"/></del> anderer Kerl werden.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Ich hoffe der <persName key="ed_u5b_vvg_yx">Birch</persName> hat den Port gestern noch abgeschickt, bin aber dessen nicht so
+              sicher, jedenfalls aber kommt er Montag Abend oder Dienstag Morgen sicher
+              an.</orig><note xml:id="nnzc_ym5_jz">Siehe <ref target="B00191">Marx an Engels,
+                10.11.<?oxy_comment_start author="reichhoff" timestamp="20170508T145717+0200" comment="{{Br. 185.3}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p><p sameAs="MBTextmitEinzug">Die Preußen bleiben Preußen. <seg type="comment"><orig>Dafür daß
+                <persName key="pdrPo.001.004.000004839">Twesten</persName> &amp; <persName key="ed_ctg_kht_xy">Frenzel</persName> für die Indemnität gestimmt, werden sie wegen
+              Kammerreden belangt.</orig><note xml:id="nnsj_gn5_jz">Am 3. September 1866 nahm das
+              preußische Abgeordnetenhaus die von <persName key="pdrPo.001.004.000000441">Bismarck</persName> eingebrachte Idemnitätsvorlage als Gesetz an. In der Vorlage
+              ersuchte die Regierung um nachträgliche Genehmigung für die während des
+              Verfassungkonfliktes in der budgetlosen Zeit (seit 1862) gemachten Ausgaben. Die
+              Liberalen entzweite die Vorlage. Auch die Abgeordneten <persName key="pdrPo.001.004.000004839">Twesten</persName> und <persName key="ed_ctg_kht_xy">Frentzel</persName>, die zuvor die Politik der Regierung scharf kritisiert hatten,
+              stimmten für die Vorlage. Ungeachtet dessen wurde Anfang November 1866 die gegen sie
+              eingeleitete Untersuchung wegen früherer Kammerreden (siehe <ref target="B00037/#fbc48248-6458-438d-ab69-0abfed9c1dd5">Erl. zu Engels an Marx,
+                10.2.<?oxy_comment_start author="reichhoff" timestamp="20170519T132140+0200" comment="{{Erl. 34e}}"?>1866<?oxy_comment_end?></ref>)
+              fortgesetzt.</note></seg> Man begreift solche Dummheit nicht, aber sie ist eben
+          Prinzip. Die Wuth der <seg type="comment"><orig>Frankforter Borjer</orig><note xml:id="e1026d00-f784-442a-b1ae-924fffb67c73">Frankfurter Bürger.</note></seg> dauert
+          <pb/> noch immer fort, <seg type="comment"><orig>sie spielen jetzt Polen, gehn in Trauer
+              &amp; tragen Cravatten mit den Frankfurter Landesfarben.</orig><note xml:id="bdcdb6cd-150e-436d-a7a8-ed2fd25c418a">Laut Engels verglichen die Bürger der
+              Freien Stadt Frankfurt die Besetzung ihrer Stadt durch preußische Truppen im Juli 1866
+              (siehe auch <ref target="B00146/#nfnw_qnr_gz">Erl. zu Marx an Engels,
+                27.7.<?oxy_comment_start author="reichhoff" timestamp="20170519T132321+0200" comment="{{Erl._142d}}"?>1866<?oxy_comment_end?></ref>)
+              und die Einverleibung in den Preußischen Staat im Oktober mit der Niederlage des
+              polnischen Aufstandes von 1863/64. Frankfurt a. M. wie auch Polen tragen in ihrem
+              Wappen einen weißen Adler auf rotem Grund und die Stadt- bzw. Staatsfarben sind
+              jeweils Weiß und Rot.</note></seg> Ein pr. Leutnant kam in <expan resp="editor" sameAs="dottet_underline">Sachsenhaus<ex>en</ex></expan> in ein Wirthshaus, wo alles
+          besetzt war. An einer Ecke stand Jemand auf &amp; ging fort, worauf sein Nachbar dem
+          Leutnant den leeren Stuhl zeigte, der aber dankte: er setze sich nicht gern auf einen
+          warmen Stuhl. Oh sagte der andere, <del rendition="#ow">daf<sic ana="#break-off"/></del>
+          davor brauchen Sie nicht bange zu sein, seit die Preußen hier sind <seg type="comment"><orig>geht uns Allen der Arsch mit Grundeis.</orig><note xml:id="nt3j_y45_jz">Angst
+              haben, Schlimmes befürchten.</note></seg></p><p sameAs="MBTextmitEinzug">Über die <seg type="comment"><orig>Reichskriegsführung</orig><note xml:id="eb1e7cd4-7de5-42e6-8b72-a4b8deec8352">Der Deutsche Krieg (1866).</note></seg>
+          habe ich die wunderbarsten Geschichten hier gehört von Augenzeugen. Solche Sachen sind
+          noch nie dagewesen. Z.&#160;B. bei Höchst sollten die Nassauer eine Brücke über den Main
+          schlagen. Nachdem sie einmal wegen <hi rendition="#u">Sturms</hi> (ein Sturm auf dem
+          Main!) nicht zu Standegekommen waren, fanden sie beim 2<hi rendition="#sup">ten</hi>
+          Versuch daß sie <hi rendition="#u">zu wenig Pontons</hi> hatten &amp; nur <hi rendition="#u">halb</hi> über den Main weg brücken konnten. Sie schrieben also nach
+          Darmstadt man solle ihnen einige Pontons pumpen, die dann auch endlich ankamen &amp; so
+            <add>wurde</add> die Brücke über den forchterlichen Strom fertig. Gleich drauf bekommen
+          die Nassauer Befehl zum Abmarsch nach Süden. Sie lassen die Brücke stehn, ganz unbesetzt,
+          &amp; empfehlen sie nur der Obhut eines alten Schiffers der sehen sollte daß sie nicht den
+          Main hinunter triebe. Nach wenigen Tagen kamen die Preußen, nahmen die fertige Brücke in
+          Besitz, verschanzten sie &amp; <pb/> marschirten darüber!</p><closer sameAs="MBUnterschrift">Dein<lb/>F. E. </closer></div></body></text></TEI>

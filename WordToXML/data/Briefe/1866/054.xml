@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00057" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>54</idno>Hermann Jung an Karl Marx in London. London, Donnerstag, 8.
+                    März 1866</title>
+            </titleStmt>
+            <editionStmt>
+                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">f. 21 op. 1 d. 76/6</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, blauem Papier im Format
+                            228&#160;×&#160;181&#160;mm. Jung hat alle vier Seiten vollständig
+                            beschrieben. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von unbekannter Hand: Vermerk mit Bleistift auf der ersten Seite oben
+                            links: „8/3&#160;66“.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000002417">Hermann Jung</persName>
+                    <placeName>London</placeName>
+                    <date when="1866-03-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:38:47Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> 4 Charles Street.<lb/>Northampton
+                        Square.</dateline>
+                    <salute sameAs="MBAnrede">Cher Marx.</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug">Le 6 au soir, un peu avant l’ouverture <seg type="comment"><orig>de la séance,</orig><note xml:id="ac0abf18-7235-493f-926f-6c8b450fd9e8"><persName key="pdrPo.001.004.000002417">Jung</persName> berichtet über die
+                            Sitzung des Zentralrats der IAA (siehe <ref target="B00007/#ndyw_svh_4y">Erl. zu Marx an J. Ph. Becker, zwischen 9. und 15.1.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170517T094914+0200" comment="{{Erl. 6d}}"?>)<?oxy_comment_end?>
+                            am 6.&#160;März 1866 (The_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+                            S.&#160;390/391). (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+                            S._265–450))) </note></seg> nous eûmes le plaisir de voir entrer <seg type="comment"><orig>le <hi rendition="#u">Grand</hi>
+                            <persName key="pdrPo.001.004.000005182">wolff</persName>.</orig><note xml:id="e1f986bf-eef8-4982-a71f-5c73a8993e5d"><persName key="pdrPo.001.004.000005182">Luigi Wolf</persName>. </note></seg>
+                    Sa figure indiquait assez quel était l’objet qui l’avait amené: <seg type="comment"><orig>Il venait revendiquer sa dignité, «indignement
+                            outragée», par le passage, dans l’Ècho de <bibl sameAs="zzL’Écho de Verviers">Verviers</bibl>, qui dit: que les
+                            membres italiens ne jouirent pas assez de la confiance de ces sociétés
+                            si bien organisées de l’Italie.</orig><note xml:id="e6d3cb96-9f8c-42fc-896b-789f83b99ed3">Hermann Jung: [Lettre
+                            ouverte à Pierre Vésinier publiée dans „L’Écho de Verviers“.] In: L’Écho
+                            de Verviers. Nr.&#160;43, 20.&#160;Februar 1866. S.&#160;1/2. [dort
+                            u._.d._T.:] L’Association internationale des Travailleurs
+                            (MEGA²&#160;I/20. S.&#160;603–611.) Siehe <ref target="B00004/#db8e9996-d94b-4b8a-be7b-18526318d9af">Erl. zu Marx
+                                an Engels, 5.1.1866. </ref><?oxy_comment_start author="lindenberg" timestamp="20170517T095217+0200" comment="{{Erl. 3c}}."?>
+                            <?oxy_comment_end?>(((lJung,Hermann: [Lettre ouverte à Pierre Vésinier
+                            publiée dans „L’Écho de Verviers“.] In: L’Écho de Verviers. Nr.&#160;43,
+                            20.&#160;Februar 1866. S.&#160;1/2. [dort u._.d._T.:] L’Association
+                            internationale des Travailleurs (MEGA²&#160;I/20. S.&#160;603–611.) )))
+                        </note></seg>
+                    <seg type="comment"><orig>Le Grand wolff commença par dire: qu’il était
+                            convaincu que le conseil central n’avait pas en connaissance de ces
+                            passages qui traitent des italiens &amp; de <persName key="pdrPo.001.004.000003114">Mazzini</persName> &amp;c; que s’il en
+                            avait en connaissance, «il n’en aurait pas permis la
+                            publicité».</orig><note xml:id="d7ae42b7-06b3-42a2-862f-a777d5b05355">Siehe The_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+                            S.&#160;390.14–23. (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+                            S._265–450))) </note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Je répondis: que je maintenais
+                            ce que j’avais écrit, que j’en || prenais toute la responsabilité, – que
+                            les socialistes Italiens n’avaient aucune confiance en wolff &amp; les
+                            autres membres italiens.</orig><note xml:id="nckq_wnc_wy">Ebenda. S.
+                            390.24–25. (((lThe_Minute Book 1864–1866. In: MEGA²_I/20. S._265–450)))
+                        </note></seg></p>
+                <p sameAs="MBTextmitEinzug">Quant à <persName key="pdrPo.001.004.000003114"><hi rendition="#u">Mazzini</hi></persName>: je maintiens qu’il avait empêché
+                    la traduction de <seg type="comment"><orig>notre manifeste,</orig><note xml:id="d2ad2409-eab7-4e6a-9277-3b5b76ed3fb8"> Karl Marx: Address of the
+                            International Working Men’s Association (Inaugural Address). In: MEGA<hi rendition="#sup">2</hi>_I/20. S.&#160;3–12; derselbe: Provisional
+                            Rules of the International Working Men’s Association. Ebenda.
+                            S.&#160;13–15. Zur Übersetzung ins Italienische siehe ebenda. III/13.
+                            Br.&#160;154.121–125 und Br._169.32–34 sowie S._968/969).
+                            (((lMarx,Karl:_Address of the International Working Men’s Association
+                            (Inaugural Address). In: MEGA<hi rendition="#sup">2</hi>_I/20.
+                            S.&#160;3–12))) (((lMarx,Karl:_Provisional Rules of the International
+                            Working Men’s Association. In: MEGA<hi rendition="#sup">2</hi>_I/20.
+                            S.&#160;13–15))) </note></seg> en Italien, je citai ce qu’avait dit
+                        <persName key="pdrPo.001.004.000001576">Fontana</persName>: que Mazzini lui
+                    avait recommandé de trancher plusieurs passages, parce qu’ils attaquaient la
+                    bourgeoisie; plusieurs membres du conseil se souvinrent que Fontana avait dit
+                    cela.</p>
+                <p sameAs="MBTextmitEinzug">Je dis que tout ce que j’avais lu de <persName key="pdrPo.001.004.000003114">Mazzini</persName> était dirigé contre les
+                    socialistes &amp; que pour que quelqu’un pût dire que Mazzini était socialiste,
+                    il ne fallait avoir jamais rien lu de lui. </p>
+                <p sameAs="MBTextmitEinzug"><pb/> Je crois vraiment, que sans <persName key="pdrPo.001.004.000005083">Weston</persName>: le conseil central m’aurait
+                    repudié; <persName key="pdrPo.001.004.000005182">Wolff</persName> s’en aperçut
+                    tellement qu’il demanda une rétraction complète de tout ce qui concernait les
+                    italiens. </p>
+                <p sameAs="MBTextmitEinzug">Mais, quand je vis la faiblesse du conseil central, <seg type="comment"><orig>je dis que j’avais lu mon article en plein conseil
+                            &amp; qu’il avait été approuvé, avant la publication, que conséquemment
+                            le conseil était solidaire de mon acte;</orig><note xml:id="nfnl_lmc_wy"><persName key="pdrPo.001.004.000002417">Jung</persName> verlas
+                            seinen Artikel in der Sitzung des Zentralrats der IAA am 30. Januar
+                            1866. (The_Minute Book 1864–1866. In: MEGA²_I/20. S. 383.7–8.)
+                            (((lThe_Minute Book 1864–1866. In: MEGA²_I/20. S._265–450))) Siehe auch
+                            Jungs Briefe an Marx (<ref target="B00010">H. Jung an Marx,
+                                15.1.1866</ref>
+                            <?oxy_comment_start author="reichhoff" timestamp="20170315T150139+0100" comment="{{Br. 9}} "?>und<?oxy_comment_end?><ref target="B00022">
+                                26.1.<?oxy_comment_start author="reichhoff" timestamp="20170315T153515+0100" comment="{{Br._21}}"?>1866<?oxy_comment_end?></ref>).</note></seg>
+                    qu’il était inutile de vouloir dire que c’etait par erreur que j’avais écrit
+                    cela ou dans un moment de colère, ou que je l’avais écrit en toute connaissance
+                    de cause &amp; que si c’était à recommencer j’en ferais de même. </p>
+                <p sameAs="MBTextmitEinzug"><pb/>
+                    <seg type="comment"><orig>J’aimerais beaucoup vous voir avant que vous ne
+                            partiez, mais samedi est le soir dont j’ai à disposer;</orig><note xml:id="bde400ad-a5fa-4291-8d64-1eccedf9f9b5">Marx und einige Mitglieder
+                            des Zentralrats der IAA trafen sich in seinem Haus am 10.&#160;März 1866
+                            zu einer Besprechung. Siehe <ref target="B00075/#start_jyy_s1y_nz">Marx
+                                an Engels,
+                                24.3.<?oxy_comment_start author="reichhoff" timestamp="20170412T145713+0200" comment="{{Br. 72.39–74}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    écrivez moi un mot pour dire si ce jour là vous convient; <persName key="pdrPo.001.004.000002885">Longuet</persName> &amp; un jeune homme, nommé
+                        <persName key="pdrPo.001.004.000002648">Lafargue</persName>, aimeraient
+                    aussi beaucoup vous voir; mais je crains qu’une si nombreuse compagnie ne vous
+                    indisposerait; ils dînent de 6 à 7&#160;heures de cette manière ils pourraient
+                    être chez vous à 8&#160;h.; comme je dis plus haut j’attends une réponse avant
+                    samedi &amp; d’après elle j’agirai.</p>
+                <p sameAs="MBTextmitEinzug">Mes amitiés à votre dame &amp; à toute votre famille
+                    &amp; je vous salue fraternellement</p>
+                <closer sameAs="MBUnterschrift">H<hi rendition="#sup">n</hi> Jung.</closer>
+                <p sameAs="MBAdresse">8 March 1866. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00128" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>124</idno>Karl Marx an Friedrich Engels in Manchester. London, Mittwoch, 20. Juni 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4454/L VI 586</idno></idno></msIdentifier><physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, hellgrauem Papier im
+                            Format 270&#160;×&#160;208&#160;mm. Marx hat die erste und dritte Seite
+                            vollständig beschrieben, die zweite und vierte sind leer.
+                            Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand:
+                            Numerierung der beschriebenen Seiten: „32,1“ bzw.
+                            „32,2“.<?oxy_comment_start author="lindenberg" timestamp="20170421T181402+0200" comment="Von Eduard Bernsteins Hand: Numerierung des Briefes bzw. der beschriebenen Seiten: „32,1“ bzw. „32,2“."?></p>
+                        <?oxy_comment_end?>
+                        <p>Marx beantwortet den Brief von Engels vom 11.&#160;Juni (Br.&#160;120)
+                            und wahrscheinlich einen nicht überlieferten Brief Engels’, geschrieben
+                            zwischen 16. und 18.&#160;Juni 1866 (siehe Erl.&#160;124c).</p>
+                    </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1974</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;327/328.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-06-20"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:32Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 20 June. 1866.</dateline><salute sameAs="MBAnrede">Dear Fred,</salute></opener><p sameAs="MBTextohneEinzug">Das verdammte Wetter wirkt besonders fatal sur mon physique; u. dieß
+                    ist der Grund, <seg type="comment"><orig>warum ich Dir bisher weder den „Wein“
+                            angezeigt, noch sonst geschrieben. <anchor type="verweisziel" xml:id="start_wvp_lzl_qz"/>Nach Manchester kommen, geht nicht, denn
+                            ich kann das Haus im present state nicht verlassen;</orig><note xml:id="fc14b771-0f18-4ffe-b89d-85aee6e46282">Siehe <ref target="B00124">Engels an Marx,
+                                11.6.<?oxy_comment_start author="reichhoff" timestamp="20170421T141310+0200" comment="{{Br. 120.3, 8–11}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    ausserdem muß ich hier sein wegen der „Internat.“, <seg type="comment"><orig>wo
+                            meine French friends schon einmal meine Abwesenheit benuzt, um unter
+                            diesen trying circumstances dummes Zeug im Namen der Association zu
+                            machen.</orig><anchor type="verweisziel" xml:id="stop_wvp_lzl_qz"/><note xml:id="fbaf6dec-0ec5-42a6-ab46-732e258fb4ee">Marx erinnert sich an die
+                            Sitzungen des Zentralrats der IAA am 6. und 13.&#160;März 1866 (siehe
+                            auch The_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+                            S.&#160;390.14–391.2 und 392.13–393.22 sowie <ref target="B00075/#start_pbc_5bx_pz">Marx an Engels,
+                                24.3.<?oxy_comment_start author="reichhoff" timestamp="20170421T142747+0200" comment="{{Br. 72.39–86}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00075/#a1789a38-725a-46a9-aebb-2eae7849e562">Erl. zu Marx
+                                an Engels,
+                                24.3.<?oxy_comment_start author="reichhoff" timestamp="20170512T152312+0200" comment="{{Erl._72s}}"?>1866<?oxy_comment_end?></ref>).
+                            (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20. S._265–450)))
+                        </note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Was hiesige
+                                    Zeitungen betrifft, so ist es nach meiner Ansicht, falls die
+                                    Sache in Manchester nicht geht, das Beste einen deftigen
+                                    military article an die
+                                        <?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?>„<bibl sameAs="zzThe Times">Times“</bibl><?oxy_custom_end?> zu
+                                    schicken, wo Du Dich als der englische Correspondent der Darmst.
+                                        <bibl sameAs="zzAllgemeine Militär-Zeitung">Milit.
+                                        Zeit.</bibl> ankündigen kannst.</orig><note xml:id="nrl1_jnp_fz">Vermutlich hatte sich Engels in einem nicht
+                            überlieferten Brief an Marx, geschrieben zwischen dem 16. und 18. Juni
+                            1866, zu seinem Vorhaben, Artikel über den am 16. Juni begonnenen
+                            Deutschen Krieg für Zeitungen (wohl zuerst für den „Manchester
+                            Guardian“, siehe <ref target="B00125">H. Morrell Acton an Engels,
+                                18.6.<?oxy_comment_start author="reichhoff" timestamp="20170404T151855+0200" comment="{{Br. 121}}"?>1866<?oxy_comment_end?></ref>,
+                            Erl._121a}} und <ref target="B00127">H. Morrell Acton an Engels,
+                                19.6.<?oxy_comment_start author="reichhoff" timestamp="20170404T152054+0200" comment="{{Br._123}}"?>1866<?oxy_comment_end?></ref>)
+                            (((zThe Manchester Guardian))) zu verfassen, geäußert. Möglicherweise
+                            hatte er sich darin bei Marx auch nach Möglichkeiten erkundigt, in
+                            Londoner Zeitung zu veröffentlichen. – Gemeint ist die „Allgemeine
+                            Militär-Zeitung“ (Darmstadt). Engels war mit dieser Fachzeitschrift seit
+                            August 1860 in Kontakt. (((zAllgemeine Militär-Zeitung))) </note></seg>
+                    Politische Rücksichten sind dabei nicht zu nehmen, da ein Lond. Blatt grad so
+                    schlecht wie das andre, u. es sich um die weiteste Publicität handelt.</p><p sameAs="MBTextmitEinzug">Du mußt mich jezt „kritisch“ au courant <expan resp="editor" sameAs="dottet_underline">d<ex>es</ex></expan> affaires in Italy u. Germany halten.</p>
+                <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_u2t_rkl_qz"/><seg type="comment"><orig>Gestern war im Intern. Council Debatte über die jetzige Kriegssache.</orig><note xml:id="c22d55d9-dd5a-4e3f-a030-3d58fee3e3f6">Im Zentralrat der IAA fand am 19.&#160;Juni eine Diskussion über den am 16.&#160;Juni begonnenen Deutschen Krieg statt. Siehe The_Minute Book 1864–1866. In: MEGA²&#160;I/20. S.&#160;424.3–19. (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20. S._265–450))) </note></seg> <seg type="comment"><orig>Es war vorher angekündigt</orig><note xml:id="dcc36ca0-11fc-4254-b78f-25a9984a2607">Siehe Protokoll der Sitzung des Zentralrats vom 12.&#160;Juni 1866 (The_Minute Book 1864–1866. In: MEGA²&#160;I/20. S.&#160;423.6–10). (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20. S._265–450))) Eine entsprechende Notiz war auch in: The Commonwealth. London. Nr.&#160;171, 16.&#160;Juni 1866. S.&#160;4 unter der Überschrift „A discussion on the war“ erschienen. (((lA discussion on the war. In: The Commonwealth. London. Nr.&#160;171, 16.&#160;Juni 1866. S.&#160;4))) </note></seg> u. unser room sehr voll. Auch die Herrn Italiener hatten uns wieder beschickt. Die Diskussion <add>was</add> wound up, wie vorherzusehn, mit <expan resp="editor" sameAs="dottet_underline">d<ex>er</ex></expan> „question of nationality“ überhaupt u. der Stellung, die wir dazu einzunehmen. <seg type="comment"><orig>Dieses sujet vertagt auf nächsten Dienstag.</orig><note xml:id="dbd4ad1d-55e0-45c1-bcea-ed88cb017512">
+                            <p rend="endnote text">Siehe Protokolle der Sitzungen des Zentralrats
+                                vom 19. und 26.&#160;Juni 1866 (The_Minute Book 1864–1866. In:
+                                MEGA²&#160;I/20. S.&#160;424.7–8 und S._427.10–428.3). Ein Beschluss
+                                dazu wurde erst am 17.&#160;Juli 1866 gefasst (siehe ebenda.
+                                S.&#160;435.9–13). (((lThe_Minute Book 1864–1866. In:
+                                MEGA²&#160;I/20. S._265–450)))  -  Der nächste Dienstag war der
+                                26._Juni 1866.</p>
+                        </note></seg></p><p sameAs="MBTextmitEinzug">Die Franzosen, sehr zahlreich vertreten, gave vent ihrer cordialen <pb/> Abneigung gegen die Italiener.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Uebrigens rückten die <hi rendition="#u">(Nichtarbeiter)</hi> Repräsentanten der „jeune France“ damit
+                            heraus, daß alle Nationalität u. Nationen selbst „des préjugés surannés“
+                            sind.</orig><note xml:id="d0bc7ffe-02b3-48da-bb53-dd182a5ed054">Einen
+                            Bericht über die Sitzung des Zentralrats am 19. Juni 1866 unter der
+                            Überschrift „The International Workingmen’s Asociation. The debatte on
+                            the war&#160;…“ siehe in: The Commonwealth. London. Nr.&#160;172,
+                            23.&#160;Juni 1866. S.&#160;5. Siehe auch MEGA²&#160;I/20.
+                            Erl._424.1–425.36 und <ref target="B00120/#start_tkh_gmm_qz">Marx an
+                                Engels,
+                                7.6.<?oxy_comment_start author="reichhoff" timestamp="20170421T143528+0200" comment="{{Br._116.17–19}}"?>1866<?oxy_comment_end?></ref>.
+                            (((lThe International Workingmen’s Asociation. The debatte on the
+                            war&#160;… In: The Commonwealth. London. Nr.&#160;172, 23.&#160;Juni
+                            1866. S._5))) </note></seg>
+                    <persName key="pdrPo.001.004.000003833">Proudhonisirter</persName>
+                    <persName key="pdrPo.001.004.000004600">Stirnerianismus</persName>. Alles
+                    aufzulösen in kleine „groupes“ oder „communes“, die wieder einen „Verein“
+                    bilden, aber keinen Staat. Und zwar soll diese „Individualisirung“ der
+                    Menschheit u. der entsprechende „mutualisme“ vor sich gehn, indem die Geschichte
+                    in allen andern Ländern aufhört u. die ganze Welt wartet, bis die Franzosen reif
+                    sind eine sociale Revolution zu machen. Dann werden sie uns das Experiment
+                    vormachen u. die übrige Welt wird durch die Kraft ihres Beispiels überwältigt,
+                    dasselbige thun. Ganz was <persName key="pdrPo.001.004.000001600">Fourier</persName> von seinem <seg type="comment"><orig>phalanstère
+                            modèle</orig><note xml:id="fdb49b5e-1f8d-45d2-8675-aba449d8fe70"><persName key="pdrPo.001.004.000001600">Charles Fouriers</persName>
+                            Bezeichnung für seine geplanten Genossenschaftskolonien.</note></seg>
+                    erwartete. D'ailleurs sind alle „Reactionäre“, die die „sociale“ Frage mit den
+                    „superstitions“ der alten Welt incumbiren.</p><p sameAs="MBTextmitEinzug">Die Engländer lachten sehr, als ich meinen speech damit eröffnete, daß
+                    unser Freund <persName key="pdrPo.001.004.000002648">Lafargue</persName> etc,
+                    der die Nationalitäten abgeschafft hat, uns „<hi rendition="#u">französisch</hi>“, i.e. in einer Sprache <subst>
+                        <del>anredete</del>
+                        <add> angeredet</add>
+                    </subst>, die
+                    <?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?>9/10<?oxy_custom_end?>
+                    des Auditoriums nicht verstand. Ich deutete weiter an, daß gänzlich unbewußt er
+                    unter Negation der Nationalitäten ihre Absorption in die französ. Musternation
+                    zu verstehn scheine.</p><p sameAs="MBTextmitEinzug">Uebrigens ist der Standpunkt jezt schwierig, weil man einerseits dem
+                    albernen englischen Italianismus, andrerseits der falschen französischen Polemik
+                    dagegen gleichmässig entgegentreten, u. namentlich jede Demonstration verhindern
+                    muß, die unsre Gesellschaft in einer <del> D <sic ana="#break-off"/></del>
+                    einseitigen Richtung <subst>
+                        <del rendition="#ow">involvirte</del>
+                        <add place="across">involviren </add>
+                    </subst>würde.<anchor type="verweisziel" xml:id="stop_u2t_rkl_qz"/></p><p sameAs="MBTextmitEinzug">Salut</p><closer sameAs="MBUnterschrift">D<lb/>KM </closer></div></body></text></TEI>

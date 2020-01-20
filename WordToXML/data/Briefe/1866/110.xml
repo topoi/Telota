@@ -1,0 +1,24 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00114" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>110</idno>Arthur Miall an Karl Marx in London. London, Samstag, 19. Mai 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 1657</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen festem, weißem Papier im Format 253&#160;×&#160;200&#160;mm.
+                            Die erste Seite hat Miall zur Hälfte beschrieben, die übrigen drei sind
+                            leer. Schreibmaterial: schwarze Tinte.</p><p>Von unbekannter Hand: die Jahresangabe „66“ mit Bleistift auf der ersten Seite oben links.</p></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_z5s_ptj_wx">Arthur Miall</persName><placeName>London</placeName><date when="1866-05-19"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:24Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/>
+                        <hi rendition="#mPrint"> “Commonwealth” office, </hi></dateline><hi rendition="#mPrint">
+                        <dateline sameAs="MBDatumszeile">18, Bouverie Street, Fleet Street,
+                        </dateline>
+                    </hi><dateline sameAs="MBDatumszeile"><hi rendition="#mPrint">London,</hi> May
+                            19<hi rendition="#sup">th</hi> 1866</dateline>
+                    <salute sameAs="MBAnrede">Dear Sir,</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Please attend here on Tuesday evening</orig><note xml:id="b5ec45d3-163e-4e83-ad32-1fa76025ee50">
+                            <p rend="endnote text">22.&#160;Mai 1866. - Marx wird hier zur Sitzung
+                                des Direktoriums der Zeitung „The_Commonwealth“
+                                (((zThe_Commonwealth))) eingeladen. Siehe <ref target="B00007/#nmrb_qzn_4y">Erl. zu Marx an J. Ph. Becker,
+                                    zwischen 9. und
+                                    15.1.<?oxy_comment_start author="reichhoff" timestamp="20170512T112610+0200" comment="{{Erl.6f}}"?>1866<?oxy_comment_end?></ref>
+                                    sowie<ref target="B00123/#start_awv_jq2_qz"> Marx an Engels,
+                                    9.6.<?oxy_comment_start author="reichhoff" timestamp="20170420T124227+0200" comment="{{Br. 119.17–36}}"?>1866<?oxy_comment_end?></ref>. </p>
+                        </note></seg> at 6 p.m., instead of on Monday at the usual hour, the latter
+                    being Whit Monday</p>
+                <closer sameAs="MBUnterschrift">Yours truly<lb/>A. Miall </closer>
+            </div></body></text></TEI>

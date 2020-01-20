@@ -1,0 +1,9 @@
+Phänomene
+=========
+
+{v} <>					Textreduzierung 			variant_deletion --> <del>text</del>
+{v} <>/					Textreduzierung mit Abbruch variant_deletion_break_off --> <del>text<sic/></del>
+{v} |: :|				Textergänzung				variant_addition --> <add>text</add> 
+{v} >>					Umstellung 					variant_replacement --> <subst><del>old_text</del><add>new_text</add></subst>
+
+{k} text] {H} kommentar	Editorische Korrektur		korrektur_replacement --> <choice type="editorial"><sic>text_original</sic><reg evidence="conjecture"><note>Versehentlich nicht gestrichen</note>text</reg></choice>

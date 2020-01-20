@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00117" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>113</idno>Paul Stumpf an Karl Marx in London. Leipzig, Dienstag, 29. Mai 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 4236/D VII 192–1</idno></idno></msIdentifier><physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            222&#160;×&#160;283&#160;mm. Prägung: „Hotel de Pologne Leipzig
+                            Grossberger &amp; Kühl.“. Die erste Seite hat Stumpf vollständig
+                            beschrieben, die zweite zu einem Drittel. Die letzte Passage steht am
+                            linken Rand der ersten Seite quer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Der Brief wurde als Beilage zum Brief
+                            <?oxy_comment_start author="strauss" timestamp="20170614T185307+0200" comment="(((nLiebknecht,W.)))"?>Wilhelm
+                            Liebknechts<?oxy_comment_end?> an Marx vom 5.&#160;Juni 1866
+                            mitgeschickt (siehe W. Liebknecht an Marx, 5.6.1866: „I did not want to
+                            send Stumpf's letter“). Er enthält zwei Korrekturen von Liebknechts Hand
+                            („Marx“ jeweils korrigiert in „Williams“.</p>
+                    </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 6547</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Monz: Der Mainzer Paul Stumpf (1986). S.&#160;286/287.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000004646">Paul Stumpf</persName><placeName>Leipzig</placeName><date when="1866-05-29"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:26Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> Leipzig 29 Mai 1866.</dateline>
+                    <salute sameAs="MBAnrede">Lieber Freund Williams!</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug">Heute nach 2&#160;Uhr habe ich Deine verehrte <persName key="pdrPo.001.004.000003075">Frau</persName> entführt! – Ich war bei
+                        <persName key="pdrPo.001.004.000002822">Liebknecht</persName> zu Café &amp;
+                    die brave <seg type="comment"><orig>Gattin Liebknechts</orig><note xml:id="d9f407b1-8249-4a62-8153-c3cfa61423cf"><persName key="pdrPo.001.004.000002819">Ernestine Liebknecht</persName>.
+                        </note></seg> gab mir die Erlaubniß dazu! ich habe nunmehr Frau Williams
+                    (Portrait) in der Tasche, ihr Ehrenplatz ist in <expan resp="editor" sameAs="dottet_underline">m<ex>einem</ex></expan> Album neben Deiner
+                    Photographie!</p>
+                <anchor type="verweisziel" xml:id="start_is1_rjl_qz"/>
+                <p sameAs="MBTextmitEinzug">Du erhältst diesen Brief wieder <seg type="comment"><orig>mit L.'s Zeilen!</orig><note xml:id="aa937d84-5faa-40c5-af4f-a27e56ed742a">Siehe <ref target="B00119">W. Liebknecht an Marx,
+                                5.6.<?oxy_comment_start author="reichhoff" timestamp="20170421T100314+0200" comment="{{Br. 115.3–4}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    <seg type="comment"><orig>Leider sind <expan resp="editor" sameAs="dottet_underline">m<ex>eine</ex></expan> Geschäfte hier sehr
+                            unerfreulicher Art; ich werde viel Geld verlieren!</orig><note xml:id="nptn_vrm_2z">Ebenda. Z. 5–6.</note></seg> Indessen wir schlagen
+                    uns durch &amp; vergessen die Sache nicht. –<anchor type="verweisziel" xml:id="stop_is1_rjl_qz"/></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Jüngst schrieb ich an
+                            Becker</orig><note xml:id="b283e7dc-3da7-418f-a74b-cce58dd92684">Ein
+                            Brief von <persName key="pdrPo.001.004.000004646">Stumpf</persName> an
+                                <persName key="pdrPo.001.004.000000317">Johann Philipp
+                                Becker</persName>, geschrieben vor dem 29.&#160;Mai 1866, konnte
+                            nicht ermittelt werden.</note></seg> &amp; <seg type="comment"><orig>stellte ihm R.&#160;50 für den Congress zur
+                            Verfügung;</orig><note xml:id="b7ab13b9-6622-4e98-b813-910dc19c6a38">
+                            <p rend="endnote text"> Der Kongress der IAA in Genf. Siehe <ref target="B00004/#nrk1_sfc_3y">Erl. zu Marx an Engels,
+                                    5.1.<?oxy_comment_start author="reichhoff" timestamp="20170512T122213+0200" comment="{{Erl. 3d}}"?>1866<?oxy_comment_end?>.</ref>
+                                - Eine Mitteilung über den finanziellen Beitrag Stumpfs für den
+                                Kongress brachte <persName key="pdrPo.001.004.000000317">Becker</persName> in dem Bericht: Entwickelungsgang unserer
+                                Association. In: Der_Vorbote. Genf. Jg.&#160;1. Nr.&#160;5, Mai
+                                1866. S.&#160;74. (((lBecker,J.Ph.: Entwickelungsgang unserer
+                                Association. In: Der_Vorbote. Genf. Jg.&#160;1. Nr.&#160;5, Mai
+                                1866. S.&#160;74))) </p>
+                        </note></seg> ich wollte sie anfänglich beilegen; das Fleisch war aber
+                    schwächer als der Wille &amp; ich mußte das Beilegen verschieben! Mit <expan resp="editor" sameAs="dottet_underline">d<ex>ie</ex>sem</expan> Briefe
+                    sollte auch <seg type="comment"><orig>die Antwort auf Deine Zeilen</orig><note xml:id="ce120671-6501-4982-a5d9-1f4f7a5a2ad8">Der Brief von Marx an
+                                <persName key="pdrPo.001.004.000004646">Stumpf</persName>,
+                            geschrieben zwischen 18.&#160;Januar (siehe <title><ref target="B00017">P. Stumpf an Marx,
+                            18.1.1866</ref></title><?oxy_comment_start author="reichhoff" timestamp="20170403T162610+0200" comment="{{Br. 16}}"?>)<?oxy_comment_end?>
+                            und 29.&#160;Mai 1866, ist nicht überliefert.</note></seg> &amp; a conto
+                    meiner R.&#160;100 die Hälfte an Dich abgehen; aus besagtem Grunde unterblieb es
+                    indessen auch.</p>
+                <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_oqv_xjl_qz"/>Zum Congresse ist beides indessen da &amp; ich hoffe die Genfer Reise bringt
+                    Dich alsdann munter &amp; gesund mit <persName key="pdrPo.001.004.000002822">Liebknecht</persName> durch Mainz! Wir wollen dann sehen ob ich mit nach
+                    Genf gehen kann!</p>
+                <p sameAs="MBTextmitEinzug">Einen Arbeiter Congress hätte ich viel lieber schon Ende
+                        <expan resp="editor" sameAs="dottet_underline">ds</expan>s. Monats gesehen,
+                    denn Volksführer die im Volke die richtige Saite anzuschlagen &amp; den
+                    Schwätzern zu imponiren verstehen fehlen! Es wäre eine Lichtseite in unserer
+                    trüben Zeit gewesen.</p>
+                <p sameAs="MBTextmitEinzug">Indessen sie kommt vielleicht noch im Juni zur rechten
+                    Zeit!? Was meinst Du? <seg type="comment"><orig>Nach dem <bibl sameAs="zzDer Vorbote">Vorboten</bibl> soll er am 3&#160;Sept.
+                            sein!</orig><anchor type="verweisziel" xml:id="stop_oqv_xjl_qz"/><note xml:id="caf35370-5a73-40ec-aca7-203996386fef">Siehe [Karl Marx:]
+                            Provisorische Bestimmungen der Internationalen Arbeiter-Association.
+                            (Schluß.). In: Der_Vorbote. Genf. Jg.&#160;1. Nr.&#160;5, Mai 1866.
+                            S.&#160;74. (((l[Marx,Karl:]_Provisorische Bestimmungen der
+                            Internationalen Arbeiter-Association. (Schluß.). In: Der_Vorbote. Genf.
+                            Jg.&#160;1. Nr.&#160;5, Mai 1866. S.&#160;74/75.))) </note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>
+                            <anchor type="verweisziel" xml:id="start_bly_jvm_qz"/>Bitte Engels zu
+                            veranlassen daß er seine Lage der arb. Classe neu verlegt; die Zeit ist
+                                passend!!<anchor type="verweisziel" xml:id="stop_bly_jvm_qz"/></orig><note xml:id="nhsm_fsm_2z">Friedrich Engels: Die Lage der
+                            arbeitenden Klasse in England. Leipzig 1845. Siehe auch <ref target="B00133/#start_hc5_bfl_qz">Marx an Engels,
+                                7.7.<?oxy_comment_start author="reichhoff" timestamp="20170421T102245+0200" comment="{{Br. 129.29–32}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00141/#start_izy_2jl_qz">P. Stumpf an Engels,
+                                16.7.<?oxy_comment_start author="reichhoff" timestamp="20170421T105227+0200" comment="{{Br. 137.22–25}}"?>1866<?oxy_comment_end?></ref>
+                            sowie <ref target="B00036/#ng5n_lfy_5y">Erl. zu Marx an Engels,
+                                10.2.<?oxy_comment_start author="reichhoff" timestamp="20170512T122419+0200" comment="{{Erl. 33d}}"?>1866<?oxy_comment_end?>.</ref>
+                            (((lEngels,Friedrich:Die Lage der arbeitenden Klasse in England. Leipzig
+                            1845)))</note></seg>
+                </p>
+                <p sameAs="MBTextmitEinzug"><pb/>
+                    <persName key="pdrPo.001.004.000002822">Liebkn.</persName> sagte mir heute
+                    Morgen, <seg type="comment"><orig>Du wärest mit Oswald <persName key="pdrPo.001.004.000001157">Dietz</persName>
+                        verfallen!</orig><note xml:id="bbc76f54-799b-4132-a2a9-9b7aa732e4a6">Vermutlich hatte Marx
+                            Oswald Dietz dessen Übergang in den Kommunistenbund von <persName key="pdrPo.001.004.000005144">Willich</persName> und <persName key="pdrPo.001.004.000004227">Schapper</persName> im September 1850
+                            übel genommen. Zur Spaltung der Zentralbehörde des Bundes der
+                            Kommunisten siehe Hundt: Geschichte des Bundes der Kommunisten.
+                            S.&#160;660–671. (((lHundt:_Geschichte des Bundes der Kommunisten)))
+                            Siehe auch MEGA²&#160;III/10. Br.&#160;293.46–65 und III/11.
+                            Br.&#160;6.58–91). (((l MEGA²&#160;III/10))) (((lMEGA²&#160;III/11)))
+                        </note></seg> Ich war erstaunt darüber denn ich halte O.&#160;D. für
+                    ehrenwertheste Seele; ich kenne ihn seit 1842 <seg type="comment"><orig>sah ihn
+                            zuletzt 1851 in London</orig><note xml:id="nm1h_ysm_2z">Stumpf hatte
+                            London im Hebst 1851 besucht. Siehe Marx an Engels, 23. September 1851.
+                            In: MEGA²_III/4. S. 221.12–14. (((lMarx an Engels, 23. September 1851.
+                            In: MEGA²_III/4. S.215-221)))</note></seg> &amp; bitte Dich ihm
+                    Vertrauen zu schenken; ich mögte mich für Alles was gegen ihn gesagt wird
+                    verbürgen obschon ich ihn seit 51 nicht gesehen denn er scheint mir nie etwas
+                    unrechtliches thun zu können!</p>
+                <closer sameAs="MBUnterschrift">
+                    <signed>Dein P. St </signed>
+                </closer>
+                <postscript>
+                    <p>/ Leider sind wie ich Dir schon geschrieben meine geschäftlichen Verhältnisse
+                        nicht unabhängig genug, mich thatsächlicher in der Bewegung zu betheiligen;
+                        für Deinen Wunsch der Internationalen etwas zu thun hätte ich dann schon
+                        mehr gearbeitet! Herzliche Grüße an Dich &amp; Frau Gemahlin sowie an alle
+                        Freunde von Deinem</p>
+                </postscript>
+                <closer sameAs="MBUnterschrift">Paul Stumpf /</closer>
+            </div></body></text></TEI>

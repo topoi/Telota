@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00164" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>160</idno>Karl Marx an Laura Marx in Hastings. London, Dienstag, 28. August 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 1 d. 6049</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Blatt festem, weißem Papier im Format
+              114&#160;×&#160;182&#160;mm. Wasserzeichen: „Joyn[son] 186[6]“. Prägung: die
+              Aufschrift „Best Quality“ auf dem Schild, umrahmt mit Zweigen.<?oxy_comment_start author="lindenberg" timestamp="20170426T143931+0200" comment="ursprünglich: mit den Zweigen"?>
+              <?oxy_comment_end?>Die erste Seite hat Marx vollständig beschrieben, die zweite ist
+              leer. Schreibmaterial: schwarze Tinte.</p>
+            <p>Von unbekannter Hand: Numerierung des Briefes „3–2“ auf der ersten Seite oben in der
+              Mitte.<?oxy_comment_start author="lindenberg" timestamp="20170424T165304+0200" comment="Von unbekannter Hand: Numerierung des Briefes „3[im Kreis]–2“ auf der ersten Seite oben in der Mitte."?></p>
+            <?oxy_comment_end?>
+            <p>Marx beantwortet einen nicht überlieferten Brief von Laura Marx, geschrieben vor dem
+              28.&#160;August 1866 (Z.&#160;3). Laura antwortet darauf wahrscheinlich am
+              29.&#160;August 1866 (Br.&#160;161).</p>
+          </physDesc></msDesc><listWit><witness><bibl>Erstveröffentlichung: Lettres et documents de Karl Marx (1958). S.&#160;162.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-08-28"/></correspAction><correspAction type="received"><persName key="pdrPo.001.004.000003076">Laura Marx</persName><placeName>Hastings</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:52Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 28 Aug. 1866.</dateline><salute sameAs="MBAnrede">My dear <seg type="comment"><orig><persName key="pdrPo.001.004.000003076">Cacadou</persName>,</orig><note xml:id="fd6a8511-bbf9-47ab-9122-af1f6a377b92"><persName key="pdrPo.001.004.000003076">Laura
+                                                  Marx</persName>.  </note></seg></salute></opener><p sameAs="MBTextohneEinzug">I have received your letter, but not unopened, since it had to pass
+          through the light fingered hands of <seg type="comment"><orig>the Emperor.</orig><note xml:id="nxxz_tcw_hz"><persName key="pdrPo.001.004.000003074">Jenny Marx</persName>
+              (Tochter). </note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>It was always my opinion that to give the last
+              finishing stroke <subst>
+                <del>of</del>
+                <add>to</add>
+              </subst> your “heducation”, some sort of boarding school training was still wanted. It
+              will do you a great deal of good.</orig><note xml:id="nmcv_zcw_hz">Von Ende August bis
+              vermutlich 10. September 1866 weilten <persName key="pdrPo.001.004.000003076">Laura</persName> und <persName key="pdrPo.001.004.000003068">Eleanor
+                Marx</persName> zur Erholung in Hastings, wo sie ein Zimmer im Hause der
+              Privatschulrektorin <persName key="ed_smx_rhc_3z">Miss Davies</persName> angemietet
+              hatten. Siehe <ref target="B00165">Laura Marx an Karl Marx und/oder Jenny Marx, nicht
+                früher als 29. August
+                <?oxy_comment_start author="reichhoff" timestamp="20170406T113308+0200" comment="{Br. 161}}"?>1866<?oxy_comment_end?></ref>
+              und <persName key="pdrPo.001.004.000003074">Jenny Marx</persName> (Tochter) an Eleanor
+              und Laura Marx, 6._September 1866, (RGASPI, Sign. f. 7, op. 1, d. 277).
+              (((lMarx,Jenny(Tochter) an Eleanor und Laura Marx, 6._September 1866, (RGASPI, Sign.
+              f. 7, op. 1, d. 277) )))</note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Il hidalgo della figura trista</orig><note xml:id="nmrq_lkw_hz">Der Ritter von der traurigen Gestalt, Don Quixote – Hauptgestalt
+              des Romans von Miguel de Cervantes: El ingenioso hidalgo Don Quixote de la Mancha,
+              (((lCervantes,Miguel de: El ingenioso hidalgo Don Quixote de la Mancha))) hier ist
+                <persName key="pdrPo.001.004.000002648">Paul Lafargue</persName> gemeint.
+            </note></seg>  left me at the corner of his house. His heart having been considerably
+          shaken before, he seemed to bear his separation <hi rendition="#u">from me</hi> with a
+          rather heroic indifference.</p><p rend="MBTextMitEinzug">My best wishes to <seg type="comment"><orig><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>{ein
+              Pluszeichen über einem Minuszeichen} {ein Unendlichzeichen} {ein Minuszeichen über
+              einem Pluszeichen}.</orig><?oxy_custom_end?><note xml:id="nj51_sfw_hz"><persName key="pdrPo.001.004.000003068">Eleanor Marx</persName>. </note></seg></p><p rend="MBTextMitEinzug">I enclose 5&#160;l., <seg type="comment"><orig>the remainder to be sent in
+              the second week.</orig><note xml:id="cbe61184-d1e5-45b2-855c-bb44dc8c563b">Siehe <ref target="B00171">Marx an L. Marx, 8.9.1866</ref>.<?oxy_comment_start author="roth" timestamp="20170425T110837+0200" comment="{Br. 167.2–4}}."?>
+              <?oxy_comment_end?></note></seg></p><closer sameAs="MBUnterschrift">Yours humbly<lb/>Old One.</closer><postscript><p><seg type="comment"><orig>Mama will start upon her own expedition to morrow or after to
+                morrow.</orig><note xml:id="nrbx_xgw_hz">Frau <persName key="pdrPo.001.004.000003075">Jenny Marx</persName> erholte sich von Ende August
+                bis Mitte September 1866 in Dover. </note></seg> A great push was wanted to set her
+            a moving. </p></postscript></div></body></text></TEI>

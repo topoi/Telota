@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00022" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>21</idno>Hermann Jung an Karl Marx in London. London, Freitag, 26. Januar 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 21 op. 1 d. 76/2</idno></idno></msIdentifier><physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, blauem Papier im Format
+                            228&#160;×&#160;183&#160;mm. Prägung: eine Krone. Die ersten drei Seiten
+                            hat Jung vollständig beschrieben, die vierte ist leer. Schreibmaterial:
+                            schwarze Tinte.</p>
+                        <p>Von unbekannter Hand: Vermerke auf der ersten Seite oben links: „66.“
+                            (Tinte) und vermutlich „Januar“ (Blaustift).</p>
+                        <p>Zur Datierung: Jung schreibt am Freitag, denn er beabsichtigt, sich mit
+                            Marx am Abend des Folgetages (einem Sonnabend) zu treffen, um seinen
+                            Artikel zu besprechen, den er am 30.&#160;Januar 1866 im Zentralrat der
+                            IAA zu vertreten hatte (siehe Erl.). Der Freitag vor dem 30.&#160;Januar
+                            1866 war der 26.&#160;Januar.</p>
+                    </physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002417">Hermann Jung</persName><placeName>London</placeName><date when="1866-01-26"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:25Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 4 Charles Street<lb/>Northampton Square.</dateline><salute sameAs="MBAnrede">Cher ami Marx.</salute></opener><p sameAs="MBTextohneEinzug">Je me ferai un plaisir de passer chez vous demain soir, <seg type="comment"><orig>(samedi)</orig><note xml:id="b1087ec3-a099-487f-88a8-f81310cb46ba">27.&#160;Januar
+                            1866.</note></seg> de 7 à 8&#160;heures, <seg type="comment"><orig>pour
+                            vous soumettre la réfutation en question;</orig><note xml:id="ef4210c1-5423-4c0e-ab45-f8f4af2ac3ad">Hermann Jung: [Lettre
+                            ouverte à Pierre Vésinier publiée dans „L’Écho de Verviers“.] In: L’Écho
+                            de Verviers. Nr.&#160;43, 20.&#160;Februar 1866. S.&#160;1/2. [dort
+                            u._d._T.:] L’Association Internationale des Travailleurs. (MEGA² I/20.
+                            S.&#160;603–611.) (((lJung, Hermann: [Lettre ouverte à Pierre Vésinier
+                            publiée dans „L’Écho de Verviers“.] In: L’Écho de Verviers. Nr.&#160;43,
+                            20.&#160;Februar 1866. S.&#160;1/2. [dort u._d._T.:] L’Association
+                            Internationale des Travailleurs))) Siehe <ref target="B00004/#start_itl_grp_mz">Marx an Engels, 5.1.1866</ref>
+                            <?oxy_comment_start author="reichhoff" timestamp="20170410T121042+0200" comment="({{Br. 3.10–21}}) "?>und<?oxy_comment_end?>
+                            <ref target="B00004/#db8e9996-d94b-4b8a-be7b-18526318d9af">Erl. zu Marx
+                                an Engels, 5.1.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170512T151304+0200" comment="{{Erl. 3c}}."?></note><?oxy_comment_end?></seg>
+                    Je dois vous dire d’avance, que je n’en suis pas très satisfait &amp; qu’il y
+                    aura beaucoup à retoucher, jamais n’ai-je écrit quelque chose qui m’ait donné si
+                    peu de satisfaction, que ne le fait cette refutation.</p><p sameAs="MBTextmitEinzug">Il est juste de dire que je ne me suis pas bien porté, cette <pb/> dernière quinzaine, ce qui est sans doute dû à une trop grande application au travail; la nécessité me force à travailler, plus que la prudence ne le commande, pour réparer la brèche que ma maladie a faite.</p><p sameAs="MBTextmitEinzug">Tandis que tout le monde se plaint de déluges &amp; d’inondations, moi je me plains d’une grande sécheresse dans le cerveau.</p><p sameAs="MBTextmitEinzug">Toute cette semaine, pas plutôt ma journée finie que je prenais la plume pour finir <pb/> cette réfutation; mais j’ai en beau faire pénitence, la plume à la main, quatre ou cinq heures de tems, je ne pouvais rien écrire &amp; le peu que j’écrivais, c’est malgré moi que je le faisais.</p><p sameAs="MBTextmitEinzug">Bref, je vous verrai demain &amp; <seg type="comment"><orig>nous
+                            corrigerons la lettre à <persName key="pdrPo.001.004.000004915">Vésinier</persName></orig><note xml:id="b947d6e3-bac2-4c33-9643-900e44ea420f">Siehe <ref target="B00022/#ef4210c1-5423-4c0e-ab45-f8f4af2ac3ad">Erl. zu H.
+                                Jung an Marx, 26.1.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170512T151931+0200" comment="{{Erl. 21b}}."?></note><?oxy_comment_end?></seg>
+                    <seg type="comment"><orig>avant de la soumettre au sous comité.</orig><note xml:id="e0f36741-feee-44d6-9a08-d66b3924cb6c">
+                            <p rend="endnote text">Siehe  Erl. zu Marx an J. Ph. Becker, zwischen
+                                9.u.15.1.1866. <?oxy_comment_start author="lindenberg" timestamp="20170512T152321+0200" comment="{{Erl. 6e}}."?>
+                                <?oxy_comment_end?>- Jung hat den Text zuerst in der Sitzung des
+                                Zentralrats der IAA am 30.&#160;Januar 1866 vorgetragen. Die Sitzung
+                                des Subkomitees fand nicht statt. Am 6.&#160;Februar beschloss der
+                                Zentralrat, den Artikel ohne weitere Besprechungen an die Redaktion
+                                der Zeitung zu schicken. Siehe The_Minute Book 1864–1866. In:
+                                MEGA²&#160;I/20. S.&#160;383.7–8 und 385.1–6. (((lThe_Minute Book
+                                1864–1866. In: MEGA²&#160;I/20. S._265–450))) </p>
+                        </note></seg></p><p sameAs="MBTextmitEinzug"><!--<hi rend="color(0000FF)">{u2}</hi>-->Tout à vous,</p><closer sameAs="MBUnterschrift">H<hi rendition="#sup">n</hi> Jung</closer><postscript><p>Mes amitiés à votre dame &amp; à votre aimable famille </p></postscript></div></body></text></TEI>

@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_b5c_qwz_sy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ernest Jones an Edmond Beales, 31. Mai
+                    <?oxy_comment_start author="lindenberg" timestamp="20170203T160108+0100" comment="nochmal mit der Hs. verglichen, Seitenwechsel eingefügt - Ok"?>1866<?oxy_comment_end?>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">f. 1 op. 5 d. 1659</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Kopie des Briefes von Ernest Jones an Edmond Beales vom 31. Mai 1866.</p>
+                        <p>Archivsignatur des Moskauer Marx-Engels-Instituts (IMĖ): „Rj 1577d“ bzw.
+                            „Rj 1576e“.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000002387">Jones, Ernest</persName>
+                    <date when="1866-05-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="pdrPo.001.004.000000296">Beales, Edmond</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb n=""/> Copy</dateline>
+                    <dateline> 47, Princess St<hi rendition="#sup">r</hi> Manchester </dateline>
+                    <dateline><hi rendition="#u">May 31. 1866</hi></dateline>
+                    <salute>D<hi rendition="#sup">r</hi> Sir, </salute>
+                </opener>
+				<p>Do not let us drift into a <hi rendition="#u">personal difference</hi>. You greatly
+                    misinterpret my letter if you suppose that I attribute to <hi rendition="#u">you
+                        all</hi> the evil resulting from the policy adopted by the Executive of the
+                    Reform League.</p>
+                <p>What I wrote was this:</p>
+                <p><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>“<?oxy_custom_end?>You
+                    say that <hi rendition="#u">your</hi>
+                    <hi rendition="#u">entire</hi>
+                    <hi rendition="#u">Council</hi>, with three exceptions supports the Bill. You
+                    add that, at the Meetings called by you, &amp; by the Branches of the League
+                    formed &amp; I may <hi rendition="#u">say</hi> inspired by your <hi rendition="#u">Coun<hi rendition="#uu">ci</hi>l<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></hi>”<?oxy_custom_end?>
+                        [[mark—Coun<hi rendition="#uu">ci</hi>l not Coun<hi rendition="#uu">se</hi>l]]
+                    <?oxy_comment_start author="lindenberg" timestamp="20170203T142449+0100" comment="Anführungszeichen fehlt in Hs. --&gt; so übernommen"?>the<?oxy_comment_end?>
+                    policy of supporting the Governm<hi rendition="#sup">t</hi> Bill is strongly
+                    endorsed &amp; that <hi rendition="#uu">your</hi>
+                    <hi rendition="#uu">League</hi> might become a nullity were you to oppose
+                    it.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>”<?oxy_custom_end?>
+                </p>
+                <p>You will therefore perceive that the “you” &amp; “your” applied to your
+                    Committee, your <hi rendition="#u"><hi rendition="#uu">Council</hi></hi>, your
+                    entire official organisation &amp; <hi rendition="#u">not to yourself alone
+                        personally</hi>. <hi rendition="#u">But I cannot withdraw from you
+                        personally, your proportionate share in the observation generally applied in
+                        my former letter</hi>.</p>
+                <p> You say you advocated Manhood suffrage at the interview with Lord Russel &amp;
+                    at divers Meetings &amp; Conferences. Of course, you did! Who ever denied it!
+                    Not I! You would not otherwise have been elected President of the Reform League
+                    or, having been elected, retained your office.</p>
+                <p>But this only renders the course pursued by you, <hi rendition="#u">&amp; your
+                        colleagues</hi>, more to be lamented. For a Whig or a sham Liberal <hi rendition="#u">or even a Tory</hi> to recommend the People to support the
+                        Governm<hi rendition="#sup">t</hi> Bill, I can readily understand &amp; such
+                        recommendat<hi rendition="#sup">n</hi> from such quarters would be ——
+                    comparatively harmless! <hi rendition="#u">But for, the President of a Manhood
+                        Suffrage Association</hi> to support a Bill such as that issuing from the
+                        Governm<hi rendition="#sup">t</hi>, is suicidal, &amp;, forgive the word,
+                    politically criminal, however sincere &amp;
+                    good<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>”<?oxy_custom_end?>
+                    (as doubtlessly it was in your case) the original motive may have been that led
+                    to such a fearful error.</p>
+                <p>Of course, you at the same time advocate Manhood Suffrage—of course you tell the
+                    Members of your League, that you will still agitate for Manhood Suffrage, &amp;
+                    that the Governm<hi rendition="#sup">t</hi> Bill is not to be taken as a final
+                    Measure<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>”<?oxy_custom_end?>
+                    of course you do! you could do nothing less. But that just makes the poison more
+                    dangerous, <pb n=""/> which you administer when you add:
+                        <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>“<hi rendition="#u"><?oxy_custom_end?>Support the Bill</hi>—it is good as far as
+                    it goes—it is a step in the right direction &amp; will lead to
+                    more<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>”<?oxy_custom_end?>,
+                    etc.</p>
+                <p>That the people are <hi rendition="#u">not</hi> with you, that you have no sway
+                    over, no hold on, the healthy upright common sense of the Workingmen of London,
+                    the signal failure on Primrose Hill sufficiently indicates. </p>
+                <p>By that failure you have done a great injury to the cause of Manhood Suffrage;
+                    for its enemies will construe the non attendance of the Workingmen on WhitMonday
+                    into evidence of apathy as regards <hi rendition="#uu">all</hi> Reform—Whereas
+                    in truth it merely shews their repudiation of the Policy you so strongly
+                    advocate in your letter to me. That repudiation is further evidenced in the
+                    constantly increasing number of letters I have been receiving ever since a few
+                    lines from me on the suicidal policy of supporting the Governm<hi rendition="#sup">t</hi> Bill appeared in the three Manchester Papers. I
+                    mention this merely to shew you that you are much in error as to the feelings of
+                    the Working Classes on the subject.</p>
+                <p>I trust nothing I have said in this or any other letter, may prove personally
+                    offensive to yourself or any Gent<hi rendition="#sup">n</hi> connected with the
+                    League. I do not intend that it should be so. Do not let it produce any ill
+                    feeling between us. <hi rendition="#u">Let us remain friends</hi>. I hope we
+                    shall yet be able to work together for <hi rendition="#u">Manhood Suffrage</hi>,
+                    when the present hallucination has passed. Let us then try to repair the evil
+                    that has been done, without recrimination and without any bitterness of
+                    feeling.</p>
+                <p>As this correspondence was public from its commencem<hi rendition="#sup">t</hi>
+                    and your first letter was sent, as was my reply, thro’ the Secretary of the
+                    League, I conclude the public nature of the said correspondence still continues,
+                    &amp; send this thro’ the same channel, requesting you to lay the entire
+                    correspondence before the Council. I am </p>
+				<closer>
+                    <salute>Dear Sir <lb/>Faithfully yours <lb/></salute>
+                    <signed>Ernest Jones <lb/></signed>
+                    <address>
+                        <addrLine>Edmond Beales Esq<hi rendition="#sup">re</hi>
+                        </addrLine>
+                    </address>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

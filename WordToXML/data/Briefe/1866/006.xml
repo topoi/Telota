@@ -1,0 +1,405 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00007" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>6</idno>Karl Marx an Johann Philipp Becker in Genf. London, zwischen Dienstag,
+          9. und Montag, 15. Januar 1866</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>IISG</institution>
+            <collection>Marx-Engels-Nachlass</collection>
+            <idno><idno type="shelfmark">C 31/C 7</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Blatt dünnem, blauem Papier im Format
+              135&#160;×&#160;217&#160;mm. Der Brief trägt den ovalen roten Aufdruck „International.
+              Working Mens Association Central Council London“ auf der ersten Seite oben links.
+              Beide Seiten hat Marx vollständig beschrieben. Schreibmaterial: schwarze Tinte.</p>
+            <p>Von unbekannter Hand: Aufschrift „1866“, ursprünglich mit Bleistift, danach mit
+              Rotstift überschrieben, auf der ersten Seite oben rechts.</p>
+            <p><?oxy_custom_start type="oxy_content_highlight" color="153,255,255"?>Marx beantwortet
+              den Brief Beckers an ihn vom 18.&#160;Dezember 1865 (MEGA² III/13.
+              Br.&#160;348).<?oxy_custom_end?></p>
+          </physDesc>
+          <additional>
+            <listBibl>
+              <bibl>RGASPI f. 1 op. 1 d. 1925</bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+        <listWit>
+          <witness><bibl>Erstveröffentlichung: in russischer Übersetzung: МЭС<hi rendition="#sup">1</hi> 25 (1934). S.&#160;460–462</bibl>.</witness>
+          <witness><bibl>in der Sprache des Originals: Die I.&#160;Internationale in Deutschland
+              (1964). S.&#160;96–98.</bibl></witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term key="ed_ujr_3c2_5z">Frankreich</term>
+          <term key="ed_jtl_xrw_ww">Internationale Arbeiter Assoziation (IAA, A.I.T., I.W.M.A.)</term>
+          <term key="ed_lbn_rnw_px">„Das Kapital“ (Arbeit an Manuskripten, Veröffentlichung)</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName>London</placeName>
+          <date from="1866-01-09" to="1866-01-15" cert="high"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="pdrPo.001.004.000000317">Johann Philipp Becker</persName>
+          <placeName>Genf</placeName>
+        </correspAction>
+        <note>Zur Datierung: Marx erwähnt in seinem Brief die Sitzung des Zentralrats der IAA vom
+          9.&#160;Januar 1866 („Letzteres hat beschlossen ...“) und verspricht, einen Brief an Louis
+          Kugelmann <?oxy_comment_start author="lindenberg" timestamp="20170421T123204+0200" comment="(((nKugelmann,Louis))) Noch mit dem Register verbinden"?>
+          <?oxy_comment_end?>zu schreiben („Ditto werde ich deßwegen ...“), den er dann tatsächlich
+          am 15.&#160;Januar 1866 geschrieben hat <ref target="B00012">(Marx an Kugelmann,
+            15.1.1866).</ref> Somit konnte der Brief nicht früher als am 9. und musste spätestens am
+          15.&#160;Januar 1866 geschrieben worden sein. </note>
+        <note>Datierung in der Erstveröffentlichung: um den 13.&#160;Januar 1866.</note>
+        <note>Die Beilage („dem einliegenden Zettel“) ist nicht überliefert.</note>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-10-31T13:38:11Z</date> | <name>Regina Roth</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingAct">
+        <opener><dateline sameAs="MBDatumszeile"><pb/> London. 1, Modena Villas, Maitland
+          Park,<lb/>Haverstock Hill. N.W.</dateline><salute sameAs="MBAnrede">Lieber, bester
+            Becker,</salute></opener>
+        <p sameAs="MBTextohneEinzug">Du wirst „mit Recht“ mir grollen, aber zugleich „mit Unrecht“.
+            <seg type="comment"><orig>(Du weißt von <persName key="pdrPo.001.004.000002112">Heinzen</persName>, daß ich ein „Sophist“ bin.)</orig><note xml:id="d944adcf-ed9d-4601-8a11-eb6c31b3672c"><bibl sameAs="zotero-604880-QI8WZFJW" type="primary">K[arl] Heinzen: Die Helden des teutschen Kommunismus. Dem Herrn Karl
+                Marx gewidmet. Bern
+                <?oxy_comment_start author="roth" timestamp="20170505T163200+0200" comment="Hier und an 4 weiteren Stellen (Mares, [Vésinier], [Le Lubez], Last night meeting...) Bibl-Eintrag zu zotero eingefügt; MEGA II/5: 1x Link auf MEGAdigital eingefügt"?>1848<?oxy_comment_end?>.</bibl>
+              S. 10, 63, 67, 69, 73-75, 84, 88/89. (((lHeinzen,K[arl]: Die Helden des teutschen
+              Kommunismus Dem Herrn Karl Marx gewidmet. Bern 1848))) </note></seg> Abgesehn davon,
+          daß ich an <seg type="comment"><orig>1200&#160;Seiten Manuscript</orig><note xml:id="a85fd331-e369-4613-bae5-8b4731d7edc3">Gemeint ist „Das
+              Kapital“. Marx arbeitete seit Januar 1863 am dritten und letzten Entwurf seines
+              ökonomischen Hauptwerks „Das Kapital &lt;Ökonomisches Manuskript 1863–1865&gt;“, der
+              bereits Manuskripte für alle drei Bücher (die späteren Bände 1–3) enthielt. Nachdem er
+              bis August 1864 den nur fragmentarisch überlieferten Entwurf für das erste Buch
+              verfasst hatte (MEGA² II/4.1. S. 3–135), widmete er sich vor allem dem dritten Buch
+              (MEGA² II/4.2), von etwa Ende 1864 bis zur ersten Hälfte 1865 auch dem ersten Entwurf
+              für das zweite Buch (MEGA² II/4.1. S. 137–381). Siehe auch die Entstehung und
+              Überlieferungsgeschichten ebenda. S. 443–448 und 560–568 sowie MEGA² II/4.2. S.
+              913–925). Im März 1865 schloss er mit dem Verleger <persName key="pdrPo.001.004.000003135">Otto Meißner</persName> einen Vertrag über die
+              Herausgabe des „Kapital“. Hier wurde auf Marx’ Wunsch der Termin für die
+              Manuskriptabgabe nicht angegeben (siehe dazu MEGA² III/13. Br. 105, Br. 122 und Br.
+              195 sowie S. 912/913; siehe auch <ref target="B00208/#start_mnf_fqn_mz">Marx an
+                Engels, 17. Dezember
+              1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170407T115907+0200" comment=" {{Br. 201.32–37}}"?>)<?oxy_comment_end?>.
+              Als Marx am 31. Juli 1865 Engels den Stand seiner Arbeit schilderte, hielt er seinen
+              1863 begonnenen Entwurf des „Kapital“ und „den theoretischen Theil (die 3 ersten
+              Bücher)“ bis auf drei Kapitel bereits für fertig (MEGA² III/13. Br. 282.33–44). Er
+              arbeitete daran jedoch noch bis Dezember 1865 (siehe <ref target="B00039/#start_ffy_wt4_mz">Marx an Engels,
+              13.2.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170407T150222+0200" comment="{{Br. 36.13–14}}"?>)<?oxy_comment_end?>.
+              Anfang Januar 1866 war Marx erneut mit der Reinschrift des ersten Buches für den Druck
+              befasst und beabsichtigte, bis zum März desselben Jahres damit abzuschließen (siehe
+                <ref target="B00011/#start_krt_zz4_mz">Marx an W. Liebknecht,
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170407T154327+0200" comment="{{Br. 10.7–11}}"?>1866<?oxy_comment_end?></ref>,
+                <ref target="B00036/#start_vy1_wbp_mz">Marx an Engels, 10.2.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170407T155558+0200" comment=" {{Br. 33.12–30}}"?>
+              <?oxy_comment_end?>und <ref target="B00039">13.2.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170407T160237+0200" comment="{{Br. 36.13–37}}"?>)<?oxy_comment_end?>.
+              Dies erforderte jedoch abermals mehr Zeit, als Marx ursprünglich angenommen hatte,
+              zumal er in den Band umfangreiches historisches Material einarbeitete (siehe <ref target="B00133">Marx an Engels,
+                7.7.<?oxy_comment_start author="reichhoff" timestamp="20170407T161432+0200" comment="{{Br. 129.7–10}}"?>1866<?oxy_comment_end?></ref>,
+                <ref target="B00163/#start_d4c_y2p_mz">Marx an L. Kugelmann, 23.8.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170407T162021+0200" comment="{{Br. 159.23–30}}"?>
+              <?oxy_comment_end?>und <ref target="B00185/#start_ym4_wfp_mz">13.10.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170407T162727+0200" comment=" {{Br. 180.25–48}}"?>
+              <?oxy_comment_end?> und <ref target="B00191">Marx an Engels, 10.11.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170407T163006+0200" comment="{{Br. 185.8–11}}"?>,<?oxy_comment_end?>
+              <ref target="B00192/#start_dgd_zgp_mz">Engels an Marx,
+                11.11.<?oxy_comment_start author="reichhoff" timestamp="20170407T163630+0200" comment="{{Br. 186.10–13}}"?>1866<?oxy_comment_end?></ref>
+              und Marx an Engels, 21. Februar 1867, IISG, Marx-Engels-Nachlass, Sign. L 4471/L VI
+              604). Im Januar 1867 entschloss sich Marx dann, in den ersten Band nur das erste Buch
+              aufzunehmen. In dieser Form erschien das Werk im September 1867 als: Karl Marx: Das
+              Kapital. Kritik der politischen Oekonomie. Erster Band. Buch 1: Der Produktionsprocess
+              des Kapitals. Hamburg_1867. (<ref target="http://telota.bbaw.de/mega/">MEGA²
+                II/5</ref>.). (((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg>
+          abzuschreiben habe u. <seg type="comment"><orig>mein Buchhändler</orig><note xml:id="a7c28b27-dfb5-43d3-8b01-da51b330c837"><persName key="pdrPo.001.004.000003135">Otto Meißner</persName>.</note></seg>
+          <subst>
+            <del>eben</del>
+            <add>schon</add>
+          </subst> lange grollt, u. abgesehn von dem entsetzlichen Zeitverlust, den in diesem
+          Babylon mir <seg type="comment"><orig>das Centralcomité,</orig><note xml:id="ndyw_svh_4y">Central Council oder Provisional Central Council, nach dem Genfer Kongress der IAA
+              1866 General Council – zentrales Leitungsorgan der IAA.</note></seg><seg type="comment"><orig> das Standing Committee,</orig><note xml:id="a7670d8d-64cc-4490-8979-8389f13760a8">Das Exekutivorgan des Zentralrats der
+              IAA. In der ersten Sitzung des Zentralrats der IAA, am 5.&#160;Oktober 1864, wurde ein
+              Subkomitee zur Ausarbeitung der Gründungsdokumente der IAA gebildet. Das Komitee wurde
+              beibehalten und fungierte als Büro des Zentralrats. Seit August 1865 wurde es
+              „Standing Committee“ genannt. Er tagte zwischen den Sitzungen des Zentralrats; Marx
+              gehörte diesem Komitee als Korrespondierender Sekretär für Deutschland
+            an.</note></seg> u. <seg type="comment"><orig>das Direktorcomité des „Workman's
+              Advocate“</orig><note xml:id="nmrb_qzn_4y">
+              <p>Die Zeitung „The Workman’s Advocate“ (London) (((zTheWorkman’s Advocate))) gehörte
+                auf Beschluss des Zentralrats der IAA seit Sommer 1865 der Aktiengesellschaft
+                  <orgName key="ed_isw_cry_sy">„The Industrial Newspaper Company
+                  (Limited)“</orgName>, deren Mitglieder am 22. August 1865 ein Direktorium gewählt
+                hatten. Die Mehrheit der Mitglieder gehörte dem Zentralrat der IAA an (siehe The
+                Industrial Newspaper Company (Limited). Prospectus with a Form of Application for
+                Shares. In: MEGA² I/20. S. 799–801.) Am 25. September 1865 war „The Workman’s
+                Advocate“ von den Delegierten der Londoner Konferenz als offizielles Organ der IAA
+                bestätigt worden. Im November 1865 beurteilte Marx die Zeitung als „immer noch
+                gleich schwach“ (MEGA² III/13. Br. 341.31). Das Blatt wurde reorganisiert und
+                erschien ab 10. Februar 1866 unter dem Titel „The Commonwealth“ (((zThe
+                Commonwealth))) mit Johann Georg Eccarius als Chefredakteur. - Zur Geschichte der
+                Zeitung siehe MEGA² I/20. S. 1896–1900; Smirnova: Bor’ba General’nogo Soveta I
+                Internacionala za sozdanie svoej gazety (izdanie „Bee-Hive“ i „Workman’s Advocate“).
+                S. 21–50; <bibl sameAs="zotero-604880-6PJ756JM" type="secondary">Mares: Die
+                  englischen Publikationsorgane der IAA.</bibl>S. 29–32. (((lSmirnova: Bor’ba
+                General’nogo Soveta I Internacionala za sozdanie svoej gazety (izdanie „Bee-Hive“ i
+                „Workman’s Advocate“).))) (((lMares: Die englischen Publikationsorgane der IAA)))
+              </p>
+            </note></seg><seg type="comment"> </seg>vornimmt, hatte ich die allerverdrießlichsten u.
+          schwierigsten <hi rendition="#u">„Privatconjuncturen“</hi>, die mich nöthigten <seg type="comment"><orig>London eine Zeitlang zu verlassen,</orig><note xml:id="a83342bb-cb6f-44c4-80a8-4573891b029a">Marx hielt sich bei Engels in Manchester
+              vom 20.&#160;Oktober bis 3.&#160;November 1865 auf. Siehe MEGA² III/13. Br.&#160;323
+              und Br._330). (((lMEGA² III/13))) </note></seg> u. die noch nicht in Ordnung gebracht
+          sind, u.s.w. u.s.w.</p>
+        <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_l5k_fs3_nz"/><anchor type="verweisziel" xml:id="start_qny_d2k_nz"/>Aus dem einliegenden Zettel, den ich <hi rendition="#u">heute</hi> erhielt, (oder vielmehr meine <persName key="pdrPo.001.004.000003075">Frau</persName>), siehst Du, daß <seg type="comment"><orig>ein Packet, das ich Dir vor <hi rendition="#u">about 14&#160;Tagen</hi>
+              zuschickte</orig><note xml:id="d5c8cdd5-8d1f-4508-94d8-d288e252b0dc"><persName key="pdrPo.001.004.000000317">J._Ph.&#160;Becker</persName> hatte um die Zusendung
+              der „früheren Arbeiten“ von Marx gebeten. Siehe seinen Brief an Marx ebenda.
+              Br.&#160;348.31–33.</note></seg> von der löblichen französischen Polizei confiscirt
+          worden ist.<anchor type="verweisziel" xml:id="stop_qny_d2k_nz"/> Es enthielt hauptsächlich
+            <seg type="comment"><orig><hi rendition="#u">„Manifeste der communistischen
+              Partei“</hi></orig><anchor type="verweisziel" xml:id="stop_l5k_fs3_nz"/><note xml:id="nvbf_q5h_4y">[Karl Marx, Friedrich Engels:] Manifest der Kommunistischen
+              Partei. Veröffentlicht im Februar 1848. London (1848). Siehe auch <ref target="B00025/#start_yqp_l3p_mz">J. Marx an J. Ph. Becker,
+                29.1.<?oxy_comment_start author="reichhoff" timestamp="20170407T164736+0200" comment="{{Br. 24.18–21}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          <seg type="comment"><orig>Auch einen Zettel, worin ich Dir kurz Deine Fragen
+              beantwortete,</orig><note xml:id="ef6e11ce-fce0-46f8-b4aa-96bef7368cc4">Marx’ Zettel
+              an J._Ph.&#160;Becker, die Antwort auf den nicht überlieferten Brief <persName key="pdrPo.001.004.000000317">Beckers</persName>  vom 28.&#160;November 1865 (siehe
+              MEGA²&#160;III/13. Br.&#160;348.3–4), geschrieben vor dem 16.&#160;Dezember 1865, ist
+              ebenfalls nicht überliefert.</note></seg> Dir anzeigte, daß <hi rendition="#u"><persName key="pdrPo.001.004.000000354">Bender</persName></hi> willig ist, <seg type="comment"><orig>daß ich Deinen Aufruf <hi rendition="#u">englisch</hi> im <hi rendition="#u"><bibl sameAs="zzWorkman’s Advocate">„Workman’s Advocate“</bibl></hi>
+              erscheinen ließ</orig><note xml:id="d742fd90-fe47-4e58-be10-ab4e68fc94c6">[Johann
+              Philipp Becker:] Rundschreiben der deutschen Abtheilung des Zentralcomités der
+              Internationalen Arbeiterassociation für die Schweiz an die Arbeiter. Genf, den
+              1.&#160;November 1865. [Flugbl.] (RGASPI, Sign.&#160;f.&#160;21, op.&#160;1,
+              d.&#160;342). (((l[Becker, Johann Philipp:] Rundschreiben der deutschen Abtheilung des
+              Zentralcomités der Internationalen Arbeiterassociation für die Schweiz an die
+              Arbeiter. Genf, den 1.&#160;November 1865. [Flugbl.] (RGASPI, Sign.&#160;f.&#160;21,
+              op.&#160;1, d.&#160;342).))) Becker rief dazu auf, in der Schweiz und in Deutschland
+              weitere Sektionen der IAA zu bilden. Der Text wurde in deutschen und schweizerischen
+              Zeitungen nachgedruckt. Marx berichtete in der Sitzung des Zentralrats der IAA am
+              28.&#160;November 1865 über das Rundschreiben und schlug vor, Auszüge daraus zu
+              veröffentlichen (The Minute Book 1864–1866. In: MEGA²&#160;I/20. S.&#160;367.12–15).
+              (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20. S._265–450))) Diese erschienen im
+              „Workman’s Advocate“. London. Nr.&#160;145 vom 16.&#160;Dezember 1865. S.&#160;4,
+              unter dem Titel „The International Working Men’s Association“. (((l[Becker,Johann
+              Philipp:] Rundschreiben der deutschen Abtheilung des Zentralcomités der
+              Internationalen Arbeiterassociation für die Schweiz an die Arbeiter. Genf, den
+              1.&#160;November 1865. [Flugbl.] (RGASPI, Sign.&#160;f.&#160;21, op.&#160;1,
+              d.&#160;342))) ) (((lThe_International Working Men’s Association. In: The Workman’s
+              Advocate“. London. Nr.&#160;145, 16.&#160;Dezember 1865. S.&#160;4))) </note></seg>
+          ditto <seg type="comment"><orig>einen Bericht über die Schweizer Thätigkeit</orig><note xml:id="a5f50597-083d-4a8c-a401-9f74028a69b2">[Johann Philipp Becker:] Die deutsche
+              Abtheilung (aus Schweizern und Deutschen bestehend)&#160;… In: Der Vorbote. Genf.
+              Jg.&#160;1. Nr.&#160;1, Januar 1866. S.&#160;12–14. (((l[Becker, Johann Philipp:] Die
+              deutsche Abtheilung (aus Schweizern und Deutschen bestehend)&#160;… In: Der Vorbote.
+              Genf. Jg.&#160;1. Nr.&#160;1, Januar 1866. S.&#160;12–14. ))) </note></seg> u.s.w.</p>
+        <p sameAs="MBTextmitEinzug">Der Grund, <seg type="comment"><orig>warum wir beschlossen
+              keinen officiellen Report über die <subst>
+                <del>Conferenzen</del>
+                <add>Conferenz</add>
+              </subst><note xml:id="nar1_d4d_by"> </note> zu veröffentlichen,</orig><note xml:id="nimt_3bd_3y">
+              <p rend="endnote text">Die Londoner Konferenz der IAA (25.–29.&#160;September 1865).
+                Die Konferenz bereitete den ersten Kongress vor (siehe <ref target="B00004/#nrk1_sfc_3y">Erl. zu Marx an Engels,
+                  5.1.<?oxy_comment_start author="lindenberg" timestamp="20170508T095713+0200" comment="{{Erl. 3d}}"?>1866<?oxy_comment_end?></ref>).
+                - Nachdem die französischen Teilnehmer ihren Bericht veröffentlicht hatten, schlug
+                Marx dem Zentralrat am 21.&#160;November 1865 vor, auf die Veröffentlichung eines
+                offiziellen Berichts zu verzichten, was Zustimmung fand. (The_Minute Book 1864–1866.
+                In: MEGA²&#160;I/20 S.&#160;365.20–27; MEGA² III/13. Br.&#160;341.34–45).
+                (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20. S._265–450))) (((lMEGA²
+                III/13))) </p>
+            </note></seg> war, – abgesehn vom Geldmangel u. dem Umstand, daß wir durch <hi rendition="#u">die Statuten</hi> verpflichtet sind, einen allgemeinen Bericht dem
+          Congress vorzulegen, also double emploi zu vermeiden – <add>wesentlich</add> der, daß die
+          Einweihung des Publicums in den Thatbestand, speziell die sehr „fragmentarische“ Natur der
+          Conferenz, uns mehr schaden als nützen u. unsern <subst>
+            <del>Gegenstr<sic ana="#break-off"/></del>
+            <add>Gegnern</add>
+          </subst> eine nützliche Handhabe bieten würde. Wir wußten, daß zwei Mitglieder des
+          Centralcomité, <persName key="pdrPo.001.004.000002770">Le Lubez</persName> u. <persName key="pdrPo.001.004.000004915">Vésinier</persName>, nur darauf warteten, diese
+          Gelegenheit beim Schopf zu greifen. <seg type="comment"><orig>Die Ereignisse haben dieß
+              bestätigt. Erst Vésinier’s Denunciation des Centralcomité u. der Conferenz im <hi rendition="#u">„L’Écho de </hi><bibl sameAs="zzL’Écho de Verviers"><hi rendition="#u">Verviers“</hi></bibl></orig><note xml:id="a20aa180-8a8f-4247-8f3f-9536ea37ab70"><bibl sameAs="zotero-604880-JHAJAJ6W" type="primary">[Pierre Vésinier:] L’Association Internationale des Travailleurs. Un
+                des membres du comité&#160;… In: L’Écho de Verviers. Nr.&#160;293, 16.&#160;Dezember
+                1865.</bibl> S.&#160;1/2; [derselbe:] L’Association Internationale des Travailleurs.
+              Fin. Ebenda. Nr.&#160;294, 18.&#160;Dezember 1865. S.&#160;2/3. (((l[Vésinier,Pierre:]
+              L’Association Internationale des Travailleurs. Un des membres du comité&#160;… In:
+              L’Écho de Verviers. Nr.&#160;293, 16.&#160;Dezember 1865. S.&#160;1/2; [derselbe:]
+              L’Association Internationale des Travailleurs. Fin. Ebenda. Nr.&#160;294,
+              18.&#160;Dezember 1865. S.&#160;2/3))) </note></seg>. <seg type="comment"><orig>Gleich
+              darauf im selben Blatt des „Le Lubez“ Principienerklärung u. <expan resp="editor" sameAs="dottet_underline">Statuten<ex>ent</ex>wurf</expan>,</orig><note xml:id="nvgc_fqd_by"><bibl sameAs="zotero-604880-5G29RJAX" type="primary">[Victor Le
+                Lubez:] Association internationale des travailleurs. Exposition de principes. In:
+                L’Écho de Verviers. Nr.&#160;301, 27.&#160;Dezember 1865.</bibl> S.&#160;2. Siehe
+                <ref target="B00004">Marx an Engels
+                5.1.<?oxy_comment_start author="reichhoff" timestamp="20170314T102958+0100" comment="{{Br. 3}}"?>1866<?oxy_comment_end?></ref>.
+              (((l[Le_Lubez, Victor:] Association internationale des travailleurs. Exposition de
+              principes. In: L’Écho de Verviers. Nr.&#160;301, 27.&#160;Dezember 1865.
+              S.&#160;2.)))</note></seg> die er, im Namen der von ihm als Gegengewicht gegen uns
+          gestifteten <seg type="comment"><orig>französischen Branche in London,</orig><note xml:id="npxl_szj_3y">Siehe  <ref target="B00004/#b67c4504-42c6-422c-ac87-3b4ae9f7e6fc">Erl. zu Marx an Engels,
+                5.1.1866<?oxy_comment_start author="lindenberg" timestamp="20170508T101047+0200" comment="{{Erl. 3b}}"?>.<?oxy_comment_end?></ref></note></seg>
+          der Association aufzuoctroyiren gedachte. Unterdeß ist diese Intrigue vereitelt worden.
+          Die Branche ist vom Stifter abgefallen. Ihre zwei besten Männer, <persName key="pdrPo.001.004.000002885">Longuet</persName> (Redacteur der <hi rendition="#u">„Rive
+            </hi><bibl sameAs="zzLa Rive Gauche"><hi rendition="#u">Gauche“</hi></bibl>) u.
+            <persName key="ed_glf_vsn_cz">Crespel</persName> sind in das Centralcomité eingetreten.
+            <seg type="comment"><orig>Letzteres hat beschlossen, daß <persName key="pdrPo.001.004.000004915">Vésinier</persName> seine Verläumdungen zu beweisen
+              hat oder expellirt wird.</orig><note xml:id="a3708190-daed-4407-8696-6d48463fdd5b">Siehe The_Minute Book 1864–1866. In: MEGA²&#160;I/20 S.&#160;374.25–28, 376.1–14 und
+              378.14–379.22. (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20. S._265–450)))
+            </note></seg></p>
+        <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_h4t_tdx_mz"/>Ich kann
+          Dir <seg type="comment"><orig><hi rendition="#u">pro nunc</hi></orig><note xml:id="nudn_cyv_ty">gegenwärtig (lat.).</note></seg>
+          <del rendition="#s">fern<sic ana="#break-off"/></del>
+          <seg type="comment"><orig>keinen Artikel schicken. Ich habe <hi rendition="#u">nicht eine
+                freie Stunde</hi>.</orig><note xml:id="nlwx_kzv_ty">Siehe J. Ph. Becker an Marx, 18.
+              Dezember 1865 (MEGA² III/13. Br. 348.11–12).</note></seg> Dagegen wird <hi rendition="#u">Engels</hi> es thun, sobald er <seg type="comment"><orig>die erste <bibl sameAs="zzDer Vorbote">Nummer</bibl></orig><note xml:id="nity_vrd_by">Der Vorbote.
+                <bibl sameAs="zzDer Vorbote">Genf.</bibl> Jg.&#160;1. Nr.&#160;1.</note></seg>
+          gesehn u. weiß, <seg type="comment"><orig>wo u. wie.</orig><note xml:id="njnx_lbw_ty">Siehe MEGA²_III/13. Br. 351.26–32 und <ref target="B00004">Marx an Engels,
+                5.1.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170407T165542+0200" comment="{{Br. 3.22–27}}"?>.<?oxy_comment_end?></note></seg><seg type="comment"> </seg>
+          <seg type="comment"><orig>Auch <persName key="pdrPo.001.004.000002822"><hi rendition="#u">Liebknecht</hi></persName> von Leipzig aus.</orig><note xml:id="a995e3e6-38f5-4714-baac-2c84e95ff807">Siehe <ref target="B00013">Marx an
+                Engels,
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170407T171351+0200" comment="{{Br. 12.26–34}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+          <seg type="comment"><orig>Ditto werde ich deßwegen an <pb/> Dr&#160;<persName key="pdrPo.001.004.000002616">Kugelmann</persName> nach Hannover
+              schreiben.</orig><note xml:id="f4c2eaf0-15f9-4fdf-a358-febbe5585d1e">Siehe <ref target="B00012">Marx an L. Kugelmann
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170314T103354+0100" comment="{{Br. 11}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          <anchor type="verweisziel" xml:id="start_zqt_scx_mz"/>Ditto an <subst>
+            <del rendition="#s"><hi rendition="#uu">Stumpf</hi></del>
+            <add place="superlinear"><hi rendition="#u">Stumpf</hi></add>
+          </subst>
+          <anchor type="verweisziel" xml:id="stop_zqt_scx_mz"/><seg type="comment"><orig>in
+              Mainz.</orig><anchor type="verweisziel" xml:id="stop_h4t_tdx_mz"/><note xml:id="d7fce871-6c74-40d1-a30d-2d770d0ad88c"><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Marx’ Brief an
+                <persName key="pdrPo.001.004.000004646">Paul Stumpf</persName>, geschrieben
+              vermutlich ebenfalls am 15._Januar 1866, ist nicht überliefert.<?oxy_custom_end?>
+              Siehe <ref target="B00017/#start_h2b_xmp_mz">P. Stumpf an Marx,
+                18.1.<?oxy_comment_start author="reichhoff" timestamp="20170407T172050+0200" comment="{{Br. 16.19–23}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+        </p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_my4_mkk_nz"/><orig>Das <bibl sameAs="zzJournal de l’Association Internationale des Travailleurs">Blatt</bibl> von
+                <hi rendition="#u"><persName key="pdrPo.001.004.000001278">Dupleix</persName></hi>,</orig><note xml:id="e5cbc7c1-af98-4adb-b437-997e0a5fae44">“Journal de l’Association Internationale des Travailleurs. Section de la Suisse
+              romande“. (((zJournal de l’Association Internationale des Travailleurs. Section de la
+              Suisse romande))) Die erste Nummer erschien am 17. Dezember 1865 in Genf. Siehe auch
+              MEGA² IIII/13.Br. 348.5-7.</note></seg> N.&#160;1, ist schwach. <persName key="pdrPo.001.004.000002417">Jung</persName> hat ihm deßwegen geschrieben.<anchor type="verweisziel" xml:id="stop_my4_mkk_nz"/></p>
+        <p sameAs="MBTextmitEinzug"><persName key="pdrPo.001.004.000002822">Liebknecht</persName> wohnt <hi rendition="#u">(Adresse: </hi><seg type="comment"><orig><hi rendition="#u">J.&#160;Miller)</hi></orig><note xml:id="e5c174e5-6024-403d-853d-9c49d296ea55">John Miller – Deckname <persName key="pdrPo.001.004.000002822">Wilhelm Liebknechts</persName>. </note></seg>
+          2,&#160;Gerichtsweg, Leipzig.</p>
+        <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_ufc_p55_mz"/>Hier ist
+          die Bewegung in einer Art gut vorangegangen, nach der andern Seite schlecht. <seg type="comment"><orig>Die von uns gestiftete Reformligue</orig><note xml:id="ad3d64b6-cc97-4e64-a37d-88309702e416">Der Beschluss zur Gründung der Reform
+              League in Großbritannien als einer Vereinigung zum Kampf für allgemeines, gleiches und
+              geheimes Wahlrecht für Männer wurde auf Initiative des Zentralrats der IAA am
+              23.&#160;Februar 1865 auf einem Meeting in der Londoner St.&#160;Martin’s Hall
+              gefasst. Die führenden Organe der Reform League – Central Office und Executive
+              Committee – wurden Ende März 1865 gewählt. Von zwölf Mitgliedern des Executive
+              Committee gehörten sechs dem Zentralrat der IAA an. Sekretär war George <persName key="pdrPo.001.004.000002244">Howell</persName>.</note></seg> hat <seg type="comment"><orig>ein Massenmeeting für allgemeines Stimmrecht gehalten, grösser als
+              ich es je in London sah.</orig><note xml:id="de3efba0-912a-4f0d-9099-88a83e4b4163">
+              <p rend="endnote text">Marx bezieht sich auf das am 12.&#160;Dezember 1865 von der
+                Reform League in der St.&#160;Martin’s Hall veranstaltete Massenmeeting. - George
+                  <persName key="pdrPo.001.004.000003494">Odger, </persName> Mitglied des
+                Zentralrats der IAA, kritisierte in seiner Rede die verschiedenen liberalen
+                Reformprojekte und forderte das allgemeine Wahlrecht (Wahlrecht für die gesamte
+                erwachsene männliche Bevölkerung). Die Teilnehmer des Meetings stimmten einmütig der
+                von der Reform League vorgeschlagenen Resolution sowie einer Petition an das
+                Parlament zu. (Siehe: Great demonstration at Saint Martin’s Hall. In: The Workman’s
+                Advocate. London. Nr.&#160;145, 16.&#160;Dezember 1865. S. 5.)
+                (((lGreat_demonstration at Saint Martin’s Hall. In: The Workman’s Advocate. London.
+                Nr.&#160;145, 16.&#160;Dezember 1865. S.&#160;5))) </p>
+            </note></seg> Es sprachen nur Arbeiter. <anchor type="verweisziel" xml:id="stop_ufc_p55_mz"/><seg type="comment"><orig>Die <hi rendition="#u"><bibl sameAs="zzThe Times">Times</bibl></hi> selbst war erschreckt u. brachte 2&#160;
+                <del rendition="#s">Art<sic ana="#break-off"/></del> Leitartikel über den
+              „häklichen“ casus.</orig><note xml:id="c851ad89-b5d2-4db5-8a09-2957b5b8ada3">Siehe
+                <bibl sameAs="zotero-604880-GJF3HWDT" type="primary">Last night a meeting&#160;...
+                In: The Times. London. Nr.&#160;25&#160;367, 13.&#160;Dezember 1865.</bibl>
+              S.&#160;5; (((lLast night a meeting&#160;... In: The Times. London.
+              Nr.&#160;25&#160;367, 13.&#160;Dezember 1865. S.&#160;5.))) They who remember&#160;...
+              [Leitart.] In: The Times. London. Nr.&#160;25&#160;368, 14.&#160;Dezember 1865.
+              S.&#160;8. (((lThey who remember&#160;... [Leitart.] In: The Times. London.
+              Nr.&#160;25&#160;368, 14.&#160;Dezember 1865. S.&#160;8))) Siehe auch <ref target="B00012/#start_n2f_snp_mz">Marx an L. Kugelmann,
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170407T172907+0200" comment="{{Br. 11.23–31}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          Andrerseits nimmt diese Bewegung unsre besten Arbeiterkräfte zu sehr in Anspruch.</p>
+        <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_fkq_br5_mz"/>Der <hi rendition="#u"><bibl sameAs="zzThe Workman’s Advocate">„Workman’s Advocate“</bibl></hi>
+          ist schwach. <seg type="comment"><orig>Jezt, unter <persName key="pdrPo.001.004.000001296"><hi rendition="#u">Eccarius</hi>’</persName> Redaction, wird er sich
+              bessern.</orig><note xml:id="d64f0843-0cda-4bef-b3b9-1eca06715057">Zur Reorganisation
+              der Zeitung „The Workman’s Advocate“ (((zThe_Workman’s Advocate))) siehe  <ref target="B00007/#nmrb_qzn_4y">Erl. zu Marx an J. Ph. Becker, zwischen
+                9.u.15.1.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170509T133406+0200" comment="{{Erl. 6f}}"?>.<?oxy_comment_end?></note></seg>
+          Aber die Schwierigkeiten die Geldmittel beizutreiben sind enorm.<anchor type="verweisziel" xml:id="stop_fkq_br5_mz"/></p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_knb_qtp_mz"/><anchor type="verweisziel" xml:id="start_rg1_qtv_mz"/>Aus
+              Berlin habe ich einen Brief <del>unt<sic ana="#break-off"/></del> erhalten, gezeichnet
+              v. Wolff, <persName key="pdrPo.001.004.000003176">Metzner</persName> u. anderen
+              Arbeitern,</orig><note xml:id="c33b58f6-92e1-471f-8f47-b0a19cd6ff45">Marx hat sich
+              verschrieben. Er meint <persName key="pdrPo.001.004.000004960">August Vogt</persName>,
+              den er hier „Wolff“ nennt (siehe MEGA² III/13. Br.&#160;335). Zu Marx' Antwort siehe
+                <ref target="B00013/#start_zpv_fpp_mz">Marx an Engels,
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170407T173813+0200" comment="{{Br. 12.11–12}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00013/#ea342bf1-508d-46f6-af5f-e14dc006ae9d">Erl. zu Marx an Engels
+                15.1.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170509T134116+0200" comment="{{Erl. 12e}}"?>.<?oxy_comment_end?></note></seg>
+          worin sie mit Einsicht u. Kritik den jetzigen Stand der deutschen Arbeiterbewegung
+            beurtheilen.<anchor type="verweisziel" xml:id="stop_knb_qtp_mz"/> Unkritisch ist nur ihr
+          Verlangen, ich solle nach Berlin kommen, u. die Sache in die Hand nehmen. <seg type="comment"><orig>Sie müssen doch wissen, daß die pr. Reg. meine Domicilirung in
+              Preussen „verboten“ hat.</orig><anchor type="verweisziel" xml:id="stop_rg1_qtv_mz"/><note xml:id="fa515625-6928-465c-8d47-b0b93e165937">Marx wurde nach der Amnestie von
+              1861 die Renaturalisation verweigert. Siehe den Briefwechsel zwischen Marx und von
+              Zedlitz-Neukirch (MEGA² III/11. Br.&#160;258, Br._259, Br._264, Br._269, Br._275,
+              Br._277, Br._280, Br._287) sowie Lassalle an Marx (ebenda. Br.&#160;317.130–133,
+              Br._361.15–17 und die Beilage S.&#160;1329/1330). Siehe auch Dlubek: Auf der Suche
+              nach neuen politischen Wirkungsmöglichkeiten. S.&#160;142–175. (((lDlubek: Auf der
+              Suche nach neuen politischen Wirkungsmöglichkeiten))) (((lMEGA²&#160;III/11)))
+              (((lMEGA²&#160;III/13))) </note></seg></p>
+        <p sameAs="MBTextmitEinzug">Bevor ich von Dir höre, <hi rendition="#u">wie</hi> ich Dir <seg type="comment"><orig>die „Manifeste“</orig><note xml:id="dd569cdc-6ee7-4475-b1bc-903c28b14bd5">Siehe <ref target="B00007/#nvbf_q5h_4y">Erl. zu Marx an J. Ph. Becker, zwischen
+              9.u.15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170509T134623+0200" comment="{{Erl. 6i}}"?></note><?oxy_comment_end?></seg>
+          zukommen lassen kann, <seg type="comment"><orig>will ich ein Stück versuchsweise <hi rendition="#u">über Mainz</hi> schicken.</orig><note xml:id="aae3fbec-8311-4724-88e0-04d2ebd6566a">In Mainz wohnte <persName key="pdrPo.001.004.000004646">Paul Stumpf</persName>, ein Kampfgefährte von Marx.
+            </note></seg> Du kannst vielleicht Einiges daraus für Dein Blatt brauchen.</p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Die deutschen Sectionen werden am besten thun, sich einstweilen in Genf
+              aufnehmen zu lassen u. mit Dir in <expan resp="editor" sameAs="dottet_underline">f<ex>or</ex>tlaufende</expan> Verbindung zu treten. Sobald sich etwas Derartiges
+              ereignet, zeige es an, damit ich irgend einen Fortschritt in Deutschland <hi rendition="#u">hier</hi> endlich mittheilen kann.</orig><note xml:id="bacdc997-b8ee-4c1b-9872-3db7a910ad14">
+              <p rend="endnote text">Preußische und ähnliche Gesetze in anderen deutschen Staaten
+                begrenzten die Möglichkeiten der Arbeiterorganisationen, sich zu vereinigen oder
+                anderen Organisationen anzuschließen. Siehe MEGA²&#160;III/13. Br.&#160;98.9–13;
+                Karl Marx: Draft for a report to the Central Council&#160;… In: MEGA² I/20.
+                S.&#160;59.5–6 (((lMarx,Karl: Draft for a report to the Central Council&#160;… In:
+                MEGA² I/20. S._59))) und The_Minute Book 1864–1866. In: MEGA²&#160;I/20
+                S.&#160;296.6–7. (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20. S._265–450)))
+                Diese Sachlage zwang Marx, zur Bildung kleiner, örtlicher Sektionen aufzurufen und
+                für die IAA Einzelmitgliedschaften zu gewinnen (siehe The_Minute Book 1864–1866. In:
+                MEGA²&#160;I/20. S.&#160;366.1–6 und MEGA²&#160;III/13. Br.&#160;343.28–40).
+                (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20. S._265–450)))
+                (((lMEGA²&#160;III/13))) - In Genf wurde am 11.&#160;Oktober 1864 eine der ersten
+                Sektionen der IAA gebildet, sie vereinigte die französich- und deutschsprachigen
+                Arbeiter. Seit dem 18.&#160;August 1865 trennte sie sich in die Section française de
+                Genève de l’A.I.T. und die Deutsche Sektion Genf der IAA (Sektionsgruppe der
+                deutschen Sprache) sowie je ein Zentralkomitee für die romanische und
+                deutschsprachige Schweiz. Siehe Minutes of the London Conference. In:
+                MEGA²&#160;I/20. S.&#160;456.10–16, 461.16–21. Die Deutsche Sektion Genf wurde zum
+                Organisationszentrum nicht nur für deutschsprachige Sektionen in der Schweiz,
+                sondern auch für die Sektionen der IAA in Deutschland. (((lMinutes of the London
+                Conference. In: MEGA²&#160;I/20.S._453–476)))  </p>
+            </note>
+          </seg></p>
+        <p sameAs="MBTextmitEinzug">Ich schicke diesen Brief unter <persName key="pdrPo.001.004.000001278">Dupleix</persName> Adresse, von wegen der „franz.
+          Confiscation“. Mir scheint das Empire zu wackeln. D’abord die Geschichten mit Mexico u.
+          den U.St. <seg type="comment"><orig>Dann die Meuterei von 3&#160;fzsischen
+              Regimentern.</orig><note xml:id="d2800d63-c8c5-47ca-9850-daa256487b96">Am
+              27.&#160;November 1865 hatten auf Martinique drei Zuavenregimenter gegen ihre
+              Verschiffung nach Mexiko gemeutert.</note></seg> Dann <seg type="comment"><orig>der
+              Studentenkrawall.</orig><note xml:id="e885d6cf-3dab-4eb3-8c4c-d78011cc10f0">Zu den
+              Studentenunruhen in Frankreich siehe  <ref target="B00003/#fdf0e9a1-43c7-49a4-953f-de75b43bccda">Erl. zu Engels an Marx,
+                4.1.1866.<?oxy_comment_start author="lindenberg" timestamp="20170509T135456+0200" comment="{{Erl. 2g}}."?></ref><?oxy_comment_end?></note></seg>
+          Die Kopfverlierei des <persName key="pdrPo.001.004.000003392"><expan resp="editor" sameAs="dottet_underline">Bonap<ex>arte</ex></expan></persName>, wie sie sich in
+          seinem Zank mit England über die Erneurung <seg type="comment"><orig>des „<expan resp="editor" sameAs="dottet_underline">Auslieferung<ex>s</ex>vertrags</expan>“</orig><note xml:id="f9f1b744-f273-4fba-8f5b-85e8ec92ac7c">Im Jahre 1865 versuchte Frankreich ohne
+              Erfolg, Großbritannien zu bewegen, einen Vertrag von 1843 über die gegenseitige
+              Auslieferung von Kriminellen auch auf Personen auszudehnen, welche politischer
+              Vergehen beschuldigt wurden.</note></seg> zeigt – u. im Verbot der servilen <hi rendition="#u"><bibl sameAs="zzL’Indépendance Belge">„Indép. Belge“</bibl></hi>. Endlich
+          die <hi rendition="#u">Handelskrise</hi>, die in Folge des jetzigen englischen, resp.
+          europäischen Ueberimports nach den U.&#160;States sehr beschleunigt werden wird.</p>
+        <p sameAs="MBTextmitEinzug">Besten Gruß von <persName key="pdrPo.001.004.000003075">Frau</persName> u.
+            <persName key="pdrPo.001.004.000003074">Kind</persName>.</p>
+        <closer sameAs="MBUnterschrift">
+          <salute>Dein <lb/></salute>
+          <signed>K. Marx </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

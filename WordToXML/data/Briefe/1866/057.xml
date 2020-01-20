@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00061" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>57</idno>Karl Marx an Friedrich Engels in Manchester. London, Samstag, 10. März 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4443/L VI 576</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format 266&#160;×&#160;212&#160;mm.
+                            Die erste Seite hat Marx vollständig beschrieben, die übrigen drei sind
+                            leer. Schreibmaterial: schwarze Tinte.</p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung des
+                                                  Briefes: „12“.</p><p>Marx beantwortet Engels' Brief, geschrieben zwischen 8. und 10.&#160;März 1866 (Engels an Marx,
+                                                  zw. 8. u. 10.3.1866).</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1944</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: gekürzt: Bw&#160;3 (1913). S.&#160;300</bibl>.</witness><witness><bibl>vollständig: MEGA<hi rendition="#sup">1</hi> III/3 (1930). S.&#160;314.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-03-10"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:50Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 10 March. 1866.</dateline><salute sameAs="MBAnrede">Dear Fred,</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Hast Du meine Zeilen v. letztem Dienstag
+                                                  erhalten?</orig><note xml:id="fad71e7e-3585-4bab-9795-ff7400c9be3e">Siehe <ref target="B00055">Marx an Engels,
+                                                  6.3.<?oxy_comment_start author="reichhoff" timestamp="20170315T155052+0100" comment="{{Br. 52}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        Ich muß das wissen, um sicher zu sein, ob mit meinen Briefen
+                                        interferirt wird. <seg type="comment"><orig>Adresse war nach
+                                                  Mrs. <persName key="pdrPo.001.004.000000698">Burns</persName>.</orig><note xml:id="e68dc2c1-ba1c-453d-91fc-c267800dda65">Seit
+                                                  August 1864 bis zum Umzug nach London im September
+                                                  1870 hatte Engels für <persName key="pdrPo.001.004.000000698">Lydia
+                                                  Burns</persName> ein Haus in 86&#160;Mornington
+                                                  Street, Stockport Road, Chorlton-on-Medlock,
+                                                  Manchester angemietet. Siehe Whitfield: Frederick
+                                                  Engels in Manchester. S.&#160;38/39; derselbe: Die
+                                                  Wohnorte Friedrich Engels’ in Manchester von
+                                                  1850–1869. S.&#160;92.
+                                                  (((lWhitfield,Roy:_Frederick Engels in Manchester.
+                                                  Manchester 1988))) (((lWhitfield,Roy:_Die Wohnorte
+                                                  Friedrich Engels’ in Manchester von 1850–1869. In:
+                                                  Nachrichten aus dem Engels-Haus. H. 3. Wuppertal
+                                                  1980. S. 87–99.))) </note></seg></p><p sameAs="MBTextmitEinzug">Wenn ich überhaupt an die See soll, so muß es jetzt geschehn, da ich
+                                        keine Zeit zu verlieren habe. Ich sagte Dir <seg type="comment"><orig>in meinem letzten
+                                                  Brief,</orig><note xml:id="feadd6a4-c1d5-4f8a-99af-b794d3459513"><ref target="B00055">Marx an Engels,
+                                                  6.3.<?oxy_comment_start author="reichhoff" timestamp="20170315T155425+0100" comment="{{Br. 52}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        daß ich in dem Fall nach <hi rendition="#u">Margate</hi> zu
+                                        gehn wünsche u. dann müßte das hierzu Nöthige jetzt
+                                        geschehn. Ich fragte Dich auch in dem Brieflein, was
+                                                <persName key="pdrPo.001.004.000001969">Gumpert</persName> unter der „Kur“ versteht? Ob
+                                        Fortnehmen von Arsenik etc oder was?</p><p sameAs="MBTextmitEinzug">In <seg type="comment"><orig>dem „International <expan resp="editor" sameAs="dottet_underline">Counc<ex>il</ex></expan>“</orig><note xml:id="nswj_tct_zy">Der Zentrarat der
+                                                IAA.</note></seg> u. <seg type="comment"><orig><expan resp="editor" sameAs="dottet_underline">d<ex>er</ex></expan>
+                                                  „Zeitungsdirection“</orig><note xml:id="ndlj_vct_zy">Das Direktorium von „The
+                                                  Commonwealth“. Siehe <ref target="B00036/#nxqw_mn4_1y">Erl. zu Marx an
+                                                  Engels,
+                                                  10.2.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170517T105534+0200" comment="{{Erl. 33i}}."?></note><?oxy_comment_end?></seg>
+                                        <seg type="comment"><orig>geht alles kunterbunt durch
+                                                  einander, u. es zeigt sich grosse Lust gegen den
+                                                  abwesenden „Tyrannen“ zu revoltiren, aber auch
+                                                  zugleich die ganze Boutique in den Dreck zu
+                                                  fahren.</orig><note xml:id="nytb_2dt_zy">Siehe
+                                                  <ref target="B00075">Marx an Engels,
+                                                  24.3.<?oxy_comment_start author="reichhoff" timestamp="20170315T155601+0100" comment="{{Br. 72}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        Meine Wunde (vom letzten <expan resp="editor" sameAs="dottet_underline">Karb<ex>unkel</ex></expan>) ist so weit zugeheilt (u.
+                                        bisher nichts neues nachgekommen), daß ich <del> im <sic ana="#break-off"/></del>
+                                        <seg type="comment"><orig>nächsten Montag u. Dienstag unter
+                                                  die Leute gehn könnte,</orig><note xml:id="a2eadb9f-00d7-4678-bc70-36680da10dd1">Marx
+                                                  besuchte die Sitzungen des Direktoriums von „The
+                                                  Commonwealth“ und des Zentralrats der IAA Montag,
+                                                  den 12. bzw. Dienstag, den 13.&#160;März 1866.
+                                                  Siehe <ref target="B00075">Marx an Engels,
+                                                  24.3.<?oxy_comment_start author="reichhoff" timestamp="20170522T142533+0200" comment="{{Br. 72}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                                        aber <del> zuglei<ex>ch</ex>
+                                                <sic ana="#break-off"/></del> andrerseits kann ich
+                                                <add>noch</add> kaum diese späten Sitzungen <seg type="comment"><orig>in einem Winkel von
+                                                  Fleetstreet</orig><note xml:id="e346202b-6d4f-49b1-80f7-bcfc2165bc8e">In
+                                                  18_Bouverie Street, Fleet Street fanden von Januar
+                                                  1866 bis 25.&#160;Juni 1867 die Sitzungen des
+                                                  Zentral- bzw. Generalrats der IAA
+                                                statt.</note></seg>
+                                        <subst>
+                                                <del rendition="#s">mitm<ex>achen</ex></del>
+                                        </subst><sic ana="#break-off"/> ertragen, u., was noch
+                                        schlimmer, ich bin noch so nervös gereizt, daß ich
+                                        schwerlich die Stürme innerhalb <seg type="comment"><orig>„der Grenzen der reinen
+                                                  Vernunft“</orig><note xml:id="bd95b605-cd0c-4054-8e99-98a5ecc23f5d">Bezug auf Immanuel Kant: Kritik der reinen
+                                                  Vernunft. (((lKant,I.Kritik der reinen
+                                                  Vernunft)))</note></seg> halten könnte, vielmehr
+                                        zu heftig losplatzen würde, was nicht zweckgemäß.</p><p sameAs="MBTextmitEinzug">Wann endlich kommt <seg type="comment"><orig>Polenartikel I?</orig><note xml:id="bbd71e06-d3a9-405b-bbb9-6293c3132bdc">Friedrich Engels: What have the working classes
+                                                  to do with Poland?&#160;I. [Unterzeichnet:]
+                                                  Frederic Engels. In: The Commonwealth. London.
+                                                  Nr.&#160;159, 24.&#160;März 1866. S.&#160;5. Siehe
+                                                  auch <ref target="B00004">Marx an Engels,
+                                                  5.1.<?oxy_comment_start author="reichhoff" timestamp="20170315T155824+0100" comment=" {{Br._3}}"?>1866<?oxy_comment_end?></ref>,
+                                                  <ref target="B00036">10.2.<?oxy_comment_start author="reichhoff" timestamp="20170315T155933+0100" comment="{{Br._33}}"?>1866<?oxy_comment_end?></ref>,
+                                                  <ref target="B00039">13.2.<?oxy_comment_start author="reichhoff" timestamp="20170315T160041+0100" comment="{{Br._36}}"?>1866<?oxy_comment_end?></ref>,
+                                                  <ref target="B00054">Engels an Marx,
+                                                  5.3.<?oxy_comment_start author="reichhoff" timestamp="20170315T160201+0100" comment="{{Br._51}}"?>1866<?oxy_comment_end?></ref>
+                                                  und <ref target="B00066">Marx an Engels,
+                                                  16.3.<?oxy_comment_start author="reichhoff" timestamp="20170315T160321+0100" comment="{{Br._62}}"?>1866<?oxy_comment_end?></ref>.
+                                                  (((lEngels,[Friedrich]Frederic: What have the
+                                                  working classes to do with Poland?&#160;I. In: The
+                                                  Commonwealth. London. Nr.&#160;159, 24.&#160;März
+                                                  1866. S.&#160;5))) </note></seg></p><closer sameAs="MBUnterschrift"><salute>Dein <lb/></salute><signed>K. M. </signed></closer></div></body></text></TEI>

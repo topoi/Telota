@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00025" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>24</idno>Jenny Marx an Johann Philipp Becker in Genf.
+                                        London, Montag, 29. Januar 1866</title>
+                        </titleStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>IISG</institution>
+                                                <collection>Marx-Engels-Nachlass</collection>
+                                                <idno><idno type="shelfmark">F 2/F 1. Fotosign.
+                                                  5,3&#160;a–c</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus zwei Blättern dünnem,
+                                                  blauem Papier im Format
+                                                  135&#160;×&#160;206&#160;mm. Auf der ersten Seite
+                                                  oben links ovaler roter Aufdruck des Central
+                                                  Council der IAA (siehe Marx an J. Ph. Becker, zw.
+                                                  9. u. 15.1.1866). </p>
+                                                <p>Jenny Marx hat die ersten drei Seiten vollständig
+                                                  beschrieben, die vierte ist leer. Schreibmaterial:
+                                                  schwarze Tinte.</p>
+                                                <p>Von J. Ph.&#160;Beckers Hand: Vermerk mit
+                                                  schwarzer Tinte auf der dritten Seite unten: „<hi rendition="#u">Beantwortet den 1&#160;Marz
+                                                  66</hi>“. </p>
+                                                <p>Von unbekannter Hand: Nummerierung des Briefes:
+                                                  „1“ (Bleistift) auf der ersten Seite oben
+                                                  rechts.</p>
+                                                <p>Die Datierung stützt sich auf den Zusammenhang
+                                                  des Briefes mit dem Schreiben Friedrich
+                                                  <?oxy_comment_start author="strauss" timestamp="20170613T103930+0200" comment="(((nLeßner,Fr.)))"?>Leßners<?oxy_comment_end?>
+                                                  an Marx vom 29.&#160;Januar 1866: Er legt seinem
+                                                  Brief „zeilen für Becker“ bei (siehe dort), die
+                                                  Jenny Marx weiterleitet („Leßners Brief“). Beide
+                                                  beschreiben die Sonntagsversammlung in
+                                                  St.&#160;Martin’s Hall, die „Gestern Abend“, d.h.,
+                                                  nach dem datierten Brief Leßners, am
+                                                  28.&#160;Januar 1866 stattfinden sollte (F. Leßner
+                                                  an Marx, 29.1.1866: „Gestern Abent“ wurde
+                                                  ...).</p>
+                                                <p>Zur Beilage („lege ich diesen Zeilen bei“) siehe
+                                                  Erl.</p>
+                                                <p>J. Ph.&#160;Becker beantwortet den Brief am
+                                                  1.&#160;März 1866 (J. Ph. Becker an J. Marx,
+                                                  1.3.1866).</p>
+                                                <p>Datierung in der Erstveröffentlichung:
+                                                  29.&#160;Januar 1866 bzw. etwa 29.&#160;Januar
+                                                  1866.</p>
+                                        </physDesc>
+                                        <additional>
+                                                <listBibl>
+                                                  <bibl>RGASPI f. 6 op. 1 d. 60</bibl>
+                                                </listBibl>
+                                        </additional>
+                                </msDesc>
+                                <listWit>
+                                        <witness><bibl>Erstveröffentlichung: in russischer
+                                                  Übersetzung: МЭС<hi rendition="#sup">2</hi> 31
+                                                  (1963). S.&#160;492–494</bibl>.</witness>
+                                        <witness><bibl>in der Sprache des Originals: MEW&#160;31
+                                                  (1965). S.&#160;586/587.</bibl></witness>
+                                </listWit>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000003075">Jenny
+                                                Marx</persName>
+                                        <placeName>London</placeName>
+                                        <date when="1866-01-29"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="pdrPo.001.004.000000317">Johann Philipp
+                                                Becker</persName>
+                                        <placeName>Genf</placeName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:38:28Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingAct">
+                                <opener>
+                                        <salute sameAs="MBAnrede"><pb/> Mein lieber Herr
+                                                Becker,</salute>
+                                </opener>
+                                <p sameAs="MBTextohneEinzug">Seit einer Woche liegt mein Mann wieder
+                                        an der frühern gefährlichen u. höchst schmerzhaften
+                                        Krankheit darnieder. Das Leiden greift ihn dieses Mal um so
+                                        mehr an als es ihn von Neuem in dem eben begonnenen
+                                        Abschreiben <seg type="comment"><orig>seines
+                                                  Buches</orig><note xml:id="abfbeb8c-edb9-49e4-bf66-820c14280ed2">Gemeint ist hier Karl Marx: Das Kapital; siehe
+                                                  <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an J. Ph. Becker, zwischen 9. und
+                                                  15.1.1866</ref>.<?oxy_comment_start author="lindenberg" timestamp="20170512T154747+0200" comment="{{Erl. 6b}}"?>
+                                                  <?oxy_comment_end?>(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg>
+                                        unterbricht. Ich glaube, daß dieser neue Ausbruch einzig u.
+                                        allein von Überarbeitung, u. anhaltenden Nachtwachen
+                                        herkommt. <seg type="comment"><orig><subst>
+                                                  <del>Er</del>
+                                                  <add>Karl</add>
+                                                  </subst> bedauert sehr den Sitzungen der
+                                                  „Internationalen“ nicht beiwohnen zu können, da es
+                                                  sich in diesem Moment um die Existenz des
+                                                  workman’s <bibl sameAs="zzThe Workman’s Advocate">advocate</bibl> handelt,</orig><note xml:id="e1b7c348-4a75-4d5a-87f0-b162e47b201d">Siehe <ref target="B00024">F. Leßner an Marx,
+                                                  29.1.<?oxy_comment_start author="reichhoff" timestamp="20170410T132534+0200" comment="{{Br. 23.5–9}}"?>1866<?oxy_comment_end?></ref>
+                                                  und Erl.</note></seg> der bisher mit den größten
+                                        Schwierigkeiten zu kämpfen hatte, u. dem nun fonds von
+                                        Philistern u. Pfaffen angeboten sind. Es gilt nun die Gelder
+                                        in die Hände zu bekommen ohne den „money lenders“
+                                        Concessionen in prinzipieller Hinsicht zu machen. Die den
+                                        Engländern praktisch so nahe liegende <seg type="comment"><orig>Reformfrage</orig><note xml:id="b8a97236-b613-42d9-873d-013173a1a928">Hinweis auf die zweite, 1867 in Kraft getretene
+                                                  Wahlrechtsreform (Second Reform Act
+                                                1867).</note></seg> nimmt auch sehr die Mittel, die
+                                        Zeit u. das Interesse der Arbeiter in Anspruch u. lenkt sie
+                                        sehr von andern Dingen ab.<anchor type="verweisziel" xml:id="start_bhc_1py_nz"/> Ihr „<bibl sameAs="zzDer Vorbote">Vorbote“</bibl> hat Karl u.
+                                        mir außerordentlich wohlgefallen. Das ist männliche Sprache
+                                        u. männlicher Ernst!<anchor type="verweisziel" xml:id="stop_bhc_1py_nz"/>
+                                        <anchor type="verweisziel" xml:id="start_vkj_tbk_nz"/><seg type="comment"><orig><persName key="ed_l54_cks_xy">Leßners</persName> Brief über denselben lege ich
+                                                  diesen Zeilen bei.</orig><anchor type="verweisziel" xml:id="stop_vkj_tbk_nz"/><note xml:id="c5dcd875-cb4d-40a5-9fef-6c1fd9cf4d31">Siehe Friedrich Leßner an J._Ph.&#160;Becker,
+                                                  28.&#160;Januar 1866 (Kopie: RGASPI, Sign.
+                                                  f.&#160;178, op.&#160;1, d.&#160;31/1) sowie <ref target="B00024">F. Leßner an Marx,
+                                                  29.1.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170410T132653+0200" comment="{{Br. 23.3–4}} "?>
+                                                  und<?oxy_comment_end?> Erl. (((lLeßner, Friedrich
+                                                  an Johann Philipp Becker, 28.&#160;Januar 1866
+                                                  (Kopie: RGASPI, Sign. f.&#160;178, op.&#160;1,
+                                                  d.&#160;31/1).))) </note></seg>
+                                        <anchor type="verweisziel" xml:id="start_yqp_l3p_mz"/>Der
+                                        Agent dem ich <seg type="comment"><orig>die
+                                                  Manifeste</orig><note xml:id="ntrw_hjl_5y">[Karl
+                                                  Marx, Friedrich Engels:] Manifest der
+                                                  Kommunistischen Partei. London (1848). Siehe <ref target="B00007/#start_qny_d2k_nz">Marx an J. Ph.
+                                                  Becker,
+                                                  13.1.<?oxy_comment_start author="reichhoff" timestamp="20170410T133157+0200" comment="{{Br. 6.14–18}}"?>1866<?oxy_comment_end?></ref>.
+                                                  (((l[Marx,Karl Friedrich Engels:] Manifest der
+                                                  Kommunistischen Partei. London (1848)
+                                                )))</note></seg> zur Besorgnung brachte, schreibt
+                                        mir <pb/> daß es ihm gelungen ist <subst>
+                                                <del>die</del>
+                                                <add>sie</add>
+                                        </subst> der fr. Polizei zu entziehen u. daß er sie jetzt
+                                        nach Genf spediren kann. <seg type="comment"><anchor type="verweisziel" xml:id="stop_yqp_l3p_mz"/><orig>Sie können aber nicht frankirt werden u.
+                                                  daher bitte ich Sie schreiben zu wollen wieviel
+                                                  Sie dafür ausgelegt haben. Das Geld kann dann
+                                                  zusammen mit dem für die Abonnements des „<bibl sameAs="zzDer Vorbote">Vorboten“ </bibl> Ihnen
+                                                  übersandt werden.</orig><note xml:id="ef79b38c-22ea-4576-a6dd-e89317d75102">Siehe <ref target="B00052/#start_b2j_p2k_nz">J.
+                                                  Ph. Becker, an J. Marx,
+                                                  1.3.1866</ref>.<?oxy_comment_start author="reichhoff" timestamp="20170410T133517+0200" comment="{{Br. 49.62–66}}"?></note><?oxy_comment_end?></seg></p>
+                                <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_pqh_j44_mz"/><anchor type="verweisziel" xml:id="start_gjy_jck_nz"/>In
+                                        religiöser Hinsicht geht jetzt in dem verdumpften England
+                                        auch eine große Bewegung vor sich. Die ersten Männer der
+                                        Wissenschaft <persName key="ed_qq4_dmk_sy">Huxley</persName>
+                                                (<persName key="pdrPo.001.004.000001091">Darwins</persName> Schüler) an der Spitze mit
+                                                <persName key="pdrPo.001.004.000004841">Tyndal</persName> Sir <persName key="pdrPo.001.004.000002945">Charles
+                                                Lyall</persName>
+                                        <persName key="pdrPo.001.004.000000571">Bowring</persName>,
+                                                <persName key="ed_ssj_zc4_1z">Carpenter</persName>
+                                        etc etc geben in St. Martin’s Hall <seg type="comment"><orig>(gloriosen Walzer-Angedenkens)</orig><note xml:id="nlhp_sqq_5y">Möglicherweise eine
+                                                  Erinnerung an die Festveranstaltung in der St.
+                                                  Martin’s Hall am 28. September 1865, anläßlich des
+                                                  Jahrestages der Gründung der IAA.</note></seg>
+                                        höchst aufgeklärte, wahrhaft freisinnige u. kühne
+                                        Vorlesungen für das Volk u. zwar an den Sonntagabenden grade
+                                        zu der Stunde, wo sonst die Schäflein zur Weide des Herrn
+                                        gingen; die Halle war so massenhaft voll u. der Jubel des
+                                        Volkes war so groß, daß <seg type="comment"><orig>am ersten
+                                                  Sonntag Abend, wo ich mit den Mädchen zugegen war,
+                                                  2000&#160;Menschen keinen Einlaß mehr in <subst>
+                                                  <del>die</del>
+                                                  <add>den</add>
+                                                  </subst> zum Ersticken angefüllten Raum finden
+                                                  konnten.<anchor type="verweisziel" xml:id="stop_pqh_j44_mz"/></orig><note xml:id="a8a59cf0-a374-42d8-9502-c7da8d2edbf9"><persName key="pdrPo.001.004.000003075">Jenny
+                                                  Marx</persName> wohnte der Sonntagsvorlesung am
+                                                  7.&#160;Januar 1866 mit den Töchtern <persName key="pdrPo.001.004.000003074">Jenny</persName> und
+                                                  <persName key="pdrPo.001.004.000003076">Laura</persName> bei. An diesem Abend sprach
+                                                  <persName key="ed_qq4_dmk_sy">Thomas
+                                                  Huxley</persName> über „The desirableness of
+                                                  improving natural knowledge“. Siehe The first
+                                                  Sunday night’s meeting&#160;… In: The Workman’s
+                                                  Advocate. London. Nr.&#160;149, 13.&#160;Januar
+                                                  1866. S.&#160;4. (((lThe first Sunday night’s
+                                                  meeting&#160;… In: The Workman’s Advocate. London.
+                                                  Nr.&#160;149, 13.&#160;Januar 1866. S.&#160;4.)))
+                                                </note></seg>
+                                        <seg type="comment"><orig>Drei Mal ließen die Pfaffen das
+                                                  Entsetzliche geschehen</orig><note xml:id="e009fd64-b31a-4443-84fb-baaa9052a54c">Weitere Vorlesungen fanden am 14. und
+                                                  21.&#160;Januar statt. Geplant war eine ganze
+                                                  Serie von Veranstaltungen.</note></seg>
+                                        <seg type="comment"><orig>– Gestern Abend wurde der
+                                                  Versammlung angekündigt, daß keine Vorlesungen
+                                                  mehr gehalten werden dürften, bis der Prozeß der
+                                                  Pfaffen gegen die „Sunday evenings for the <choice>
+                                                  <sic>People</sic>
+                                                  <corr cert="high">People“</corr>
+                                                  </choice>
+                                                  <pb/> entschieden sei.</orig><note xml:id="nbc3_wtq_5y">Der geplante Vortrag von
+                                                  <persName key="ed_cnf_scr_wy">Hodgson</persName>
+                                                  (zum Thema „Many members, but one body“) wurde an
+                                                  diesem Abend, 28. Januar 1866, gehalten. Doch man
+                                                  hatte den Versammelten mitgeteilt, dass die Day
+                                                  observance Society des House of Lords die
+                                                  Fortsetzung der Sonntagsvorlesungen zu verhindern
+                                                  suche. Sie gehe juristisch gegen die Veranstalter
+                                                  vor, indem sie sich auf ein Gesetz von 1781
+                                                  berufe, das öffentliche Veranstaltungen an
+                                                  Sonntagabenden mit Ausnahme von kirchlichen
+                                                  Zusammenkünften verbiete. Ein Prozess sollte zu
+                                                  Ostern stattfinden. Siehe Stoppadge of the Sunday
+                                                  secular lectures. In: The Workman’s Advocate.
+                                                  London. Nr. 152, 3. Februar 1866. S. 2.
+                                                  (((lStoppadge of the Sunday secular lectures. In:
+                                                  The Workman’s Advocate. London. Nr. 152, 3.
+                                                  Februar 1866. S. 2.))) </note></seg> Die
+                                        Entrüstung der Versammlung sprach sich entschieden <del> s
+                                                  <sic ana="#break-off"/></del> aus u. mehr als
+                                        100&#160;£ wurden sogleich zur Führung des Prozesses
+                                        gesammelt. <seg type="comment"><orig>Wie dumm von den
+                                                  Pfäfflein sich da einzumischen.</orig><note xml:id="c1c27b50-d3a2-448f-b35a-fea98edf1da3">Siehe <ref target="B00024">F. Leßner an Marx,
+                                                  29.1.<?oxy_comment_start author="reichhoff" timestamp="20170410T133852+0200" comment="{{Br. 23.10–16}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        Zum Ärger der Bande schlossen die Abende auch noch mit
+                                        Musik. Chöre von <persName key="pdrPo.001.004.000010695">Händel</persName>, <persName key="pdrPo.001.004.000003335">Mozart</persName>,
+                                                <persName key="pdrPo.001.004.000000330">Beethoven</persName>
+                                        <persName key="pdrPo.001.004.000003150">Mendelsohn</persName> u. <persName key="ed_c1h_nnp_3y">Gounod</persName> wurden
+                                        gesungen u. mit Enthusiasmus von den Engländern aufgenommen,
+                                        denen bisher an Sonntagen nur erlaubt <add>war</add>, eine
+                                        Hymne <seg type="comment"><orig>„Jesus, Jesus meek and
+                                                  mild“</orig><note xml:id="ac1423d3-db91-4582-ae1e-e05c335aa1df">
+                                                  Gemeint ist das engl. Kirchenlied „Gentle Jesus,
+                                                  meek and mild“, das oft in der Sonntagsschule
+                                                  gesungen wird.</note></seg> zu grölen oder in den
+                                        Ginpalast zu <seg type="comment"><orig>wandern.</orig><anchor type="verweisziel" xml:id="stop_gjy_jck_nz"/><note xml:id="f6bfc2dd-c6d1-40ee-abb5-899900d73cc9">Die
+                                                  Passagen (Z.&#160;25–49) veröffentlichte <persName key="pdrPo.001.004.000000317">J._Ph.&#160;Becker</persName>, leicht verändert,
+                                                  in seiner Zeitschrift „Der Vorbote“ (Genf). [Jenny
+                                                  Marx:] In religiöser Hinsicht&#160;… In: Der
+                                                  Vorbote. Genf. Jg.&#160;1. Nr.&#160;2, Februar
+                                                  1866. S.&#160;31/32. (MEGA²&#160;I/20.
+                                                  S.&#160;602). ((([Marx,Jenny:] In religiöser
+                                                  Hinsicht&#160;… In: Der Vorbote. Genf. Jg.&#160;1.
+                                                  Nr.&#160;2, Februar 1866. S.&#160;31/32.
+                                                  (MEGA²&#160;I/20. S.&#160;602).)))
+                                        </note></seg></p>
+                                <p sameAs="MBTextmitEinzug">Karl, der heute in großen Schmerzen
+                                        liegt, u. meine Mädchen lassen Sie herzlich grüßen,
+                                        besonders trägt mir <seg type="comment"><orig>die
+                                                  Kleine</orig><note xml:id="bbe67476-a7e1-4fce-b5c7-3bd526c6932b"><persName key="pdrPo.001.004.000003068">Eleanor
+                                                  Marx</persName>. </note></seg> viel Freundliches
+                                        für den „guten <persName key="pdrPo.001.004.000000317">Becker“</persName> auf. Ich aber reiche aus der
+                                        ferne Ihnen die Hand.</p>
+                                <closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u1}</hi>-->Ihre<lb/>Jenny Marx. </closer>
+                        </div>
+                </body>
+        </text>
+</TEI>

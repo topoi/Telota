@@ -1,0 +1,3331 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="ah_register" xml:lang="de" xml:id="prov1154">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Register</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Gehört zur ediarum-App für eXist.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Hybrid: consult project description and document history for details.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>  
+<listOrg>
+   <org xml:id="pdrPo.001.015.000090042">
+      <idno type="mega">1002776</idno>
+      <orgName type="reg">A. Bielefelds</orgName>
+      <orgName type="alt">Bielefeld</orgName>
+      <desc>Verlagsbuchhandlung in Karlsruhe.</desc>
+      <linkGrp>
+         <ptr target="IV/12#957" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090083">
+      <idno type="mega">1007663</idno>
+      <orgName type="reg">A. Duncker’sche</orgName>
+      <orgName type="alt">A. Duncker</orgName>
+      <linkGrp>
+         <ptr target="IV/12#960" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090123">
+      <idno type="mega">1012198</idno>
+      <orgName type="reg">engelA. Heintzmann &amp; Rochussen</orgName>
+      <desc>Firma in London.</desc>
+      <linkGrp>
+         <ptr target="III/11#101" type="page"/>
+         <ptr target="III/11#505" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090143">
+      <idno type="mega">1013207</idno>
+      <orgName type="reg">A. Hübenthal &amp; Co.</orgName>
+      <desc>Verlagsbuchhandlung in Berlin.</desc>
+      <linkGrp>
+         <ptr target="IV/12#955" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090244">
+      <idno type="mega">1021770</idno>
+      <orgName type="reg">A. Petsch &amp; Co.</orgName>
+      <desc>deutsche Buchhandlung in London.</desc>
+      <linkGrp>
+         <ptr target="III/11#291" type="page"/>
+         <ptr target="III/11#598" type="page"/>
+         <ptr target="III/11#694" type="page"/>
+         <ptr target="III/11#884" type="page"/>
+         <ptr target="III/11#1070" type="page"/>
+         <ptr target="III/11#1323" type="page"/>
+         <ptr target="III/13#444" type="page"/>
+         <ptr target="III/13#521" type="page"/>
+         <ptr target="III/13#555" type="page"/>
+         <ptr target="III/13#561" type="page"/>
+         <ptr target="III/13#1034" type="page"/>
+         <ptr target="III/13#1035" type="page"/>
+         <ptr target="III/13#1085" type="page"/>
+         <ptr target="III/13#1088" type="page"/>
+         <ptr target="III/13#1160" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090289">
+      <idno type="mega">1025943</idno>
+      <orgName type="reg">A. S. Sichel</orgName>
+      <desc>Handelsfirma in Manchester.</desc>
+      <linkGrp>
+         <ptr target="III/11#335" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090121">
+      <idno type="mega">1012043</idno>
+      <orgName type="reg">A. W. Hayn</orgName>
+      <desc>Verlagsbuchhandlung in Berlin.</desc>
+      <linkGrp>
+         <ptr target="IV/12#958" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090059">
+      <idno type="mega">1004492</idno>
+      <orgName type="reg">A.&#160;Campbell &amp; Co.</orgName>
+      <desc>Weinhandlung in Edinburgh.</desc>
+      <linkGrp>
+         <ptr target="III/11#504" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090001">
+      <idno type="mega">1000072</idno>
+      <orgName type="reg">Abraham M. &amp; Co.</orgName>
+      <desc>Firma in Berlin.</desc>
+      <linkGrp>
+         <ptr target="III/10#511" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090290">
+      <idno type="mega">1025963</idno>
+      <orgName type="reg">Abraham Siebel Sohn</orgName>
+      <desc>Garn- und Textilfirma in Barmen.</desc>
+      <linkGrp>
+         <ptr target="III/9#254" type="page"/>
+         <ptr target="III/9#261" type="page"/>
+         <ptr target="III/9#268" type="page"/>
+         <ptr target="III/9#273" type="page"/>
+         <ptr target="III/10#149" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090002">
+      <idno type="mega">1000191</idno>
+      <orgName type="reg">Adler &amp; Dietze</orgName>
+      <desc>Verlagsbuchhandlung in Dresden.</desc>
+      <linkGrp>
+         <ptr target="IV/12#957" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090171">
+      <idno type="mega">1015962</idno>
+      <orgName type="reg">Adolf Lange</orgName>
+      <desc>Verlagsbuchhandlung in Altona.</desc>
+      <linkGrp>
+         <ptr target="IV/12#953" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090003">
+      <idno type="mega">1000201</idno>
+      <orgName type="reg">Adolphs &amp; Co.</orgName>
+      <desc>Handelsfirma in London.</desc>
+      <linkGrp>
+         <ptr target="III/10#524" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090335">
+      <idno type="mega">1029675</idno>
+      <orgName type="reg">Albert A. Wenedikt</orgName>
+      <desc>Verlagsbuchhandlung in Wien.</desc>
+      <linkGrp>
+         <ptr target="IV/12#956" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090268">
+      <idno type="mega">1024372</idno>
+      <orgName type="reg">Albert Sacco</orgName>
+      <desc>Verlagsbuchhandlung in Berlin.</desc>
+      <linkGrp>
+         <ptr target="IV/12#957" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090031">
+      <idno type="mega">1002179</idno>
+      <orgName type="reg">Alexander Beck und Sohn(Beck &amp; Sohn)</orgName>
+      <desc>Verlagsbuchhandlung in Schaffhausen.</desc>
+      <linkGrp>
+         <ptr target="IV/12#956" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090005">
+      <idno type="mega">1000633</idno>
+      <orgName type="reg">Allsopp, Samuel &amp; Sons Ltd.</orgName>
+      <orgName type="alt">Burton-upon-Trent</orgName>
+      <desc>britisches Brauereiunternehmen, im Februar 1887 in eine Aktiengesellschaft umgewandelt.</desc>
+      <linkGrp>
+         <ptr target="II/14#263" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090006">
+      <idno type="mega">1000724</idno>
+      <orgName type="reg">Amelang’sche Buchhandlung</orgName>
+      <orgName type="alt">R.&#160;Gärtner</orgName>
+      <desc>Buchhandlung in Berlin.</desc>
+      <linkGrp>
+         <ptr target="III/11#991" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090007">
+      <idno type="mega">1000755</idno>
+      <orgName type="reg">Amsterdamsche Wisselbank</orgName>
+      <desc>niederländisches Bankhaus unter kommunaler Aufsicht, gegründet 1609, verlor seit 1795 seine Bedeutung und wurde 1819 aufgelöst.</desc>
+      <linkGrp>
+         <ptr target="II/15#311" type="page"/>
+         <ptr target="II/15#592" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090009">
+      <idno type="mega">1001075</idno>
+      <orgName type="reg">Ardoin</orgName>
+      <desc>Pariser Bankhaus.</desc>
+      <linkGrp>
+         <ptr target="IV/12#839" type="page"/>
+      </linkGrp>
+   </org>
+            <org xml:id="ed_zmj_ltj_wx">
+               <orgName type="reg">Arnold Hilberg's Verlag</orgName>
+               <desc>Wien</desc>
+            </org>
+   <org xml:id="pdrPo.001.015.000090010">
+      <idno type="mega">1001205</idno>
+      <orgName type="reg">Arnoldische Buchhandlung</orgName>
+      <orgName type="alt">Arnold</orgName>
+      <desc>Verlagsbuchhandlung in Dresden und Leipzig.</desc>
+      <linkGrp>
+         <ptr target="IV/12#953" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090011">
+      <idno type="mega">1001216</idno>
+      <orgName type="reg">Arnstein &amp; Eskeles</orgName>
+      <desc>Bankhaus in Wien.</desc>
+      <linkGrp>
+         <ptr target="III/9#1073" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090012">
+      <idno type="mega">1001234</idno>
+      <orgName type="reg">Artaria &amp; Co.</orgName>
+      <desc>Verlagsbuchhandlung in Wien.</desc>
+      <linkGrp>
+         <ptr target="IV/12#956" type="page"/>
+         <ptr target="IV/12#961" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090117">
+      <idno type="mega">1011374</idno>
+      <orgName type="reg">Arthur Guinness, Son &amp; Co. Ltd.</orgName>
+      <orgName type="alt">Guinneß</orgName>
+      <desc>britisches Brauereiunternehmen, vormals Arthur Guinness &amp; Sons (Dublin), im Oktober 1886 in eine Aktiengesellschaft mit Sitz in London umgewandelt.</desc>
+      <linkGrp>
+         <ptr target="II/14#263" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090013">
+      <idno type="mega">1001269</idno>
+      <orgName type="reg">Asher &amp; Co.</orgName>
+      <desc>Buchhandlung in Berlin.; Buchhandlung in Berlin, mit Filiale in London.</desc>
+      <linkGrp>
+         <ptr target="III/9#495" type="page"/>
+         <ptr target="III/10#332" type="page"/>
+         <ptr target="III/13#345" type="page"/>
+         <ptr target="III/13#1042" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090014">
+      <idno type="mega">1001380</idno>
+      <orgName type="reg">Aubertin Brothers</orgName>
+      <orgName type="alt">Aubertius</orgName>
+      <desc>Handelshaus in London.</desc>
+      <linkGrp>
+         <ptr target="I/14#59" type="page"/>
+         <ptr target="I/14#993" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090281">
+      <idno type="mega">1025325</idno>
+      <orgName type="reg">August von Schröter’s Verlag</orgName>
+      <desc>Verlagsbuchhandlung in Berlin.</desc>
+      <linkGrp>
+         <ptr target="IV/12#955" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090032">
+      <idno type="mega">1002301</idno>
+      <orgName type="reg">B. Behr’s</orgName>
+      <desc>Verlagsbuchhandlung in Berlin.</desc>
+      <linkGrp>
+         <ptr target="IV/12#960" type="page"/>
+         <ptr target="IV/12#961" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090015">
+      <idno type="mega">1001549</idno>
+      <orgName type="reg">Bacher, J.&#160;A.</orgName>
+      <desc>Firma in Mülheim.</desc>
+      <linkGrp>
+         <ptr target="III/10#34" type="page"/>
+         <ptr target="III/10#148" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090018">
+      <idno type="mega">1001756</idno>
+      <orgName type="reg">Bank of Ireland</orgName>
+      <desc>Geschäftsbank in Dublin, gegründet 1782.</desc>
+      <linkGrp>
+         <ptr target="II/15#519" type="page"/>
+         <ptr target="II/15#538" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090019">
+      <idno type="mega">1001757</idno>
+      <orgName type="reg">Bank of Scotland</orgName>
+      <desc>schottische öffentlich-rechtliche Notenbank, gegründet 1695 in Edinburgh.</desc>
+      <linkGrp>
+         <ptr target="II/15#593" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090020">
+      <idno type="mega">1001754</idno>
+      <orgName type="reg">Bankers’ Clearing House Ltd.</orgName>
+      <desc>(London) gegründet 1895; seit Anfang der 1770er Jahre Clearing House in London zum Ausgleich der Nettozahlungen der Londoner Banken, das nur von Privatbanken betrieben wurde ; 1854 Zulassung von Aktienbanken.</desc>
+      <linkGrp>
+         <ptr target="II/15#390" type="page"/>
+         <ptr target="II/15#396" type="page"/>
+         <ptr target="II/15#447" type="page"/>
+         <ptr target="II/15#515" type="page"/>
+         <ptr target="II/15#517" type="page"/>
+         <ptr target="II/15#531" type="page"/>
+         <ptr target="II/15#532" type="page"/>
+         <ptr target="II/15#1087" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090021">
+      <idno type="mega">1001767</idno>
+      <orgName type="reg">Banque de France</orgName>
+      <desc>öffentlich-rechtliche Aktienbank, gegründet 1800 in Paris; seit 1803 Recht auf Ausgabe von Banknoten.</desc>
+      <linkGrp>
+         <ptr target="II/15#426" type="page"/>
+         <ptr target="II/15#592" type="page"/>
+      </linkGrp>
+   </org>
+            <org xml:id="ed_cqv_lw3_yy">
+               <orgName type="reg">Banque générale suisse</orgName>
+            </org>
+   <org xml:id="pdrPo.001.015.000090022">
+      <idno type="mega">1001768</idno>
+      <orgName type="reg">Banque populaire</orgName>
+      <orgName type="alt">Volksbank</orgName>
+      <desc>von Pierre-Joseph Proudhon im Januar 1849 gegründet; nach zwei Monaten in Konkurs gegangen.</desc>
+      <linkGrp>
+         <ptr target="II/15#43" type="page"/>
+         <ptr target="II/15#1016" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090023">
+      <idno type="mega">1001815</idno>
+      <orgName type="reg">Barclay (Barklay), Perkins &amp; Co.</orgName>
+      <desc>Weinhandlung in London.</desc>
+      <linkGrp>
+         <ptr target="III/11#504" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090024">
+      <idno type="mega">1001844</idno>
+      <orgName type="reg">Baring Brothers &amp; Co.</orgName>
+      <desc>Londoner Bankhaus seit 1807, gegründet 1762 als John &amp; Francis Baring &amp; Co.; Emmission von Staatsanleihen verschiedener Regierungen ; 1890 nach der "Baring Krise" Reorganisation als Baring Brothers &amp; Co. Ltd.</desc>
+      <linkGrp>
+         <ptr target="II/15#529" type="page"/>
+         <ptr target="II/15#1173" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090025">
+      <idno type="mega">1001944</idno>
+      <orgName type="reg">Barthels-Feldhoff</orgName>
+      <desc>Baumwollspinnerei in Barmen (Wuppertal) (gegründet 1829).</desc>
+      <linkGrp>
+         <ptr target="III/9#20" type="page"/>
+         <ptr target="III/9#63" type="page"/>
+         <ptr target="III/9#101" type="page"/>
+         <ptr target="III/9#273" type="page"/>
+         <ptr target="III/9#274" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090027">
+      <idno type="mega">1001983</idno>
+      <orgName type="reg">Bass, Ratcliff &amp; Gretton Ltd.</orgName>
+      <orgName type="alt">(Baß) (Burton-upon-Trent)</orgName>
+      <desc>britisches Brauereiunternehmen, im März 1880 in eine Aktiengesellschaft umgewandelt.</desc>
+      <linkGrp>
+         <ptr target="II/14#263" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090029">
+      <idno type="mega">1002069</idno>
+      <orgName type="reg">Bauerrichter &amp; Co.</orgName>
+      <desc>Firma in London.</desc>
+      <linkGrp>
+         <ptr target="III/9#516" type="page"/>
+         <ptr target="III/9#517" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090034">
+      <idno type="mega">1002331</idno>
+      <orgName type="reg">Bell, Anderson &amp; Co.</orgName>
+      <desc>britische Seehandelsfirma.</desc>
+      <linkGrp>
+         <ptr target="IV/12#1105" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090037">
+      <idno type="mega">1002543</idno>
+      <orgName type="reg">Bernales and Nephew</orgName>
+      <desc>Bankhaus in London.</desc>
+      <linkGrp>
+         <ptr target="IV/12#840" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090324">
+      <idno type="mega">1029094</idno>
+      <orgName type="reg">Bernhard Friedrich Voigt</orgName>
+      <desc>Verlagsbuchhandlung in Weimar.</desc>
+      <linkGrp>
+         <ptr target="IV/12#963" type="page"/>
+         <ptr target="IV/12#964" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090039">
+      <idno type="mega">1002615</idno>
+      <orgName type="reg">Berrensdorf &amp; Haubensack</orgName>
+      <desc>Firma in Hamburg.</desc>
+      <linkGrp>
+         <ptr target="III/9#517" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090040">
+      <idno type="mega">1002673</idno>
+      <orgName type="reg">Besser &amp; Bishop</orgName>
+      <desc>Firma in Amsterdam.</desc>
+      <linkGrp>
+         <ptr target="III/9#34" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090043">
+      <idno type="mega">1002781</idno>
+      <orgName type="reg">Bierwirth &amp; Rocholl</orgName>
+      <desc>Baumwollfirma in New York.</desc>
+      <linkGrp>
+         <ptr target="III/10#147" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090044">
+      <idno type="mega">1002859</idno>
+      <orgName type="reg">Bischoffsheim &amp; Goldschmidt</orgName>
+      <desc>Bankhaus in London mit Zweigstellen in Antwerpen, Amsterdam und Paris.</desc>
+      <linkGrp>
+         <ptr target="III/9#375" type="page"/>
+         <ptr target="III/9#508" type="page"/>
+         <ptr target="III/10#98" type="page"/>
+         <ptr target="III/11#336" type="page"/>
+         <ptr target="III/11#369" type="page"/>
+         <ptr target="III/11#385" type="page"/>
+         <ptr target="III/13#462" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090046">
+      <idno type="mega">1003086</idno>
+      <orgName type="reg">Bobczynski &amp; Co.</orgName>
+      <linkGrp>
+         <ptr target="III/13#1266" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090047">
+      <idno type="mega">1003235</idno>
+      <orgName type="reg">Bolckow, Vaughan &amp; Co. Ltd.</orgName>
+      <desc>britisches Stahlunternehmen, gegründet 1864; eines der größten Schienenwerke Großbritanniens.</desc>
+      <linkGrp>
+         <ptr target="II/15#1141" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090048">
+      <idno type="mega">0000000</idno>
+      <orgName type="reg">Boston Manufacturing Co.</orgName>
+      <desc>US-amerikanische Baumwollfabrik; 1814 gegründet. ; existierte 1812–1930.</desc>
+      <linkGrp>
+         <ptr target="II/12#1264" type="page"/>
+         <ptr target="II/13#479" type="page"/>
+         <ptr target="II/13#704" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090049">
+      <idno type="mega">1003630</idno>
+      <orgName type="reg">Brandis</orgName>
+      <desc>Verlagsbuchhandlung in Berlin.</desc>
+      <linkGrp>
+         <ptr target="IV/12#957" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090051">
+      <idno type="mega">1003801</idno>
+      <orgName type="reg">Brink &amp; Co.</orgName>
+      <desc>Bankhaus in Elberfeld (Wuppertal).</desc>
+      <linkGrp>
+         <ptr target="III/9#63" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090053">
+      <idno type="mega">1003898</idno>
+      <orgName type="reg">Brown, Shipley &amp; Co.</orgName>
+      <desc>seit 1809 Textilhandels- und Bankunternehmen in Liverpool.</desc>
+      <linkGrp>
+         <ptr target="II/14#253" type="page"/>
+         <ptr target="II/14#257" type="page"/>
+         <ptr target="II/14#270" type="page"/>
+         <ptr target="II/14#286" type="page"/>
+         <ptr target="II/14#878" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090055">
+      <idno type="mega">1004123</idno>
+      <orgName type="reg">Bunge Burlage &amp; Co.</orgName>
+      <desc>Baumwollfirma in New York.</desc>
+      <linkGrp>
+         <ptr target="III/10#147" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090016">
+      <idno type="mega">1001584</idno>
+      <orgName type="reg">Bädeker’sche Buchhandlung (Bädeker)</orgName>
+      <desc>Verlagsbuchhandlung in Elberfeld (Wuppertal).</desc>
+      <linkGrp>
+         <ptr target="IV/12#958" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090118">
+      <idno type="mega">1011559</idno>
+      <orgName type="reg">C.&#160;A. Haendel</orgName>
+      <orgName type="alt">Händel</orgName>
+      <desc>Verlagsbuchhandlung in Leipzig.</desc>
+      <linkGrp>
+         <ptr target="IV/12#952" type="page"/>
+         <ptr target="IV/12#953" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090154">
+      <idno type="mega">1013967</idno>
+      <orgName type="reg">C.&#160;A. Jenni, Vater</orgName>
+      <desc>Verlagsbuchhandlung in Bern.</desc>
+      <linkGrp>
+         <ptr target="IV/12#963" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090166">
+      <idno type="mega">1015189</idno>
+      <orgName type="reg">C.&#160;A. Köhler</orgName>
+      <desc>Druckerei und Verlagsbuchhandlung in Straßburg&#160;i.&#160;Pr.</desc>
+      <linkGrp>
+         <ptr target="IV/12#961" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090057">
+      <idno type="mega">1030788</idno>
+      <orgName type="reg">Caledonian RailwayCaledonian Railway Co.Caledonian Railway Company</orgName>
+      <desc>schottische Eisenbahngesellschaft; gegründet in den 1830er Jahren, eröffnete 1849 die erste Eisenbahnverbindung von Glasgow nach London. ; schottische Eisenbahngesellschaft, gegründet 1845 ; eröffnete 1848 die erste Eisenbahnverbindung aus Schottland nach London. ; schottische Eisenbahngesellschaft, gegründet in den 1830er Jahren, eröffnete 1849 die erste Eisenbahnverbindung von Glasgow nach London.</desc>
+      <linkGrp>
+         <ptr target="II/11#107" type="page"/>
+         <ptr target="II/11#108" type="page"/>
+         <ptr target="II/11#121" type="page"/>
+         <ptr target="II/11#122" type="page"/>
+         <ptr target="II/11#124" type="page"/>
+         <ptr target="II/11#1288" type="page"/>
+         <ptr target="II/12#147" type="page"/>
+         <ptr target="II/12#1219" type="page"/>
+         <ptr target="II/13#165" type="page"/>
+         <ptr target="II/13#653" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090058">
+      <idno type="mega">1004441</idno>
+      <orgName type="reg">Calve’sche</orgName>
+      <orgName type="alt">J.G.</orgName>
+      <desc>Verlagsbuchhandlung in Prag.</desc>
+      <linkGrp>
+         <ptr target="IV/12#967" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090060">
+      <idno type="mega">1004588</idno>
+      <orgName type="reg">Capital &amp; Counties Bank Ltd.</orgName>
+      <desc>britische Aktienbank seit 1878; gegründet 1877 als Hampshire &amp; North Wilts Banking Co. ; seit 1882 Sitz in London.</desc>
+      <linkGrp>
+         <ptr target="II/15#471" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090095">
+      <idno type="mega">1009215</idno>
+      <orgName type="reg">Carl Fr.Fleischer</orgName>
+      <orgName type="alt">Fleischer</orgName>
+      <desc>Verlagsbuchhandlung in Leipzig.</desc>
+      <linkGrp>
+         <ptr target="IV/12#956" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090099">
+      <idno type="mega">1010166</idno>
+      <orgName type="reg">Carl Geibel</orgName>
+      <orgName type="alt">Geibel</orgName>
+      <desc>Verlagsbuchhandlung in Leipzig.</desc>
+      <linkGrp>
+         <ptr target="IV/12#954" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090102">
+      <idno type="mega">1010328</idno>
+      <orgName type="reg">Carl Gerold &amp; Sohn</orgName>
+      <orgName type="alt">Gerold</orgName>
+      <desc>Verlagsbuchhandlung in Wien.</desc>
+      <linkGrp>
+         <ptr target="IV/12#952" type="page"/>
+         <ptr target="IV/12#953" type="page"/>
+         <ptr target="IV/12#958" type="page"/>
+         <ptr target="IV/12#964" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090133">
+      <idno type="mega">1012840</idno>
+      <orgName type="reg">Carl Höckner</orgName>
+      <desc>Verlagsbuchhandlung in Dresden.</desc>
+      <linkGrp>
+         <ptr target="IV/12#958" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090159">
+      <idno type="mega">1014639</idno>
+      <orgName type="reg">Carl Karthaus &amp; Co.</orgName>
+      <desc>Seidenschnurfabrik in Barmen (Wuppertal).</desc>
+      <linkGrp>
+         <ptr target="III/9#356" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090280">
+      <idno type="mega">1025310</idno>
+      <orgName type="reg">Carl Schröder &amp; Comp.</orgName>
+      <desc>Verlagsbuchhandlung in Kiel.</desc>
+      <linkGrp>
+         <ptr target="IV/12#959" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090341">
+      <idno type="mega">1030146</idno>
+      <orgName type="reg">Carl Winiker</orgName>
+      <desc>Verlagsbuchhandlung in Brünn.</desc>
+      <linkGrp>
+         <ptr target="IV/12#968" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090061">
+      <idno type="mega">1004854</idno>
+      <orgName type="reg">Cassel, Kirchberg &amp; Co.</orgName>
+      <orgName type="alt">Kirberg</orgName>
+      <desc>Bankhaus in Köln.</desc>
+      <linkGrp>
+         <ptr target="III/9#63" type="page"/>
+         <ptr target="III/9#740" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090062">
+      <idno type="mega">1004883</idno>
+      <orgName type="reg">Castello</orgName>
+      <desc>portugiesisches Bankhaus.</desc>
+      <linkGrp>
+         <ptr target="III/9#348" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090054">
+      <idno type="mega">1003949</idno>
+      <orgName type="reg">Ch. Brumlen &amp; Co.</orgName>
+      <desc>Firma in London.</desc>
+      <linkGrp>
+         <ptr target="III/9#517" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090063">
+      <idno type="mega">1005116</idno>
+      <orgName type="reg">Chaplin, Horne &amp; Carven</orgName>
+      <desc>Speditionsfirma in London.</desc>
+      <linkGrp>
+         <ptr target="III/10#137" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090064">
+      <idno type="mega">1005481</idno>
+      <orgName type="reg">City Bank Ltd.</orgName>
+      <desc>Londoner Aktienbank, gegründet 1855; seit 1882 Mitglied im Londoner Clearing House ; 1898 von der London &amp; Midland Bank Ltd. übernommen.</desc>
+      <linkGrp>
+         <ptr target="II/15#471" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090068">
+      <idno type="mega">1006071</idno>
+      <orgName type="reg">Cortÿ frères &amp; Co.</orgName>
+      <desc>Kommissions- und Exportfirma in Antwerpen (gegründet 1837).</desc>
+      <linkGrp>
+         <ptr target="III/9#383" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090069">
+      <idno type="mega">1006091</idno>
+      <orgName type="reg">Costenoble &amp; Remmelmann</orgName>
+      <desc>Verlagsbuchhandlung in Leipzig.</desc>
+      <linkGrp>
+         <ptr target="IV/12#967" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090070">
+      <idno type="mega">1006102</idno>
+      <orgName type="reg">Cottasche Buchhandlung, J.&#160;G.J.&#160;G. Cottasche Buchhandlung</orgName>
+      <orgName type="alt">Cotta</orgName>
+      <desc>1659 von Johann Georg Cotta in Tübingen gegründet, 1811 nach Stuttgart verlegt.</desc>
+      <linkGrp>
+         <ptr target="I/31#1147" type="page"/>
+         <ptr target="III/9#260" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090071">
+      <idno type="mega">1006227</idno>
+      <orgName type="reg">Crefeld-Kreis Kempener Industrie-Eisenbahn</orgName>
+      <desc>private Eisenbahn für den Verkehr der ländlichen Weber mit den städtische Fabrikanten mit Zentralstation in Krefeld, 1868 eröffnet, 1875 Konkurs; 1880 Übernahme der Strecke durch die Crefelder Eisenbahngesellschaft AG.</desc>
+      <linkGrp>
+         <ptr target="II/15#327" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090073">
+      <idno type="mega">1006315</idno>
+      <orgName type="reg">Croßbysche Teppichfabrik.</orgName>
+      <linkGrp>
+         <ptr target="III/13#196" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090008">
+      <idno type="mega">1001018</idno>
+      <orgName type="reg">D. Appleton &amp; Co.</orgName>
+      <desc>Verlag in New York.</desc>
+      <linkGrp>
+         <ptr target="III/9#37" type="page"/>
+         <ptr target="III/9#40" type="page"/>
+         <ptr target="III/9#65" type="page"/>
+         <ptr target="III/9#76" type="page"/>
+         <ptr target="III/9#104" type="page"/>
+         <ptr target="III/9#203" type="page"/>
+         <ptr target="III/9#708" type="page"/>
+         <ptr target="III/9#778" type="page"/>
+         <ptr target="III/9#855" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090227">
+      <idno type="mega">1020260</idno>
+      <orgName type="reg">David &amp; Jacob de Neufville</orgName>
+      <desc>Bankhaus in Frankfurt a.&#160;M.</desc>
+      <linkGrp>
+         <ptr target="III/9#62" type="page"/>
+         <ptr target="III/9#383" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090075">
+      <idno type="mega">1006693</idno>
+      <orgName type="reg">Day &amp; Sons</orgName>
+      <desc>englische Firma, die im Auftrag von Lajos Kossuth 1861 eine große Menge ungarischen Papiergeldes herstellte.</desc>
+      <linkGrp>
+         <ptr target="III/11#1203" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090256">
+      <idno type="mega">1023204</idno>
+      <orgName type="reg">Dietrich Reimer Verlag</orgName>
+      <desc>Berliner Verlag naturwissenschaftlicher Literatur, gegründet 1845.</desc>
+      <linkGrp>
+         <ptr target="IV/31#516" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090078">
+      <idno type="mega">1007271</idno>
+      <orgName type="reg">Dokat &amp; Co.</orgName>
+      <desc>Firma in London.</desc>
+      <linkGrp>
+         <ptr target="III/11#211" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090080">
+      <idno type="mega">1007621</idno>
+      <orgName type="reg">Dumaine</orgName>
+      <desc>Verlagsbuchhandlung in Paris.</desc>
+      <linkGrp>
+         <ptr target="IV/12#968" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090081">
+      <idno type="mega">1007637</idno>
+      <orgName type="reg">Dumont</orgName>
+      <desc>Kaffeehauswirtschaft bei Bern.</desc>
+      <linkGrp>
+         <ptr target="III/9#28" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090084">
+      <idno type="mega">1007682</idno>
+      <orgName type="reg">Dunnill &amp; Palmer</orgName>
+      <desc>Buchhandlung in Manchester.; Buchhandlung für deutschsprachige Literatur in Manchester.</desc>
+      <linkGrp>
+         <ptr target="III/9#435" type="page"/>
+         <ptr target="III/10#729" type="page"/>
+         <ptr target="III/10#730" type="page"/>
+         <ptr target="III/11#228" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090045">
+      <idno type="mega">1002955</idno>
+      <orgName type="reg">E. &amp; H. Blank</orgName>
+      <desc>Agenturgeschäft in London.</desc>
+      <linkGrp>
+         <ptr target="III/9#36" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090164">
+      <idno type="mega">1014900</idno>
+      <orgName type="reg">E. Kiesling</orgName>
+      <desc>Verlagsbuchhandlung in Zürich.</desc>
+      <linkGrp>
+         <ptr target="IV/12#958" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090218">
+      <idno type="mega">1019719</idno>
+      <orgName type="reg">E. Moses &amp; Son</orgName>
+      <desc>Konfektionsgeschäft in London, um 1850 die größte Konfektionsfirma der Welt.</desc>
+      <linkGrp>
+         <ptr target="II/15#592" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090221">
+      <idno type="mega">1020114</idno>
+      <orgName type="reg">E. Nathan &amp; Simpson</orgName>
+      <desc>Firma in Manchester.</desc>
+      <linkGrp>
+         <ptr target="III/9#62" type="page"/>
+         <ptr target="III/9#101" type="page"/>
+         <ptr target="III/9#102" type="page"/>
+         <ptr target="III/9#747" type="page"/>
+         <ptr target="III/10#32" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090214">
+      <idno type="mega">1019282</idno>
+      <orgName type="reg">E. S. Mittler &amp; Sohn (Mittler)</orgName>
+      <desc>Verlagsbuchhandlung in Berlin; Spezialgebiet Militärliteratur.</desc>
+      <linkGrp>
+         <ptr target="IV/12#959" type="page"/>
+         <ptr target="IV/12#960" type="page"/>
+         <ptr target="IV/12#962" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090342">
+      <idno type="mega">1030161</idno>
+      <orgName type="reg">E.&#160;F. Winter</orgName>
+      <desc>Verlagsbuchhandlung in Heidelberg und Leipzig.</desc>
+      <linkGrp>
+         <ptr target="IV/12#959" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090333">
+      <idno type="mega">1029646</idno>
+      <orgName type="reg">E.&#160;O. Weller</orgName>
+      <desc>Verlags- und Kommissionsbuchhandlung in Leipzig.</desc>
+      <linkGrp>
+         <ptr target="IV/12#957" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090085">
+      <idno type="mega">1007818</idno>
+      <orgName type="reg">East India Company</orgName>
+      <orgName type="alt">Ostindische Kompanie</orgName>
+      <desc>englische Handelsgesellschaft, gegründet 1600; besaß das Privileg auf das Monopol im Indienhandel bis 1813 und war Herrscherin in Britisch-Indien ; 1858 aufgelöst.</desc>
+      <linkGrp>
+         <ptr target="II/15#380" type="page"/>
+         <ptr target="II/15#530" type="page"/>
+         <ptr target="II/15#569" type="page"/>
+         <ptr target="II/15#573" type="page"/>
+         <ptr target="II/15#593" type="page"/>
+         <ptr target="II/15#1105" type="page"/>
+         <ptr target="II/15#1115" type="page"/>
+         <ptr target="II/15#1175" type="page"/>
+         <ptr target="II/15#1178" type="page"/>
+         <ptr target="II/15#1200" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090300">
+      <idno type="mega">1026614</idno>
+      <orgName type="reg">Ed. Spitzing</orgName>
+      <desc>Firma in London.</desc>
+      <linkGrp>
+         <ptr target="III/9#517" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090056">
+      <idno type="mega">1004260</idno>
+      <orgName type="reg">Eduard Busch &amp; Co.</orgName>
+      <desc>Baumwollhandelsfirma in Liverpool.; Baumwollhandlung in Liverpool.</desc>
+      <linkGrp>
+         <ptr target="III/9#19" type="page"/>
+         <ptr target="III/9#20" type="page"/>
+         <ptr target="III/9#36" type="page"/>
+         <ptr target="III/9#62" type="page"/>
+         <ptr target="III/11#106" type="page"/>
+         <ptr target="III/11#367" type="page"/>
+         <ptr target="III/11#381" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090134">
+      <idno type="mega">1012854</idno>
+      <orgName type="reg">Eduard Hölzel</orgName>
+      <desc>Verlagsbuchhandlung in Olmütz.</desc>
+      <linkGrp>
+         <ptr target="IV/12#953" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090086">
+      <idno type="mega">1007983</idno>
+      <orgName type="reg">Ehrlich, Friedrich</orgName>
+      <desc>Verlagsbuchhandlung in Prag.</desc>
+      <linkGrp>
+         <ptr target="IV/12#956" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090089">
+               <idno type="mega">1008453</idno>
+               <orgName type="reg">Ermen &amp; Engels-nicht verwenden</orgName>
+               <desc><?oxy_comment_start author="lindenberg" timestamp="20170223T142123+0100" comment="Vorsicht! Es handelt sich bei Ermen &amp; Engels um zwei getrennte Unternehmen (in Manchester u. Barmen ansässig). Bei diesem Registereintrag mit den Stellenangaben in den gedruckten Bänden wurden aber beide miteinander vermengt.  Bitte entsprechend jeweils zu einem der folgenden Registereinträge verlinken."?>Manchester<?oxy_comment_end?>,
+                  Fabrik für Näh- und Strickgarne; gegründet 1837.</desc>
+               <linkGrp>
+                  <ptr target="I/31#496" type="page"/>
+                  <ptr target="I/31#1256" type="page"/>
+                  <ptr target="II/14#444" type="page"/>
+                  <ptr target="II/14#446" type="page"/>
+                  <ptr target="III/9#7" type="page"/>
+                  <ptr target="III/9#16" type="page"/>
+                  <ptr target="III/9#19" type="page"/>
+                  <ptr target="III/9#20" type="page"/>
+                  <ptr target="III/9#28" type="page"/>
+                  <ptr target="III/9#35" type="page"/>
+                  <ptr target="III/9#70" type="page"/>
+                  <ptr target="III/9#153" type="page"/>
+                  <ptr target="III/9#220" type="page"/>
+                  <ptr target="III/9#409" type="page"/>
+                  <ptr target="III/9#579" type="page"/>
+                  <ptr target="III/9#615" type="page"/>
+                  <ptr target="III/9#616" type="page"/>
+                  <ptr target="III/9#690" type="page"/>
+                  <ptr target="III/9#691" type="page"/>
+                  <ptr target="III/9#706" type="page"/>
+                  <ptr target="III/9#788" type="page"/>
+                  <ptr target="III/9#1146" type="page"/>
+                  <ptr target="III/10#376" type="page"/>
+                  <ptr target="III/10#392" type="page"/>
+                  <ptr target="III/10#401" type="page"/>
+                  <ptr target="III/10#403" type="page"/>
+                  <ptr target="III/10#433" type="page"/>
+                  <ptr target="III/10#448" type="page"/>
+                  <ptr target="III/10#461" type="page"/>
+                  <ptr target="III/10#464" type="page"/>
+                  <ptr target="III/10#471" type="page"/>
+                  <ptr target="III/10#493" type="page"/>
+                  <ptr target="III/10#508" type="page"/>
+                  <ptr target="III/10#517" type="page"/>
+                  <ptr target="III/10#524" type="page"/>
+                  <ptr target="III/10#535" type="page"/>
+                  <ptr target="III/10#660" type="page"/>
+                  <ptr target="III/10#673" type="page"/>
+                  <ptr target="III/10#674" type="page"/>
+                  <ptr target="III/10#722" type="page"/>
+                  <ptr target="III/10#728" type="page"/>
+                  <ptr target="III/10#751" type="page"/>
+                  <ptr target="III/10#773" type="page"/>
+                  <ptr target="III/10#791" type="page"/>
+                  <ptr target="III/10#993" type="page"/>
+                  <ptr target="III/10#1046" type="page"/>
+                  <ptr target="III/10#1056" type="page"/>
+                  <ptr target="III/10#1076" type="page"/>
+                  <ptr target="II/11#854" type="page"/>
+                  <ptr target="II/11#916" type="page"/>
+                  <ptr target="II/11#917" type="page"/>
+                  <ptr target="II/11#920" type="page"/>
+                  <ptr target="III/11#68" type="page"/>
+                  <ptr target="III/11#122" type="page"/>
+                  <ptr target="III/11#175" type="page"/>
+                  <ptr target="III/11#183" type="page"/>
+                  <ptr target="III/11#187" type="page"/>
+                  <ptr target="III/11#314" type="page"/>
+                  <ptr target="III/11#327" type="page"/>
+                  <ptr target="III/11#328" type="page"/>
+                  <ptr target="III/11#367" type="page"/>
+                  <ptr target="III/11#377" type="page"/>
+                  <ptr target="III/11#381" type="page"/>
+                  <ptr target="III/11#433" type="page"/>
+                  <ptr target="III/11#447" type="page"/>
+                  <ptr target="III/11#625" type="page"/>
+                  <ptr target="III/11#668" type="page"/>
+                  <ptr target="III/11#704" type="page"/>
+                  <ptr target="III/11#716" type="page"/>
+                  <ptr target="III/11#717" type="page"/>
+                  <ptr target="III/11#757" type="page"/>
+                  <ptr target="III/11#758" type="page"/>
+                  <ptr target="III/11#805" type="page"/>
+                  <ptr target="III/11#806" type="page"/>
+                  <ptr target="III/11#917" type="page"/>
+                  <ptr target="III/11#922" type="page"/>
+                  <ptr target="III/11#923" type="page"/>
+                  <ptr target="III/11#930" type="page"/>
+                  <ptr target="III/11#977" type="page"/>
+                  <ptr target="III/11#978" type="page"/>
+                  <ptr target="III/11#1110" type="page"/>
+                  <ptr target="III/11#1163" type="page"/>
+                  <ptr target="III/11#1183" type="page"/>
+                  <ptr target="III/11#1185" type="page"/>
+                  <ptr target="III/13#18" type="page"/>
+                  <ptr target="III/13#71" type="page"/>
+                  <ptr target="III/13#373" type="page"/>
+                  <ptr target="III/13#392" type="page"/>
+                  <ptr target="III/13#490" type="page"/>
+                  <ptr target="III/13#520" type="page"/>
+                  <ptr target="III/13#753" type="page"/>
+                  <ptr target="III/13#754" type="page"/>
+                  <ptr target="III/13#758" type="page"/>
+                  <ptr target="III/13#907" type="page"/>
+                  <ptr target="III/13#997" type="page"/>
+                  <ptr target="III/13#1226" type="page"/>
+                  <ptr target="III/13#1227" type="page"/>
+                  <ptr target="III/13#1319" type="page"/>
+               </linkGrp>
+            </org>
+            <org xml:id="ed_byw_vjh_1z">
+               <orgName type="reg">Ermen &amp; Engels, Barmen</orgName>
+               <desc>Fabrik für Näh- und Strickgarne; gegründet 1837, firmierte bis 1884 in Barmen
+                  (Wuppertal), Produktionsstandort war Engelskirchen.</desc>
+            </org>
+            <org xml:id="ed_mtd_tkh_1z">
+               <orgName type="reg">Ermen &amp; Engels, Manchester</orgName>
+               <desc>Fabrik für Näh- und Strickgarne; gegründet 1837.</desc>
+            </org>
+   <org xml:id="pdrPo.001.015.000090017">
+      <idno type="mega">1001694</idno>
+      <orgName type="reg">Ernst Balde</orgName>
+      <desc>Verlagsbuchhandlung in Kassel.</desc>
+      <linkGrp>
+         <ptr target="IV/12#953" type="page"/>
+         <ptr target="IV/12#1475" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090052">
+      <idno type="mega">1003831</idno>
+      <orgName type="reg">F. A. Brockhaus</orgName>
+      <desc>Verlagsbuchhandlung in Leipzig.</desc>
+      <linkGrp>
+         <ptr target="III/9#222" type="page"/>
+         <ptr target="III/11#517" type="page"/>
+         <ptr target="III/11#1196" type="page"/>
+         <ptr target="III/11#1251" type="page"/>
+         <ptr target="IV/12#951" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090215">
+      <idno type="mega">1019632</idno>
+      <orgName type="reg">F. H. Morin</orgName>
+      <desc>Verlagsbuchhandlung in Berlin.</desc>
+      <linkGrp>
+         <ptr target="IV/12#955" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090226">
+      <idno type="mega">1020243</idno>
+      <orgName type="reg">F. H. Nestler &amp; Melle</orgName>
+      <desc>Verlagsbuchhandlung in Hamburg.</desc>
+      <linkGrp>
+         <ptr target="III/11#55" type="page"/>
+         <ptr target="III/11#173" type="page"/>
+         <ptr target="III/11#175" type="page"/>
+         <ptr target="IV/12#953" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090104">
+      <idno type="mega">1010597</idno>
+      <orgName type="reg">F. W. Goedsche’sche</orgName>
+      <orgName type="alt">Goedsche</orgName>
+      <desc>Verlagsbuchhandlung in Meißen.</desc>
+      <linkGrp>
+         <ptr target="IV/12#955" type="page"/>
+         <ptr target="IV/12#962" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090255">
+      <idno type="mega">1023164</idno>
+      <orgName type="reg">F.&#160;A. Reichel</orgName>
+      <desc>Verlagsbuchhandlung in Bautzen.</desc>
+      <linkGrp>
+         <ptr target="IV/12#956" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090115">
+      <idno type="mega">1011242</idno>
+      <orgName type="reg">F.&#160;W. Grunow &amp; Comp.</orgName>
+      <orgName type="alt">Grunow, Grunow &amp; Co.</orgName>
+      <desc>Verlagsbuchhandlung in Leipzig.</desc>
+      <linkGrp>
+         <ptr target="IV/12#952" type="page"/>
+         <ptr target="IV/12#954" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090091">
+      <idno type="mega">1008757</idno>
+      <orgName type="reg">Falckenberg’sche</orgName>
+      <desc>Verlagsbuchhandlung in Berlin.</desc>
+      <linkGrp>
+         <ptr target="III/10#854" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090092">
+      <idno type="mega">1008906</idno>
+      <orgName type="reg">Fellowship of the Staple</orgName>
+      <desc>staatlich konzessioniertes englisches Handelsunternehmen für Woll- und Tuchexport.</desc>
+      <linkGrp>
+         <ptr target="II/14#1018" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090079">
+      <idno type="mega">1007550</idno>
+      <orgName type="reg">Ferdinand Dümmler</orgName>
+      <desc>Verlagsbuchhandlung in Berlin.</desc>
+      <linkGrp>
+         <ptr target="IV/12#968" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090206">
+      <idno type="mega">1018684</idno>
+      <orgName type="reg">Ferdinand Meinhardt</orgName>
+      <desc>Verlagsbuchhandlung in Arnstadt.</desc>
+      <linkGrp>
+         <ptr target="IV/12#955" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090028">
+      <idno type="mega">1001988</idno>
+      <orgName type="reg">Fr. Bassermann’sche</orgName>
+      <orgName type="alt">Bassermann</orgName>
+      <desc>Verlagsbuchhandlung in Mannheim.</desc>
+      <linkGrp>
+         <ptr target="IV/12#958" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090093">
+      <idno type="mega">1009033</idno>
+      <orgName type="reg">Fr. Ferstl’sche</orgName>
+      <orgName type="alt">Ferstl</orgName>
+      <desc>Verlagsbuchhandlung in Graz.</desc>
+      <linkGrp>
+         <ptr target="IV/12#967" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090144">
+      <idno type="mega">1013341</idno>
+      <orgName type="reg">Fr. Hurter’sche Buchhandlung</orgName>
+      <desc>Verlagsbuchhandlung in Schaffhausen.</desc>
+      <linkGrp>
+         <ptr target="IV/12#960" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090328">
+      <idno type="mega">1029234</idno>
+      <orgName type="reg">Fr. Wagner’sche Buchhandlung</orgName>
+      <desc>Verlagsbuchhandlung in Freiburg im Breisgau.</desc>
+      <linkGrp>
+         <ptr target="IV/12#962" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090165">
+      <idno type="mega">1015107</idno>
+      <orgName type="reg">Franz Kluge</orgName>
+      <desc>Verlagsbuchhandlung in Reval.</desc>
+      <linkGrp>
+         <ptr target="IV/12#967" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090229">
+      <idno type="mega">1020471</idno>
+      <orgName type="reg">Franz Nöldeke</orgName>
+      <desc>Verlagsbuchhandlung in Karlsruhe.</desc>
+      <linkGrp>
+         <ptr target="IV/12#955" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090311">
+      <idno type="mega">1027293</idno>
+      <orgName type="reg">Franz Suppan</orgName>
+      <desc>Verlagsbuchhandlung in Agram (Zagreb).</desc>
+      <linkGrp>
+         <ptr target="IV/12#951" type="page"/>
+         <ptr target="IV/12#968" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090314">
+      <idno type="mega">1027803</idno>
+      <orgName type="reg">Franz Thimm</orgName>
+      <desc>Verlagsbuchhandlung in London.</desc>
+      <linkGrp>
+         <ptr target="IV/12#954" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090088">
+      <idno type="mega">1008282</idno>
+      <orgName type="reg">Friedrich Engels &amp; Co.</orgName>
+      <desc>Seidenhandlung in Barmen (Wuppertal), deren Besitzer Friedrich Engels (senior) und seine Ehefrau waren.</desc>
+      <linkGrp>
+         <ptr target="III/9#19" type="page"/>
+         <ptr target="III/11#106" type="page"/>
+         <ptr target="III/11#327" type="page"/>
+         <ptr target="III/11#328" type="page"/>
+         <ptr target="III/11#381" type="page"/>
+         <ptr target="III/11#802" type="page"/>
+         <ptr target="III/11#846" type="page"/>
+         <ptr target="III/11#949" type="page"/>
+         <ptr target="III/11#1110" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090145">
+      <idno type="mega">1013358</idno>
+      <orgName type="reg">Friedrich Huth &amp; Co.</orgName>
+      <desc>deutsche Handelsfirma in London, bei der Ferdinand Freiligrath von 1846 bis 1848 tätig war.</desc>
+      <linkGrp>
+         <ptr target="III/11#447" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090127">
+      <idno type="mega">1012418</idno>
+      <orgName type="reg">Friedrich Ludwig Herbig</orgName>
+      <desc>Verlagsbuchhandlung in Leipzig.</desc>
+      <linkGrp>
+         <ptr target="IV/12#954" type="page"/>
+         <ptr target="IV/12#958" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090283">
+      <idno type="mega">1025386</idno>
+      <orgName type="reg">Friedrich Schultheß</orgName>
+      <desc>Druckerei- und Verlagsbetrieb mit angegliederter Schultheß’scher Buchhandlung in Zürich.</desc>
+      <linkGrp>
+         <ptr target="IV/12#963" type="page"/>
+         <ptr target="IV/12#964" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090097">
+      <idno type="mega">1009864</idno>
+      <orgName type="reg">Fugger</orgName>
+      <desc>schwäbische Kaufmannsfamilie, seit 1367 in Augsburg ansässig; führte seit Mitte des 15. bis Ende des 16.&#160;Jh. eines der größten europäischen Handelshäuser, aktiv in Fernhandel, Bankgeschäften und Bergbau.</desc>
+      <linkGrp>
+         <ptr target="II/14#335" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090259">
+      <idno type="mega">1023391</idno>
+      <orgName type="reg">G. A. Reyher</orgName>
+      <desc>Verlagsbuchhandlung in Mitau und Leipzig.</desc>
+      <linkGrp>
+         <ptr target="IV/12#968" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090234">
+      <idno type="mega">1020929</idno>
+      <orgName type="reg">G. C. Orthaus</orgName>
+      <desc>Verlagsbuchhandlung in Leipzig.</desc>
+      <linkGrp>
+         <ptr target="IV/12#955" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090090">
+      <idno type="mega">1008712</idno>
+      <orgName type="reg">G. Faber &amp; Schwabe</orgName>
+      <desc>Bankhaus in Bremen.</desc>
+      <linkGrp>
+         <ptr target="III/9#19" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090137">
+      <idno type="mega">1012985</idno>
+      <orgName type="reg">G. Holtzmann</orgName>
+      <desc>Verlagsbuchhandlung in Karlsruhe.</desc>
+      <linkGrp>
+         <ptr target="IV/12#959" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090076">
+      <idno type="mega">1006722</idno>
+      <orgName type="reg">G. J. Decker</orgName>
+      <desc>Verlagsbuchhandlung in Berlin.</desc>
+      <linkGrp>
+         <ptr target="IV/12#959" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090030">
+      <idno type="mega">1002085</idno>
+      <orgName type="reg">G. vom Baur &amp; Co.</orgName>
+      <desc>Zweigstelle der Darmstädter Bank in New York.</desc>
+      <linkGrp>
+         <ptr target="III/9#171" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090072">
+      <idno type="mega">1006310</idno>
+      <orgName type="reg">Gebr. Croon &amp; Klauser</orgName>
+      <desc>mechanische Spinnerei und Schlichterei in Gladbach.</desc>
+      <linkGrp>
+         <ptr target="III/9#142" type="page"/>
+         <ptr target="III/9#253" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090101">
+      <idno type="mega">1010240</idno>
+      <orgName type="reg">Georg</orgName>
+      <desc>Buchhandlung in Genf.</desc>
+      <linkGrp>
+         <ptr target="III/10#521" type="page"/>
+         <ptr target="III/10#522" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090103">
+      <idno type="mega">1010543</idno>
+      <orgName type="reg">Glyn, Mills, Currie &amp; Co.</orgName>
+      <desc>(London), britische Bank; 1753 als Vere, Glyn &amp; Hallifax gegründet, seit 1864 Glyn, Mills, Currie &amp; Co. ; im Januar 1885 in eine Aktiengesellschaft umgewandelt. ; Londoner Privatbank ; bis 1851 Glyn, Mills, Halifax &amp; Co., dann Glyn, Mills, &amp; Co., fusionierte 1864 mit Curries &amp; Co. 1885 in eine Aktiengesellschaft umgewandelt.</desc>
+      <linkGrp>
+         <ptr target="II/14#263" type="page"/>
+         <ptr target="II/14#268" type="page"/>
+         <ptr target="II/14#269" type="page"/>
+         <ptr target="II/14#273" type="page"/>
+         <ptr target="II/14#281" type="page"/>
+         <ptr target="II/14#286" type="page"/>
+         <ptr target="II/14#296" type="page"/>
+         <ptr target="II/14#298" type="page"/>
+         <ptr target="II/14#300" type="page"/>
+         <ptr target="II/14#301" type="page"/>
+         <ptr target="II/14#312" type="page"/>
+         <ptr target="II/15#537" type="page"/>
+         <ptr target="II/15#1180" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090106">
+      <idno type="mega">1010944</idno>
+      <orgName type="reg">Grave &amp; Newiandt.</orgName>
+      <linkGrp>
+         <ptr target="III/10#751" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090107">
+      <idno type="mega">1030796</idno>
+      <orgName type="reg">Great Eastern Railway</orgName>
+      <desc>englische Eisenbahngesellschaft; existierte 1862–1923.</desc>
+      <linkGrp>
+         <ptr target="II/11#101" type="page"/>
+         <ptr target="II/11#112" type="page"/>
+         <ptr target="II/11#1285" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090108">
+      <idno type="mega">1030797</idno>
+      <orgName type="reg">Great Northern RailwayGreat Northern Railway Co.</orgName>
+      <desc>englische Eisenbahngesellschaft; existierte 1846–1922, eröffnete 1848 ihre erste Strecke. ; englische Eisenbahngesellschaft, ging aus der „London &amp; York Railway Co.“ hervor ; eröffnete 1848 ihre erste Strecke. ; englische Eisenbahngesellschaft, ging aus dem Zusammenschluß der London &amp; York Railway Company und der Direct Northern Company hervor</desc>
+      <linkGrp>
+         <ptr target="II/11#104" type="page"/>
+         <ptr target="II/11#107" type="page"/>
+         <ptr target="II/11#112" type="page"/>
+         <ptr target="II/11#119" type="page"/>
+         <ptr target="II/11#122" type="page"/>
+         <ptr target="II/11#125" type="page"/>
+         <ptr target="II/11#126" type="page"/>
+         <ptr target="II/11#1285" type="page"/>
+         <ptr target="II/11#1287" type="page"/>
+         <ptr target="II/12#147" type="page"/>
+         <ptr target="II/12#148" type="page"/>
+         <ptr target="II/12#1012" type="page"/>
+         <ptr target="II/12#1218" type="page"/>
+         <ptr target="II/12#1220" type="page"/>
+         <ptr target="II/13#166" type="page"/>
+         <ptr target="II/13#167" type="page"/>
+         <ptr target="II/13#652" type="page"/>
+         <ptr target="II/13#654" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090109">
+      <idno type="mega">1030798</idno>
+      <orgName type="reg">Great Western RailwayGreat Western Railway Co.</orgName>
+      <desc>englische Eisenbahngesellschaft; existierte 1833–1923, eröffnete 1841 die Strecke von London nach Bristol. ; englische Eisenbahngesellschaft, gegründet 1835 ; eröffnete 1841 die Strecke von London nach Bristol.</desc>
+      <linkGrp>
+         <ptr target="II/11#102" type="page"/>
+         <ptr target="II/11#112" type="page"/>
+         <ptr target="II/11#125" type="page"/>
+         <ptr target="II/11#1285" type="page"/>
+         <ptr target="II/12#147" type="page"/>
+         <ptr target="II/13#166" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090113">
+      <idno type="mega">1011210</idno>
+      <orgName type="reg">Grover &amp; Baker</orgName>
+      <desc>Nähmaschinenfabrik (lt. ET)</desc>
+      <linkGrp>
+         <ptr target="III/13#608" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090114">
+      <idno type="mega">1011238</idno>
+      <orgName type="reg">Grunelius &amp; Co.</orgName>
+      <desc>Bankhaus in Frankfurt/M.</desc>
+      <linkGrp>
+         <ptr target="III/9#383" type="page"/>
+         <ptr target="III/9#403" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090116">
+      <idno type="mega">1011361</idno>
+      <orgName type="reg">Guillaumin et Cie</orgName>
+      <desc>Verlagsbuchhandlung in Paris.</desc>
+      <linkGrp>
+         <ptr target="II/11#914" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090087">
+      <idno type="mega">1008182</idno>
+      <orgName type="reg">Gustav Emich</orgName>
+      <desc>Verlagsbuchhandlung in Pest.</desc>
+      <linkGrp>
+         <ptr target="IV/12#952" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090125">
+      <idno type="mega">1012281</idno>
+      <orgName type="reg">Gustav Hempel</orgName>
+      <desc>Verlagsbuchhandlung in Berlin.</desc>
+      <linkGrp>
+         <ptr target="IV/12#955" type="page"/>
+         <ptr target="IV/12#958" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090205">
+      <idno type="mega">1018525</idno>
+      <orgName type="reg">Gustav Mayer</orgName>
+      <desc>Verlagsbuchhandlung in Leipzig.</desc>
+      <linkGrp>
+         <ptr target="IV/12#951" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090247">
+      <idno type="mega">1022063</idno>
+      <orgName type="reg">H. A. Pierer</orgName>
+      <desc>Verlag in Altenburg.</desc>
+      <linkGrp>
+         <ptr target="IV/12#954" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090035">
+      <idno type="mega">1002386</idno>
+      <orgName type="reg">H. Bender’s deutsche Buchhandlung und Leihbibliothek</orgName>
+      <desc>Buchhandlung in London.</desc>
+      <linkGrp>
+         <ptr target="III/9#980" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090326">
+      <idno type="mega">1029145</idno>
+      <orgName type="reg">H. J. de Voß</orgName>
+      <orgName type="alt">Voss</orgName>
+      <desc>Export- und Importfirma in Hamburg.</desc>
+      <linkGrp>
+         <ptr target="III/9#517" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090105">
+      <idno type="mega">1010793</idno>
+      <orgName type="reg">H. M. Gottschalk</orgName>
+      <orgName type="alt">Gottschalk</orgName>
+      <desc>Verlagsbuchhandlung in Dresden.</desc>
+      <linkGrp>
+         <ptr target="IV/12#956" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090111">
+      <idno type="mega">1011123</idno>
+      <orgName type="reg">H.&#160;H. Grimm u. Comp.</orgName>
+      <orgName type="alt">Grimm &amp; Co.</orgName>
+      <desc>Verlagsbuchhandlung in Dresden.</desc>
+      <linkGrp>
+         <ptr target="IV/12#955" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090119">
+      <idno type="mega">1011599</idno>
+      <orgName type="reg">Hahn’sche Hofbuchhandlung</orgName>
+      <desc>Verlagsbuchhandlung in Hannover.</desc>
+      <linkGrp>
+         <ptr target="IV/12#960" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090120">
+      <idno type="mega">1011687</idno>
+      <orgName type="reg">Hamburger Bank</orgName>
+      <desc>Bankhaus, dessen „Mark Banco“ die Großhandelswährung Hamburgs wurde; gegründet 1619 ; wurde 1873 mit Einführung der Reichswährung zu einer Filiale der Reichsbank.</desc>
+      <linkGrp>
+         <ptr target="II/15#311" type="page"/>
+         <ptr target="II/15#580" type="page"/>
+         <ptr target="II/15#582" type="page"/>
+         <ptr target="II/15#592" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090124">
+      <idno type="mega">1012223</idno>
+      <orgName type="reg">Helbig &amp; Scherb</orgName>
+      <desc>Verlagsbuchhandlung in Basel.</desc>
+      <linkGrp>
+         <ptr target="IV/12#956" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090126">
+      <idno type="mega">1007201</idno>
+      <orgName type="reg">Henry Distin &amp; Co.</orgName>
+      <desc>Hersteller von Musikinstrumenten in London.</desc>
+      <linkGrp>
+         <ptr target="III/13#1192" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090248">
+      <idno type="mega">1022379</idno>
+      <orgName type="reg">Henry Poole &amp; Co.</orgName>
+      <desc>englische Schneiderfirma in London.</desc>
+      <linkGrp>
+         <ptr target="III/11#889" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090220">
+      <idno type="mega">1020107</idno>
+      <orgName type="reg">Henryk Natanson</orgName>
+      <desc>Verlagsbuchhandlung in Warschau.</desc>
+      <linkGrp>
+         <ptr target="IV/12#960" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090128">
+      <idno type="mega">1012427</idno>
+      <orgName type="reg">Herder’sche Verlagsbuchhandlung</orgName>
+      <desc>Buchhandlung mit Verlag in Freiburg im Breisgau.</desc>
+      <linkGrp>
+         <ptr target="IV/12#959" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090100">
+      <idno type="mega">1010167</idno>
+      <orgName type="reg">Hermann Geibel</orgName>
+      <orgName type="alt">Geibel</orgName>
+      <desc>Verlagsbuchhandlung in Pesth.</desc>
+      <linkGrp>
+         <ptr target="IV/12#953" type="page"/>
+         <ptr target="IV/12#954" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090129">
+      <idno type="mega">1012566</idno>
+      <orgName type="reg">Hesse &amp; Becker</orgName>
+      <desc>Druckerei und Verlag in Leipzig; hier wurden die 4. Auflage des ersten und die 2.&#160;Auflage des zweiten Bandes sowie der dritte Band des „Kapitals“ hergestellt.</desc>
+      <linkGrp>
+         <ptr target="II/13#580" type="page"/>
+         <ptr target="II/15#925" type="page"/>
+         <ptr target="II/15#932" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090130">
+      <idno type="mega">1012643</idno>
+      <orgName type="reg">Heywood Brothers &amp; Co.</orgName>
+      <desc>Bankhaus in Manchester.</desc>
+      <linkGrp>
+         <ptr target="III/13#322" type="page"/>
+         <ptr target="III/13#391" type="page"/>
+      </linkGrp>
+   </org>
+            <org xml:id="ed_ag2_sxm_2z">
+               <orgName type="reg">Hoare Barnett &amp; Co.</orgName>
+               <desc>1664-1884</desc>
+            </org>
+   <org xml:id="pdrPo.001.015.000090135">
+      <idno type="mega">1012896</idno>
+      <orgName type="reg">Hoffman und CampeHoffmann &amp; Campe</orgName>
+      <desc>Verlagsbuchhandlung in Hamburg; gegründet 1781. ; Verlagsbuchhandlung in Hamburg.</desc>
+      <linkGrp>
+         <ptr target="I/14#1213" type="page"/>
+         <ptr target="III/11#63" type="page"/>
+         <ptr target="III/11#145" type="page"/>
+         <ptr target="III/11#190" type="page"/>
+         <ptr target="IV/12#951" type="page"/>
+         <ptr target="IV/12#952" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090136">
+      <idno type="mega">1012897</idno>
+      <orgName type="reg">Hoffmann Hurter &amp; Co.</orgName>
+      <desc>Firma in Bradford.</desc>
+      <linkGrp>
+         <ptr target="III/10#162" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090138">
+      <idno type="mega">1013031</idno>
+      <orgName type="reg">Hope &amp; Co.</orgName>
+      <desc>niederländisches Bankhaus mit Sitz in Amsterdam und Filialen in London.</desc>
+      <linkGrp>
+         <ptr target="IV/12#145" type="page"/>
+         <ptr target="IV/12#1143" type="page"/>
+         <ptr target="I/14#1066" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090139">
+      <idno type="mega">1013110</idno>
+      <orgName type="reg">Houold, Chr. &amp; Co.</orgName>
+      <desc>Baumwollfirma in New Orleans.</desc>
+      <linkGrp>
+         <ptr target="III/10#147" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090140">
+      <idno type="mega">1013178</idno>
+      <orgName type="reg">Hubbard &amp; Co.</orgName>
+      <desc>Londoner Handelshaus; im Rußlandgeschäft tätig.</desc>
+      <linkGrp>
+         <ptr target="IV/12#839" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090141">
+      <idno type="mega">1013186</idno>
+      <orgName type="reg">Huber &amp; Co.</orgName>
+      <desc>Verlagsbuchhandlung in Bern.</desc>
+      <linkGrp>
+         <ptr target="IV/12#967" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090142">
+      <idno type="mega">1013182</idno>
+      <orgName type="reg">Huber, I.&#160;C.</orgName>
+      <desc>Berliner Verlag.</desc>
+      <linkGrp>
+         <ptr target="III/10#351" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090146">
+      <idno type="mega">1013361</idno>
+      <orgName type="reg">Huttner &amp; Co.</orgName>
+      <desc>Firma in Hamburg.</desc>
+      <linkGrp>
+         <ptr target="III/9#517" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090216">
+      <idno type="mega">1019641</idno>
+      <orgName type="reg">I.&#160;&amp;&#160;R. Morley Ltd.</orgName>
+      <desc>(Nottingham, später London) britisches Textil- und Handelsunternehmen; 1820 gegründet.</desc>
+      <linkGrp>
+         <ptr target="II/14#263" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090147">
+      <idno type="mega">1013428</idno>
+      <orgName type="reg">Ieanne &amp; Vater</orgName>
+      <desc>Firma in Köln.</desc>
+      <linkGrp>
+         <ptr target="III/13#938" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090148">
+      <idno type="mega">1013473</idno>
+      <orgName type="reg">Imperial Bank Ltd.</orgName>
+      <desc>Londoner Aktienbank, gegründet 1862; 1893 von der London Joint Stock Bank übernommen.</desc>
+      <linkGrp>
+         <ptr target="II/15#471" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090149">
+      <idno type="mega">1013500</idno>
+      <orgName type="reg">Inman-Line</orgName>
+      <desc>von William Inman 1850 gegründete englische Schiffahrtsgesellschaft Liverpool, New-York and Philadelphia Steamship Company.</desc>
+      <linkGrp>
+         <ptr target="I/31#735" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090150">
+      <idno type="mega">1030803</idno>
+      <orgName type="reg">Institut de France</orgName>
+      <desc>1795 gegründete höchste Körperschaft zur Förderung von Wissenschaft und Kunst mit Sitz Paris.</desc>
+      <linkGrp>
+         <ptr target="II/11#442" type="page"/>
+         <ptr target="II/11#1321" type="page"/>
+         <ptr target="II/13#453" type="page"/>
+         <ptr target="II/13#698" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090151">
+      <idno type="mega">1030804</idno>
+      <orgName type="reg">Institution of Civil Engineers</orgName>
+      <desc>1818 gegründete unabhängige Berufsvereinigung der englischen Ingenieure mit Sitz London.</desc>
+      <linkGrp>
+         <ptr target="II/11#103" type="page"/>
+         <ptr target="II/11#106" type="page"/>
+         <ptr target="II/11#113" type="page"/>
+         <ptr target="II/11#124" type="page"/>
+         <ptr target="II/11#126" type="page"/>
+         <ptr target="II/11#1286" type="page"/>
+         <ptr target="II/13#157" type="page"/>
+         <ptr target="II/13#651" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090152">
+      <idno type="mega">1013512</idno>
+      <orgName type="reg">International Railmakers’ Association</orgName>
+      <desc>1884 gegründetes Schienenkartell britischer, deutscher, belgischer und französischer Stahlwerke mit Sitz in London; 1886 aufgelöst.</desc>
+      <linkGrp>
+         <ptr target="II/15#429" type="page"/>
+         <ptr target="II/15#1141" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090066">
+      <idno type="mega">1005977</idno>
+      <orgName type="reg">Isaac Cooke &amp; Sons</orgName>
+      <desc>Twistfabrik in Manchester.</desc>
+      <linkGrp>
+         <ptr target="III/9#20" type="page"/>
+         <ptr target="III/9#36" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090163">
+      <idno type="mega">1014894</idno>
+      <orgName type="reg">J. A. Kienreich’sche</orgName>
+      <desc>Verlagsbuchhandlung in Graz.</desc>
+      <linkGrp>
+         <ptr target="IV/12#961" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090172">
+      <idno type="mega">1015968</idno>
+      <orgName type="reg">J. B. Lange</orgName>
+      <desc>Verlagsbuchhandlung in Gnesen.</desc>
+      <linkGrp>
+         <ptr target="IV/12#968" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090036">
+      <idno type="mega">1002446</idno>
+      <orgName type="reg">J. Bensheimer</orgName>
+      <desc>Verlagsbuchhandlung in Mannheim.</desc>
+      <linkGrp>
+         <ptr target="IV/12#963" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090074">
+      <idno type="mega">1006509</idno>
+      <orgName type="reg">J. Dalp</orgName>
+      <desc>Verlagsbuchhandlung in Bern.</desc>
+      <linkGrp>
+         <ptr target="IV/12#964" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090065">
+      <idno type="mega">1005572</idno>
+      <orgName type="reg">J. H. Claus &amp; J. Raulino</orgName>
+      <orgName type="alt">Claus &amp; Co.</orgName>
+      <desc>Geschäftspartner der Firma Ermen &amp; Engels in Rotterdam.</desc>
+      <linkGrp>
+         <ptr target="III/9#383" type="page"/>
+         <ptr target="III/10#34" type="page"/>
+         <ptr target="III/10#964" type="page"/>
+         <ptr target="III/13#9" type="page"/>
+         <ptr target="III/13#18" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090096">
+      <idno type="mega">1009678</idno>
+      <orgName type="reg">J. H. Frerichs &amp; Co.</orgName>
+      <desc>Baumwollfirma in New York.</desc>
+      <linkGrp>
+         <ptr target="III/9#254" type="page"/>
+         <ptr target="III/10#147" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090304">
+      <idno type="mega">1026813</idno>
+      <orgName type="reg">J. H. Stein</orgName>
+      <desc>Bankhaus in Köln.</desc>
+      <linkGrp>
+         <ptr target="III/9#403" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090077">
+      <idno type="mega">1007126</idno>
+      <orgName type="reg">J. H. W. Dietz</orgName>
+      <desc>(Stuttgart) deutscher Verlag; 1881 gegründet von Johann Heinrich Wilhelm Dietz ; 1897 Teilhaberschaft, 1906 Übernahme des Verlags durch die SPD.</desc>
+      <linkGrp>
+         <ptr target="II/14#458" type="page"/>
+         <ptr target="II/14#483" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090132">
+      <idno type="mega">1012781</idno>
+      <orgName type="reg">J. Hirtenfeld &amp; Meynert</orgName>
+      <desc>Verlagsbuchhandlung in Wien.</desc>
+      <linkGrp>
+         <ptr target="IV/12#958" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090285">
+      <idno type="mega">1025512</idno>
+      <orgName type="reg">J. Schwerin &amp; Söhne</orgName>
+      <desc>Kunden der Firma Ermen &amp; Engels in Breslau.</desc>
+      <linkGrp>
+         <ptr target="III/11#216" type="page"/>
+         <ptr target="III/11#314" type="page"/>
+         <ptr target="III/11#328" type="page"/>
+         <ptr target="III/11#329" type="page"/>
+         <ptr target="III/11#367" type="page"/>
+         <ptr target="III/11#381" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090276">
+      <idno type="mega">1025123</idno>
+      <orgName type="reg">J. W. Schmidt Co.</orgName>
+      <desc>Baumwollhandlung in New York.</desc>
+      <linkGrp>
+         <ptr target="III/9#102" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090210">
+      <idno type="mega">1018936</idno>
+      <orgName type="reg">J.&#160;B. Metzler’sche Buchhandlung</orgName>
+      <desc>Verlagsbuchhandlung in Stuttgart.</desc>
+      <linkGrp>
+         <ptr target="IV/12#959" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090098">
+      <idno type="mega">1010023</idno>
+      <orgName type="reg">J.&#160;B. von Gansewinkel &amp; Muller</orgName>
+      <desc>Firma in London.</desc>
+      <linkGrp>
+         <ptr target="III/10#1207" type="page"/>
+         <ptr target="III/10#1025" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090131">
+      <idno type="mega">1012731</idno>
+      <orgName type="reg">J.&#160;C. Hinrichs’sche Buchhandlung</orgName>
+      <desc>Verlags- und Sortimentsbuchhandlung in Leipzig.</desc>
+      <linkGrp>
+         <ptr target="IV/12#956" type="page"/>
+         <ptr target="IV/12#1472" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090262">
+      <idno type="mega">1023709</idno>
+      <orgName type="reg">J.&#160;F. &amp; H. Roberts.</orgName>
+      <desc>Baumwollfirma in Manchester.</desc>
+      <linkGrp>
+         <ptr target="III/11#338" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090110">
+      <idno type="mega">1011045</idno>
+      <orgName type="reg">J.&#160;F. Gress (Greß)</orgName>
+      <desc>Verlagsbuchhandlung in Wien.</desc>
+      <linkGrp>
+         <ptr target="IV/12#953" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090297">
+      <idno type="mega">1026425</idno>
+      <orgName type="reg">J.&#160;P. Sollinger’s Witwe</orgName>
+      <desc>Verlagsbuchhandlung in Wien.</desc>
+      <linkGrp>
+         <ptr target="IV/12#952" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090112">
+      <idno type="mega">1011155</idno>
+      <orgName type="reg">J.&#160;P.Grohe</orgName>
+      <orgName type="alt">Grohe</orgName>
+      <desc>Verlagsbuchhandlung in Mannheim.</desc>
+      <linkGrp>
+         <ptr target="IV/12#951" type="page"/>
+         <ptr target="IV/12#955" type="page"/>
+         <ptr target="IV/12#956" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090155">
+      <idno type="mega">1013966</idno>
+      <orgName type="reg">Jenni, Sohn</orgName>
+      <desc>Verlagsbuchhandlung in Bern.</desc>
+      <linkGrp>
+         <ptr target="IV/12#959" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090228">
+      <idno type="mega">1020262</idno>
+      <orgName type="reg">Johann Neugebauer</orgName>
+      <desc>Verlagsbuchhandlung in Olmütz.</desc>
+      <linkGrp>
+         <ptr target="IV/12#961" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090306">
+      <idno type="mega">1026924</idno>
+      <orgName type="reg">Johann Thomas Stettner</orgName>
+      <desc>Verlagsbuchhandlung in Lindau.</desc>
+      <linkGrp>
+         <ptr target="IV/12#967" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090337">
+      <idno type="mega">1029871</idno>
+      <orgName type="reg">Johann Wichelhaus P[eters] S[ohn]</orgName>
+      <desc>Bankhaus in Elberfeld (Wuppertal).</desc>
+      <linkGrp>
+         <ptr target="III/9#403" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090122">
+      <idno type="mega">1012194</idno>
+      <orgName type="reg">John Heinrich’s Volks-Buchhandlung</orgName>
+      <desc>Verlagsbuchhandlung in New York.</desc>
+      <linkGrp>
+         <ptr target="II/15#22" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090156">
+      <idno type="mega">1030805</idno>
+      <orgName type="reg">John Russel Cutlery Works (Tuners Falls, Mass.)</orgName>
+      <desc>US-amerikanische Messerwarenfabrik, gegründet 1834 als „Green River Works“.</desc>
+      <linkGrp>
+         <ptr target="II/12#477" type="page"/>
+         <ptr target="II/12#1265" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090267">
+      <idno type="mega">1024314</idno>
+      <orgName type="reg">John Russell Cutlery Company</orgName>
+      <desc>US-amerikanischer Produzent von Messerwaren; 1834 in Greenfield (Massachusetts) gegründet und bis 1933 selbständig existierend ; fertigte u.a. das „Green River Knife“ (Jagdmesser der Trapper).</desc>
+      <linkGrp>
+         <ptr target="II/11#1733" type="page"/>
+         <ptr target="II/13#480" type="page"/>
+         <ptr target="II/13#705" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090157">
+      <idno type="mega">1014207</idno>
+      <orgName type="reg">Jones, Loyd &amp; Co. (London)</orgName>
+      <desc>britische Privatbank, 1784 gegründet als Joseph Jones &amp; Co., seit 1808 Jones, Loyd &amp; Co., 1864 von der London and Westminster Bank übernommen.</desc>
+      <linkGrp>
+         <ptr target="II/14#241" type="page"/>
+         <ptr target="II/14#361" type="page"/>
+         <ptr target="II/15#395" type="page"/>
+         <ptr target="II/15#529" type="page"/>
+         <ptr target="II/15#555" type="page"/>
+         <ptr target="II/15#1112" type="page"/>
+         <ptr target="II/15#1173" type="page"/>
+         <ptr target="II/15#1194" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090161">
+      <idno type="mega">1014741</idno>
+      <orgName type="reg">Joseph Keck &amp; Sohn</orgName>
+      <desc>Verlagsbuchhandlung in Wien.</desc>
+      <linkGrp>
+         <ptr target="IV/12#953" type="page"/>
+         <ptr target="IV/12#956" type="page"/>
+         <ptr target="IV/12#963" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090158">
+      <idno type="mega">1014286</idno>
+      <orgName type="reg">Joyce</orgName>
+      <desc>Baumwollfirma in Manchester (1865).</desc>
+      <linkGrp>
+         <ptr target="III/13#390" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090302">
+      <idno type="mega">1026632</idno>
+      <orgName type="reg">Julius Springer</orgName>
+      <desc>Verlagsbuchhandlung in Berlin.</desc>
+      <linkGrp>
+         <ptr target="IV/12#954" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090167">
+      <idno type="mega">1015197</idno>
+      <orgName type="reg">K.&#160;F. Köhler</orgName>
+      <desc>Buchhandlung in Leipzig.</desc>
+      <linkGrp>
+         <ptr target="IV/12#956" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090160">
+      <idno type="mega">1014695</idno>
+      <orgName type="reg">Kaulfuss Witwe, Prandel &amp; Comp.</orgName>
+      <orgName type="alt">Kaulfuß Witwe. Prandel</orgName>
+      <desc>Verlagsbuchhandlung in Wien.</desc>
+      <linkGrp>
+         <ptr target="IV/12#963" type="page"/>
+      </linkGrp>
+   </org>
+            <org xml:id="ed_zjk_2qt_sy">
+               <orgName type="reg">Köln-Mindener-Eisenbahn-Gesellschaft</orgName>
+            </org>
+   <org xml:id="pdrPo.001.015.000090168">
+      <idno type="mega">1015374</idno>
+      <orgName type="reg">Kotherington and Comp.</orgName>
+      <desc>Außenhandelsfirma in London.</desc>
+      <linkGrp>
+         <ptr target="I/14#59" type="page"/>
+         <ptr target="I/14#101" type="page"/>
+         <ptr target="I/14#106" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090327">
+      <idno type="mega">1029148</idno>
+      <orgName type="reg">L. Voß</orgName>
+      <desc>Verlagsbuchhandlung in Leipzig.</desc>
+      <linkGrp>
+         <ptr target="IV/12#968" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090287">
+      <idno type="mega">1025628</idno>
+      <orgName type="reg">L. W. Seidel</orgName>
+      <desc>Verlagsbuchhandlung in Wien.</desc>
+      <linkGrp>
+         <ptr target="IV/12#968" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090170">
+      <idno type="mega">1030807</idno>
+      <orgName type="reg">Lancashire and Yorkshire Railway</orgName>
+      <desc>englische Eisenbahngesellschaft; existierte 1847–1921, verband die Westküste (Liverpool) mit der Ostküste (Goole). ; englische Eisenbahngesellschaft, ging 1847 aus der „Manchester &amp; Leeds Railway“ hervor ; verband die Westküste (Liverpool) mit der Ostküste (Goole).</desc>
+      <linkGrp>
+         <ptr target="II/11#107" type="page"/>
+         <ptr target="II/11#126" type="page"/>
+         <ptr target="II/12#148" type="page"/>
+         <ptr target="II/12#1012" type="page"/>
+         <ptr target="II/12#1220" type="page"/>
+         <ptr target="II/13#167" type="page"/>
+         <ptr target="II/13#654" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090173">
+      <idno type="mega">1015975</idno>
+      <orgName type="reg">Langenbeck &amp; Co.</orgName>
+      <orgName type="alt">Langenbek</orgName>
+      <desc>Textilfirma in Barmen (Wuppertal).</desc>
+      <linkGrp>
+         <ptr target="III/9#253" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090174">
+      <idno type="mega">1016187</idno>
+      <orgName type="reg">Lawrence Manufacturing Co.</orgName>
+      <desc>(Boston) US-amerikanische Baumwollspinnerei; 1831 gegründet. ; US–amerikanische Baumwollspinnerei in Lowell (Massachusetts), Firmensitz war Boston ; existierte selbständig 1831–1926.</desc>
+      <linkGrp>
+         <ptr target="II/12#1264" type="page"/>
+         <ptr target="II/13#479" type="page"/>
+         <ptr target="II/13#704" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090175">
+      <idno type="mega">1016214</idno>
+      <orgName type="reg">Leaf &amp; Co. Ltd. (London)</orgName>
+      <desc>britisches Warenhaus, im Dezember 1888 in eine Aktiengesellschaft umgewandelt.</desc>
+      <linkGrp>
+         <ptr target="II/14#263" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090177">
+      <idno type="mega">1016259</idno>
+      <orgName type="reg">Lediheur &amp; Co.</orgName>
+      <desc>Bankgesellschaft in Paris.</desc>
+      <linkGrp>
+         <ptr target="I/14#688" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090178">
+      <idno type="mega">1016286</idno>
+      <orgName type="reg">Lee and Shepard</orgName>
+      <desc>amerikanisches Verlagshaus.</desc>
+      <linkGrp>
+         <ptr target="I/31#882" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090179">
+      <idno type="mega">1016081</idno>
+      <orgName type="reg">Leopold Lassar</orgName>
+      <desc>Buchhandlung in Berlin.</desc>
+      <linkGrp>
+         <ptr target="IV/12#960" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090182">
+      <idno type="mega">1016675</idno>
+      <orgName type="reg">Lewis &amp; Lewis</orgName>
+      <desc>Rechtsanwaltsbüro in London.</desc>
+      <linkGrp>
+         <ptr target="III/10#224" type="page"/>
+         <ptr target="III/10#259" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090183">
+      <idno type="mega">1016726</idno>
+      <orgName type="reg">Liebert &amp; Conis</orgName>
+      <desc>Geschäftspartner der Firma Ermen &amp; Enges in Manchester.</desc>
+      <linkGrp>
+         <ptr target="III/11#1304" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090184">
+      <idno type="mega">1016858</idno>
+      <orgName type="reg">Literarische Anstalt Rütten &amp; Loening</orgName>
+      <orgName type="alt">Lit. Anst.</orgName>
+      <desc>Verlagsbuchhandlung in Frankfurt am Main.</desc>
+      <linkGrp>
+         <ptr target="IV/12#956" type="page"/>
+         <ptr target="IV/12#959" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090185">
+      <idno type="mega">1016873</idno>
+      <orgName type="reg">Liverpool Exchange Banking Co. Ltd.</orgName>
+      <orgName type="alt">Liverpool Joint Stock Bank</orgName>
+      <desc>Zweigstelle der London Stock Exchange seit 1836.</desc>
+      <linkGrp>
+         <ptr target="II/15#402" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090187">
+      <idno type="mega">1016899</idno>
+      <orgName type="reg">Lloyds Bank Ltd.</orgName>
+      <desc>britische Aktienbank seit 1889; gegründet 1765 als Privatbank Taylor &amp; Lloyds in Birmingham ; 1865 in eine Aktienbank umgewandelt ; Aufbau eines umfangreichen Filialnetzes ; seit 1912 in London.</desc>
+      <linkGrp>
+         <ptr target="II/15#471" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090186">
+      <idno type="mega">1016898</idno>
+      <orgName type="reg">Lloyd’s</orgName>
+      <desc>1688 erstmals erwähnte Gesellschaft von Kaufleuten, Schiffseignern und Versicherungsagenten zum Austausch maritimer Informationen jeglicher Art mittels Agenten in allen wichtigen Hafenstädten; besaß Mitte des 19.&#160;Jh. einen ausgedehnten Nachrichtendienst und eine eigene Zeitung.</desc>
+      <linkGrp>
+         <ptr target="I/14#42" type="page"/>
+         <ptr target="I/14#55" type="page"/>
+         <ptr target="I/14#423" type="page"/>
+         <ptr target="I/14#988" type="page"/>
+         <ptr target="I/14#1337" type="page"/>
+         <ptr target="IV/12#43" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090190">
+      <idno type="mega">1030811</idno>
+      <orgName type="reg">London &amp; Brighton Railway Co.</orgName>
+      <desc>englische Eisenbahngesellschaft, gegründet 1837; eröffnete 1841 die Strecke von London nach Brighton.</desc>
+      <linkGrp>
+         <ptr target="II/12#148" type="page"/>
+         <ptr target="II/12#1012" type="page"/>
+         <ptr target="II/12#1220" type="page"/>
+         <ptr target="II/13#167" type="page"/>
+         <ptr target="II/13#654" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090191">
+      <idno type="mega">1016998</idno>
+      <orgName type="reg">London &amp; County Banking Co. Ltd.</orgName>
+      <desc>Londoner Aktienbank seit 1838, gegründet 1836 als Surrey, Kent &amp; Sussex Banking Co. in Southwark; fusionierte 1909 mit der London &amp; Westminster Bank Ltd.</desc>
+      <linkGrp>
+         <ptr target="II/15#471" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090192">
+      <idno type="mega">1016999</idno>
+      <orgName type="reg">London &amp; Midland Bank Ltd.</orgName>
+      <desc>britische Aktienbank, gegründet 1836 als Birmingham &amp; Midland Banking Co.; fusionierte 1891 mit der Central Bank of London zur London &amp; Midland Bank ; Mitglied im Londoner Clearing House ; 1898 London, City &amp; Midland Bank Ltd ; 1923 Midland Bank Ltd.</desc>
+      <linkGrp>
+         <ptr target="II/15#471" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090194">
+      <idno type="mega">1017001</idno>
+      <orgName type="reg">London &amp; South Western Bank Ltd.</orgName>
+      <desc>Londoner Aktienbank, gegründet 1862; fusionierte 1917 mit der London &amp; Provincial Bank Ltd.</desc>
+      <linkGrp>
+         <ptr target="II/15#471" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090196">
+      <idno type="mega">1017002</idno>
+      <orgName type="reg">London &amp; Westminster Bank Ltd.</orgName>
+      <desc>Londoner Aktienbank seit 1880, gegründet 1834; fusionierte 1909 mit der London &amp; County Banking Co. Ltd.</desc>
+      <linkGrp>
+         <ptr target="II/15#471" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090197">
+      <idno type="mega">1017003</idno>
+      <orgName type="reg">London Joint Stock Bank Ltd.</orgName>
+      <desc>eine der ersten Londoner Aktienbanken, gegründet 1836; fusionierte 1893 mit der Imperial Bank Ltd.</desc>
+      <linkGrp>
+         <ptr target="II/15#471" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090189">
+      <idno type="mega">1030810</idno>
+      <orgName type="reg">London and Brighton Railway</orgName>
+      <desc>englische Eisenbahngesellschaft; existierte 18371846, eröffnete 1841 die Strecke von London nach Brighton.</desc>
+      <linkGrp>
+         <ptr target="II/11#107" type="page"/>
+         <ptr target="II/11#122" type="page"/>
+         <ptr target="II/11#126" type="page"/>
+         <ptr target="II/11#1288" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090193">
+      <idno type="mega">1030812</idno>
+      <orgName type="reg">London and North Western RailwayLondon &amp; North Western Railway Co.</orgName>
+      <desc>englische Eisenbahngesellschaft; existierte 1846–1922. ; englische Eisenbahngesellschaft, entstand 1846 aus der London &amp; Birmingham Railway, Grand Junction Railway und Manchester &amp; Birmingham Railway.</desc>
+      <linkGrp>
+         <ptr target="II/11#101" type="page"/>
+         <ptr target="II/11#107" type="page"/>
+         <ptr target="II/11#111" type="page"/>
+         <ptr target="II/11#126" type="page"/>
+         <ptr target="II/11#1288" type="page"/>
+         <ptr target="II/12#148" type="page"/>
+         <ptr target="II/12#1006" type="page"/>
+         <ptr target="II/12#1012" type="page"/>
+         <ptr target="II/12#1220" type="page"/>
+         <ptr target="II/13#167" type="page"/>
+         <ptr target="II/13#654" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090195">
+      <idno type="mega">1030813</idno>
+      <orgName type="reg">London and South Western RailwayLondon &amp; South Western Railway Co.</orgName>
+      <desc>englische Eisenbahngesellschaft; existierte 1838–1922, betrieb ein Streckennetz bis Plymouth. ; englische Eisenbahngesellschaft, 1840 gegründet ; betrieb ein Streckennetz bis Plymouth.</desc>
+      <linkGrp>
+         <ptr target="II/11#107" type="page"/>
+         <ptr target="II/11#126" type="page"/>
+         <ptr target="II/12#148" type="page"/>
+         <ptr target="II/12#1012" type="page"/>
+         <ptr target="II/12#1220" type="page"/>
+         <ptr target="II/13#167" type="page"/>
+         <ptr target="II/13#654" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090198">
+      <idno type="mega">1017008</idno>
+      <orgName type="reg">Lonergan and Co.</orgName>
+      <desc>Handelshaus in London.</desc>
+      <linkGrp>
+         <ptr target="I/14#59" type="page"/>
+         <ptr target="I/14#993" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090199">
+      <idno type="mega">1017022</idno>
+      <orgName type="reg">Longman, Brown, Green and Longmans</orgName>
+      <desc>Verlagshaus in London.</desc>
+      <linkGrp>
+         <ptr target="IV/12#967" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090200">
+      <idno type="mega">1017207</idno>
+      <orgName type="reg">Loyd Entwistle</orgName>
+      <desc>englisches Bankhaus.</desc>
+      <linkGrp>
+         <ptr target="III/9#62" type="page"/>
+         <ptr target="III/9#439" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090237">
+      <idno type="mega">1021105</idno>
+      <orgName type="reg">Ludwig Pabst</orgName>
+      <desc>Verlagsbuchhandlung in Darmstadt.</desc>
+      <linkGrp>
+         <ptr target="IV/12#960" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090273">
+      <idno type="mega">1024986</idno>
+      <orgName type="reg">M.&#160;Schläpfer’sche Buchhandlung</orgName>
+      <desc>Verlagsbuchhandlung in Herisau (Schweiz).</desc>
+      <linkGrp>
+         <ptr target="IV/12#956" type="page"/>
+         <ptr target="IV/12#957" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090201">
+      <idno type="mega">1030814</idno>
+      <orgName type="reg">Manchester, Sheffield and Lincolnshire Railway</orgName>
+      <desc>englische Eisenbahngesellschaft; 1847 aus mehreren kleinen Gesellschaften gebildet, seit 1897 unter dem Namen Great Central Railway, existierte bis 1922.</desc>
+      <linkGrp>
+         <ptr target="II/11#107" type="page"/>
+         <ptr target="II/11#126" type="page"/>
+         <ptr target="II/11#1288" type="page"/>
+         <ptr target="II/12#148" type="page"/>
+         <ptr target="II/12#1012" type="page"/>
+         <ptr target="II/12#1200" type="page"/>
+         <ptr target="II/12#1220" type="page"/>
+         <ptr target="II/13#167" type="page"/>
+         <ptr target="II/13#654" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090202">
+      <idno type="mega">1017925</idno>
+      <orgName type="reg">Maona di Genua</orgName>
+      <desc>1347 gegründete Aktiengesellschaft genuesischer Kaufleute zur Ausübung von Nutzungsrechten nach der Eroberung einiger griechischer Inseln.</desc>
+      <linkGrp>
+         <ptr target="II/14#335" type="page"/>
+         <ptr target="II/14#1017" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090038">
+      <idno type="mega">1002613</idno>
+      <orgName type="reg">Marco Berra</orgName>
+      <desc>Verlagsbuchhandlung in Prag.</desc>
+      <linkGrp>
+         <ptr target="IV/12#952" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090203">
+      <idno type="mega">1018370</idno>
+      <orgName type="reg">Matfeld, Ed.</orgName>
+      <desc>Seidenwarenhandlung in Hamburg.</desc>
+      <linkGrp>
+         <ptr target="III/9#517" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090204">
+      <idno type="mega">1018449</idno>
+      <orgName type="reg">Maurice &amp; Miller</orgName>
+      <desc>Firma in Manchester.</desc>
+      <linkGrp>
+         <ptr target="III/13#242" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090208">
+      <idno type="mega">1018762</idno>
+      <orgName type="reg">Mendelssohn &amp; Co.</orgName>
+      <desc>Berliner Bankhaus.</desc>
+      <linkGrp>
+         <ptr target="I/14#1504" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090209">
+      <idno type="mega">1018828</idno>
+      <orgName type="reg">Merchant Adventurers</orgName>
+      <desc>staatlich konzessioniertes englisches Handelsunternehmen für Woll- und Tuchexport.</desc>
+      <linkGrp>
+         <ptr target="II/14#1018" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090211">
+      <idno type="mega">1019023</idno>
+      <orgName type="reg">Meyer &amp; Hanisch</orgName>
+      <desc>Verlagsbuchhandlung in Zürich.</desc>
+      <linkGrp>
+         <ptr target="IV/12#959" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090212">
+      <idno type="mega">1019094</idno>
+      <orgName type="reg">Michelsen’s Buchhandlung Goetze &amp; Mierisch</orgName>
+      <desc>Verlagsbuchhandlung in Leipzig.</desc>
+      <linkGrp>
+         <ptr target="IV/12#962" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090213">
+      <idno type="mega">1030819</idno>
+      <orgName type="reg">Midland Railway</orgName>
+      <desc>englische Eisenbahngesellschaft; existierte 1844–1922, gebildet aus drei kleineren Eisenbahngesellschaften. ; englische Eisenbahngesellschaft, gegründet 1830 als North Midland Railway aus mehreren Gesellschaften, 1844 umbenannt nach der Fusion mit der „Birmingham &amp; Derby Railway Co.“</desc>
+      <linkGrp>
+         <ptr target="II/11#107" type="page"/>
+         <ptr target="II/11#126" type="page"/>
+         <ptr target="II/12#148" type="page"/>
+         <ptr target="II/12#1012" type="page"/>
+         <ptr target="II/12#1220" type="page"/>
+         <ptr target="II/13#167" type="page"/>
+         <ptr target="II/13#654" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090217">
+      <idno type="mega">1019678</idno>
+      <orgName type="reg">Morrison, Dillon &amp; Co.</orgName>
+      <desc>Handelsunternehmen in London.</desc>
+      <linkGrp>
+         <ptr target="II/14#263" type="page"/>
+         <ptr target="II/14#873" type="page"/>
+         <ptr target="II/14#897" type="page"/>
+         <ptr target="II/14#898" type="page"/>
+         <ptr target="II/15#517" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090222">
+      <idno type="mega">1020120</idno>
+      <orgName type="reg">National Bank Ltd.</orgName>
+      <desc>britische Aktienbank, gegründet 1835 als National Bank of Ireland mit Sitz in London zur Finanzierung der irischen Wirtschaft unabhängig von der Bank of Ireland; seit 1856 National Bank Ltd. ; seit 1859 Mitglied im Londoner Clearing House.</desc>
+      <linkGrp>
+         <ptr target="II/15#471" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090223">
+      <idno type="mega">1020121</idno>
+      <orgName type="reg">National Bank of Credit</orgName>
+      <desc>britisches Bankhaus in Devonshire, gegründet 1683.</desc>
+      <linkGrp>
+         <ptr target="II/15#594" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090224">
+      <idno type="mega">1020122</idno>
+      <orgName type="reg">National Bank of Liverpool Ltd.</orgName>
+      <orgName type="alt">Union Bank of Liverpool</orgName>
+      <desc>britisches Bankhaus, gegründet 1863; 1883 übernommen von Parr’s Banking &amp; Ltd.</desc>
+      <linkGrp>
+         <ptr target="II/15#404" type="page"/>
+         <ptr target="II/15#438" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090225">
+      <idno type="mega">1020123</idno>
+      <orgName type="reg">National Provincial Bank Ltd.</orgName>
+      <desc>Londoner Aktienbank, gegründet 1833 auf Initiative von Thomas Joplin; fusionierte 1918 mit der Union of London &amp; Smiths Bank Ltd.</desc>
+      <linkGrp>
+         <ptr target="II/15#471" type="page"/>
+      </linkGrp>
+   </org>
+            <org xml:id="ed_x5y_4w3_yy">
+               <orgName type="reg">New Mansfeld Mining Company</orgName>
+            </org>
+   <org xml:id="pdrPo.001.015.000090230">
+      <idno type="mega">1020504</idno>
+      <orgName type="reg">Norlach</orgName>
+      <desc>Gastwirtschaft in Zürich.</desc>
+      <linkGrp>
+         <ptr target="III/9#34" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090231">
+      <idno type="mega">1030821</idno>
+      <orgName type="reg">North Eastern Railway</orgName>
+      <desc>englische Eisenbahngesellschaft; existierte selbständig 1854–1923, gebildet aus drei kleineren Gesellschaften.</desc>
+      <linkGrp>
+         <ptr target="II/11#107" type="page"/>
+         <ptr target="II/11#126" type="page"/>
+         <ptr target="II/11#1293" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090232">
+      <idno type="mega">1020848</idno>
+      <orgName type="reg">Oppenheim</orgName>
+      <desc>Bankhaus in Köln seit 1798.</desc>
+      <linkGrp>
+         <ptr target="III/13#166" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090233">
+      <idno type="mega">1020875</idno>
+      <orgName type="reg">Orell, Füssli &amp; Co.</orgName>
+      <orgName type="alt">Füßli</orgName>
+      <desc>Verlagsbuchhandlung in Zürich.</desc>
+      <linkGrp>
+         <ptr target="IV/12#960" type="page"/>
+         <ptr target="IV/12#964" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090207">
+      <idno type="mega">1018692</idno>
+      <orgName type="reg">Otto Meißner</orgName>
+      <desc>Verlag und Sortimentsbuchhandlung in Hamburg, gegründet 1848; verlegte alle drei Bände des „Kapitals“.</desc>
+      <linkGrp>
+         <ptr target="II/15#3" type="page"/>
+         <ptr target="II/15#453" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090299">
+      <idno type="mega">1026544</idno>
+      <orgName type="reg">Otto Spamer</orgName>
+      <desc>Verlagsbuchhandlung in Leipzig.</desc>
+      <linkGrp>
+         <ptr target="IV/12#956" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090338">
+      <idno type="mega">1029918</idno>
+      <orgName type="reg">Otto Wigand</orgName>
+      <desc>Verlagsbuchhandlung in Leipzig.</desc>
+      <linkGrp>
+         <ptr target="IV/12#952" type="page"/>
+         <ptr target="IV/12#953" type="page"/>
+         <ptr target="IV/12#958" type="page"/>
+         <ptr target="IV/12#963" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090236">
+      <idno type="mega">1021071</idno>
+      <orgName type="reg">Overend, Gurney &amp; Co.</orgName>
+      <desc>Londoner Diskontbank; gegründet 1805 als Richardson, Overend &amp; Co., seit 1827 Overend, Gurney &amp; Co., 1865 Umwandlung zur Aktienbank Overend, Gurney &amp; Co. Ltd. ; im Jahre 1866 beschleunigte ihr Zusammenbruch die wirtschaftliche Krise und führte zur dritten Aufhebung des Bankaktes von 1844.</desc>
+      <linkGrp>
+         <ptr target="II/14#446–448" type="page"/>
+         <ptr target="II/15#402" type="page"/>
+         <ptr target="II/15#405" type="page"/>
+         <ptr target="II/15#515" type="page"/>
+         <ptr target="II/15#520" type="page"/>
+         <ptr target="II/15#521" type="page"/>
+         <ptr target="II/15#533" type="page"/>
+         <ptr target="II/15#538" type="page"/>
+         <ptr target="II/15#565" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090238">
+      <idno type="mega">1021186</idno>
+      <orgName type="reg">Palmer &amp; Nall.</orgName>
+      <desc>keine Angaben im Band</desc>
+      <linkGrp>
+         <ptr target="III/13#391" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090239">
+      <idno type="mega">1021285</idno>
+      <orgName type="reg">Parkinson &amp; Strohn</orgName>
+      <desc>Firma in Bradford.</desc>
+      <linkGrp>
+         <ptr target="III/9#410" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090240">
+      <idno type="mega">1021310</idno>
+      <orgName type="reg">Parr’s Banking Co. &amp; Alliance Bank Ltd.</orgName>
+      <desc>britische Aktienbank seit 1892; gegründet 1782 als Parr &amp; Co. ; 1865 Umwandlung zur Aktienbank als Parr’s Banking Co. Ltd. ; seit 1891 Mitglied im Londoner Clearing House.</desc>
+      <linkGrp>
+         <ptr target="II/15#471" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090241">
+      <idno type="mega">1021314</idno>
+      <orgName type="reg">Parson</orgName>
+      <desc>Handelsunternehmen in London.</desc>
+      <linkGrp>
+         <ptr target="II/14#263" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090242">
+      <idno type="mega">1021499</idno>
+      <orgName type="reg">Peill &amp; Amels</orgName>
+      <desc>Firma in Crefeld.</desc>
+      <linkGrp>
+         <ptr target="III/10#751" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090243">
+      <idno type="mega">1030827</idno>
+      <orgName type="reg">Peninsular &amp; Oriental Steam Navigation Co. Ltd.</orgName>
+      <desc>britische Reederei mit Hauptsitz in London; 1852 aus der 1834 gegründeten Peninsular Steam Navigation Company hervorgegangen und bis heute existent, war sie seinerzeit die größte Reederei der Welt.</desc>
+      <linkGrp>
+         <ptr target="II/11#107" type="page"/>
+         <ptr target="II/11#112" type="page"/>
+         <ptr target="II/11#1288" type="page"/>
+         <ptr target="II/13#163" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090264">
+      <idno type="mega">1023896</idno>
+      <orgName type="reg">Peter Rohrmann</orgName>
+      <desc>Verlagsbuchhandlung in Wien.</desc>
+      <linkGrp>
+         <ptr target="IV/12#964" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090245">
+      <idno type="mega">1021827</idno>
+      <orgName type="reg">Pfeiffer &amp; Schmidt</orgName>
+      <desc>Textilhandelsfirma in Braunschweig, Kunden von Ermen &amp; Engels.</desc>
+      <linkGrp>
+         <ptr target="III/9#20" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090249">
+      <idno type="mega">1022544</idno>
+      <orgName type="reg">Prescott, Dimsdale, Cave, Tugwell &amp; Co. Ltd.</orgName>
+      <desc>Londoner Aktienbank seit 1891; gegründet 1766 als Prescott, Grote, Culverden &amp; Hollingsworth ; 1903 nach Übernahm verschiedener Banken in Prescott’s Bank Ltd. umbenannt.</desc>
+      <linkGrp>
+         <ptr target="II/15#471" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090250">
+      <idno type="mega">1022560</idno>
+      <orgName type="reg">Preyer, Aders, &amp; Co.</orgName>
+      <desc>Textilfirma in Manchester, gegründet 1834.</desc>
+      <linkGrp>
+         <ptr target="III/10#32" type="page"/>
+         <ptr target="III/10#34" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090251">
+      <idno type="mega">1022726</idno>
+      <orgName type="reg">Pustet’sche</orgName>
+      <desc>Verlags- und Sortimentsbuchhandlung Friedrich Pustet mit Sitz in Regensburg.</desc>
+      <linkGrp>
+         <ptr target="IV/12#961" type="page"/>
+         <ptr target="IV/12#962" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090252">
+      <idno type="mega">1022821</idno>
+      <orgName type="reg">Quistorp &amp; Co.</orgName>
+      <desc>1870 von Heinrich Quistorp in Berlin gegründete Vereinsbank, ging 1873 in Konkurs.</desc>
+   </org>
+   <org xml:id="pdrPo.001.015.000090346">
+      <idno type="mega">1030780</idno>
+      <orgName type="reg">R. Zwilchenbart, Forrer &amp; Co.</orgName>
+      <desc>Firma in Liverpool.</desc>
+      <linkGrp>
+         <ptr target="III/9#36" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090253">
+      <idno type="mega">1023086</idno>
+      <orgName type="reg">Recking</orgName>
+      <desc>Gasthof in Trier.</desc>
+      <linkGrp>
+         <ptr target="III/9#250" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090254">
+      <idno type="mega">1023099</idno>
+      <orgName type="reg">Reder’sche Buchhandlung</orgName>
+      <desc>in Barmen.</desc>
+      <linkGrp>
+         <ptr target="III/13#292" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090258">
+      <idno type="mega">1023363</idno>
+      <orgName type="reg">Reuter &amp; Stargardt</orgName>
+      <desc>Verlagsbuchhandlung in Berlin.</desc>
+      <linkGrp>
+         <ptr target="IV/12#955" type="page"/>
+      </linkGrp>
+   </org>
+            <org xml:id="ed_o5c_rfr_bz">
+               <orgName type="reg">Reuters
+                  [=<?oxy_comment_start author="lindenberg" timestamp="20170227T180151+0100" comment="Quelle für den Namen
+http://familienbuch-euregio.eu/genius/?person=331688"?>Reuters
+                  Telegraphic Comp. Incorporated<?oxy_comment_end?>?]</orgName>
+               <desc>Telegraphenagentur in London</desc>
+            </org>
+   <org xml:id="pdrPo.001.015.000090257">
+      <idno type="mega">1023357</idno>
+      <orgName type="reg">Reuß, Kling &amp; Co.</orgName>
+      <orgName type="alt">Reuss</orgName>
+      <desc>Handelsfirma in Manchester.</desc>
+      <linkGrp>
+         <ptr target="III/11#335" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090219">
+      <idno type="mega">1019842</idno>
+      <orgName type="reg">Richard Müller &amp; Moll</orgName>
+      <desc>Handelsfirma in Manchester.</desc>
+      <linkGrp>
+         <ptr target="III/11#533" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090260">
+      <idno type="mega">1023495</idno>
+      <orgName type="reg">Richardson, I.&#160;N. Sons &amp; Owden</orgName>
+      <desc>englische Firma.</desc>
+      <linkGrp>
+         <ptr target="III/10#393" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090261">
+      <idno type="mega">1030823</idno>
+      <orgName type="reg">Robert Funke &amp; Co.</orgName>
+      <desc>Baumwollhandelsfirma in Liverpool.</desc>
+      <linkGrp>
+         <ptr target="III/13#1294" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090269">
+      <idno type="mega">1024822</idno>
+      <orgName type="reg">Robert Schaefer</orgName>
+      <orgName type="alt">Schäfer</orgName>
+      <desc>Verlagsbuchhandlung in Dresden.</desc>
+      <linkGrp>
+         <ptr target="IV/12#952" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090263">
+      <idno type="mega">1023875</idno>
+      <orgName type="reg">Rogers, Lowrey, Holyland, and Co.</orgName>
+      <desc>Handelshaus in London.</desc>
+      <linkGrp>
+         <ptr target="I/14#59" type="page"/>
+         <ptr target="I/14#993" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090265">
+      <idno type="mega">1024101</idno>
+      <orgName type="reg">Rothschild</orgName>
+      <desc>internationales Bankhaus, seit Ende des 18.&#160;Jahrhunderts in Frankfurt am Main, später auch in Wien, Paris, London und Neapel tätig. Die fünf Söhne des jüdischen Begründers Meyer Amschel Rothschild (1743–1812) wurden 1822 österreichische Barone.</desc>
+      <linkGrp>
+         <ptr target="I/14#712" type="page"/>
+         <ptr target="I/14#902" type="page"/>
+         <ptr target="I/14#903" type="page"/>
+         <ptr target="II/14#418" type="page"/>
+         <ptr target="I/31#250" type="page"/>
+         <ptr target="III/10#549" type="page"/>
+         <ptr target="III/10#550" type="page"/>
+         <ptr target="III/10#1149" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090266">
+      <idno type="mega">1024165</idno>
+      <orgName type="reg">Royal Bank of Liverpool</orgName>
+      <desc>Zweigstelle der Royal Bank of Scotland.</desc>
+      <linkGrp>
+         <ptr target="II/15#401" type="page"/>
+         <ptr target="II/15#482" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090176">
+      <idno type="mega">1016239</idno>
+      <orgName type="reg">Rudolf Lechner &amp; Sohn</orgName>
+      <desc>Verlags- und Kommissionsbuchhandlung in Wien.</desc>
+      <linkGrp>
+         <ptr target="IV/12#956" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090331">
+      <idno type="mega">1029470</idno>
+      <orgName type="reg">S. &amp; J. Watts &amp; Co.</orgName>
+      <desc>Firma in Manchester.</desc>
+      <linkGrp>
+         <ptr target="III/9#516" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090246">
+      <idno type="mega">1021979</idno>
+      <orgName type="reg">S. &amp; N. Philips &amp; Co.</orgName>
+      <desc>Firma in Manchester.</desc>
+      <linkGrp>
+         <ptr target="III/9#516" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090033">
+      <idno type="mega">1002298</idno>
+      <orgName type="reg">S. L. Behrens &amp; Co.</orgName>
+      <desc>Textilfirma in Manchester.</desc>
+      <linkGrp>
+         <ptr target="III/9#517" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090188">
+      <idno type="mega">1016958</idno>
+      <orgName type="reg">S. Löwenherz</orgName>
+      <desc>Buchhandlung in Berlin.</desc>
+      <linkGrp>
+         <ptr target="IV/12#957" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090235">
+      <idno type="mega">1020982</idno>
+      <orgName type="reg">S. Ostersetzer &amp; Co.</orgName>
+      <desc>Firma in Brody (Galizien).</desc>
+      <linkGrp>
+         <ptr target="III/11#444" type="page"/>
+         <ptr target="III/11#809" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090180">
+      <idno type="mega">1016637</idno>
+      <orgName type="reg">S.&#160;A. Levino &amp; Co.</orgName>
+      <desc>Geschäftspartner der Firma Ermen &amp; Engels.</desc>
+      <linkGrp>
+         <ptr target="III/9#383" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090026">
+      <idno type="mega">1001968</idno>
+      <orgName type="reg">S.&#160;Baseche &amp; Ambos</orgName>
+      <desc>Firma in Brody (Galizien).</desc>
+      <linkGrp>
+         <ptr target="III/11#444" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090270">
+      <idno type="mega">1024878</idno>
+      <orgName type="reg">Schaumburg &amp; Comp.</orgName>
+      <desc>Verlagsbuchhandlung in Wien.</desc>
+      <linkGrp>
+         <ptr target="IV/12#955" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090271">
+      <idno type="mega">1024900</idno>
+      <orgName type="reg">Scheidt &amp; von Beckerath</orgName>
+      <desc>Firma in Crefeld.</desc>
+      <linkGrp>
+         <ptr target="III/10#751" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090272">
+      <idno type="mega">1024904</idno>
+      <orgName type="reg">Scheitlin &amp; Zollikofer</orgName>
+      <desc>Verlagsbuchhandlung in St. Gallen.</desc>
+      <linkGrp>
+         <ptr target="IV/12#956" type="page"/>
+         <ptr target="IV/12#957" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090274">
+      <idno type="mega">1025006</idno>
+      <orgName type="reg">Schletter’sche Buchhandlung</orgName>
+      <desc>Verlagsbuchhandlung in Breslau.</desc>
+      <linkGrp>
+         <ptr target="IV/12#955" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090275">
+      <idno type="mega">1025122</idno>
+      <orgName type="reg">Schmidt &amp; Co.</orgName>
+      <linkGrp>
+         <ptr target="III/10#751" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090277">
+      <idno type="mega">1025293</idno>
+      <orgName type="reg">Schramm &amp; von Lumm</orgName>
+      <desc>Seidenweberei in Krefeld.</desc>
+      <linkGrp>
+         <ptr target="III/9#673" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090279">
+      <idno type="mega">1030835</idno>
+      <orgName type="reg">Schröder &amp; Schyler &amp; Co.</orgName>
+      <desc>Weinhandlung in Bordeaux mit Niederlassung in London.</desc>
+      <linkGrp>
+         <ptr target="III/13#242" type="page"/>
+         <ptr target="III/13#814" type="page"/>
+         <ptr target="III/13#843" type="page"/>
+         <ptr target="III/13#934" type="page"/>
+         <ptr target="III/13#953" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090282">
+      <idno type="mega">1025336</idno>
+      <orgName type="reg">Schuberth &amp; Comp.</orgName>
+      <desc>Verlagsbuch- und Musikalienhandlung in Hamburg und Leipzig.</desc>
+      <linkGrp>
+         <ptr target="IV/12#954" type="page"/>
+         <ptr target="IV/12#968" type="page"/>
+      </linkGrp>
+   </org>
+            <org xml:id="ed_qsm_1pt_cz">
+               <orgName type="reg">Schütte,E. u.
+                  Co.<?oxy_comment_start author="reichhoff" timestamp="20170303T114437+0100" comment="aus Brief 1866/28"?></orgName>
+               <?oxy_comment_end?>
+            </org>
+   <org xml:id="pdrPo.001.015.000090284">
+      <idno type="mega">1025433</idno>
+      <orgName type="reg">Schunck, Souchay &amp; Co.</orgName>
+      <desc>Textilhandelsfirma in Manchester.</desc>
+      <linkGrp>
+         <ptr target="III/9#253" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090286">
+      <idno type="mega">1030836</idno>
+      <orgName type="reg">Scottish North Eastern Railway</orgName>
+      <desc>schottische Eisenbahngesellschaft; 1856 hervorgegangen aus der Vereinigung von Aberdeen Railway und Scottish Midland Junction Railway, existierte selbständig bis 1866, ging in der Caledonian Railway auf.</desc>
+      <linkGrp>
+         <ptr target="II/11#107" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090288">
+      <idno type="mega">1025741</idno>
+      <orgName type="reg">Serin &amp; Chimery’s</orgName>
+      <desc>Firma in Manchester.</desc>
+      <linkGrp>
+         <ptr target="III/11#447" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090291">
+      <idno type="mega">1026052</idno>
+      <orgName type="reg">Sigmund</orgName>
+      <desc>Verlagsbuchhandlung in Klagenfurth.</desc>
+      <linkGrp>
+         <ptr target="IV/12#968" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090292">
+      <idno type="mega">1026115</idno>
+      <orgName type="reg">Simon Schropp &amp; Co.</orgName>
+      <desc>Berliner Verlagsbuchhandlung für Landkarten.</desc>
+      <linkGrp>
+         <ptr target="IV/12#961" type="page"/>
+         <ptr target="IV/12#962" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090293">
+      <idno type="mega">1026277</idno>
+      <orgName type="reg">Smith, Elder and Co.</orgName>
+      <desc>Verlagshaus in London.</desc>
+      <linkGrp>
+         <ptr target="III/13#669" type="page"/>
+         <ptr target="III/13#1327" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090294">
+      <idno type="mega">1026325</idno>
+      <orgName type="reg">Smith, Payne &amp; Smiths</orgName>
+      <orgName type="alt">Smith, Payne &amp; Co.</orgName>
+      <desc>Londoner Privatbank, gegründet 1758 als Smith &amp; Payne; seit 1785 Smith, Payne &amp; Smiths ; fusionierte 1902 mit der Union Bank of London zur Union of London &amp; Smiths Bank Ltd.</desc>
+      <linkGrp>
+         <ptr target="II/15#529" type="page"/>
+         <ptr target="II/15#532" type="page"/>
+         <ptr target="II/15#1173" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090296">
+      <idno type="mega">1026379</idno>
+      <orgName type="reg">Society of Equitable Pioneers</orgName>
+      <desc>1844 gegründete Konsumgenossenschaft in Rochdale, unweit von Manchester.</desc>
+      <linkGrp>
+         <ptr target="II/15#85" type="page"/>
+         <ptr target="II/15#1024" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090295">
+      <idno type="mega">1026378</idno>
+      <orgName type="reg">Société générale du crédit mobilier</orgName>
+      <orgName type="alt">Crédit mobilier</orgName>
+      <desc>Pariser Aktienbank, gegründet 1852 von den Gebrüdern Jacques Émile und Isaac Péreire.</desc>
+      <linkGrp>
+         <ptr target="II/15#595" type="page"/>
+         <ptr target="II/15#1212" type="page"/>
+         <ptr target="II/15#1213" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090298">
+      <idno type="mega">1030837</idno>
+      <orgName type="reg">South Eastern Railway</orgName>
+      <desc>englische Eisenbahngesellschaft; ging aus der 1836 gegründeten London and Greenwich Railway und der 1830 gegründeten Canterbury Whitstable Railway hervor, eröffnete 1844 die Strecke von London nach Dover, existierte, 1859 in London Chatham and Dover Railway umbenannt, bis 1899. ; englische Eisenbahngesellschaft, ging aus der 1836 gegründeten London &amp; Greenwich Railway hervor ; eröffnete 1844 die Strecke von London nach Dover.</desc>
+      <linkGrp>
+         <ptr target="II/11#107" type="page"/>
+         <ptr target="II/11#126" type="page"/>
+         <ptr target="II/13#167" type="page"/>
+         <ptr target="II/13#654" type="page"/>
+         <ptr target="II/12#148" type="page"/>
+         <ptr target="II/12#1012" type="page"/>
+         <ptr target="II/12#1220" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090301">
+      <idno type="mega">1026624</idno>
+      <orgName type="reg">Spooner, Attwoods &amp; Co.</orgName>
+      <desc>Londoner Privatbank, gegründet 1801 als Spooner, Attwood &amp; Holmar; 1845 Spooner, Attwood, Twells &amp; Co. ; Verbindung mit Attwood, Spooner &amp; Co. in Birmingham ; 1863 übernommen von Barclay, Bevan, Tritton &amp; Co.</desc>
+      <linkGrp>
+         <ptr target="II/15#553" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090303">
+      <idno type="mega">1027150</idno>
+      <orgName type="reg">St[rutt] &amp; Greg</orgName>
+      <desc>Garnhersteller in England.</desc>
+      <linkGrp>
+         <ptr target="III/9#233" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090305">
+      <idno type="mega">1026844</idno>
+      <orgName type="reg">Steinthal &amp; Co.</orgName>
+      <desc>Handelsfirma in Manchester.</desc>
+      <linkGrp>
+         <ptr target="III/13#322" type="page"/>
+         <ptr target="III/13#391" type="page"/>
+         <ptr target="III/13#392" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090307">
+      <idno type="mega">1026967</idno>
+      <orgName type="reg">Stieglitz &amp; Co. (russ. Штиглитц)</orgName>
+      <desc>Bankhaus in St.&#160;Petersburg.</desc>
+      <linkGrp>
+         <ptr target="I/14#1503" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090308">
+      <idno type="mega">1027009</idno>
+      <orgName type="reg">Stockholms Banco</orgName>
+      <orgName type="alt">wisselbank van Stockholm</orgName>
+      <desc>1656 von Karl X. Gustav nach dem Vorbild der Banken von Amsterdam und Hamburg gegründete privilegierte Leih- und Wechselbank; verlor 1668 das Privileg und wurde 1670 von den Reichsständen übernommen.</desc>
+      <linkGrp>
+         <ptr target="II/15#311" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090309">
+      <idno type="mega">1027074</idno>
+      <orgName type="reg">Strahan, Paul, and Co.</orgName>
+      <desc>Bankhaus in London.</desc>
+      <linkGrp>
+         <ptr target="I/14#449" type="page"/>
+         <ptr target="I/14#450" type="page"/>
+         <ptr target="I/14#539" type="page"/>
+         <ptr target="I/14#1359" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090312">
+      <idno type="mega">1027301</idno>
+      <orgName type="reg">Suse &amp; Sibeth</orgName>
+      <desc>deutsche Handelsfirma in London.</desc>
+      <linkGrp>
+         <ptr target="III/9#333" type="page"/>
+         <ptr target="III/9#995" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090313">
+      <idno type="mega">1027438</idno>
+      <orgName type="reg">Taix, Aycard &amp; Co.</orgName>
+      <desc>französische Bergbaugesellschaft.; Bergbaufirma auf Sizilien.</desc>
+      <linkGrp>
+         <ptr target="I/14#1063" type="page"/>
+         <ptr target="IV/12#322" type="page"/>
+         <ptr target="IV/12#1205" type="page"/>
+      </linkGrp>
+   </org>
+            <org xml:id="ed_isw_cry_sy">
+               <orgName type="reg">The Industrial Newspaper Company (Ltd)</orgName>
+            </org>
+   <org xml:id="pdrPo.001.015.000090169">
+      <idno type="mega">1015524</idno>
+      <orgName type="reg">Theodor Krull</orgName>
+      <desc>Verlagsbuchhandlung in Meisenheim.</desc>
+      <linkGrp>
+         <ptr target="IV/12#958" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090315">
+      <idno type="mega">1028270</idno>
+      <orgName type="reg">Trübner &amp; Co.</orgName>
+      <desc>Verlagsbuchhandlung in London.</desc>
+      <linkGrp>
+         <ptr target="III/9#15" type="page"/>
+         <ptr target="III/9#95" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090316">
+      <idno type="mega">1028477</idno>
+      <orgName type="reg">Union Bank of London Ltd.</orgName>
+      <desc>Aktienbank, gegründet 1839; fusionierte 1902 mit Smith, Payne &amp; Smiths zur Union of London &amp; Smiths Bank Ltd.</desc>
+      <linkGrp>
+         <ptr target="II/15#471" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090317">
+      <idno type="mega">1030839</idno>
+      <orgName type="reg">Union Bank of Scotland</orgName>
+      <desc>schottische Aktienbank; gegründet 1830 als Glasgow Union Banking Company, seit 1843 Union Bank of Scotland.</desc>
+   </org>
+   <org xml:id="pdrPo.001.015.000090318">
+      <idno type="mega">1028478</idno>
+      <orgName type="reg">United Alkali Company</orgName>
+      <orgName type="alt">United Alkali Trust</orgName>
+      <desc>britisches Chemieunternehmen; gegründet im November 1890 als Aktiengesellschaft.</desc>
+      <linkGrp>
+         <ptr target="II/14#263" type="page"/>
+         <ptr target="II/14#895" type="page"/>
+         <ptr target="II/15#429" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090319">
+      <idno type="mega">1028747</idno>
+      <orgName type="reg">Veit &amp; Comp.</orgName>
+      <desc>1833 von Moritz Veit in Berlin gegründeter Verlag, 1858 nach Leipzig verlegt.</desc>
+      <linkGrp>
+         <ptr target="I/31#735" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090320">
+      <idno type="mega">1028794</idno>
+      <orgName type="reg">Vereenigde Oost-Indische Compagnie</orgName>
+      <orgName type="alt">(VOC) (Holländisch-ostindische Kompagnie)</orgName>
+      <desc>niederländische Handelsgesellschaft; erhielt 1602 das Monopol für den niederländischen Handel in Südostasien ; existierte bis 1799.</desc>
+      <linkGrp>
+         <ptr target="II/13#644" type="page"/>
+         <ptr target="II/15#300" type="page"/>
+         <ptr target="II/15#322" type="page"/>
+         <ptr target="II/15#1082" type="page"/>
+         <ptr target="II/15#1088" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090323">
+      <idno type="mega">1028897</idno>
+      <orgName type="reg">Verlag Friedrich Vieweg &amp; Sohn</orgName>
+      <desc>Verlag naturwissenschaftlicher Literatur, Buchdruckerei und Pappenfabrik; gegründet 1786 in Berlin, ab 1799 in Braunschweig.</desc>
+      <linkGrp>
+         <ptr target="IV/31#527" type="page"/>
+         <ptr target="IV/31#604" type="page"/>
+         <ptr target="IV/31#924" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090082">
+      <idno type="mega">1007657</idno>
+      <orgName type="reg">Verlag von Franz Duncker</orgName>
+      <orgName type="alt">W. Besser’s Verlagshandlung</orgName>
+      <desc>Verlagsbuchhandlung in Berlin.</desc>
+      <linkGrp>
+         <ptr target="III/11#859" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090322">
+      <idno type="mega">1028812</idno>
+      <orgName type="reg">Verlags-Comptoir</orgName>
+      <orgName type="alt">Verlags Compt.</orgName>
+      <desc>Verlagsanstalt in Grimma.</desc>
+      <linkGrp>
+         <ptr target="IV/12#951" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090321">
+      <idno type="mega">1028811</idno>
+      <orgName type="reg">Verlagsbüreau</orgName>
+      <desc>von Arnold Ruge 1847 gegründete und bis 1850 geführte Verlagsbuchhandlung in Leipzig.</desc>
+      <linkGrp>
+         <ptr target="IV/12#953" type="page"/>
+         <ptr target="IV/12#955" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090094">
+      <idno type="mega">1009114</idno>
+      <orgName type="reg">Vincenz Fink</orgName>
+      <desc>Verlagsbuchhandlung in Linz.</desc>
+      <linkGrp>
+         <ptr target="IV/12#958" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090325">
+      <idno type="mega">1029150</idno>
+      <orgName type="reg">Voß &amp; Delius</orgName>
+      <orgName type="alt">Voss</orgName>
+      <desc>Exportfirma für Garne und Maschinen in Manchester; 1852 von Ernst Delius und Rudolf Voß gegründet.</desc>
+      <linkGrp>
+         <ptr target="III/9#502" type="page"/>
+         <ptr target="III/11#216" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090041">
+      <idno type="mega">1002674</idno>
+      <orgName type="reg">W. Besser’sche Verlagsbuchhandlung</orgName>
+      <orgName type="alt">Besser</orgName>
+      <desc>Verlagsbuchhandlung in Berlin.</desc>
+      <linkGrp>
+         <ptr target="IV/12#954" type="page"/>
+         <ptr target="IV/12#958" type="page"/>
+         <ptr target="III/9#114" type="page"/>
+         <ptr target="III/9#294" type="page"/>
+         <ptr target="III/11#861" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090310">
+      <idno type="mega">1027152</idno>
+      <orgName type="reg">W. G. &amp; J. Strutt</orgName>
+      <desc>Baumwollspinnerei in Derby.</desc>
+      <linkGrp>
+         <ptr target="III/9#141" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090181">
+      <idno type="mega">1016657</idno>
+      <orgName type="reg">W. Levysohn</orgName>
+      <desc>Verlagsbuchhandlung in Grünberg (in Schlesien).</desc>
+      <linkGrp>
+         <ptr target="IV/12#956" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090004">
+      <idno type="mega">1000200</idno>
+      <orgName type="reg">W.&#160;Adolph &amp; Co.</orgName>
+      <desc>Handelsfirma in London.</desc>
+      <linkGrp>
+         <ptr target="III/11#367" type="page"/>
+         <ptr target="III/11#381" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090329">
+      <idno type="mega">1029233</idno>
+      <orgName type="reg">Wagner’sche Buchhandlung</orgName>
+      <desc>Verlagsbuchhandlung in Innsbruck.</desc>
+      <linkGrp>
+         <ptr target="IV/12#964" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090330">
+      <idno type="mega">1029374</idno>
+      <orgName type="reg">Walter &amp; Apolant</orgName>
+      <desc>Verlagshaus in London.</desc>
+      <linkGrp>
+         <ptr target="I/31#290" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090332">
+      <idno type="mega">1029518</idno>
+      <orgName type="reg">Weddigen &amp; Voller</orgName>
+      <desc>Textilfirma.</desc>
+      <linkGrp>
+         <ptr target="III/9#102" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090334">
+      <idno type="mega">1029661</idno>
+      <orgName type="reg">Welser</orgName>
+      <desc>Augsburger Kaufmannsfamilie, führte von 1420 bis 1614 eines der größten europäischen Handelshäuser, aktiv in Fernhandel, Bankgeschäften und Bergbau, in den 1470er Jahren bis 1518 Zusammenarbeit mit der Familie Vöhlin; 1614 Konkurs ; 1517 Abspaltung eines Nürnberger Handels- und Bergbaunternehmens.</desc>
+      <linkGrp>
+         <ptr target="II/14#335" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090336">
+      <idno type="mega">1029758</idno>
+      <orgName type="reg">Westermann &amp; Co.</orgName>
+      <desc>Buchhandlung in New York.</desc>
+      <linkGrp>
+         <ptr target="III/9#495" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090050">
+      <idno type="mega">1003660</idno>
+      <orgName type="reg">Wilhelm Braumüller</orgName>
+      <desc>Universitäts- und Verlagsbuchhandlung in Wien.</desc>
+      <linkGrp>
+         <ptr target="IV/12#952" type="page"/>
+         <ptr target="IV/12#960" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090278">
+      <idno type="mega">1025302</idno>
+      <orgName type="reg">Wilhelm Schrey</orgName>
+      <desc>Verlags- und Kommissionsbuchhandlung in Leipzig.</desc>
+      <linkGrp>
+         <ptr target="IV/12#956" type="page"/>
+         <ptr target="IV/12#1475" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090067">
+      <idno type="mega">1006044</idno>
+      <orgName type="reg">William Cornelius &amp; Co.</orgName>
+      <desc>Firma in London.</desc>
+      <linkGrp>
+         <ptr target="III/11#729" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090153">
+      <idno type="mega">1013822</idno>
+      <orgName type="reg">William Jameson &amp; Son</orgName>
+      <desc>Firma in London.</desc>
+      <linkGrp>
+         <ptr target="III/11#134" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090339">
+      <idno type="mega">1030069</idno>
+      <orgName type="reg">Williams &amp; Norgate</orgName>
+      <desc>Buchhandlung in London.</desc>
+      <linkGrp>
+         <ptr target="III/9#532" type="page"/>
+         <ptr target="III/9#841" type="page"/>
+         <ptr target="III/10#662" type="page"/>
+         <ptr target="III/11#547" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090340">
+      <idno type="mega">1030068</idno>
+      <orgName type="reg">Williams, Deacon &amp; Manchester &amp; Salford Bank Ltd.</orgName>
+      <desc>Londoner Aktienbank, gegründet 1890 durch die Fusion der Londoner Privatbank Williams, Deacon &amp; Co. (gegründet 1771) und der Manchester &amp; Salford Bank Ltd.; seit 1901 Williams Deacon’s Bank Ltd. ; 1930 übernommen von der Royal Bank of Scotland Ltd.</desc>
+      <linkGrp>
+         <ptr target="II/15#471" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090343">
+      <idno type="mega">1030226</idno>
+      <orgName type="reg">Wittenstein &amp; Troost</orgName>
+      <desc>Färberei in Barmen (Wuppertal).</desc>
+      <linkGrp>
+         <ptr target="III/11#216" type="page"/>
+         <ptr target="III/11#328" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090344">
+      <idno type="mega">1030399</idno>
+      <orgName type="reg">Wren &amp; Hopkinson</orgName>
+      <desc>englische Firma.</desc>
+      <linkGrp>
+         <ptr target="III/9#213" type="page"/>
+         <ptr target="III/10#86" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090345">
+      <idno type="mega">1030416</idno>
+      <orgName type="reg">Wright, W.&#160;P., &amp; Co.</orgName>
+      <desc>amerikanische Firma.</desc>
+      <linkGrp>
+         <ptr target="III/10#165" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090347">
+      <idno type="mega">1030781</idno>
+      <orgName type="reg">Zwilchenbart, Rud. &amp; Sons</orgName>
+      <desc>Firma in Liverpool.</desc>
+      <linkGrp>
+         <ptr target="III/10#44" type="page"/>
+         <ptr target="III/10#162" type="page"/>
+      </linkGrp>
+   </org>
+   <org xml:id="pdrPo.001.015.000090162">
+      <idno type="mega">1014743</idno>
+      <orgName type="reg">van der Keen &amp; van Schelle</orgName>
+      <desc>Geschäftspartner der Firma Ermen &amp; Engels.</desc>
+      <linkGrp>
+         <ptr target="III/9#383" type="page"/>
+      </linkGrp>
+   </org>
+</listOrg>
+      </body>
+   </text>
+</TEI>

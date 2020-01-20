@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00089" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>86</idno>Friedrich Engels an Karl Marx in Margate. Manchester, Dienstag, 10. April 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1607/D III 376</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              260&#160;×&#160;205&#160;mm. Wasserzeichen: „I &amp; F H 1865“. Die ersten zwei Seiten
+              hat Engels vollständig beschrieben, die dritte zu einem Viertel. Schreibmaterial:
+              schwarze Tinte.</p>
+            <p>Von Eduard
+              <?oxy_comment_start author="strauss" timestamp="20170613T101748+0200" comment="(((nBernstein,Ed.)))"?>Bernsteins<?oxy_comment_end?>
+              Hand: Nummerierung des Briefes bzw. der beschriebenen Seiten: „305,1“ bis „305,3“ und
+              „21,1“ bis „21,3“ (gestrichen). Redaktionelle Vermerke und Anstreichungen. </p>
+            <p>Von Heinrich
+              <?oxy_comment_start author="strauss" timestamp="20170613T101813+0200" comment="(((nDietz,H.)))"?>Dietz’<?oxy_comment_end?>
+              Hand: Nummerierung des Briefes: „841“ (gestrichen).</p>
+            <p>Von unbekannter Hand: Vermerke mit Blaustift auf der ersten Seite oben links: „Aug.“
+              und „Abz.“. </p>
+            <p>Engels beantwortet den Brief von Marx vom 6.&#160;April 1866 (Marx an Engels,
+              6.4.1866).</p>
+          </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1959</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;310–312.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1866-04-10"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>Margate</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:08Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Mchr 10 April 1866.</dateline><salute sameAs="MBAnrede">Lieber Mohr</salute></opener><p sameAs="MBTextohneEinzug">Wie es scheint <hi rendition="#u">wollen</hi> die Russen den Krieg, der
+                                        Zweck scheint Wiederherstellung Polens unter russ.
+                                        Herrschaft &amp; wo möglich Annexion der Moldau. <seg type="comment"><orig>Die Köln. Ztg (((z))) die
+                                                  natürlich Heidenangst vor Krieg hat, hat den
+                                                  <persName key="pdrPo.001.004.000005113">J.&#160;von Wickede</persName>, ihren
+                                                  Militärmann, nach Böhmen geschickt</orig><note xml:id="ntjg_xwt_cz">Siehe Die Lage, Köln,
+                                                  7._April. In: Kölnische Zeitung. Nr._97, 8. April
+                                                  1866. S._1.</note></seg> um die <expan resp="editor" sameAs="dottet_underline">angebl<ex>ichen</ex></expan> östreich. Rüstungen
+                                        zu besichtigen. Der Kerl kommt hin – am 3&#160;April, also
+                                        14&#160;Tage nach <seg type="comment"><orig><persName key="pdrPo.001.004.000000441">Bismarks</persName>
+                                                  Note</orig><note xml:id="a2b1ff94-9408-4edb-9781-f5e7a9ee8365">Runderlass <persName key="pdrPo.001.004.000000441">Bismarcks</persName>
+                                                  an die preußischen Gesandten bei den deutschen
+                                                  Regierungen vom 24.&#160;März 1866. In: Dokumente
+                                                  zur deutschen Verfassungsgeschichte. Bd._2, Nr.
+                                                  161. S._221. (((lDokumente zur deutschen
+                                                  Verfassungsgeschichte. Bd._2. Hrsg. Ernst Rudolf
+                                                  Huber. Stuttgart_[u._a.]_1990))) <persName key="pdrPo.001.004.000000441">Bismarck</persName>
+                                                  ließ erklären, Preußen sei durch das Vorgehen
+                                                  Österreichs gezwungen, Abwehrmaßnahmen zu treffen.
+                                                  Es wurde angefragt, inwieweit Preußen auf
+                                                  Unterstützung anderer deutscher Staaten rechnen
+                                                  könne, wenn es einem österreichischen Überfall
+                                                  ausgesetzt oder durch österreichische Drohungen
+                                                  gezwungen sei, Krieg zu beginnen.</note></seg> –
+                                        &amp; findet überall den tiefsten Friedensfuß, nur daß ein
+                                        paar <hi rendition="#u"><expan resp="editor" sameAs="dottet_underline">böhm<ex>ische</ex></expan></hi> Regimenter in
+                                        ihre Werbbezirke verlegt sind um sich rascher auf Kriegsfuß
+                                        setzen zu können. Kein Beurlaubter eingezogen, keine Festung
+                                        armirt, Nichts. Der ganze Scandal also <hi rendition="#u">absichtlich von Bism. provocirt</hi>.</p><p sameAs="MBTextmitEinzug">Ferner. Die Russen conzentriren Truppen an der östreich. &amp; an der
+                                                <hi rendition="#u">preuß</hi>. Gränze von Polen,
+                                        &amp; die Soldaten erzählen ganz offen daß die, die an der
+                                        preuß. Gränze stehn, nächstens <hi rendition="#u">Posen</hi>
+                                        besetzen werden, sobald die preuß. Truppen gegen die Östr.
+                                        ausmarschiren. Abgesehen davon daß die Russen sich hier
+                                        gleich den Rest von Preußisch Polen sichern, werden sie auch
+                                        den Beruf haben etwaige revolutionäre Bewegungen in Berlin
+                                        zu unterdrücken. Das würde indeß <expan resp="editor" sameAs="dottet_underline">höchstwahrscheinl<ex>ich</ex></expan> ein
+                                        falscher Kalkül sein &amp; jedenfalls die <persName key="ed_sw5_fwp_fz">Hohenzollern</persName>
+                                        <expan resp="editor" sameAs="dottet_underline">unmögl<ex>ich</ex></expan> machen für die
+                                        Zukunft.</p><p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_s2y_skq_pz"/>Endlich <seg type="comment"><orig>der heutige <bibl sameAs="zzThe Times">Timesleader</bibl> der dumm,
+                                                  verlogen, hölzern, aber entschieden auf die preuß.
+                                                  Seite einlenkt &amp; Oestreich als den
+                                                  angreifenden Theil hinstellt.</orig><note xml:id="eef19ce8-828a-4392-9f56-96900a83d596">As
+                                                  far as words go, ... [Leitart.] In: The Times.
+                                                  London. Nr.&#160;25_468, 10._April 1866. S._8.
+                                                  (((lAs far as words go, ... [Leitart.] In: The
+                                                  Times. London. Nr.&#160;25_468, 10._April 1866.
+                                                  S._8))) </note></seg> Der ist auf Befehl
+                                                geschrieben.<anchor type="verweisziel" xml:id="stop_s2y_skq_pz"/></p><p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_i25_mkq_pz"/>Der Krieg scheint
+                                        mir hiernach sicher, &amp; durch <seg type="comment"><orig>die neue östr. Note,</orig><note xml:id="facbb2e3-e852-4844-a20a-6cc30d037c17">Am
+                                                  16. März 1866 informierte Österreich die
+                                                  befreundeten deutschen Staaten darüber, dass es
+                                                  die Regelung der schleswig-holsteinischen
+                                                  Angelegenheiten dem deutschen Bund anheimstelle
+                                                  und im Falle der Gefährdung des Friedens durch
+                                                  Preußen für die Mobilmachung eines Bundesheeres
+                                                  eintritt. {{{noch Quelle anzugeb.}}}</note></seg>
+                                        die an den Bund appellirt, sowie <seg type="comment"><orig>durch Monsieur Bismarks Antrag wegen eines
+                                                  deutschen Parlaments</orig><note xml:id="ea078a25-97c7-44bc-914d-edc4942498e9">Am
+                                                  9.&#160;April 1866 beantragte die preußische
+                                                  Regierung beim Bundestag in Frankfurt_a._M. die
+                                                  Einberufung einer aus direkten Wahlen und
+                                                  allgemeinem Stimmrecht hervorgehenden deutschen
+                                                  Nationalversammlung, die dann eine Reform des
+                                                  Bundes durchführen sollte. Das richtete sich
+                                                  eindeutig gegen Österreich und zwang die deutschen
+                                                  Mittelstaaten, sich für oder gegen Preußen zu
+                                                  erklären. (Siehe Baumgart: Europäisches Konzert
+                                                  und nationale Bewegung. S._380/381.)
+                                                  (((lBaumgart:Europäisches Konzert und nationale
+                                                  Bewegung))) </note></seg> – welch ein Rindvieh muß
+                                        der Kerl sein zu glauben das hülfe ihm auch nur ein
+                                                Atom!<anchor type="verweisziel" xml:id="stop_i25_mkq_pz"/> – auch aus inneren
+                                        deutschen Gründen unvermeidlich. Die östr. Note scheint dies
+                                        Bewußtsein vorauszusetzen, daß es doch zum Klappen kommt.
+                                        Sonst hätten sie sich wenigstens die Hinterthür
+                                        offengehalten durch Bism.'s Rücktritt den Preußen den
+                                        Rückzug zu erleichtern. Aber sowie sie an den Bund
+                                        appelliren hört das auf, einer Bundesmajorität unterwirft
+                                        sich auch ein andres preuß. Ministerium nicht.</p><p sameAs="MBTextmitEinzug"><persName key="pdrPo.001.004.000003392">Bonaparte</persName> wird sich wohl ruhig halten, wenigstens vor der Hand, <persName key="pdrPo.001.004.000000441">Bism.</persName> hat ihm ja schon Saarbrücken &amp;c offerirt, &amp; schenkt ihm auch <pb/> im Nothfall die bairische Pfalz. Wenn er die Russen auf der preuß. Seite engagirt sieht, wird er sich in nichts Gewagtes einlassen.</p><p sameAs="MBTextmitEinzug">Wenn es wirklich zum Klappen kommt, so hängt zum ersten Mal in der Geschichte die Entwicklung ab von der Haltung Berlins. Schlagen die Berliner zur rechten Zeit los, so kann die Sache gut werden – aber wer kann sich auf <hi rendition="#u">die</hi> verlassen?</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_vkw_zqp_pz"/>Was den Congreß der Internatl.<hi rendition="#sup">l</hi>
+              angeht, so sehe ich nicht gut ein wie Ihr daran vorbeikommen wollt. Auch sehe ich
+              nicht ein daß eine weitere Vertagung die Sache viel bessern würde.</orig><note xml:id="dba9e364-3375-4514-856d-1dde7b675234">Zum Genfer Kongress der IAA und seiner
+              Vertagung siehe <ref target="B00085/#start_twz_stp_pz">Marx an Engels,
+                6.4.<?oxy_comment_start author="reichhoff" timestamp="20170418T113755+0200" comment="{{Br. 82.29–52}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00004/#nr1k_5fc_3y">Erl. zu Marx an Engels,
+              5.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T105755+0200" comment="{{Erl. 3d}}. - Erl. später geteilt -- ich habe auf den zweiten Teil verwiesen"?></note><?oxy_comment_end?></seg>
+          Après tout wird jede derartige Demonstration in gewissem Sinn – wenigstens uns selbst
+          gegenüber – immer eine Blamage sein. Aber vor Europa? ich glaube das wäre auch jetzt noch
+          zu vermeiden. Die Deutschen würden wegen ihrer polyglotten Capacitäten doch die ganze
+          Sache in der Hand haben, &amp; die Deutschen sind ja grade unsere Leute. Ob der Congreß
+          was Gutes <hi rendition="#u">beschließt</hi> ist Nebensache, wenn nur <del rendition="#s">der</del><sic ana="#break-off"/> jeder Scandal vermieden werden kann; &amp; das wird
+          jetzt doch wohl der Fall sein. Allgemeine Beschlüsse theoretischer Natur, oder die sich
+          auf internationale Strike-Unterstützung &amp;c beziehen werden doch ohne Gefahr gefaßt
+          werden können. Du mußt das indeß besser wissen als ich, ich kann das von hier aus nicht so
+          beurtheilen. <seg type="comment"><orig>Indessen würde ich keinen Falls deßwegen nach Paris
+              gehn. Du bist von Niemandem geschützt, &amp; die Polizei wird daher ungenirt zugreifen
+              – Emissär einer <expan resp="editor" sameAs="dottet_underline">öffentl<ex>ichen</ex></expan> Arbeitergesellschaft, mit ausgesprochen <expan resp="editor" sameAs="dottet_underline">revolut<ex>ionärer</ex></expan> Tendenz,
+              wohinter man leicht andre geheime Sachen stecken kann – cela suffit. Die ganze
+              Geschichte ist das Risiko doch nicht werth.</orig><anchor type="verweisziel" xml:id="stop_vkw_zqp_pz"/><note xml:id="dbe9ba0b-66db-463f-8508-98a0bdc3d42a">Siehe
+                <ref target="B00085/#start_tmy_25p_pz">Marx an Engels,
+                6.4.<?oxy_comment_start author="reichhoff" timestamp="20170418T114112+0200" comment="{{Br. 82.51–52}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Bleib nur lieber noch in Margate</orig><note xml:id="ngxd_nxt_cz">Zu Marx’ Kuraufenthalt in Margate siehe <ref target="B00054/#a9fd0c5d-779b-4626-bf9f-71889bd4804c">Erl. zu Engels an Marx,
+                5.3.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T110035+0200" comment="{{Erl. 51a}}."?></note><?oxy_comment_end?></seg>
+          bis die letzte geheilte Stelle ganz frei von Reizbarkeit ist, &amp; lauf tüchtig in der
+          Luft herum. Wer weiß wie bald Du einen starken Cadaver wieder nöthig haben wirst. Die
+          Atmosphäre ist sehr elektrisch &amp; wir werden vielleicht bald wieder mitten im Gewitter
+          sein; das hilft wohl auch über die Congreßschwie<pb/>rigkeit.</p><p sameAs="MBTextmitEinzug">Einiges Geld besorge ich Dir baldmöglichst. <seg type="comment"><orig>Auch werde ich suchen <persName key="pdrPo.001.004.000001969">Gumpert</persName>
+                                                  zu sehn &amp; ihn wegen Beendigung der Seekur zu
+                                                  fragen &amp; wie Du Dich nachher beim Arsenik zu
+                                                  halten hast.</orig><note xml:id="af27698e-a6ba-4185-b50e-8009f8f250e8">Siehe <ref target="B00082/#start_tvq_l5p_pz">Marx
+                                                  an Engels,
+                                                  2.4.1866<?oxy_comment_start author="reichhoff" timestamp="20170418T114310+0200" comment="{{Br. 79.68}}"?>.<?oxy_comment_end?></ref></note></seg></p><closer sameAs="MBUnterschrift">Dein<lb/>F. E. </closer></div></body></text></TEI>

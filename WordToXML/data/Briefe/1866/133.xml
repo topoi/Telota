@@ -1,0 +1,20 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00137" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>133</idno>William Randall Cremer an Karl Marx in London. London, Donnerstag, 12. Juli 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 21 op. 1 d. 76/15</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt mittelstarkem, blauem Papier im Format
+                            124&#160;×&#160;196&#160;mm. Wasserzeichen: ein Monogramm „RM“. Auf der
+                            ersten Seite oben links trägt der Brief den ovalen roten Aufdruck des
+                            Central Council der IAA (siehe S.&#160;000 ).
+                            <?oxy_comment_start author="lindenberg" timestamp="20170424T111331+0200" comment="Auf der ersten Seite oben links trägt der Brief den ovalen roten Aufdruck des Central Council der IAA (siehe S. 000 [Br. 6, ZB])."?>Die<?oxy_comment_end?>
+                            erste Seite hat Cremer vollständig beschrieben, die zweite ist leer.
+                            Schreibmaterial: schwarze Tinte.</p><p>Von unbekannter Hand: die Jahresangabe mit Bleistift „66“ auf der ersten Seite oben links.</p></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000001027">William Randall Cremer</persName><placeName>London</placeName><date when="1866-07-12"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:38Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 18 Bouverie St.<lb/>Fleet St EC<lb/>12/7/66</dateline><salute sameAs="MBAnrede">Dear Citizen <lb/></salute><salute sameAs="MBAnrede">You have <seg type="comment"><orig>the Minutes of the September
+                                Conference</orig><note xml:id="ntw5_yxd_gz">
+                                <p>Die als Handschrift überlieferten Protokolle der Londoner
+                                    Konferenz der IAA (25.–29. September 1865; siehe <ref target="B00007/#nimt_3bd_3y">Erl. zu Marx an J.
+                                        Ph. Becker, zwischen 9. und
+                                        15.1.1866</ref>.<?oxy_comment_start author="roth" timestamp="20170425T103242+0200" comment="{{Erl. 6m}}."?>)
+                                    sollten in das Protokollbuch des Zentralrats eingelegt werden.
+                                    Siehe Minutes of the London Conference. In: MEGA²&#160;_I/20. S.
+                                    453–476 und Erl. (((lMinutes of the London Conference. In:
+                                    MEGA²&#160;_I/20. S. 453–476))) </p>
+                            </note></seg> and as they have never been entered in any book If You
+                        will please forward them to me It shall be <expan resp="editor" sameAs="dottet_underline">don<ex>e</ex></expan> without delay There is
+                        no knowing how soon they may be wanted and it is very desirable they should
+                        be at hand if asked for <lb/></salute></opener><closer sameAs="MBUnterschrift">Fraternally Yours<lb/>Cremer </closer></div></body></text></TEI>

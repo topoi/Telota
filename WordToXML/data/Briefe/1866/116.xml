@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00120" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>116</idno>Karl Marx an Friedrich Engels in Manchester. London,
+                    Donnerstag, 7. Juni 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 4452/L VI 584</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format
+                            273&#160;×&#160;210&#160;mm. Wasserzeichen: „L-J DL &amp; C<hi rendition="#sup">o</hi>“. Die erste und dritte Seite hat Marx
+                            vollständig beschrieben, die zweite und vierte sind leer.
+                            Schreibmaterial: schwarze Tinte. Das Papier ist in der oberen Hälfte
+                            beschädigt, dadurch entstandener Textverlust konnte rekonstruiert
+                            werden.</p>
+                        <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand:
+                            Nummerierung des Briefes bzw. der beschriebenen Seiten: „29,1“ bzw.
+                            „29,2“.</p>
+                        <p>Engels beantwortet den Brief mit einem nicht überlieferten Brief an Marx,
+                            geschrieben zwischen 7. und 9.&#160;Juni 1866 (Siehe im vorliegenden
+                            Brief: „Ich bin sehr in der Klemme,“ und Marx an Engels, 9.6.1866:
+                            „Besten Dank für ...“).</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 1971</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913).
+                        S.&#160;323/324.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                    <date when="1866-06-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName>Manchester</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:39:27Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener><dateline sameAs="MBDatumszeile"><pb/> 7 June 1866.</dateline><salute sameAs="MBAnrede">Dear Fred,</salute></opener>
+                <p sameAs="MBTextohneEinzug"><anchor type="verweisziel" xml:id="start_sym_tvl_qz"/>
+                    Ich bin sehr in der Klemme, da das Versetzen sein <seg type="comment"><orig>Thule</orig><note xml:id="ntyc_jdn_2z">Hier sprichwörtl. für das
+                            äußerste Ende, eigtl. der äußerste (Nord-)Rand der bewohnten Welt -
+                            (lat.) ultima Thule, nach der mythischen Insel Thule im Norden
+                            Europas.</note></seg> erreicht hat, ausserdem stärkstes Treten
+                        stattfindet.<anchor type="verweisziel" xml:id="stop_sym_tvl_qz"/> Was den
+                    körperlichen Zustand betrifft, so ist glücklicher Weise nichts Carbunkelhaftes
+                    wiedererschienen. Dagegen war ich genöthigt zu Allen zu gehn wegen Leberleiden,
+                    da <persName key="pdrPo.001.004.000001969">Gumpert</persName> nicht hier ist u.
+                    diese Sache nicht von der Ferne aus zu behandeln. Arsenik habe ich fast noch
+                    eine ganze bottle stehn, aber seit diversen Wochen nicht mehr genommen, weil
+                    meine jetzige Lebensweise nicht dazu paßt.</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_uy4_v1m_qz"/>Habt Ihr auch unter der Consolidated Bank
+                            gelitten?</orig><note xml:id="d935484e-af6f-4436-b9bf-f108ed9d83a2">Als
+                            im Jahre 1866 die <orgName key="ed_jml_55q_gz">Consolidated Bank
+                                Ltd</orgName> eine andere Bank nebst deren Verbindlichkeiten
+                            übernommen hatte, musste sie für mehre Wochen ihre Zahlungen einstellen,
+                            erholte sich aber bald wieder.</note></seg>
+                    <persName key="pdrPo.001.004.000011456">Dr&#160;Rode</persName> war vorgestern
+                    hier u. erzählte sehr schadenfroh, daß <persName key="pdrPo.001.004.000001214">Dronke</persName> bedeutende Verluste erlitten in Folge des <orgName key="ed_ag2_sxm_2z">Barnett</orgName><?oxy_comment_start author="lindenberg" timestamp="20170320T150949+0100" comment="verlinkt Firmenregister
+Hoare Banrnett &amp; Co./ 1664-1884"?>
+                    <?oxy_comment_end?>crash.<anchor type="verweisziel" xml:id="stop_uy4_v1m_qz"/></p>
+                <p sameAs="MBTextmitEinzug">Der Krieg ist also doch da, wenn kein Wunder geschieht.
+                    Die Preussen werden <del rendition="#s">das<sic ana="#break-off"/></del> diese
+                    Renommage büssen, u. unter allen Umständen ist die Idylle in <del rendition="#s">P<ex>reußen</ex><sic ana="#break-off"/></del> Dtschd vorüber. <seg type="comment"><orig><anchor type="verweisziel" xml:id="start_tkh_gmm_qz"/>Die <persName key="pdrPo.001.004.000003833">Proudhonclique</persName>
+                            unter den Studenten in Paris („Courrier <bibl sameAs="zzLe Courrier français">Français“</bibl>) predigt Frieden,
+                            erklärt Krieg für veraltet, Nationalitäten für Unsinn, attaquirt
+                                <persName key="pdrPo.001.004.000000441">Bismarck</persName> u.
+                                <persName key="pdrPo.001.004.000001724">Garibaldi</persName>
+                            u.s.w.</orig>
+                        <anchor type="verweisziel" xml:id="stop_tkh_gmm_qz"/><note xml:id="f21bf3ed-3d5b-445e-abe6-a0a41e542540">
+                            <p rend="endnote text">Aux étudiants des universités d’Allemagne et
+                                d’Italie, les étudiants de Paris. [Gez.:] Albert Fermé [u.a.]. In:
+                                Le Courrier française. Paris. 20.&#160;Mai 1866. S.&#160;2/3.
+                                (((lAux_étudiants des universités d’Allemagne et d’Italie, les
+                                étudiants de Paris. [Gez.:] Albert Fermé [u.a.]. In: Le Courrier
+                                française. Paris, 20.&#160;Mai 1866. S.&#160;2/3))) - Diese Adresse,
+                                das Original trug 500 Unterschriften, brachte die Antikriegsstimmung
+                                breiter Kreise Frankreichs zum Ausdruck und stammte von einer Gruppe
+                                Studenten, die am Internationalen Kongress der studentischen Jugend
+                                in Liège (29.&#160;Oktober–1.&#160;November 1865) teilgenommen
+                                hatte. Der Inhalt war proudhonistisch geprägt. Am 5.&#160;Juni 1866
+                                besprach, in Abwesenheit von Marx, der Zentralrat der IAA eine von
+                                der französischen Sektion der IAA in London verfasste und von Paul
+                                Lafargue vorgelegte Antwort auf diese Adresse. Siehe The Minute Book
+                                1864–1866. In: MEGA²&#160;I/20. S.&#160;421.3–22. (((lThe Minute
+                                Book 1864–1866. In: MEGA²&#160;I/20. S.&#160;265–450))) Die
+                                französische Übersetzung dieser Antwort erschien in „Le Courrier
+                                française“ (Paris) am 10.&#160;Juni 1866, S.&#160;2/3 unter dem
+                                Titel „Aux étudiants de Paris, aux étudiants et aux jeunes hommes de
+                                tous les pays, les ouvriers de tous les pays“, [gez.] Dupont [u._a.]
+                                sowie weiteren Zeitungen (siehe MEGA²&#160;I/20. Erl._421.3–5).
+                                (((lAux_étudiants de Paris, aux étudiants et aux jeunes hommes de
+                                tous les pays, les ouvriers de tous les pays. [Gez.] Dupont [u._a.].
+                                In: Le Courrier française. Paris. 10.&#160;Juni 1866. S.&#160;2/3)))
+                                Marx sprach im Zentralrat in der Sitzung am 19.&#160;Juni 1866 zu
+                                diesem Thema. Siehe dazu The Minute Book 1864–1866. In:
+                                MEGA²&#160;I/20. S.&#160;424.5–6. (((lThe_Minute Book 1864–1866. In:
+                                MEGA²&#160;I/20. S._265–450))) Zum Inhalt seiner Rede siehe <ref target="B00128/#start_u2t_rkl_qz">Marx an Engels,
+                                    20.6.<?oxy_comment_start author="reichhoff" timestamp="20170421T110519+0200" comment="{{Br. 124.19–50}}"?>1866<?oxy_comment_end?></ref>.
+                            </p>
+                        </note>
+                    </seg> Als Polemik gegen den Chauvinismus ist ihr Treiben nützlich u.
+                    erklärlich. Aber als <persName key="pdrPo.001.004.000003833">Proudhongläubige</persName>
+                    <?oxy_comment_start author="lindenberg" timestamp="20170123T184048+0100" comment="Eckige Klammern"?>[[<?oxy_comment_end?>meine
+                    hiesigen sehr guten Freunde <persName key="pdrPo.001.004.000002648">Lafargue</persName> u. <persName key="pdrPo.001.004.000002885">Longuet</persName> gehören auch dazu]], die meinen, ganz Europa müsse
+                        <add>u. werde</add> still auf dem Arsch sitzen, bis die Härren in Fkch „la
+                    misère et l'ignorance“ abgeschafft, unter welcher letztren sie selbst im
+                    umgekehrten Verhältniß zum Geschrei mit der „science sociale“ laboriren sind sie
+                    grotesk. <seg type="comment"><orig>In ihren Artikeln über die present
+                            agricultural crisis in Fkch zeigt sich ihr „Wissen“
+                            überraschend.</orig><note xml:id="fda9bd80-528e-40d6-b981-63fdc50dac91">Vermutlich erinnert sich Marx an folgenden Artikel: Ch[arles] Longuet:
+                            La question agricole et le libre échange. In: La Rive gauche. Bruxelles.
+                            Nr.&#160;15, 15.&#160;April 1866. S.&#160;1/2. (((l Longuet_Ch[arles]:
+                            La question agricole et le libre échange. In: La Rive gauche. Bruxelles.
+                            Nr.&#160;15, 15.&#160;April 1866. S.&#160;1/2))) </note></seg>
+                </p>
+                <p sameAs="MBTextmitEinzug"><pb/> Die Russen, die beständig das alte Spiel treiben,
+                    die europ. Esel gegen einander <subst>
+                        <del>zuspielen</del>
+                        <add>auszuspielen</add>
+                    </subst> u. bald partner von a, bald von b zu sein, haben unstreitig <del> sich
+                            <sic ana="#break-off"/></del> in der letzten Zeit die Oestreicher
+                        push<supplied cert="high">ed </supplied><supplied cert="high">o</supplied>n,
+                        1)&#160;<seg type="comment"><orig>weil die Preussen wegen Oldenburg noch
+                            nicht die gehörige Concession gemacht,</orig><note xml:id="e7b14821-2515-4279-a94a-d971d1c2bd8b">Angesichts eines sich
+                            abzeichnenden Waffenganges zwischen Österreich und Preußen, bei dem
+                            preußische Ambitionen auf das seit 1865 in österreichischem Besitz
+                            befindliche Herzogtum Holstein eine wesentliche Rolle spielten, ist hier
+                            vermutlich die Bestätigung von besonderen Garantien, welche Russland in
+                            Bezug auf das Großherzogtum Oldenburg wahrnahm, durch Preußen gemeint.
+                            Holstein umschloss quasi den Lübeckischen Landesteil Oldenburgs. Die
+                            oldenburgischen Herzöge waren als jüngere Linie des Hauses Gottorp mit
+                            dem in Russland regierenden Kaiserhaus Romanov-Holstein-Gottorp (ältere
+                            gottorpsche Linie) verbunden. Es gab ein besonderes Interesse Russlands
+                            an der territorialen Integrität des Fürstentums. Das Großherzogtum
+                            Oldenburg mit seinem gottorpschen Herrscherhaus, war aus Besitzungen
+                            entstanden, die das russische Kaiserhaus im Dezember 1773 vertraglich
+                            abgetreten hatte.</note></seg> 2)&#160;<del rendition="#s">weil<sic ana="#break-off"/></del> um den Oestreichern in Galizien die Hände zu
+                    binden u. 3)&#160;sicher auch, weil Herr <persName key="pdrPo.001.004.000000062">Alexander&#160;II</persName> gleich <persName key="pdrPo.001.004.000000061">Alexander&#160;I.</persName> (während dessen letzter Zeit) in einer so
+                    conservativ morosen Stimmung von <seg type="comment"><orig>wegen des
+                            Attentats,</orig><note xml:id="f6a55d94-68b3-4b11-a41c-17a2e4ee3414">Am
+                            4._(16.)&#160;April 1866 verübte <persName key="ed_vwb_k4f_2z">Dmitrij
+                                Karakozov</persName> in St._Petersburg ein fehlgeschlagenes Attentat
+                            auf <persName key="pdrPo.001.004.000000062">Kaiser Aleksandr II.
+                            </persName>
+                        </note></seg> daß seine Herrn Diplomaten wenigstens „conservative“ Vorwände
+                    brauchen müssen u. Allianz mit Oestreich ist conservativ. Kommt <expan resp="editor" sameAs="dottet_underline">d<ex>er</ex></expan> opportune
+                    moment, so zeigen sie die backside der Medaille.</p>
+                <p sameAs="MBTextmitEinzug">Der officielle Ton der <seg type="comment"><orig>„blood
+                            and iron“</orig><note xml:id="cb9178d1-00f6-4770-b9d3-71b7d9d32f73">
+                            Bezugnahme auf <persName key="pdrPo.001.004.000000441">Otto von
+                                Bismarck</persName>,  der nach seiner Berufung zum
+                            Ministerpräsidenten Preußens während des Verfassungskonfliktes am 30.
+                            September 1862 vor der Budgetkommission des Abgeordnetenhauses sagte:
+                            „…&#160;nicht durch Reden und Majoritätsbeschlüsse werden die großen
+                            Fragen der Zeit entschieden&#160;– das ist der große Fehler von 1848 und
+                            1849 gewesen&#160;– sondern durch Eisen und Blut.“ (Otto_von_Bismarck:
+                            Die gesammelten Werke. Reden. Bd._10. Berlin_(1928). S._140.)
+                            (((lBismarck,[Otto_von]: Die_gesammelten Werke. Reden. Bd._10. 1847 bis
+                            1869. Berlin_(1928).))) Bismarck griff hier auf das Gedicht „Das eiserne
+                            Kreuz“ von Maximilian von Schenkendorf  (((lSchenkendorf,Maximil.v.Das
+                            eiserne Kreuz))) aus der Zeit der Befreiungskriege zurück.</note></seg>
+                    Preussen zeugt von grosser Banghaftigkeit. Sie complimentiren jezt sogar die
+                        <add>fzs</add> Revolution von 1789! Sie klagen über östr. Gereiztheit!</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Das Beste, was in der lausigen
+                            Parlamentsdebatte hier vorfiel, war das Sündenregister, das <persName key="pdrPo.001.004.000001166">D'Israeli</persName> dem unglücklichen
+                                <persName key="pdrPo.001.004.000004943">Clarendon</persName>
+                            vorhielt.</orig><note xml:id="b007966a-46ec-4071-887d-a47a9c8d5372"><persName key="pdrPo.001.004.000001166">Benjamin
+                                Disraeli</persName> kritisierte in der Unterhaussitzung am
+                            4.&#160;Juni 1866 Außenminister <persName key="pdrPo.001.004.000004943">Lord Clarendon</persName>. Er warf ihm eine zu nachgiebige Haltung
+                            während des Krimkriegs und auf dem Pariser Friedenskongress vor. Siehe:
+                            Mr.&#160;Disraeli, who rose amid loud cheers, said,&#160;… In: The
+                            Times. London. Nr.&#160;25_516, 5.&#160;Juni 1866. S.&#160;11/12.
+                            (((lMr.&#160;Disraeli, who rose amid loud cheers, said,&#160;… In: The
+                            Times. London. Nr.&#160;25_516, 5.&#160;Juni 1866.
+                            S.&#160;11/12)))</note></seg></p>
+                <p sameAs="MBTextmitEinzug">Salut</p>
+                <closer sameAs="MBUnterschrift">D<lb/>KM</closer>
+                <postscript>
+                    <p>Der italienische Enthusiasmus wird wohl ein Sturzbad erhalten. <del rendition="#s">Die<sic ana="#break-off"/></del> Selbst das
+                        Melodramatische, übrigens dem Volkscharakter entsprechende, wäre erträglich,
+                        wenn nicht ganz im Hintergrund die Hoffnung auf <seg type="comment"><persName key="ed_igx_mxs_2z"><orig>Badinguet</orig></persName><note xml:id="a9e8aa40-26d9-4915-b4bb-db20908e5254">Satirische Bezeichnung
+                                für <persName key="pdrPo.001.004.000003392">Napoléon III.</persName>
+                            </note></seg>. Ich kann <seg type="comment"><orig>meinen
+                                Itzig<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></orig><?oxy_custom_end?><note xml:id="dcc9cf30-d224-4176-89b3-ce6dec54f0e5">
+                                <persName key="pdrPo.001.004.000002711">Ferdinand
+                                    Lassalle</persName>. </note></seg> nicht vergessen. Wenn er
+                        jetzt noch lebte, welchen Skandal würde er machen! </p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

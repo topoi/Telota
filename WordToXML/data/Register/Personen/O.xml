@@ -1,0 +1,2149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="mega_personenregister" xml:lang="de" xml:id="personO">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Gehört zur ediarum-App für eXist.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Hybrid: consult project description and document history for details.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="pdrPo.001.004.000003481">
+                    <idno type="mega">1020580</idno>
+                    <persName type="reg">
+                        <name>Oakman</name>
+                    </persName>
+                    <note>Finanzvorstand der Messerwarenfabrik „John Russel Cutlery Works“ in Turner’s Falls, Massachusetts</note>
+                    <linkGrp>
+                        <ptr target="II/11#819" type="page"/>
+                        <ptr target="II/12#477" type="page"/>
+                        <ptr target="II/12#1265" type="page"/>
+                        <ptr target="II/13#480" type="page"/>
+                        <ptr target="II/13#705" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003482">
+                    <idno type="mega">1020582</idno>
+                    <persName type="reg">
+                        <surname>Oastler</surname>
+                        <forename>Richard</forename>
+                    </persName>
+                    <birth>1789</birth>
+                    <death>1861</death>
+                    <note>britischer Politiker und Sozialreformer; Tory</note>
+                    <linkGrp>
+                        <ptr target="I/31#423" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003483">
+                    <idno type="mega">1020593</idno>
+                    <persName type="reg">
+                        <surname>Oberwinder</surname>
+                        <forename>Heinrich</forename>
+                    </persName>
+                    <birth>1845</birth>
+                    <death>1914</death>
+                    <note>deutscher Journalist, Schriftsteller und Politiker; wirkte 1866–1878 in der österreichischen Arbeiterbewegung</note>
+                    <linkGrp>
+                        <ptr target="II/11#916" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003484">
+                    <idno type="mega">1020598</idno>
+                    <persName type="reg">
+                        <surname>Oborski</surname>
+                        <forename>Ludwik</forename>
+                    </persName>
+                    <birth>1787</birth>
+                    <death>1873</death>
+                    <note>polnischer Offizier; 1834 Emigrant in London, führendes Mitglied der Fraternal Democrats; 1849 Divisionskommandeur der badisch-pfälzischen Revolutionsarmee, 1865–1867 Mitglied des Generalrats der IAA; seit 1866 Präsident der Gmina Centralno-Londyńska Zjednoczenia Emigracji Polskiej; 1872 Mitbegründer der Gesellschaft Związek Ludu Polskiego; Teilnehmer am polnischen Aufstand (1830/1831)</note>
+                    <linkGrp>
+                        <ptr target="I/31#50" type="page"/>
+                        <ptr target="III/9#639" type="page"/>
+                        <ptr target="III/13#226" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003489">
+                    <idno type="mega">1020601</idno>
+                    <persName type="reg">
+                        <name>Obrenovič, Miloš (Обреновић)</name>
+                    </persName>
+                    <birth>1780</birth>
+                    <death>1860</death>
+                    <note>serbischer Vojvode, 1815 Führer des Aufstandes im Belgrader Paschalyk gegen die osmanische Fremdherrschaft, Fürst von Serbien 1815–1839 und 1858–1860, Begründer des Fürsten- und späteren Königshauses der Obrenovići</note>
+                    <linkGrp>
+                        <ptr target="I/14#1224" type="page"/>
+                        <ptr target="III/9#930" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011263">
+                    <idno type="mega">1020603</idno>
+                    <persName type="reg">
+                        <surname>Obreskov</surname>
+                        <forename>Aleksej Michajlovič</forename>
+                    </persName>
+                    <birth>1718</birth>
+                    <death>1787</death>
+                    <note>russischer Diplomat; Gesandter in Konstantinopel (1751–1772)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#316" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003490">
+                    <idno type="mega">1020620</idno>
+                    <persName type="reg">
+                        <name>Obručev, Nikolaj Nikolaevič (Обручевъ)</name>
+                    </persName>
+                    <birth>1830</birth>
+                    <death>1904</death>
+                    <note>russischer General der Infanterie, Politiker und Militärstatistiker, Professor an der Kriegsakademie des Generalstabes</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000003491">
+                    <idno type="mega">1020624</idno>
+                    <persName type="reg">
+                        <surname>Ocho</surname>
+                        <forename>el</forename>
+                    </persName>
+                    <note>1822/1823 spanischer Kapuzinerpater</note>
+                    <linkGrp>
+                        <ptr target="IV/12#778" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003492">
+                    <idno type="mega">1020626</idno>
+                    <persName type="reg">
+                        <surname>Ochsenbein</surname>
+                        <forename>Ulrich</forename>
+                    </persName>
+                    <birth>1811</birth>
+                    <death>1890</death>
+                    <note>Schweizer Staatsmann und Militär, 1870/71 in französischen Diensten</note>
+                    <linkGrp>
+                        <ptr target="I/31#668" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003493">
+                    <idno type="mega">1020655</idno>
+                    <persName type="reg">
+                        <surname>Odermann</surname>
+                        <forename>Karl Gustav</forename>
+                    </persName>
+                    <birth>1815</birth>
+                    <death>1904</death>
+                    <note>deutscher Handelslehrer; verfaßte mehrere Lehrbücher</note>
+                    <linkGrp>
+                        <ptr target="II/11#33" type="page"/>
+                        <ptr target="II/11#916" type="page"/>
+                        <ptr target="II/11#1263" type="page"/>
+                        <ptr target="II/11#1574" type="page"/>
+                        <ptr target="II/11#1576" type="page"/>
+                        <ptr target="II/14#391" type="page"/>
+                        <ptr target="II/14#697" type="page"/>
+                        <ptr target="II/14#698" type="page"/>
+                        <ptr target="II/14#703" type="page"/>
+                        <ptr target="II/14#704" type="page"/>
+                        <ptr target="II/15#307" type="page"/>
+                        <ptr target="II/15#1083" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003494">
+                    <idno type="mega">1020656</idno>
+                    <persName type="reg">
+                        <surname>Odger</surname>
+                        <forename>George</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Odgers</name>
+                    </persName>
+                    <birth>1820</birth>
+                    <death>1877</death>
+                    <note>englischer Schuhmacher; Mitbegründer und Sekretär des London Trades Council (1862–1872), Mitglied der National League for the Independence of Poland, der Exekutive der Reform League, der Universal League for the Welfare of the Industrious Classes, der Labour Representation League und der Land and Labour League; 1864 einer der Initiatoren und Teilnehmer der Gründungsversammlung der IAA, Mitglied des Generalrats (1864–1871), bis 1867 dessen Präsident, 1865 Teilnehmer der Londoner Konferenz, 1866 Delegierter des Genfer Kongresses, wandte sich 1871 gegen die Pariser Kommune und verließ die IAA</note>
+                    <linkGrp>
+                        <ptr target="III/13#11" type="page"/>
+                        <ptr target="III/13#38" type="page"/>
+                        <ptr target="III/13#41" type="page"/>
+                        <ptr target="III/13#383" type="page"/>
+                        <ptr target="III/13#410" type="page"/>
+                        <ptr target="III/13#422" type="page"/>
+                        <ptr target="III/13#429" type="page"/>
+                        <ptr target="III/13#439" type="page"/>
+                        <ptr target="III/13#449" type="page"/>
+                        <ptr target="III/13#451" type="page"/>
+                        <ptr target="III/13#452" type="page"/>
+                        <ptr target="III/13#510" type="page"/>
+                        <ptr target="III/13#525" type="page"/>
+                        <ptr target="III/13#544" type="page"/>
+                        <ptr target="III/13#644" type="page"/>
+                        <ptr target="III/13#647" type="page"/>
+                        <ptr target="III/13#659" type="page"/>
+                        <ptr target="III/13#660" type="page"/>
+                        <ptr target="III/13#669" type="page"/>
+                        <ptr target="III/13#673" type="page"/>
+                        <ptr target="III/13#684" type="page"/>
+                        <ptr target="III/13#718" type="page"/>
+                        <ptr target="III/13#719" type="page"/>
+                        <ptr target="III/13#868" type="page"/>
+                        <ptr target="III/13#1031" type="page"/>
+                        <ptr target="III/13#1101" type="page"/>
+                        <ptr target="III/13#1135" type="page"/>
+                        <ptr target="III/13#1156" type="page"/>
+                        <ptr target="III/13#1213" type="page"/>
+                        <ptr target="III/13#1243" type="page"/>
+                        <ptr target="III/13#1329" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011264">
+                    <idno type="mega">1020668</idno>
+                    <persName type="reg">
+                        <name>Odoardo&#160;I Farnesio</name>
+                    </persName>
+                    <birth>1612</birth>
+                    <death>1646</death>
+                    <note>Herzog von Parma (seit 1622)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#82" type="page"/>
+                        <ptr target="IV/12#1121" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011265">
+                    <idno type="mega">1020669</idno>
+                    <persName type="reg">
+                        <name>Odoardo&#160;II Farnesio</name>
+                    </persName>
+                    <birth>1666</birth>
+                    <death>1693</death>
+                    <note>Erbherzog von Parma; starb vor seinem Vater</note>
+                    <linkGrp>
+                        <ptr target="IV/12#423" type="page"/>
+                        <ptr target="IV/12#1257" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011294">
+                    <idno type="mega">1020689</idno>
+                    <persName type="reg">
+                        <name>Odysseus</name>
+                    </persName>
+                    <note>in der griechischen Sage tapferer und erfindungsreicher Held im Trojanischen Krieg, König von Ithaka, berühmt für Beredsamkeit und Klugheit; Held der „Ilias“ und „Odyssee“ von Homer; Gestalt in Shakespeares „Troilus and Cressida“; in der griechischen Sage König von Ithaka</note>
+                    <linkGrp>
+                        <ptr target="I/14#70" type="page"/>
+                        <ptr target="III/11#439" type="page"/>
+                        <ptr target="IV/12#745" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011267">
+                    <idno type="mega">1020692</idno>
+                    <persName type="reg">
+                        <name>Oecolampadius, Johannes eigtl. Johann Hußgen</name>
+                    </persName>
+                    <birth>1482</birth>
+                    <death>1531</death>
+                    <note>deutscher Theologe, Reformator in Basel; Gestalt aus Lassalles Drama „Franz von Sickingen“</note>
+                    <linkGrp>
+                        <ptr target="III/9#460" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003506">
+                    <idno type="mega">1020698</idno>
+                    <persName type="reg">
+                        <surname>Oelbermann</surname>
+                        <forename>Hugo</forename>
+                    </persName>
+                    <birth>1832</birth>
+                    <death>1877</death>
+                    <note>deutscher Schriftsteller und Buchhändler in Bonn</note>
+                    <linkGrp>
+                        <ptr target="III/10#58" type="page"/>
+                        <ptr target="III/10#694" type="page"/>
+                        <ptr target="III/10#697" type="page"/>
+                        <ptr target="III/11#173" type="page"/>
+                        <ptr target="III/11#175" type="page"/>
+                        <ptr target="III/11#190" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003507">
+                    <idno type="mega">1020702</idno>
+                    <persName type="reg">
+                        <surname>Oelze</surname>
+                        <forename>F.</forename>
+                    </persName>
+                    <note>preußischer Artillerieoffizier</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000003511">
+                    <idno type="mega">1020727</idno>
+                    <persName type="reg">
+                        <name>Ogarev, Nikolaj Platonovič (Огарев)</name>
+                    </persName>
+                    <birth>1813</birth>
+                    <death>1877</death>
+                    <note>russischer Lyriker, Publizist und Philosoph</note>
+                    <linkGrp>
+                        <ptr target="I/31#873" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011268">
+                    <idno type="mega">1020728</idno>
+                    <persName type="reg">
+                        <surname>Ogé</surname>
+                        <forename>Julie</forename>
+                    </persName>
+                    <note>Frau von Alphonse Bernard vicomte de Calonne</note>
+                    <linkGrp>
+                        <ptr target="III/10#1166" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003512">
+                    <idno type="mega">1020743</idno>
+                    <persName type="reg">
+                        <name>Ohm</name>
+                    </persName>
+                    <note>Polizeispitzel</note>
+                    <linkGrp>
+                        <ptr target="III/11#1034" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003513">
+                    <idno type="mega">1020744</idno>
+                    <persName type="reg">
+                        <surname>Ohm</surname>
+                        <forename>Georg Simon</forename>
+                    </persName>
+                    <birth>1789</birth>
+                    <death>1854</death>
+                    <note>deutscher Physiker; 1826 Gesetz der Stromleitung; arbeitete auch über Akustik</note>
+                    <linkGrp>
+                        <ptr target="IV/31#879/880)" type="page"/>
+                        <ptr target="IV/31#468" type="page"/>
+                        <ptr target="IV/31#471–" type="page"/>
+                        <ptr target="IV/31#473" type="page"/>
+                        <ptr target="IV/31#540–543" type="page"/>
+                        <ptr target="IV/31#562" type="page"/>
+                        <ptr target="IV/31#591" type="page"/>
+                        <ptr target="IV/31#592" type="page"/>
+                        <ptr target="IV/31#603" type="page"/>
+                        <ptr target="IV/31#613" type="page"/>
+                        <ptr target="IV/31#614" type="page"/>
+                        <ptr target="IV/31#877" type="page"/>
+                        <ptr target="IV/31#879" type="page"/>
+                        <ptr target="IV/31#880" type="page"/>
+                        <ptr target="IV/31#883" type="page"/>
+                        <ptr target="IV/31#931" type="page"/>
+                        <ptr target="IV/31#952" type="page"/>
+                        <ptr target="IV/31#953" type="page"/>
+                        <ptr target="IV/31#981" type="page"/>
+                        <ptr target="IV/31#987" type="page"/>
+                        <ptr target="IV/31#988" type="page"/>
+                        <ptr target="IV/31#990" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011295">
+                    <idno type="mega">1020749</idno>
+                    <persName type="reg">
+                        <name>Oidipus</name>
+                    </persName>
+                    <note>nach der griechischen Sage König von Theben, erschlug unwissentlich seinen Vater und heiratete ahnungslos seine Mutter, blendete sich als er die Wahrheit erfuhr; Gestalt aus Sophokles’ Tragödien „König Ödipus“ und „Ödipus in Kolonos“; Gestalt aus der griechischen Mythologie; erschlug seinen Vater und heiratete seine Mutter</note>
+                    <linkGrp>
+                        <ptr target="III/9#330" type="page"/>
+                        <ptr target="III/9#992" type="page"/>
+                        <ptr target="III/13#552" type="page"/>
+                        <ptr target="III/13#1260" type="page"/>
+                        <ptr target="III/10#566" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003514">
+                    <idno type="mega">1020758</idno>
+                    <persName type="reg">
+                        <surname>Olavide</surname>
+                        <forename>Pablo Antonio de</forename>
+                    </persName>
+                    <birth>1725</birth>
+                    <death>1803</death>
+                    <note>spanischer Politiker und Schriftsteller; seit 1776 von der Inquisition verfolgt, floh er nach Frankreich</note>
+                    <linkGrp>
+                        <ptr target="IV/12#782–784" type="page"/>
+                        <ptr target="IV/12#786" type="page"/>
+                        <ptr target="IV/12#787" type="page"/>
+                        <ptr target="IV/12#789" type="page"/>
+                        <ptr target="IV/12#1421" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003515">
+                    <idno type="mega">1020759</idno>
+                    <persName type="reg">
+                        <surname>Olberg</surname>
+                        <forename>Friedrich Wilhelm Eduard von</forename>
+                    </persName>
+                    <birth>1800</birth>
+                    <death>1863</death>
+                    <note>preußischer General der Infanterie und Militärschriftsteller</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000011269">
+                    <idno type="mega">1020763</idno>
+                    <persName type="reg">
+                        <name>Oldenberg</name>
+                    </persName>
+                    <note>deutscher Zeitungskorrespondent</note>
+                    <linkGrp>
+                        <ptr target="III/11#517" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011270">
+                    <idno type="mega">1020784</idno>
+                    <persName type="reg">
+                        <surname>Olenschlager</surname>
+                        <forename>Johann Daniel von</forename>
+                    </persName>
+                    <birth>1711</birth>
+                    <death>1778</death>
+                    <note>deutscher Jurist, Rechtshistoriker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#295" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003518">
+                    <idno type="mega">1020790</idno>
+                    <persName type="reg">
+                        <surname>Oliphant</surname>
+                        <forename>Laurence</forename>
+                    </persName>
+                    <birth>1829</birth>
+                    <death>1888</death>
+                    <note>englischer Reiseschriftsteller, 1855 im Kaukasus beim Expeditionskorps Omer Paschas Kriegsberichterstatter der „Times“</note>
+                    <linkGrp>
+                        <ptr target="I/14#769" type="page"/>
+                        <ptr target="I/14#784" type="page"/>
+                        <ptr target="I/14#871" type="page"/>
+                        <ptr target="I/14#1517" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011296">
+                    <idno type="mega">1020794</idno>
+                    <persName type="reg">
+                        <name>Oliver Twist</name>
+                    </persName>
+                    <note>Titelgestalt aus Charles Dickens’ Roman „The adventures of Oliver Twist, or the parish boy’s progress“</note>
+                    <linkGrp>
+                        <ptr target="II/11#9" type="page"/>
+                        <ptr target="II/11#910" type="page"/>
+                        <ptr target="II/11#1257" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003519">
+                    <idno type="mega">1020795</idno>
+                    <persName type="reg">
+                        <surname>Oliveros</surname>
+                        <forename>Antonio</forename>
+                    </persName>
+                    <note>spanischer Geistlicher und Politiker; Abgeordneter der Cortes von Cádiz (1810–1813)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#497" type="page"/>
+                        <ptr target="IV/12#501" type="page"/>
+                        <ptr target="IV/12#689" type="page"/>
+                        <ptr target="IV/12#715" type="page"/>
+                        <ptr target="IV/12#1336" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003520">
+                    <idno type="mega">1020796</idno>
+                    <persName type="reg">
+                        <surname>Olivier</surname>
+                        <forename>Sydney Haldane baron Oliver</forename>
+                    </persName>
+                    <birth>1859</birth>
+                    <death>1943</death>
+                    <note>britischer Beamter und Politiker</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000003521">
+                    <idno type="mega">1020797</idno>
+                    <persName type="reg">
+                        <surname>Ollech</surname>
+                        <forename>Karl Rudolf von</forename>
+                    </persName>
+                    <birth>1811</birth>
+                    <death>1884</death>
+                    <note>preußischer General der Infanterie und Militärschriftsteller, seit 1873 Direktor der Kriegsakademie</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000003522">
+                    <idno type="mega">1020800</idno>
+                    <persName type="reg">
+                        <surname>Ollini</surname>
+                        <forename>Giovanni Paolo</forename>
+                    </persName>
+                    <birth>1790</birth>
+                    <death>1835</death>
+                    <note>italienischer Offizier aus der Lombardei; seit 1821 Emigrant in Spanien; Korpskommandeur</note>
+                    <linkGrp>
+                        <ptr target="IV/12#818" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003523">
+                    <idno type="mega">1020801</idno>
+                    <persName type="reg">
+                        <surname>Ollivier</surname>
+                        <forename>Émile</forename>
+                    </persName>
+                    <birth>1825</birth>
+                    <death>1913</death>
+                    <note>französischer Politiker, Republikaner, Ende der 1860er Jahre Bonapartist; Ministerpräsident (1870)</note>
+                    <linkGrp>
+                        <ptr target="III/13#283" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003524">
+                    <idno type="mega">1020803</idno>
+                    <persName type="reg">
+                        <surname>Ollivier</surname>
+                        <forename>Jules</forename>
+                    </persName>
+                    <birth>1804</birth>
+                    <death>1841</death>
+                    <note>französischer Historiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#565" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003525">
+                    <idno type="mega">1020805</idno>
+                    <persName type="reg">
+                        <surname>Olmsted</surname>
+                        <forename>Frederick Law</forename>
+                    </persName>
+                    <birth>1822</birth>
+                    <death>1903</death>
+                    <note>US-amerikanischer Gartenarchitekt und Reiseschriftsteller; Mitarbeiter der Zeitschrift „Putnam’s Monthly Magazine“, zeitweilig deren Vertreter in London</note>
+                    <linkGrp>
+                        <ptr target="I/14#905" type="page"/>
+                        <ptr target="I/14#1371" type="page"/>
+                        <ptr target="I/14#1566" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003527">
+                    <idno type="mega">1020810</idno>
+                    <persName type="reg">
+                        <surname>Olshausen</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <birth>1802</birth>
+                    <death>1869</death>
+                    <note>schleswiger Jurist, Publizist und Journalist; 1851–1865 Exil in den USA, danach in der Schweiz</note>
+                    <linkGrp>
+                        <ptr target="IV/12#1075" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003528">
+                    <idno type="mega">1020811</idno>
+                    <persName type="reg">
+                        <name>Oltra</name>
+                    </persName>
+                    <note>spanischer Militär und Politiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#791" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011297">
+                    <idno type="mega">1020813</idno>
+                    <persName type="reg">
+                        <name>Oluf</name>
+                    </persName>
+                    <note>Gestalt aus der altdänischen Volksballade „Elveskud“</note>
+                    <linkGrp>
+                        <ptr target="III/11#46" type="page"/>
+                        <ptr target="III/11#49" type="page"/>
+                        <ptr target="III/11#50" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003526">
+                    <idno type="mega">1020807</idno>
+                    <persName type="reg">
+                        <surname>Olózaga</surname>
+                        <forename>Salustiano de</forename>
+                    </persName>
+                    <birth>1805</birth>
+                    <death>1873</death>
+                    <note>spanischer Staatsmann und Diplomat; ein Führer der Progressisten; 1843 Ministerpäsident; ab 1840 mehrfach Gesandter in Paris; Teilnehmer der liberalen Erhebung 1854–1856</note>
+                    <linkGrp>
+                        <ptr target="IV/12#418–420" type="page"/>
+                        <ptr target="IV/12#424" type="page"/>
+                        <ptr target="IV/12#425" type="page"/>
+                        <ptr target="IV/12#436" type="page"/>
+                        <ptr target="IV/12#871" type="page"/>
+                        <ptr target="IV/12#888" type="page"/>
+                        <ptr target="IV/12#898" type="page"/>
+                        <ptr target="IV/12#1255" type="page"/>
+                        <ptr target="IV/12#1261" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011271">
+                    <idno type="mega">1020788</idno>
+                    <persName type="reg">
+                        <name>Ol’ga</name>
+                    </persName>
+                    <note>Großfürstin, Regentin des Kiever Reiches (945–962) für ihren minderjährigen Sohn</note>
+                    <linkGrp>
+                        <ptr target="IV/12#20" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003517">
+                    <idno type="mega">1020789</idno>
+                    <persName type="reg">
+                        <name>Ol’ga Nikolaevna (Ольга Николаевна)</name>
+                    </persName>
+                    <birth>1822</birth>
+                    <death>1892</death>
+                    <note>russische Großfürstin, zweite Tochter von Nikolaj&#160;I; Gemahlin Karls&#160;I., seit 1864 König von Württemberg</note>
+                    <linkGrp>
+                        <ptr target="III/11#97" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011272">
+                    <idno type="mega">1020817</idno>
+                    <persName type="reg">
+                        <surname>Omar&#160;I.</surname>
+                        <forename>ibn al-Chattab</forename>
+                    </persName>
+                    <note>Kalif (seit 634); Gefährte und Ratgeber Mohammeds; schuf ein islamisches Großreich</note>
+                    <linkGrp>
+                        <ptr target="IV/12#341" type="page"/>
+                        <ptr target="IV/12#342" type="page"/>
+                        <ptr target="IV/12#354" type="page"/>
+                        <ptr target="IV/12#355" type="page"/>
+                        <ptr target="IV/12#359" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003530">
+                    <idno type="mega">1020828</idno>
+                    <persName type="reg">
+                        <name>Ompteda, Dietrich Heinrich Ludwig, Freiherr von</name>
+                    </persName>
+                    <birth>1746</birth>
+                    <death>1803</death>
+                    <note>deutscher Diplomat und Völkerrechtler</note>
+                    <linkGrp>
+                        <ptr target="IV/12#65" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011273">
+                    <idno type="mega">1020829</idno>
+                    <persName type="reg">
+                        <name>Omst</name>
+                    </persName>
+                    <note>deutscher Schreiner, Bekannter von Friedrich Leßner in Köln</note>
+                    <linkGrp>
+                        <ptr target="III/13#939" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003531">
+                    <idno type="mega">1020831</idno>
+                    <persName type="reg">
+                        <surname>Oncken</surname>
+                        <forename>Hermann</forename>
+                    </persName>
+                    <birth>1869</birth>
+                    <death>1945</death>
+                    <note>deutscher Historiker; seit 1906 Professor an verschiedenen deutschen Universitäten</note>
+                    <linkGrp>
+                        <ptr target="III/9#588" type="page"/>
+                        <ptr target="III/9#666" type="page"/>
+                        <ptr target="III/9#1084" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011298">
+                    <idno type="mega">1020833</idno>
+                    <persName type="reg">
+                        <name>Onegin</name>
+                    </persName>
+                    <note>Gestalt aus Aleksandr Puškins Versroman „Evgenij Onegin“</note>
+                    <linkGrp>
+                        <ptr target="I/14#283" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003532">
+                    <idno type="mega">1020837</idno>
+                    <persName type="reg">
+                        <surname>Onís</surname>
+                        <forename>Mauricio Carlos de</forename>
+                    </persName>
+                    <birth>1790</birth>
+                    <death>1861</death>
+                    <note>spanischer Politiker; in den 1840er Jahren Senator von Salamanca</note>
+                    <linkGrp>
+                        <ptr target="IV/12#866" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003533">
+                    <idno type="mega">1020839</idno>
+                    <persName type="reg">
+                        <surname>Opdyke</surname>
+                        <forename>George</forename>
+                    </persName>
+                    <birth>1805</birth>
+                    <death>1880</death>
+                    <note>US-amerikanischer Bankier, Politiker und Ökonom</note>
+                    <linkGrp>
+                        <ptr target="II/14#809" type="page"/>
+                        <ptr target="II/15#354" type="page"/>
+                        <ptr target="II/15#654" type="page"/>
+                        <ptr target="II/15#1095" type="page"/>
+                        <ptr target="II/15#1156" type="page"/>
+                        <ptr target="II/15#1233" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011275">
+                    <idno type="mega">1020843</idno>
+                    <persName type="reg">
+                        <name>Oppas</name>
+                    </persName>
+                    <note>Anfang des 8.&#160;Jh. Erzbischof von Sevilla; Bruder Witizas</note>
+                    <linkGrp>
+                        <ptr target="IV/12#747" type="page"/>
+                        <ptr target="IV/12#1411" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003534">
+                    <idno type="mega">1020846</idno>
+                    <persName type="reg">
+                        <name>Oppenheim</name>
+                    </persName>
+                    <note>deutscher Emigrant in London</note>
+                    <linkGrp>
+                        <ptr target="III/11#387" type="page"/>
+                        <ptr target="III/11#1116" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003535">
+                    <idno type="mega">1020854</idno>
+                    <persName type="reg">
+                        <surname>Oppenheim</surname>
+                        <forename>Abraham</forename>
+                    </persName>
+                    <birth>1804</birth>
+                    <death>1878</death>
+                    <note>deutscher
+                        <?oxy_comment_start author="lindenberg" timestamp="20170320T110422+0100" comment="{{{Der Kölner Bankier Abraham Freiherr von Oppenheim (1804-1878), dem mit seinem Bruder Simon Freiherr von Oppenheim (1803-1880) das Kölner Bankhaus Salomon Oppenheim gehörte}}}
+"?>Bankier<?oxy_comment_end?></note>
+                    <linkGrp>
+                        <ptr target="III/9#428" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003536">
+                    <idno type="mega">1020859</idno>
+                    <persName type="reg">
+                        <surname>Oppenheim</surname>
+                        <forename>Heinrich Bernhard</forename>
+                    </persName>
+                    <birth>1819</birth>
+                    <death>1880</death>
+                    <note>Demokrat; 1849–1861 Emigrant in der Schweiz, in Frankreich und England; deutscher Politiker, Jurist, Ökonom und Journalist; später Nationalliberaler; Mitglied des Deutschen Reichstags (1874–1877)</note>
+                    <linkGrp>
+                        <ptr target="I/31#728" type="page"/>
+                        <ptr target="III/10#351" type="page"/>
+                        <ptr target="III/10#358" type="page"/>
+                        <ptr target="III/10#958" type="page"/>
+                        <ptr target="III/10#959" type="page"/>
+                        <ptr target="III/11#157" type="page"/>
+                        <ptr target="III/11#205" type="page"/>
+                        <ptr target="III/11#207" type="page"/>
+                        <ptr target="III/11#218" type="page"/>
+                        <ptr target="III/11#373" type="page"/>
+                        <ptr target="III/11#387" type="page"/>
+                        <ptr target="III/11#792" type="page"/>
+                        <ptr target="III/11#941" type="page"/>
+                        <ptr target="III/11#1116" type="page"/>
+                        <ptr target="III/13#461" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003537">
+                    <idno type="mega">1020860</idno>
+                    <persName type="reg">
+                        <surname>Oppenheim</surname>
+                        <forename>Maximilian</forename>
+                    </persName>
+                    <birth>1834</birth>
+                    <death>1900</death>
+                    <note>deutscher Kaufmann in Prag, später in Dresden; Schwager von Louis Kugelmann</note>
+                    <linkGrp>
+                        <ptr target="II/14#474" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003539">
+                    <idno type="mega">1020871</idno>
+                    <persName type="reg">
+                        <surname>Ord</surname>
+                        <forename>William Miller</forename>
+                    </persName>
+                    <birth>1834</birth>
+                    <death>1902</death>
+                    <note>englischer Arzt</note>
+                    <linkGrp>
+                        <ptr target="II/15#95" type="page"/>
+                        <ptr target="II/15#96" type="page"/>
+                        <ptr target="II/15#1030" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003540">
+                    <idno type="mega">1020882</idno>
+                    <persName type="reg">
+                        <surname>Orges</surname>
+                        <forename>Hermann</forename>
+                    </persName>
+                    <birth>1821</birth>
+                    <death>1874</death>
+                    <note>deutscher Journalist, Redakteur der Augsburger „Allgemeinen Zeitung“ (1854–1864); seit 1850 Korrespondent, später Redakteur der AAZ (1854–1864), Anhänger einer großdeutschen Einigung, seit 1864 Österreicher</note>
+                    <linkGrp>
+                        <ptr target="III/10#49" type="page"/>
+                        <ptr target="III/10#50" type="page"/>
+                        <ptr target="III/10#95" type="page"/>
+                        <ptr target="III/10#176" type="page"/>
+                        <ptr target="III/10#181" type="page"/>
+                        <ptr target="III/10#272" type="page"/>
+                        <ptr target="III/10#281" type="page"/>
+                        <ptr target="III/10#284" type="page"/>
+                        <ptr target="III/10#286" type="page"/>
+                        <ptr target="III/10#287" type="page"/>
+                        <ptr target="III/10#421" type="page"/>
+                        <ptr target="III/10#687" type="page"/>
+                        <ptr target="III/10#691" type="page"/>
+                        <ptr target="III/10#717" type="page"/>
+                        <ptr target="III/10#718" type="page"/>
+                        <ptr target="III/10#723–725" type="page"/>
+                        <ptr target="III/10#743" type="page"/>
+                        <ptr target="III/10#807" type="page"/>
+                        <ptr target="III/10#811" type="page"/>
+                        <ptr target="III/10#1150" type="page"/>
+                        <ptr target="III/13#120" type="page"/>
+                        <ptr target="III/13#151" type="page"/>
+                        <ptr target="III/11#57" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011276">
+                    <idno type="mega">1020883</idno>
+                    <persName type="reg">
+                        <name>Origenes</name>
+                    </persName>
+                    <note>griechischer christlicher Theologe und Philosoph aus Alexandria; Leiter einer Katechetenschule; seine Lehre übte großen Einfluß auf die Theologie und Philosophie der Folgezeit aus</note>
+                    <linkGrp>
+                        <ptr target="IV/12#26" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011277">
+                    <idno type="mega">1020887</idno>
+                    <persName type="reg">
+                        <surname>Orive</surname>
+                        <forename>José</forename>
+                    </persName>
+                    <note>spanischer Militär während des ersten Karlistenkrieges</note>
+                    <linkGrp>
+                        <ptr target="IV/12#870" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003546">
+                    <idno type="mega">1020906</idno>
+                    <persName type="reg">
+                        <name>Orlov, Aleksej Fedorovič, Graf, (seit 1856) Fürst (Орлов)</name>
+                    </persName>
+                    <birth>1786</birth>
+                    <death>1861</death>
+                    <note>russischer General, Staatsmann und Diplomat; schloß 1829 die Verträge von Adrianopel und 1833 von Hünkǎr Ískelesi mit der Türkei ab, seit 1844 Chef der Geheimpolizei, Teilnehmer am Pariser Friedenskongreß 1856; Gesandter in verschiedenen europäischen Staaten; leitete die russische Delegation auf dem Pariser Kongreß 1856; Vater von Nikolaj Orlov</note>
+                    <linkGrp>
+                        <ptr target="I/14#930" type="page"/>
+                        <ptr target="I/14#1294" type="page"/>
+                        <ptr target="I/31#201" type="page"/>
+                        <ptr target="I/31#239" type="page"/>
+                        <ptr target="IV/12#104" type="page"/>
+                        <ptr target="IV/12#126–128" type="page"/>
+                        <ptr target="IV/12#149" type="page"/>
+                        <ptr target="IV/12#153" type="page"/>
+                        <ptr target="IV/12#172" type="page"/>
+                        <ptr target="IV/12#1210" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003547">
+                    <idno type="mega">1020907</idno>
+                    <persName type="reg">
+                        <name>Orlov, Nikolaj Alekseevič, Fürst</name>
+                    </persName>
+                    <birth>1827</birth>
+                    <death>1885</death>
+                    <note>russischer General und Diplomat; 1854 bei der Belagerung Silistrias schwer verwundet; Gesandter in verschiedenen europäischen Staaten; Sohn Aleksej Orlovs</note>
+                    <linkGrp>
+                        <ptr target="IV/12#995" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003548">
+                    <idno type="mega">1020908</idno>
+                    <persName type="reg">
+                        <name>Orlov, Vasilij Ivanovič (Орловъ)</name>
+                    </persName>
+                    <birth>1848</birth>
+                    <death>1885</death>
+                    <note>russischer Staatsbeamter, Statistiker und Ökonom</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000003541">
+                    <idno type="mega">1020895</idno>
+                    <persName type="reg">
+                        <name>Orléans, Antoine Marie Philippe Louis d’, duc de Montpensier</name>
+                    </persName>
+                    <birth>1824</birth>
+                    <death>1890</death>
+                    <note>fünfter und jüngster Sohn von Louis-Philippe; 1842 Eintritt in die spanische Armee, 1844/1845 als Offizier in Algerien, 1846 mit der spanischen Infantin María Luisa Fernanda vermählt und seit 1859 Infant von Spanien. 1870 als spanischer Thronprätendent erfolglos und Rückkehr nach Frankreich</note>
+                    <linkGrp>
+                        <ptr target="I/14#182" type="page"/>
+                        <ptr target="I/14#220" type="page"/>
+                        <ptr target="I/14#221" type="page"/>
+                        <ptr target="I/14#1120" type="page"/>
+                        <ptr target="I/14#1121" type="page"/>
+                        <ptr target="I/14#1167" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011278">
+                    <idno type="mega">1020896</idno>
+                    <persName type="reg">
+                        <name>Orléans, Gaston, duc d’</name>
+                    </persName>
+                    <birth>1608</birth>
+                    <death>1660</death>
+                    <note>französischer Staatsmann; Bruder Louis’&#160;XIII.</note>
+                    <linkGrp>
+                        <ptr target="IV/12#543" type="page"/>
+                        <ptr target="IV/12#544" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003542">
+                    <idno type="mega">1020898</idno>
+                    <persName type="reg">
+                        <name>Orléans, Henri Eugène Philippe Louis d’, duc d’ Aumale</name>
+                    </persName>
+                    <birth>1822</birth>
+                    <death>1897</death>
+                    <note>vierter Sohn Louis Philippes, französischer Offizier und Militärwissenschaftler; in den 1840er Jahren Dienst in Algerien</note>
+                    <linkGrp>
+                        <ptr target="I/14#220" type="page"/>
+                        <ptr target="I/14#221" type="page"/>
+                        <ptr target="I/14#1167" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003543">
+                    <idno type="mega">1020899</idno>
+                    <persName type="reg">
+                        <name>Orléans, Louis Philippe Albert d’, comte de Paris</name>
+                    </persName>
+                    <birth>1838</birth>
+                    <death>1894</death>
+                    <note>Enkel Louis Philippes, Thronprätendent der Orléans</note>
+                    <linkGrp>
+                        <ptr target="I/31#8" type="page"/>
+                        <ptr target="III/13#458" type="page"/>
+                        <ptr target="III/13#1166" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003544">
+                    <idno type="mega">1020901</idno>
+                    <persName type="reg">
+                        <name>Orléans, Marie Amélie Françoise Hélène, princesse d’</name>
+                    </persName>
+                    <birth>1865</birth>
+                    <death>1909</death>
+                    <note>Tochter von Robert, duc de Chartres, und Urenkelin von Louis Philippe, heiratete 1885 Prinz Valdemar von Dänemark</note>
+                    <linkGrp>
+                        <ptr target="I/31#1004" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011279">
+                    <idno type="mega">1020902</idno>
+                    <persName type="reg">
+                        <name>Orléans, Philippe Ier, duc d’</name>
+                    </persName>
+                    <birth>1640</birth>
+                    <death>1701</death>
+                    <note>einziger Bruder Louis’&#160;XIV.</note>
+                    <linkGrp>
+                        <ptr target="IV/12#268" type="page"/>
+                        <ptr target="IV/12#269" type="page"/>
+                        <ptr target="IV/12#1184" type="page"/>
+                        <ptr target="IV/12#1185" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011280">
+                    <idno type="mega">1020903</idno>
+                    <persName type="reg">
+                        <name>Orléans, Philippe&#160;II, duc d’</name>
+                    </persName>
+                    <birth>1674</birth>
+                    <death>1723</death>
+                    <note>Sohn Philippes Ier, duc d’Orléans mit Elisabeth Charlotte, duchesse d’Orléans aus dem kurfürstlichen Hause Pfalz-Simmern; 1715–1723 Regent von Frankreich für den minderjährigen Louis&#160;XV.</note>
+                    <linkGrp>
+                        <ptr target="IV/12#269" type="page"/>
+                        <ptr target="IV/12#281" type="page"/>
+                        <ptr target="IV/12#283" type="page"/>
+                        <ptr target="IV/12#423" type="page"/>
+                        <ptr target="IV/12#551" type="page"/>
+                        <ptr target="IV/12#1257" type="page"/>
+                        <ptr target="IV/12#1185" type="page"/>
+                        <ptr target="IV/12#1187" type="page"/>
+                        <ptr target="IV/12#1299" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003545">
+                    <idno type="mega">1020904</idno>
+                    <persName type="reg">
+                        <name>Orléans, Robert Philippe Louis Eugène Ferdinand d’, duc de Chartres</name>
+                    </persName>
+                    <birth>1840</birth>
+                    <death>1910</death>
+                    <note>Vater von Marie, princesse d’Orléans, Enkel von Louis Philippe</note>
+                    <linkGrp>
+                        <ptr target="I/31#1004" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011281">
+                    <idno type="mega">1020911</idno>
+                    <persName type="reg">
+                        <name>Ormuzd</name>
+                    </persName>
+                    <note>im Parsismus das Prinzip des Guten, der Heilige Geist, der sittlich gute Gott</note>
+                    <linkGrp>
+                        <ptr target="IV/12#1381" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011282">
+                    <idno type="mega">1020912</idno>
+                    <persName type="reg">
+                        <name>Oropesa, Manuel Joaquín Álvarez de Toledo, conde de</name>
+                    </persName>
+                    <birth>1642</birth>
+                    <death>1707</death>
+                    <note>spanischer Premierminister (1685–1691 und 1698/1699)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#422" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003549">
+                    <idno type="mega">1020914</idno>
+                    <persName type="reg">
+                        <surname>Orosz</surname>
+                        <forename>Gyula</forename>
+                    </persName>
+                    <note>1848 ungarischer Offizier, 1849 Flucht in die Türkei; ab 1850 in Konstantinopel Pianist, seit 1863 Musiklehrer in Edinburgh; kehrte später nach Ungarn zurück</note>
+                    <linkGrp>
+                        <ptr target="IV/12#991" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003550">
+                    <idno type="mega">1020916</idno>
+                    <persName type="reg">
+                        <surname>Orozco</surname>
+                        <forename>José María</forename>
+                    </persName>
+                    <note>1844 spanischer Admiral</note>
+                    <linkGrp>
+                        <ptr target="IV/12#443" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011283">
+                    <idno type="mega">1020920</idno>
+                    <persName type="reg">
+                        <surname>Orsi</surname>
+                        <forename>Graf</forename>
+                    </persName>
+                    <note>Börsenmakler korsischer Herkunft; für Napoléon&#160;III tätig</note>
+                    <linkGrp>
+                        <ptr target="I/14#435" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="ed_erg_rjw_wx">
+                    <persName type="reg">
+                        <surname>Orsini</surname>
+                        <forename>Cesare conte di</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bruder von Theobaldus Orsus Felice Orsini</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000003552">
+                    <idno type="mega">1020923</idno>
+                    <persName type="reg">
+                        <surname>Orsini</surname>
+                        <forename>Felice conte di</forename>
+                    </persName>
+                    <birth>1819</birth>
+                    <death>1858</death>
+                    <note>italienischer Demokrat, Republikaner; Teilnehmer am Kampf für die
+                        nationale Befreiung Italiens; italienischer Revolutionär, Republikaner,
+                        Anhänger Mazzinis; nahm seit Anfang der 1840er Jahre am Kampf für die
+                        Einigung Italiens teil; mehrfach verhaftet; lebte seit 1856 in London ;
+                        verübte im Januar 1858 ein Attentat auf Napoléon&#160;III ;
+                        hingerichtet</note>
+                    <linkGrp>
+                        <ptr target="I/31#73" type="page"/>
+                        <ptr target="I/31#823" type="page"/>
+                        <ptr target="III/9#44" type="page"/>
+                        <ptr target="III/9#45" type="page"/>
+                        <ptr target="III/9#81" type="page"/>
+                        <ptr target="III/9#83" type="page"/>
+                        <ptr target="III/9#85" type="page"/>
+                        <ptr target="III/9#105" type="page"/>
+                        <ptr target="III/9#107" type="page"/>
+                        <ptr target="III/9#255" type="page"/>
+                        <ptr target="III/9#298" type="page"/>
+                        <ptr target="III/9#441" type="page"/>
+                        <ptr target="III/9#577" type="page"/>
+                        <ptr target="III/9#599" type="page"/>
+                        <ptr target="III/9#603" type="page"/>
+                        <ptr target="III/9#618" type="page"/>
+                        <ptr target="III/9#621" type="page"/>
+                        <ptr target="III/9#623" type="page"/>
+                        <ptr target="III/9#636" type="page"/>
+                        <ptr target="III/9#637" type="page"/>
+                        <ptr target="III/9#709" type="page"/>
+                        <ptr target="III/9#717" type="page"/>
+                        <ptr target="III/9#718" type="page"/>
+                        <ptr target="III/9#732" type="page"/>
+                        <ptr target="III/9#739" type="page"/>
+                        <ptr target="III/9#750" type="page"/>
+                        <ptr target="III/9#759" type="page"/>
+                        <ptr target="III/9#762" type="page"/>
+                        <ptr target="III/9#780" type="page"/>
+                        <ptr target="III/9#802" type="page"/>
+                        <ptr target="III/9#854" type="page"/>
+                        <ptr target="III/9#942" type="page"/>
+                        <ptr target="III/9#966" type="page"/>
+                        <ptr target="III/9#1102" type="page"/>
+                        <ptr target="III/13#457" type="page"/>
+                        <ptr target="III/13#1165" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011284">
+                    <idno type="mega">1020921</idno>
+                    <persName type="reg">
+                        <name>Orsini, Anna, princesa</name>
+                    </persName>
+                    <birth>1637</birth>
+                    <death>1722</death>
+                    <note>italienische Adlige; Oberhofmeisterin der ersten Gemahlin Felipes&#160;V, María Luisa Gabriela de Saboya, einer savoyischen Prinzessin, verfügte über großen Einfluß auf das Herrscherpaar</note>
+                    <linkGrp>
+                        <ptr target="IV/12#279" type="page"/>
+                        <ptr target="IV/12#423" type="page"/>
+                        <ptr target="IV/12#921" type="page"/>
+                        <ptr target="IV/12#1462" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003555">
+                    <idno type="mega">1020928</idno>
+                    <persName type="reg">
+                        <surname>Orth</surname>
+                        <forename>Georg Heinrich</forename>
+                    </persName>
+                    <birth>1786</birth>
+                    <death>1840</death>
+                    <note>Mitinhaber einer Baumölhandlung in Barmen (Wuppertal)</note>
+                    <linkGrp>
+                        <ptr target="III/9#403" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="ed_rsv_nk3_yy">
+                    <persName type="reg">
+                        <surname>Ortiga </surname>
+                        <forename/>
+                    </persName>
+                    <persName type="alt">
+                        <name>Ortica</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1866/67 Mitglied des Generalrats er
+                        <?oxy_comment_start author="lindenberg" timestamp="20170215T153559+0100" comment="Quelle: I-20"?>IAA<?oxy_comment_end?>
+                    </note>
+                </person>
+                <person xml:id="pdrPo.001.004.000003538">
+                    <idno type="mega">1020867</idno>
+                    <persName type="reg">
+                        <surname>Oráa</surname>
+                        <forename>Javier Antonio Marcelino de</forename>
+                    </persName>
+                    <birth>1788</birth>
+                    <death>1851</death>
+                    <note>spanischer Militär und Politiker; Kriegsminister (1847)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#912" type="page"/>
+                        <ptr target="IV/12#1460" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003551">
+                    <idno type="mega">1020919</idno>
+                    <persName type="reg">
+                        <name>Oršanskij, Il’ja Grigor’evič (Оршанскій)</name>
+                    </persName>
+                    <birth>1846</birth>
+                    <death>1875</death>
+                    <note>russischer Jurist jüdischer Abstammung</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000011285">
+                    <idno type="mega">1020940</idno>
+                    <persName type="reg">
+                        <name>Osborne, Thomas, (seit 1674) Earl of Danby, (seit 1689) Marquess of Carmarthen, (seit            1694) 1st Duke of Leeds</name>
+                    </persName>
+                    <birth>1631</birth>
+                    <death>1712</death>
+                    <note>britischer Staatsmann; Tory; Erster Lord des Schatzes (1673–1679, 1690–1695), 1679 und 1695 vom Parlament der Bestechlichkeit im Amt beschuldigt</note>
+                    <linkGrp>
+                        <ptr target="IV/12#148" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003557">
+                    <idno type="mega">1020944</idno>
+                    <persName type="reg">
+                        <surname>Osiander</surname>
+                        <forename>Heinrich Friedrich</forename>
+                    </persName>
+                    <birth>1782</birth>
+                    <death>1846</death>
+                    <note>deutscher Ökonom, Anhänger des Freihandels</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000003558">
+                    <idno type="mega">1020947</idno>
+                    <persName type="reg">
+                        <name>Oskar&#160;I. (Oscar)</name>
+                    </persName>
+                    <birth>1799</birth>
+                    <death>1859</death>
+                    <note>König von Schweden und Norwegen seit 1844</note>
+                    <linkGrp>
+                        <ptr target="I/14#814" type="page"/>
+                        <ptr target="I/14#1553" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003559">
+                    <idno type="mega">1020950</idno>
+                    <persName type="reg">
+                        <name>Osman Bei</name>
+                    </persName>
+                    <note>Stellvertreter des Ahmed Kapudan Pascha</note>
+                    <linkGrp>
+                        <ptr target="IV/12#230" type="page"/>
+                        <ptr target="IV/12#237" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003560">
+                    <idno type="mega">1020952</idno>
+                    <persName type="reg">
+                        <name>Osman Pascha</name>
+                    </persName>
+                    <birth>1785</birth>
+                    <death>1860</death>
+                    <note>türkischer Admiral, befehligte das türkische Geschwader in der Schlacht bei Sinope (1853), wurde von den Russen gefangengenommen</note>
+                    <linkGrp>
+                        <ptr target="I/14#769" type="page"/>
+                        <ptr target="I/14#1043" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003561">
+                    <idno type="mega">1020954</idno>
+                    <persName type="reg">
+                        <name>Osman Pascha</name>
+                    </persName>
+                    <note>ägyptischer Truppenkommandeur im zweiten Türkischen-Ägyptischen Krieg (1839–1841)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#232" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011286">
+                    <idno type="mega">1020949</idno>
+                    <persName type="reg">
+                        <name>Osman&#160;III.</name>
+                    </persName>
+                    <birth>1699</birth>
+                    <death>1757</death>
+                    <note>osmanischer Sultan (seit 1754)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#293" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011287">
+                    <idno type="mega">1020961</idno>
+                    <persName type="reg">
+                        <surname>Ossat</surname>
+                        <forename>Arnauld d’</forename>
+                    </persName>
+                    <birth>1536</birth>
+                    <death>1604</death>
+                    <note>französischer Geistlicher und Diplomat, Kardinal (seit 1598); Bischof von Bayeux (seit 1600)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#75" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003562">
+                    <idno type="mega">1020963</idno>
+                    <persName type="reg">
+                        <surname>Ossorio</surname>
+                        <forename>Francisco de Paula</forename>
+                    </persName>
+                    <birth>1762</birth>
+                    <death>1830</death>
+                    <note>spanischer Militär und Politiker; 1822/1823 Marineminister</note>
+                    <linkGrp>
+                        <ptr target="IV/12#830" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003564">
+                    <idno type="mega">1020971</idno>
+                    <persName type="reg">
+                        <name>Osten-Saken, Dmitrij Erofeevič, Graf (Остен-Сакен)</name>
+                    </persName>
+                    <birth>1793</birth>
+                    <death>1881</death>
+                    <note>russischer General deutschbaltischer Herkunft (von der Osten-Sacken), 1853 Oberkommandierender der in Bessarabien und am rechten Ufer des Bug stehenden russischen Truppen, befehligte 1853/1854 ein Armeekorps an der Donau und im Süden Rußlands, seit November 1854 Kommandant der Garnison von Sevastopol</note>
+                    <linkGrp>
+                        <ptr target="I/14#1195" type="page"/>
+                        <ptr target="I/14#1196" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003565">
+                    <idno type="mega">1020973</idno>
+                    <persName type="reg">
+                        <surname>Osterhaus</surname>
+                        <forename>Peter Joseph</forename>
+                    </persName>
+                    <birth>1823</birth>
+                    <death>1917</death>
+                    <note>amerikanischer General und Diplomat deutscher Herkunft, Teilnehmer am Amerikanischen Bürgerkrieg (1861–1865) auf seiten der Nordstaaten; amerikanischer Konsul in Lyon, später nach Deutschland zurückgekehrt</note>
+                    <linkGrp>
+                        <ptr target="III/13#173" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011288">
+                    <idno type="mega">1020974</idno>
+                    <persName type="reg">
+                        <name>Ostermann, Andrej Ivanovič, Graf</name>
+                    </persName>
+                    <birth>1686</birth>
+                    <death>1747</death>
+                    <note>russischer Staatsmann und Diplomat; aus Westfalen stammender Pfarrerssohn (Heinrich Johann Friedrich Ostermann)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#286" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003566">
+                    <idno type="mega">1020980</idno>
+                    <persName type="reg">
+                        <surname>Osterroth</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <birth>1815</birth>
+                    <death>1889</death>
+                    <note>Kaufmann in Barmen (Wuppertal)</note>
+                    <linkGrp>
+                        <ptr target="III/13#262" type="page"/>
+                        <ptr target="III/13#489" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003567">
+                    <idno type="mega">1020978</idno>
+                    <persName type="reg">
+                        <surname>Osterroth</surname>
+                        <forename>Addy</forename>
+                    </persName>
+                    <birth>1865</birth>
+                    <death>1929</death>
+                    <note>Tochter von Friedrich und Agnes Osterroth</note>
+                    <linkGrp>
+                        <ptr target="III/13#489" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003568">
+                    <idno type="mega">1020979</idno>
+                    <persName type="reg">
+                        <surname>Osterroth</surname>
+                        <forename>Agnes</forename>
+                    </persName>
+                    <birth>1846</birth>
+                    <death>1909</death>
+                    <note>Ehefrau von Friedrich Osterroth</note>
+                    <linkGrp>
+                        <ptr target="III/13#489" type="page"/>
+                        <ptr target="III/13#1191" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003569">
+                    <idno type="mega">1020981</idno>
+                    <persName type="reg">
+                        <surname>Osterroth</surname>
+                        <forename>Johann Wilhelm</forename>
+                    </persName>
+                    <birth>1772</birth>
+                    <death>1859</death>
+                    <note>Kaufmann in Barmen</note>
+                    <linkGrp>
+                        <ptr target="III/10#148" type="page"/>
+                        <ptr target="III/10#173" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003570">
+                    <idno type="mega">1030826</idno>
+                    <persName type="reg">
+                        <surname>Ostolaza</surname>
+                        <forename>Blas Gregorio de</forename>
+                    </persName>
+                    <note>spanischer Priester; Beichtvater Fernandos&#160;VII; 1812 Abgeordneter der Cortes von Cádiz; erschossen</note>
+                    <linkGrp>
+                        <ptr target="IV/12#1258" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003571">
+                    <idno type="mega">1020985</idno>
+                    <persName type="reg">
+                        <surname>Ostrowski</surname>
+                        <forename>Józefat Bolesław</forename>
+                    </persName>
+                    <birth>1805</birth>
+                    <death>1871</death>
+                    <note>polnischer Historiker, Schriftsteller und Publizist, Emigrant in Frankreich</note>
+                    <linkGrp>
+                        <ptr target="I/14#621" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003572">
+                    <idno type="mega">1020990</idno>
+                    <persName type="reg">
+                        <surname>Ostwald</surname>
+                        <forename>Wilhelm Friedrich</forename>
+                    </persName>
+                    <birth>1853</birth>
+                    <death>1932</death>
+                    <note>deutscher Chemiker und Chemiehistoriker; Herausgeber der Wiederveröffentlichung fundamentaler naturwissenschaftlicher Arbeiten („Ostwald’s Klassiker der exakten Wissenschaften“)</note>
+                    <linkGrp>
+                        <ptr target="IV/31#665" type="page"/>
+                        <ptr target="IV/31#666" type="page"/>
+                        <ptr target="IV/31#675" type="page"/>
+                        <ptr target="IV/31#893" type="page"/>
+                        <ptr target="IV/31#907" type="page"/>
+                        <ptr target="IV/31#917" type="page"/>
+                        <ptr target="IV/31#919" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003574">
+                    <idno type="mega">1020995</idno>
+                    <persName type="reg">
+                        <surname>Osuna</surname>
+                        <forename>Francisco de Borja Bruno Téllez Girón</forename>
+                    </persName>
+                    <birth>1786</birth>
+                    <death>1820</death>
+                    <note>spanischer Politiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#827" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003573">
+                    <idno type="mega">1020996</idno>
+                    <persName type="reg">
+                        <name>Osuna, Mariano Téllez Girón, duque de</name>
+                    </persName>
+                    <birth>1814</birth>
+                    <death>1882</death>
+                    <note>spanischer Politiker und Diplomat; Günstling Isabels&#160;II.</note>
+                    <linkGrp>
+                        <ptr target="IV/12#424" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003575">
+                    <idno type="uri">http://d-nb.info/gnd/117159565</idno>
+                    <idno type="mega">1021006</idno>
+                    <persName type="reg">
+                        <surname>Oswald</surname>
+                        <forename>Eugen</forename>
+                    </persName>
+                    <birth>1826</birth>
+                    <death>1912</death>
+                    <note>deutscher Journalist, Demokrat; Teilnehmer am badisch-pfälzischen Aufstand 1849; emigrierte nach deren Niederlage nach England</note>
+                    <linkGrp>
+                        <ptr target="III/10#265" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011299">
+                    <idno type="mega">1021010</idno>
+                    <persName type="reg">
+                        <name>Othello</name>
+                    </persName>
+                    <note>Titelgestalt der Tragödie „Othello, the moor of Venice“ von William Shakespeare</note>
+                    <linkGrp>
+                        <ptr target="III/11#752" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011289">
+                    <idno type="mega">1021016</idno>
+                    <persName type="reg">
+                        <name>Othon de Grasse auch Eudes&#160;II de Grasse</name>
+                    </persName>
+                    <note>Bischof von Gap (seit 1251)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#566" type="page"/>
+                        <ptr target="IV/12#1305" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003576">
+                    <idno type="mega">1021014</idno>
+                    <persName type="reg">
+                        <name>Othon&#160;I geb. Otto von Wittelsbach</name>
+                    </persName>
+                    <birth>1815</birth>
+                    <death>1867</death>
+                    <note>König von Griechenland (1832/1835–1862); zweiter Sohn Ludwigs&#160;I. von Bayern</note>
+                    <linkGrp>
+                        <ptr target="IV/12#96" type="page"/>
+                        <ptr target="IV/12#1149" type="page"/>
+                        <ptr target="IV/12#1219" type="page"/>
+                        <ptr target="IV/12#1239" type="page"/>
+                        <ptr target="I/14#1025" type="page"/>
+                        <ptr target="I/14#1066" type="page"/>
+                        <ptr target="I/14#1145" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011290">
+                    <idno type="mega">1021015</idno>
+                    <persName type="reg">
+                        <name>Othon&#160;V</name>
+                    </persName>
+                    <birth>1248</birth>
+                    <death>1303</death>
+                    <note>Graf von Burgund (seit 1278)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#563" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003577">
+                    <idno type="mega">1021030</idno>
+                    <persName type="reg">
+                        <surname>Otto</surname>
+                        <forename>Carl Wunibald</forename>
+                    </persName>
+                    <birth>1808</birth>
+                    <death>1862</death>
+                    <note>deutscher Chemiker; Mitglied des Bundes der Kommunisten; 1851 Emissär der Kölner Zentralbehörde des Bundes in Leipzig und Dresden, im Kölner Kommunistenprozeß 1852 zu fünf Jahren Festungshaft verurteilt</note>
+                    <linkGrp>
+                        <ptr target="III/9#729" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003578">
+                    <idno type="mega">1021045</idno>
+                    <persName type="reg">
+                        <name>Otto-Reventlow, Karl eigtl. Otto</name>
+                    </persName>
+                    <birth>1817</birth>
+                    <death>1873</death>
+                    <note>deutscher Philologe und Mnemotechniker; Demokrat; Teilnehmer an der Revolution 1848/49 in Schleswig, Holstein und Thüringen; emigrierte 1854 in die USA, redigierte dort einige deutsche Zeitungen, u.&#160;a. den „Hochwächter“ (Cincinnatti); 1863 Rückkehr nach Deutschland</note>
+                    <linkGrp>
+                        <ptr target="III/9#4" type="page"/>
+                        <ptr target="III/9#79" type="page"/>
+                        <ptr target="III/9#585" type="page"/>
+                        <ptr target="III/9#673" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003579">
+                    <idno type="mega">1021051</idno>
+                    <persName type="reg">
+                        <name>Otway, Sir Arthur John, Baronet</name>
+                    </persName>
+                    <birth>1822</birth>
+                    <death>1912</death>
+                    <note>britischer Politiker, Tory; in den 1850er Jahren Mitglied des Unterhauses</note>
+                    <linkGrp>
+                        <ptr target="I/14#420" type="page"/>
+                        <ptr target="I/14#448" type="page"/>
+                        <ptr target="I/14#1358" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003580">
+                    <idno type="mega">1021055</idno>
+                    <persName type="reg">
+                        <name>Oudinot, Charles Nicolas, duc de Reggio</name>
+                    </persName>
+                    <birth>1767</birth>
+                    <death>1847</death>
+                    <note>französischer Heerführer; Marschall von Frankreich (seit 1809)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#643" type="page"/>
+                        <ptr target="IV/12#789" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003581">
+                    <idno type="mega">1021063</idno>
+                    <persName type="reg">
+                        <name>Outram, Sir James, 1st Baronet</name>
+                    </persName>
+                    <birth>1803</birth>
+                    <death>1863</death>
+                    <note>britischer General; nahm 1857/1858 maßgeblich an der Unterdrückung des indischen Aufstandes teil</note>
+                    <linkGrp>
+                        <ptr target="III/9#868" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003582">
+                    <idno type="mega">1021064</idno>
+                    <persName type="reg">
+                        <surname>Ouvrard</surname>
+                        <forename>Gabriel-Julien</forename>
+                    </persName>
+                    <birth>1770</birth>
+                    <death>1846</death>
+                    <note>französischer Bankier</note>
+                    <linkGrp>
+                        <ptr target="IV/12#805" type="page"/>
+                        <ptr target="IV/12#806" type="page"/>
+                        <ptr target="IV/12#825" type="page"/>
+                        <ptr target="IV/12#875" type="page"/>
+                        <ptr target="IV/12#1452" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003583">
+                    <idno type="mega">1021066</idno>
+                    <persName type="reg">
+                        <surname>Ovalle</surname>
+                        <forename>Félix</forename>
+                    </persName>
+                    <note>spanischer Politiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#663" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003584">
+                    <idno type="mega">1021069</idno>
+                    <persName type="reg">
+                        <surname>Overbeck</surname>
+                        <forename>Johannes Adolf</forename>
+                    </persName>
+                    <birth>1826</birth>
+                    <death>1895</death>
+                    <note>deutscher Archäologe</note>
+                    <linkGrp>
+                        <ptr target="III/13#60" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011291">
+                    <idno type="mega">1021079</idno>
+                    <persName type="reg">
+                        <surname>Ovidius Naso</surname>
+                        <forename>Publius</forename>
+                    </persName>
+                    <note>römischer Dichter</note>
+                    <linkGrp>
+                        <ptr target="I/14#1113" type="page"/>
+                        <ptr target="II/15#790" type="page"/>
+                        <ptr target="II/15#1254" type="page"/>
+                        <ptr target="III/11#372" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003585">
+                    <idno type="mega">1021084</idno>
+                    <persName type="reg">
+                        <surname>Owen</surname>
+                        <forename>Robert</forename>
+                    </persName>
+                    <birth>1771</birth>
+                    <death>1858</death>
+                    <note>Frühsozialist; walisischer Unternehmer und Sozialreformer</note>
+                    <linkGrp>
+                        <ptr target="I/31#399" type="page"/>
+                        <ptr target="I/31#487" type="page"/>
+                        <ptr target="I/31#571" type="page"/>
+                        <ptr target="I/31#1150" type="page"/>
+                        <ptr target="I/31#1189" type="page"/>
+                        <ptr target="III/10#439" type="page"/>
+                        <ptr target="III/13#609" type="page"/>
+                        <ptr target="II/13#16" type="page"/>
+                        <ptr target="II/13#633" type="page"/>
+                        <ptr target="II/14#413" type="page"/>
+                        <ptr target="II/15#595" type="page"/>
+                        <ptr target="II/15#1025" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011292">
+                    <idno type="mega">1021086</idno>
+                    <persName type="reg">
+                        <surname>Owen</surname>
+                        <forename>Stephen</forename>
+                    </persName>
+                    <note>britischer Marineoffizier</note>
+                    <linkGrp>
+                        <ptr target="I/14#803" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011293">
+                    <idno type="mega">1021088</idno>
+                    <persName type="reg">
+                        <name>Oxenstierna von Södermöre, Axel Gustavson, Graf</name>
+                    </persName>
+                    <birth>1583</birth>
+                    <death>1654</death>
+                    <note>schwedischer Staatsmann, Diplomat und Heerführer</note>
+                    <linkGrp>
+                        <ptr target="IV/12#81" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003563">
+                    <idno type="mega">1020966</idno>
+                    <persName type="reg">
+                        <surname>Oßwald</surname>
+                        <forename>Ernst</forename>
+                    </persName>
+                    <note>preußischer Offizier; Demokrat; Teilnehmer an dem Zug Garibaldis nach Süditalien (1860), Ende 1861 in die USA emigriert, Teilnehmer am Amerikanischen Bürgerkrieg (1861–1865) auf seiten der Nordstaaten</note>
+                    <linkGrp>
+                        <ptr target="III/11#569" type="page"/>
+                        <ptr target="III/11#572–574" type="page"/>
+                        <ptr target="III/11#576" type="page"/>
+                        <ptr target="III/11#577" type="page"/>
+                        <ptr target="III/11#578" type="page"/>
+                        <ptr target="III/11#585" type="page"/>
+                        <ptr target="III/11#601" type="page"/>
+                        <ptr target="III/11#714" type="page"/>
+                        <ptr target="III/11#1297" type="page"/>
+                        <ptr target="III/11#1303" type="page"/>
+                        <ptr target="III/11#1305" type="page"/>
+                        <ptr target="III/11#1306" type="page"/>
+                        <ptr target="III/11#1312" type="page"/>
+                        <ptr target="III/11#1327" type="page"/>
+                        <ptr target="III/11#1328" type="page"/>
+                        <ptr target="III/11#1340" type="page"/>
+                        <ptr target="III/13#145" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003487">
+                    <idno type="mega">1020618</idno>
+                    <persName type="reg">
+                        <surname>O’Brien</surname>
+                        <forename>William Smith</forename>
+                    </persName>
+                    <birth>1803</birth>
+                    <death>1864</death>
+                    <note>Vertreter der irischen Nationalbewegung, Mitglied des Unterhauses; seit 1844 Mitglied der Repeal Association, seit 1847 der Irish Confederation, 1848 wegen Vorbereitung eines Aufstands zum Tode verurteilt, umgewandelt in lebenslängliche Deportation, 1856 amnestiert; irischer Politiker, Vertreter der Nationalbewegung; Mitglied des Parlaments (1828–1831, 1835–1848)</note>
+                    <linkGrp>
+                        <ptr target="I/14#586" type="page"/>
+                        <ptr target="I/14#1135" type="page"/>
+                        <ptr target="IV/12#147" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003488">
+                    <idno type="mega">1020616</idno>
+                    <persName type="reg">
+                        <surname>O’Brien</surname>
+                        <forename>Richard Barry</forename>
+                    </persName>
+                    <birth>1847</birth>
+                    <death>1918</death>
+                    <note>irischer Anwalt und Publizist</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000003485">
+                    <idno type="mega">1020610</idno>
+                    <persName type="reg">
+                        <name>O’Brien, Bronterre eigtl. James</name>
+                    </persName>
+                    <birth>1804</birth>
+                    <death>1864</death>
+                    <note>irischer Journalist und radikaler Politiker; Chartist</note>
+                    <linkGrp>
+                        <ptr target="I/31#421" type="page"/>
+                        <ptr target="I/31#430" type="page"/>
+                        <ptr target="I/31#441" type="page"/>
+                        <ptr target="I/31#442" type="page"/>
+                        <ptr target="I/31#1202" type="page"/>
+                        <ptr target="I/31#1209" type="page"/>
+                        <ptr target="I/31#1210" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003486">
+                    <idno type="mega">1020610</idno>
+                    <persName type="reg">
+                        <name>O’Brien, James genannt Pseudonym Bronterre</name>
+                    </persName>
+                    <birth>1802</birth>
+                    <death>1864</death>
+                    <note>irischer Publizist; Chartist; 1849 Mitgründer der National Reform League</note>
+                    <linkGrp>
+                        <ptr target="III/9#25" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003496">
+                    <idno type="mega">1020630</idno>
+                    <persName type="reg">
+                        <surname>O’Connell</surname>
+                        <forename>Daniel</forename>
+                    </persName>
+                    <birth>1775</birth>
+                    <death>1847</death>
+                    <note>irischer Politiker, Rechtsanwalt; Führer des liberalen Flügels der irischen Nationalbewegung; Mitglied des Parlaments (seit 1828)</note>
+                    <linkGrp>
+                        <ptr target="I/14#156" type="page"/>
+                        <ptr target="I/14#188" type="page"/>
+                        <ptr target="I/14#386" type="page"/>
+                        <ptr target="I/14#552" type="page"/>
+                        <ptr target="I/14#583–585" type="page"/>
+                        <ptr target="I/14#597" type="page"/>
+                        <ptr target="I/14#598" type="page"/>
+                        <ptr target="I/14#1033" type="page"/>
+                        <ptr target="I/14#1133" type="page"/>
+                        <ptr target="I/14#1415" type="page"/>
+                        <ptr target="I/31#419" type="page"/>
+                        <ptr target="I/31#424" type="page"/>
+                        <ptr target="I/31#1192" type="page"/>
+                        <ptr target="IV/12#41" type="page"/>
+                        <ptr target="IV/12#173" type="page"/>
+                        <ptr target="IV/12#329" type="page"/>
+                        <ptr target="IV/12#330" type="page"/>
+                        <ptr target="IV/12#1125" type="page"/>
+                        <ptr target="IV/12#1207–1209" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003497">
+                    <idno type="mega">1020632</idno>
+                    <persName type="reg">
+                        <surname>O’Connor</surname>
+                        <forename>Feargus Edward</forename>
+                    </persName>
+                    <birth>1794</birth>
+                    <death>1855</death>
+                    <note>ein Führer der Chartisten, seit 1848 ihres rechten Flügels; Begründer und Herausgeber des „Northern Star“; irischer Jurist, Politiker, Journalist; 1832–1835, 1847–1852 Mitglied des Parlaments, einer der Führer der Chartistenbewegung, 1837 Gründer und in der Folge Redakteur des „Northern Star“ (Leeds); zog sich 1852 aus Gesundheitsgründen aus dem öffentlichen Leben zurück</note>
+                    <linkGrp>
+                        <ptr target="I/14#156" type="page"/>
+                        <ptr target="I/14#678" type="page"/>
+                        <ptr target="I/31#423" type="page"/>
+                        <ptr target="I/31#424" type="page"/>
+                        <ptr target="I/31#428–430" type="page"/>
+                        <ptr target="I/31#436" type="page"/>
+                        <ptr target="I/31#438" type="page"/>
+                        <ptr target="I/31#440" type="page"/>
+                        <ptr target="I/31#442" type="page"/>
+                        <ptr target="I/31#446–448" type="page"/>
+                        <ptr target="I/31#451" type="page"/>
+                        <ptr target="I/31#453" type="page"/>
+                        <ptr target="I/31#1201" type="page"/>
+                        <ptr target="I/31#1202" type="page"/>
+                        <ptr target="I/31#1208" type="page"/>
+                        <ptr target="I/31#1210" type="page"/>
+                        <ptr target="I/31#1212" type="page"/>
+                        <ptr target="I/31#1214" type="page"/>
+                        <ptr target="III/9#738" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003495">
+                    <idno type="mega">1020638</idno>
+                    <persName type="reg">
+                        <surname>O’Conor</surname>
+                        <forename>Charles</forename>
+                    </persName>
+                    <birth>1804</birth>
+                    <death>1884</death>
+                    <note>US-amerikanischer Jurist</note>
+                    <linkGrp>
+                        <ptr target="II/14#844" type="page"/>
+                        <ptr target="II/15#376" type="page"/>
+                        <ptr target="II/15#1099" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003498">
+                    <idno type="mega">1020649</idno>
+                    <persName type="reg">
+                        <surname>O’Daly</surname>
+                        <forename>Demetrio</forename>
+                    </persName>
+                    <birth>1780</birth>
+                    <death>1837</death>
+                    <note>spanischer General und Politiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#479" type="page"/>
+                        <ptr target="IV/12#771" type="page"/>
+                        <ptr target="IV/12#823" type="page"/>
+                        <ptr target="IV/12#846" type="page"/>
+                        <ptr target="IV/12#847" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003499">
+                    <idno type="mega">1020676</idno>
+                    <persName type="reg">
+                        <surname>O’Donnell</surname>
+                        <forename>Alejandro</forename>
+                    </persName>
+                    <note>spanischer Militär; Bruder von Enrique José O’Donnell, conde de La Bisbal</note>
+                    <linkGrp>
+                        <ptr target="IV/12#639" type="page"/>
+                        <ptr target="IV/12#818" type="page"/>
+                        <ptr target="IV/12#831" type="page"/>
+                        <ptr target="IV/12#1432" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003500">
+                    <idno type="mega">1020677</idno>
+                    <persName type="reg">
+                        <surname>O’Donnell</surname>
+                        <forename>Carlos</forename>
+                    </persName>
+                    <note>spanischer Militär; Bruder von Enrique José O’Donnell, conde de La Bisbal</note>
+                    <linkGrp>
+                        <ptr target="IV/12#819" type="page"/>
+                        <ptr target="IV/12#825" type="page"/>
+                        <ptr target="IV/12#907" type="page"/>
+                        <ptr target="IV/12#1458" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003502">
+                    <idno type="mega">1020679</idno>
+                    <persName type="reg">
+                        <surname>O’Donnell</surname>
+                        <forename>José</forename>
+                    </persName>
+                    <note>spanischer Militär und Politiker; Bruder von Enrique José O’Donnell, conde de La Bisbal</note>
+                    <linkGrp>
+                        <ptr target="IV/12#462" type="page"/>
+                        <ptr target="IV/12#698" type="page"/>
+                        <ptr target="IV/12#818" type="page"/>
+                        <ptr target="IV/12#856" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011266">
+                    <idno type="mega">1020680</idno>
+                    <persName type="reg">
+                        <surname>O’Donnell</surname>
+                        <forename>Joseph</forename>
+                    </persName>
+                    <note>Vater von Alejandro, Carlos, Enrique José und José O’Donnell</note>
+                    <linkGrp>
+                        <ptr target="IV/12#770" type="page"/>
+                        <ptr target="IV/12#1418" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003501">
+                    <idno type="mega">1020678</idno>
+                    <persName type="reg">
+                        <name>O’Donnell, Enrique José, conde de La Bisbal</name>
+                    </persName>
+                    <birth>1769</birth>
+                    <death>1834</death>
+                    <note>spanischer General; leitete 1808/1809 die Verteidigung Zaragozas</note>
+                    <linkGrp>
+                        <ptr target="IV/12#462" type="page"/>
+                        <ptr target="IV/12#479" type="page"/>
+                        <ptr target="IV/12#481–484" type="page"/>
+                        <ptr target="IV/12#497" type="page"/>
+                        <ptr target="IV/12#500" type="page"/>
+                        <ptr target="IV/12#504" type="page"/>
+                        <ptr target="IV/12#622" type="page"/>
+                        <ptr target="IV/12#638" type="page"/>
+                        <ptr target="IV/12#684" type="page"/>
+                        <ptr target="IV/12#685" type="page"/>
+                        <ptr target="IV/12#697" type="page"/>
+                        <ptr target="IV/12#700" type="page"/>
+                        <ptr target="IV/12#705" type="page"/>
+                        <ptr target="IV/12#710" type="page"/>
+                        <ptr target="IV/12#711" type="page"/>
+                        <ptr target="IV/12#714" type="page"/>
+                        <ptr target="IV/12#715" type="page"/>
+                        <ptr target="IV/12#737" type="page"/>
+                        <ptr target="IV/12#770–772" type="page"/>
+                        <ptr target="IV/12#812" type="page"/>
+                        <ptr target="IV/12#818" type="page"/>
+                        <ptr target="IV/12#819" type="page"/>
+                        <ptr target="IV/12#821" type="page"/>
+                        <ptr target="IV/12#823" type="page"/>
+                        <ptr target="IV/12#831" type="page"/>
+                        <ptr target="IV/12#847–849" type="page"/>
+                        <ptr target="IV/12#904" type="page"/>
+                        <ptr target="IV/12#905" type="page"/>
+                        <ptr target="IV/12#907" type="page"/>
+                        <ptr target="IV/12#1260" type="page"/>
+                        <ptr target="IV/12#1343" type="page"/>
+                        <ptr target="IV/12#1366" type="page"/>
+                        <ptr target="IV/12#1387" type="page"/>
+                        <ptr target="IV/12#1430" type="page"/>
+                        <ptr target="IV/12#1432" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003503">
+                    <idno type="mega">1020681</idno>
+                    <persName type="reg">
+                        <name>O’Donnell, Leopoldo, duque de Tetuán, vizconde de Aliaga, conde de Lucena</name>
+                    </persName>
+                    <birth>1809</birth>
+                    <death>1867</death>
+                    <note>spanischer General und Politiker; Moderado; Gouverneur von Kuba (1843–1848); versuchte 1854 die politische Krise in Spanien für die Errichtung einer Militärdiktatur auszunutzen; Kriegsminister (1854–1856), Ministerpräsident (1856, 1858–1863 und 1865/1866)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#412" type="page"/>
+                        <ptr target="IV/12#455" type="page"/>
+                        <ptr target="IV/12#819" type="page"/>
+                        <ptr target="IV/12#865" type="page"/>
+                        <ptr target="IV/12#870" type="page"/>
+                        <ptr target="IV/12#887" type="page"/>
+                        <ptr target="IV/12#1222" type="page"/>
+                        <ptr target="IV/12#1253" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003504">
+                    <idno type="mega">1020683</idno>
+                    <persName type="reg">
+                        <surname>O’Donojú</surname>
+                        <forename>Tomás</forename>
+                    </persName>
+                    <note>spanischer General und Politiker; Generalkapitän und Gouverneur von Cádiz (1821/1822)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#501" type="page"/>
+                        <ptr target="IV/12#640" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003505">
+                    <idno type="mega">1020684</idno>
+                    <persName type="reg">
+                        <name>O’Donovan Jeremiah genannt Rossa</name>
+                    </persName>
+                    <birth>1831</birth>
+                    <death>1915</death>
+                    <note>irischer Journalist und Politiker, ein Führer der Fenier; 1863/1864 Herausgeber der Zeitung „Irish People“; 1865 verhaftet und zu lebenslänglicher Haft verurteilt, 1870 amnestiert, emigrierte danach in die USA, leitete dort die Organisation der Fenier; zog sich in den 1880er Jahren aus der Politik zurück</note>
+                    <linkGrp>
+                        <ptr target="III/13#1311" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="ed_pzn_jgh_kz">
+                    <persName type="reg">
+                        <surname>O’Donovan Rossa (Rosas O’Donavan)</surname>
+                        <forename>Mary Jane</forename>
+                    </persName>
+                    <birth>1846</birth>
+                    <death>1916</death>
+                    <note><?oxy_comment_start author="lindenberg" timestamp="20170330T105004+0200" comment="Quelle u. a.
+
+https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=167320938
+
+http://feniangraves.net/O%27Donovan%20Rossa,%20Mary%20Jane/Bio.htm
+
+https://www.geni.com/people/Mary-Jane-O-Donovan-Rossa/6000000017474125121"?>Ehefrau<?oxy_comment_end?>
+                        von Jeremiah O’Donovan Rossa</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000003509">
+                    <idno type="mega">1020718</idno>
+                    <persName type="reg">
+                        <surname>O’Farrill</surname>
+                        <forename>Gonzalo</forename>
+                    </persName>
+                    <birth>1754</birth>
+                    <death>1831</death>
+                    <note>spanischer Militär und Politiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#618" type="page"/>
+                        <ptr target="IV/12#703" type="page"/>
+                        <ptr target="IV/12#1337" type="page"/>
+                        <ptr target="IV/12#1373" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003510">
+                    <idno type="mega">1020725</idno>
+                    <persName type="reg">
+                        <surname>O’Flaherty</surname>
+                        <forename>Edmund</forename>
+                    </persName>
+                    <birth>1821</birth>
+                    <death>1886</death>
+                    <note>britischer Finanzbeamter, 1854 Bevollmächtigter des Schatzamtes zur Eintreibung der Steuern in Irland; nach Fälschung mehrerer Adelstitel Mitte 1854 Flucht nach Frankreich, später USA, schrieb dort unter dem Namen William Stuart für die New-York Tribune und den Evening Express (1854–1857)</note>
+                    <linkGrp>
+                        <ptr target="I/14#109" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003516">
+                    <idno type="mega">1020782</idno>
+                    <persName type="reg">
+                        <surname>O’Leary</surname>
+                        <forename>John</forename>
+                    </persName>
+                    <birth>1830</birth>
+                    <death>1907</death>
+                    <note>Redakteur der Zeitung „Irish People“, Fenier; 1865 verhaftet und zu Zwangsarbeit verurteilt, später amnestiert</note>
+                    <linkGrp>
+                        <ptr target="III/13#1311" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003529">
+                    <idno type="mega">1020820</idno>
+                    <persName type="reg">
+                        <surname>O’Meara</surname>
+                        <forename>Barry Edward</forename>
+                    </persName>
+                    <birth>1770</birth>
+                    <death>1836</death>
+                    <note>irischer Militärarzt; Chirurg Napoleons Ier auf St.&#160;Helena; Autor von Memoiren</note>
+                    <linkGrp>
+                        <ptr target="IV/12#682" type="page"/>
+                        <ptr target="IV/12#1366" type="page"/>
+                        <ptr target="I/14#237" type="page"/>
+                        <ptr target="I/14#238" type="page"/>
+                        <ptr target="I/14#1182" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011274">
+                    <idno type="mega">1020835</idno>
+                    <persName type="reg">
+                        <name>O’Neill, Hugh, 2nd Earl of Tyrone</name>
+                    </persName>
+                    <death>1616</death>
+                    <note>irischer Adliger; Führer eines Aufstandes gegen die englische Kolonisation; verließ Irland 1607 (Flight of the Earls) und lebte zumeist in Rom</note>
+                    <linkGrp>
+                        <ptr target="IV/12#818" type="page"/>
+                        <ptr target="IV/12#1428" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003556">
+                    <idno type="mega">1020941</idno>
+                    <persName type="reg">
+                        <surname>O’Shea</surname>
+                        <forename>Enrique</forename>
+                    </persName>
+                    <note>spanischer Bankier und Politiker; Inhaber eines Bankhauses in Madrid</note>
+                    <linkGrp>
+                        <ptr target="IV/12#457" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003508">
+                    <idno type="mega">1020711</idno>
+                    <persName type="reg">
+                        <surname>Österlen</surname>
+                        <forename>Ludwig August</forename>
+                    </persName>
+                    <birth>1819</birth>
+                    <death>1893</death>
+                    <note>deutscher Rechtsanwalt; Mitglied des württembergischen Landtags (1862–1876) und Zollparlaments (seit 1862), Mitglied der Volkspartei</note>
+                    <linkGrp>
+                        <ptr target="III/13#567" type="page"/>
+                        <ptr target="III/13#568" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003553">
+                    <idno type="mega">1020924</idno>
+                    <persName type="reg">
+                        <surname>Ørsted</surname>
+                        <forename>Anders Sandøe</forename>
+                    </persName>
+                    <birth>1778</birth>
+                    <death>1860</death>
+                    <note>dänischer Jurist und Staatsmann, 1842 Staatsminister, Ministerpräsident (1853/1854)</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000003554">
+                    <idno type="mega">1020925</idno>
+                    <persName type="reg">
+                        <surname>Ørstedt</surname>
+                        <forename>Hans Christian</forename>
+                    </persName>
+                    <birth>1777</birth>
+                    <death>1851</death>
+                    <note>dänischer Chemiker und Physiker; bemerkte 1820 die Ablenkung einer Magnetnadel durch einen stromdurchflossenen Leiter in Abhängigkeit von der Richtung und Stärke des Stromes; 1822 Erfindung der Piezometers (zur Messung der Kompressibilität von Flüssigkeiten); Darstellung von Chloraluminium und metallischem Aluminium; Wissenschaftspopularisator</note>
+                    <linkGrp>
+                        <ptr target="IV/31#563" type="page"/>
+                        <ptr target="IV/31#641" type="page"/>
+                        <ptr target="IV/31#885" type="page"/>
+                        <ptr target="IV/31#886" type="page"/>
+                        <ptr target="IV/31#963" type="page"/>
+                    </linkGrp>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

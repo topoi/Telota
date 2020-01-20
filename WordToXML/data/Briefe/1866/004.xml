@@ -1,0 +1,28 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00005" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>4</idno>Sigismund Ludwig Borkheim an Karl Marx in London. London, Montag, 8. Januar 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 439/D I 109. Fotosign. 9662</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            130&#160;×&#160;204 mm, abgetrennt von einem größeren Bogen. Ovaler
+                            Aufdruck „Schröder &amp; Schÿler &amp; C<hi rendition="#sup">o</hi>
+                            Established 1739. Bordeaux.“,<?oxy_comment_start author="lindenberg" timestamp="20170420T135933+0200" comment=" (((nSchröder &amp; Schÿler &amp; Co))) - Noch Anbindung ans Register"?>
+                            <?oxy_comment_end?>auf der ersten Seite oben links. Die erste Seite hat
+                            Borkheim fast vollständig beschrieben, die zweite ist leer.
+                            Schreibmaterial: schwarze Tinte. </p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1627</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName><placeName>London</placeName><date when="1866-01-08"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:08Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/><hi rendition="#mPrint"> </hi><hi rendition="#i"><hi rendition="#mPrint"><hi rendition="#mPrint">65, Fenchurch Street,
+                                    E.C.</hi>&#160;</hi></hi></dateline><dateline sameAs="MBDatumszeile"><hi rendition="#mPrint"><hi rendition="#i">London,</hi>
+                        </hi>8/1. 1866.</dateline><salute sameAs="MBAnrede">Lieber Marx,</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Vor einigen Tagen schrieb ich Ihnen.</orig><note xml:id="e08497e6-b9d0-4afa-902b-1a3b926db394">Der Brief von Borkheim an Marx, geschrieben vor dem 8.&#160;Januar 1866, ist nicht überliefert.</note></seg> Jetzt bitte ich Sie, mir ein Exemplar des</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig><hi rendition="#u">Herrn Vogt</hi></orig><note xml:id="ce7c36c6-ffee-436d-b288-f5e2a07d7b01">Karl
+                                                  Marx: Herr Vogt. London_1860. (MEGA²&#160;I/18.
+                                                  S.&#160;51–339). (((lMarx,Karl: Herr Vogt.
+                                                  London_1860. (MEGA²&#160;I/18. S.&#160;51–339).)))
+            </note></seg><hi rendition="#u"> baldigst</hi></p><p rend="MBTextOhneEinzug">zukommen zu lassen für Herrn <persName key="ed_jmb_qvt_lz">Sachs</persName>, früher Abgeordneter in Frankfurt und irgendwo Minister.
+                    Er ist im Augenblick hier und mochte gerne Ihre Bekanntschaft machen.</p><p sameAs="MBTextmitEinzug">Auch sandte ich Ihnen neulich ein Briefchen von <persName key="pdrPo.001.004.000000317">Becker</persName>.</p><closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u2}</hi>-->Ihr<lb/>Borkheim. </closer></div></body></text></TEI>

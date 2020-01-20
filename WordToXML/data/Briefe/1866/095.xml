@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00099" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>95</idno>Arnold Hilberg’s Verlag an Karl Marx in
+                                        London. Wien, April 1866</title>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                                        veröffentlicht.</edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>IISG</institution>
+                                                <collection>Marx-Engels-Nachlass</collection>
+                                                <idno><idno type="shelfmark">D 2328/D IV 248-6
+                                                  Fotosign. 7788.</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Blatt mittelstarkem,
+                                                  blauem Papier im Format
+                                                  250&#160;×&#160;292&#160;mm. Aufdruck oben auf der
+                                                  ersten Seite:
+                                                  „<?oxy_comment_start author="strauss" timestamp="20170613T111331+0200" comment="(((nArnold Hilberg&apos;s Verlag)))"?>Arnold
+                                                  Hilberg’s Verlag<?oxy_comment_end?>. Wien,
+                                                  4&#160;Kolowrat-Ring. Internationale Revue.
+                                                  Redaction: 4&#160;Kolowrat-Ring.“ und ein Stich.
+                                                  Auf der ersten Seite steht die gedruckte Anzeige
+                                                  von Hilberg’s Verlag, die Rückseite wurde als
+                                                  Adressseite benutzt. Poststempel: „P.&#160;D.“
+                                                  Schreibmaterial auf der Adressseite: schwarze
+                                                  Tinte. </p>
+                                                <p>Auf der Adressseite Poststempel „P.D.“ und  ein
+                                                  Vermerk der Post: „v&#160;X“.</p>
+                                                <p>Archivsignatur des SPD-Archivs auf der ersten
+                                                  Seite: „II 16 I 2a“, korrigiert aus „II 16 I
+                                                  1a“.</p>
+                                        </physDesc>
+                                </msDesc>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <orgName key="ed_zmj_ltj_wx">Arnold Hilberg’s
+                                                Verlag</orgName>
+                                        <placeName>Wien</placeName>
+                                        <date notBefore="1866-04-01" notAfter="1866-04-30" cert="high"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName>London</placeName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:39:14Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingAct">
+                                <opener><dateline sameAs="MBDatumszeile">
+                                                <hi rend="smallcaps" xml:space="preserve"><hi rendition="#mPrint">Wien,</hi> </hi><hi rend="italic smallcaps"><hi rendition="#mPrint"><hi rendition="#i">April
+                                                1866.</hi></hi></hi></dateline><salute sameAs="MBAnrede"><seg type="comment"><orig><hi rend="smallcaps"><?oxy_comment_start author="lindenberg" timestamp="20170420T144625+0200" comment="eigentl. fettgedr."?><hi rendition="#mPrint">Arnold Hilberg's
+                                                  Verlag</hi><?oxy_comment_end?></hi></orig><note xml:id="c04fbdcf-5300-429c-8ec7-3da1d826f5ca"><orgName key="ed_zmj_ltj_wx">Der Verlag</orgName>
+                                                  hatte Marx Anfang Januar 1866 angeboten, an der
+                                                  Zeitschrift „Internationale Revue“
+                                                  (((zInternationale_Revue))) mitzuarbeiten. Siehe
+                                                  <ref target="B00002">A. Hilberg’s Verlag an Marx,
+                                                  2.1.<?oxy_comment_start author="reichhoff" timestamp="20170320T175841+0100" comment="{{Br. 1a}}"?>1866<?oxy_comment_end?></ref>.</note></seg></salute></opener>
+                                <p sameAs="MBTextohneEinzug" rendition="#mPrint"><hi rend="smallcaps">gibt sich hiermit die Ehre,
+                                                ergebenst anzuzeigen, dass sich</hi></p>
+                                <p sameAs="MBTextmitEinzug" rendition="#mPrint"><hi rend="smallcaps">vom 1.&#160;Mai 1866 ab</hi></p>
+                                <p sameAs="MBTextmitEinzug" rendition="#mPrint"><hi rend="smallcaps">sein Comptoir, sowie die Redaction der
+                                                „Internationalen Revue“</hi><bibl sameAs="zzInternationale Revue"><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></bibl><?oxy_custom_end?></p>
+                                <p sameAs="MBTextmitEinzug" rendition="#mPrint"><hi rend="smallcaps"><?oxy_comment_start author="lindenberg" timestamp="20170420T144648+0200" comment="eigentlich auch noch fett gedr."?><hi rendition="#g">4.
+                                                  Kolowrat-Ring<?oxy_comment_end?></hi></hi></p>
+                                <p sameAs="MBTextmitEinzug" rendition="#mPrint"><hi rend="smallcaps">befinden wird.</hi></p>
+                                <p sameAs="MBTextmitEinzug" rendition="#mPrint"><hi rend="smallcaps"><?oxy_comment_start author="lindenberg" timestamp="20170420T144707+0200" comment="eigentl. fettgedr."?>Bureaustunden<?oxy_comment_end?>:</hi>
+                                        <hi rend="smallcaps">An Wochentagen von 9&#160;Uhr Morgens
+                                                bis 5&#160;Uhr Abends.</hi></p>
+                                <p sameAs="MBTextmitEinzug" rendition="#mPrint">
+                                        <hi rend="smallcaps">An Sonn- und Feiertagen nur im Winter
+                                                von 9 bis 12&#160;Uhr Morgens.</hi>
+                                </p>
+                                <p sameAs="MBAdresse"><pb/> Herrn<lb/>D<hi rendition="#sup">r</hi>
+                                        Karl Marx<lb/>2 Modena Villas<lb/>Maitland Park, Haverstock
+                                        Hill<lb/>London </p>
+                        </div>
+                </body>
+        </text>
+</TEI>

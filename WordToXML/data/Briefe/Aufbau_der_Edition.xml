@@ -1,0 +1,624 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="aufbau_edition">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Editorische Hinweise</title>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2017-05-03</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change/>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>Die Briefedition wurde nach den seit 1993 geltenden, revidierten Editionsrichtlinien
+                der MEGA bearbeitet. In vielen Fällen konnten Neudatierungen bzw. Präzisierungen von
+                Datierungen früherer Editionen vorgenommen werden. Sämtliche Briefe wurden neu
+                entziffert; Grundlage dieser Entzifferung bildeten, soweit sie überliefert sind,
+                stets die Original-Handschriften, ansonsten Abschriften, Fotokopien oder die
+                jeweiligen Erstveröffentlichungen. Textgrundlage und Ort der Erstveröffentlichung
+                werden jeweils im Informationsfeld „Zeugenbeschreibung und Textgeschichte“
+                mitgeteilt.</p>
+            <p>Der Edierte Text folgt der Textgrundlage. Eine Vereinheitlichung oder Modernisierung
+                der Orthographie und Interpunktion erfolgt nicht. Korrigiert werden eindeutige
+                Schreibfehler, was in der Ansicht „Kritischer Text“ ausgewiesen wird, mit zwei
+                Ausnahmen: stillschweigend ergänzt werden fehlende Abkürzungspunkte bei „u.“,
+                stillschweigend korrigiert nötigenfalls die Akzente in französischen Texten. Auf
+                sachliche Fehler wird in den Erläuterungen hingewiesen. Übliche und häufig
+                vorkommende autorspezifische Abkürzungen werden beibehalten und im Verzeichnis der
+                „Abkürzungen“ entschlüsselt (siehe unten), andere abgekürzte Wörter sowie die
+                abgekürzten deutschen Artikel („d.“) werden unterpunktet ausgeschrieben,
+                Buchstabenverschleifungen stillschweigend aufgelöst. Hervorhebungen im Text
+                (einfache und doppelte Unterstreichung, Anstreichungen am Rand; siehe unten) stammen
+                von den Autoren. Anstreichungen und Unterstreichungen von Marx oder Engels in
+                Briefen Dritter werden gekennzeichnet. Textverluste durch Beschädigung oder
+                Verschmutzung des Papiers werden im Edierten Text, wo dies mit Sicherheit möglich
+                ist, rekonstruiert und in eckigen Klammern eingefügt bzw. durch drei in eckigen
+                Klammern eingeschlossene Punkte kenntlich gemacht. Die verwendeten diakritischen
+                Zeichen sind im Verzeichnis der „Diakritische Zeichen und Siglen“ entschlüsselt
+                (siehe unten). </p>
+            <p>Der wissenschaftliche Apparat zu jedem Brief wird von einer Darstellung der
+                Entstehung und Überlieferung eingeleitet (Informationsfeld „Zeugenbeschreibung und
+                Textgeschichte“). In den dabei gegebenen Zeugenbeschreibungen der Briefe, die Marx
+                und Engels untereinander wechselten, wird auf die Spuren der Vorbereitung ihrer
+                erstmaligen Veröffentlichung in der von August Bebel und Eduard Bernstein 1913
+                vorgelegten vierbändigen Ausgabe hingewiesen (Siehe Der Briefwechsel zwischen
+                Friedrich Engels und Karl Marx 1844 bis 1883. Hrsg. von A[ugust] Bebel und Ed[uard]
+                Bernstein. Bd. 1–4. Stuttgart 1913. Die
+                <?oxy_comment_start author="roth" timestamp="20170607T154049+0200" comment="gilt für 1866; ändern, wenn weitere Briefjahrgänge dazu kommen"?>hier
+                edierten Briefe <?oxy_comment_end?>sind in Band 3  wiedergegeben (Allgemeines
+                darüber siehe in MEGA<hi rendition="#sup">2</hi> III/9. S. 657–666). Mit dem Begriff
+                Fotosignatur werden die abfotografierten Inventarnummern des sozialdemokratischen
+                Parteiarchivs bezeichnet. Für Briefe, die von den Verfassern nicht oder irrtümlich
+                falsch datiert wurden, wird die Datierung begründet, wobei auf andere Datierungen
+                früherer Ausgaben hingewiesen wird. Den Zeugenbeschreibungen folgen Materialien, die
+                dem entsprechenden Brief beigelegt waren (Dokumente, bibliographische Beschreibungen
+                der Fotos, Briefe, Zeitungsberichte und anderes), sofern sie überliefert und
+                wissenschaftlich relevant sind. </p>
+            <p>Die textkritische Darstellung zu den einzelnen Briefen erfolgt über die Ansicht
+                „Kritischer Text“ (siehe unten). Das betrifft sowohl die redaktionellen Eingriffe in
+                den Text als auch bei den Briefen von Marx und Engels die Darstellung der
+                Varianten.</p>
+            <p>Nicht überlieferte Briefe, deren Existenz als sicher gelten kann, werden in der
+                Chronologie dokumentiert; Briefe, die möglicherweise oder wahrscheinlich geschrieben
+                wurden, werden nur in Textgeschichten und Erläuterungen erwähnt.</p>
+            <p>Anführungszeichen werden in der für die einzelnen Sprachen üblichen Form
+                wiedergegeben.</p>
+            <p>Briefbeilagen können über einen gesonderten Link aus den Erläuterungen heraus bzw. im
+                Informationsfeld „Zeugenbeschreibung und Textgeschichte“ aufgerufen werden.</p>
+            <p>Separate Adress- und Postvermerke u. ä. sind im Informationsfeld „Zeugenbeschreibung
+                und Textgeschichte“ beschrieben.</p>
+            <p>Innerhalb des Briefwechsels sind Bezugsstellen aus dem Text und den Erläuterungen
+                durch Links miteinander verbunden; per Mausklick gelangt man auf den entsprechenden
+                Brief.</p>
+            <p>Der Zugang zu den Texten ist neben der Suchfunktion auch über mehrere Register
+                möglich: ein Register der Namen, ein Register der Orte (noch in Arbeit), ein
+                Register der Organisationen und Firmen, ein Register der Themen (noch in Arbeit) und
+                ein Literaturregister
+                <?oxy_comment_start author="lindenberg" timestamp="20170609T160945+0200" comment="{Werkregister/Primär-Sekundärliteratur/via zotero}"?>(<?oxy_comment_end?>noch
+                in Arbeit). Das Namenregister verzeichnet alle im Text vorkommenden Namen von
+                Personen, mythologischen und literarischen Gestalten. In den Registern selbst, kann
+                ebenfalls mittels einer Suchfunktion recherchiert werden. </p>
+            <p>Im Namenregister sind abweichende Schreibungen in den Brieftexten, Pseudonyme,
+                Kosenamen u.s.w. entweder in einem gesonderten Textfeld oder in runden Klammern
+                hinter der korrekten Schreibweise notiert. Eine einheitliche Verzeichnung der Namen
+                ist noch nicht in jedem Fall gegeben, da der Grundbestand an importierten
+                Personendaten (etwa 7000 Datensätze) aus bereits gedruckten Bänden noch nicht
+                vollständig redigiert werden konnte. Die Personendaten basieren auf deren Erfassung
+                im DFG-Projekt Personen-Daten-Repositorium (PDR). Sie sind mit biographischen
+                Notizen und Lebensdaten versehen und enthalten ggf. Verweise auf bereits
+                erschienene, gedruckte Bände. </p>
+            <p>Das Register der Firmen und Organsiationen umfaßt zur Zeit etwa 350 Einträge. </p>
+            <p>Die Register werden entsprechend den Erfordernissen der einzelnen Abteilungen
+                gestaltet.</p>
+            <p/>
+            <p><hi rendition="#u">Diakritische Zeichen und Siglen</hi></p>
+            <table rows="-5" cols="2">
+                <row role="label">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>|</cell>
+                    <cell>Beginn einer unpaginierten Seite einer Seite der Textgrundlage</cell>
+                </row>
+                <row>
+                    <cell>|1|</cell>
+                    <cell>Beginn einer paginierten Seite der Textgrundlage</cell>
+                </row>
+                <row>
+                    <cell>\</cell>
+                    <cell>Kennzeichnung für in der Handschrift übereinanderstehende Wörter</cell>
+                </row>
+                <row>
+                    <cell>[[ ]]</cell>
+                    <cell>Eckige Klammern in der Textgrundlage</cell>
+                </row>
+                <row>
+                    <cell>[ ], Bsp.: <supplied cert="high">Ach!</supplied></cell>
+                    <cell>Redaktionelle Ergänzung eines fehlenden Wortes oder Satzzeichens durch die
+                        Bearbeiter/die Bearbeiterinnen</cell>
+                </row>
+                <row>
+                    <cell>xxx</cell>
+                    <cell>Unleserliche Buchstaben</cell>
+                </row>
+                <row>
+                    <cell>[...]</cell>
+                    <cell>Fehlende Textstelle</cell>
+                </row>
+                <row>
+                    <cell><del rendition="#s">Seestadt</del></cell>
+                    <cell>Streichung/Textreduzierung (Tilgung) durch den Autor</cell>
+                </row>
+                <row>
+                    <cell><subst>
+                            <del rendition="#s">Seestadt</del>
+                            <add place="superlinear">Seeküste</add>
+                        </subst></cell>
+                    <cell>Streichung durch den Autor mit gleichzeitiger Hinzufügung/Textersetzung
+                        (verändert in; wurde zu)</cell>
+                </row>
+                <row>
+                    <cell><add place="superlinear">Seeküste</add></cell>
+                    <cell>Hinzufügung/Textergänzung (Einfügung, Zusatz) durch den Autor</cell>
+                </row>
+                <row>
+                    <cell><del rendition="#s">an Stelle<sic ana="#break-off"/></del></cell>
+                    <cell>Textabbruch durch den Autor</cell>
+                </row>
+                <row>
+                    <cell>Karb<ex>unkel</ex></cell>
+                    <cell>Redaktionelle Ergänzung von fehlenden Wortteilen durch die Bearbeiter/die
+                        Bearbeiterinnen</cell>
+                </row>
+                <row>
+                    <cell><choice>
+                            <sic>zwißen</sic>
+                            <corr cert="high">zwischen</corr>
+                        </choice></cell>
+                    <cell>Redaktionelle Textkorrektur durch die Bearbeiter/die
+                        Bearbeiterinnen</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell><choice>
+                            <sic>Ach!</sic>
+                            <corr type="deleted"/>
+                        </choice>
+                    </cell>
+                    <cell>Streichung eines überflüssigen Wortes durch die Bearbeiter/die
+                        Bearbeiterinnen</cell>
+                </row>
+                <row>
+                    <cell><unclear reason="illegible" cert="high">Ach!</unclear></cell>
+                    <cell>Unsichere Lesart von Buchstaben oder Wörtern im Manuskript</cell>
+                </row>
+                <row>
+                    <cell><hi rendition="#u">Ach!</hi>
+                        <hi rendition="#uu">Ach!</hi>
+                    </cell>
+                    <cell>Einfache und doppelte Unterstreichung durch den Autor</cell>
+                </row>
+                <row>
+                    <cell>
+                        <p rendition="#mMM">Ach!</p>
+                    </cell>
+                    <cell>Anstreichung am Rand durch den Autor</cell>
+                </row>
+            </table>
+            <p/>
+            <p><hi rendition="#u">Verzeichnis der Abkürzungen und Siglen</hi></p>
+            <p>a) Abkürzungen im Edierten
+                <?oxy_comment_start author="lindenberg" timestamp="20170529T135753+0200" comment="
+A. A. Z.	Allgemeine Zeitung. Augsburg"?>Text<?oxy_comment_end?></p>
+            <table rows="-13" cols="2">
+                <row role="label">
+                    <cell/>
+                    <cell/>
+                </row>
+                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                <row>
+                    <cell>d. d.</cell>
+                    <cell>de dato</cell>
+                </row>
+                <row>
+                    <cell>dss., ds</cell>
+                    <cell>dieses [Monats]</cell>
+                </row>
+                <row>
+                    <cell>d. M.</cell>
+                    <cell>dieses Monats</cell>
+                </row>
+                <row>
+                    <cell>Ex.</cell>
+                    <cell>Exemplar</cell>
+                </row>
+                <row>
+                    <cell>fr.</cell>
+                    <cell>franco</cell>
+                </row>
+                <row>
+                    <cell>fdschaftlich</cell>
+                    <cell>freundschaftlich</cell>
+                </row>
+                <row>
+                    <cell>Dtschd</cell>
+                    <cell>Deutschland</cell>
+                </row>
+                <row>
+                    <cell>Fkch</cell>
+                    <cell>Frankreich</cell>
+                </row>
+                <row>
+                    <cell>fzsisch, fzs</cell>
+                    <cell>französisch</cell>
+                </row>
+                <row>
+                    <cell>I. A., I. A. A., Int. A., Intern. Assoc., I. Ar. Asso., I. W. A.,
+                        Internat., International W. Ass. </cell>
+                    <cell>International Working Men's Association </cell>
+                </row>
+                <row>
+                    <cell>inl.</cell>
+                    <cell>inliegend</cell>
+                </row>
+                <row>
+                    <cell>inst </cell>
+                    <cell>instant (abbr.; engl. = dieses Monats)</cell>
+                </row>
+                <row>
+                    <cell>N.Rh.Z.</cell>
+                    <cell>Neue Rheinische Zeitung</cell>
+                </row>
+                <row>
+                    <cell>N.Y. Tribune</cell>
+                    <cell>New-York Tribune</cell>
+                </row>
+                <row>
+                    <cell>S. D., Soc. Dem.</cell>
+                    <cell>Social Democrat</cell>
+                </row>
+                <?oxy_custom_end?>
+                <row>
+                    <cell>U. St., U. States</cell>
+                    <cell>United States of America</cell>
+                </row>
+                <row>
+                    <cell>Ver. St.</cell>
+                    <cell>Vereinigte Staaten von Amerika</cell>
+                </row>
+                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                <row>
+                    <cell>Workm. advoc.</cell>
+                    <cell>The Workman's Advocate</cell>
+                </row>
+                <?oxy_custom_end?>
+            </table>
+            <p/>
+            <p>b) Münzen und
+                <?oxy_comment_start author="lindenberg" timestamp="20170609T162217+0200" comment="
+{Sonderzeichen: Reichstalerzeichen}	Reichstaler scheint es gar nicht im 1866er Jahr zu geben"?>Gewichte<?oxy_comment_end?></p>
+            <p>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>d., d</cell>
+                        <cell>Pennys/pence</cell>
+                    </row>
+                    <row>
+                        <cell>fcs, fr., Fr., frcs.,
+                            <?oxy_comment_start author="lindenberg" timestamp="20170529T144102+0200" comment="Brief 049 - "?>fs<?oxy_comment_end?></cell>
+                        <cell>Franc(s)</cell>
+                    </row>
+                    <row>
+                        <cell>L., l., l. St.,
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Pfd.<?oxy_custom_end?>,
+                            Pf. St.</cell>
+                        <cell>Pfund Sterling/pound sterling</cell>
+                    </row>
+                    <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                    <row>
+                        <cell>f, f.</cell>
+                        <cell>florin
+                            (Gulden)<?oxy_comment_start author="lindenberg" timestamp="20170529T140827+0200" comment="1a - Hilberg-Briefe"?></cell>
+                        <?oxy_comment_end?>
+                    </row>
+                    <?oxy_custom_end?>
+                    <row>
+                        <cell>£, £<hi rendition="#sup">st</hi></cell>
+                        <cell>Pfund Sterling/pound sterling</cell>
+                    </row>
+                    <row>
+                        <cell>Sh., sh.,
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>S.<?oxy_custom_end?>/–</cell>
+                        <cell>Schilling/shilling</cell>
+                    </row>
+                    <row>
+                        <cell>Th., Thl., Thlr., Thr., </cell>
+                        <cell>Taler</cell>
+                    </row>
+                    <row>
+                        <cell><?oxy_comment_start author="roth" timestamp="20170607T170440+0200" comment=" {Sonderzeichen: Pfund-Gewicht}"?>℔<?oxy_comment_end?></cell>
+                        <cell>Pfund (Gewichtsmaß)</cell>
+                    </row>
+                    <row>
+                        <cell><?oxy_comment_start author="roth" timestamp="20170607T170456+0200" comment=" {Sonderzeichen}"?>₰<?oxy_comment_end?></cell>
+                        <cell>denarius (Pfennig)</cell>
+                    </row>
+                </table>
+            </p>
+            <p/>
+            <p><hi rendition="#u">Abkürzungen im Apparat</hi></p>
+            <table rows="0" cols="2">
+                <row role="label">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>ADAV</cell>
+                    <cell>Allgemeiner Deutscher Arbeiterverein.</cell>
+                </row>
+                <row>
+                    <cell>BdK</cell>
+                    <cell>Der Bund der Kommunisten. Dokumente und Materialien. (Red.: Herwig Förder,
+                        Martin Hundt, Jefim Kandel, Sofia Lewiowa.) Bd. 1–3. Berlin
+                        1970–1984.</cell>
+                </row>
+                <row>
+                    <cell>Bw</cell>
+                    <cell>Der Briefwechsel zwischen Friedrich Engels und Karl Marx 1844 bis 1883.
+                        Hrsg. von A. Bebel und Ed. Bernstein. Bd. 1–4. Stuttgart 1913.</cell>
+                </row>
+                <row>
+                    <cell>Erl.</cell>
+                    <cell>Erläuterung</cell>
+                </row>
+                <row>
+                    <cell>Freiligrath Bw</cell>
+                    <cell>Freiligraths Briefwechsel mit Marx und Engels. Bearb. und eingel. von
+                        Manfred Häckel. Teil 1.2. Berlin 1968.</cell>
+                </row>
+                <row>
+                    <cell>IAA</cell>
+                    <cell>Internationale Arbeiterassoziation.</cell>
+                </row>
+                <row>
+                    <cell>IISG</cell>
+                    <cell>Internationaal Instituut voor Sociale Geschiedenis. Amsterdam.</cell>
+                </row>
+                <row>
+                    <cell>Lassalle: NBS</cell>
+                    <cell>Ferdinand Lassalle: Nachgelassene Briefe und Schriften. Hrsg. von Gustav
+                        Mayer. Bd. 1–6. Stuttgart, Berlin 1921–1925.</cell>
+                </row>
+                <row>
+                    <cell><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Liebknecht
+                        Bw (1963).<?oxy_custom_end?></cell>
+                    <cell>Wilhelm Liebknecht. Briefwechsel mit Karl Marx und Friedrich Engels. Hrsg.
+                        u. bearb. v. Georg Eckert. The Hague 1963. (Quellen und Untersuchungen zur
+                        Geschichte der deutschen und österreichischen Arbeiterbewegung. V.)</cell>
+                </row>
+                <row>
+                    <cell>LN</cell>
+                    <cell>Aus dem literarischen Nachlaß von Karl Marx, Friedrich Engels und
+                        Ferdinand Lassalle. Hrsg. von Franz Mehring. Bd. 1–3: Gesammelte Schriften
+                        von Karl Marx und Friedrich Engels. 1841 bis 1850, Bd. 4: Briefe von
+                        Ferdinand Lassalle an Karl Marx und Friedrich Engels 1849 bis 1862.
+                        Stuttgart 1902.</cell>
+                </row>
+                <row>
+                    <cell>MECW</cell>
+                    <cell>Karl Marx, Frederick Engels: Collected works. Vol. 1– 50. Moscow, London,
+                        New York 1975–2004.</cell>
+                </row>
+                <row>
+                    <cell>MEGA<hi rendition="#sup">1</hi></cell>
+                    <cell>Karl Marx, Friedrich Engels: Historisch-kritische Gesamtausgabe. Werke,
+                        Schriften, Briefe. Im Auftrage des Marx-Engels-Instituts Moskau hrsg. von D.
+                        Rjazanov bzw. V. Adoratskij. Erste Abteilung: Sämtliche Werke und Schriften
+                        mit Ausnahme des „Kapital“. Bd. 1–7; Dritte Abteilung: Briefwechsel. Bd.
+                        1–4. Frankfurt a.M. bzw. Berlin 1927–1932, Moskau 1935.</cell>
+                </row>
+                <row>
+                    <cell>MEW</cell>
+                    <cell>Karl Marx, Friedrich Engels: Werke. Bd. 1–43. Ergänzungsband. Teil 1.2.
+                        Berlin 1957–1990.</cell>
+                </row>
+                <row>
+                    <cell>NRhZ</cell>
+                    <cell>Neue Rheinische Zeitung. Organ der Demokratie. Köln.</cell>
+                </row>
+                <row>
+                    <cell>NRhZ. Revue</cell>
+                    <cell>Neue Rheinische Zeitung. Politisch-ökonomische Revue. Redigiert von Karl
+                        Marx. London, Hamburg, New York 1850.</cell>
+                </row>
+                <row>
+                    <?oxy_comment_start author="lindenberg" timestamp="20170531T142217+0200" comment="
+NYDT	New-York Daily Tribune."?>
+                    <cell><?oxy_comment_end?>NYT</cell>
+                    <cell>New-York Tribune.</cell>
+                </row>
+                <row>
+                    <cell>RGASPI</cell>
+                    <cell>Российский государственный архив социально- политической истории (ehem.
+                        ZPA Moskau).</cell>
+                </row>
+                <row>
+                    <cell>SAPMO</cell>
+                    <cell>Stiftung Archiv der Parteien und Massenorganisationen der DDR im
+                        Bundesarchiv (darin ehem. IML und ZPA Berlin).</cell>
+                </row>
+                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                <row>
+                    <cell>ZB</cell>
+                    <cell><?oxy_comment_start author="lindenberg" timestamp="20170529T094957+0200" comment="noch aktuell?"?>Zeugenbeschreibung<?oxy_comment_end?></cell>
+                </row>
+                <?oxy_custom_end?>
+                <row>
+                    <cell>МЭС<hi rendition="#sup">1</hi></cell>
+                    <cell>К. Маркс и Ф. Энгельс: Сочинения. Т. 1–19, 21–29. Москва, Ленинград
+                        1928–1948.</cell>
+                </row>
+                <row>
+                    <cell>МЭС<hi rendition="#sup">2</hi></cell>
+                    <cell>К. Маркс и Ф. Энгельс: Сочинения. Изд. 2. Т. 1–50. Москва
+                        1955–1981.</cell>
+                </row>
+            </table>
+            <p/>
+            <p><hi rendition="#u">Auflösung der Kurztitel</hi></p>
+            <table rows="-2" cols="2">
+                <row role="label">
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Die Herkunft des Friedrich Engels (1991).</cell>
+                    <cell>Die Herkunft des Friedrich Engels. Briefe aus der Verwandtschaft
+                        1791–1847. Hrsg. von Michael Knieriem. Texte bearb. von Margret Dietzen,
+                        Michael Knieriem und Elisabeth Neu. Trier 1991. (Schriften aus dem
+                        Karl-Marx-Haus. Nr. 42.)</cell>
+                </row>
+                <row>
+                    <cell>Переписка С. Де Папа (1970).</cell>
+                    <cell>Переписка С. Де Папа с К. Марксом и членами Генерального Совета I
+                        Интернационала в Лондоне (1866–1883). In: Маркс и некоторые вопросы
+                        международного рабочего движения XIX века. (Статьи и документы). Москва
+                        1970. С. 418–447.</cell>
+                </row>
+                <?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?>
+                <row>
+                    <cell>Documents relatifs aux militants Belges de l’Association Internationale
+                        des Travailleurs (1986).</cell>
+                    <cell> Documents relatifs aux militants belges de l'Association Internationale
+                        des Travailleurs; correspondance 1865 - 1872. textes réunis, établis et
+                        annotés par Daisy Eveline Devreese; en collaboration avec Internationaal
+                        Instituut voor Sociale Geschiedenis. Leuven, Bruxelles 1986.</cell>
+                </row>
+                <?oxy_custom_end?>
+                <row>
+                    <cell>Briefe von Karl Marx an Dr.&#160;L.&#160;Kugelmann (1902).</cell>
+                    <cell>Briefe von Karl Marx an Dr. L. Kugelmann. In: Die Neue Zeit. Stuttgart.
+                        Jg. 20. 1901/1902. Bd. 2. Nr. 3.</cell>
+                </row>
+                <row>
+                    <cell>Письма Маркса к Кугельману (1928). </cell>
+                    <cell>Письма Маркса к Кугельману. Перевод М.И. Ульяновой. Предисловие Н. Ленина.
+                        Со вступительной статьёй Э. Цобеля и примечаниями Ц. Фридлянда. (Библиотека
+                        марксиста под редакцией Д. Рязанова. Вып. 15.) Москва-Ленинград 1928.</cell>
+                </row>
+                <row>
+                    <cell>Karl Marx: Briefe an Kugelmann (1940).</cell>
+                    <cell>Marx, Karl: Briefe an Kugelmann. Mit einem Vorwort von W.I. Lenin. Moskau
+                        1940.</cell>
+                </row>
+                <row>
+                    <cell>Monz: Der Mainzer Paul Stumpf (1986).</cell>
+                    <cell>Monz, Heinz: Der Mainzer Paul Stumpf in seiner Verbindung zu Karl Marx und
+                        Friedrich Engels. In: Archiv für Hessische Geschichte und Altertumskunde.
+                        NF. Bd. 44. 1986. S. 235-362. </cell>
+                </row>
+                <row>
+                    <cell>Die I.&#160;Internationale in Deutschland (1964).</cell>
+                    <cell>Die I. Internationale in Deutschland (1864–1872). Dokumente und
+                        Materialien. Berlin 1964.</cell>
+                </row>
+                <row>
+                    <cell>Письма Фридриха Лесснера Карлу Марксу (1935).</cell>
+                    <cell>Письма Фридриха Лесснера Карлу Марксу. (Hrsg. von) И[рина] Бах. In:
+                        Историк-марксист. [Москва] 1935.</cell>
+                </row>
+                <row>
+                    <cell>Переписка Карла Маркса, Фридриха Энгельса и членов семьи Маркса
+                        (1983).</cell>
+                    <cell>Переписка Карла Маркса, Фридриха Энгельса и членов семьи Маркса 1835–1871
+                        гг. Москва 1983.</cell>
+                </row>
+                <row>
+                    <cell>Hecker, Limmroth: Jenny Marx. Die Briefe (2014).</cell>
+                    <cell>Hecker, Rolf, u. Angelika Limmroth (Hrsg.): Jenny Marx. Die Briefe. Berlin
+                        2014</cell>
+                </row>
+                <row>
+                    <cell>Из семейной переписки Карла Маркса (1925).</cell>
+                    <cell>Из семейной переписки Карла Маркса. In: Воинствующий материалист. Москва
+                        1925. Кн. 4. S. 157–207.</cell>
+                </row>
+                <row>
+                    <cell>Private letters of Karl Marx (1929). </cell>
+                    <cell>Private letters of Karl Marx. Ed. and with an introd. and notes by Jean
+                        Longuet. In: The Socialist review. London. New. ser. Nr. 44, September 1929.
+                        S. 41–47.</cell>
+                </row>
+                <?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?>
+                <row>
+                    <cell>Les Filles de Karl Marx (1979).</cell>
+                    <cell>Les filles de Karl Marx. Lettres inédites. &lt;Collection Bottigelli&gt;.
+                        Introd. de Michelle Perrot. Déchiffrage, traduction, présentation et notes
+                        de Olga Meier. Notes de Michel Trebitsch. (Paris 1979).</cell>
+                </row>
+                <?oxy_custom_end?>
+                <row>
+                    <cell>The Daughters of Karl Marx (1982).</cell>
+                    <cell>The daughters of Karl Marx. Family correspondence 1866-1898. Commentary
+                        and notes by Olga Meier. Transl. and adapted by Faith Evans. Introd. by
+                        Sheila Rowbotham. London 1982.</cell>
+                </row>
+                <?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?>
+                <row>
+                    <cell>Blumenberg: Ein unbekanntes Kapitel aus Marx’ Leben (1956).</cell>
+                    <cell>Blumenberg, Werner: Ein unbekanntes Kapitel aus Marx's Leben. Briefe an
+                        die holländischen Verwandten. Amsterdam 1956. S. 54-111. (Aus: International
+                        Review of Social History. Vol. I, Part 1).</cell>
+                </row>
+                <?oxy_custom_end?>
+                <row>
+                    <cell>Mehring: Familienbriefe von Karl Marx (1907/1908).</cell>
+                    <cell>Mehring, Franz: Familienbriefe von Karl Marx. In: die Neue Zeit.
+                        Stuttgart. Jg. 26. 1907/1908. Bd. 1. S. 74–77.</cell>
+                </row>
+                <?oxy_custom_start type="oxy_content_highlight" color="153,255,255"?>
+                <row>
+                    <cell>Lettres et documents de Karl Marx (1958).</cell>
+                    <cell>Lettres et documents de Karl Marx 1856–1883. In: Annali. Anno I. Milano
+                        1958. S.
+                        149–219.<?oxy_comment_start author="lindenberg" timestamp="20170518T181739+0200" comment="Lettres et documents de Karl Marx 1856–1883. In: Annali. Anno I. [Bottigelli ??siehe Golovina III/12] Milano1958. S. 149–219"?></cell>
+                    <?oxy_comment_end?>
+                </row>
+                <?oxy_custom_end?>
+                <row>
+                    <cell>Briefe von Friedr. Engels an Mutter und Geschwister (1921).</cell>
+                    <cell>Briefe von Friedr. Engels an Mutter und Geschwister. Mitgeteilt von Gustav
+                        Mayer. In: Deutsche Revue. Stuttgart, Leipzig. Jg. 46. 1921. Bd. 2. S.
+                        133–145.</cell>
+                </row>
+                <row>
+                    <cell>Hundt: Louis Kugelmann (1974).</cell>
+                    <cell>Hundt, Martin: Louis Kugelmann. Eine Biographie des Arztes und Freundes
+                        von Karl Marx und Friedrich Engels. Berlin 1974.</cell>
+                </row>
+                <row>
+                    <cell>Thompson: Letters from Ernest Jones to Karl Marx, 1865–1868 (1962).</cell>
+                    <cell>Thompson, Dorothy: Letters from Ernest Jones to Karl Marx, 1865–1868. In:
+                        Bulletin of the Society for the study of labour history. [Liverpool] 1962.
+                        Nr. 4. S. 11–23.</cell>
+                </row>
+                <row>
+                    <cell>La corrispondenza di Marx e Engels con italiani (1964).</cell>
+                    <cell>La corrispondenza di Marx e Engels con italiani 1848–1895. A cura di
+                        Giuseppe Del Bo. Milano 1964 (Instituto Giangiacomo Feltrinelli. Testi e
+                        documenti di storia moderna e contemporanea. 11).</cell>
+                </row>
+                <?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?>
+                <row>
+                    <cell>Marx, Engels: Correspondance 8 (1981).</cell>
+                    <cell>Marx, Karl, u. Friedrich Engels. Correspondance. Publiée sous la
+                        responsabilité de Gilbert Badia et Jean Mortier. Tome VIII. &lt;janvier
+                        1865-juin 1867. Paris (1981).</cell>
+                </row>
+                <?oxy_custom_end?>
+                <row>
+                    <cell>Генеральный Совет 1866–1868 (1963).</cell>
+                    <cell>Генеральный Совет Первого Интернационала 1866–1868. Протоколы. Москва
+                        1963. (Документы Первого Интернационала).</cell>
+                </row>
+            </table>
+        </body>
+    </text>
+</TEI>

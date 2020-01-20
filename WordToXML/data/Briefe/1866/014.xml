@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00015" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>14</idno>Arnold Hilberg’s Verlag an Karl Marx in London. Wien, Donnerstag, 18. Januar 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                                        <msIdentifier>
+                                                <institution>IISG</institution>
+                                                <collection>Marx-Engels-Nachlass</collection>
+                                                <idno><idno type="shelfmark">D 2326/D IV 248–3.
+                                                  Fotosign. 7786a–b</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Bogen mittelstarkem,
+                                                  weißem Papier im Format
+                                                  444&#160;×&#160;283&#160;mm. Briefkopf von
+                                                  <?oxy_comment_start author="strauss" timestamp="20170613T113224+0200" comment="(((nFa.A.Hilberg&apos;sVerlag)))"?>Arnold
+                                                  Hilberg’s Verlag<?oxy_comment_end?> (siehe A.
+                                                  Hilberg's Verlag an Marx, 2.1.1866) auf der ersten
+                                                  Seite oben links. Die erste Seite hat ein
+                                                  Schreiber vollständig beschrieben, die zweite zu
+                                                  einem Viertel, die dritte ist leer, die vierte
+                                                  wurde als Adressseite benutzt. Das Papier ist an
+                                                  den Falzen beschädigt. Schreibmaterial: schwarze
+                                                  Tinte.</p>
+                                                <p>Auf der Adressseite zwei Briefmarken zu 10 bzw.
+                                                  15 Kreuzern, drei Poststempel: „Wien 20 1 9. A.“,
+                                                  „P.D.“, „London B[?] Paid A 23&#160;Ja&#160;66”
+                                                  und ein Vermerk der Post: „V M [??]“, auf der
+                                                  Rückseite Stempel: „London N.W. A 7
+                                                  Ja&#160;23&#160;66“.</p>
+                                                <p>Archivsignatur des SPD-Archivs auf der ersten
+                                                  Seite: „II 16 J 1c“.</p>
+                                                <p>Hilberg beantwortet einen nicht überlieferten
+                                                  Brief von Marx, geschrieben am 15.&#160;Januar
+                                                  1866 („Ihrer g<hi rend="underline">efälligen</hi>
+                                                  Zeilen vom 15.“).</p>
+                                        </physDesc>
+                                        <additional>
+                                                <listBibl>
+                                                  <bibl>RGASPI f. 1 op. 5 d. 1629</bibl>
+                                                </listBibl>
+                                        </additional>
+                                </msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><orgName key="ed_zmj_ltj_wx">Arnold Hilberg’s Verlag</orgName><placeName>Wien</placeName><date when="1866-01-18"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:19Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                                <opener>
+                                        <dateline sameAs="MBDatumszeile"><pb/> Sr.
+                                                Wolgeboren<lb/>Herrn Karl Marx in <hi rendition="#u">London.</hi><lb/>Wien, 18. Jänner
+                                                1866.</dateline>
+                                        <salute sameAs="MBAnrede">Hochgeehrter Herr!</salute>
+                                </opener>
+                                <p sameAs="MBTextohneEinzug">Im angenehmen Besitze Ihrer <expan resp="editor" sameAs="dottet_underline">g<ex>efälligen</ex></expan> Zeilen vom
+                                        15.&#160;dss., danke ich Ihnen zuvörderst für Ihr
+                                        freundliches Entgegenkommen, wie nicht minder für die gütige
+                                        Mittheilung der Adresse des Herrn Engels.</p>
+                                <p sameAs="MBTextmitEinzug">Ein besonderer Redacteur wird bei dem
+                                                <seg type="comment"><orig><persName key="\zzInternationale Revue\">Unternehmen</persName></orig><note xml:id="e0d2dbe5-4087-46da-b5cf-244d0f690c4b">„Internationale Revue“ (Wien). (((zInternationale
+                                                  Revue))) </note></seg> nicht figuriren; die
+                                        Redaction der einzelnen Rubriken wird Redactionssekretairen,
+                                        die Fachmänner sind, und anonym bleiben übertragen.
+                                        Verantwortlicher Redacteur, wird, wie hier üblich, der Chef
+                                        der Verlagsfirma, Schreiber dieser Zeilen – <persName key="ed_ts3_qm2_sy">Arnold Hilberg</persName> –
+                                        sein. Es hat sich dem Unternehmen erste Namen der Literatur
+                                        und Wissenschaft angeschlossen, in deren Gesellschaft Sie
+                                        mit vollster Beruhigung treten können. </p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Sie würden
+                                                  mich zu besonderem Danke verpflichten, wenn Sie
+                                                  bis Anfang März – für das Mai erscheinende
+                                                  1.&#160;Heft – mir Ihren ersten, wenn auch
+                                                  kleinen, Beitrag zuzusenden die Güte
+                                                  hätten.</orig><note xml:id="e219a9ef-ccf5-45ad-b1e5-14b7ff066b69">Artikel von Marx bzw. Engels in der
+                                                  „Internationalen Revue“ (((zInternationale
+                                                  Revue))) sind nicht bekannt.</note></seg> Wenn ich
+                                        mir gestatten dürfte, bezüglich des Stoffes einen
+                                        unmaßgeblichen Vorschlag zu machen, so würde ich mir
+                                        erlauben Sie um regelmäßige – etwa je vierteljährig
+                                        wiederkehrende&#160;– Berichte über dortige
+                                        nationalökonomische Verhältniße zu bitten. Ich würde diese
+                                        Berichte unter dem Collectivtitel, „Volkswirtschaftliche
+                                        Briefe aus England“ aufnehmen. </p>
+                                <p sameAs="MBTextmitEinzug"><pb/> Sie noch schließlich um gütige
+                                        umgehende Erwiderung höflichst bittend, habe ich die Ehre zu
+                                        zeichnen</p>
+                                <closer sameAs="MBUnterschrift">mit größter Hochachtung &amp;
+                                                Ergebenheit<lb/>Arnold
+                                                Hilberg’s Verlag </closer>
+                                <p sameAs="MBAdresse">/ Adr.<lb/><hi rendition="#u">fr</hi> /</p>
+                                <p sameAs="MBAdresse"><pb/>Mr.<lb/><hi rendition="#u">Karl
+                                        Marx</hi><lb/>1, Modena Villas<lb/>Maitland Park,
+                                                Haverstock<lb/>Hill<lb/><hi rendition="#u">London</hi><lb/>England<lb/><hi rendition="#u">fr</hi>
+                                </p>
+                        </div></body></text></TEI>

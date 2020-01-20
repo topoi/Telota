@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00064" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>60</idno>Karl Marx an Friedrich Engels in Manchester. London, Donnerstag, 15. März 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4444/L VI 577</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen dünnem, blauem Papier im Format 272&#160;×&#160;208&#160;mm.
+                            Auf der ersten Seite oben links der ovale rote Aufdruck des Central
+                            Council der IAA (siehe Marx an J. Ph. Becker, zw. 9. u. 15.1.1866). Marx
+                            hat die erste Seite vollständig beschrieben, die zweite und dritte sind
+                            leer, die vierte wurde als Adressseite benutzt. Schreibmaterial:
+                            schwarze Tinte.</p><p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand: Nummerierung des Briefes:
+                            „13“.</p><p>Von unbekannter Hand: Vermerk mit Bleistift „15/3/65“ auf der vierten Seite in der Mitte, quer
+                            geschrieben.</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1946</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: in deutscher Übersetzung: Bw&#160;3 (1913).
+                        S.&#160;300</bibl>.</witness><witness><bibl>in der Sprache des Originals: MEGA<hi rendition="#sup">1</hi> III/3 (1930). S.&#160;314/315.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-03-15"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:51Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> 15 March 1866.</dateline>
+                    <salute sameAs="MBAnrede">My Dear Frederic,</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug">The bearer of these lines is<seg type="comment"><orig>
+                            citizen Orsini,</orig><note xml:id="aa63be02-7fe9-4ec7-bb12-e1a74abe0ea3"><persName key="ed_erg_rjw_wx">Cesare Orsini</persName>. </note></seg> the
+                    brother of <seg type="comment"><orig>the immortal <persName key="pdrPo.001.004.000003552">martyr</persName>,</orig>
+                        <note xml:id="b2d7a419-0238-486e-abdd-e3358e2a30be">
+                            <p rend="endnote text"><persName key="pdrPo.001.004.000003552">Felice
+                                    Orsini</persName>. Dieser hatte am 14. Januar 1858 mit einer
+                                Gruppe von Gesinnungsgenossen in Paris ein misslungenes
+                                Bombenattentat auf <persName key="pdrPo.001.004.000003392">Napoléon&#160;III</persName> verübt und war am 13.&#160;März
+                                1858 hingerichtet worden.</p>
+                        </note>
+                    </seg> and a member of our association. He leaves England for the U.States,
+                    whence he will return in some months. <seg type="comment"><orig>Your advice on
+                            commercial matters may, perhaps, prove useful to him. At all events, you
+                            will be delighted to make his personal acquaintance.</orig><note xml:id="e9fee093-2ecc-4d5f-a267-72e0b1c13707">Siehe <ref target="B00081/#start_ycw_zbf_4z">Engels an Marx,
+                            2.4.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170413T103350+0200" comment="{{Br. 78.6–9}} "?> und<?oxy_comment_end?>
+                            <ref target="B00085/#start_z5r_jcf_4z">Marx an Engels,
+                                6.4.<?oxy_comment_start author="reichhoff" timestamp="20170413T103641+0200" comment="{{Br. 82.57–58}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p>
+                <closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u1}</hi>-->Yours
+                    truly</closer>
+                <lb/>
+                <closer sameAs="MBUnterschrift">K. Marx</closer>
+                <p sameAs="MBAdresse">Mr. <hi rendition="#u">Frederic Engels</hi>, 7, Southgate, St.
+                    Mary’s, Manchester.</p>
+                <postscript>
+                    <p>P.S. I know that <persName key="ed_d1d_4wh_yx">Bradlaugh</persName> is an honest
+                        man and occupies a respectable position <add>in the City</add> as solicitor.
+                    </p>
+                </postscript>
+                <postscript>
+                    <p><pb/> Fred. Engels,<lb/>7, Southgate, St. Mary’s,<lb/><hi rendition="#u">Manchester</hi>
+                    </p>
+                </postscript>
+            </div></body></text></TEI>

@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00030" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>27</idno>Hermann Jung an Karl Marx in London. London, Montag, 5. Februar 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 21 op. 1 d. 76/3</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, blauem Papier im Format 228&#160;×&#160;181&#160;mm. Die ersten drei Seiten hat Jung vollständig beschrieben, die vierte zur Hälfte. Schreibmaterial: schwarze Tinte.</p><p>Von unbekannter Hand: Datierung mit schwarzer Tinte „5/II&#160;66“ auf der ersten Seite oben
+                            links.</p></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002417">Hermann Jung</persName><placeName>London</placeName><date when="1866-02-05"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:31Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> 4 Charles Street.<lb/>Northampton
+                        Square.</dateline>
+                    <salute sameAs="MBAnrede">Lieber Marx</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>J’ai reçu le 2<hi rendition="#sup">d</hi> numéro du
+                            <?oxy_comment_start author="lindenberg" timestamp="20170331T113359+0200" comment="Soll: (((zJournal de l’Association Internationale des Travailleurs)))"?>Journal
+                            de l’Ass. de <bibl sameAs="zzJournal de l’Association Internationale des Travailleurs">Genève</bibl><?oxy_comment_end?>; il publie notre manifeste tout au
+                            long</orig><note xml:id="fa480b4a-b1c6-4c06-a69b-734a7e860020">[Karl
+                            Marx:] Manifeste de l’Association Internationale des Travailleurs,
+                            établie le 28&#160;septembre 1864, dans une assemblée publique, tenue à
+                            Londres, à St-Martin Hall, à Long Acre. In: Journal de l’Association
+                            Internationale des Travailleurs. Genève. Nr.&#160;2, 28.&#160;Januar
+                            1866. S.&#160;1–3. (((l[Marx,Karl:] Manifeste de l’Association
+                            Internationale des Travailleurs, établie le 28&#160;septembre 1864, dans
+                            une assemblée publique, tenue à Londres, à St-Martin Hall, à Long Acre.
+                            In: Journal de l’Association Internationale des Travailleurs. Genève.
+                            Nr.&#160;2, 28.&#160;Januar 1866. S.&#160;1–3))) </note></seg> &amp;
+                    ensuite <seg type="comment"><orig>une lettre de la section de
+                            Lausanne;</orig><note xml:id="cb8f7131-316d-465f-9469-41bb8d97bf4d">A[dolphe] G[raf]: Notre section applaudi à la foundation de votre
+                            journal&#160;… [Korrespondenz:] Lausanne le 7&#160;janvier. In: Journal
+                            de l’Association Internationale des Travailleurs. Genève. Nr.&#160;2,
+                            28.&#160;Januar 1866. S.&#160;3/4. (((lG[raf], A[dolphe]: Notre section
+                            applaudi à la foundation de votre journal&#160;… [Korrespondenz:]
+                            Lausanne le 7&#160;janvier. In: Journal de l’Association Internationale
+                            des Travailleurs. Genève. Nr.&#160;2, 28.&#160;Januar 1866.
+                            S.&#160;3/4))) </note></seg> après cela il ne reste pas beaucoup de
+                    place pour parler <hi rendition="#u">non-sens</hi>, aussi est-ce un très bon
+                        N<hi rendition="#sup">o</hi>; Quant au prochain: je suis très embarassé de
+                    savoir ce qu’il contiendra.</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_xnq_5rq_nz"/><persName key="pdrPo.001.004.000001279">Dupont</persName> a reçu une belle lettre de Lyon, &amp; ce qui est
+                            encore plus beau que la lettre même un chèque de £&#160;8 qu’elle
+                            contenait;</orig><note xml:id="d17e5168-6304-48a3-bcb9-1d0d2fac008c"><anchor type="verweisziel" xml:id="stop_xnq_5rq_nz"/><persName key="pdrPo.001.004.000001279">Eugène Dupont</persName> berichtete
+                            dem Zentralrat über den Brief und die Geldüberweisung am 6.&#160;Februar
+                            1866 (The_Minute Book 1864–1866. In: MEGA²&#160;I/20. S.&#160;384.6–10).
+                            (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20. S._265–450))) Siehe
+                            auch <ref target="B00036/#start_hwh_dkk_nz">Marx an Engels,
+                                10.2.<?oxy_comment_start author="reichhoff" timestamp="20170410T141740+0200" comment="{{Br. 33.58}}"?>1866<?oxy_comment_end?></ref>.
+                            Der Brief aus Lyon konnte nicht ermittelt werden.</note></seg> moi je
+                    n’ai rien reçu de la Suisse, sinon <pb/>
+                    <seg type="comment"><orig>le journal</orig><note xml:id="f368377a-3e1a-446b-9f6b-eddbe11b9bb0">Journal de l’Association
+                            Internationale des Travailleurs. Section de la Suisse romande, Genéve.
+                            (((zJournal de l’Association Internationale des Travailleurs. Section de
+                            la Suisse romande, Genéve))) </note></seg>, mais pas de lettre <seg type="comment"><orig>en réponse à la mienne.</orig><note xml:id="nmy4_h1s_5y"><persName key="pdrPo.001.004.000002417">Jung</persName> schrieb an <persName key="pdrPo.001.004.000001278">François Dupleix</persName> nach dem Erscheinen der ersten Nummer
+                            der Zeitung „Journal de l’Association Internationale des Travailleurs“.
+                            (((zJournal de l’Association Internationale des Travailleurs))) Ein
+                            Brief konnte nicht ermittelt werden. Siehe auch <ref target="B00007/#start_my4_mkk_nz">Marx an J. Ph. Becker,
+                                13.1.<?oxy_comment_start author="reichhoff" timestamp="20170410T142012+0200" comment="{{Br. 6.50–52}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Mardi dernier «a deputation»
+                            was appointed, composed of Dupont &amp; myself, to attend the trades
+                            council, next Wednesday in order to supply them with every information
+                            in our power, concerning <hi rendition="#u">arbitration-courts,</hi>
+                            conseils de <hi rendition="#u">Prud’hommes</hi>; Dupont a écrit à Paris
+                            &amp; il a reçu la <expan resp="editor" sameAs="dottet_underline">consti<ex>tu</ex>tion</expan> du conseil des Prud’hommes avec
+                            la législation qui s’y rapporte, j’en fais justement mon étude, pour ne
+                            pas me présenter là comme un sot; Dupont étant très bien informé <pb/>
+                            sur ce sujet, je crois que nous ne nous en tirerons pas trop
+                        mal;</orig><note xml:id="f65c9546-a26b-4689-bab9-7fe1353e7d0b">In der Sitzung des
+                            Zentralrats der IAA am Dienstag, den 30.&#160;Januar 1866, wurden
+                                <persName key="pdrPo.001.004.000001279">Dupont</persName> und
+                                <persName key="pdrPo.001.004.000002417">Jung</persName> zur
+                            Versammlung des London Trades Council delegiert. Siehe The_Minute Book
+                            1864–1866. In: MEGA²&#160;I/20. S.&#160;383.8–18. (((lThe_Minute Book
+                            1864–1866. In: MEGA²&#160;I/20. S._265–450))) Die Versammlung fand am
+                            Mittwoch, den 7.&#160;Februar, statt.</note></seg> du reste nous ne
+                    négligerons rien pour en faire un succès; lors des conférences, les délégués
+                    parisiens nous réunirent des statistiques concernant, les Prud’hommes, ou plutôt
+                    leur <hi rendition="#u">mode d’action</hi>; nous ne savons ce que ces papiers
+                    sont devenus &amp; nous sommes tous sous l’impression que c’est vous qui les
+                    avez, if so, ayez la bonté de me les envoyer par retour du courrier avec toutes
+                    les informations que vous pourriéz y ajouter.</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>J’espère vous voir <seg type="comment"><orig>mardi</orig><note xml:id="nl4v_zcs_5y">6.
+                                    Februar 1866.</note></seg> soir, if you can possible manage to
+                            come «do so».</orig><note xml:id="nqkz_cds_5y">Erst am 13. März 1866
+                            nahm Marx nach seiner Erkrankung wieder an einer Sitzung des Zentralrats
+                            der IAA teil. Siehe The_Minute Book 1864–1866. In: MEGA²_I/20. S.
+                            392/393. (((lThe_Minute Book 1864–1866. In: MEGA²_I/20. S._265–450)))
+                        </note></seg>
+                </p>
+                <p sameAs="MBTextmitEinzug"><pb/> Mes amitiés à votre aimable famille &amp; je vous
+                    serre la main. ∞</p>
+                <closer sameAs="MBUnterschrift">H. Jung.</closer>
+                <p sameAs="MBAdresse">5 February 1866</p>
+                <p rend="header">A <persName key="ed_vnh_3w4_kz">girl</persName> is born unto me or
+                    rather unto <seg type="comment"><orig>my wife</orig><note xml:id="a645f05c-b00b-4737-a6fa-3ea628dfcd58"><persName key="ed_kyz_h2t_sy">Sarah Jung</persName>. </note></seg>, they are
+                    both doing well.&#160;</p>
+            </div></body></text></TEI>

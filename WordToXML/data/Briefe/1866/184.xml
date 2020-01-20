@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00189" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>184</idno>Karl Marx an Friedrich Engels in Manchester. London, Donnerstag, 8. November 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4465/L VI 597</idno></idno></msIdentifier><physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            271&#160;×&#160;214&#160;mm. Die erste Seite hat Marx vollständig
+                            beschrieben, die übrigen drei sind leer. Schreibmaterial: schwarze
+                            Tinte.</p>
+                        <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand:
+                            Numerierung  der beschriebenen Seite:
+                            „55,1“.<?oxy_comment_start author="lindenberg" timestamp="20170424T171949+0200" comment="Von Eduard Bernsteins Hand: Numerierung des Briefes bzw. der beschriebenen Seite: „55,1“."?></p>
+                        <?oxy_comment_end?>
+                        <p>Engels’ Antwort, geschrieben zwischen 8. und 10.&#160;November 1866
+                            (siehe Br.&#160;185.3), ist nicht überliefert.</p>
+                    </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2003</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;352.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-11-08"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:40:08Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 8 Nov. 1866.</dateline><salute sameAs="MBAnrede">Lieber Engels,</salute></opener><p sameAs="MBTextohneEinzug">mein Schweigen wird Dir aufgefallen sein. <seg type="comment"><orig>Ich
+                            glaubte, der Empfang der £&#160;5 sei Dir angezeigt,</orig><note xml:id="f1a455fa-1d09-4f5b-aff4-fff508f811df">Siehe <ref target="B00182/#start_vf3_dlk_5z">Engels an Marx,
+                                5.10.<?oxy_comment_start author="reichhoff" timestamp="20170505T150504+0200" comment="{{Br. 177.6–8}}"?>1866<?oxy_comment_end?></ref>.
+                        </note></seg> da <persName key="pdrPo.001.004.000003076">Laura</persName> es
+                    übernommen hatte, aber, wie sich später herausstellte, zu thun vergaß. Im
+                    Uebrigen waren es verzweifelte Umstände, die mich vom Schreiben abhielten. Du
+                    weißt, daß <seg type="comment"><orig>die 10&#160;£, die Du mir vor Deiner
+                            Abreise schicktest,</orig><note xml:id="a27c037f-7185-43f0-84b9-2c89b85d31a3">
+                            <p rend="endnote text">Engels hatte Marx diesen Betrag am
+                                10.&#160;August 1866 (siehe <ref target="B00150/#start_iqf_cmw_tz">Engels an Marx,
+                                    10.8.<?oxy_comment_start author="reichhoff" timestamp="20170505T150733+0200" comment="{{Br. 146.10–12}}"?>1866<?oxy_comment_end?></ref>)
+                                geschickt. Zu Engels’ Reise nach Deutschland siehe <ref target="B00148/#ed7465d7-c7d0-4b8f-9b6a-d7b144a87d0c">Erl. zu
+                                    Engels an Marx,
+                                    6.8.<?oxy_comment_start author="reichhoff" timestamp="20170519T131611+0200" comment="{{Erl. 144e}}"?>1866<?oxy_comment_end?>.
+                                </ref></p>
+                        </note></seg> nur für Steuerzahlungen waren; <seg type="comment"><orig>die
+                            späteren 50&#160;£ für Hausrente.</orig><note xml:id="c039ac0a-4f05-474e-b2c2-4224cb0fff8e">Siehe <ref target="B00179">Marx an Engels,
+                                1.10.<?oxy_comment_start author="reichhoff" timestamp="20170505T154210+0200" comment="{{Br. 174.3–11}}"?>1866<?oxy_comment_end?></ref>,
+                                <ref target="B00180">Engels an Marx,
+                                2.10.<?oxy_comment_start author="reichhoff" timestamp="20170505T154520+0200" comment="{{Br._175.3–6}}"?>1866<?oxy_comment_end?></ref>,
+                                <ref target="B00181/#start_hmy_f3c_5z">Marx an Engels,
+                                3.10.<?oxy_comment_start author="reichhoff" timestamp="20170505T154659+0200" comment="{{Br._176.3–20}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00182/#start_ydw_mrk_5z">Engels an Marx,
+                                5.10.<?oxy_comment_start author="reichhoff" timestamp="20170505T155338+0200" comment="{{Br._177.3–7}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    Ich befinde mich also seit Monaten blank. <seg type="comment"><orig>Die s.g.
+                            Erbschaft fand sich <del> aus <sic ana="#break-off"/></del> wenigstens
+                            unter <subst>
+                                <del>30</del>
+                                <add>20</add>
+                            </subst>&#160;Leute vertheilt u. <subst>
+                                <del>Sie</del>
+                                <add>Es</add>
+                            </subst> kam mir für meinen Theil Anfang Sommer – 80&#160;Th!
+                            zu.</orig><note xml:id="ndbd_pd5_jz">Marx erwähnt hier das Erbe seiner
+                            Tante <persName key="pdrPo.001.004.000002578">Esther Kosel</persName>,
+                            verstorben am 16. Juli 1865. Im Testament war er nicht berücksichtigt
+                            worden, so dass er nur einen kleinen Betrag erhielt. Siehe MEGA²_III/13.
+                            Br. 327, Br._329 sowie Br._330.21–27 und Erl. Siehe auch <ref target="B00075/#start_osx_2zq_5z">Marx an Engels,
+                                24.3.<?oxy_comment_start author="reichhoff" timestamp="20170506T130228+0200" comment="{{Br. 72.90–91}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00075/#e57ce159-87d9-4cb8-81dd-ab559b8cf1a5">Erl. zu
+                                Marx an Engels,
+                                24.3.<?oxy_comment_start author="reichhoff" timestamp="20170519T131708+0200" comment="{{Erl._72v}}"?>1866<?oxy_comment_end?>.</ref>
+                            (((lMEGA²_III/13)))</note></seg>
+                    <seg type="comment"><orig>Meine Versuche Geld in Deutschland oder Holland
+                            aufzutreiben sind alle gescheitert.</orig><note xml:id="d00af18e-6771-4460-b26d-92603397c5be">Siehe <ref target="B00176/#start_rxb_ncr_5z">Marx an Engels,
+                                26.9.<?oxy_comment_start author="reichhoff" timestamp="20170506T130531+0200" comment="{{Br. 171.6–7}}"?>1866<?oxy_comment_end?></ref>,
+                                <ref target="B00179">1.10.<?oxy_comment_start author="reichhoff" timestamp="20170506T130631+0200" comment="{{Br._174.20–21}}"?>1866<?oxy_comment_end?></ref>
+                            und Erl. sowie <ref target="B00185/#start_mfb_sw3_5z">Marx an L.
+                                Kugelmann,
+                                13.10.<?oxy_comment_start author="reichhoff" timestamp="20170506T130851+0200" comment="{{Br. 180.18–21}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    Das Pfandhaus (u. meine <persName key="pdrPo.001.004.000003075">Frau</persName>
+                    hat so sehr alles <choice>
+                        <sic>versetzt)</sic>
+                        <corr cert="high">versetzt</corr>
+                    </choice>, daß sie selbst kaum ausgehn kann) erinnert an sich nur noch durch die
+                    Zinsen, die es verlangt. Ich hatte daher, wie in der schlechtesten
+                    Flüchtlingszeit, kleine Summen rechts u. links in London zu pumpen – u. dieß in
+                    einem beschränkten u. selbst mittellosen Kreis – um auch nur die allernöthigsten
+                    Baaren Ausgaben zu machen. Andrerseits sind die Hauslieferanten drohend u. ein
+                    Theil hat den Kredit aufgekündigt u. mit Gericht gedroht. Diese Zustände um so
+                    fataler, als <persName key="pdrPo.001.004.000002648">Lafargue</persName> (bis
+                    vor seiner Abreise nach Bordeaux vor einigen Tagen) fortwährend im Haus u. der
+                    real state of things ihm ängstlich verborgen werden mußte. Ich bin durch alles
+                    das nicht nur sehr <seg type="comment"><orig>in der Arbeit</orig><note xml:id="bc10da02-9b06-48c9-9ef9-6ce79875a6fe">Gemeint ist hier Karl
+                            Marx: Das Kapital; siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx
+                                an J. Ph. Becker, zwischen 9. und
+                                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170519T131835+0200" comment="{{Erl. 6b}}"?>1866<?oxy_comment_end?>.</ref>
+                            (((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg> unterbrochen
+                    worden, sondern habe mir auch, da ich die bei Tag verlorene Zeit bei Nacht
+                    wieder aufmachen wollte, einen schönen Karbunkel nicht weit vom penis wieder
+                    zugezogen. Ich weiß nun, daß Du alles in Deinen Kräften <add>u. mehr</add>
+                    gethan hast. Aber es muß Rath irgend einer Art geschaffen werden. Ist nicht die
+                    Aufnahme eines loan oder irgend einer derartigen Transaktion möglich?</p><closer sameAs="MBUnterschrift">Salut<lb/>D KM </closer></div></body></text></TEI>

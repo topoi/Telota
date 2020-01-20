@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00126" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>122</idno>Cesare Orsini an Karl Marx in London. New York, Montag, 18. Juni 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 1661</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 270&#160;×&#160;216&#160;mm. Die ersten drei Seiten hat Orsini vollständig beschrieben, die vierte als Adreßseite benutzt. Schreibmaterial: schwarze Tinte.</p><p><hi rend="italic">Zum besseren Verständnis des Textes wurden hier fehlende Akzente ergänzt und
+                                falsch gesetzte berichtigt.</hi>
+                        </p><p>Von unbekannter Hand: die Jahresangabe „66“ mit Bleistift auf der ersten Seite oben rechts.</p></physDesc></msDesc><listWit><witness><bibl>Erstveröffentlichung: La corrispondenza di Marx e Engels con italiani (1964).
+    S.&#160;4</bibl>.</witness><witness><bibl>die Adreßseite wird hier erstmals veröffentlicht.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_erg_rjw_wx">Cesare Orsini</persName><placeName>New York</placeName><date when="1866-06-18"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:31Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <opener>
+                    <salute sameAs="MBAnrede"><pb/> Mon cher Docteur –</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug">Pardonnez moi – <seg type="comment"><orig>Après le
+                            malheureux voyage que j'ai fait sur l'England, où nous avons eu
+                            280&#160;morts de choléra, j'ai été 25&#160;jours malade ici à New
+                            York</orig><note xml:id="c5945d6c-4e23-4079-988b-e30232ccaf8d"><persName key="ed_erg_rjw_wx">Cesare Orsini</persName> reiste etwa Ende
+                            März/Anfang April 1866 in die USA ab. Siehe auch <ref target="B00064">Marx an Engels,
+                                15.3.<?oxy_comment_start author="reichhoff" timestamp="20170421T140843+0200" comment="{{Br. 60.5}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00081/#start_ycw_zbf_4z">Engels an Marx,
+                                2.4.<?oxy_comment_start author="reichhoff" timestamp="20170421T141045+0200" comment="{{Br. 78.6–9}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    – Il y est seulement depuis quelque jours que je sors – Je n'ai pas voulu vous
+                    écrire auparavant, dans l'espoir de pouvoir vous dire quelque chose de nos
+                    affaires – J'ai constitué une compagnie pour l'exploitation du Guano, mais il
+                    faut attendre le mois de Septembre, car aujourd'hui la fièvre jaune fait des
+                    ravages incroyables.</p>
+                <p sameAs="MBTextmitEinzug">Quant à <seg type="comment"><orig>notre
+                            association,</orig><note xml:id="ec17d36a-e4bf-41cc-9f95-f62f05af3c40">Die IAA.</note></seg> j'ai déjà  <choice>
+                        <sic>fondée</sic>
+                        <corr cert="high">fondé</corr>
+                    </choice> une branche à Halifax (Canad<unclear reason="illegible" cert="low">a</unclear>) et je suis en train de faire une grande réunion internationale
+                    ici, afin de pouvoir vous envoyer des fonds pour <seg type="comment"><orig>votre
+                            journal,</orig><note xml:id="nhtt_hjp_fz">„The Commonwealth” (London).
+                            (((zTheCommonwealth))) </note></seg> propagande etc etc etc –</p>
+                <p sameAs="MBTextmitEinzug">Ici il y a beaucoup à faire, <seg type="comment"><orig>mais <expan resp="editor" sameAs="dottet_underline">malheureuse<ex>ment</ex></expan>
+                            <pb/> notre ami <persName key="pdrPo.001.004.000001279">Dupont</persName> a nommé correspondant <persName key="ed_iwz_kby_bz">Corraz</persName>, qui est le meilleur des
+                            hommes, mais trop vieux, et pas du tout capable de comprendre sa mission
+                            –</orig><note xml:id="ne4c_v3p_fz"><note xml:id="aeb6aae5-8dd8-4f05-8717-cb40c7592c0e"><persName key="pdrPo.001.004.000001279">Eugène Dupont</persName> hatte auf
+                                der Sitzung des Zentralrats der IAA am 3. Oktober 1865
+                                vorgeschlagen, seinem Bekannten <persName key="ed_iwz_kby_bz">Corraz</persName>, der nach New York abzureisen beabsichtigte,
+                                500&#160;Mitgliedskarten der IAA (siehe <ref target="B00011/#cb864592-8d8a-4a93-b073-8383b8d607bc">Erl. zu Marx
+                                    an W. Liebknecht,
+                                    15.1.<?oxy_comment_start author="reichhoff" timestamp="20170512T151904+0200" comment="{{Erl. 10c}}"?>1866<?oxy_comment_end?></ref>)
+                                sowie einige Exemplare der „Address of the International Working
+                                Men’s Association“ von Marx (MEGA<hi rendition="#sup">2</hi>_I/20.
+                                S.&#160;3–12) mitzugeben. (((lMarx,Karl: Address of the
+                                International Working Men’s Association. In: MEGA<hi rendition="#sup">2</hi>_I/20. S.&#160;3–12))) Außerdem schlug er
+                                Corraz als Korrespondierenden Sekretär der IAA in New York vor.
+                                Siehe The_Minute Book 1864–1866. In: MEGA²&#160;I/20
+                                S.&#160;356.24–28. (((lThe_Minute Book 1864–1866. In:
+                                MEGA²&#160;I/20. S._265–450)) Am 23.&#160;Januar 1866 berichtete
+                                    <persName key="pdrPo.001.004.000001027">William Randall
+                                    Cremer</persName> dem Zentralrat, Corraz habe
+                                400&#160;Mitgliedskarten nach New York mitgenommen, es seien jedoch
+                                keine Zahlungen dafür eingegangen. Ebenda. S.&#160;381.20–23.
+                                (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+                                S._265–450)))</note></note></seg></p>
+                <p sameAs="MBTextmitEinzug">J'ai esperé de lettres de <persName key="pdrPo.001.004.000002885">Longuet</persName> et <persName key="pdrPo.001.004.000002648">Lafargue</persName>, mais ces Messieurs ont la
+                    grande qualité d'oublier les amis –</p>
+                <p sameAs="MBTextmitEinzug">A Madame Marks mes compliments, et à vos demoiselles
+                    bien des choses de ma part – <pb/> Je pense toujours à faire un présent à M<hi rendition="#sup">selle</hi> Laura – Je veux lui apporter un complet jardin
+                    de plantes tropicales –</p>
+                <p sameAs="MBTextmitEinzug">Je ne sais pas s'il y aura guerre, mais dans ce cas nous
+                    nous verrons bientôt –</p>
+                <closer sameAs="MBUnterschrift">Tout à vous<lb/>C. Orsini –</closer>
+                <p sameAs="MBAdresse">New York 18 Juin 1866<lb/>Broome S<hi rendition="#sup">t</hi>
+                    497 </p>
+                <p sameAs="MBAdresse"><pb/> Monsieur<lb/>Le D<hi rendition="#sup">r</hi> Marks
+                    –<lb/>Maitland Park –<lb/>Modena Villa<lb/>Haverstok hill –</p>
+            </div></body></text></TEI>

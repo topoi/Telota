@@ -1,0 +1,389 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="mega_personenregister" xml:lang="de" xml:id="personQ">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Gehört zur ediarum-App für eXist.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Hybrid: consult project description and document history for details.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="ed_tb1_wmb_wy">
+                    <idno type="mega">1022779</idno>
+                    <persName type="reg">
+                        <surname>Quenstedt</surname>
+                        <forename>Matthias</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note> preußischer Justizbeamter, 1865 Referendar am Stadtgericht in Berlin,
+                        Bekannter von Wilhelm Liebknecht</note>
+                    <linkGrp>
+                        <ptr target="#379" type="page"/>
+                        <ptr target="#380" type="page"/>
+                        <ptr target="#433" type="page"/>
+                        <ptr target="#589" type="page"/>
+                        <ptr target="#599" type="page"/>
+                        <ptr target="#609" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003852">
+                    <idno type="mega">1022766</idno>
+                    <persName type="reg">
+                        <name>Quarck, Max genannt Pseudonym Freiwald Thüringer</name>
+                    </persName>
+                    <birth>1860</birth>
+                    <death>1930</death>
+                    <note>deutscher Jurist, Redakteur und Publizist; sozialdemokratischer
+                        Politiker</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000011409">
+                    <idno type="mega">1030830</idno>
+                    <persName type="reg">
+                        <name>Quasimodo</name>
+                    </persName>
+                    <note>Gestalt aus dem Roman „Notre-Dame de Paris“ von Victor Hugo</note>
+                    <linkGrp>
+                        <ptr target="III/9#232" type="page"/>
+                        <ptr target="III/9#889" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003854">
+                    <idno type="mega">1022785</idno>
+                    <persName type="reg">
+                        <name>Quesada, Vicente Jenaro de, marqués de Moncayo</name>
+                    </persName>
+                    <birth>1782</birth>
+                    <death>1836</death>
+                    <note>spanischer General und Politiker; zwischen 1824 und 1833 mehrfach
+                        Generalkapitän; verhaftet, von der Menge umgebracht</note>
+                    <linkGrp>
+                        <ptr target="#643" type="page"/>
+                        <ptr target="#801" type="page"/>
+                        <ptr target="#818" type="page"/>
+                        <ptr target="#825" type="page"/>
+                        <ptr target="#860" type="page"/>
+                        <ptr target="#861" type="page"/>
+                        <ptr target="#888" type="page"/>
+                        <ptr target="#896" type="page"/>
+                        <ptr target="#899" type="page"/>
+                        <ptr target="#900" type="page"/>
+                        <ptr target="#908" type="page"/>
+                        <ptr target="#912" type="page"/>
+                        <ptr target="#913" type="page"/>
+                        <ptr target="#929" type="page"/>
+                        <ptr target="#930" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011406">
+                    <idno type="mega">1022787</idno>
+                    <persName type="reg">
+                        <surname>Quesnay</surname>
+                        <forename>François</forename>
+                    </persName>
+                    <birth>1694</birth>
+                    <death>1774</death>
+                    <note>französischer Arzt und Ökonom; Enzyklopädist und Begründer der Schule der
+                        Physiokraten; Begründer der physiokratischen Lehre; führender Vertreter
+                        der Physiokraten</note>
+                    <linkGrp>
+                        <ptr target="II/11#33" type="page"/>
+                        <ptr target="II/11#34" type="page"/>
+                        <ptr target="II/11#46" type="page"/>
+                        <ptr target="II/11#58" type="page"/>
+                        <ptr target="II/11#78" type="page"/>
+                        <ptr target="II/11#79" type="page"/>
+                        <ptr target="II/11#135–137" type="page"/>
+                        <ptr target="II/11#139–141" type="page"/>
+                        <ptr target="II/11#150" type="page"/>
+                        <ptr target="II/11#174" type="page"/>
+                        <ptr target="II/11#534" type="page"/>
+                        <ptr target="II/11#638" type="page"/>
+                        <ptr target="II/11#698" type="page"/>
+                        <ptr target="II/11#701" type="page"/>
+                        <ptr target="II/11#702" type="page"/>
+                        <ptr target="II/11#710" type="page"/>
+                        <ptr target="II/11#722" type="page"/>
+                        <ptr target="II/11#854" type="page"/>
+                        <ptr target="II/11#858" type="page"/>
+                        <ptr target="II/11#861" type="page"/>
+                        <ptr target="II/11#862" type="page"/>
+                        <ptr target="II/11#864" type="page"/>
+                        <ptr target="II/11#869" type="page"/>
+                        <ptr target="II/11#912" type="page"/>
+                        <ptr target="II/11#986" type="page"/>
+                        <ptr target="II/11#1003" type="page"/>
+                        <ptr target="II/11#1262" type="page"/>
+                        <ptr target="II/11#1263" type="page"/>
+                        <ptr target="II/11#1265" type="page"/>
+                        <ptr target="II/11#1268" type="page"/>
+                        <ptr target="II/11#1279" type="page"/>
+                        <ptr target="II/11#1295" type="page"/>
+                        <ptr target="II/11#1297" type="page"/>
+                        <ptr target="II/11#1337" type="page"/>
+                        <ptr target="II/11#1368–1371" type="page"/>
+                        <ptr target="II/11#1482" type="page"/>
+                        <ptr target="II/11#1505" type="page"/>
+                        <ptr target="II/11#1604" type="page"/>
+                        <ptr target="II/11#1605" type="page"/>
+                        <ptr target="II/11#1607" type="page"/>
+                        <ptr target="II/11#1608" type="page"/>
+                        <ptr target="II/11#1613" type="page"/>
+                        <ptr target="II/11#1718" type="page"/>
+                        <ptr target="II/11#1719" type="page"/>
+                        <ptr target="II/11#1740" type="page"/>
+                        <ptr target="II/12#73" type="page"/>
+                        <ptr target="II/12#103" type="page"/>
+                        <ptr target="II/12#158" type="page"/>
+                        <ptr target="II/12#159" type="page"/>
+                        <ptr target="II/12#167" type="page"/>
+                        <ptr target="II/12#322–324" type="page"/>
+                        <ptr target="II/12#332" type="page"/>
+                        <ptr target="II/12#500" type="page"/>
+                        <ptr target="II/12#544" type="page"/>
+                        <ptr target="II/12#631" type="page"/>
+                        <ptr target="II/12#720" type="page"/>
+                        <ptr target="II/12#734" type="page"/>
+                        <ptr target="II/12#754" type="page"/>
+                        <ptr target="II/12#891" type="page"/>
+                        <ptr target="II/12#911" type="page"/>
+                        <ptr target="II/12#1015" type="page"/>
+                        <ptr target="II/12#1016" type="page"/>
+                        <ptr target="II/12#1211" type="page"/>
+                        <ptr target="II/12#1223" type="page"/>
+                        <ptr target="II/12#1224" type="page"/>
+                        <ptr target="II/12#1242" type="page"/>
+                        <ptr target="II/13#92" type="page"/>
+                        <ptr target="II/13#121" type="page"/>
+                        <ptr target="II/13#175" type="page"/>
+                        <ptr target="II/13#176" type="page"/>
+                        <ptr target="II/13#183" type="page"/>
+                        <ptr target="II/13#317" type="page"/>
+                        <ptr target="II/13#333" type="page"/>
+                        <ptr target="II/13#334" type="page"/>
+                        <ptr target="II/13#335" type="page"/>
+                        <ptr target="II/13#343" type="page"/>
+                        <ptr target="II/13#514" type="page"/>
+                        <ptr target="II/13#520" type="page"/>
+                        <ptr target="II/13#530" type="page"/>
+                        <ptr target="II/13#572" type="page"/>
+                        <ptr target="II/13#597" type="page"/>
+                        <ptr target="II/13#639" type="page"/>
+                        <ptr target="II/13#643" type="page"/>
+                        <ptr target="II/13#646" type="page"/>
+                        <ptr target="II/13#657" type="page"/>
+                        <ptr target="II/13#658" type="page"/>
+                        <ptr target="II/13#676–678" type="page"/>
+                        <ptr target="#1036" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003856">
+                    <idno type="mega">1022793</idno>
+                    <persName type="reg">
+                        <surname>Queved o y Quintano</surname>
+                        <forename>Pedro de</forename>
+                    </persName>
+                    <birth>1736</birth>
+                    <death>1818</death>
+                    <note>spanischer Geistlicher und Politiker; Bischof von Orense (seit 1775),
+                        Kardinal (seit 1816), 1810 Vorsitzender des Regentschaftsrates</note>
+                    <linkGrp>
+                        <ptr target="#407" type="page"/>
+                        <ptr target="#496" type="page"/>
+                        <ptr target="#502" type="page"/>
+                        <ptr target="#607" type="page"/>
+                        <ptr target="#612" type="page"/>
+                        <ptr target="#613" type="page"/>
+                        <ptr target="#683" type="page"/>
+                        <ptr target="#686" type="page"/>
+                        <ptr target="#688" type="page"/>
+                        <ptr target="#689" type="page"/>
+                        <ptr target="#696" type="page"/>
+                        <ptr target="#699" type="page"/>
+                        <ptr target="#1250" type="page"/>
+                        <ptr target="#1251" type="page"/>
+                        <ptr target="#1276" type="page"/>
+                        <ptr target="#1279" type="page"/>
+                        <ptr target="#1367" type="page"/>
+                        <ptr target="#1368" type="page"/>
+                        <ptr target="#1371" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003857">
+                    <idno type="mega">1022797</idno>
+                    <persName type="reg">
+                        <surname>Quiggle</surname>
+                        <forename>J. W.</forename>
+                    </persName>
+                    <note>US-amerikanischer Konsul in Antwerpen (1861)</note>
+                    <linkGrp>
+                        <ptr target="III/11#1226" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003858">
+                    <idno type="mega">1022799</idno>
+                    <persName type="reg">
+                        <surname>Quin</surname>
+                        <forename>Michael Joseph</forename>
+                    </persName>
+                    <birth>1796</birth>
+                    <death>1843</death>
+                    <note>britischer Publizist, Reisebuchautor; bereiste 1822/1823 Spanien</note>
+                    <linkGrp>
+                        <ptr target="#854" type="page"/>
+                        <ptr target="#901–907" type="page"/>
+                        <ptr target="#942" type="page"/>
+                        <ptr target="#1041" type="page"/>
+                        <ptr target="#1043" type="page"/>
+                        <ptr target="#1380" type="page"/>
+                        <ptr target="#1395" type="page"/>
+                        <ptr target="#1396" type="page"/>
+                        <ptr target="#1435" type="page"/>
+                        <ptr target="#1436" type="page"/>
+                        <ptr target="#1440" type="page"/>
+                        <ptr target="#1441" type="page"/>
+                        <ptr target="#1458" type="page"/>
+                        <ptr target="#1467" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003859">
+                    <idno type="mega">1022809</idno>
+                    <persName type="reg">
+                        <surname>Quintana</surname>
+                        <forename>Manuel José</forename>
+                    </persName>
+                    <birth>1772</birth>
+                    <death>1857</death>
+                    <note>spanischer Dichter und Politiker</note>
+                    <linkGrp>
+                        <ptr target="#648" type="page"/>
+                        <ptr target="#655" type="page"/>
+                        <ptr target="#715" type="page"/>
+                        <ptr target="#732" type="page"/>
+                        <ptr target="#744" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011407">
+                    <idno type="mega">1022813</idno>
+                    <persName type="reg">
+                        <name>Quintus Fabius Maximus Verrucosus Cunctator</name>
+                    </persName>
+                    <note>römischer Feldherr, fünfmal zum Konsul und zweimal zum Diktator
+                        gewählt</note>
+                    <linkGrp>
+                        <ptr target="#1526" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011408">
+                    <idno type="mega">1022814</idno>
+                    <persName type="reg">
+                        <name>Quintus Horatius Flaccus</name>
+                    </persName>
+                    <note>römischer Lyriker</note>
+                    <linkGrp>
+                        <ptr target="#1223" type="page"/>
+                        <ptr target="#1502" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003860">
+                    <idno type="mega">1022815</idno>
+                    <persName type="reg">
+                        <surname>Quintus Icilius</surname>
+                        <forename>Gustav von</forename>
+                    </persName>
+                    <birth>1824</birth>
+                    <death>1885</death>
+                    <note>deutscher Physiker</note>
+                    <linkGrp>
+                        <ptr target="#582" type="page"/>
+                        <ptr target="#965" type="page"/>
+                        <ptr target="#973" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003862">
+                    <idno type="mega">1022817</idno>
+                    <persName type="reg">
+                        <surname>Quiroga</surname>
+                        <forename>Antonio</forename>
+                    </persName>
+                    <birth>1784</birth>
+                    <death>1841</death>
+                    <note>spanischer General und Politiker; Teilnehmer am Unabhängigkeitskrieg
+                        (1808–1814) und an der liberalen Bewegung 1820–1823; Kampfgefährte von
+                        Rafael Riego; 1823–1833 Emigrant in England</note>
+                    <linkGrp>
+                        <ptr target="#462" type="page"/>
+                        <ptr target="#466" type="page"/>
+                        <ptr target="#637" type="page"/>
+                        <ptr target="#639" type="page"/>
+                        <ptr target="#640" type="page"/>
+                        <ptr target="#644" type="page"/>
+                        <ptr target="#771" type="page"/>
+                        <ptr target="#773" type="page"/>
+                        <ptr target="#790" type="page"/>
+                        <ptr target="#791" type="page"/>
+                        <ptr target="#823" type="page"/>
+                        <ptr target="#824" type="page"/>
+                        <ptr target="#905" type="page"/>
+                        <ptr target="#1252" type="page"/>
+                        <ptr target="#1260" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003863">
+                    <idno type="mega">1022818</idno>
+                    <persName type="reg">
+                        <surname>Quiroga</surname>
+                        <forename>Juan Bernardo</forename>
+                    </persName>
+                    <note>spanischer Jurist; Abgeordneter und einer der Vizepräsidenten der Cortes
+                        von Cádiz (1810–1813), Mitautor der Verfassung von 1812</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000003861">
+                    <idno type="mega">1022819</idno>
+                    <persName type="reg">
+                        <surname>Quiroga y Frias</surname>
+                        <forename>Gregorio</forename>
+                    </persName>
+                    <note>spanischer Militär und Politiker; Abgeordneter(seit 1837) ;
+                        hingerichtet</note>
+                    <linkGrp>
+                        <ptr target="#870" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000003864">
+                    <idno type="mega">1022821</idno>
+                    <persName type="reg">
+                        <name>Quistorp &amp; Co.</name>
+                    </persName>
+                    <note>1870 von Heinrich Quistorp in Berlin gegründete Vereinsbank, ging 1873 in
+                        Konkurs</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000003855">
+                    <idno type="mega">1022791</idno>
+                    <persName type="reg">
+                        <surname>QuételetQuételet</surname>
+                        <forename>Lambert Adolphe JacquesAdolphe</forename>
+                    </persName>
+                    <birth>1796</birth>
+                    <death>1874</death>
+                    <note>belgischer Statistiker, Mathematiker und Astronom; Begründer der
+                        Sozialstatistik</note>
+                    <linkGrp>
+                        <ptr target="#1034" type="page"/>
+                        <ptr target="#1035" type="page"/>
+                        <ptr target="#774" type="page"/>
+                        <ptr target="II/15#833" type="page"/>
+                        <ptr target="II/15#1261" type="page"/>
+                    </linkGrp>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

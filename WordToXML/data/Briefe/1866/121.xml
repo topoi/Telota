@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00125" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>121</idno>Henry Morrell Acton an Friedrich Engels in Manchester. Manchester, Montag, 18. Juni 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 1/L I 1–3. Fotosign. 7329a–b</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen festem, weißem Papier im Format
+                            201&#160;×&#160;150&#160;mm. Wasserzeichen: „Joynson“. Aufdruck auf der
+                            ersten Seite oben in der Mitte, blau: „The Guardian Office. Manchester.“
+                            Acton hat die erste Seite vollständig beschrieben, die zweite zur
+                            Hälfte, die übrigen zwei Seiten sind leer. Schreibmaterial: schwarze
+                            Tinte.</p>
+                        <p>Von unbekannter Hand: Jahresangabe mit Bleistift „1867 (?)“, in „1866“
+                            korrigiert, auf der ersten Seite oben rechts.</p>
+                        <p>Die korrekte Jahresangabe stützt sich auf den Zusammenhang des Briefes
+                            mit folgenden Briefen an Engels: H. M. Acton an Engels, 19.6.1866; Marx
+                            an Engels, 20.6.1866: „Was hiesige Zeitungen betrifft, “ und Marx an
+                            Engels, 21.7.1866: „Aus Deiner letzten Zusendung ...“ ), wo von der
+                            Veröffentlichung von Engels‘ „Notes on the War in Germany“ (MEGA² I/20.
+                            S.&#160;206–223) in Zeitungen im Juni/Juli 1866 in  Zeitungen die Rede
+                            ist. </p>
+                        <p>Acton beantwortet offensichtlich einen nicht überlieferten Brief von
+                            Engels, geschrieben zwischen dem 16. und 18._Juni 1866 (siehe Erl.).</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1662</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_xxq_cbf_sy">Henry Morrell Acton</persName><placeName>Manchester</placeName><date when="1866-06-18"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:30Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Monday<lb/>June 18</dateline><salute sameAs="MBAnrede">My dear Engels,</salute></opener><p sameAs="MBTextohneEinzug">Will you let us see the first of <seg type="comment"><orig>your articles</orig><note xml:id="fea1b6e7-864d-4c78-ab8c-74c4578f26b2">
+                            <p rend="endnote text">Vermutlich hatte Engels der Redaktion der Zeitung
+                                „The Manchester Guardian“ (((zThe_Manchester Guardian))) angeboten,
+                                eine Artikelserie über den am 16.&#160;Juni 1866 ausgbrochenenen
+                                Deutschen Krieg zu verfassen. Die Artikel wurden von ihm zwischen
+                                18.&#160;Juni und 5.&#160;Juli 1866 geschrieben und erschiehen
+                                anonym: [Friedrich Engels:] Notes on the war in Germany. No.&#160;I.
+                                In: The Manchester Guardian. Nr.&#160;6190, 20.&#160;Juni 1866.
+                                S.&#160;2/3; Notes on the war in Germany. No.&#160;II. Ebenda.
+                                Nr.&#160;6194, 25.&#160;Juni 1866. S.&#160;2/3; Notes on the war.
+                                No.&#160;III. Ebenda. Nr.&#160;6197, 28.&#160;Juni 1866.
+                                S.&#160;2/3; Notes on the war. No.&#160;IV. Ebenda. Nr.&#160;6201,
+                                3.&#160;Juli 1866. S.&#160;6; Notes on the war. No.&#160;V. Ebenda.
+                                Nr.&#160;6204, 6.&#160;Juli 1866. S.&#160;2/3. (MEGA² I/20.
+                                S.&#160;206–223.) (((l[Engels, Friedrich:] Notes on the war in
+                                Germany. No.&#160;I. In: The Manchester Guardian. Nr.&#160;6190,
+                                20.&#160;Juni 1866. S.&#160;2/3; Notes on the war in Germany.
+                                No.&#160;II. Ebenda. Nr.&#160;6194, 25.&#160;Juni 1866. S.&#160;2/3;
+                                Notes on the war. No.&#160;III. Ebenda. Nr.&#160;6197, 28.&#160;Juni
+                                1866. S.&#160;2/3; Notes on the war. No.&#160;IV. Ebenda.
+                                Nr.&#160;6201, 3.&#160;Juli 1866. S.&#160;6; Notes on the war.
+                                No.&#160;V. Ebenda. Nr.&#160;6204, 6.&#160;Juli 1866. S.&#160;2/3.
+                                (MEGA² I/20. S.&#160;206–223.) ))) - Siehe auch <ref target="B00127">H. Morrell Acton an Engels,
+                                    19.6.<?oxy_comment_start author="reichhoff" timestamp="20170403T182742+0200" comment="{{Br. 123}}"?>1866<?oxy_comment_end?>.</ref></p>
+                        </note></seg> as soon as finished? I believe they will suit us exactly, and that we shall be glad to have them on commercial terms, but there is a desire here to see a specimen of mode of treatment. </p><p sameAs="MBTextmitEinzug"><pb/> Your  MSS. shall be returned without delay if not used.</p><closer sameAs="MBUnterschrift">Yours truly<lb/>H.&#160;M. Acton.</closer><p sameAs="MBAdresse">F. Engels Esq. </p></div></body></text></TEI>

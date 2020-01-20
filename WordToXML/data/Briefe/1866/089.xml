@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00092" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>89</idno>Wilhelm Liebknecht an Karl Marx in London. Leipzig, Samstag,
+                    14. April 1866</title>
+            </titleStmt>
+            <editionStmt>
+                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">f. 21 op. 1 d. 188/2</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            285&#160;×&#160;224&#160;mm. Liebknecht hat alle vier Seiten vollständig
+                            beschrieben, die letzte Passage steht auf der ersten Seite oben links.
+                            Schreibmaterial: schwarze Tinte.</p>
+                        <p>Die Jahresangabe 1866 stützt sich auf die Tatsache, dass Liebknecht hier
+                            offensichtlich Marx' Brief vom 6.&#160;April 1866 (Marx an W.
+                            Liebknecht, 6.4.1866) beantwortet.</p>
+                        <p>Die Beilage („... encloses a letter.“) ist nicht überliefert. Siehe
+                            Erl.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000002822">Wilhelm Liebknecht</persName>
+                    <placeName>Leipzig</placeName>
+                    <date when="1866-04-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:39:10Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener><dateline sameAs="MBDatumszeile"><pb/> 10 Bayrische
+                        Str.<lb/>Leipzig.<lb/>Apr. 14, 65.</dateline><salute sameAs="MBAnrede">Dear
+                        Williams!</salute></opener>
+                <p sameAs="MBTextohneEinzug">So you are all right again. Well, you had given us a
+                    tremendous fright; I really thought you had resolved on doing your enemies the
+                    only kindness, they have ever to expect from you, viz removing from this vale of
+                    sorrow.—</p>
+                <p sameAs="MBTextmitEinzug">By the bye, <hi rendition="#u">mind </hi><seg type="comment"><orig><hi rendition="#u">what </hi><persName key="pdrPo.001.004.000002616"><expan resp="editor" sameAs="dottet_underline"><hi rendition="#u">Kugelm<ex>ann</ex></hi></expan></persName><hi rendition="#u"> wrote you</hi></orig><note xml:id="b7580e42-860c-4abb-859f-f9adf63c5329">Siehe <ref target="B00079">L. Kugelmann an Marx,
+                                30.3.<?oxy_comment_start author="reichhoff" timestamp="20170320T165754+0100" comment="{{Br. 76}}"?>1866<?oxy_comment_end?></ref>.</note></seg><hi rendition="#u"> in his professional capacity</hi>. He is an <hi rendition="#u">excellent</hi> physician.</p>
+                <p sameAs="MBTextmitEinzug">Now about the Int. A. <seg type="comment"><orig>The six
+                            cards</orig><note xml:id="ecc43d9e-caf6-4faf-b25c-45d27eadbd3c">
+                            International Working Men’s Association. Member’s Annual Subscription
+                            Card [for 1866]. [London 1865]. (((lInternational Working Men’s
+                            Association. Member’s Annual Subscription Card [for 1866]. [London
+                            1865]))) Marx übersandte die Mitgliedskarten der IAA an Liebknecht mit
+                            seinem Brief vom 15.&#160;Januar 1866. Siehe <ref target="B00011/#start_jml_clq_pz">Marx an W. Liebknecht,
+                                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170418T135001+0200" comment="{{Br. 10.17–25}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00011/#cb864592-8d8a-4a93-b073-8383b8d607bc">Erl. zu
+                                Marx an W. Liebknecht,
+                            15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T112550+0200" comment="{{Erl._10c}}."?></note><?oxy_comment_end?></seg>
+                    are disposed of; for three I have not yet got the money; that for the other
+                    three I should send you now, if I had the amount ready. (you will get the
+                        2&#160;<expan resp="editor" sameAs="dottet_underline">r<ex>eichstaler</ex></expan> with one of my next letters). The misfortune
+                    is, I am so overwhelmed with work (business-, domestic etc.) that I cannot well
+                    attend to those small matters, else I might have squeezed all the money out and
+                    disposed of many more cards. However I should like some more, as I have several
+                    people willing to join. The members here are all more or less influential men.
+                    In a short time I hope to have regular <hi rendition="#u">assistance</hi> and
+                    then better <hi rendition="#u">outward</hi> results will be shown. I say
+                    “outward”—for in <hi rendition="#u">reality</hi> things have progressed better,
+                    than could be expected. The workingmen of this town (and the <hi rendition="#u">same</hi> holds good for a great part of Germany); but yesterday the
+                    unthinking tools (and fools) of the “liberal” middle class, are now fighting
+                    under their own banner; of course there is much to be desired yet, still the
+                    separation of classes is taking place, the old fusion and confusion (<persName key="pdrPo.001.004.000004342">Schulze's</persName> “Urbrei”) rapidly giving
+                    way to a clearer view of men and things. <pb/> I am accused of having thrown the
+                    torch of discord in this “democratic” fools' paradise called Leipzig, where the
+                    workmen-wolves were grazing peacefully and “kemiedlig” (guess what it means) at
+                    the side of the capitalist-lambs “democrats” good and true all of them. Query?
+                    Who are the wolves and who the lambs? <seg type="comment"><orig>Omne simile
+                            claudicat.</orig><note xml:id="c2566801-32d2-46b9-947a-af802042121d">Jedes Gleichnis hinkt (lat.).</note></seg>) Unfortunately the pious
+                    scoundrels, whose bile I have stirred up, put something of a <hi rendition="#u">denunciatory</hi> character into their attacks, and I must take great care,
+                    if I want to avoid <seg type="comment"><orig>a repetition of my last Berlin
+                            experience.</orig><note xml:id="b0e31f5c-ddba-4f4a-8af4-294f0ae081ce">Zur Ausweisung Liebknechts aus Berlin siehe <ref target="B00011/#a4016170-75c2-4918-b14f-5981f8456429">Erl. zu Marx
+                                an W. Liebknecht,
+                            15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T112929+0200" comment="{{Erl. 10e}}."?></note><?oxy_comment_end?></seg>
+                    In spite of the hatred these “Saechser” wear to <persName key="pdrPo.001.004.000000441">Bismarck</persName>, they would take the
+                    slightest hint of his police, to send me into some other Deutsches Vaterland.
+                    And especially now they are so terribly afraid of the Pickelhauben.</p>
+                <p sameAs="MBTextmitEinzug">Now I come to the principal drawback of the I.&#160;A.
+                    movement in Germany—<seg type="comment"><orig>the necessity of confining
+                            ourselves to individual memberships. The “Vereinsgesetze” have lately
+                            been carried out with <hi rendition="#u">great</hi> severity and
+                            strictness;</orig><note xml:id="e55778cd-6b21-4a1e-8ec4-f581fbec95e0">Siehe <ref target="B00019/#be344359-52ce-4f90-9a9f-630c0da8624f">Erl.
+                                zu W. Liebknecht an Marx,
+                            21.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T113453+0200" comment="{{Erl. 18c}}."?></note><?oxy_comment_end?></seg>
+                    here in Saxony the “Arbeiterbildungsvereine” were offered (a few months ago) the
+                    “favour” of being allowed to form so called “Gauverbände”, that is, to establish
+                    a common organisation and correspondence; but to the “favour” the condition was
+                    added, that the societies should not have to meddle with politics, social
+                    questions etc. The delegates assembled to examine the “present” had sense and
+                    honour enough to decline the gift; but the consequence was that all the
+                    “Vereine” have since been put under a pretty close control. Under these
+                    circumstances it is quite impossible <pb/> to found public sections of the
+                    I.&#160;A., and to make any considerable Propaganda under its <hi rendition="#u">firm.</hi> I have lectured about it, everybody is for it, but people don't
+                    see of what <hi rendition="#u">practical</hi> use it is, to join a society, that
+                    for them only exists as an ungraspable “idea”. The only way, to make practical
+                        <hi rendition="#u">direct</hi> propaganda for the I.&#160;A. would be the
+                    establishment of a German Press organ, <persName key="pdrPo.001.004.000000317">Becker's</persName>
+                    <bibl sameAs="zzDer Vorbote">Vorbote</bibl> not being what is wanted. However, I
+                    won't dream of such things. Of course, I shall be able, or rather <hi rendition="#u">we</hi> shall be able to collect a small knot of workmen
+                    round the I.&#160;A.&#160;Banner, but on the whole I must confine myself to work
+                    for the <hi rendition="#u">principles</hi>; and that I have done successfully
+                    until now. I <hi rendition="#u">must</hi> use the existing societies, and before
+                    long I hope to have a great many of them at our disposition.</p>
+                <p sameAs="MBTextmitEinzug">Oh! if we but had a review or a weekly paper, however
+                    small! And, as this cannot be, if it were but possible that, <hi rendition="#u">besides</hi>
+                    <seg type="comment"><orig>your Economy,</orig><note xml:id="a53c10d2-6eda-436e-9f8b-487d35210f8e">Gemeint ist hier Karl
+                            Marx: Das Kapital; siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx
+                                an J. Ph. Becker, zwischen 9. und 15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T113719+0200" comment="{{Erl. 6b}}."?>
+                            <?oxy_comment_end?>(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg>
+                    some smaller works could be republished, before all <seg type="comment"><orig><hi rendition="#u">Engels</hi>' Lage der arbeitenden
+                            etc.</orig><note xml:id="d6938e5f-6cd9-4a5f-9683-92a7e45f81c3">Friedrich
+                            Engels: Die Lage der arbeitenden Klasse in England. Nach eigner
+                            Anschauung und authentischen Quellen. Leipzig 1845.
+                            (((lEngels,Friedrich:Die_Lage der arbeitenden Klasse in England. Leipzig
+                            1845))) Liebknecht hatte schon mehrfach die Notwendigkeit angesprochen,
+                            diese Arbeit neu herauszugeben. Siehe, z.B. MEGA²&#160;III/13.
+                            Br.&#160;200.61–64, Br._210.59–61, Br._221.5–7, Br._260.26–27,
+                            Br._299.8–9 und Br._336.21–23. Siehe auch <ref target="B00036/#nv2g_cfy_5y">Erl. zu Marx an Engels,
+                                10.2.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T130244+0200" comment="{{Erl. 33d}}."?></note><?oxy_comment_end?></seg>
+                    in a new Edition. That would be a splendid auxiliary to your work, something
+                    like a practical <seg type="comment"><orig>demonstratio ad oculos.</orig><note xml:id="f0343b72-b3dd-4301-8ff2-32ab89e49fb8">Beweis durch Augenschein
+                            (lat.).</note></seg></p>
+                <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_wqg_zxw_mz"/>I
+                    told you already,—and you must neither forget nor neglect it—that I am on good
+                    terms with <seg type="comment"><orig>the South- and Middle german
+                            “Volkspartei”,</orig><note xml:id="nd2k_cfp_dz">Die Demokratische
+                            Volkspartei (1863–1866).</note></seg> that their organ, <seg type="comment"><orig><persName key="pdrPo.001.004.000001300">Eckard's</persName> “Deutsches <bibl sameAs="zzDeutsches Wochenblatt">Wochenblatt”</bibl></orig><note xml:id="nktz_pfp_dz">Zum „Deutschen Wochenblatt“ siehe auch Georg
+                            Eckert: Das „Deutsche Wochenblatt“ und die Internationale
+                            Arbeiter-Assoziation. In: Archiv für Sozialgeschichte. Bd.&#160;4.
+                            Hannover 1964. S.&#160;579–598. (((lEckert,Georg:_Das „Deutsche
+                            Wochenblatt“ und die Internationale Arbeiter-Assoziation. In: Archiv für
+                            Sozialgeschichte. Bd.&#160;4. Hannover 1964.
+                        S.&#160;579–598)))</note></seg>
+                    <seg type="comment"><orig>is unreservedly at our service,</orig><note xml:id="nhl1_kgp_dz">Siehe <ref target="B00016/#start_udy_llq_pz">W.
+                                Liebknecht an Marx,
+                                18.1.<?oxy_comment_start author="reichhoff" timestamp="20170418T135244+0200" comment="{{Br. 15.46-48}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00016/#e418f926-2f84-48cf-8833-4dfe162019c0">Erl. zu
+                                W. Liebknecht an Marx, 18.1.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T130653+0200" comment="{{Erl. _15n}} "?>
+                            <?oxy_comment_end?>und <ref target="B00016/#nqvl_jws_gy">Erl. zu W.
+                                Liebknecht an Marx,
+                            18.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T130802+0200" comment="{{15p}}."?></note><?oxy_comment_end?></seg>
+                    and that I have some other papers, that will take anything coming from us.
+                        <anchor type="verweisziel" xml:id="stop_wqg_zxw_mz"/></p>
+                <p sameAs="MBTextmitEinzug"><pb/> See, that notices announcing the appearance of the
+                    Economy are printed, and published in time; and as soon as the work is out,
+                    Engels ought to write a Review&#160;...</p>
+                <p sameAs="MBTextmitEinzug">You will have perceived that our <seg type="comment"><orig>Fortschrittler</orig><note xml:id="f2c48adb-68f5-4e55-a334-c67ab32c6107">Mitglieder der Deutschen
+                            Fortschrittspartei (1861-1884).</note></seg> are preparing to turn
+                        <persName key="pdrPo.001.004.000000441">Bismarck's</persName> Parliament
+                    into a pretext, to run over to him. If he got <persName key="pdrPo.001.004.000003392">Bonaparte's</persName> help for a war against
+                    Austria, or rather if he was allowed to join (as an active or passive ally)
+                    Bonaparte in a war against Austria, the whole Fortschrittsparty would be
+                    Bonaparto-Bismarckisch. But I don't think Bonaparte will get out of <seg type="comment"><orig>his <hi rendition="#u">Mexican</hi>
+                        scrape</orig><note xml:id="f55b9843-4684-4d80-938c-88434bcb888e">Die französische
+                            Intervention in Mexiko 1861-1867.</note></seg> in time, for that last
+                    convention is only a miserable humbug.—As a reminiscence of the late War panic I
+                    will yet tell you, that I <hi rendition="#u">never</hi> witnessed a more
+                    wretched spectacle than those “liberal” (even “democratic”) Philisters cowering
+                    down like a flock of sheep, and with eyes shut waiting for the blow to fall down
+                    on their posteriors. And we “the nation of thinkers”! <seg type="comment"><orig>Lucus a non lucendo.</orig><note xml:id="ed372dcf-ed45-49ff-9e35-50be223855ad">Sprichwörtlich (lat.) für
+                            die Bezeichnung einer falschen Etymologie, die Herleitung eines Wortes
+                            aus seinem Gegenteil – Der Hain wird lucus genannt, weil es darin nicht
+                            hell ist (non lucet). Nach Marcus Fabius Quintilianus: De institutione
+                            oratoria. I, 6, 34. (((lQuintilianus:De_institutione oratoria)))
+                        </note></seg></p>
+                <p sameAs="MBTextmitEinzug">Apropos German affairs are now rather interesting, would
+                    it not be possible for the “<bibl sameAs="zzThe Commonwealth">Commonwealth”</bibl> to take (and <hi rendition="#u">pay</hi> moderately) a
+                    weekly letter from Germany? I am really at my wit's end; all my papers pay badly
+                    and irregularly, and those constant money-cares make me half ill. I have about
+                        500&#160;<expan resp="editor" sameAs="dottet_underline">r<ex>eichstaler</ex></expan> a year <hi rendition="#u">certain</hi>, and
+                    want about two hundred more—by God a modest wish!—then I might manage to <hi rendition="#u">live</hi>—and to <hi rendition="#u">work</hi> ten times
+                    better than at present. You must know, that <hi rendition="#u">all</hi> German
+                    papers, that pay well, either belong to the “Reaction” or to the
+                    “Fortschrittler” and so I am sitting between two chairs. It is true, <persName key="pdrPo.001.004.000002471">Keil</persName>, <persName key="pdrPo.001.004.000000618">Brockhaus</persName>
+                    etc. asked me to write for them, but somehow I found it impossible.</p>
+                <p sameAs="MBTextmitEinzug">Good bye. Write soon; mind your health; my love to all.
+                        <seg type="comment"><orig>My <persName key="pdrPo.001.004.000002819">wife</persName>
+                            encloses a letter.</orig><note xml:id="a9271e91-1c17-44dd-87e2-06b3d171d56e">Der Brief von <persName key="pdrPo.001.004.000002819">Ernestine Liebknecht</persName>,
+                            vermutlich an <persName key="pdrPo.001.004.000003075">Jenny
+                                Marx</persName> und geschrieben spätestens am 14.&#160;April 1866,
+                            konnte nicht ermittelt werden.</note></seg></p>
+                <closer sameAs="MBUnterschrift">Yours truly<lb/>J. Miller. </closer>
+                <p>/ Dont' forget to send the papers regularly.— I am a Pechvogel; <persName key="pdrPo.001.004.000011735">Weiss</persName> has been forced out of <seg type="comment"><orig>the Berlin “Reform”</orig><note xml:id="b0dd3ba5-e7b5-4436-b924-9eec021d4e2c">„Berliner Reform“.
+                            (((zBerliner_Reform)))
+                        </note></seg><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><index indexName="XE">
+                        <term>zzBerliner Reform</term>
+                    </index><?oxy_custom_end?> and <seg type="comment"><persName key="ed_nfr_bbv_hz"><persName key="pdrPo.001.004.000003178"><orig>Toby</orig></persName></persName><note xml:id="nerq_kjp_dz">Hund aus dem traditionellen englischen Puppenspiel „Punch and Judy“,
+                            das dem deutschen Kaspertheater ähnlich ist. Von Marx, Engels und ihren
+                            Freunden wurde Toby als Spottname für <persName key="pdrPo.001.004.000003178">Eduard Meyen</persName> benutzt. Der
+                            demokatische Journalist Eduard Meyen, der im Hamburger „Freischütz“
+                            (((z))) für <persName key="pdrPo.001.004.000004961">Karl Vogt</persName>
+                            Patei ergriffen hatte, war von Marx in seiner Streitschrift „Herr Vogt“
+                            mit dem Hund Toby auf dem Titelblatt des humoristischen Wochenblatts
+                            „Punch, or the London Charivari“ (((z))) verglichen worden (siehe
+                            MEGA²&#160;I/18. S.253.4–255.40).</note></seg> has wormed himself in
+                    again. W. had just invited me, to write for the paper!— /</p>
+            </div>
+        </body>
+    </text>
+</TEI>

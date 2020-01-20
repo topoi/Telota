@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="mega_personenregister" xml:lang="de" xml:id="personX">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Gehört zur ediarum-App für eXist.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Hybrid: consult project description and document history for details.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="pdrPo.001.004.000011777">
+                    <idno type="mega">1030498</idno>
+                    <persName type="reg">
+                        <name>Xenophon</name>
+                    </persName>
+                    <note>griechischer Geschichtsschreiber und Schriftsteller</note>
+                    <linkGrp>
+                        <ptr target="II/15#905" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005214">
+                    <idno type="mega">1030501</idno>
+                    <persName type="reg">
+                        <name>Xianfeng</name>
+                    </persName>
+                    <birth>1831</birth>
+                    <death>1861</death>
+                    <note>Kaiser von China (seit 1850)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#44" type="page"/>
+                        <ptr target="IV/12#1105" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011778">
+                    <idno type="mega">1030503</idno>
+                    <persName type="reg">
+                        <name>Ximeno&#160;I</name>
+                    </persName>
+                    <note>spanischer Adliger; Herrscher von Navarra (seit 851)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#748" type="page"/>
+                    </linkGrp>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

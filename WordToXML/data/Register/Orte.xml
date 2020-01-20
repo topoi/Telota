@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="ah_register" xml:lang="de" xml:id="prov1154">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Register</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Gehört zur ediarum-App für eXist.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Hybrid: consult project description and document history for details.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPlace>
+                <place xml:id="ed_dbh_5mv_vy">
+                    <placeName type="reg">Winsford</placeName>
+                </place>
+                <place xml:id="ed_iqv_vnp_yx">
+                    <idno type="uri">http://www.geonames.org/2831580</idno>
+                    <placeName type="reg">Solingen</placeName>
+                </place>
+                <place xml:id="ed_zvg_2fj_wx">
+                    <idno type="uri">http://www.geonames.org/2644210</idno>
+                    <placeName type="reg">Liverpool</placeName>
+                </place>
+                <place xml:id="ed_v55_32j_wx">
+                    <placeName type="reg">Engelskirchen</placeName>
+                </place>
+                <place xml:id="ed_r1w_hgj_wx">
+                    <idno type="uri">http://www.geonames.org/2761369</idno>
+                    <placeName type="reg">Wien</placeName>
+                </place>
+                <place xml:id="ed_cn4_12j_wx">
+                    <idno type="uri">http://www.geonames.org/2988507</idno>
+                    <placeName type="reg">Paris</placeName>
+                </place>
+                <place xml:id="ed_p3t_jpj_wx">
+                    <idno type="uri">http://www.geonames.org/2660646</idno>
+                    <placeName type="reg">Genf</placeName>
+                </place>
+                <place xml:id="ed_rnh_sdj_wx">
+                    <placeName type="reg">Mainz</placeName>
+                </place>
+                <place xml:id="ed_wz2_shs_qx">
+                    <idno type="uri">http://www.geonames.org/2643743</idno>
+                    <placeName type="reg">London</placeName>
+                </place>
+                <place xml:id="ed_rdd_5jt_qx">
+                    <idno type="uri">http://www.geonames.org/2879139</idno>
+                    <placeName type="reg">Leipzig</placeName>
+                </place>
+                <place xml:id="ed_ubz_2cl_3y">
+                    <placeName type="reg">Manchester</placeName>
+                </place>
+            </listPlace>
+        </body>
+    </text>
+</TEI>

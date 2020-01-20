@@ -1,0 +1,54 @@
+/* ################ TAGESKALENDER ################### */
+
+div.tageskalender {
+    position: relative;
+}
+
+div.tageskalenderLinks div.boxInner {
+    padding: 2.5em 1em 1em 1em;
+}
+
+div#content div.tageskalenderLinks p {
+    margin: 0;
+}
+
+p.normDatum {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 0.3em 0.5em 0.3em 0.5em;
+    background-color: silver;
+    font-family: PTSans;
+}
+
+p.normDatum.ausgewaehlterTag {
+    background-color: #AC4D00;
+    color: white;
+}
+
+p.normDatum a {
+    content: " ";
+    display: block;
+    height: 50px;
+    margin-top: -50px;
+    visibility: hidden;
+}
+
+div.pagebreak {
+    position: relative;
+}
+
+div#faksimile {
+    position: absolute;
+    right: 0;
+    margin-top: 1.5em;
+}
+
+div#faksimile p {
+    margin: 0;
+    padding: 0.5em;
+    background-color: gray;
+    color: white;
+    font-family: PTSans;
+    font-size: 0.8em;
+}

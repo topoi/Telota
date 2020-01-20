@@ -1,0 +1,30 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00127" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>123</idno>Henry Morrell Acton an Friedrich Engels in Manchester. Manchester, Dienstag, 19. Juni 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 2/L I 1–2 Fotosign. 7331.</idno></idno></msIdentifier><physDesc>
+                                                <p>Der Brief besteht aus einem Blatt festem, weißem
+                                                  Papier im Format 127&#160;×&#160;204&#160;mm.
+                                                  Aufdruck der Redaktion der „Manchester Guardian“
+                                                  (siehe S.&#160;000).<?oxy_comment_start author="lindenberg" timestamp="20170421T181239+0200" comment="Aufdruck der Redaktion der „Manchester Guardian“ (siehe S. 000[Br. 121 Zb])."?>
+                                                  <?oxy_comment_end?>Acton hat die erste Seite
+                                                  vollständig beschrieben; die zweite ist leer.
+                                                  Schreibmaterial: schwarze Tinte.</p>
+                                                <p>Von unbekannter Hand: auf der ersten Seite oben
+                                                  rechts der Vermerk mit Bleistift „1867 (?)“
+                                                  ausradiert und in „1866“ korrigiert.</p>
+                                                <p>Die Jahresangabe stützt sich auf die Erwähnung
+                                                  des Artikels von Engels „Notes on the War in
+                                                  Germany“ (MEGA² I/20. S.&#160;206–223),
+                                                  veröffentlich in der Zeitung „The Manchester
+                                                  Guardian“ im Juni–Juli 1866 (siehe Erl.&#160;121a
+                                                  und
+                                                  S.&#160;000).<?oxy_comment_start author="lindenberg" timestamp="20170421T181305+0200" comment="(siehe Erl. 121a und S. 000[Br. 121 Zb])."?></p>
+                                                <?oxy_comment_end?>
+                                        </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1663</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_xxq_cbf_sy">Henry Morrell Acton</persName><placeName>Manchester</placeName><date when="1866-06-19"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:32Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Tuesday<lb/>June 19</dateline><salute sameAs="MBAnrede">My dear Engels.</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Your first article</orig><note xml:id="de360e19-19f8-4ff7-bacf-2006b5615e56">[Friedrich Engels:] Notes on the War in
+              Germany. No.&#160;I. In: The Manchester Guardian. Nr.&#160;6190, 20.&#160;Juni 1866.
+              S.&#160;2/3. Siehe auch <ref target="B00125">H. Morrell Acton an Engels,
+                18.6.<?oxy_comment_start author="reichhoff" timestamp="20170404T145856+0200" comment="{{Br. 121}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00125/#fea1b6e7-864d-4c78-ab8c-74c4578f26b2">Erl. zu H. Morrell Acton
+                an Engels,
+                18.6.<?oxy_comment_start author="reichhoff" timestamp="20170512T152125+0200" comment="{{Erl._121a}}"?>1866<?oxy_comment_end?>.</ref>
+              (((l[Engels,Friedrich:] Notes on the War in Germany. No.&#160;I. In: The Manchester
+              Guardian. Nr.&#160;6190, 20.&#160;Juni 1866. S.&#160;2/3))) </note></seg> will appear
+          to morrow. We leave to your judgment for the present to determine how often they should
+          appear, as you must necessarily be guided by events.</p><closer sameAs="MBUnterschrift">Yours truly<lb/>H.&#160;M. Acton</closer><p sameAs="MBAdresse">F. Engels Esq. </p></div></body></text></TEI>

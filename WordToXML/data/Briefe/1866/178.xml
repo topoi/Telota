@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00183" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>178</idno>Karl Marx an Louis Kugelmann in Hannover. London, Dienstag, 9. Oktober 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">C 333/C 92</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format 271&#160;×&#160;217&#160;mm. Marx hat die erste, dritte und vierte Seite vollständig beschrieben, die zweite ist leer. Schreibmaterial: schwarze Tinte.</p><p>Von Kugelmanns Hand: Vermerk mit Tinte „A. 11/10 Cop.“ auf der zweiten Seite oben in der Mitte.</p><p>Von unbekannter Hand: auf der ersten Seite oben rechts die Monatsangabe „Nov.“ mit dem Blaustift in „October“ korrigiert.</p><p>Der Brief ist irrtümlich mit dem „9&#160;Nov. 1866“ datiert, die Datierung mit dem 9.&#160;Oktober 1866 stützt sich auf Kugelmanns Antwort am 11.&#160;Oktober 1866 (Br.&#160;179).</p><p>Datierung der Erstveröffentlichung: 9.&#160;Oktober 1866.</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2000</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Briefe von Karl Marx an Dr.&#160;L.&#160;Kugelmann (1902). S.&#160;62/63.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-10-09"/></correspAction><correspAction type="received"><persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName><placeName>Hannover</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:40:04Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> 9 <choice>
+                            <sic>Nov.</sic>
+                            <corr cert="high">Oktober</corr>
+                        </choice> 1866.<lb/>1, Modena Villas, Maitland Park,<lb/>Haverstock Hill,
+                        London.</dateline>
+                    <salute sameAs="MBAnrede">Lieber Freund,</salute>
+                </opener>
+                <anchor type="verweisziel" xml:id="start_q4k_gv3_5z"/>
+                <p sameAs="MBTextohneEinzug">Ich hoffe, ich muß nicht aus Ihrem längeren Schweigen
+                    schliessen, daß <seg type="comment"><orig>mein <add>letzter</add>
+                            Brief</orig><note xml:id="nk3h_f3s_3z"><ref target="B00163">Marx an L.
+                                <?oxy_comment_start author="reichhoff" timestamp="20170406T130541+0200" comment="{Br. 159}}"?>Kugelmann<?oxy_comment_end?>,
+                                23.8.1866</ref>. Der Brief erreichte Hannover am 27. November 1866
+                            und wurde am 1. Dezember Kugelmann nach Freiburg nachgesandt. <persName key="pdrPo.001.004.000002616">Kugelmann</persName> erhielt den Brief
+                            erst kurz vor dem 15. Februar 1867. Siehe {{Br._159.ZB}}, <ref target="B00184/#start_pxr_g53_5z">L. Kugelmann an Marx,
+                                11.10.<?oxy_comment_start author="reichhoff" timestamp="20170505T093841+0200" comment="{{Br. 179.3–24}}"?>1866<?oxy_comment_end?></ref>
+                            und Kugelmann an Marx, 15. Februar 1867 (RGASPI, Sign._f. 1, op. 5, d.
+                            1688). (((lKugelmann,Louis_an Marx, 15. Februar 1867 (RGASPI, Sign._f.
+                            1, op. 5, d. 1688).)))</note></seg> Sie in irgend einer <del>
+                            Bez<ex>iehung</ex>
+                        <sic ana="#break-off"/></del> Weise beleidigt hat.<anchor type="verweisziel" xml:id="stop_q4k_gv3_5z"/> Die Sache steht grad umgekehrt. Jeder Mensch hat
+                    in verzweifelten Lagen einmal das Bedürfniß sich Luft zu machen. Er thut es aber
+                    nur mit Personen, denen er besondres, ausnahmsweises Vertrauen schenkt. Ich
+                    versichre Ihnen, daß meine bürgerlichen Ungelegenheiten mich viel mehr
+                    ängstigen, weil sie den Abschluß <seg type="comment"><orig>meiner
+                            Arbeit</orig><note xml:id="ef2adbb3-a2c2-4705-95c0-fb6c104b66d5">Karl
+                            Marx: Das Kapital. Siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx
+                                an Becker, zwischen 9. und
+                                15.1.<?oxy_comment_start author="lindenberg" timestamp="20170508T144524+0200" comment="{{Erl._6b}}"?>1866<?oxy_comment_end?>.</ref>
+                            (((lMarx,Karl:DasKapital.Bd.1.Hamburg 1867))) </note></seg> hindern als
+                    aus irgend persönlichen oder Familiengründen. Ich könnte Morgen der Sache ein
+                    Ende machen, wenn ich Morgen ein praktisches Geschäft treiben wollte, statt für
+                    die Sache zu arbeiten. Ebenso wenig, hoffe ich, genirt Sie der Umstand, daß <hi rendition="#u">Sie</hi> nicht dem Mißstand abhelfen können. Es wäre das ein
+                    ganz grundloser Grund.</p>
+                <p sameAs="MBTextmitEinzug">Und nun zu einigem Allgemeinen.</p>
+                <p sameAs="MBTextmitEinzug">Ich hatte grosse Befürchtungen <seg type="comment"><orig>für den ersten Congreß zu Genf.</orig><note xml:id="cf53be31-9a8d-4489-a60f-b57ec6b135e8">Der erste Kongress der IAA
+                            in Genf (3.–8.&#160;September 1866). Siehe <ref target="B00004/#nrk1_sfc_3y">Erl. zu Marx an Engels, 5.1.1866 </ref><?oxy_comment_start author="lindenberg" timestamp="20170508T145356+0200" comment="{{Erl. 3d}}"?>
+                            <?oxy_comment_end?>und <ref target="B00163/#npsb_tbw_hz">Erl. zu Marx an
+                                Kugelmann, 23.8.1866</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170508T145902+0200" comment="{{Erl._159d}}"?>.<?oxy_comment_end?></note></seg>
+                    Er ist aber im Ganzen über meine Erwartung gut ausgefallen. Die Wirkung in Fkch,
+                    Engld u. Amerika war unverhofft. <seg type="comment"><orig>Ich konnte u. wollte
+                            nicht hingehn, schrieb aber das Programm der Londoner
+                            Delegirten.</orig><note xml:id="b26d0ef9-cefe-4155-a7b6-ee309c4f4777">Karl Marx: Instructions for the Delegates of the Provisional General
+                            Council. The different questions. In: MEGA²&#160;I/20. S.&#160;225–235).
+                            (((lMarx,Karl:Instructions for the Delegates of the Provisional General
+                            Council. The different questions. In: MEGA²&#160;I/20. S._225–235)))
+                        </note></seg> Ich beschränkte es absichtlich auf solche Punkte, die
+                    unmittelbare Verständigung u. Zusammenwirken der Arbeiter erlauben u. <subst>
+                        <del>die</del>
+                        <add>den</add>
+                    </subst> Bedürfnissen des Klassenkampfs u. der Organisationen der Arbeiter zur
+                    Klasse unmittelbar Nahrung u. Anstoß geben.<anchor type="verweisziel" xml:id="start_nsc_gy4_rz"/>
+                    <seg type="comment"><orig>Die Herrn Pariser hatten die Köpfe voll mit den
+                            leersten Proudhonschen Phrasen.</orig><note xml:id="add97136-3b01-4fc7-94df-a5466b9c9ab4">Siehe <ref target="B00170">J. G. Eccarius an
+                                <?oxy_comment_start author="reichhoff" timestamp="20170406T131143+0200" comment="{Br. 166}}."?>Marx<?oxy_comment_end?>,
+                                5. und 6.9.1866.</ref></note></seg> Sie schwatzen von Wissenschaft
+                    u. wissen nichts. Sie verschmähn alle <hi rendition="#u">revolutionäre</hi>,
+                    i.e. aus dem Klassenkampf <pb/> selbst entspringende Action, alle concentrirte,
+                    gesellschaftliche, also auch durch <hi rendition="#u">politische Mittel</hi>
+                    (wie z.&#160;B. <hi rendition="#u">gesetzliche</hi> Abkürzung des Arbeitstags)
+                    durchsetzbare Bewegung; unter dem <hi rendition="#u">Vorwand der Freiheit</hi>
+                    und des Anti-<expan resp="editor" sameAs="dottet_underline">Gouvern<ex>emen</ex>talismus</expan>, oder Anti-Autoritäts-Individualismus
+                    – diese Herrn, die so ruhig <seg type="comment"><orig>seit 16&#160;<expan resp="editor" sameAs="dottet_underline">J<ex>ahren</ex></expan> den
+                            elendesten Despotismus ertragen haben und ertragen!</orig><note xml:id="npmm_w3s_3z">Gemeint ist die Regierung <persName key="pdrPo.001.004.000003392">Napoléons III</persName>.
+                        </note></seg> – predigen sie in der That die ordinäre bürgerliche
+                    Wirthschaft, nur Proudhonisch idealisirt! <persName key="pdrPo.001.004.000003833">Proudhon</persName> hat enormes Unheil
+                    angerichtet. Erst ergriff u. bestach seine Scheinkritik u. sein Scheingegensatz
+                    gegen die Utopisten [[er selbst ist nur ein spießbürgerlicher Utopist, während
+                    in den Utopien eines <persName key="pdrPo.001.004.000001600">Fourier</persName>,
+                        <persName key="pdrPo.001.004.000003585">Owen</persName> u.s.w. die Ahnung u.
+                    der phantastische Ausdruck einer neuen Welt]] die „jeunesse brillante“, die
+                    Studenten, dann die Arbeiter, besonders die Pariser, die als Luxusarbeiter, ohne
+                    es zu wissen, „sehre“ dem alten Dreck angehören. Unwissend, eitel, anmassend,
+                    schwatzsüchtig, emphatisch aufgeblasen, waren sie auf dem Punkt alles zu
+                        verderben,<anchor type="verweisziel" xml:id="stop_nsc_gy4_rz"/>
+                    <seg type="comment"><orig>da sie in <del rendition="#s">Ma<ex>ssen</ex></del>
+                            Zahlen zum Congreß eilten, die in gar keinem Verhältniß zur Zahl ihrer
+                            Mitglieder. <del rendition="#s">steht.<sic ana="#break-off"/></del></orig><note xml:id="f42f88f5-2197-43a8-b2ec-dbc58a0e433e">Siehe
+                            Association_lnternationale des Travailleurs. Compte rendu du Congrès de
+                            Genève (1866). In: MEGA²&#160;I/20. S.&#160;651.
+                            ((((lAssociation_lnternationale des Travailleurs. Compte rendu du
+                            Congrès de Genève (1866). In: MEGA²&#160;I/20. S.&#160;649–679)))
+                        </note></seg>
+                    <seg type="comment"><orig>In dem Report werde ich ihnen, unter der Hand, auf die
+                            Hände hauen.</orig><note xml:id="daa1a973-03e6-4d86-84c5-ca30508efd6b">Zu Marx’ Beteiligung an der Vorbereitung des Kongressberichtes siehe
+                            MEGA² I/20. S.&#160;1751–1755 und Ossobowa: Über das Schicksal der
+                            Dokumente des Genfer Kongresses. S.&#160;270–274. (((lOssobowa,Inna:
+                            Über das Schicksal der Dokumente des Genfer Kongresses der Ersten
+                            Internationale. In:MEJB. Berlin. Bd. 6. 1983. S. 265–282))) (((lMEGA²
+                            I/20))) </note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Grosse Freude hat mir der
+                            gleichzeitige amerik. Arbeitercongreß zu Baltimore bereitet.
+                            Organisation zum Kampf gegen das Kapital war hier das Losungswort, u.
+                            merkwürdiger Weise wurden die meisten von mir <add place="superlinear">für Genf</add> aufgestellten Forderungen dort ebenfalls von dem
+                            richtigen Instinkt der Arbeiter aufgestellt.</orig><note xml:id="cfde7766-70be-4a06-aba3-eaac4ce9f8f5">Der erste gesamtnationale
+                            Arbeiterkongress der USA in Baltimore (20.–24.&#160;August 1866). Auf
+                            dem Kongress wurde die National Labor Union gegründet, die erste
+                            nationale gewerkschaftliche Dachorganisation der USA Die Resolutionen
+                            des Kongresses wurden ins Französische übersetzt und als Anhang dem
+                            Compte rendu du Congrès de Genève (1866) beigegeben. (Siehe Resolutions
+                            du Congres Ouvrier Américain de 1866. In: MEGA²&#160;I/20.
+                            S.&#160;677–679) veröffentlicht. Den
+                            <?oxy_comment_start author="roth" timestamp="20170505T182427+0200" comment="Für HS: Vielleicht könnte man folgenden Hinweis auch aufnehmen? Marx verwies darauf auch am 12. Dez. 1867 in: Plagiarismus. Zuschrift an die Zukunft. (MEGA2 I/21. S. 37.)"?>Beschluss
+                            von Baltimore<?oxy_comment_end?> über den Achtstundentag fügte Marx
+                            zusammen mit dem entsprechenden Beschluss des Genfer Kongresses
+                            auszugsweise auch in den Abschnitt „Der Arbeitstag“ des ersten Bandes
+                            des „Kapitals“ ein. Siehe Karl Marx: Das Kapital. Bd.&#160;1.
+                            Buch&#160;1. Hamburg 1867. S.&#160;279/280. (<ref target="http://telota.bbaw.de/mega/">MEGA² II/5.
+                                S.&#160;<?oxy_comment_start author="roth" timestamp="20170509T105628+0200" comment="Permalink auf S. 240 fehlt noch"?>240</ref><?oxy_comment_end?>).
+                            (((lMarx,Karl:_Das_Kapital. Bd.&#160;1. Buch&#160;1. Hamburg 1867.
+                            (MEGA²&#160;II/5).))) </note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Die Reformbewegung
+                            hier,</orig><note xml:id="nmv5_yjs_3z">Siehe <ref target="B00007/#ad3d64b6-cc97-4e64-a37d-88309702e416">Erl. zu Marx
+                                an Becker, zwischen 9. und 15.1.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170508T150641+0200" comment="{{Erl. 6x}}"?>
+                            <?oxy_comment_end?>und <ref target="B00007/#de3efba0-912a-4f0d-9099-88a83e4b4163">Erl. zu Marx
+                                an Becker, zwischen 9. und
+                            15.1.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170508T150751+0200" comment="{{Erl._6y}}"?>.<?oxy_comment_end?></note></seg>
+                    die unser Centralrath <seg type="comment"><orig>(quorum magna pars
+                            fui)</orig><note xml:id="nbvd_rjs_3z">Ich war ein bedeutender Teil
+                            davon. Entlehnt aus Publius Vergilius Maro: Aeneis II, 6: „Quaeque ipsa
+                            miserrima vidi, et quorum pars magna fui“. (((lVergilius Maro,
+                            Publius:Aeneis)))</note></seg> ins Leben gerufen, hat jezt <pb/> immense
+                    u. unwiderstehliche Dimensionen angenommen. Ich habe mich immer hinter den
+                    Coulissen gehalten u. kümmere mich nicht weiter um die Sache, seit sie im Gang
+                    ist.</p>
+                <closer sameAs="MBUnterschrift">Ihr<lb/>K Marx</closer>
+                <postscript>
+                    <p><hi rendition="#u">À Propos.</hi>
+                        <seg type="comment"><orig>Der <subst>
+                                    <del rendition="#s"><hi rendition="#u">„Working"</hi></del>
+                                    <add place="superlinear"><hi rendition="#u">„Workman“</hi></add>
+                                </subst></orig><note xml:id="ncl4_sks_3z">„The Working Man”
+                                (London). (((zThe_Working_Man)))</note></seg> ist ein
+                        Philisterblatt, hat nichts mit uns zu thun. <seg type="comment"><orig>Der
+                                    <bibl sameAs="zzThe Commonwealth"><hi rendition="#u">Commonwealth</hi></bibl> gehört unsren Leuten,
+                                    <add>ist</add> einstweilen aber<del> in rei<ex>nes</ex>
+                                    <sic ana="#break-off"/></del> (aus <add>halb</add> ökonomischen
+                                u. halb politischen Gründen) in reines Reformorgan
+                                umgeschlagen.</orig><note xml:id="nsbj_dls_3z">Siehe <ref target="B00007/#nmrb_qzn_4y">Erl. zu Marx an Becker, zwischen 9.
+                                    und
+                                15.1.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170508T151223+0200" comment="{{Erl. 6f}}"?>.<?oxy_comment_end?></note></seg></p>
+                </postscript>
+                <p rend="MBTextMitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_tht_f4w_tz"/>Ich habe kürzlich gelesen: „<add>D<hi rendition="#sup">r</hi></add>
+                            <hi rendition="#u">T. </hi><persName key="pdrPo.001.004.000003253"><hi rendition="#u">Moilin</hi></persName><hi rendition="#u">: Leçons
+                                de Médecine Physiologique“</hi>, das 1865 in Paris
+                            erschienen.</orig><note xml:id="nlqj_f5s_3z">Siehe <ref target="B00155/#a68bf500-67f0-47d6-835a-d1768be5a5d0">Erl. zu Marx
+                                an Engels,
+                            13.8.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170508T152113+0200" comment="{{Erl._151g}}"?>.<?oxy_comment_end?></note></seg>
+                    Es sind viel Grillen drin u. <add>zu</add> viel „Construktion“. Aber doch auch
+                    viel Kritik gegen die alte Therapeutik. Ich wünschte, daß Sie das Buch läsen u.
+                    mir ausführlich Ihre Ansicht mittheilten.<anchor type="verweisziel" xml:id="stop_tht_f4w_tz"/><seg type="comment"><orig>
+                            <anchor type="verweisziel" xml:id="start_sgk_3kn_tz"/>Ich empfehle Ihnen
+                            auch: <hi rendition="#u">„Trémaux: De l'origine de tous les êtres“</hi>
+                            etc. Obgleich verlottert geschrieben, voller geologischer Schnitzer,
+                            viel Mangel in <expan resp="editor" sameAs="dottet_underline">Lit<ex>eratur-</ex>Histor</expan><ex>ischer</ex> Kritik,
+                            enthält es – with all that and all that – einen Fortschritt über
+                                <persName key="pdrPo.001.004.000001091">Darwin</persName><anchor type="verweisziel" xml:id="stop_sgk_3kn_tz"/>.</orig><note xml:id="ninr_s5s_3z">Siehe <ref target="B00149/#ncfd_nts_gz">Erl. zu
+                                Marx an Engels,
+                            7.8.1866</ref><?oxy_comment_start author="lindenberg" timestamp="20170508T151657+0200" comment="{{Erl._145d}}"?>.<?oxy_comment_end?></note></seg>
+                </p>
+            </div></body></text></TEI>

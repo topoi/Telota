@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00212" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>205</idno>Karl Kaub an Karl Marx in London. Paris, Montag, 31. Dezember 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 1686</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen und einem Blatt dünnem, weißem Papier im Format 265&#160;×&#160;208 bzw. 130&#160;×&#160;190&#160;mm. Der untere Rand des Blattes ist unregelmäßig abgerissen. Die erste und dritte Seite hat Kaub vollständig beschrieben, die fünfte zur Hälfte, die übrigen drei Seiten sind leer. Schreibmaterial: schwarze Tinte.</p><p>Archivsignatur des ИМЭ auf den beschriebenen Seiten: „RJ&#160;188a&lt;–&gt;c“.</p></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002460">Karl Kaub</persName><placeName>Paris</placeName><date when="1866-12-31"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:40:21Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> Paris Dec 31/66</dateline>
+                    <address>
+                        <addrLine><?oxy_custom_start type="oxy_content_highlight" color="255,60,255"?><?oxy_comment_start author="roth" timestamp="20170403T104341+0200" comment="Ist erledigt, zugleich als Adresse nach Ediarum kodiert; allg. Behandlung mit Herrn Grabsch besprechen" mid="1"?>33,
+                            Rue des trois Couronnes du
+                            <?oxy_comment_start author="lindenberg" timestamp="20170331T183240+0200" comment="muß über /Lieber Marx/ gesetzt werden" mid="2"?>Temple<?oxy_custom_end?><?oxy_comment_end mid="1"?><?oxy_comment_end mid="2"?></addrLine>
+                    </address>
+                    <salute sameAs="MBAnrede">Lieber Marx,</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug">meine Briefe, wie Comete, bewegen sich in
+                    Kegelschnitten. Ihre Promenaden werden daher immer weiter, u. erklärt sich
+                    somit, wie es zu geht, daß sie auch immer länger u. länger ausbleiben müssen.
+                    Hätte ich aber das alte Jahr vorüber gehen lassen, ohne wenigstens ein paar
+                    Duzend Zeilen, an meine alten theuern Freunde zu schreiben, so hätte das mein
+                    weiches Herz verkrumpelt. Wir Deutsche, die wir im allgemeinen sehr sentimentale
+                    Thierchen sind, daß uns der innere Seelenfrieden nebst Wurst und Sauerkraut,
+                    über alles gehen – wir lieben auch nicht, Handlungen zu begehen, die wir
+                    dereinst zu bereuen haben möchten u. uns im süßen Schlummer störten, was sehr
+                    ungesund sein soll, nach <persName key="ed_dkp_xxq_kz">Dr.&#160;Lenck</persName>. Ich habe mich daher auch sehr zu beeilen gesucht,
+                    mein Gewissen noch heute Nachmittag invulnerable zu machen.</p>
+                <p sameAs="MBTextmitEinzug">Nach dieser kurzen Vorrede, ist das wichtigste, Dir
+                    mitzutheilen daß ich noch nicht gestorben bin, u. für die Feiertage auch noch
+                    wahrscheinlich in diesem Zustande verharren werde. Apetit gut – u. sonstige
+                    Merkmale keine. Unser Geschäft ist ungefähr so schlecht diesen ganzen Sommer
+                    über gegangen, wie es nur gehen konnte; doch haben wir uns durchgekrappelt, ohne
+                    die Merkmale der Lumperei ans Licht kommen zu lassen, wie ja anständige Leute
+                    immer thun müssen. Groß thun, u. doch nichts haben – that's the ticket!</p>
+                <anchor type="verweisziel" xml:id="start_srt_q5s_5z"/>
+                <p sameAs="MBTextmitEinzug">Wir arbeiten jetzt schon an 2&#160;Monaten für die neuen
+                        <seg type="comment"><orig>fusils à aiguille.</orig><note xml:id="a7a5d316-7023-43da-936b-542137ba8d5f">Siehe <ref target="B00210/#start_zts_gvs_5z">Engels an Marx,
+                                21.12.<?oxy_comment_start author="reichhoff" timestamp="20170506T184617+0200" comment="{{Br._203.3–5}}"?>1866<?oxy_comment_end?></ref>
+                        </note></seg> Wir machen ein <expan resp="editor" sameAs="dottet_underline">Wer<ex>k</ex>zeug</expan> um die Läufe zu bohren. <seg type="comment"><orig>Die Regierung hat einem Kerl an 3&#160;Millionen Franken Arbeit
+                            dieser Art in Contrakt gegeben,</orig><note xml:id="e0fae2c3-5c81-4c79-b898-3881af8e6365">Da die französischen
+                            Waffenfabriken die große Nachfrage nach dem neuen Chassepot-Gewehr nicht
+                            befriedigen konnten, erhielt <persName key="ed_w5t_lxq_kz">Isaac
+                                Cahen-Lyon</persName> im August 1866 eine Lizenz zur Fertigung einer
+                            festgelegten Anzahl von Gewehren im Ausland.</note></seg> und ich
+                    bedauere nur, daß wir dieser Kerl nicht sind. Wir bekamen diese Arbeit blos,
+                    weil er sonst nicht bis zum Termin hätte alles fertig bringen können. Du kannst
+                    Dir darum <pb/> denken qu'il n'y a pas grave. Es ist hier allgemein die Meinung
+                    verbreitet, daß sobald <seg type="comment"><orig>die Ausstellung</orig><note xml:id="c491f21e-d2d8-4af2-967d-a9013c185126">Die Weltausstellung in
+                            Paris 1867.</note></seg> vorüber sei, Gebrauch von diesen neuen
+                        <persName key="ed_kcn_2dw_yx">Chassepot</persName> Gewehren gemacht werden
+                    wird, und insbesondere, um die rectification des frontières zu
+                        bewerkstelligen.<anchor type="verweisziel" xml:id="stop_srt_q5s_5z"/> Wenn
+                    ich nicht in der letzten Zeit Gelegenheit gehabt hätte, mir ganz abzugewöhnen,
+                    eine Meinung zu haben, so würde ich mir erlauben zu meinen, daß nichts
+                    derartiges zu befürchten sei. Ich meine aber lieber nicht. Der französische
+                    Geist ist so erfinderisch, wenn dabei etwas zu profitiren ist, daß er natürlich
+                    nicht umhin konnte, in seiner Eitelkeit das Rheinufer für sich zu patentiren.
+                    „Nous sommes des Français – nous autres – et nous prenons ou nous pouvons!“ –
+                    Denke Dir dabei, daß die Nation bunte Pantoffelchen trägt, eine schmierige Mütz'
+                    aufs eine Aug geklemmt, 2&#160;goldene Ring am Finger, die beiden Hände in der
+                    Hosentasch, den Finger aber, der die Ringe trägt, vorsichtig zur Tasche
+                    ’rausgestreckt, die Cigarett im Maule schnullt, und stark nach Knoblauch stinkt,
+                    und Du hast dann das Völkchen vor den Augen, ganz wie sie heut zu Tage sind.
+                    Schmutzig – moralisch wie körperlich. Wenn es nicht so vulgair wäre, nachdem man
+                    gescholten auch ein wenig gut zu sprechen, so würde ich sagen, daß es auch
+                    einige gibt, die anders sind … In Bezug also auf diesen berüchtigten
+                    Erfindungsgeist, besteht jetzt etwas in Paris, was mir neu u. amüsant ist;
+                    nämlich in Stadtvierteln, wo viele Proletarier wohnen, wird allgemein folgender
+                    Kontrakt gemacht, ehe der Hauseigenthümer den armen Teufel unter Obdach gehen
+                    läßt, der ein Logis zu miethen denkt: Er muß einen Monat vorauszahlen, od.
+                    3&#160;Monate, je nach Umständen, u. dann bevor er erlaubt ist, einzuziehen, muß
+                    er schon seine Aufkündigung mit seiner Unterschrift acceptiren, so daß, wenn er
+                    nach Verlauf der voraus bezahlten Zeit, nicht fähig sein sollte, wieder voraus
+                    zu bezahlen, ihn der Hauseigenthümer augenblicklich auf das Pflaster werfen
+                    kann. Ist das nicht prächtig u. geschmackvoll?</p>
+                <p sameAs="MBTextmitEinzug">Was macht Deine liebe <persName key="pdrPo.001.004.000003075">Frau</persName>? Es ist schade daß ich nicht
+                    von dem famosen pudding kosten kann, wie früher in der schönen Zeit.&#160;</p>
+                <p sameAs="MBTextmitEinzug"><pb/> Die schöne Zeit ist aber längst vergangen, der
+                    pudding, obgleich nicht sehr schön, ist auch vergangen und die Menschen werden
+                    alt. Grüße mir Deine Frau recht herzlich, und sag' ihr, daß auch ich ein alter
+                    Bursche werde.</p>
+                <p sameAs="MBTextmitEinzug">Was mag <persName key="pdrPo.001.004.000003074">Jenny</persName> machen, was <persName key="pdrPo.001.004.000003076">Laura</persName>, was <seg type="comment"><orig>Tousschen</orig><note xml:id="c248c6fe-0365-4f1a-a22d-98172b518e1e"><persName key="pdrPo.001.004.000003068">Eleanor Marx</persName>, genannt
+                            Tussy. </note></seg>. Der Wind pfeift öfters vom Nord-Westen, ich
+                    versteh' ihn aber nicht.</p>
+                <p sameAs="MBTextmitEinzug">Grüße mir Alle, u. wünsche Ihnen von mir, ein heitres
+                    Neujahr u. Glück u. Frieden in der Zukunft.</p>
+                <p sameAs="MBTextmitEinzug">Ich hoffe Deine Gesundheit läßt Dich schanzen.</p>
+                <p sameAs="MBTextmitEinzug">Lebt Alle recht wohl und gedenket zuweilen des Euch
+                    liebenden u. achtenden</p>
+                <closer sameAs="MBUnterschrift">Ch. Kaub</closer>
+                <postscript>
+                    <p>Gut Neujahr an <persName key="ed_l54_cks_xy">Lessner</persName>. </p>
+                </postscript>
+            </div></body></text></TEI>

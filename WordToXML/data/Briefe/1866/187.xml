@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00193" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>187</idno>Karl Marx an François Lafargue in Bordeaux. London, Montag,
+                    12. November 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">f. 1 op. 1 d. 6050</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen festem, weißem Papier im Format
+                            226&#160;×&#160;178&#160;mm. Wasserzeichen: „Joynson 1866“. Die ersten
+                            zwei Seiten hat Marx vollständig beschrieben, die dritte zur Hälfte, die
+                            vierte Seite ist leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von unbekannter Hand: Numerierung des Briefes „5–1“ auf der ersten Seite
+                            oben in der
+                            Mitte.<?oxy_comment_start author="lindenberg" timestamp="20170424T172548+0200" comment="Von unbekannter Hand: Numerierung des Briefes „5 [im Kreis]–1“ auf der ersten Seite oben in der Mitte."?></p>
+                        <?oxy_comment_end?>
+                        <p>Marx beantwortet einen nicht überlieferten Brief François Lafargues,
+                            geschrieben vor dem 23.&#160;August 1866 (siehe Br.&#160;158.3–6).</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness><bibl>Erstveröffentlichung: Lettres et documents de Karl Marx (1958).
+                            S.&#160;163/164.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                    <date when="1866-11-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_z11_fcw_wx">François Lafargue</persName>
+                    <placeName>Bordeaux</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:40:10Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener><dateline sameAs="MBDatumszeile"><pb/> Londres. 12 Nov.
+                        1866.</dateline><salute sameAs="MBAnrede">Mon cher Monsieur
+                        Lafargue,</salute></opener>
+                <p sameAs="MBTextohneEinzug">J’espère bien que <seg type="comment"><orig>Monsieur il
+                            amoroso</orig><note xml:id="c61d8d86-8b1f-46ec-b7e5-2d7952f4fb12"><persName key="pdrPo.001.004.000002648">Paul Lafargue</persName>.
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></note></seg><?oxy_custom_end?>
+                    aura excusé auprès de vous mon silence impardonnable. J'ai été d'un côté
+                    persécuté par des récidives continuelles de maladie, de l'autre si absorbé par
+                        <seg type="comment"><orig>un travail</orig><note xml:id="de681f26-5e85-480c-a904-0b91600d6b30">Gemeint ist hier Karl
+                            Marx: Das Kapital; siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx
+                                an J. Ph. Becker, zwischen 9. und
+                                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170519T132545+0200" comment="{{Erl. 6b}}"?>1866<?oxy_comment_end?>.</ref>
+                            (((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg> de longue
+                    haleine que j'ai négligé la correspondance avec mes amis les plus intimes. Si je
+                    ne vous rangeais pas dans cette catégorie, je n'aurais jamais osé de <subst>
+                        <del rendition="#ow">xxxetxx</del>
+                        <add place="across">choquer</add>
+                    </subst> la bienséance d'une telle manière.</p>
+                <p sameAs="MBTextmitEinzug">Je vous remercie cordialement pour le vin. <seg type="comment"><orig>Etant moi-même d'un pays vinicole, et ex-possesseur de
+                            vignes,</orig><note xml:id="b3dfe6f1-39a1-4538-9fd4-462bcb8615fa">Die
+                            Famile <persName key="pdrPo.001.004.000003072">Heinrich Marx</persName>
+                            besaß u._a. Weinberge (siehe Monz: Karl Marx. S.&#160;273–277).
+                            (((lMonz,Heinz: Karl Marx. Grundlagen der Entwicklung zu Leben und Werk.
+                            Trier_1973))) </note></seg> je sais apprécier <subst>
+                        <del rendition="#ow">de</del>
+                        <add place="across">le<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></add>
+                    </subst><?oxy_custom_end?> vin à sa juste valeur. Je pense même un peu <seg type="comment"><orig>avec le vieux <persName key="pdrPo.001.004.000011057">Luther</persName> qu'un homme, qui n'aime pas le vin, ne sera
+                            jamais bon pour grand chose.</orig><note xml:id="nss4_2r5_jz">„Wer nicht
+                            liebt Wein, Weib und Gesang, Der bleibt ein Narr sein Leben lang.“
+                            Dieser Spruch wird <persName key="pdrPo.001.004.000011057">Martin
+                                Luther</persName> oder <persName key="ed_nn1_s5q_pz">Johann Heinrich
+                                Voß</persName> zugeschrieben. Beide Autorschaften sind nicht zu
+                            belegen.</note></seg> (<subst>
+                        <del>Toute</del>
+                        <add>Nulle</add>
+                    </subst> règle générale sans exceptions). Mais on ne peut pas nier, par exemple,
+                    que <seg type="comment"><orig>le mouvement politique en Angliterre a été
+                            accéléré par le traité de commerce avec la France</orig><note xml:id="e2109c89-6d3f-4626-a3c6-c1802b50c0bc">Der am 23.&#160;Januar
+                            1860 zwischen Großbritannien und Frankreich unterzeichnete, auf zunächst
+                            10 Jahre befristete Handelsvertrag, (Cobden–Chevalier–Vertrag).
+                            Frankreich, bisher streng protektionistisch, verzichtete auf
+                            Einfuhrverbote für britische Waren und reduzierte die Einfuhrzölle auf
+                            maximal 30, später 25&#160;Prozent. Großbritannien verzichtete auf
+                            sämtliche Einfuhrzölle für französische Waren, außer Wein und
+                            Branntwein. Der Vertrag enthielt die Meistbegünstigungsklausel. (Siehe
+                            dazu Baumgart: Europäisches Konzert. S.&#160;41)
+                            (((lBaumgart:Europäischs Konzert und nationale Bewegung))) </note></seg>
+                    et l'importation des vins français. C'est une des bonnes choses, que <persName key="pdrPo.001.004.000003392">L.&#160;Bonaparte</persName> était à même de
+                    faire, tandis que le pauvre <persName key="pdrPo.001.004.000002907">Louis
+                        Philippe</persName>
+                    <pb/> était si intimidé par les fabricants du Nord qu'il n'osait pas faire des
+                    traités de commerce avec L'Angliterre. Il est seulement à regretter, que de tels
+                    régimes, comme le napoléonien, qui restent sur la fatigue et l'impuissance des
+                    deux classes antagonistes de la société, achètent quelques progrès matériels par
+                    la démoralisation générale. Heureusement la masse des ouvriers ne peut pas être
+                    démoralisée. Le travail manuel est le grand antidote contre toute infection
+                    sociale.</p>
+                <p sameAs="MBTextmitEinzug">Vous <del> vous <sic ana="#break-off"/></del> aurez
+                    réjoui comme moi <seg type="comment"><orig><supplied cert="high">de</supplied>
+                            la défaite du président <persName key="pdrPo.001.004.000002380">Johnson</persName> dans les dernières élections.</orig><note xml:id="nn2q_kr5_jz">Im Herbst 1866 hatte die Demokratische Partei bei
+                            den Wahlen zum US-Kongress eine schwere Niederlage erlitten. Präsident
+                                <persName key="pdrPo.001.004.000002380">Andrew Johnson</persName>,
+                            selbst Demokrat und aus einem der Südstaaten stammend, versuchte
+                            erfolglos einen Kompromiss, bei dem er Milde gegenüber den Separatisten
+                            walten ließ und gegen die Gewährung gleicher Bürgerrechte für Farbige
+                            auftrat.</note></seg> Les ouvriers du Nord ont enfin parfaitement
+                    compris, que le travail, tant qu'il est flétri dans la peau noire, ne sera
+                    jamais émancipé dans la peau blanche.</p>
+                <p sameAs="MBTextmitEinzug">J'ai reçu samedi soir par le citoyen <persName key="pdrPo.001.004.000001279">Dupont</persName> une lettre adressée à <seg type="comment"><orig>Paul</orig><note xml:id="bb7eb057-1b31-4e97-a8e3-31aef8d55d0e"><persName key="pdrPo.001.004.000002648">Paul Lafargue</persName>.
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></note></seg><?oxy_custom_end?>
+                    par le secrétaire du Collège des surgeons. Il demandait des papiers que ne se
+                    trouvaient ni chez <seg type="comment"><orig>ma fille</orig><note xml:id="b75114ed-eebf-4ff2-b08d-b661e00b6213"><persName key="pdrPo.001.004.000003076">Laura Marx</persName>.
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></note></seg><?oxy_custom_end?>
+                    (excepté le brevet de baccalauréat) ni chez le <subst>
+                        <del>dépositaire</del>
+                        <add>gardien</add>
+                    </subst> des effets <subst>
+                        <del rendition="#s">des</del>
+                        <add place="intralinear">de</add>
+                    </subst> votre fils. Ainsi, il faut <add place="superlinear">nous</add> envoyer
+                    ces documents <hi rendition="#u">immédiatement</hi>.</p>
+                <p sameAs="MBTextmitEinzug">Veuillez bien dire à votre <persName key="pdrPo.001.004.000002648">fils</persName> qu'il m'obligera beaucoup en
+                    ne pas faisant de la propagande à Paris. Le temps est <hi rendition="#u">dangèreux.</hi> La meilleure <pb/> chose qu'il pourra faire à Paris sera
+                    d'utiliser son temps et <seg type="comment"><orig>de profiter de son commerce
+                            avec le Dr&#160;<persName key="pdrPo.001.004.000003253">Moilin</persName>.</orig><note xml:id="niyx_rr5_jz">Siehe hierzu
+                                <ref target="B00155">Marx an Engels,
+                                13.8.<?oxy_comment_start author="reichhoff" timestamp="20170406T162532+0200" comment="{{Br._151}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00155/#f4d5d61e-7732-4581-b9a0-be5c683c8d04">Erl. zu
+                                Marx an Engels, 13.6.1866</ref>
+                            <?oxy_comment_start author="reichhoff" timestamp="20170519T132703+0200" comment="{{Erl._151c}}"?>
+                            <?oxy_comment_end?>und <ref target="B00155/#a68bf500-67f0-47d6-835a-d1768be5a5d0">Erl. zu Marx
+                                an Engels,
+                                13.6.<?oxy_comment_start author="reichhoff" timestamp="20170519T132914+0200" comment="{{g}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                    Il ne perdra rien en économisant sa force polémique. Plus il se contiendra, plus
+                    il sera bon lutteur au moment opportun.</p>
+                <p sameAs="MBTextmitEinzug">Ma <persName key="pdrPo.001.004.000003076">fille</persName> vous laisse prier par moi de <del rendition="#s"><unclear reason="covered" cert="high">bien</unclear></del> vouloir bien envoyer
+                    par Paul des photogrammes de Madame <persName key="ed_ybf_vt2_2z">Lafargue</persName> et de <persName key="ed_z11_fcw_wx">vous-même</persName>.</p>
+                <p sameAs="MBTextmitEinzug">Toute ma famille joint ses amitiés pour toute la famille
+                    Lafargue avec les miennes.</p>
+                <closer sameAs="MBUnterschrift">Tout à vous<lb/>Karl Marx </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

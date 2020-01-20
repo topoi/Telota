@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00111" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>107</idno>Ernest Jones an Karl Marx in London. Manchester, Samstag, 12.
+                    Mai 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">f. 1 op. 5 d. 1655</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen festem, weißem Papier im Format
+                            227&#160;×&#160;176&#160;mm. Prägung: eine Blume. Die ersten drei Seiten
+                            hat Jones vollständig beschrieben, die vierte ist leer. Schreibmaterial:
+                            schwarze Tinte.</p>
+                        <p>Archivsignatur des Moskauer Marx-Engels-Instituts (IMĖ) auf den
+                            beschriebenen Seiten: „Rj 1575a“ bis „Rj 1575c“.</p>
+                        <p>Jones beantwortet zwei nicht überlieferte Briefe von Marx, geschrieben
+                            vor dem 12.&#160;Mai 1866 („the two letters“).</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness><bibl>Erstveröffentlichung: Thompson: Letters from Ernest Jones to Karl
+                            Marx, 1865–1868 (1962). S.&#160;21/22.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000002387">Ernest Jones</persName>
+                    <placeName>Manchester</placeName>
+                    <date when="1866-05-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:39:22Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener><dateline sameAs="MBDatumszeile"><pb/> 47, Princess
+                        St.<lb/>Manchester,<lb/>May 12/66.</dateline><salute sameAs="MBAnrede">Dear
+                        Marx</salute></opener>
+                <p sameAs="MBTextohneEinzug">Thanks for the two letters. <persName key="pdrPo.001.004.000002227">Hooson</persName>, <persName key="pdrPo.001.004.000010657">Greening</persName>, &amp; the rest of them
+                    here, have gone over to the Middleclass movement. As to Hooson &amp; Greening, I
+                    believe them still to be <hi rendition="#u">honest</hi>, but foolish!</p>
+                <p sameAs="MBTextmitEinzug">I should, as you propose, very much like to deliver an
+                    address in London, if it was at
+                        <?oxy_comment_start author="lindenberg" timestamp="20170131T180747+0100" comment="Durchgängige Unterstreichung nicht umgesetzt"?><hi rendition="#u">S</hi><hi rendition="#sup">t</hi><hi rendition="#u"> Martins
+                        Hall<?oxy_comment_end?></hi>, and the <hi rendition="#u">admission
+                    free</hi>. That, I suppose, cannot be done. </p>
+                <p sameAs="MBTextmitEinzug"><pb/> Can it?</p>
+                <p sameAs="MBTextmitEinzug">I keep receiving heaps of letters, coinciding with my
+                    views, &amp; <seg type="comment"><orig>denouncing the Reform League for
+                            supporting the Middleclass Bill.</orig><note xml:id="f0f25059-78d6-408c-89ff-d29bb5ef4e7d">Zur Reform League siehe
+                                <ref target="B00007/#ad3d64b6-cc97-4e64-a37d-88309702e416">Erl. zu
+                                Marx an J. Ph. Becker, zwischen 9. und
+                                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170510T120508+0200" comment="{{Erl. 6x}}"?>1866<?oxy_comment_end?></ref>,
+                            zu Marx‘ Position ihr gegenüber siehe <ref target="B00085/#start_qbw_mh2_qz">Marx an Engels,
+                                6.4.<?oxy_comment_start author="reichhoff" timestamp="20170420T113453+0200" comment="{{Br.82.43-46}}"?>1866<?oxy_comment_end?></ref>.</note></seg>—</p>
+                <p sameAs="MBTextmitEinzug">As to <seg type="comment"><orig>Int.
+                            Addresses,</orig><note xml:id="b8999bd9-9571-41b8-8dcc-1538ea011cee">[Marx,Karl:]_Address and Provisional Rules of the Working Men’s
+                            International Association [London]_1864 (siehe auch MEGA²&#160;I20. S.
+                            3–15). (((l[Marx,Karl:]_Address and Provisional Rules of the Working
+                            Men’s International Association [London]_1864))) Ende 1864 hatte Marx
+                            einige Exemplare nach Manchester geschickt. (Siehe MEGA²&#160;III/13.
+                            Br.&#160;37.6–8, Br._50.5 und Br._53.4–7.)</note></seg> I fear I cannot
+                    send you any. Some I gave to Engels, some to Hooson, some to Greening—a few I
+                    have—but I fear they are mislaid, as, since I got them, I changed my <pb/>
+                    chambers, as you know, and many things got out of sorts.</p>
+                <p sameAs="MBTextmitEinzug">If I can find them, I will send them.</p>
+                <p sameAs="MBTextmitEinzug">Kindest regards at home.</p>
+                <closer sameAs="MBUnterschrift">Sincerely your's,<lb/>Ernest Jones.</closer>
+                <postscript>
+                    <p><seg type="comment"><orig><hi rendition="#u">What are your views on the
+                                    German war</hi></orig><note xml:id="c269ebb8-6991-4984-a02e-76bd333ae07b">Zu Marx' Ansichten,
+                                einen eventuellen Krieg zwischen Preußen und Österreich betreffend,
+                                siehe <ref target="B00082/#start_by2_wh2_qz">Marx an Engels,
+                                    2.4.<?oxy_comment_start author="reichhoff" timestamp="20170420T113612+0200" comment="{{Br. 79.52-64}}"?>1866<?oxy_comment_end?></ref></note></seg><hi rendition="#u">—and its results? Will you let me know?</hi>
+                        <pb/>
+                    </p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

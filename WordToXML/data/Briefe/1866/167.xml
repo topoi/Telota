@@ -1,0 +1,32 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00171" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>167</idno>Karl Marx an Laura Marx in Hastings. London, Samstag, um den 8. September 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 1 d. 6116</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen festem, weißem Papier im Format 227&#160;×&#160;181&#160;mm.
+                            Wasserzeichen: „Joynson 1866“. Prägung: die Aufschrift
+                            „<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Best
+                            <?oxy_comment_start author="lindenberg" timestamp="20170426T143439+0200" comment="s. ZB  Brief 160 + 158 Best Quality (auf den Bildern nur bei 160 zu erkennen, aber ganz schwer)
+nochmal an Hs. geprüft - RGASPI - r%o1%6116% - die Prägung ist auf dem Scan nicht zu erkennen. " mid="1"?>Qwality<?oxy_custom_end?><?oxy_comment_end mid="1"?>“
+                            auf dem Schild, umrahmt
+                            <?oxy_comment_start author="lindenberg" timestamp="20170426T144013+0200" comment="ursprünglich:
+mit den Zweigen"?>mit
+                            Zweigen<?oxy_comment_end?>. Die erste Seite hat Marx vollständig
+                            beschrieben, auf der dritten befinden sich nur drei Zeilen, die übrigen
+                            zwei Seiten sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von unbekannter Hand: der Vermerk mit Bleistift „Laura“ auf der ersten Seite oben rechts.</p><p>Die Beilage (Z.&#160;3) ist nicht überliefert.</p><p>Die Datierung stützt sich auf die Angabe, daß Laura und Eleanor Marx von Hastings nach London am Montag, dem 10.&#160;September 1866, zurückgekehrt sind (siehe Erl.&#160;160c). Marx schreibt vor diesem Datum (Z.&#160;4–6), vermutlich um den 8.&#160;September 1866.</p><p>Datierung der Erstveröffentlichung: September 1866.</p><p>Marx beantwortet einen nicht überlieferten Brief von Laura Marx (Z.&#160;9–10), geschrieben zwischen 5. (siehe Br.&#160;165) und 8.&#160;September 1866.</p></physDesc></msDesc><listWit><witness><bibl>Erstveröffentlichung: in russischer Übersetzung: МЭС2 31 (1963). S.&#160;440/441, in der Sprache des Originals: MECW 42 (1987). S.&#160;317.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-09-08"/></correspAction><correspAction type="received"><persName key="pdrPo.001.004.000003076">Laura Marx</persName><placeName>Hastings</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:57Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><p rend="MBTextOhneEinzug"><pb/> My Dearest Cacadou</p><p sameAs="MBTextmitEinzug">You must excuse <del> my <sic ana="#break-off"/></del> if I write those
+                    few lines only. We want the <subst>
+                        <del rendition="#ow">enclosed</del>
+                        <add place="across">inclosed</add>
+                    </subst> Post Office Order for £ 3 to leave with the first Post, that is before
+                    11&#160;o'clock a.m. You will oblige me by writing us <seg type="comment"><orig>with what train you will leave Hastings next week, and <hi rendition="#u">when</hi> you will arrive here?</orig><note xml:id="nbgg_5sk_3z">Zum Aufenthalt von <persName key="pdrPo.001.004.000003076">Laura</persName> und <persName key="pdrPo.001.004.000003068">Eleanor Marx</persName> in Hastings
+                            siehe <ref target="B00164/#nmcv_zcw_hz">Erl. zu Marx an L. Marx,
+                                28.8.<?oxy_comment_start author="reichhoff" timestamp="20170519T120324+0200" comment="{{Erl. 160c}}"?>1866<?oxy_comment_end?>.</ref></note></seg></p><p sameAs="MBTextmitEinzug">Poor child, your  <choice>
+                        <sic>tootache</sic>
+                        <corr cert="high">toothache</corr>
+                    </choice> would have been spared to you, if my advice had been followed and my
+                    own “dentist” <subst>
+                        <del>restorted</del>
+                        <add>resorted</add>
+                    </subst> to.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Your last letter</orig><note xml:id="ff850d57-c094-41c9-9925-43fe5b51d5c3">Der Brief von <persName key="pdrPo.001.004.000003076">Laura Marx</persName>  an Marx,
+                            geschrieben vor dem 8.&#160;September 1866, ist nicht
+                            überliefert.</note></seg> has <del rendition="#ow">m<sic ana="#break-off"/></del> given much pleasure (—the toothache news
+                    excepted), because we saw from it with what <add>calm</add> energy our Cacadou
+                    knows how to act.</p><p sameAs="MBTextmitEinzug">Tell <seg type="comment"><orig>Quoquo</orig><note xml:id="d1d36748-2e85-477b-9dc5-0440d3f1ea73"><persName key="pdrPo.001.004.000003068">Eleanor Marx</persName>. </note></seg>
+                    that mischief is brewing. <seg type="comment"><orig>The Emperor</orig><note xml:id="fd783f9e-cb56-47f2-b9c9-eab2e12b697d"><persName key="pdrPo.001.004.000003074">Jenny Marx (Tochter)</persName>.
+                        </note></seg> fancies to be neglected by <hi rendition="#u">his</hi> subject
+                    <pb/> and feels rather sore.</p><closer sameAs="MBUnterschrift">Yours truly<lb/>Old One. </closer></div></body></text></TEI>

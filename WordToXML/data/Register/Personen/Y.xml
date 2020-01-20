@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="mega_personenregister" xml:lang="de" xml:id="personY">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Gehört zur ediarum-App für eXist.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Hybrid: consult project description and document history for details.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="pdrPo.001.004.000005215">
+                    <idno type="mega">1030509</idno>
+                    <persName type="reg">
+                        <surname>Yandiola</surname>
+                        <forename>Juan Antonio de</forename>
+                    </persName>
+                    <birth>1786</birth>
+                    <death>1830</death>
+                    <note>spanischer Politiker; 1823 Finanzminister</note>
+                    <linkGrp>
+                        <ptr target="IV/12#830" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005216">
+                    <idno type="mega">1030514</idno>
+                    <persName type="reg">
+                        <surname>Yea</surname>
+                        <forename>Lacy Walter Giles</forename>
+                    </persName>
+                    <birth>1808</birth>
+                    <death>1855</death>
+                    <note>britischer Oberst, 1854/1855 Regimentskommandeur auf der Krim</note>
+                    <linkGrp>
+                        <ptr target="I/14#536" type="page"/>
+                        <ptr target="I/14#542" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005217">
+                    <idno type="mega">1030515</idno>
+                    <persName type="reg">
+                        <name>Yeames</name>
+                    </persName>
+                    <note>1839 Brite im Orient</note>
+                    <linkGrp>
+                        <ptr target="IV/12#203" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005218">
+                    <idno type="mega">1030518</idno>
+                    <persName type="reg">
+                        <surname>Yeats</surname>
+                        <forename>John</forename>
+                    </persName>
+                    <note>britischer Ökonom</note>
+                    <linkGrp>
+                        <ptr target="IV/31#649" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005219">
+                    <idno type="mega">1030523</idno>
+                    <persName type="reg">
+                        <surname>Yorck</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <birth>1830</birth>
+                    <death>1875</death>
+                    <note>deutscher Tischler; Demokrat, dann Sozialist; Mitbegründer des ADAV, Vorstandsmitglied und Bevollmächtigter für Harburg (1863–1869); Mitbegründer des Allgemeinen Deutschen Arbeiterschaftsverbandes und des Allgemeinen Deutschen Tischlervereins (1868), bis zu seinem Tode Präsident der Tischlergewerkschaft; Mitbegründer der Sozialdemokratischen Arbeiterpartei (1869)</note>
+                    <linkGrp>
+                        <ptr target="III/13#892" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005220">
+                    <idno type="mega">1030529</idno>
+                    <persName type="reg">
+                        <surname>Yorke</surname>
+                        <forename>Charles Philip</forename>
+                    </persName>
+                    <birth>1764</birth>
+                    <death>1834</death>
+                    <note>britischer Staatsmann, Tory; Kriegsminister (1801–1803), Innenminister (1803/1804), Erster Lord der Admiralität (1810/1811)</note>
+                    <linkGrp>
+                        <ptr target="I/14#332–334" type="page"/>
+                        <ptr target="I/14#1261" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005222">
+                    <idno type="mega">1030531</idno>
+                    <persName type="reg">
+                        <surname>Yorke</surname>
+                        <forename>Sir Joseph Sidney</forename>
+                    </persName>
+                    <birth>1768</birth>
+                    <death>1831</death>
+                    <note>britischer Admiral; Vater des Vorigen</note>
+                    <linkGrp>
+                        <ptr target="I/14#1261" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005221">
+                    <idno type="mega">1030530</idno>
+                    <persName type="reg">
+                        <name>Yorke, Carles Philip, 4th&#160;Earl of Hardwicke</name>
+                    </persName>
+                    <birth>1799</birth>
+                    <death>1873</death>
+                    <note>britischer Marineoffizier (seit 1863 Admiral) und Politiker, Tory, Mitglied des Unterspäter des Oberhauses; Neffe des Vorigen</note>
+                    <linkGrp>
+                        <ptr target="I/14#68" type="page"/>
+                        <ptr target="I/14#332" type="page"/>
+                        <ptr target="I/14#333" type="page"/>
+                        <ptr target="I/14#1001" type="page"/>
+                        <ptr target="I/14#1261" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005223">
+                    <idno type="mega">1030533</idno>
+                    <persName type="reg">
+                        <surname>Young</surname>
+                        <forename>Arthur</forename>
+                    </persName>
+                    <birth>1741</birth>
+                    <death>1820</death>
+                    <note>englischer Agronom und Ökonom</note>
+                    <linkGrp>
+                        <ptr target="II/12#1242" type="page"/>
+                        <ptr target="II/13#678" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005225">
+                    <idno type="mega">1030540</idno>
+                    <persName type="reg">
+                        <surname>Young</surname>
+                        <forename>Thomas</forename>
+                    </persName>
+                    <birth>1773</birth>
+                    <death>1829</death>
+                    <note>englischer Arzt und Naturforscher; erkannte 1807 die Identität von Licht- und Wärmestrahlen</note>
+                    <linkGrp>
+                        <ptr target="IV/31#506" type="page"/>
+                        <ptr target="IV/31#909" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005224">
+                    <idno type="mega">1030539</idno>
+                    <persName type="reg">
+                        <name>Young, Sir John, 1st&#160;Baron Lisgar</name>
+                    </persName>
+                    <birth>1807</birth>
+                    <death>1876</death>
+                    <note>britischer Staatsmann, Tory; Irlandminister (1852–1855)</note>
+                    <linkGrp>
+                        <ptr target="I/14#98" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005227">
+                    <idno type="mega">1030543</idno>
+                    <persName type="reg">
+                        <surname>Ypsilanti</surname>
+                        <forename>Demetrios</forename>
+                    </persName>
+                    <birth>1793</birth>
+                    <death>1832</death>
+                    <note>griechischer Freiheitskämpfer; Offizier in russischen Diensten; beteiligte sich 1821 am Unabhängigkeitskampf, 1822/1823 Präsident der Legislative; Bruder von Alexandros Ypsilanti</note>
+                    <linkGrp>
+                        <ptr target="IV/12#380" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000005226">
+                    <idno type="mega">1030542</idno>
+                    <persName type="reg">
+                        <surname>Ypsilantis</surname>
+                        <forename>Alexandros</forename>
+                    </persName>
+                    <birth>1792</birth>
+                    <death>1828</death>
+                    <note>griechischer Freiheitskämpfer; Offizier in russischen Diensten; trat 1820 an die Spitze des Geheimbundes Hetairia Philikon und drang 1821 mit seiner Freischar aus Rußland in die Moldau vor, womit er den griechischen Freiheitskampf eröffnete; Bruder von Demetrios Ypsilanti</note>
+                    <linkGrp>
+                        <ptr target="I/31#992" type="page"/>
+                        <ptr target="IV/12#380" type="page"/>
+                        <ptr target="IV/12#1240" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000011779">
+                    <idno type="mega">1030548</idno>
+                    <persName type="reg">
+                        <surname>Yves</surname>
+                        <forename>Saint</forename>
+                    </persName>
+                    <death>1115</death>
+                    <note>Bischof von Chartres (seit 1092)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#574" type="page"/>
+                    </linkGrp>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

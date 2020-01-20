@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00206" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>199</idno>Karl Marx an Friedrich Engels in Manchester. London, Samstag, 8. Dezember 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4467/L VI 599</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 228&#160;×&#160;178&#160;mm. Prägung: eine Krone auf dem Schild. Marx hat die erste Seite vollständig beschrieben, die übrigen drei Seiten sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand: Numerierung des Briefes: „58“.</p><p>Engels beantwortet den Brief am 14.&#160;Dezember 1866 (Br.&#160;200).</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2006</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;354/355.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-12-08"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:40:18Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 8 Dec. 1866.</dateline><salute sameAs="MBAnrede">Lieber Fred,</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><orig><persName key="pdrPo.001.004.000003135"><anchor type="verweisziel" xml:id="start_kvj_g2r_5z"/>Meißner</persName> hat noch nicht mit dem Druck
+                            begonnen,</orig><note xml:id="nrbw_y1j_kz">Siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx
+                                an J. Ph. Becker, zwischen 9. und
+                                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170519T133810+0200" comment="{{Erl. 6b}}"?>1866<?oxy_comment_end?>.</ref>
+                            Marx hatte den ersten Teil seines Manuskripts des „Kapitals“ etwa Mitte
+                            November 1866 zum Verlag zu geschickt. Siehe <ref target="B00191">Marx
+                                an Engels,
+                                10.11.<?oxy_comment_start author="reichhoff" timestamp="20170506T181626+0200" comment="{{Br. 185.8–9}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00191/#non1_jg5_jz">Erl. zu Marx an Engels,
+                                10.11.<?oxy_comment_start author="reichhoff" timestamp="20170519T133925+0200" comment="{{Erl._185b}}"?>1866<?oxy_comment_end?>.</ref></note></seg><ref target="B00191/#non1_jg5_jz"> </ref>da er andre Sachen erst abmachen wollte.
+                        <seg type="comment"><orig>Ich erwarte einen Brief von ihm nächsten
+                            Montag.</orig><anchor type="verweisziel" xml:id="stop_kvj_g2r_5z"/><note xml:id="a004e604-ff76-4d9a-b511-74e9debe9499">Siehe <ref target="B00209">O. Meißner an Marx,
+                                20.12.<?oxy_comment_start author="reichhoff" timestamp="20170406T173229+0200" comment="{{Br. 202}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    Im Ganzen war mir die Verzögerung keineswegs fatal, da ich den Karbunkeldreck
+                    erst seit ein paar Tagen wieder los bin u. ausserdem die Herrn Gläubiger mich in
+                    einer wahrhaft erbaulichen Manier hetzen. Ich bedaure nur, daß Privatpersonen
+                    nicht mit demselben Anstand can file their bills for the Bankruptcy Court wie
+                    Kaufleute.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Vor einiger Zeit erschien im <bibl sameAs="zzKladderadatsch">Kladderadatsch</bibl> in einer schlechten
+                            Pasquinade über <add><persName key="ed_wfg_czy_pz">Collins</persName></add> „the Woman in White“</orig><note xml:id="nr1l_gbj_kz">[Heinrich Bettziech:] Die Frau in Weiß. Drama in 5
+                            Acten, mit freier Benutzung von Wilkie Collins. In: Kladderadatsch.
+                            Humoristisch-satyrisches Wochenblatt. Berlin. Nr. 52/53, 18. November
+                            1866. S. 207–210; (((lBettziech,Heinrich:] Die Frau in Weiß. Drama in 5
+                            Acten, mit freier Benutzung von Wilkie Collins. In: Kladderadatsch.
+                            Humoristisch-satyrisches Wochenblatt. Berlin. Nr. 52/53, 18. November
+                            1866. S. 207–210))) Wilkie Collins: The_Woman in White. In 3_vol.
+                            London_1860. (((lCollins,Wilkie: The_Woman in White. In 3_vol.
+                            London_1860)))</note></seg> ein großgedruckter Hieb auf die <seg type="comment"><orig><hi rendition="#u">Schwefelbande</hi>.</orig><note xml:id="nxcp_dbj_kz">Ursprünglich Spitzname der Jenaer
+                            Studentenverbindung „Sulphuria“ aus den 1770er Jahren. Hier von Marx mit
+                            Bezug auf die Polemik in seiner Schrift „Herr Vogt“, Kap._I.
+                            (MEGA²&#160;I/18. S.&#160;58–67) gebraucht. (((lKarl Marx: Herr Vogt.
+                            London 1860. (MEGA²&#160;I/18. S.&#160;51–339).)))</note></seg> Der
+                    elende <persName key="pdrPo.001.004.000000408">Betzig</persName> ist der
+                    Verfasser dieses Drecks, u. es sollte mich nicht wundern, wenn die Ordre von
+                        <persName key="pdrPo.001.004.000002501">Kinkel</persName> oder <persName key="pdrPo.001.004.000002070">Hatzfeldt</persName> ausginge. <anchor type="verweisziel" xml:id="start_iry_wzb_5z"/>Ich bezweifle auch nicht, daß
+                    das Saumensch <seg type="comment"><orig>die Arrestation des
+                            Liebknecht</orig><note xml:id="a7d66bb0-7dd6-41d4-b61d-826b8f517e60">Zur
+                            Verhaftung <persName key="pdrPo.001.004.000002822">Wilhelm
+                                Liebknechts</persName> am 2.&#160;Oktober 1866 siehe <ref target="B00178/#d3cd7232-86f4-4309-a619-7609ed71e384">Erl. zu W.
+                                Liebknecht an Engels,
+                                1.10.<?oxy_comment_start author="reichhoff" timestamp="20170519T134156+0200" comment="{{Erl. 173f}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                    veranlaßt hat.<anchor type="verweisziel" xml:id="stop_iry_wzb_5z"/></p><p sameAs="MBTextmitEinzug">Die Saupreussen agiren grade so, wie wir es wünschen müssen. Ohne Köpfen geht das Ding nicht.</p><closer sameAs="MBUnterschrift">Salut<lb/>D<lb/>KM </closer></div></body></text></TEI>

@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00107" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>103</idno>Wilhelm Liebknecht an Karl Marx in London. Leipzig, zwischen
+                    Dienstag, 8. und Dienstag, 15. Mai 1866</title>
+            </titleStmt>
+            <editionStmt>
+                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">f. 1 op. 5 d. 1656</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            185&#160;×&#160;224&#160;mm. Die erste Seite hat Liebknecht vollständig
+                            beschrieben, die zweite zu zwei Dritteln, die übrigen zwei Seiten sind
+                            leer. Schreibmaterial: schwarze Tinte. Die letzte Passage ist mit
+                            Bleistift geschrieben.</p>
+                        <p>Von unbekannter Hand (vermutlich D. B.
+                            <?oxy_comment_start author="strauss" timestamp="20170614T114913+0200" comment="(((nRjazanov,D.B.)))"?>Rjazanov<?oxy_comment_end?>):
+                            auf der ersten Seite oben rechts mit Blaustift die Jahresangabe
+                            „1867“.</p>
+                        <p>Die Datierung stützt sich auf die Beschreibung der Volksversammlung in
+                            Leipzig am 8.&#160;Mai („I sent you ...“ und Erl.) und Marx' Auftritt in
+                            der Sitzung des Zentralrats der IAA am 15.&#160;Mai 1866 mit der
+                            Erwähnung der Tatsachen aus diesem Brief (siehe Erl.).</p>
+                        <p>Die Beilagen („a copy“ und „the enclosed letter“) sind nicht
+                            überliefert.</p>
+                        <p>Liebknecht beantwortet Marx' Brief vom 4.&#160;Mai 1866 (Marx an W.
+                            Liebknecht, 4.5.1866).</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000002822">Wilhelm Liebknecht</persName>
+                    <placeName>Leipzig</placeName>
+                    <date from="1866-05-08" to="1866-05-15" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:39:19Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener><salute sameAs="MBAnrede"><pb/> Dear Williams,</salute></opener>
+                <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>the letters</orig><note xml:id="be35ccd5-9605-41bc-b0ab-8fe224876920">Neben dem <ref target="B00106">Brief vom 4.&#160;Mai 1866</ref>
+                            <?oxy_comment_start author="reichhoff" timestamp="20170403T144549+0200" comment="({{Br. 102}})"?>
+                            <?oxy_comment_end?>schickte Marx an <persName key="pdrPo.001.004.000002822">Liebknecht</persName> auch noch eine
+                            Nummer der Zeitung „The Commonwealth“ (siehe <ref target="B00106/#start_uts_wby_pz">Marx an W. Liebknecht,
+                                4.5.<?oxy_comment_start author="reichhoff" timestamp="20170419T150351+0200" comment="{{Br. 102.6}}"?>1866<?oxy_comment_end?></ref>).</note></seg>
+                    have arrived, and given us much pleasure. When do you think <seg type="comment"><orig>“the work”</orig><note xml:id="edf305c7-a5f6-4925-a81b-7660eb19cefc">Gemeint ist hier Karl
+                            Marx: Das Kapital; siehe<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                            <?oxy_custom_end?><ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu J. Ph.
+                                Becker an Marx, zischen 9. und
+                                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170509T124132+0200" comment="{{Erl. 6b}}"?>1866<?oxy_comment_end?></ref>.
+                            (((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg> will be
+                    finished? I am asked by so many people, and cannot tell anything.</p>
+                <p sameAs="MBTextmitEinzug">From Geneva they protest against the <hi rendition="#u">London</hi>
+                    <seg type="comment"><orig>cards of membership.</orig><note xml:id="f263de48-1684-4f11-b737-dfdfb013e3b4">Siehe <ref target="B00011/#cb864592-8d8a-4a93-b073-8383b8d607bc">Erl. zu Marx
+                                an W. Liebknecht,
+                                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170509T145725+0200" comment="{{Erl. 10c}}"?>1866<?oxy_comment_end?></ref><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>.
+                            (<?oxy_custom_end?>((lInternational Working Men’s Association. Member’s
+                            Annual Subscription Card [for 1866]. [London 1865]. In:_MEGA²&#160;I/20.
+                            S.&#160;817)))</note></seg> I don't know exactly what to do. If you
+                    don't desire it <hi rendition="#u">very</hi> much, I should not give any more
+                    cards, for it is <hi rendition="#u">impossible</hi>, to found a <hi rendition="#u">society</hi> here under the present laws and<seg type="comment"><orig>
+                            <hi rendition="#u">circumstances</hi>.</orig><note xml:id="f3ac0003-f98a-4d28-b4c9-b9c5b2add74c">Siehe <ref target="B00019/#fda124b4-b219-4541-a057-8f8d23914330">Erl. zu W.
+                                Liebknecht an Marx,
+                                21.1.<?oxy_comment_start author="reichhoff" timestamp="20170522T094731+0200" comment="{{Erl. 18c}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                    The principal thing is, to get hold of the working classes, and I think our
+                    ideas make splendid progress amongst them. Here we have driven <seg type="comment"><orig>the Fortschrittlers</orig><note xml:id="db619553-93e2-49d8-8001-ce1e9ef48bb5">Mitglieder der Deutschen
+                            Fortschrittspartei (1861-1884).</note></seg> out of the field
+                    altogether.</p>
+                <p sameAs="MBTextmitEinzug">If <seg type="comment"><orig>the war</orig><note xml:id="a8306270-d807-4efb-897f-7edaa102de6a">Der Deutsche Krieg
+                            (1866).</note></seg> does not break out, or leaves Leipzig untouched
+                        <seg type="comment"><orig>I shall start a <hi rendition="#u">daily</hi>
+                            paper here</orig><note xml:id="e33a4f20-560e-4751-bfa6-23082a56d336"><persName key="pdrPo.001.004.000002822">Liebknecht</persName>
+                            übernahm schließlich im August 1866 die im Jahre 1861 gegründete,
+                            inzwischen bankrotte liberale „Mitteldeutsche Volks-Zeitung“ (Leipzig).
+                            (((zMitteldeutsche Volks-Zeitung))) Das Blatt wurde dann noch im
+                            gleichen Monat verboten und konnte nicht wieder erscheinen, obwohl
+                            Liebknecht derartige Hoffnungen weiter hegte (siehe <ref target="B00178/#start_pgx_hcy_pz">W. Liebknecht an Engels,
+                                1.10.<?oxy_comment_start author="reichhoff" timestamp="20170419T150723+0200" comment="{{Br._173.3-22}}"?>1866<?oxy_comment_end?></ref>).
+                            (((lEisner,Kurt:_Wilhelm Liebknecht. Berlin_1900. S.36/37)))
+                            (((lMorgan,Roger:_The German Social Democrats and the Fiirst
+                            International 1864-1872.Cambridge_1965. S._113/114))) Zu <persName key="pdrPo.001.004.000002822">Liebknechts</persName> Idee, eine
+                            eigene Zeitung zur Verfügung der IAA zu haben siehe auch weitere Briefe
+                            an Marx (<ref target="B00116/#start_wwc_tcy_pz">25.5.<?oxy_comment_start author="reichhoff" timestamp="20170419T151047+0200" comment="{{Br. 112.19–30}}"?>1866<?oxy_comment_end?></ref>,
+                                <ref target="B00119/#start_szd_bgy_pz">5.6.<?oxy_comment_start author="reichhoff" timestamp="20170419T153549+0200" comment="{{Br. 115.14–18}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00151">10.8.<?oxy_comment_start author="reichhoff" timestamp="20170419T165915+0200" comment="{{Br. 147.2–15}}"?>1866<?oxy_comment_end?></ref>.
+                            Zu Marx' Bewertung des Blattes siehe <ref target="B00155">Marx an
+                                Engels,
+                                13.8.<?oxy_comment_start author="reichhoff" timestamp="20170419T170056+0200" comment="{{Br. 151.19–20}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    under the assistance of two Workingmen's Societies.</p>
+                <p sameAs="MBTextmitEinzug">In the name of <seg type="comment"><orig>the
+                            “Arbeiterbildungsverein”</orig><note xml:id="cb81bf6a-5aca-4af4-9e23-623b1e130bd1">Der Leipziger
+                            Arbeiterbildungsverein.</note></seg> I shall soon have to undertake a
+                    little propagandic trip, and—which is really good—, at the expense of <seg type="comment"><orig>the—Nationalverein!</orig><note xml:id="e0aeaee5-c0ec-4ac1-9b06-6f23f053bfa9">Der Deutsche
+                            Nationalverein (1859-1867).</note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>The “Warning”</orig><note xml:id="nowq_vcx_dz">Karl Marx: Warnung (MEGA² I/20. S.&#160;204/205).
+                            Siehe auch <ref target="B00097/#aaa785b0-040b-4650-8a8f-dad401bdbf2e">Erl. zu Marx an Engels,
+                                23.4.<?oxy_comment_start author="reichhoff" timestamp="20170509T165401+0200" comment="{{Erl. 93b}}"?>1866<?oxy_comment_end?></ref>,
+                                <ref target="B00100/#f2403266-7696-4a99-9654-89d0dd7a2f83">Erl. zu
+                                Engels an Marx,
+                                1.5.<?oxy_comment_start author="reichhoff" timestamp="20170509T165655+0200" comment="{{96c}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00104/#bd09c828-996e-4e56-977c-a9f2777c8c76">Erl. zu
+                                A. F. Haufe und F. Leßner,
+                                3.5.<?oxy_comment_start author="reichhoff" timestamp="20170509T165853+0200" comment="{{100b}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    <seg type="comment"><orig>is inserted</orig><note xml:id="nobv_xcx_dz"> Marx
+                            hatte am 4.&#160;Mai 1866 seinen Aufruf an <persName key="pdrPo.001.004.000002822">Liebknecht</persName> mit der Bitte
+                            geschickt, ihn in deutschen Zeitungen veröffentlichen zu lassen (siehe
+                                <ref target="B00106/#start_nsm_4cx_pz">Marx an W. Liebknecht,
+                                4.5.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170419T180328+0200" comment="{{Br. 102.22–28}}"?>)<?oxy_comment_end?>.</note></seg>
+                    in <seg type="comment"><orig>the Abendpost <pb/> (here), the “<bibl sameAs="zzDeutsches Wochenblatt">Wochenblatt”</bibl>
+                            (Mannheim)</orig><note xml:id="nrsx_3bx_dz">„Leipziger Abendpost“
+                            (((zLeipziger_Abendpost))) und „Deutsches Wochenblatt“ (Mannheim). In
+                            diesen beiden Zeitungen erschien der Aufruf vermutlich nicht (siehe
+                            MEGA²&#160;I/20. S._1195/1196).
+                        (((zDeutsches_Wochenblatt)))</note></seg> the Oberrheinische <bibl sameAs="zzOberrheinischer Courier">Courier</bibl> (Freiburg i. Baden) and
+                        <seg type="comment"><orig>has been sent to all the “Arbeiterzeitungen” of
+                            Germany.</orig><note xml:id="nj1w_bdx_dz">Der Aufruf erschien in
+                            folgenden Zeitungen: Warnung [Unterzeichnet:] Im Auftrag des
+                            „Centralraths der Internationalen Arbeiterassociation“. London, den
+                            4.&#160;Mai 1866. Karl Marx. In: Allgemeine deutsche Arbeiter-Zeitung.
+                            Coburg. Nr.&#160;176, 13.&#160;Mai 1866. Beil. S.&#160;1016;
+                            (((lMarx,Karl:_Warnung. In: Allgemeine deutsche Arbeiter-Zeitung.
+                            Coburg. Nr.&#160;176, 13.&#160;Mai 1866. Beil. S.&#160;1016))) Warnung
+                            [Unterzeichnet:] London, den 4.&#160;Mai 1866. Im Auftrage des
+                            Centralraths der „Internationalen Arbeiter-Association“. Karl Marx. In:
+                            Der Bote vom Niederrhein. Zugleich Anzeiger für den Kreis Duisburg.
+                            Duisburg. Nr.&#160;57, 13.&#160;Mai 1866. S.&#160;3/4;
+                            (((lMarx,Karl:Warnung. In: Der Bote vom Niederrhein. Zugleich Anzeiger
+                            für den Kreis Duisburg. Duisburg. Nr.&#160;57, 13.&#160;Mai 1866.
+                            S.&#160;3/4))) London, 5.&#160;Mai. (Warnung.) [Unterzeichnet:] Im
+                            Auftrag des „Centralraths der internationalen Arbeiterassociation“. Karl
+                            Marx. London den 4.&#160;Mai 1866. In: Oberrheinischer Courier damit
+                            verbunden der Freiburger Anzeiger. Freiburg_i._Br. Nr.&#160;113,
+                            15.&#160;Mai 1866. S._3; (((lMarx,Karl:_London, 5.&#160;Mai. (Warnung.)
+                            In: Oberrheinischer Courier damit verbunden der Freiburger Anzeiger.
+                            Freiburg_i._Br. Nr.&#160;113, 15.&#160;Mai 1866. S._3))) Vor einiger
+                            Zeit&#160;… In: Die Arbeit. Frankfurt a. M. Jg._1. Nr. 5, Mai 1866.
+                            S.&#160;135/136; (((l[Marx,Karl:]_Vor einiger Zeit&#160;… In: Die
+                            Arbeit. Frankfurt a. M. Jg._1. Nr. 5, 5. Mai 1866. S.&#160;135/136.)))
+                            Warnung. [Unterzeichnet:] Im Auftrag des „Centralraths der
+                            internationalen Arbeiterassociation“. Karl Marx. London, den 4.&#160;Mai
+                            1866. In: Mitteldeutsche Volks-Zeitung. Leipzig. Nr.&#160;184;
+                            10.&#160;August 1866. S.&#160;3. Siehe dazu auch MEGA²&#160;I/20.
+                            S._1195-1198. (((lMarx,Karl:Warnung. In: Mitteldeutsche Volks-Zeitung.
+                            Leipzig. Nr.&#160;184, 10.&#160;August 1866. S.&#160;3)))
+                    </note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>I sent you a copy of the
+                            Abendpost with an extra supplement containing a short report of the
+                            tremendous whipping we gave the Bismarckians on Tuesday
+                            last.</orig><note xml:id="aee7d78a-aabc-4e47-a746-0d57239c20f8">Am
+                            8.&#160;Mai 1866 fand im Leipziger Odeon eine Volksversammlung gegen die
+                            von Stadtrat und Stadtverordneten befürwortete Vermeidung jeglicher
+                            Konfrontation mit Preußen statt. Einberufen worden war die Versammlung
+                            vom Arbeiterbildungsverein, von der Gemeinde des ADAV und den Leipziger
+                            Großdeutschen. Eine von <persName key="pdrPo.001.004.000000303">Bebel</persName> verlesene Resolution wurde einstimmig angenommen.
+                            Siehe August Bebel: Bannt die Gefahr des Bruderkrieges und der
+                            Verpreußung Deutschlands! Resolution der Volksversammlung in Leipzig.
+                            8._Mai 1866. In: Derselbe: Ausgewählte Reden und Schriften. Bd._1.
+                            Berlin_1970. S._13. (((lBebel,August:_Bannt die Gefahr des Bruderkrieges
+                            und der Verpreußung Deutschlands! Resolution der Volksversammlung in
+                            Leipzig. 8._Mai 1866. In: Derselbe: Ausgewählte Reden und Schriften.
+                            Bd._1. Berlin_1970. S._13))) </note></seg></p>
+                <p sameAs="MBTextmitEinzug">Please to forward the enclosed letter <hi rendition="#u">without delay</hi>. I offer to send <seg type="comment"><orig>the
+                        Star</orig><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><note xml:id="fcf4c464-e025-433d-932f-30c9c247bf5e"><?oxy_custom_end?>„The
+                            Morning Star“ (London). (((zThe Morning
+                            Star)))<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                        </note></seg><index indexName="XE">
+                        <term>zzThe Morning Star</term>
+                        <?oxy_custom_end?>
+                    </index> one or two letters a week. </p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>You have again forgotten the
+                                “<bibl sameAs="zzThe Commonwealth">Commonwealth”</bibl>.</orig><note xml:id="f90df3ca-9407-4560-bd12-8e5ceae7e574">Siehe <ref target="B00106/#start_rpn_rzy_pz">Marx an W. Liebknecht,
+                                4.5.<?oxy_comment_start author="reichhoff" timestamp="20170419T180509+0200" comment="{{Br. 102.6–13}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p>
+                <p sameAs="MBTextmitEinzug">Remember me to all friends</p>
+                <closer sameAs="MBUnterschrift">Your old<lb/>Miller</closer>
+                <postscript>
+                    <p>If my <hi rendition="#u">friends</hi> enter <seg type="comment"><orig>“Kleinparis”</orig><note xml:id="ddf7b5ef-6329-40b2-bc0c-8450899c3193">Gemeint ist Leipzig;
+                                nach Johann Wolfgang von Goethe: Faust. Eine Tragödie. Erster Teil.
+                                Auerbachs Keller in Leipzig. <persName key="pdrPo.001.004.000001818">Goethe</persName> lässt den Studenten <persName key="ed_kgf_nsn_cz">Frosch</persName> sagen: „Mein Leipzig lob‘
+                                ich mir! Es ist ein klein Paris, und bildet seine Leute“
+                                (((lGoethe,J.W.v.:Faust. Eine Tragödie. Erster Teil)))
+                        </note></seg>, I shall perhaps soon meet you. </p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

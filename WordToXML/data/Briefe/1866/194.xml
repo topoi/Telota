@@ -1,0 +1,37 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00201" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>194</idno>Cesare Orsini an Karl Marx in London. London, Dienstag, 4. Dezember 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 1683</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format 265&#160;×&#160;206&#160;mm. Prägung: „Hotel De La Boule d’Or Jaques Lorgue 3,&#160;Persy Street Bedford Square Londres&#160;W.“ Die erste und die dritte Seite hat Orsini vollständig beschrieben, die zweite und vierte Seite sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von unbekannter Hand: Jahresangabe auf der ersten Seite oben rechts mit Bleistift: „66“.</p></physDesc></msDesc><listWit><witness><bibl>Erstveröffentlichung: La corrispondenza di Marx e Engels con italiani (1964). S.&#160;9.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_erg_rjw_wx">Cesare Orsini</persName><placeName>London</placeName><date when="1866-12-04"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:40:15Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><salute sameAs="MBAnrede"><pb/> Mon cher M<hi rendition="#sup">r</hi> Marks.</salute></opener><p sameAs="MBTextohneEinzug"><persName key="pdrPo.001.004.000002648">Lafargue</persName> m'ayant fait comprendre que pour l'état de votre Santé il n'était pas convenable d'<expan resp="editor" sameAs="dottet_underline">al<ex>l</ex>er</expan> vous voir, j'ai remis ma visite dans quelques jours après mon retour d'Italie qui aura lieu le 8 du mois prochain&#160;–</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>J'ai terminé mon affaire de
+                <?oxy_comment_start author="lindenberg" timestamp="20170425T134341+0200" comment="vorher Domingo -- Saint-Domingue war von 1697 bis 1804 eine französische Kolonie auf dem Gebiet des heutigen Haiti. Der Name Saint-Domingue ist die französische Entsprechung des spanischen Begriffs Santo Domingo. "?>S<hi rendition="#sup">t</hi> Domingue<?oxy_comment_end?> et je crois que notre ami
+                <persName key="pdrPo.001.004.000001214">Dronke</persName> aura là une excellente
+              affaire dans les mains.</orig><note xml:id="nmzd_qs3_kz"><persName key="ed_erg_rjw_wx">Cesare Orsini</persName> war kürzlich aus den USA zurückgekehrt (siehe <ref target="B00064">Marx an Engels,
+                15.3.<?oxy_comment_start author="reichhoff" timestamp="20170506T181233+0200" comment="{{Br. 60.4-6}}"?>1866<?oxy_comment_end?></ref>).</note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Quant a l'association, nous avons des elements
+                                                  en Amerique pour faire tout, ce que nous
+                                                  voulons&#160;– Si les hommes les <expan resp="editor" sameAs="dottet_underline">p<ex>l</ex>us</expan> importans de l'association,
+                                                  vous en tête, se mettront en communication directe
+                                                  avec les hommes d'Amerique</orig><note xml:id="ne4p_ht3_kz">Orsini berichtete darüber im
+                                                  Subkomitee am 1. Dezember 1866. Siehe Minutes of
+                                                  the General Council 1866/1867. In: MEGA²_I/20.
+                                                  S._512.33–513.7 und Rapport du Conseil Général de
+                                                  l’Association Internationale des Travailleurs au
+                                                  Congrès de Lausanne (1867). In: MEGA²_I/20. S.
+                                                  784.11–26). (((lMinutes of the General Council
+                                                  1866/1867. In: MEGA²_I/20. S._477–591)))
+                                                  (((lRapport du Conseil Général de l’Association
+                                                  Internationale des Travailleurs au Congrès de
+                                                  Lausanne (1867). In: MEGA²_I/20. S._771–787))) Er
+                                                  nahm an der Sitzung des Subkomitees am 1. Dezember
+                                                  und des Generalrats der IAA am 4. Dezember 1866
+                                                  teil. Siehe Minutes of the General Council
+                                                  1866/1867. In: MEGA²_I/20. S. 512.33–513.7, 21–23
+                                                  (((lMinutes of the General Council 1866/1867. In:
+                                                  MEGA²_I/20. S._477–591))</note></seg> dans le
+                                        court espace de quelques mois, avant la reunion du <seg type="comment"><orig>prochain Congres,</orig><note xml:id="ncbw_vs3_kz">Nach dem Beschluss des Genfer
+                                                  Kongresses der IAA sollte der nächste Kongress im
+                                                  September 1867 in Lausanne stattfinden (siehe
+                                                  Association_lnternationale des Travailleurs.
+                                                  Compte rendu du Congrès de Genève (1866). In:
+                                                  MEGA²_I/20. S. 676.5–6.
+                                                  (((lAssociation_lnternationale des Travailleurs.
+                                                  Compte rendu du Congrès de Genève (1866). In:
+                                                  MEGA²_I/20. S. 649–679)))</note></seg> on en
+                                                <expan resp="editor" sameAs="dottet_underline">verrai<ex>t</ex></expan>
+                                        <pb/> de très grands resultats.</p><p sameAs="MBTextmitEinzug">Bien des compliments à Mad<hi rendition="#sup">me</hi> Marks, et a vos
+          charmantes demoiselles.–</p><closer sameAs="MBUnterschrift">Tout a vous &amp; toujours<lb/>C. Orsini.</closer><p sameAs="MBAdresse">4 Decembre 1866</p><postscript><p>P.S.</p></postscript><postscript><p>Si je peux vous servir en quoi que ce soit, écrivez moi Poste restante, Florence – </p></postscript></div></body></text></TEI>

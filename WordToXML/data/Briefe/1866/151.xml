@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00155" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>151</idno>Karl Marx an Friedrich Engels in Manchester. London, Montag, 13. August 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4460/L VI 591</idno></idno></msIdentifier><physDesc>
+                        <p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format
+                            183&#160;×&#160;111&#160;mm. Die erste und dritte Seite hat Marx
+                            vollständig beschrieben, die übrigen beiden sind leer. Schreibmaterial:
+                            schwarze Tinte.</p>
+                        <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand:
+                            Numerierung  der beschriebenen Seiten: „47,1“ bzw.
+                            „47,2“.<?oxy_comment_start author="lindenberg" timestamp="20170424T164401+0200" comment="Numerierung des Briefes bzw. der beschriebenen Seiten: „47,1“ bzw. „47,2“."?></p>
+                        <?oxy_comment_end?>
+                        <p>Marx beantwortet den Brief von Engels vom 10.&#160;August 1866
+                            (Br.&#160;146).</p>
+                        <p>Zu den Beilagen siehe Erl.&#160;151e und 151f.</p>
+                        <p>Erstveröffentlichung (gekürzt): Bw&#160;3 (1913). S.&#160;344/345;
+                            vollständig: MEGA<hi rendition="#sup">1</hi> III/3 (1930).
+                            S.&#160;357.</p>
+                    </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1986</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-08-13"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:48Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> 13 Août. 1866.</dateline>
+                    <salute sameAs="MBAnrede">Dear Fred,</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug"><persName key="pdrPo.001.004.000001129">Lehnchen</persName> kam Sonnabend zu spät auf die Post, um <seg type="comment"><orig>die zwei Zeilen</orig><note xml:id="nrfg_dk4_hz">Ein
+                            Brief von Marx an Engels, geschrieben Sonnabend, den 11. August 1866,
+                            ist nicht überliefert.</note></seg> fortzuschicken, worin ich <seg type="comment"><orig>den Empfang der L.&#160;10</orig><note xml:id="nrc2_hk4_hz">Siehe <ref target="B00149/#start_ib2_bvn_tz">Marx
+                                an Engels,
+                                7.8.<?oxy_comment_start author="reichhoff" timestamp="20170503T165701+0200" comment="{{Br. 145.5–8}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00150/#start_iqf_cmw_tz">Engels an Marx,
+                                10.8.<?oxy_comment_start author="reichhoff" timestamp="20170503T165855+0200" comment="{{Br._146.10–17}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    mit bestem Dank angezeigt.</p>
+                <p sameAs="MBTextmitEinzug">Du mußt entschuldigen, wenn ich heute <hi rendition="#u">keinen</hi> Brief schreibe. Ich habe die dringendsten Geschäfte auf dem
+                    Hals. <seg type="comment"><orig>Dem <persName key="pdrPo.001.004.000002648">Lafargue</persName> habe ich <add>heute</add> langen französischen
+                            Brief geschrieben, worin ich ihm anzeige, daß ich von seiner Familie des
+                            renseignements positifs über seine ökonomischen Verhältnisse haben muß,
+                            bevor die Sache weiter gehn oder sich zu einem arrangement entwickeln
+                            kann.</orig><note xml:id="nhqb_yk4_hz">Siehe <ref target="B00154">Marx
+                                an P. Lafargue,
+                                13.8.<?oxy_comment_start author="reichhoff" timestamp="20170405T192135+0200" comment="{{Br. 150}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    <seg type="comment"><orig>Ein Brief, den er mir gestern von einem berühmten
+                            französ. Arzt in Paris mittheilte, spricht für ihn.</orig><note xml:id="f4d5d61e-7732-4581-b9a0-be5c683c8d04">Marx erwähnt hier einen
+                            Brief von <persName key="pdrPo.001.004.000003253">Jules Antoine
+                                Moilin</persName> an <persName key="pdrPo.001.004.000002648">Paul
+                                Lafague</persName>, vermutlich vom 27.&#160;Juli 1866 (RGASPI, Sign.
+                            f.&#160;10, op.&#160;1, d.&#160;88/3). Moilin sieht darin für Lafargue
+                            gute Karrierechancen als praktizierender Arzt. (((lMoilin,Jules_Antoine
+                            an Paul Lafague, vermutlich 27.&#160;Juli 1866 (RGASPI, Sign.
+                            f.&#160;10, op.&#160;1, d.&#160;88/3) ))) </note></seg>
+                </p>
+                <p sameAs="MBTextmitEinzug"><pb/>
+                    <seg type="comment"><orig>Der Titel des Buchs: „<hi rendition="#u"><persName key="ed_mly_4vn_hz">P.&#160;Trémaux</persName></hi><hi rendition="#u">: Origine et Transformations de L'Homme et des autres
+                                Êtres</hi>. Première Partie. <hi rendition="#u">Paris.</hi>
+                            (Librairie de L.&#160;Hachette) <hi rendition="#u">1865</hi>.“ Der
+                            zweite Theil ist noch nicht erschienen. Keine Planches. Die geologischen
+                            maps des Manns sind in seinen andern Werken.</orig><note xml:id="nvdd_km4_hz">Siehe <ref target="B00149/#start_yjh_t5n_tz">Marx
+                                an Engels,
+                                7.8.<?oxy_comment_start author="reichhoff" timestamp="20170503T170400+0200" comment="{{Br. 145.33–71}}"?>1866<?oxy_comment_end?></ref>
+                            und <ref target="B00149/#ncfd_nts_gz">Erl. zu Marx an Engels,
+                                7.8.<?oxy_comment_start author="reichhoff" timestamp="20170518T124511+0200" comment="{{Erl. 145d}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                    <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(((lTrémaux,P<supplied cert="high">ierre</supplied>: Origine et transformations de l’homme et des
+                    autres êtres. Pt._1. Paris 1865)))</p>
+                <?oxy_custom_end?>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Einliegend Wisch von <persName key="pdrPo.001.004.000002822">Liebknecht</persName>.</orig><note xml:id="nk1k_pm4_hz">Siehe <ref target="B00151">W. Liebknecht an Marx,
+                                10.8.<?oxy_comment_start author="reichhoff" timestamp="20170405T193113+0200" comment="{{Br. 147}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    <seg type="comment"><orig>Ich schicke Dir auch seine <bibl sameAs="zzMitteldeutsche Volks-Zeitung">Zeitungen,</bibl> die keinen
+                            Schuß Pulver werth sind.</orig><note xml:id="nqxd_ln4_hz">Exemplare der
+                            „Mitteldeutschen Volks-Zeitung“ (Leipzig), siehe <ref target="B00151">W.
+                                Liebknecht an Marx,
+                                10.8.<?oxy_comment_start author="reichhoff" timestamp="20170503T170555+0200" comment="{{Br. 147.6–8}}"?>1866<?oxy_comment_end?></ref>,
+                            sind nicht überliefert. (((zMitteldeutsche
+                    Volks-Zeitung)))</note></seg></p>
+                <p sameAs="MBTextmitEinzug">Salut!</p>
+                <closer sameAs="MBUnterschrift">Dein<lb/>KM</closer>
+                <postscript>
+                    <p><seg type="comment"><orig>Ich werde auch die Hauptschrift des Pariser, oben
+                                erwähnten médecin bekommen u. Dir zur Mittheilung schicken, sobald
+                                ichs selbst gelesen.</orig><note xml:id="a68bf500-67f0-47d6-835a-d1768be5a5d0">
+                                <p rend="endnote text">Tony [Jules Antoine] Moilin: Leçons de
+                                    médecine physiologique. Paris 1866. (((lMoilin,Tony [Jules
+                                    Antoine]: Leçons de médecine physiologique. Paris 1866))) - Der
+                                        <persName key="pdrPo.001.004.000003253">Verfasser</persName>
+                                    schickte je ein Exemplar seines Buches an <persName key="pdrPo.001.004.000002648">Paul Lafargue</persName> und
+                                        <persName key="pdrPo.001.004.000003076">Laura
+                                        Marx</persName>, siehe seinen Brief an Paul Lafargue, etwa
+                                    September 1866 (RGASPI, Sign. f.&#160;10, op.&#160;1,
+                                    d.&#160;88/6). (((lMoilin,Jules_Antoine an Paul Lafargue, etwa
+                                    September 1866 (RGASPI, Sign. f.&#160;10, op.&#160;1,
+                                    d.&#160;88/6) ))) Marx dürfte das Buch gelesen haben, hatte es
+                                    dann an Engels geschickt und <persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName>
+                                    darüber geschrieben. Siehe <ref target="B00179">Marx an Engels,
+                                        1.10.<?oxy_comment_start author="reichhoff" timestamp="20170503T170757+0200" comment="{{Br. 174.24}}"?>1866<?oxy_comment_end?></ref>,
+                                        <ref target="B00180">Engels an Marx,
+                                        2.10.<?oxy_comment_start author="reichhoff" timestamp="20170503T170953+0200" comment="{{Br._175.10–11}}"?>1866<?oxy_comment_end?></ref>,
+                                        <ref target="B00182/#start_eyq_wnw_tz">5.10.<?oxy_comment_start author="reichhoff" timestamp="20170503T171352+0200" comment="{{Br._177.68–89}}"?>1866<?oxy_comment_end?></ref>
+                                    und <ref target="B00183/#start_tht_f4w_tz">Marx an L. Kugelmann,
+                                        9.10.<?oxy_comment_start author="reichhoff" timestamp="20170503T171620+0200" comment="{{Br._178.63–67}}"?>1866<?oxy_comment_end?></ref>.</p>
+                            </note></seg>
+                    </p>
+                </postscript>
+            </div></body></text></TEI>

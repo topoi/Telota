@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00028" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>25b</idno>Jenny Marx (Tochter) an Friedrich Engels in Manchester.
+                    London, spätestens Sonntag, 4. Februar 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">f. 7 op. 1 d. 9/1</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            178&#160;×&#160;144&#160;mm. Prägung: blaues Monogramm „LL“ auf Schild.
+                            Die ersten drei Seiten hat Jenny Marx (Tochter) vollständig, die vierte
+                            zu einem Drittel beschrieben. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Archivsignatur auf der ersten Seite oben: „11 P 24“.</p>
+                        <p>Zur Datierung: In den Briefen von Marx an Engels, 7.&#160;Juli und von
+                            Engels an Marx, 9.&#160;Juli 1866 (siehe jeweils dort) geht es wieder um
+                            die Blumenzwiebeln, die Jenny Marx (Tochter) Engels mittlerweile gegeben
+                            hatte. Die Erwähnung von Marx’ Krankheit und der Unterbrechung seiner
+                            Arbeit am „Kapital“ („Poor Mohr“) steht in enger inhaltlicher Verbindung
+                            mit den Briefen von Jenny Marx (Frau) an Johann Philipp Becker, Sigfrid
+                            Meyer und Engels (J. Marx an J. Ph. Becker, 29.1.1866; J. Marx an S.
+                            Meyer, 29.1.1866 und J. Marx an Engels, Ende Jan. 1866), die alle um den
+                            29.&#160;Januar 1866 geschrieben worden sind. Daher lässt sich dieser
+                            Brief auf die Zeit um Ende Januar bis Anfang Februar 1866, spätestens
+                            wohl auf Sonntag („Sunday afternoon“), den 4.&#160;Februar 1866,
+                            datieren.</p>
+                        <p>Datierung in der Erstveröffentlichung: Anfang Februar 1866.</p>
+                        <p>Engels’ Antwort, geschrieben nach dem 4. und vor dem 10.&#160;Februar
+                            1866 (siehe J. Marx an Engels vor 10.2.1866: „Jenny die eben Ihren Brief
+                            ...“) ist nicht überliefert.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness><bibl>Erstveröffentlichung: in russischer Übersetzung: Переписка Карла
+                            Маркса, Фридриха Энгельса и членов семьи Маркса (1983).
+                            S.&#160;269/270</bibl>.</witness>
+                    <witness><bibl>in der Sprache des Originals wird der Brief hier erstmals
+                            veröffentlicht.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000003074">Jenny Marx (Tochter)</persName>
+                    <placeName>London</placeName>
+                    <date when="1866-02-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName>Manchester</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:38:29Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> 1, Modena Villas,<lb/><hi rendition="#u">Sunday afternoon</hi></dateline>
+                    <salute sameAs="MBAnrede">Dear Engels,</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug">I have just received a splendid collection of bulbs
+                    from the Cape of Good Hope, from <seg type="comment"><orig>an uncle</orig><note xml:id="f1a4b540-6fcb-48e2-be8e-679ae778d56e"><persName key="pdrPo.001.004.000002421">Carel Juta</persName>. </note></seg>
+                    of ours. They are in a capital condition &amp; among them are some really rare
+                    specimens. Now as I know you also are somewhat in the gardening line, I send you
+                    a few of them, &amp; hope they will safely reach you.</p>
+                <p sameAs="MBTextmitEinzug">From enquiries I have made, I hear that it is by no
+                    means difficult to rear these bulbs in England, although they are indigenous to
+                    the Cape. <seg type="comment"><orig>A temperature of about
+                            50&#160;degrees</orig><note xml:id="b1411c69-0e13-4334-8c15-36af8ef81ca8">Die Temperatur ist nach
+                            der Fahrenheit-Skala angegeben.</note></seg> will answer very well,
+                    <pb/> &amp; where there is no conservatory, they will grow in a room, if kept
+                    close by the window.</p>
+                <p sameAs="MBTextmitEinzug">The large bulbs must not be entirely covered up with the
+                    soil, but be potted up to about the middle of the bulbs.</p>
+                <p sameAs="MBTextmitEinzug">A <hi rendition="#u">common</hi> soil will do for the
+                    bulbs named Buphone ciliaris, Ixia candida, <choice>
+                        <sic>Mororea Spathacea</sic>
+                        <corr cert="high">Moraea Spatacea</corr>
+                    </choice> &amp; <choice>
+                        <sic>edilis</sic>
+                        <corr cert="high">edulis</corr>
+                    </choice>, Gladiolus tristes, Cyanella capensis, Pelargonium flavum, Hesperantha
+                    graminea &amp; cinnamomea.</p>
+                <p sameAs="MBTextmitEinzug">A <hi rendition="#u">moist </hi>&amp; <hi rendition="#u">light</hi> soil for the Gladiolus trimaculatus &amp; hirsutus for the
+                    Nerine undulata, Belladonna rosea &amp; the <choice>
+                        <sic>Velheimia viridefolia</sic>
+                        <corr cert="high">Veltheimia viridifolia</corr>
+                    </choice> bulbs.</p>
+                <p sameAs="MBTextmitEinzug">A <hi rendition="#u">light</hi> &amp; <hi rendition="#u">sandy</hi> soil for the bulbs Satyrium erectum, carneum &amp; albidum, <choice>
+                        <sic>Hamanthus</sic>
+                        <corr cert="high">Haemanthus</corr>
+                    </choice> pubescens <pb/> &amp; tigrinus &amp; Babiana ringens.</p>
+                <p sameAs="MBTextmitEinzug">I should think it will be easy to procure the soil in
+                    any nursery—here in Hampstead at least we have found no difficulty in doing so,
+                    indeed I am at the present moment surrounded by pots &amp; pans &amp; sand of
+                    all descriptions.</p>
+                <p sameAs="MBTextmitEinzug">With kind regards from all of us,</p>
+                <closer sameAs="MBUnterschrift">Believe me, always<lb/>Affectionately
+                    yours,<lb/>Jenny Marx.</closer>
+                <p sameAs="MBTextohneEinzug">Poor Mohr has again fallen a victim to a carbuncle. Is
+                    it not dreadful?</p>
+                <p sameAs="MBTextmitEinzug">He was getting on so well with <seg type="comment"><orig>his book</orig><note xml:id="e6fc424c-e3d3-46a4-8228-d0b3080d5199">Gemeint ist hier Karl
+                            Marx: Das Kapital; siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx
+                                an J. Ph. Becker, zwischen 9. und 15.1.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170512T170450+0200" comment="{{Erl. 6b}}."?>
+                            <?oxy_comment_end?>(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))
+                        </note></seg>—chapter on chapter was growing up before him.</p>
+                <p sameAs="MBTextmitEinzug">There certainly is some consolation in the thought that
+                    the carbuncle is not so painful, nor is it so dangerous as were some of the
+                    <pb/> former ones—however, as it is, it causes our poor Moor much suffering.</p>
+                <closer sameAs="MBUnterschrift">Good bye.</closer>
+                <p sameAs="MBTextohneEinzug">Just at present the bulbs do not require much moisture.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

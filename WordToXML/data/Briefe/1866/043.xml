@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00046" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>43</idno>Karl Marx an Friedrich Engels in Manchester. London, Dienstag, 20. Februar 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 1 d. 5587</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            224&#160;×&#160;178&#160;mm. Prägevignette:„Extra Super“. Marx hat alle
+                            vier Seiten vollständig beschrieben. Schreibmaterial: schwarze
+                            Tinte.</p><p>Archivsignatur des SPD-Archivs auf der ersten Seite oben: „1B<hi rendition="#sup">2</hi>“.</p><p>Marx beantwortet Engels' Brief vom 19.&#160;Februar 1866 (Engels an Marx, 19.2.1866). Engels
+                            antwortete am 22.&#160;Februar 1866 (Engels an Marx, 22.2.1866).</p></physDesc></msDesc><listWit><witness><bibl>Erstveröffentlichung: in russischer Übersetzung: МЭС<hi rendition="#sup">2 </hi>31
+                            (1963). S.&#160;153/154</bibl>.</witness><witness><bibl>in der Sprache des Originals: MEW&#160;31 (1965). S.&#160;182/183.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1866-02-20"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:42Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 20 Feb. 1866.</dateline><salute sameAs="MBAnrede">Lieber Fred,</salute></opener>
+                <anchor type="verweisziel" xml:id="start_b1m_bls_nz"/><p sameAs="MBTextohneEinzug">Du kannst Dir denken, <seg type="comment"><orig>wie gelegen die
+                            £&#160;10 kamen.<anchor type="verweisziel" xml:id="stop_b1m_bls_nz"/></orig><note xml:id="cdd1356d-6619-4562-a088-4efa1ab9d303">Siehe <ref target="B00044">Engels an Marx,
+                                19.2.<?oxy_comment_start author="reichhoff" timestamp="20170411T160345+0200" comment="{{Br. 41.3–4}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    Ich hatte zwei Exekutionsdrohungen im Haus, für die Sau-Municipaltaxes v.
+                    6&#160;£ 9&#160;s. u. für die Queen’s Taxes von 1&#160;£. 16&#160;s. Und der
+                    Termin verlief bis Freitag.</p><p sameAs="MBTextmitEinzug">Was die Karbunkel <subst>
+                        <del rendition="#s">steht</del>
+                        <add place="intralinear">angeht</add>
+                    </subst>, so steht es so:</p><p sameAs="MBTextmitEinzug">Von dem <hi rendition="#u">obern</hi> hatte ich Dir, mit meiner langen
+                    Praxis, gesagt, daß er eigentlich <hi rendition="#u">geschnitten</hi> werden
+                    müsse. Heute (Dienstag), nach Empfang Deines Briefes, nahm ich ein scharfes
+                    Rasiermesser, Relict of dear <seg type="comment"><orig>lupus</orig><note xml:id="d69b544a-0793-4ba2-a7c6-bf6e226f6eb4"><persName key="pdrPo.001.004.000005180">Wilhelm Wolff</persName>.
+                        </note></seg>, u. <hi rendition="#u">schnitt den Hund in eigner Person</hi>.
+                    (Ich kann Aerzte nicht zwischen den Geschlechtstheilen oder in ihrer Nähe
+                    dulden. Im übrigen stellt Allen mir das Zeugniß aus, that I am one of the best
+                    subjects to be operated upon. Ich erkenne immer <hi rendition="#u">das
+                        Nothwendige</hi> an.) Das sang brûlé, as <persName key="ed_zx5_kmb_kz">Mrs.&#160;Lormier</persName> says, quillte, sprang vielmehr, hoch empor, u.
+                    ich betrachte diesen Karbunkel nun als begraben, obgleich it still wants some
+                    nursing.</p><p sameAs="MBTextmitEinzug">Was den <hi rendition="#u">untern</hi> Hund angeht, so wird er bösartig;
+                    <pb/> er ist ausser meiner Controlle; hat mich die ganze Nacht nicht schlafen
+                    lassen. Geht diese Schweinerei voran, so muß ich natürlich Allen kommen lassen,
+                    da ich unfähig bin, in Folge des locus des Hundes, ihn selbst to watch and <subst>
+                        <del rendition="#s">treat</del>
+                        <add place="intralinear">cure</add>
+                    </subst>. Im Uebrigen ist es klar, daß ich, on the whole, von Karbunkelkrankheit
+                    mehr weiß als die meisten Aerzte.</p><p sameAs="MBTextmitEinzug">Was ich übrigens dem <persName key="pdrPo.001.004.000001969">Gumpert</persName>
+                    <seg type="comment"><orig>bei meinem letzten stay in Manchester</orig><note xml:id="cd3ec20c-56f4-4e37-a5cd-0661831369f9">Marx weilte ab dem
+                            20.&#160;Oktober 1865 bei Engels in Manchester. Am 3.&#160;November war
+                            er wieder in London eingetroffen. Siehe MEGA²&#160;III/13.
+                            Br.&#160;323.3-4 und Br. 330.5.</note></seg>
+                    <hi rendition="#u">angedeutet</hi>, ist noch meine Ansicht: nähmlich daß das
+                    Jucken u. Kratzen zwischen dem Hoden u. dem Podex, seit 2½&#160;Jahren, u. das
+                        <hi rendition="#u">Abschälen der Haut</hi>, in Folge davon, meinen Körper
+                    mehr aufreibt als irgend etwas andres. Die Sache fing an ½&#160;Jahr vor dem
+                        <add>ersten</add> Monster-Carbunkel, den ich auf dem Rücken hatte, u. dauert
+                    fort bis jetzt.</p><p sameAs="MBTextmitEinzug">---------------</p><p rend="MBTextOhneEinzug">Lieber boy, unter allen diesen Umständen fühlt man more than ever das Glück solcher Freundschaft, wie sie zwischen uns existirt. Du weißt Deiner seits, daß <hi rendition="#u">keine</hi> Beziehung für mich so hoch gilt. </p><p sameAs="MBTextmitEinzug"><pb/>
+                    <seg type="comment"><orig>Ich schicke Dir morgen Zaches u. <expan resp="editor" sameAs="dottet_underline">Fact<ex>ory</ex></expan>
+                            <expan resp="editor" sameAs="dottet_underline">Rep<ex>orts</ex></expan>.</orig><note xml:id="cf4a66cd-f2ce-4ff1-bf1f-4853d34920b3">Siehe <ref target="B00044/#b6797b2b-c8a6-49a5-bdee-68ba9159070b">Erl. zu Engels
+                                an Marx, 19.2.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170516T145456+0200" comment="{{Erl. 41b}}"?>
+                            <?oxy_comment_end?>und <ref target="B00044/#e68a7820-fcd6-4f26-bcec-76b40a779e3d">Erl. zu Engels
+                                an Marx, 19.2.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170516T145520+0200" comment="{{41c}}."?></note><?oxy_comment_end?></seg>
+                    Du verstehst, my dear fellow, daß in <seg type="comment"><orig>einem Werke wie
+                            meinem,</orig><note xml:id="b8294a19-7c2a-4083-8f72-4e8ddd6b533c">Gemeint ist hier Karl Marx: Das Kapital; siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx
+                                an J. Ph. Becker, zwischen 9. und 15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170516T145909+0200" comment="{{Erl. 6b}}."?>
+                            <?oxy_comment_end?>(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg>
+                    manche shortcomings im Détail existiren müssen. Aber die <hi rendition="#u">Composition</hi>, der Zusammenhang, ist ein Triumph der deutschen
+                    Wissenschaft, den ein einzelner Deutscher eingestehn kann, da es in no way <hi rendition="#uu">sein</hi> Verdienst ist, vielmehr der <hi rendition="#u">Nation</hi> gehört. Dieß um so erfreulicher, da es sonst die <hi rendition="#u">silliest nation</hi> unter dem Sonnenlicht!</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_cm4_g2q_nz"/>Die Thatsache, die <persName key="pdrPo.001.004.000002817">Liebig</persName> „denuncirt“ hatte,
+                            u. die dem <persName key="pdrPo.001.004.000004304">Schönbein</persName>
+                            Anlaß zu seinen Untersuchungen gab,</orig><note xml:id="c723de05-cac7-4ca2-be07-a40c1c0a4e96">Siehe <ref target="B00039/#start_zy4_dgs_nz">Marx an Engels, 13.2.1866 </ref><?oxy_comment_start author="reichhoff" timestamp="20170411T161111+0200" comment="{{Br. 36.15–20}} "?>und<?oxy_comment_end?>
+                            <ref target="B00039/#d757a8dc-c258-4791-bacd-e0e1bbeb879c">Erl. zu Marx
+                                an Engels, 13.2.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170516T150722+0200" comment="{{Erl. 36b}}."?></note><?oxy_comment_end?></seg>
+                    war diese:</p><p sameAs="MBTextmitEinzug">Die <hi rendition="#u">obern</hi> Schichten des Bodens enthalten immer
+                    mehr Amoniak als die <hi rendition="#u">tiefern</hi>, statt daß sie, wären sie <subst>
+                        <del>dxxxx<sic ana="#break-off"/></del>
+                        <add>durch</add>
+                    </subst> den Pflanzenbau ärmer daran geworden, weniger davon enthalten müßten.
+                    Das <hi rendition="#u">Factum</hi> war v. allen Chemikern anerkannt. Die Ursache
+                    allein <hi rendition="#u">unbekannt</hi>. </p><p sameAs="MBTextmitEinzug"><pb/> Bis dato galt Fäulniß als einzige Quelle des Ammoniaks. Alle Chemiker läugneten (<hi rendition="#u">Liebig</hi> auch), daß der Stickstoff der Luft als Nahrungsstoff der Pflanzen dienen könne.</p><p sameAs="MBTextmitEinzug"><persName key="pdrPo.001.004.000004304">Schönbein</persName> (<expan resp="editor" sameAs="dottet_underline">d<ex>ur</ex>ch</expan> Experimente) bewies, daß
+                    jede Flamme, die in der Luft brennt, eine gewisse Menge v. <expan resp="editor" sameAs="dottet_underline">d<ex>em</ex></expan> Stickstoff der Luft in
+                    salpetrig sauriges Ammoniak überführt, daß jeder Verwesungsprozeß sowohl eine
+                    Quelle von Salpetersäure als Ammoniak ist, daß die einfachste Verdampfung von
+                    Wasser ein Mittel ist, um die Bildung beider Pflanzungsnahrstoffe zu
+                    bewerkstelligen.</p><p sameAs="MBTextmitEinzug">Schließlich <persName key="pdrPo.001.004.000002817">Liebigs</persName>
+                    „Jauchzen“ über diese Entdeckung:</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>„Durch die Verbrennung eines Pfundes
+                            Steinkohle od. Holz empfängt die Luft nicht nur die Elemente wieder, um
+                            dieses Pfund Holz, oder unter Umständen die Steinkohle wieder zu
+                            erzeugen, sondern der Verbrennungsprozeß verwandelt <hi rendition="#u">an sich</hi> (merke die <persName key="pdrPo.001.004.000002103">Hegelsche</persName> Kategorie) eine gewisse Menge Stickstoff der
+                            Luft in einen für die Erzeugung von Brot u. Fleisch unentbehrlichen
+                            Nährstoff.“</orig><anchor type="verweisziel" xml:id="stop_cm4_g2q_nz"/><note xml:id="a2d24e7b-faab-4dd2-8a7d-502fdd407fd1">Justus von Liebig:
+                            Die Chemie in ihrer Anwendung auf Agricultur und Physiologie.
+                            7.&#160;Aufl. Theil&#160;1. Braunschweig 1862. S.&#160;72/73.
+                            (((lLiebig,Justus von: Die Chemie in ihrer Anwendung auf Agricultur und
+                            Physiologie. 7. Aufl. Teil&#160;2. Braunschweig 1862.)))
+                    </note></seg></p><p sameAs="MBTextmitEinzug">I feel proud of the Germans. It is our duty to emancipate this „deep“
+                    people. <del> xxxxx <sic ana="#break-off"/></del></p><closer sameAs="MBUnterschrift"><salute>D <lb/></salute><signed>KM </signed></closer></div></body></text></TEI>

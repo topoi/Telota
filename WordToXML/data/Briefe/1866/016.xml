@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00017" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>16</idno>Paul Stumpf an Karl Marx in London. Mainz,
+                                        Donnerstag, 18. Januar 1866</title>
+                        </titleStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>IISG</institution>
+                                                <collection>Marx-Engels-Nachlass</collection>
+                                                <idno><idno type="shelfmark">D 4233/D VII 190.
+                                                  Fotosign. 9612a–c</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Bogen mittelstarkem,
+                                                  blauem, kariertem Papier im Format
+                                                  455&#160;×&#160;285&#160;mm. Aufdruck: „Paul
+                                                  Stumpf, Stadionerhofstrasse Mainz.“ auf der ersten
+                                                  Seite oben links. Die ersten drei Seiten hat
+                                                  Stumpf vollständig beschrieben, die vierte ist
+                                                  leer. Schreibmaterial: schwarze Tinte.</p>
+                                                <p>Von unbekannter Hand: Nummerierung des Briefes:
+                                                  „1“ (Bleistift) auf der ersten Seite oben in der
+                                                  Mitte. </p>
+                                                <p>Stumpf hatte den Brief versehentlich mit „1865“
+                                                  datiert. Die Jahresangabe „1866“ stützt sich auf
+                                                  den Inhalt des Briefes, insbesondere auf die
+                                                  Erwähnung des 1866 bevorstehenden Kongresses der
+                                                  IAA in Genf („Möglich ist es ...“) sowie den der
+                                                  Deutschen Volkspartei von Ende Dezember 1865 („Die
+                                                  Volks Partei“).</p>
+                                                <p>Stumpf beantwortet zwei nicht überlieferte Briefe
+                                                  von Marx, geschrieben zwischen 21.&#160;November
+                                                  1865 und 18.&#160;Januar 1866 („Dein vorletztes
+                                                  Schreiben“, „im letzten Schrb.“ und „J. P. Becker
+                                                  will ich gerne ...“). Siehe Erl.</p>
+                                                <p>Siehe auch
+                                                  <?oxy_comment_start author="strauss" timestamp="20170614T173909+0200" comment="Die Visitenkarte muss nicht zwangsläufig DIESEM Brief beigelegen haben, deswegen andere Formulierung gewählt."?>unter
+                                                  den Beilagen.<?oxy_comment_end?></p>
+                                        </physDesc>
+                                        <additional>
+                                                <listBibl>
+                                                  <bibl>RGASPI f. 207 op. 1 d. 2 </bibl>
+                                                </listBibl>
+                                        </additional>
+                                </msDesc>
+                                <listWit>
+                                        <witness><bibl>Erstveröffentlichung: Monz: Der Mainzer Paul
+                                                  Stumpf (1986). S.&#160;284/285.</bibl></witness>
+                                </listWit>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000004646">Paul Stumpf</persName>
+                                        <placeName>Mainz</placeName>
+                                        <date when="1866-01-18"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName>London</placeName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:38:21Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingAct">
+                                <opener>
+                                        <dateline sameAs="MBDatumszeile"><pb/> Mainz 18 Januar <choice>
+                                                  <sic>1865</sic>
+                                                  <corr cert="high">1866</corr>
+                                                </choice></dateline>
+                                        <salute sameAs="MBAnrede">Lieber Freund Marx!</salute>
+                                </opener>
+                                <p sameAs="MBTextohneEinzug">Am guten Willen hat es wahrlich nicht
+                                        gefehlt daß ich Dir <seg type="comment"><orig>auf Dein
+                                                  vorletztes <expan resp="editor" sameAs="dottet_underline">Schr<ex>ei</ex>b</expan><ex>en</ex></orig><note xml:id="f8a34f26-b379-4e20-ac5f-b0d98c945f28">Der
+                                                  Brief von Marx an <persName key="pdrPo.001.004.000004646">Stumpf</persName>,
+                                                  geschrieben zwischen 21.&#160;November 1865 und
+                                                  18.&#160;Januar 1866 ist nicht überliefert. Siehe
+                                                  MEGA² III/13. Br.&#160;343.26–32). Vermutlich
+                                                  berichtete Marx hier auch über seine materielle
+                                                  Lage. (((lMEGA²_III/13))) </note></seg> nicht
+                                        promt die gewünschte Sendung machte! Betrachte mich indeßen,
+                                        obgleich nunmehr Deine Verlegenheit vorüber ist, als Deinen
+                                        Schuldner für die gleiche Summe die ich Dir wenn es mir
+                                        besser paßt als jetzt übermitteln werde!</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Ich übernehme jetzt das Geschäft meiner Eltern</orig><note xml:id="c453b0e7-5e37-4fa7-9f65-0e51bde87c1f">
+                                                  <p rend="endnote text">Mit den Briefen <persName key="pdrPo.001.004.000004646">Stumpfs</persName>
+                                                  ist eine <ref target="mega_crj_qks_5y">undatierte
+                                                  Visitenkarte überliefert. </ref></p>
+                                                  <p rend="endnote text"> </p>
+                                                </note></seg> und dazu bedarf ich allen disponibeln
+                                        fond, sonst hätte ich Dich um neuen Ausstand nicht
+                                        gebeten!</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Deinem Wunsche
+                                                  im letzten Schrb. Betreffs Mitgliedesschaft zum
+                                                  Internationalen</orig><note xml:id="b1f81a1b-ff1d-4283-ab87-a82b629d5a7f"><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Der
+                                                  Brief von Marx an <persName key="pdrPo.001.004.000004646">Paul
+                                                  Stumpf</persName>, geschrieben vermutlich zwischen
+                                                  13. und 18. Januar 1866 <?oxy_custom_end?>(siehe
+                                                  <ref target="B00007/#start_zqt_scx_mz">Marx an J.
+                                                  Ph. Becker, 9. und
+                                                  15.1.<?oxy_comment_start author="reichhoff" timestamp="20170408T182525+0200" comment="{{Br. 6.49}}"?>1866<?oxy_comment_end?></ref>),
+                                                  ist nicht überliefert. Über den Beitritt Stumpfs
+                                                  zur IAA schrieb Marx Liebknecht am
+                                                  21.&#160;November 1865 (MEGA² III/13.
+                                                  Br.&#160;343.26–32). (((lMEGA²&#160;III/13)))
+                                                </note></seg> kann ich nur insofern nachkommen als
+                                        ich nicht offiziell dabei thätig sein muß; denn meine Kunden
+                                        im Wasserleitungsfache sind: Staat, Stadt, Militair &amp;
+                                        Bourgeois auch Pfarreien und Klöster aller Art! und meine
+                                                48<hi rendition="#sup">r</hi>-Gesinnung noch
+                                        ziemlich bekannt! Dabei seit 51 eine Zeitlang reich, dann
+                                        wieder ohne viel, nach und nach wieder in etwas behäbigeren
+                                        Verhältnißen &amp; ohne Hoffnungen wieder <choice>
+                                                <sic>finanziell wieder</sic>
+                                                <corr cert="high">finanziell </corr>
+                                        </choice> dahin zu gelangen wo ich war, wirst Du <pb/>
+                                        einsehen daß man in unseren Landen ohne sich den Boden unter
+                                        den Füßen wegzuziehen nicht Propaganda machen kann wie man
+                                        will!</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_h2b_xmp_mz"/><persName key="pdrPo.001.004.000000317">J.&#160;P.&#160;<expan resp="editor" sameAs="dottet_underline">B<ex>ecker</ex></expan></persName> will ich gerne
+                                                  von Zeit zu Zeit Artikel senden, auch sonst thun
+                                                  was der Sache nützlich ist,</orig><note xml:id="efb417e2-bff7-44ba-ae8f-4db467d9e742">Siehe <ref target="B00007/#start_h4t_tdx_mz">Marx
+                                                  an J. Ph. Becker, zwischen 9. und 15. Januar
+                                                  <?oxy_comment_start author="reichhoff" timestamp="20170408T183524+0200" comment="{{Br. 6.39–45}}"?>1866<?oxy_comment_end?></ref>.
+                                                  Es wird vermutet, dass einige Publikationen im
+                                                  „Vorboten“ (Genf) (((zDer Vorbote))) von <persName key="pdrPo.001.004.000004646">Stumpf</persName>
+                                                  stammen. Siehe dazu Monz: Der Mainzer Paul Stumpf
+                                                  zu Karl Marx und Friedrich Engels.
+                                                  S.&#160;343/344. (((lMonz:Der Mainzer Paul
+                                                  Stumpf))) </note></seg> aber <seg type="comment"><orig>die Polizei mit der ich von 49 bis 51 zu
+                                                  thun hatte,</orig><note xml:id="e86a9439-15e3-4bdc-952e-eb7625b6034e">Stumpf nahm an der revolutionärer Bewegung
+                                                  1848/49 in der Rheinpfalz aktiv teil, wurde in
+                                                  Abwesenheit zum Tode verurteilt, und außerdem
+                                                  wegen Unterstützung des Dresdner Aufstandes im Mai
+                                                  1849 gesucht. Siehe Monz. S.&#160;246–250 und 344.
+                                                  (((lMonz:Der Mainzer Paul Stumpf))) </note></seg>
+                                        <seg type="comment"><orig>hier wo ich nicht Bürger
+                                                  bin</orig><note xml:id="aa1d8e5f-062e-4f0e-a5a0-5feb90e23c25">Nachdem <persName key="pdrPo.001.004.000004646">Stumpf</persName> in Frankfurt am Main am
+                                                  25.&#160;September 1851 das Bürgerrecht erhalten
+                                                  hatte, wurde er auf Antrag am 2.&#160;Oktober 1851
+                                                  aus dem hessischen Staatsverband wieder entlassen.
+                                                  Ebenda. S.&#160;344, Anm. 369.</note></seg> &amp;
+                                        jederzeit expulsirt werden kann, obgleich Bürgersohn, darf
+                                        mir nicht auf den Pelz rücken können! Das bitte ich Dich zu
+                                        beachten! &amp; dieserhalb vernichte meine Schreiben
+                                        jedesmal alsbald nach Empfang!<anchor type="verweisziel" xml:id="stop_h2b_xmp_mz"/></p>
+                                <p sameAs="MBTextmitEinzug">D<hi rendition="#sup">r</hi>&#160;<persName key="pdrPo.001.004.000000656">Louis Büchner</persName> in Darmstadt den ich eben
+                                        in Bearbeitung habe, wird <seg type="comment"><orig>das
+                                                  einzige communistische Manifest das ich
+                                                  besaß</orig><note xml:id="a1cd3941-5ce7-40a8-90bf-78dc443e7627">[Karl Marx, Friedrich Engels:] Manifest der
+                                                  Kommunistischen Partei. London (1848). Siehe auch
+                                                  MEGA²&#160;III/13. Br.&#160;320.65–66).
+                                                  (((l[Marx,K, F.Engels]: Manifest der
+                                                  Kommunistischen Partei. London (1848) )))
+                                                </note></seg> an <persName key="pdrPo.001.004.000000317">J.&#160;P.&#160;B.</persName>&#160;abgehen lassen;
+                                        sei Du so gut &amp; sende mir gelegentlich einige andere
+                                        dafür!</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Möglich ist es
+                                                  daß ich im Mai nach Genf gehe;</orig><note xml:id="f5094d03-ebd7-4336-bae6-ea8449a65e73">Zum
+                                                  Genfer Kongress der IAA siehe  <ref target="B00004/#nrk1_sfc_3y">Erl. zu  Marx an Engels,
+                                                  5.1.1866.</ref>
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20170512T134250+0200" comment="{{Erl. 3d}}."?></note><?oxy_comment_end?></seg>
+                                        <seg type="comment"><orig>wenn Du hingehst</orig><note xml:id="be490f04-b2fa-46fd-a071-042ac0f50717">Marx
+                                                  nahm am Kongress nicht teil. Siehe auch <ref target="B00163/#start_c1y_42x_mz">Marx an
+                                                  Kugelmann,
+                                                  23.8.<?oxy_comment_start author="reichhoff" timestamp="20170408T183659+0200" comment="{{Br. 159.29–33}}"?>1866<?oxy_comment_end?></ref>
+                                                  und Erl.</note></seg> &amp; über hier kommst hoffe
+                                        ich Dich als mein Gast bewirthen zu können!</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Die <persName key="pdrPo.001.004.000002711">Lassalle’schen</persName> Vereine bei
+                                                  uns</orig><note xml:id="nz4k_bhj_5y">Der
+                                                  Allgemeine Deutsche Arbeiterverein
+                                                (ADAV).</note></seg> scheinen mir in Auflösung zu
+                                        sein weil ihnen tüchtige Führer abgehen und zur <pb/>
+                                        ausgedehnten friedlichen Propaganda Mittel nothwendig sind
+                                        die unsere deutschen Arbeiter trotz guter Organisation nicht
+                                        zusammen bringen!</p>
+                                <p sameAs="MBTextmitEinzug">Wenige aber tüchtige Köpfe in allen
+                                        größeren Arbeiter Plätzen in Verbindung mit gewandten Federn
+                                        die klar &amp; bis ans Ende unserer Politik sehen müssen
+                                        meiner Ansicht nach unter einem internationalen Programm
+                                        gewonnen werden um durchgreifend zu agitiren und das glaube
+                                        ich willst Du mit Deinen intern. Congressen erzielen, denen
+                                        ich mich unter Eingangs genannten Bedingungen auch gerne
+                                        anschließe!</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Die Volks
+                                                  Partei unter <persName key="pdrPo.001.004.000001300">Eckardt</persName>
+                                                  hat am 26/12 in Bamberg eine abermalige Sitzung
+                                                  gehalten zu der ich geladen aber nicht erschienen
+                                                  war!</orig><note xml:id="npks_xhj_5y">Die
+                                                  Demokratische Volkspartei (1863-1866). <persName key="pdrPo.001.004.000001300">Ludwig
+                                                  Eckardt</persName> gehörte zu ihren führenden
+                                                  Mitgliedern. <persName key="pdrPo.001.004.000004646">Stumpf</persName>
+                                                  erinnert sich hier an seinen Besuch einer
+                                                  Versammlung dieser Partei im Herbst 1865. Siehe
+                                                  MEGA²_III/13. Br. 320. (((lMEGA²_III/13)))
+                                                </note></seg></p>
+                                <p sameAs="MBTextmitEinzug">Die Koketterie dieser Partei mit der
+                                        Bourgeoisie stellt ihr kein langes Bestehen (an dem sie
+                                        indeß eigentlich noch laborirt diese s.g. Volks Partei) in
+                                        Aussicht!</p>
+                                <p sameAs="MBTextmitEinzug">Ich bleibe dabei vor der Hand
+                                        beobachtend. Schreibe bald Deinem Freunde</p>
+                                <closer sameAs="MBUnterschrift">Paul St. </closer>
+                        </div>
+                </body>
+        </text>
+</TEI>

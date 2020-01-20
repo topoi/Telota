@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00203" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>196</idno>Carl Hoßfeld an Friedrich Engels in Manchester. Liverpool,
+                    Donnerstag, 6.&#160;Dezember 1866</title>
+            </titleStmt>
+            <editionStmt>
+                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 2432/L IV 386 Fotosign.
+                                8972a&lt;–&gt;b.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            257&#160;×&#160;203&#160;mm. Die ersten zwei Seiten hat Hoßfeld
+                            vollständig beschrieben, die übrigen zwei sind leer. Schreibmaterial:
+                            schwarze Tinte.</p>
+                        <p>Engels hat den Brief seinem Brief an Marx vom 14.&#160;Dezember 1866
+                            beigelegt (siehe Br.&#160;200.8–9).</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 6629</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ohr_wh2_sy">Carl Hoßfeld</persName>
+                    <placeName>Liverpool</placeName>
+                    <date when="1866-12-06" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName>Manchester</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:40:16Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener><dateline sameAs="MBDatumszeile"><pb/> 125 Duke St.<lb/>Liverpool, d.
+                        6.&#160;Decbr. 1866.</dateline><salute sameAs="MBAnrede">Herrn
+                        Engels</salute>
+                    <lb/>
+                    <dateline>Manchester</dateline>
+                </opener>
+                <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Als ich mir vor 8&#160;Tagen
+                            erlaubte an Sie zu schreiben</orig><note xml:id="e653eab1-a637-42e2-809a-b6ce0704732a">Der Brief von <persName key="ed_ohr_wh2_sy">Hoßfeld</persName> an Engels, geschrieben um den
+                            29.&#160;November 1866, konnte nicht ermittelt werden.</note></seg> und
+                    Sie um eine Gefälligkeit zu bitten, glaubte ich daß mein Gesuch bei Ihnen Gehör
+                    finden würde; dieses scheint aber nicht der Fall gewesen zu sein, da Sie mich
+                    weder einer Antwort würdigten, noch mir den beigefügten Steckbrief
+                    zurücksandten. Wenn ich nun um Letzteren noch einmal bitte, kann ich nicht
+                    umhin, mein Bedauern hinzuzufügen, daß ich in meiner gegenwärtig <pb/> sehr
+                    bedrängten Lage durchaus keine hülfreiche Hand finde, <seg type="comment"><orig>während ich doch 17&#160;Jahre hindurch meinen Schicksalsgenossen
+                            stets und gerne mit Rath und That zur Seite stand.</orig><note xml:id="ad8dd899-eedd-46c1-a385-a30cabed9414">Carl Hoßfeld hatte an der
+                            Revolution 1848/49 in Leipzig teilgenommen und war 1849 nach England
+                            emigriert. Siehe auch Karl Marx, Friedrich Engels: Die großen Männer des
+                            Exils. In: MEGA²&#160;I/11. Erl._265.16–18. (((lMarx,_Karl, Friedrich
+                            Engels: Die großen Männer des Exils. In: MEGA²&#160;I/11. S._219–311)))
+                        </note></seg></p>
+                <p sameAs="MBTextmitEinzug">Sollten Sie vielleicht meinen Worten keinen Glauben
+                    geschenkt haben, so hätte vielleicht einer Ihrer hiesigen Bekannten sich auf Ihr
+                    Gesuch zu mir bemüht und eingesehen, daß ich, wie ich Ihnen geschrieben, fast
+                    vollständig etablirt bin und es nur noch einer kleinen Summe bedarf um noch in
+                    diesem Monat&#160;– dem besten des ganzen Jahres&#160;– einen recht hübschen
+                    Gewinn erzielen zu können.</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Ihrer gef. Antwort</orig><note xml:id="f1c3348d-9ad3-4b0d-bb42-66d8c544eb64">
+                            <p rend="endnote text">Engels hatte <persName key="ed_ohr_wh2_sy">Hoßfeld</persName> dann doch etwas Geld geliehen. Siehe den
+                                    <ref target="mega_cjb_g4v_vy">überlieferten Schuldschein</ref>
+                                im Brief (((lHoßfeld, Carl an Engels, 31._Januar 1867 (IISG,
+                                Marx-Engels-Nachlass, Sign.&#160;L&#160;2432/L&#160;IV&#160;386–1)
+                                ))) von Hoßfeld an Engels, 31._Januar 1867 (IISG,
+                                Marx-Engels-Nachlass, Sign.&#160;L&#160;2432/L&#160;IV&#160;386–1).
+                            </p>
+                        </note></seg> und der Rücksendung des erbetenen Papieres entgegen sehend
+                    zeichne</p>
+                <closer sameAs="MBUnterschrift"><signed>achtungsvoll <lb/></signed></closer>
+                <closer sameAs="MBUnterschrift">CHoßfeld </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

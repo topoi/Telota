@@ -1,0 +1,321 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="BTEST" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>2</idno>Friedrich Engels an Karl Marx in London. Manchester, Donnerstag, 4. Januar 1866</title>
+                                                  <editor>… <persName ref="">
+                                                  <surname/>
+                                                  <forename/>
+                                                  </persName>
+                                                  </editor></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                              <msIdentifier>
+                                    <institution>IISG</institution>
+                                    <collection>Marx-Engels-Nachlass</collection>
+                                    <idno><idno type="shelfmark">D 1597/D III 342</idno><idno type="uri">http://www.kalliope.org/en/vaerktoc.pl?vid=oehlenschlaeger/1803</idno><idno type="uri">http://www.kalliope.org/en/digt.pl?longdid=oehlenschlaeger2001052914</idno></idno>
+                              </msIdentifier>
+                              <physDesc>
+                                    <p>Der Brief besteht aus einem Bogen dünnem, weißen Papier im
+                                          Format 273&#160;×&#160;222&#160;mm. Wasserzeichen: „A
+                                          Pirie &amp; Sons“. Die erste Seite hat Engels vollständig
+                                          beschrieben, die dritte etwa zu einem Niertel, die zweite
+                                          und vierte Seite sind leer. Schreibmaterial: schwarze
+                                          Tinte.</p>
+                                    <p>Von Eduard <persName key="Bernstein">Bernsteins</persName>
+                                          Hand: Numerierung der beschriebenen Seiten: „271,1“ bzw.
+                                          „271,2“ und „1,1“ bzw. „1,2“ (gestrichen). Redaktionelle
+                                          Vermerke.</p>
+                                    <p>Von Heinrich <persName key="Dietz">Dietz’</persName> Hand:
+                                          Numerierung des Briefes: „762“ (gestrichen).</p>
+                                    <p>rfrrr</p>
+                                    <p>Der Brief wurde on Engels versehentlich mit „1865“ datiert.
+                                          Die korrekte Datierung ergibt sich aus dem Inhalt des
+                                          Briefes, mit dem Engels Marx’ Brief vom 26.&#160;Dezember
+                                          1865 beantwortet (MEGA² III/13. Br.&#160;351) und aus
+                                          Marx’ Antwort vom 5.&#160;Januar 1866 (Br.&#160;3).</p>
+                              </physDesc>
+                              <additional>
+                                    <listBibl>
+                                          <bibl>RGASPI f. 1 op. 1 d. 1923</bibl>
+                                    </listBibl>
+                              </additional>
+                        </msDesc><listWit>
+                                                  <witness>
+                                                  <msDesc type="concept">
+                                                  <msIdentifier>
+                                                  <institution/>
+                                                  <collection/>
+                                                  <idno>
+                                                  <idno type="shelfmark"/>
+                                                  </idno>
+                                                  </msIdentifier>
+                                                  </msDesc>
+                                                  </witness>
+                                                  <witness>
+                                                  <msDesc type="copy">
+                                                  <msIdentifier>
+                                                  <institution>[aufbewahrende
+                                                  Institutuion]</institution>
+                                                  <collection>[Sammlung]</collection>
+                                                  <idno>
+                                                  <idno type="shelfmark">[Signatur]</idno>
+                                                  </idno>
+                                                  </msIdentifier>
+                                                  </msDesc>
+                                                  </witness><witness select="#this"><bibl>Erstveröffentlichung: gekürzt: Bw&#160;3 (1913).
+                                                  S.&#160;287/288</bibl></witness><witness><bibl>vollständig: MEGA<hi rendition="#sup">1</hi> III/3 (1930). S.&#160;301/302.</bibl></witness>
+                                                  <witness>
+                                                  <bibl type="print">j</bibl>
+                                                  </witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                              <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                              <placeName>Manchester</placeName>
+                        </correspAction><correspAction type="received">
+                              <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                              <placeName>London</placeName>
+                              <placeName key="ed_rdd_5jt_qx">Leipzig</placeName>
+                              
+                        </correspAction>
+                              
+                                                  <note/></correspDesc>
+                                                  <abstract>
+                                                  <p/>
+                                                  </abstract></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:04Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader>
+                      <facsimile>
+                                            <graphic url="default_value"/>
+                      </facsimile><text>
+                                            <body>
+                                                  <div type="writingAct">
+                        <opener>□</opener>
+                        <opener>
+                              <dateline sameAs="MBDatumszeile">çȩë<pb/> Manchr 4
+                                          Jan<hi rendition="#sup">r</hi>
+                                    <choice>
+                                          <sic>1865</sic>
+                                          <corr cert="high">1866</corr>
+                                    </choice>5.</dateline>
+                              ï
+                              ł
+                              ̅
+                              <salute sameAs="MBAnrede">Lieber<gap unit="chars" quantity="1" reason="empty"/> Mohr<gap unit="chars" quantity="1" reason="illegible"/></salute>
+                        </opener>
+                        <p sameAs="MBTextohneEinzug">Inl. £&#160;10.– in 2&#160;<expan resp="editor" sameAs="dottet_underline">B<ex>ank of</ex></expan> England N<del rendition="#s">oten.</del>
+                              <seg type="comment"><orig>Wie ists mit dem Wechsel wegen landlord<gap unit="lines" quantity="1" reason="lost"/><gap unit="pages" quantity="1" reason="lost"/><gap unit="words" quantity="1" reason="lost"/>? Gib mir
+                                          Betrag &amp; <unclear reason="illegible" cert="high">Verfalltag</unclear>
+                                          <unclear reason="covered" cert="high">auf</unclear> damit
+                                          ich mich danach <del rendition="#ow">einrichten</del>
+                                          kann.</orig><note xml:id="c6113235-8cac-4055-8d62-db81a7fbad62">Siehe MEGA²
+                                          III/13. Br.&#160;341.5–8 und
+                                    {{Br.&#160;3.4–7}}.</note></seg></p>
+                        <milestone unit="section" rendition="#hr"/>
+                        <p sameAs="MBTextmitEinzug"><del rendition="#ow">Die</del>
+                              <del rendition="#s"><note place="" hand="#author"><metamark><seg type="comment"><orig/><note xml:id="ngpl_brd_gy"/></seg></metamark></note>mali<fw type="folNum">34</fw>tiöse</del>
+                              <del rendition="#erased">Zusammenstellung</del> des Soc. <bibl sameAs="zzSD">Dem.</bibl> Drecks <subst>
+                                    <del>durch</del>
+                                    <add>in</add>
+                              </subst> der Schultze <persName key="pdrPo.001.004.000004342">Delitzschianischen</persName>
+                              <seg type="comment">
+                                    <orig><subst>
+                                                <del rendition="#s">Bröchüre</del>
+                                                <add place="superlinear">Broschüre</add>
+                                          </subst></orig>
+                                    <note xml:id="eecfded5-a64b-4125-8b34-f481b162db52">[Eugen
+                                          Richter:] Die Geschichte der Social-demokratischen Partei
+                                          in Deutschland seit dem Tode Ferdinand Lassalle’s.
+                                          (Zusammengestellt und actenmäßig belegt aus den beiden
+                                          Organen der Partei, dem „Social-Demokrat“ in Berlin und
+                                          dem „Nordstern“ in Hamburg.) Berlin 1865.
+                                          (((lRichter,Eugen: Die Geschichte der
+                                          Social-demokratischen Partei in Deutschland seit dem Tode
+                                          Ferdinand Lassalle’s. (Zusammengestellt und actenmäßig
+                                          belegt aus den beiden Organen der Partei, dem
+                                          „Social-Demokrat“ in Berlin und dem „Nordstern“ in
+                                          Hamburg.) Berlin 1865))) Marx dürfte von dieser Broschüre
+                                          aus dem Brief Wilhelm <persName key="pdrPo.001.004.000002822">Liebknechts</persName> an ihn (MEGA²&#160;III/13.
+                                          Br.&#160;350.44–47) erfahren haben.</note>
+                              </seg> war mir bereits von <subst>
+                                    <del rendition="#s">Berli<pb n="34" facs="http://grabsch:PpmSr2yUG2gBkNgNMQs7@telotadev.bbaw.de:8028/exist/webdav/db/projects/mega/data/Briefe/1866/Link"/>n</del>
+                                    <add place="sublinear"/>
+                              </subst>
+                              <subst>
+                                    <del rendition="#s">anonym</del>
+                                    <add place="intralinear"/>
+                              </subst>
+                              <subst>
+                                    <del rendition="#s">zugeschickt</del>
+                                    <add place="across"/>
+                              </subst>, <subst>
+                                    <del rendition="#s">es</del>
+                                    <add place="left"/>
+                              </subst>
+                              <subst>
+                                    <del rendition="#s">ist</del>
+                                    <add place="right"/>
+                              </subst> im<lb break="no"/>mer gut <note place="right" hand="#author"/>so e<note place="right" hand="#author"/>in Resumé mit de<note place="" hand="#addressee"/><foreign xml:lang="grc"/><foreign xml:lang="Lat"/><foreign xml:lang="grc"/><foreign xml:lang="heb"/><foreign xml:lang="deu"/><foreign xml:lang="eng"/><foreign xml:lang="rus"/><foreign xml:lang="spa"/>n Auszügen zu haben.
+                                    <anchor xml:id="d3e98"/>Sch. Delitzsch hat auch<lb n="22"/>
+                              anzeigen lassen daß er dieser Tage eine Antwort<gap unit="chars" quantity="1" reason="fm"/> an <persName key="pdrPo.001.004.000002711">Lassalle</persName>
+                              <hi rendition="#u">drucken</hi>
+                              <hi rendition="#mMM">läßt</hi> worin er ihn vernichten<damage/>
+                                    wird.<seg type="comment">
+                                    <orig/>
+                                    <note xml:id="f6aee1b5-17b4-4c24-8a3d-62846e58b48b">
+                                          <p rend="endnote text">Siehe Von Schulze-Delitzsch ist
+                                                eine kleine Schrift&#160;… In: Allgemeine Zeitung.
+                                                Augsburg. Nr.&#160;1, 1.&#160;Januar 1866.
+                                                S.&#160;3. (((lVon_Schulze_Delitzsch ist eine kleine
+                                                Schrift.&#160;In: Allgemeine Zeitung. Augsburg.
+                                                Nr.&#160;1, 1.&#160;Januar 1866. S.&#160;3.)))
+                                                (((lMEGA²&#160;III/13))) </p>
+                                          <p rend="endnote text">[Hermann] Schulze-Delitzsch: Die
+                                                Abschaffung des geschäftlichen Risico durch Herrn
+                                                Lassalle. Ein neues Kapitel zum Deutschen
+                                                Arbeiterkatechismus. Berlin 1866.
+                                                (((lSchulze-Delitzsch, [Hermann]: Die Abschaffung
+                                                des geschäftlichen Risico durch Herrn Lassalle. Ein
+                                                neues Kapitel zum Deutschen Arbeiterkatechismus.
+                                                Berlin 1866))) </p>
+                                    </note>
+                              </seg>
+                              <anchor xml:id="d3e111"/>Daß <persName key="Racowi">Rakowitz</persName> an der Schwindsucht gestorben wirst Du auch
+                              schon <orgName key="pdrPo.001.015.000090289">wissen</orgName>, Mamsell
+                                    <persName key="Dönniges">Dönniges</persName> ist also <add place="sublinear">wohl</add> wieder in the market, if ever she
+                              was fairly out of it.<seg type="comment">
+                                    <orig/>
+                                    <note xml:id="b86b506b-b792-48fe-bb8d-e6d9e7e52c3e">Iancu
+                                                Racowi{{t¸aˇ}}<persName key="Racowi">,</persName>
+                                          verwundete im August 1864 Ferdinand <persName key="pdrPo.001.004.000002711">Lassalle</persName> im Duell
+                                          tödlich.</note>
+                              </seg></p>
+                        <p><seg type="comment"><orig>eeee<seg type="comment"><orig><ref key="B00002/#a132d1e9-b7e3-484b-91d0-adbdbc98a799"/></orig><note xml:id="ngcs_mrd_gy"/></seg></orig><note xml:id="nvtm_2rd_gy"/></seg>Ich habe
+                              Nachricht vom <persName key="pdrPo.001.004.000002041">Vorstand</persName> der Firma bekommen. Ich höre nur
+                              Beschwerden von <rs type="person">ihm</rs>. ⅘⅙⅚⅛⅜⅝⅞ £</p>
+                        <p>
+                              <lb/></p>
+                        <p sameAs="MBTextmitEinzug"><anchor xml:id="d3e135"/><bibl sameAs="zotero-604880-KTIJ4QW6" type="secondary"><rs type="place">Auch</rs></bibl> die Rede des Hrn <persName key="ed_u1d_b1x_ry">Held</persName> ist mir von Berlin
+                                    zugeschickt.<seg type="comment"><orig/><note xml:id="d1325a16-073e-4d1c-b85b-c77dbdb9354b">Friedrich
+                                          Wilhelm <persName key="Held, F.W.">Held </persName>sollte
+                                          auf der sozialdemokratischen Versammlung in Berlin am
+                                          26.&#160;Dezember 1865 sprechen. Der Bericht über diese
+                                          Versammlung: „*Berlin, 27.&#160;Dec. Social-Demokratische
+                                          Parteiversammlung.“ erschien in: Der Social-Demokrat.
+                                          Berlin. Nr.&#160;231, 28.&#160;Dezember 1865. S.&#160;3/4.
+                                          (((l*Berlin, 27.&#160;Dec. Social-Demokratische
+                                          Parteiversammlung._In:_Der Social-Demokrat. Berlin.
+                                          Nr.&#160;231, 28.&#160;Dezember 1865.
+                                          S.&#160;3/4.)))</note></seg> Der richtige <seg type="comment"><orig>Berliner Lump</orig><note xml:id="nqnk_cnf_cy"/></seg>.</p>
+                        <p sameAs="MBTextmitEinzug">Monsieur <persName key="pdrPo.001.004.000003392">Bonaparte</persName> geht sehr entschieden den <ex cert="high">Krebsgang</ex>. <damage><seg type="comment"><orig>Die
+                                                Geschichten in der Armee wegen <placeName key="ed_zvg_2fj_wx">Mexico</placeName></orig><note xml:id="efd562b2-07c7-4e78-8802-70833e3d4561">Die
+                                                französische Intervention in Mexiko
+                                                1861-1867.</note></seg></damage> sind sehr
+                              ernsthaft, &amp; die <seg type="comment"><orig><date when="1772-12-21" calendar="#Gregorian">Studentengeschichten</date>
+                                          <date from="1231-11-11" to="1321-09-11" cert="high" calendar="#Gregorian">in</date> Paris</orig><note xml:id="fdf0e9a1-43c7-49a4-953f-de75b43bccda">Im Dezember
+                                          1865 und Januar 1866 kam es in Frankreich zu
+                                          Studentenunruhen, nachdem Teilnehmer des Internationalen
+                                          Studentenkongresses, Ende Oktober 1865 in Liège, aus
+                                          Pariser Hochschulen ausgeschlossen worden waren. Einer von
+                                          ihnen war Marx‘ späterer Schwiegersohn Paul Lafargue,
+                                          (((nLafargue,P.))) der im Februar 1866 nach London kam. j
+                                          dazu {{Br.&#160;47.16–18}}.</note></seg>
+                              <date notBefore="1212" notAfter="1212" cert="high" calendar="#Julian">auch</date>. Es ist sehr <seg type="comment"><orig>wichtig</orig><note xml:id="nayk_dnf_cy"/></seg>,
+                              daß die Pariser Studenten sich auf die Seite des Proletariats
+                              schlagen, so confus es auch in ihren Köpfen <foreign xml:lang="fra                                      ">polytechnique</foreign>dabei aussehen <placeName key="ed_cn4_12j_wx">mag</placeName>. Die École wird bald genug
+                                    <bibl sameAs="zotero-604880-PKBIAVCI" type="primary">folgen</bibl>. Es wäre wunderbar schön wenn der
+                                    <damage>Schuft</damage> noch seinen eig<hi rendition="#sup">2</hi>ne<lb break="no"/>n downfall erlebte, &amp; es <supplied cert="">sieht</supplied> jetzt <supplied cert="low">fast</supplied> so aus. <supplied cert="low">Auch</supplied>
+                              mit <persName key="pdrPo.001.004.000000441">Bismark</persName> wird es täglich
+                              fauler, &amp; wenn ihm die <seg type="comment"><orig>Kölner <choice>
+                                                <orig>Schweinhunde</orig>
+                                                <reg/>
+                                          </choice> nicht aus der Sauce geholfen hätten</orig><note xml:id="b7925885-33f6-43be-a8aa-6ba29507ffd7"/></seg>, so
+                              wäre er wahrscheinlich schon jetzt klatsch. </p>
+                        <p sameAs="MBTextmitEinzug">Ich bin begierig auf das nächste <index spanTo="#iodw_h5f_cy" indexName="places" corresp="ed_wz2_shs_qx">
+                                    <term>London</term>
+                              </index>Parlament, das Zusammenbrechen der <choice>
+                                    <orig>althen</orig>
+                                    <reg>alten</reg>
+                              </choice> Parteien muß jetzt doch rasch vorangehn. <anchor xml:id="d3e182"/><orgName key="pdrPo.001.015.000090083">John</orgName>
+                              <persName key="pdrPo.001.004.000000612">Bright</persName> is evidently bidding for
+                              office – seine <bibl sameAs="zotero-604880-QM999ICI" type="primary">gestrige</bibl> Rede habe ich freilich noch nicht gelesen.<seg type="comment"><orig/><note xml:id="e32c698b-7a28-4ea2-a3ff-ff503509d55b">John Bright
+                                          ((<?oxy_comment_start author="phlinss" timestamp="20170120T121552+0100" comment="qfdf"?>(<?oxy_comment_end?>nBright,John)))
+                                          sprach auf dem Meeting in Rochdale über die
+                                          Parlamentsreform in Großbritannien. Siehe Mr.&#160;Bright
+                                          at Rochdale. In: The Times. London. Nr.&#160;25_386,
+                                          4.&#160;Januar 1866. S.&#160;9. (((lMr.&#160;Bright at
+                                          Rochdale. In: The Times. London. Nr.&#160;25_386,
+                                          4.&#160;Januar 1866. S.&#160;9.))) </note></seg></p>
+                        <p sameAs="MBTextmitEinzug"><anchor xml:id="d3e193"/>Hast Du <persName key="pdrPo.001.004.000004841">Tyndalls</persName>: Heat considered<note resp="#addressee" place="right"><note resp="#author" place="mTop"/><note resp="#author" place="mBottom"/><note resp="#author" place="inline"/></note> as a mode of motion
+                                    gelesen?<seg type="comment"><orig/><note xml:id="cf32f241-8fff-4892-acd3-1250caf519d2">John
+                                          Tyndall: Heat considered as a mode of motion. 2_ed., with
+                                          add. and ill. London_1865. Im Brief ist vermutlich von
+                                          dieser 2. Aufl. des erstmals 1863 erschienenen Werkes die
+                                          Rede. (((lTyndall,John:_Heat considered as a mode of
+                                          motion._2_ed. London_1865))) Zum Interesse an Tyndalls
+                                          physikalischen Versuchen siehe auch MEGA²&#160;III/13.
+                                          Br.&#160;101.63–66, Br._132.63–66 und Br._171.31–33) sowie
+                                          ({{Br.&#160;24.25–31}}). Der Titel „Heat. A mode of
+                                          motion“ (4._ed. London 1870) stand wahrscheinlich
+                                          <?oxy_comment_start author="phlinss" timestamp="20170120T121547+0100" comment="ss"?>in<?oxy_comment_end?>
+                                          Marx‘ Bibliothek (Siehe MEGA²&#160;IV/32. Nr.&#160;1340).
+                                          Engels äußert sich zu Tyndall (((nTyndall))) in „Dialektik
+                                          der Natur“ (MEGA²&#160;I/26. S.&#160;12, 27 und 59).
+                                          (((lEngels,Friedrich: Dialektik der Natur.
+                                          MEGA²&#160;I/26))) </note></seg> Wo nicht, so solltest Du
+                              es thun. Es ist <pb/> auf diesem Gebiet enorm viel gethan, &amp; die
+                              Sache fängt an eine rationelle <choice>
+                                    <sic>Gestalt</sic>
+                                    <corr type="deleted"/>
+                              </choice> anzunehmen; die <choice>
+                                    <sic>Atomentheorie</sic>
+                                    <corr type="deleted"/>
+                              </choice> wird <persName key="pdrPo.001.004.000001698"><orgName key="pdrPo.001.015.000090123">so</orgName></persName> auf
+                              die Spitze <ref key="B00002/#a132d1e9-b7e3-484b-91d0-adbdbc98a799">getrieben</ref> daß sie bald zusammenbrech<lb break="no"/>en m
+                                    <index spanTo="#ixkh_ysf_cy" indexName="persons" corresp="pdrPo.001.004.000000520">
+                                    <term>Bonaparte, Louis, comte de Saint-Leu (1778-1846)</term>
+                              </index>Bonaparte<anchor type="index" xml:id="ixkh_ysf_cy"/>⅚ø</p>
+                        <p sameAs="MBTextmitEinzug"><table/><table rows="3" cols="2">
+                                    <row>
+                                          <cell>
+                                                <table rows="3" cols="2">
+                                                  <head>Tabelle</head>
+                                                  <row>
+                                                  <cell/>
+                                                  <cell/>
+                                                  </row>
+                                                  <row>
+                                                  <cell/>
+                                                  <cell/>
+                                                  </row>
+                                                  <row>
+                                                  <cell/>
+                                                  <cell/>
+                                                  </row>
+                                                </table>
+                                          </cell>
+                                    </row>
+                                    <head>Tabelle</head>
+                                    <row role="label">
+                                          <cell/>
+                                          <cell/>
+                                    </row>
+                                    <row>
+                                          <cell/>
+                                          <cell/>
+                                    </row>
+                                    <row>
+                                          <cell/>
+                                          <cell/>
+                                    </row>
+                                    <row>
+                                          <cell/>
+                                          <cell/>
+                                    </row>
+                                    <row>
+                                          <cell/>
+                                          <cell/>
+                                    </row>
+                              </table>uß.</p>
+                        <p sameAs="MBTextmitEinzug">Vergiß nicht mir den Workmans <bibl sameAs="zzThe Workman’s Advocate">Adv.</bibl> &amp; die Free
+                                    <bibl sameAs="zzThe Free Press">Press</bibl> zu schicken.</p>
+                        <closer rend="within the line">
+                              <dateline/>
+                              <dateline>4. Januar 1886</dateline>
+                              <salute>g</salute>
+                              <signed>g</signed>
+                        </closer>
+                        <closer rend="paragraph"> </closer>
+                  </div>
+                                            </body>
+                      </text></TEI>

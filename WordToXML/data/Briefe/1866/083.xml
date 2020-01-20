@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00086" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>83</idno>Karl Marx an Louis Kugelmann in Hannover. Margate, Freitag, 6. April 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">C 331/C 90</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Bogen festem, weißem Papier im Format
+              226&#160;×&#160;184&#160;mm. Wasserzeichen: „Towgood’s Extra Super“. Prägung: ein
+              Wappenschild mit Stern und der Aufschrift „Brasier Margate“. Marx hat die erste,
+              dritte und vierte Seite vollständig beschrieben, die zweite ist leer. Schreibmaterial:
+              schwarze Tinte.</p>
+            <p>Von Kugelmanns Hand: Vermerk „A.&#160;15.&#160;25/4“ mit Tinte auf der zweiten Seite
+              oben in der Mitte.</p>
+            <p>Von unbekannter Hand: die Passage „Aber“ bis „machen.“ mit Rotstift in Klammern
+              gesetzt. </p>
+            <p>Marx beantwortet den Brief Kugelmanns vom 30.&#160;März 1866 (L. Kugelmann an Marx,
+              30.3.1866). Kugelmann antwortet auf den Brief am 15. und 25.&#160;April 1866 (L.
+              Kugelmann an Marx, 15. u. 25.4.1866).</p>
+          </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1954</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: gekürzt: Briefe von Karl Marx an Dr.&#160;L.&#160;Kugelmann
+                            (1902). S.&#160;60/61</bibl>.</witness><witness><bibl>vollständig: in in russischer Übersetzung: Письма Маркса к Кугельману (1928).
+                            S.&#160;13/14</bibl>.</witness><witness><bibl>in der Sprache des Originals: Karl Marx: Briefe an Kugelmann (1940). S.&#160;26/27.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>Margate</placeName><date when="1866-04-06"/></correspAction><correspAction type="received"><persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName><placeName>Hannover</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:06Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 5 Lansell's Place, Margate<lb/>6 April, 1866.</dateline><salute sameAs="MBAnrede">Lieber Freund,</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Uebermorgen werde ich von hier nach London
+              zurückkehren.</orig><note xml:id="ab4971a8-07f7-4f72-a702-fb2a720cbd24">Zu Marx’
+              Kuraufenthalt in Margate siehe <ref target="B00054/#a9fd0c5d-779b-4626-bf9f-71889bd4804c">Erl. zu Engels an Marx,
+                5.3.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T102701+0200" comment="{{Erl. 51a}}."?></note><?oxy_comment_end?></seg>
+          <seg type="comment"><orig>Mein Arzt</orig><note xml:id="ffa2740c-a205-4872-9601-ad4f33b5d8c2"><persName key="pdrPo.001.004.000000078">George Allen</persName>. </note></seg> hatte mich an diesen Seeküsten Platz
+          verbannt, wo ich mich in der That <hi rendition="#u">sehr erholt</hi> habe. Aber so sind
+          wieder mehr als zwei Monate – <subst>
+            <del>Januar</del>
+            <add>Februar</add>
+          </subst>, März u. Hälfte April vollständig für mich verloren gegangen, u. die
+          Fertigmachung <seg type="comment"><orig>meines Buchs</orig><note xml:id="f3072c03-180d-4248-a92c-ee587b5cf70b">Gemeint ist hier Karl Marx: Das Kapital;
+              siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an J.
+                Ph. Becker, zwischen 9. und 15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T102937+0200" comment="{{Erl. 6b}}."?>
+              <?oxy_comment_end?>(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg> wieder in
+          die Länge geschoben! Es ist um des Teufels zu werden.</p><p sameAs="MBTextmitEinzug">Meine Krankheit waren Carbuncles, nicht <expan resp="editor" sameAs="dottet_underline">fur<ex>uncles.</ex></expan> Die Sache war dießmal gefährlich. Allerdings haben Sie Recht, daß „diätetische“ Sünden im Hintergrund. Ich bin zu sehr an die Nachtarbeit gewöhnt, studiere bei Tag u. schreibe bei Nacht. Dieß zusammen mit allerlei Sorgen, privaten u. publiken, u. – so lange ich ernst im Arbeiten bin – Vernachlässigung regelmässiger Diät, Bewegung u.s.w. kann das Blut schon in Unordnung bringen. </p><p sameAs="MBTextmitEinzug"><pb/><anchor type="verweisziel" xml:id="start_uwn_d15_4z"/>
+                                        <seg type="comment"><orig>Den Beitrag des Herrn <expan resp="editor" sameAs="dottet_underline"><persName key="pdrPo.001.004.000011173">M<ex>enke</ex></persName></expan> von 10&#160;Th.
+                                                  für die „Intern.“ habe ich mit Ihrem Schreiben
+                                                  erhalten. Ich habe die Adressen meiner
+                                                  <add>Pariser franz.</add> Freunde nicht hier. Wenn
+                                                  Herr M. sich aber wendet an meinen Freund C.<hi rendition="#u">&#160;</hi><persName key="pdrPo.001.004.000002460"><hi rendition="#u">Kaub</hi></persName> (33, Rue des trois
+                                                  Couronnes, du Temple), so <del> w <sic ana="#break-off"/></del> kann dieser ihn mit
+                                                  <persName key="pdrPo.001.004.000004249">V.&#160;Schily</persName> (Deutscher) u.
+                                                  <persName key="pdrPo.001.004.000004773">Tolain</persName>, <persName key="pdrPo.001.004.000001654">Fribourg</persName>
+                                                  etc, den Pariser Comiteleuten, bekannt
+                                                  machen.</orig><anchor type="verweisziel" xml:id="stop_uwn_d15_4z"/><note xml:id="a67ad956-3ea2-4166-ba91-4ee1ee14fcab">Siehe <ref target="B00079">L. Kugelmann an Marx,
+                                                  30.3.<?oxy_comment_start author="reichhoff" timestamp="20170418T112133+0200" comment="{{Br. 76.6–12}}"?>1866<?oxy_comment_end?>.</ref></note></seg></p><p sameAs="MBTextmitEinzug">Die Nachrichten aus Deutschland sind wenig erfreulich. Preussen ist von
+                                        Rußland (u. <persName key="pdrPo.001.004.000003392">Bonaparte.</persName>), Oestreich von <subst>
+                                                <del>letzrem</del>
+                                                <add>letztrem</add>
+                                        </subst> (mehr <add>widerwillig folgend,</add> in Nothwehr)
+                                        vorgestossen. Werden unsre Spießbürger endlich einsehn, daß
+                                        ohne eine Revolution, welche <persName key="ed_spp_k2v_hz">Habsburg</persName> u. <persName key="ed_sw5_fwp_fz">Hohenzollern</persName>
+                                        beseitigt (von den kleineren Mistkäfern ist es überflüssig
+                                        zu reden), <add>es</add> schließlich wieder zu einem
+                                        dreissigjährigen Krieg u. einer neuen Theilung Dtschlands
+                                        kommen muß?</p><p sameAs="MBTextmitEinzug">Eine Bewegung von italienischer Seite her könnte die Preussen stützen.
+          Aber blos Oestreich u. Preussen für sich betrachtet, wären die letztern ziemlich sicher im
+          Nachtheil, trotz aller <seg type="comment"><orig>Düppel</orig><note xml:id="nelr_fvn_cz">Siehe <ref target="B00081/#f31cd957-c594-447c-b623-54795e6e770a">Erl. zu Engels an
+                Marx,
+              2.4.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T103247+0200" comment="{{Erl. 78f}}."?></note><?oxy_comment_end?></seg>
+          <expan resp="editor" sameAs="dottet_underline">Renom<ex>m</ex>age</expan>. <persName key="pdrPo.001.004.000000355">Benedek</persName> ist jedenfalls ein beßrer <pb/> General
+          als <persName key="pdrPo.001.004.000001664">Prinz Friedrich Karl</persName>. Oestreich
+          könnte wohl Preussen, aber nicht Preussen Oestreich single handed zum Frieden zwingen.
+          Jeder Erfolg Preussens wäre eine Aufmunterung für <persName key="pdrPo.001.004.000003392">Bonaparte</persName> sich einzumischen.</p><p sameAs="MBTextmitEinzug">Während ich Ihnen diese Zeilen schreibe, hat <persName key="pdrPo.001.004.000000441">Bismarck</persName> vielleicht schon wieder die Hörner eingezogen. Aber auch das würde den Conflikt nur verschieben. Solcher Aufschub ist meiner Ansicht nach wahrscheinlich.</p><p sameAs="MBTextmitEinzug">Für <persName key="pdrPo.001.004.000003392">Bonaparte</persName> ist diese deutsche Wirre ein ausserordentlicher Glücksfall. Seine Position ist durchaus unterhöhlt.  Aber Krieg würde ihm neue Frist schaffen.</p><p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_vsg_fnr_pz"/>Schreiben Sie mir
+                                        bald u. speziell über die deutschen Verhältnisse.<anchor type="verweisziel" xml:id="stop_vsg_fnr_pz"/></p><closer sameAs="MBUnterschrift">Ihr<lb/>K.&#160;M. </closer></div></body></text></TEI>

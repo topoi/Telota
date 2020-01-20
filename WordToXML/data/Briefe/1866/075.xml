@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00078" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>75</idno>Hermann Engels an Friedrich Engels in Manchester. Barmen,
+                    Dienstag, 27. März 1866</title>
+            </titleStmt>
+            <editionStmt>
+                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">Standort Orig. nicht bekannt; Kopie: f. 9 op. 1
+                                d. 11/16. Fotosign. 596a–b</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Standort der Originalhandschrift ist gegenwärtig nicht bekannt. Die
+                            Veröffentlichung erfolgt nach einer Fotokopie. </p>
+                        <p>Soweit aus der Kopie zu ersehen ist, besteht der Brief aus einem Blatt,
+                            dessen beide Seiten Hermann Engels vollständig beschrieben hat. Das
+                            Papier wurde gelocht, der dadurch entstandene Textverlust konnte
+                            rekonstruiert werden.</p>
+                        <p>Von unbekannter Hand: Nummerierung der Briefes: „596“.</p>
+                        <p>Hermann Engels beantwortet Engels' Brief vom 22.&#160;März 1866 (Engels
+                            an H. Engels, 22.3.1866)). Engels antwortete am 6.&#160;April 1866
+                            (Engels an H. Engels, 6.4.1866).</p>
+                        <p>Die Beilage („Nebenstehend“) ist nicht überliefert. Siehe Erl.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000001375">Hermann Engels</persName>
+                    <placeName>Barmen</placeName>
+                    <date when="1866-03-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName>Manchester</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:39:01Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> Barmen 27. März 1866</dateline>
+                    <salute sameAs="MBAnrede">Lieber Friedrich!</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Für Deine Besorgungen, wegen
+                            unseres Contractes mit <persName key="pdrPo.001.004.000010602">Funke</persName></orig><note xml:id="f6fa8fed-09b8-4a25-ab68-0a276c5be9ae">Siehe <ref target="B00074/#start_lnb_xxt_4z">Engels an H. Engels,
+                                22.3.1866</ref>
+                            <?oxy_comment_start author="reichhoff" timestamp="20170415T113306+0200" comment="{{Br. 71.3–6}}"?>
+                            <?oxy_comment_end?>und <ref target="B00018/#a764c933-1f9d-4cb0-b8f5-2afc8056a8ad">Erl. zu H.
+                                Engels an Friedrich Engels, 20. 1. 1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170517T162625+0200" comment="{{Erl. 17c}}."?></note><?oxy_comment_end?></seg>
+                    haben wir Dir unsern besten Dank abzustatten; wenn Du mal wieder beim lawyer
+                    vorbeigehst, so treibe ihn ein wenig, daß die Sache dann bald geordnet werden
+                    kann. – <anchor type="verweisziel" xml:id="start_hd1_zlh_4z"/><seg type="comment"><orig>Nebenstehend findest Du auch den gewünschten Conto
+                            Corrent von <orgName key="pdrPo.001.015.000090088"><expan resp="editor" sameAs="dottet_underline">Fr<ex>iedrich</ex></expan>
+                                <expan resp="editor" sameAs="dottet_underline">E<ex>ngels</ex></expan> &amp; C<hi rendition="#sup">o</hi></orgName> für Dich</orig><note xml:id="f083d5da-462a-4531-b7fd-9465edc2ff41">Siehe <ref target="B00074/#start_bsb_4yt_4z">Engels an H. Engels,
+                                22.3.<?oxy_comment_start author="reichhoff" timestamp="20170415T113542+0200" comment="{{Br. 71.7–30}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    &amp; wird Dir nun die Sache klar werden.<anchor type="verweisziel" xml:id="stop_hd1_zlh_4z"/> Wie Du aber bei unserer Buchung gegen die Eurige
+                    dort Geld verlieren kannst, ist mir rein unerklärlich, da wir die Posten, ja
+                    geradeso hier buchen, wie Ihr sie uns aufgebt. Bei näherem Nachsehen wirst Du
+                    das auch sicher finden. Daß Du uns alle 6&#160;Monate <expan resp="editor" sameAs="dottet_underline">C<ex>on</ex>to</expan>
+                    <expan resp="editor" sameAs="dottet_underline">C<ex>o</ex>r</expan><ex>ren</ex>t
+                    schicken willst, ist schon recht, nur kannst Du doch nicht darunter verstehen,
+                    daß wir Dein Conto alle 6&#160;Monate abschließen &amp; Dir also auf diese Weise
+                    Zinsen von den Zinsen berechnen sollen?</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Auf meinen Brief vom
+                            2.&#160;März &amp; 19.&#160;Febr. hast Du mir aber noch nicht
+                            geantwortet;</orig><note xml:id="f0b5a726-c08a-48ae-8974-4c425fab3120">Der Brief von <persName key="pdrPo.001.004.000001375">Hermann
+                                Engels</persName> an Engels vom 2.&#160;März 1866 ist nicht
+                            überliefert, zum 19. Februar siehe <ref target="B00045">H. Engels an
+                                Engels,
+                                19.2.<?oxy_comment_start author="reichhoff" timestamp="20170316T143646+0100" comment="{{Br. 42}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    ich meine die Auskunft über den Agenten, der mit <orgName key="pdrPo.001.015.000090159">C.&#160;Karthaus &amp; C<hi rendition="#sup">o</hi></orgName> hier angeknüpft hat &amp; wegen Einkauf von Sewings
+                    durch Dich.</p>
+                <p sameAs="MBTextmitEinzug">Wegen der Sewings hätte ich namentlich gerne Nachricht
+                    von Dir gehabt. Kannst Du z.&#160;B. auch einen Sewing den <orgName key="pdrPo.001.015.000090284">Schunks</orgName> unter dem Zeichen C
+                    verkaufen; von diesem Garn wird hier massenweise verbraucht. Convenirt Dir die
+                    Sache aber nicht oder ist sie Dir nur irgend wie unbequem, so kaufen wir die
+                    Sewings wie alle andern hier durch Agenten. Die feinen Garne wirst Du uns aber
+                    wohl vor wie nach kaufen können; z.&#160;B. die heute bestellten N<hi rendition="#sup">o</hi>&#160;50 &amp; 60 2fold Sewgs 7&#160;leas X je
+                        30&#160;<expan resp="editor" sameAs="dottet_underline">B<ex>ün</ex>d</expan><ex>e</ex>l es wäre uns sehr lieb, wenn wir diese
+                    60&#160;Bdl recht bald bekommen könnten, &amp; wirst Du bei der jetzigen Flaue
+                    wohl vortheilhaft für uns zurecht kommen. – Im Geschäft geht es recht flott,
+                    wenigstens haben wir viele Aufträge und denken mit nächster Woche unsere
+                    Production auf 20&#160;000 ℔&#160; zu bringen; am 20.&#160;März sind wir aber 1
+                    &amp; 2&#160;Sgr <expan resp="editor" sameAs="dottet_underline">p<ex>er</ex></expan> ℔ engl. aufgeschlagen, was eine <expan resp="editor" sameAs="dottet_underline">kl<ex>eine</ex></expan> Stockung hervorrufen wird.
+                    – Unser Liverpooler Geschäftchen macht sich auch recht wacker; die letzte vorige
+                    Woche war <pb/> die stärkste, <persName key="pdrPo.001.004.000010602">Funke</persName> setzte in der Woche 540&#160;Ballen um. Wir haben noch
+                    etwas an Funke zu remittiren, &amp; wenn es Dir paßt, so kannst Du gleich eine
+                    £&#160;1000–1500 an <orgName key="pdrPo.001.015.000090261">R.&#160;Funke &amp;
+                            C<hi rendition="#sup">o</hi><hi rendition="#sup"/></orgName> für unsere
+                    Rechnung auszahlen lassen; sei aber so gut uns sofort davon zu benachrichtigen,
+                    damit ich nicht hier auch noch Londoner kaufe. Ich erwarte also umgehend
+                    Nachricht von Dir ob Du <hi rendition="#u">gleich</hi> eine Zahlung an <persName key="pdrPo.001.004.000010602">Funke</persName> für uns machen kannst oder
+                    nicht. </p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Mutter</orig><note xml:id="f498aa53-f011-44e4-a064-51e4b30b831f"><persName key="pdrPo.001.004.000001367">Elisabeth Engels</persName>.
+                        </note></seg> &amp; uns geht’s hier noch recht gut; wir waren gestern Abend
+                    noch alle mit Mutter im Conzert &amp; sie erwartet also bald wieder Nachricht
+                    von Dir. – Hast Du 3&#160;<expan resp="editor" sameAs="dottet_underline">Fl<ex>aschen</ex></expan> Hochheimer erhalten &amp; wi<supplied cert="high">e</supplied> schmeckt er Dir? Der Wein ist zwar nicht mehr so
+                    lieblich wie jüngere Sorten; aber ganz rein in unserm Keller geblieben.</p>
+                <p sameAs="MBTextmitEinzug">Hast Du nicht dort Gelegenheit, oder vielleicht in
+                    Leeds, ein paar gute Pferde zu kaufen, die nicht zu theuer kommen? Die in
+                    Engelskirchen haben ein paar nöthig: ich meine gute kräftige Doppel Ponÿs; in
+                    dem Schlag wie <persName key="pdrPo.001.004.000000456">Emil Blank</persName> mal
+                    den kl. Schwarzen von dort bekommen hat. Es müßte ein Gelegenheitskauf sein;
+                    irgend Jemand müßte seine Pferde abschaffen, wie das ja immer dort wohl
+                    vorkommt. Ich sprach vor einigen Tagen mit Emil <persName key="pdrPo.001.004.000001368">Engels</persName> darüber, &amp; wird er Dir
+                    vielleicht auch darüber schreiben.</p>
+                <p sameAs="MBTextmitEinzug">Nun leb wohl, halte Dich gesund, gieb mir wegen
+                        <persName key="pdrPo.001.004.000010602">Funke</persName> bald Nachricht
+                    &amp; sei von mir &amp; Allen hier herzlich gegrüßt</p>
+                <closer sameAs="MBUnterschrift">Dein Herm. Engels </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

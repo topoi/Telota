@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00145" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>141</idno>Carl Klein an Karl Marx in London. Solingen, Freitag, 27. Juli 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 2665/D V 74 Fotosign. 9371a&lt;–&gt;b.</idno></idno></msIdentifier><physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            283&#160;×&#160;224&#160;mm. Klein hat die ersten zwei Seiten
+                            vollständig beschrieben, die dritte zur Hälfte, die vierte Seite blieb
+                            leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Die Schreibweise wurde nicht berichtigt.</p>
+                        <p>Von Hermann Jungs Hand: sein <ref target="mega_hf2_3kz_5y">Brief an
+                                Johann Philipp Becker</ref>, geschrieben nach dem 27.&#160;Juli 1866
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(si<?oxy_comment_start author="lindenberg" timestamp="20170424T152531+0200" comment="nach dem 27. Juli 1866. {{{evt. Link f. Abb.}}} "?>ehe<?oxy_comment_end?>
+                            Beilage {{Beilage_zu_ 141}})<?oxy_custom_end?>.<?oxy_comment_start author="lindenberg" timestamp="20170427T103605+0200" comment="Hier könnte ein Satz mit Verlinkung zur Beilage_zu_141  stehen:
+
+Der Brief hat eine Beilage 
+"?>
+                            <?oxy_comment_end?>Jung hat den Brief unten, auf der übrigen Hälfte der
+                            dritten Seite und auf der vierten Seite geschrieben. Schreibmaterial:
+                            schwarze Tinte. </p>
+                        <p>Erstveröffentlichung des Briefes von Klein: Die I.&#160;Internationale in
+                            Deutschland (1964). S.&#160;133/134; der Brief von Jung wird hier
+                            erstmals veröffentlicht.</p>
+                        <p><ref target="mega_hf2_3kz_5y">Der Brief enthält eine Beilage.</ref></p>
+                    </physDesc><additional><listBibl><bibl>RGASPI f. 21 op. 1 d. 184/2</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002522">Carl Klein</persName><placeName>Solingen</placeName><date when="1866-07-27"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:42Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <opener>
+                    <salute sameAs="MBAnrede"><pb/> Geehrter Herr Marx.</salute>
+                </opener>
+                <p rend="MBTextMitEinzug">Im Auftrage unsers Lesevereins wende ich mich zu Ihnen,
+                    indem wir den <bibl sameAs="zzDer Vorbote">Vorbote</bibl> bies vorigen Monat
+                    nähmlich für ½&#160;Jahr von <persName key="pdrPo.001.004.000000317">J.&#160;Ph.&#160;Becker</persName> erhalten haben, <seg type="comment"><orig>wir hatten uns freilich in der Schweiz als Secktion
+                            angeschlossen,</orig><note xml:id="d15eb97a-aeef-45a7-a424-ea1386033dea">Die Gründung einer Sektion der IAA in Solingen am 24.&#160;September
+                            1865 hatte die Versammlung der Oppositionsgemeinde des ADAV veranlaßt.
+                                <persName key="pdrPo.001.004.000002522">Carl Klein</persName>
+                            gehörte zur Leitung der Gemeinde. </note></seg> aber <seg type="comment"><orig>wie wir uns mahl by J.&#160;Ph.&#160;Becker
+                            erkundigten</orig><note xml:id="f62991ed-7726-4189-aa36-dbda499ee652">Siehe das Schreiben der Sektion der IAA in Solingen an
+                            J._Ph.&#160;Becker, 17.&#160;April 1866 (IISG, <persName key="pdrPo.001.004.000000317">Johann Philipp Becker</persName>
+                            Nachlass, Sign.&#160;D&#160;II&#160;72). (((lSektion der IAA in Solingen
+                            an Johann Philipp Becker, 17.&#160;April 1866 (IISG, Johann Philipp
+                            Becker-Nachlass, Sign.&#160;D&#160;II&#160;72) ))) </note></seg> wußte
+                    er hievon nichts, da stellte sich die Sache so heraus daß der Herr <persName key="ed_gq2_kwj_zx">Dültgen</persName> aus Gräfrath der die Corespondenz mit
+                    J.&#160;Ph.&#160;Becker besorgte und wir demselben unsre Beiträge als Mitglieder
+                    des Internationale Arbeiter Assation bezahlt hatten, sowie für 15&#160;Stück
+                    Vorboten das Abonentengeld gegeben, daß derselbe <seg type="comment"><orig>wie
+                            uns J.&#160;Ph.&#160;Becker schreibt</orig><note xml:id="f06df35c-ff7b-4c1a-81f1-5315d5bd9436">Der Antwortbrief Beckers,
+                            geschrieben zwischen 17.&#160;April und 27.&#160;Juli 1866, wurde nicht
+                            gefunden.</note></seg> nichts eingeschickt habe und uns auch nichts
+                    einmahl als Mitglieder angezeigt, Herr <persName key="ed_gq2_kwj_zx">Dültgen</persName> hat jedenfalls wie J.&#160;Ph.&#160;Becker schreibt aus
+                    Noth eine Tugend gemacht und hatt das Geld selbst in Anspruch genommen, von der
+                    Zeit an, läßt sich Dültgen by uns nicht mehr sehen ich warne vor ihm indem
+                    derselbe ein Schwindler im höchsten grad ist, ich kann schriftliche beweise
+                    hierfür geben wenn es gewünscht wird. Ich sende Ihnen einliegend fünf Thlr für
+                    15&#160;Stück <bibl sameAs="zzDer Vorbote">Vorboten</bibl> für neue Quartal N<hi rendition="#sup">o</hi>&#160;1 bies 6 haben wir von J.&#160;Ph.&#160;Becker
+                    erhalten, wir wenden uns deßwegen an Sie, weil die Postverbindung im Süden
+                    Augenblicklich durch Kriegsverhältnisse aufhört, und <seg type="comment"><orig>bitte Sie deßhalb J.&#160;Ph.&#160;Becker in Kenntniß zu
+                            setzen</orig><note xml:id="bc24f503-0fb4-405d-9573-c6f9719444e8"> Den
+                                <ref target="mega_hf2_3kz_5y">Brief an <persName key="pdrPo.001.004.000000317">J._Ph.&#160;Becker</persName></ref> schrieb <persName key="pdrPo.001.004.000002417">Hermann Jung</persName> als
+                            Korrespondierender Sekretär der IAA für die Schweiz nach dem
+                            27.&#160;Juli 1866.
+                            <?oxy_comment_start author="lindenberg" timestamp="20170424T152531+0200" comment="nach dem 27. Juli 1866. {{{evt. Link f. Abb.}}} "?>Siehe<?oxy_comment_end?>
+                            Beilage {{Beilage_zu_ 141}}. <p rend="endnote text"><?oxy_comment_start author="lindenberg" timestamp="20170203T165702+0100" comment="Beilage als separate Datei:
+Beilage_zu_141.xml
+
+Der Text wurde noch einmal mit der Hs. verglichen.
+
+Die Registerauszeichnungen wurden übernommen. 
+Wenn danach ein Link zur Beilagendatei eingefügt wurde, kann der Text hier gelöscht werden."?>
+                                <?oxy_comment_end?></p>
+                        </note></seg> und dabei bemerken wenn er fernerhin Pakete schickt doch ja
+                    keine Briefe oder sonstige Schriftstücke welche geschrieben sind, (das heißt
+                    Copie darfs sein) mit einlegt denn sämmtliche Pakete <pb/> muß ich auf dem
+                    Steueramt abhohlen, wo dieselben geöffnet werden, 1&#160;mahl hatt der
+                    Contreleur 1&#160;Brief gefunden und sagte mir er müßte mich anzeigen wenn dieß
+                    noch mahl passierte, es war aber Wahrscheinlich Copie ferner ersuche ich Sie obs
+                    nicht möglich sei die Pakete mit den Vorboten welche jedesmahl 13&#160;Slgr
+                    Porto von Genf kosten, billiger hierher zu bekommen, und bitte Sie oder
+                        J.&#160;Ph.&#160;<persName key="pdrPo.001.004.000000317">Becker</persName>
+                    möchten uns überhaupt über die Internationale Arb. Assat. und deren Bedingungen
+                    Aufklären, denn der Schwindler <persName key="ed_gq2_kwj_zx">Dültgen</persName>
+                    hat uns ziemlich im unklaren gelassen, <seg type="comment"><orig>wir haben ein
+                            Statutenbuch</orig><note xml:id="f27e74ff-c140-498d-b55b-1d5feb787676">Reglements-Entwurf der Internationlen Arbeiter-Assotiation. Section
+                            Genf. [Genf 1865.] [Flugbl.] (RGASPI, Sign. f.&#160;21, op.&#160;1, d.
+                            298/1). Siehe MEGA²&#160;I/20. S.&#160;319.12–13 und Erl. sowie S._1945.
+                            (((lReglements-Entwurf der Internationlen Arbeiter-Assotiation. Section
+                            Genf. [Genf 1865.] [Flugbl.]))) </note></seg> worin nähmlich der Beitrag
+                    mit 50&#160;Cents bezeichnet steht, bei der Zahl 50 ist die 5 gedruckt und die
+                    Null dahinter mit Dinte geschrieben wir haben uns gedacht ob es <persName key="ed_gq2_kwj_zx">Dültgens</persName> Kniffe seien das jedesmahl die
+                    45&#160;Cent. für ihn abfielen und darum aus 5 eine 50 gemacht, </p>
+                <p rend="MBTextMitEinzug">im Leseverein haben wir nur freie Werke nähmlich <seg type="comment"><orig>die Erworbne Rechte von <persName key="pdrPo.001.004.000002711">Lassalle</persName></orig><note xml:id="nh4y_zlr_gz">Ferdinand Lassalle: Das System der erworbenen
+                            Rechte. Eine Versöhnung des positiven Rechts und der Rechtsphilosophie.
+                            Theil_1.2. Leipzig 1861. (((lLassalle,Ferdinand:Das System der
+                            erworbenen Rechte. Eine Versöhnung des positiven Rechts und der
+                            Rechtsphilosophie. Theil_1.2. Leipzig 1861))) </note></seg> etztr.
+                    Können Sie uns noch einige gute Werke angeben.</p>
+                <p sameAs="MBTextmitEinzug">Wäre es nicht zweckmäßiger für Rheinland oder für
+                    Preußen ein Agent zu stellen, der die <bibl sameAs="zzDer Vorbote">Vorboten</bibl> oder überhaupt die ganze Corespondenz übernehme indem es
+                    viel billiger würde, als wenn jedem Verein oder Sectcion dies direckt von der
+                    Schweiz oder London zugesandt würde, es würde jedenfalls viel Porto gespart.
+                        <seg type="comment"><orig><persName key="ed_ksb_ssd_xx">Fritz
+                                Moll</persName> der Sie vorm Jahr auf der Reise nach Amerika mit
+                                <persName key="ed_hyr_jch_yy">Julius Melchior</persName> besucht
+                            hat,</orig><note xml:id="nk1t_ygr_gz">Der Besuch fand am 1. Juni 1864
+                            statt, siehe <ref target="B00042/#b30a728e-b31e-403a-af20-5f5e57ce4bd7">Erl. zu F. W. Moll an Marx,
+                                14.2.<?oxy_comment_start author="reichhoff" timestamp="20170515T152408+0200" comment="{{Erl. 39d}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                    ist vier bis fünf Wochen hier auf besuch – (bei mir im Gefängniß) <seg type="comment"><orig>er hat mir das Gedicht gegeben welches er Ihnen
+                            geschickt hat.</orig><note xml:id="f3f1b52d-b41c-46a1-a03c-542355629e83">Moll schickte das Gedicht mit dem <ref target="B00042">Brief an Marx
+                                vom 14.&#160;Februar
+                            1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170405T190143+0200" comment=" ({{Br. 39}})"?>.<?oxy_comment_end?>
+                            Es konnte nicht ermittelt werden. Siehe <ref target="B00042/#start_shw_h3t_qz">F. W. Moll an Marx,
+                                14.2.<?oxy_comment_start author="reichhoff" timestamp="20170422T131125+0200" comment="{{Br. 39.34–39}}"?>1866<?oxy_comment_end?></ref>.</note></seg>&#160;<pb/>
+                    –&#160;wird aber von jetzt an über 4&#160;Wochen wieder fort nach Americka
+                    machen, sollten Sie etwas an ihm zu bestellen haben an <persName key="pdrPo.001.004.000002529">Klings</persName> oder <persName key="ed_hyr_jch_yy">Melchior</persName>, so können Sie dies wenn es während
+                    dieser Frist geschieht, an mir thun, ich schließe für jetzt und erwarte baldige
+                    Antwort.</p>
+                <p sameAs="MBTextmitEinzug">Solingen d. 27/7 1866</p>
+                <closer sameAs="MBUnterschrift">Mit demokratischen Gruß u Handschlag<lb/>im Auftrage
+                    unsres Vereins. Carl Klein<lb/><hi rendition="#u">Solingen</hi><lb/><hi rendition="#u">Goldstraße</hi>
+                </closer>
+            </div></body></text></TEI>

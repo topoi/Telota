@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00020" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>19</idno>Karl Marx an Sigfrid Meyer in Berlin. London, Mittwoch, 24.
+                    Januar 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">C 600/C 161</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            101&#160;×&#160;126&#160;mm. Die erste Seite hat Marx vollständig
+                            beschrieben, die zweite ist leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von unbekannter Hand: Nummerierung des Briefes: „84.“ auf der ersten
+                            Seite oben in der Mitte; Vermerke mit Bleistift auf der Rückseite: „#1“
+                            und „28/1&#160;66“ (oben rechts) und „91“ (unten rechts).</p>
+                        <p>Meyer beantwortet den Brief am 26.&#160;Januar 1866. Siehe Erl.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 1930</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl>Erstveröffentlichung: in russischer Übersetzung: МЭС<hi rendition="#sup">1</hi> 25 (1934). S.&#160;463/464</bibl>.</witness>
+                    <witness><bibl>in der Sprache des Originals: MEW&#160;31 (1965).
+                            S.&#160;499.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                    <date when="1866-01-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="pdrPo.001.004.000003187">Sigfrid Meyer</persName>
+                    <placeName>Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:38:24Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener><dateline sameAs="MBDatumszeile"><pb/> 24 Jan. 1866.</dateline><salute sameAs="MBAnrede">Lieber Freund,</salute></opener>
+                <p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Ich sandte, gleichzeitig mit
+                            den Karten an Sie, einen ausführlichen Brief an Herrn <persName key="pdrPo.001.004.000004960">Vogt</persName>.</orig><note xml:id="eba331a3-7169-4769-87ee-01c227c17403">Siehe <ref target="B00011/#e139a3b1-cfd1-4ba0-b331-14cfaba7e3fc">Erl. zu Marx
+                                an W. Liebknecht, 15.1.1866</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170512T144207+0200" comment="{{Erl._10h}}"?>,<?oxy_comment_end?>
+                            <ref target="B00013/#b3a667ad-431c-4f5f-b652-064c7d0c2acf">Erl. zu Marx
+                                an Engels, 15.1.1866</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170512T144243+0200" comment="{{Erl.12d}}"?>
+                            <?oxy_comment_end?>und <ref target="B00019/#nqgn_w4k_5y">Erl. zu W.
+                                Liebknecht an Marx,
+                            21.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170512T144412+0200" comment=" {{Erl. 18a}}"?></note><?oxy_comment_end?></seg>
+                    Ich glaubte es durch den Gebrauch von zwei verschiedenen Adressen sehr geschickt
+                    zu machen. <seg type="comment"><orig>Der einzige Fehler, den ich möglicher Weise
+                            begangen habe, ist N.&#160;6 statt 16 in Vogt’s Adresse gesetzt zu
+                            haben.</orig><note xml:id="b429446f-89d9-4c97-8f3b-39b322e2c298">Siehe
+                                <ref target="B00019">W. Liebknecht an Marx,
+                                21.1.<?oxy_comment_start author="reichhoff" timestamp="20170410T105111+0200" comment="{{Br. 18.6–12}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Es wäre mir daher sehr lieb,
+                            wenn Sie nachsähen bei der Post u. mir den Erfolg anzeigten.</orig><note xml:id="e392394e-ac9f-4441-8cdf-1fda9c452f12"><persName key="pdrPo.001.004.000003187">Meyers</persName> nicht überlieferte
+                            Antwort erfolgte am 26.&#160;Januar 1866. Siehe Meyer an Liebknecht,
+                            26.&#160;Januar 1866 (RGASPI, Sign. f.&#160;200, op.&#160;4,
+                            d.&#160;191) und am 2.&#160;Februar 1866 (ebenda, Sign. f.&#160;200,
+                            op.&#160;4, d.&#160;194). (((lMeyer an Liebknecht, 26.&#160;Januar 1866
+                            (RGASPI, Sign. f.&#160;200, op.&#160;4, d.&#160;191) ))) (((lMeyer an
+                            Liebknecht, 2.&#160;Februar 1866 (RGASPI, Sign. f.&#160;200, op.&#160;4,
+                            d.&#160;194) ))) </note></seg> Seit ich Ihnen schrieb hat sich ein neuer
+                    Karbunkel an einer Stelle gebildet, die beim Sitzen sehr schmerzt, so daß ich,
+                    nach der täglichen Reinschreiberei <seg type="comment"><orig>meines
+                            Manuscripts</orig><note xml:id="b2ccacac-3df5-45b8-b56c-9cb066004028">Gemeint ist hier Karl Marx: Das Kapital; siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx
+                                an J. Ph. Becker, zwischen 9. und 15.1.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170512T145301+0200" comment="{{Erl. 6b}}."?>
+                            <?oxy_comment_end?>(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg>
+                    für den <seg type="comment"><orig>Buchhändler</orig><note xml:id="c222e859-4a21-4613-a60c-a27ad3d647dc"><persName key="pdrPo.001.004.000003135">Otto Meißner.</persName>
+                        </note></seg>, ausserordentlich erschöpft bin.</p>
+                <closer sameAs="MBUnterschrift"><salute>Ihr <lb/></salute><signed>K. M. </signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,35 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00067" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>63</idno>Karl Marx an Jenny Marx (Tochter) in London. Margate, Freitag, 16. März 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 1 d. 1948</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format 268&#160;×&#160;211&#160;mm. Marx hat die erste Seite vollständig beschrieben, die dritte zur Hälfte, die zweite und vierte Seite sind leer. Schreibmaterial: schwarze Tinte.</p></physDesc></msDesc><listWit><witness><bibl>Erstveröffentlichung: in russischer Übersetzung: Из семейной переписки Карла Маркса
+                            (1925). S.&#160;162/163</bibl>.</witness><witness><bibl>in der Sprache des Originals: Private letters of Karl Marx (1929). S.&#160;44/45.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>Margate</placeName><date when="1866-03-16"/></correspAction><correspAction type="received"><persName key="pdrPo.001.004.000003074">Jenny Marx (Tochter)</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:53Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> 16 March 1866.<lb/>5, Lansell’s Place, Margate.</dateline><salute sameAs="MBAnrede">My dear child,</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_sh3_w5g_4z"/><anchor type="verweisziel" xml:id="start_ofk_w43_4z"/><orig>I arrived here yesterday evening, ¾
+                            past seven.</orig><anchor type="verweisziel" xml:id="stop_ofk_w43_4z"/><note xml:id="b826819f-a182-48b7-ac31-367bff284e9e">Siehe <ref target="B00054/#a9fd0c5d-779b-4626-bf9f-71889bd4804c">Erl. zu Engels
+                                an Marx, 5.3.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170517T120707+0200" comment="{{Erl. 51a}}."?></note><?oxy_comment_end?></seg>
+                    According to your instructions, I left my luggage behind me, in the cloak room,
+                    and was then landed by the omnibus at a small inn, called the King’s Arms.
+                    Having ordered a rumpsteak, and being shown to the coffeeroom, which was rather
+                    dimly illuminated, I took rather fright (you know my anxious temper) at a lean,
+                    long, stiff sort of man, midway between parson and commisvoyageur, solitarily
+                    and motionlessly seated before the chimney. From the vagueness of his
+                    glancelesss eye, I thought him a blind man. I was confirmed in that notion by
+                    some long, scarflike, narrow white thing spread over his legs, <del rendition="#s"><unclear reason="illegible" cert="high">what</unclear><sic ana="#break-off"><unclear reason="illegible" cert="high"/></sic></del>
+                    with regular holes in it. I fancied it to be paper cut out by the blind man to
+                    serve as a catchpenny from the frequenters of the inn. When my supper arrived,
+                    the man began somewhat to move <del> and what with <sic ana="#break-off"/></del>, quietly took off his boots, and warmed his elephantine feet at the
+                    fire. What with this agreeable spectacle, and his supposed blindness, and what
+                    with a rumpsteak, which seemed, in its natural state, to have belonged to a
+                    diseased cow, I passed this first Margate evening anything but comfortably. But,
+                    in compensation, the bedroom was snug, the bed clean and elastic, and the sleep
+                    sound. When at the breakfast table, who <subst>
+                        <del>stepped</del>
+                        <add>should step</add>
+                    </subst> in but the man of the evening. He turned out to be deaf and not blind.
+                    What had so much vexed me—I mean the thing on his knees—was a pocket
+                    handkerchief, of singular fashion, with a greyish ground <del> and <sic ana="#break-off"/></del> interspersed by black eyes which I had mistaken
+                    for holes. Feeling shy of the man, I settled my bill as soon as possible, and,
+                    after some erratic course, <pb/> hit upon my present lodging, in front of the
+                    sea, a large <del rendition="#s">be<sic ana="#break-off"/></del> sitting room
+                    and a bedroom, 10&#160;sh. <expan resp="editor" sameAs="dottet_underline">p<ex>er</ex></expan> week.<anchor type="verweisziel" xml:id="stop_sh3_w5g_4z"/> When striking my bargain, the additional clause
+                    was agreed upon that, <seg type="comment"><orig>on your arrival,</orig><note xml:id="fd616340-534a-4483-bc2a-db82f761a37e">Die Töchter <persName key="pdrPo.001.004.000003074">Jenny</persName> und <persName key="pdrPo.001.004.000003068">Eleanor Marx</persName> kamen nach
+                            Margate um den 29.&#160;März 1866 und blieben 10&#160;Tage. (Siehe Jenny
+                            Marx: „Sie können sich denken&#160;…“. S.&#160;83). (((lMarx,_Jenny:
+                            „Sie können sich denken&#160;…“))) </note></seg> you will get your
+                    bedroom <hi rendition="#u">for nothing</hi>.</p><p sameAs="MBTextmitEinzug">The first thing I did, was taking a warm sea bath. It was delicious. So is the air here. It is a wonderful air.</p><p sameAs="MBTextmitEinzug">As to boarding houses, they are almost empty now, and, as I understood the librarian, hardly <add>yet</add> prepared for the reception of guests. As to dining rooms, there seems some difficulty to get at a proper one, but by the by this obstacle will be overcome.</p><p sameAs="MBTextmitEinzug">And now, with my best compliments to all, by bye!</p><closer sameAs="MBUnterschrift"><salute>Yours <lb/></salute><signed>Mohr.</signed></closer><postscript><p>I have to-day already walked 5 hours. </p></postscript></div></body></text></TEI>

@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00056" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>53</idno>Ferdinand Freiligrath an Friedrich Engels in Manchester.
+                    London, Donnerstag, 8. März 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 1949/L III 402 Fotosign.
+                            7019a–b</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            221&#160;×&#160;179&#160;mm. Wasserzeichen: „ACP“ unter einer Vignette.
+                            Freiligrath hat die ersten zwei Seiten vollständig beschrieben, die
+                            übrigen zwei sind leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Archivsignatur des SPD-Archivs auf der ersten Seite: „II 21 H 24 a“.</p>
+                        <p>Die Beilage („auf inliegendem Zettel“) siehe unten.</p>
+                        <p>Engels' Antwort erfolgte zwischen 8. und 10.&#160;März 1866 (Engels an F.
+                            Freiligrath, zw. 8. u. 10.3.1866 und Engels an Marx, zw. 8. u.
+                            10.3.1866).</p>
+                        <p><?oxy_comment_start author="roth" timestamp="20170127T104328+0100" comment="Verknüpfung mit der Beilage offen, wird von SG und SD demnächst bereitgesetllt"?><ref target="mega_nb4_ldt_sy">Dem Brief liegt ein Zettel mit dem Namen
+                                einer Firma bei.</ref><?oxy_comment_end?></p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1641</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl>Erstveröffentlichung: Freiligrath Bw 1 (1968).
+                            S.&#160;178/179.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000001631">Ferdinand Freiligrath</persName>
+                    <placeName>London</placeName>
+                    <date when="1866-03-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName>Manchester</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:38:47Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener><dateline sameAs="MBDatumszeile"><pb/> 4, Great Winchester Street<seg type="comment"><orig><lb/>(<orgName key="ed_x5y_4w3_yy">New Mansfeld
+                                    Mining<lb/>Company</orgName>)</orig><note xml:id="nkmq_ldc_5z">Siehe <ref target="B00058/#a255aa26-2c6d-484a-8a74-2b0821b2cb23">Erl. zu Engels an F. Freiligrath, zwischen 8. und
+                                    10.3.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170517T093823+0200" comment="{{Erl. 54aa}}."?></note><?oxy_comment_end?></seg><lb/>8.
+                        März 1866.</dateline><salute sameAs="MBAnrede">Lieber Engels,</salute></opener>
+                <p sameAs="MBTextohneEinzug">Dürfte ich Dich um einen Gefallen bitten? Ich werde,
+                    von Paris aus, um Auskunft über das <seg type="comment"><orig>auf inliegendem
+                            Zettel</orig><note xml:id="e0f3e05e-f91d-43ab-ba22-b1e95c38b8d1">Siehe
+                            die Beilage.</note></seg> bemerkte Haus angefragt, u. würde Dir dankbar
+                    sein, wenn Du die Güte haben wolltest, mir dieselben at your earliest
+                    convenience geben zu wollen. «Il s’agit d’une somme de <hi rendition="#u">£&#160;500</hi>.– acceptée par cette maison.» Discreter Benutzung u. steter
+                    Bereitwilligkeit zu Gegendiensten darfst Du Dich versichert halten.</p>
+                <p sameAs="MBTextmitEinzug">Marx ist ja wieder <pb/> krank. Ich fürchte, er stürmt
+                    durch nächtliches Arbeiten zu sehr in seine Natur hinein. Ein Jahr auf dem
+                    Lande, glaube ich, würde die rechte Cur für ihn sein; wohlverstanden, mit
+                    fleißigem Spaziren- u. zeitigem Zu Bett Gehen. Es will mir nicht gefallen, daß
+                    diese leidigen Furunkeln sich immer wieder einstellen.</p>
+                <p sameAs="MBTextmitEinzug">Dir, hoff’ ich, geht es wohl! Ich will auch nicht
+                    klagen, doch hab’ ich mich zusammenzunehmen.</p>
+                <p sameAs="MBTextmitEinzug">Herzlich grüßend</p>
+                <closer sameAs="MBUnterschrift"><salute>Dein <lb/></salute><signed>F. Fth
+                    </signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

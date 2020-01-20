@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00210" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>203</idno>Friedrich Engels an Karl Marx in London. Manchester, Freitag, 21. Dezember 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1624/D III 394</idno></idno></msIdentifier><physDesc>
+                                                <p>Der Brief besteht aus einem Bogen mittelstarkem,
+                                                  weißem Papier im Format
+                                                  231&#160;×&#160;181&#160;mm. Wasserzeichen: „A
+                                                  Pirie &amp; Sons 1865“. Prägung: nicht deutlich
+                                                  erkennbar, vermutlich „London Superfine“ und ein Wappenschild.<?oxy_comment_start author="lindenberg" timestamp="20170425T100606+0200" comment="Prägung: nicht deutlich erkennbar, vermutlich „London Superfine“ und ein Wappenschild.[G.A.] "?>
+                                                  <?oxy_comment_end?>Engels hat die ersten zwei
+                                                  Seiten vollständig beschrieben, die dritte zur
+                                                  Hälfte, die vierte Seite ist leer.
+                                                  Schreibmaterial: schwarze Tinte.</p>
+                                                <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand: Numerierung  der
+                                                  beschriebenen Seiten: „322,1“ bis „322,3“ bzw.
+                                                  „57,1“ , „56,2“ und „56,3“ (gestrichen).
+                                                  Redaktionelle Vermerke,
+                                                  Streichungen.<?oxy_comment_start author="lindenberg" timestamp="20170425T100631+0200" comment="Von Eduard Bernsteins Hand: Numerierung des Briefes bzw. der beschriebenen Seiten: „322,1“ bis „322,3“ bzw. „57,1“ [so!], „56,2“ und „56,3“ (gestrichen). Redaktionelle Vermerke, Streichungen."?></p>
+                                                <?oxy_comment_end?>
+                                                <p>Von Heinrich Dietz’ Hand: Numerierung des
+                                                  Briefes: „877“ (gestrichen).</p>
+                                                <p>Von unbekannter Hand: der Vermerk mit Tintenstift
+                                                  auf der ersten Seite oben links: „Wacker“.</p>
+                                                <p>Engels beantwortet den Brief von Marx vom
+                                                  17.&#160;Dezember 1866 (Br.&#160;201). </p>
+                                                <p>Erstveröffentlichung (gekürzt): Bw&#160;3 (1913).
+                                                  S.&#160;358/359; vollständig: MEGA<hi rendition="#sup">1</hi> III/3 (1930).
+                                                  S.&#160;371/372.</p>
+                                        </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2009</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1866-12-21"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:40:20Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Mchr 21 Dec 1866.</dateline><salute sameAs="MBAnrede">Lieber Mohr</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><anchor type="verweisziel" xml:id="start_vpl_wss_5z"/><orig><anchor type="verweisziel" xml:id="start_zts_gvs_5z"/>Ich glaube auch daß die Leute in Westeuropa ihr Möglichstes thun werden</orig><note xml:id="nenf_f1q_kz">Siehe <ref target="B00208/#start_w31_f5s_5z">Marx an Engels,
+                17.12.<?oxy_comment_start author="reichhoff" timestamp="20170506T183821+0200" comment="{{Br. 201.28–31}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          um im nächsten Jahr &amp; bis die <seg type="comment"><orig>Bewaffnung mit
+              Hinterladern</orig><note xml:id="njdv_c1q_kz">Siehe <ref target="B00131/#aeb97dfb-065f-4e2c-a048-eecdcad65925">Erl. zu Engels an Marx,
+                4.7.<?oxy_comment_start author="reichhoff" timestamp="20170519T135333+0200" comment="{{Erl. 127c}}"?>1866<?oxy_comment_end?>.</ref>
+              Siehe auch <ref target="B00212/#start_srt_q5s_5z">K. Kaub an Marx,
+                31.12.<?oxy_comment_start author="reichhoff" timestamp="20170506T184200+0200" comment="{{Br. 205.24–32}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          allgemein ist, den Frieden zu erhalten.<anchor type="verweisziel" xml:id="stop_zts_gvs_5z"/> Ob aber die Russen nicht grade diesen Zeitpunkt für angemessen halten um mit <persName key="pdrPo.001.004.000000441">Bismarks</persName> Hülfe Oestreich klein zu kriegen,
+          Galizien zu annexiren, &amp; die Türkei in einen Haufen kleiner Slavenstaaten aufzulösen,
+          ist eine andre Frage. In Frankreich übrigens kann auch der Fall eintreten wo ein Krieg
+          nöthig wird – von wegen dieser Armeereorganisation, denn ohne Krieg setzt unser braver
+            <seg type="comment"><orig>Boustrapa</orig><note xml:id="fbf4a0db-7cb4-4ed5-8eb3-9dee0bed28f9"><persName key="pdrPo.001.004.000003392">Napoléon&#160;III</persName>. {{Siehe Erl.&#160;129j}}. </note></seg> das nicht
+          durch. Der Kerl ist durch <seg type="comment"><orig>den letzten Krieg</orig><note xml:id="b7120f8e-8627-4cb3-a340-0efa696ca5cd">Der Deutsche Krieg (1866).</note></seg>
+          in ein komisches Dilemma gerathen: entweder er läßt alles beim Alten &amp; ist dann kein
+          match mehr für Preußen, oder er führt die Sache durch &amp; dann bricht er sich den Hals
+          erstens durch die kolossale Unpopularität &amp; zweitens dadurch, daß er die Armee
+          vollständig <hi rendition="#u">entbonapartisirt.</hi> Von dem Augenblick an wo irgend eine
+          Art allgemeiner Wehrpflicht in Fkch eingeführt wird, hört das Prätorianerthum <del> , die
+              <sic ana="#break-off"/></del> von selbst auf, &amp; die 25–30% re-enlisted fellows die
+          jetzt in der franz. Armee dienen, verschwinden zum größten Theil. Da indeß Stellvertretung
+          bleibt, so ist Herr <expan resp="editor" sameAs="dottet_underline"><persName key="pdrPo.001.004.000003392">Bonap<ex>arte</ex></persName></expan> diesmal in dem
+          komischen Fall sich auf die <hi rendition="#u">Bourgeoisie</hi> gegenüber den <hi rendition="#u">Bauern</hi> stützen zu müssen. Der Gang der Geschichte ist aber auch ganz
+          <pb/> unverschämt rücksichtslos gegenüber diesem Edlen, &amp; es ist ihm zu verzeihen wenn
+          er an Gott und der Welt irre wird. Ich hoffe er macht es wie ich &amp; liest <seg type="comment"><orig>seinen <persName key="pdrPo.001.004.000010756">Horatium</persName></orig><note xml:id="nvzw_tbq_kz">Quintus Horatius Flaccus: Odae
+              III, 3,1. (((lHoratius Flaccus, Quintus: Odae III)))</note></seg> zur Auffrischung:
+            <seg type="comment"><orig>justum ac tenacem propositi virum</orig><note xml:id="nlgz_vbq_kz">ein in Bezug auf ein Vorhaben rechtschaffener und hartnäckiger
+              Mann.</note></seg> &amp;sw. Der alte <persName key="pdrPo.001.004.000010756">Horaz</persName> erinnert mich stellenweise an <persName key="pdrPo.001.004.000002109">Heine</persName> der sehr viel von ihm gelernt hat, auch au fond ein ebenso communer
+          Hund politice war. Man denke sich den Biedermann der den <seg type="comment"><orig>vultus
+              instantis tyranni</orig><note xml:id="fe7bdeb0-f3af-4176-bade-e556cb222bb3">der
+              Anblick des gegenwärtigen Tyrannen. Bei <persName key="pdrPo.001.004.000010756">Quintus Horatius Flaccus</persName> Odae&#160;III, 3,3: „Non vultus instantis
+              tyranni“. (((lHoratius Flaccus, Quintus: Odae&#160;III))) </note></seg> herausfordert
+          &amp; dem <persName key="pdrPo.001.004.000010106">Augustus</persName> in den Hintern
+          kriecht. Sonst ist der alte Schweinigel doch auch sehr liebenswürdig.<anchor type="verweisziel" xml:id="stop_vpl_wss_5z"/></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_jyq_hts_5z"/>Das Buch werde ich Dir wo möglich nächste Woche
+              besorgen.</orig><note xml:id="ngzy_lwp_kz">Siehe <ref target="B00208/#nc4m_ljp_kz">Erl. zu Marx an Engels,
+                17.12.<?oxy_comment_start author="reichhoff" timestamp="20170519T135513+0200" comment="{{Erl._201p}"?>1866<?oxy_comment_end?></ref><anchor type="verweisziel" xml:id="stop_jyq_hts_5z"/>.</note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Den Art<ex>ikel</ex> der <expan resp="editor" sameAs="dottet_underline">R<ex>evue</ex></expan>
+              <expan resp="editor" sameAs="dottet_underline">d<ex>es</ex></expan>
+              <expan resp="editor" sameAs="dottet_underline">d<ex>eux</ex></expan>
+              <expan resp="editor" sameAs="dottet_underline">M<ex>ondes</ex></expan><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><index indexName="XE">
+                <term>zzRevue des deux Mondes</term>
+              </index><?oxy_custom_end?> &amp; <bibl sameAs="zzThe Fortnightly Review">Fortnigthly</bibl> habe ich noch nicht nachlesen können, ist aber sehr erfreulich:
+                <expan resp="editor" sameAs="dottet_underline">Rev<ex>ue</ex></expan>
+              <expan resp="editor" sameAs="dottet_underline">Contemp<ex>oraine<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></ex></expan><index indexName="XE">
+                <term>zzRevue Contemporaine</term>
+                <?oxy_custom_end?>
+              </index> existirt hier nicht.</orig><note xml:id="nwc4_vwp_kz">Siehe <ref target="B00208/#nzr4_32p_kz">Erl. zu Marx an Engels, 17.12.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170519T135919+0200" comment=" {{Erl._201c}} "?>und<?oxy_comment_end?>
+              <ref target="B00208/#namc_gfp_kz">Erl. zu Marx an Engels,
+                17.12.<?oxy_comment_start author="reichhoff" timestamp="20170519T135945+0200" comment="{{201d}}"?>1866<?oxy_comment_end?>.</ref></note></seg></p><p sameAs="MBTextmitEinzug"><persName key="ed_z3b_v4n_hz">Wehner</persName> der neulich in
+          Deutschland war erzählt folgende Anekdote die <persName key="pdrPo.001.004.000000359">Bennigsen</persName>
+          <seg type="comment"><orig>(der Nationalvereinler)</orig><note xml:id="ea87a4f9-132e-4414-98bd-b6a49a199854">Siehe <ref target="B00115/#f4a2e66e-2db4-4b53-b242-4b7644f5ac9d">Erl. zu Engels an Marx,
+                25.5.<?oxy_comment_start author="reichhoff" timestamp="20170519T140142+0200" comment="{{Erl. 111f}}"?>1866<?oxy_comment_end?>.</ref></note></seg><ref target="B00115/#f4a2e66e-2db4-4b53-b242-4b7644f5ac9d"> </ref>selbst erzählt hat: Als
+            <expan resp="editor" sameAs="dottet_underline">Benn<ex>igsen</ex></expan> seine
+          Zusammenkunft vor dem Krieg mit <persName key="pdrPo.001.004.000000441">Bismark</persName>
+          hatte, setzte dieser ihm seine ganz nationalvereinliche deutsche Politik auseinander,
+          worauf Bennigsen frug wie es denn komme daß er um diese auszuführen, den complicirten Weg
+          eines Kriegs wähle statt sich einfach wie die liberale Phrase geht, „auf das Volk zu
+          stützen“. Bismark sah ihn ein paar Augenblicke starr an, &amp; sagte dann: Können <hi rendition="#u">Sie</hi> mit einem steifen Gaul über einen Graben springen? Er brachte
+          auch die Nachricht mit daß der unglückliche&#160;<pb/>
+          <seg type="comment"><orig>Kronprinz</orig><note xml:id="cc06c75f-317c-4a07-b0cf-3dbe404ad7c6"><persName key="pdrPo.001.004.000001661">Friedrich Wilhelm</persName>, der spätere <persName key="pdrPo.001.004.000001661">Friedrich III.</persName>
+            </note></seg> der früher so liberal that, seit dem Krieg noch viel toller geworden sein
+          soll als <seg type="comment"><orig>der Alte</orig><note xml:id="ba358bd1-3e0b-4f24-b212-76b3e9f9f8a8"><persName key="pdrPo.001.004.000005131">Wilhelm&#160;I.</persName>
+            </note></seg> was jedenfalls sehr erfreulich ist.</p><p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_jmy_z5s_5z"/>Damit Du während
+          der Feiertage nicht ganz ohne Geld bist schicke ich Dir inl. noch zwei Fünf
+          Pfundnoten,</p><p sameAs="MBTextmitEinzug">M/W 34768. London 12 Oct. 66.</p><p sameAs="MBTextmitEinzug">I/S 49080. Manch<hi rendition="#sup">r</hi> 26 Jan 66<anchor type="verweisziel" xml:id="stop_jmy_z5s_5z"/></p><p sameAs="MBTextmitEinzug">in der nicht ganz unbegründeten Hoffnung daß die Bilanz Ende des Jahres mich dafür schadlos halten wird.</p><p sameAs="MBTextmitEinzug">Viele Grüße an die ladies.</p><closer sameAs="MBUnterschrift">Dein<lb/>F. E. </closer></div></body></text></TEI>

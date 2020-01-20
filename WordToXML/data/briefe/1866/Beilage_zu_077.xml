@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_hq4_lr3_rz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Foto von Karl Marx. Margate, Ende März 1866.</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <collection>f. 389 op. 1 d. 4</collection>
+                        <?oxy_comment_start author="strauss" timestamp="20170602T162410+0200" comment="Struktur der Sign. beachten, letzter, 2. Schrägstr. ist überflüssig. + Hier ein Sonderfall, KEINE Handschrift, sondern ein Foto."?>
+                        <idno><?oxy_comment_end?>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p><?oxy_comment_start author="strauss" timestamp="20170612T084109+0200" comment="Siehe die Abbildung/Faksimile. (Vorder- u. Rückseite)"?>Foto<?oxy_comment_end?>
+                            von Karl Marx. Margate, Ende März 1866. </p>
+                        <p>RGASPI, Sign. f.&#160;389, op.&#160;1, d.&#160;4. Original-Positiv.
+                            6,4&#160;×&#160;10,5&#160;cm. Das Foto trägt auf der Rückseite die
+                            Aufdrucke:</p>
+                        <p>„The Fort. The London Photographic Comp. Margate.“</p>
+                        <p>und „Extra copies may be had by forwarding Stamps and quoting N<hi rendition="#sup">o</hi>&#160;4313“.</p>
+                        <p>Von Kugelmanns Hand: Vermerk auf der Rückseite oben mit schwarzer Tinte:
+                            „empfang. 4/4 1866 cf. Br. v. Fr.&#160;M. 1/4 66“. </p>
+                        <p>Siehe auch Карл Маркс, Фридрих Энгельс. Собрание фотографий. Москва 1976.
+                            S. 50–52 und S.&#160;121/122.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,3107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="mega_personenregister" xml:lang="de" xml:id="personJ">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Gehört zur ediarum-App für eXist.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Hybrid: consult project description and document history for details.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="pdrPo.001.004.000002329">
+                    <idno type="mega">1013665</idno>
+                    <persName type="reg">
+                        <name>J. E.</name>
+                    </persName>
+                    <note>Autor der 1866 erschienenen Darstellung „A phase of the cotton trade
+                        during the Civil war“</note>
+                    <linkGrp>
+                        <ptr target="II/11#68" type="page"/>
+                        <ptr target="II/11#1273" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002330">
+                    <idno type="mega">1013668</idno>
+                    <persName type="reg">
+                        <surname>Jabat</surname>
+                        <forename>Juan</forename>
+                    </persName>
+                    <birth>1768</birth>
+                    <death>1824</death>
+                    <note>spanischer Militär und Diplomat; 1820 Marineminister im ersten
+                        konstitutionellen Ministerium</note>
+                    <linkGrp>
+                        <ptr target="IV/12#465" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002331">
+                    <idno type="mega">1013673</idno>
+                    <persName type="reg">
+                        <surname>Jacini</surname>
+                        <forename>Stefano</forename>
+                    </persName>
+                    <birth>1826</birth>
+                    <death>1891</death>
+                    <note>italienischer Ökonom und Politiker</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000002332">
+                    <idno type="mega">1013678</idno>
+                    <persName type="reg">
+                        <surname>Jackson</surname>
+                        <forename>Andrew</forename>
+                    </persName>
+                    <birth>1767</birth>
+                    <death>1845</death>
+                    <note>7.&#160;Präsident der USA (1829–1837)</note>
+                    <linkGrp>
+                        <ptr target="I/14#1373" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002333">
+                    <idno type="mega">1013679</idno>
+                    <persName type="reg">
+                        <surname>Jackson</surname>
+                        <forename>Patrick Tracy</forename>
+                    </persName>
+                    <birth>1780</birth>
+                    <death>1847</death>
+                    <note>US-amerikanischer Kaufmann, Baumwollfabrikant; Schwager von Francis Cabot
+                        Lowell</note>
+                    <linkGrp>
+                        <ptr target="II/11#1732" type="page"/>
+                        <ptr target="II/11#1733" type="page"/>
+                        <ptr target="II/13#704" type="page"/>
+                        <ptr target="II/12#1264" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002334">
+                    <idno type="mega">1013684</idno>
+                    <persName type="reg">
+                        <surname>Jaclard</surname>
+                        <forename>Charles Victor</forename>
+                    </persName>
+                    <birth>1840</birth>
+                    <death>1903</death>
+                    <note>französischer Mathematiklehrer; Sozialist, Unterzeichner des
+                        Einberufungsschreibens zum Internationalen Sozialistischen Arbeiterkongreß
+                        1889</note>
+                    <linkGrp>
+                        <ptr target="I/31#580" type="page"/>
+                        <ptr target="I/31#583" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002335">
+                    <idno type="mega">1013695</idno>
+                    <persName type="reg">
+                        <surname>Jacob</surname>
+                        <forename>William</forename>
+                    </persName>
+                    <birth>1762</birth>
+                    <death>1851</death>
+                    <note>englischer Kaufmann, Statistiker und Schriftsteller; Mitglied des
+                        Parlaments (1808–1812); englischer Kaufmann, Ökonom und Statistiker ;
+                        bereiste Spanien 1809/1810</note>
+                    <linkGrp>
+                        <ptr target="II/15#1250" type="page"/>
+                        <ptr target="IV/12#758" type="page"/>
+                        <ptr target="IV/12#759" type="page"/>
+                        <ptr target="IV/12#1416" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002336">
+                    <idno type="mega">1013702</idno>
+                    <persName type="reg">
+                        <surname>Jacobi</surname>
+                        <forename>Abraham</forename>
+                    </persName>
+                    <birth>1830</birth>
+                    <death>1919</death>
+                    <note>deutscher Arzt; Mitglied des Bundes der Kommunisten, im Kölner
+                        Kommunistenprozeß 1852 freigesprochen; emigrierte 1853 in die USA; nahm
+                        auf seiten der Nordstaaten am Amerikanischen Bürgerkrieg teil; Präsident
+                        der Akademie der Medizinischen Wissenschaften in New York (1885–1889)</note>
+                    <linkGrp>
+                        <ptr target="III/9#64" type="page"/>
+                        <ptr target="III/9#741" type="page"/>
+                        <ptr target="III/9#729" type="page"/>
+                        <ptr target="III/10#334" type="page"/>
+                        <ptr target="III/10#344" type="page"/>
+                        <ptr target="III/10#368" type="page"/>
+                        <ptr target="III/10#937" type="page"/>
+                        <ptr target="III/10#950" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002337">
+                    <idno type="mega">1013705</idno>
+                    <persName type="reg">
+                        <surname>Jacobi</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <note>deutscher Jurist, Teilnehmer an der Revolution 1848/49; Teilnehmer der
+                        Revolution 1848/49; danach Emigrant in der Schweiz, 1850/1851 Mitglied der
+                        Genfer Gemeinde des Willich-Schapperschen Kommunistenbundes; seit 1852 in
+                        den USA; 1857 ein Gründer des Kommunisten-Klubs in New York; nahm auf
+                        seiten der Nordstaaten am Amerikanischen Bürgerkrieg (1861–1865) teil, fiel
+                        in der Schlacht bei Fredericksburg</note>
+                    <linkGrp>
+                        <ptr target="III/9#64" type="page"/>
+                        <ptr target="III/9#83" type="page"/>
+                        <ptr target="III/9#108" type="page"/>
+                        <ptr target="III/9#402" type="page"/>
+                        <ptr target="III/9#741" type="page"/>
+                        <ptr target="III/9#763" type="page"/>
+                        <ptr target="III/9#1067" type="page"/>
+                        <ptr target="III/10#208" type="page"/>
+                        <ptr target="III/10#836" type="page"/>
+                        <ptr target="III/11#796" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002338">
+                    <idno type="mega">1013709</idno>
+                    <persName type="reg">
+                        <surname>Jacobi</surname>
+                        <forename>Karl von</forename>
+                    </persName>
+                    <birth>1790</birth>
+                    <death>1875</death>
+                    <note>hannoverscher General</note>
+                    <linkGrp>
+                        <ptr target="IV/12#960" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010816">
+                    <idno type="mega">1013700</idno>
+                    <persName type="reg">
+                        <name>Jacobi</name>
+                    </persName>
+                    <note>Regierungsrat in Arnsberg, Bruder von Friedrich Jacobi</note>
+                    <linkGrp>
+                        <ptr target="III/9#83" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002339">
+                    <idno type="mega">1013712</idno>
+                    <persName type="reg">
+                        <name>Jacobi, Moritz Hermann von (Борис Семенович)</name>
+                    </persName>
+                    <birth>1801</birth>
+                    <death>1874</death>
+                    <note>deutscher Physiker; ab 1835 in Rußland tätig; Konstruktion elektrischer
+                        Lichtquellen; baute 1835 ersten Elektromotor mit galvanischem Element als
+                        Stromquelle, 1837 Galvanoplastik</note>
+                    <linkGrp>
+                        <ptr target="IV/31#588" type="page"/>
+                        <ptr target="IV/31#975" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002340">
+                    <idno type="mega">1013716</idno>
+                    <persName type="reg">
+                        <surname>Jacobs</surname>
+                        <forename>Christian Friedrich Wilhelm</forename>
+                    </persName>
+                    <birth>1764</birth>
+                    <death>1847</death>
+                    <note>deutscher Philologe und Schriftsteller</note>
+                    <linkGrp>
+                        <ptr target="III/13#60" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002341">
+                    <idno type="mega">1013722</idno>
+                    <persName type="reg">
+                        <surname>Jacoby</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth>1805</birth>
+                    <death>1877</death>
+                    <note>Arzt in Königsberg, demokratischer Publizist und Politiker; 1848
+                        Abgeordneter des Vorparlaments in Frankfurt a.&#160;M. und der preußischen
+                        konstituierenden Versammlung (linker Flügel) in Berlin; 1849 Mitglied der
+                        Frankfurter Nationalversammlung (äußerste Linke), ab 1872 Mitglied der
+                        Sozialdemokratischen Arbeiterpartei</note>
+                    <linkGrp>
+                        <ptr target="I/14#913" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002342">
+                    <idno type="mega">1013723</idno>
+                    <persName type="reg">
+                        <surname>Jacoby</surname>
+                        <forename>Leopold</forename>
+                    </persName>
+                    <birth>1840</birth>
+                    <death>1895</death>
+                    <note>deutscher Zoologe, Arzt und sozialpolitischer Schriftsteller</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000010817">
+                    <idno type="mega">1013724</idno>
+                    <persName type="reg">
+                        <name>Jacopone da Todi eigtl. de Benedetti</name>
+                    </persName>
+                    <death>1306</death>
+                    <note>italienischer Rechtsanwalt, seit 1269 wandernder Dichter und seit 1279
+                        Franziskanermönch</note>
+                    <linkGrp>
+                        <ptr target="III/11#1158" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="ed_q2c_zqk_sy">
+                    <persName type="reg">
+                        <surname>Jacquard</surname>
+                        <forename>Joseph-Marie</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Jaquart</name>
+                    </persName>
+                    <birth>1752</birth>
+                    <death>1834</death>
+                    <note>französischer Erfinder des programmierbaren Webstuhls</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000002343">
+                    <idno type="mega">1013730</idno>
+                    <persName type="reg">
+                        <surname>Jacques</surname>
+                        <forename>Édouard Louis Auguste</forename>
+                    </persName>
+                    <birth>1828</birth>
+                    <death>1900</death>
+                    <note>französischer Unternehmer, Politiker, gemäßigter Republikaner; Mitglied
+                        des Pariser Gemeinderats (1871–1890), Mitglied der Deputiertenkammer
+                        (1889–1898)</note>
+                    <linkGrp>
+                        <ptr target="I/31#518" type="page"/>
+                        <ptr target="I/31#529" type="page"/>
+                        <ptr target="I/31#1279" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010895">
+                    <idno type="mega">1013734</idno>
+                    <persName type="reg">
+                        <name>Jacques le Bonhomme</name>
+                    </persName>
+                    <note>zeitgenössischer Ausdruck für das französische Landvolk</note>
+                    <linkGrp>
+                        <ptr target="III/13#455" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002344">
+                    <idno type="mega">1013735</idno>
+                    <persName type="reg">
+                        <surname>Jacquot</surname>
+                        <forename>François</forename>
+                    </persName>
+                    <note>französischer Militär</note>
+                    <linkGrp>
+                        <ptr target="I/31#852" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002347">
+                    <idno type="mega">1013766</idno>
+                    <persName type="reg">
+                        <surname>Jahn</surname>
+                        <forename>Friedrich Ludwig</forename>
+                    </persName>
+                    <birth>1778</birth>
+                    <death>1852</death>
+                    <note>deutscher Schriftsteller und Publizist, Begründer der Turnbewegung; 1848
+                        Abgeordneter der Frankfurter Nationalversammlung; deutscher Pädagoge und
+                        Politiker, Begründer der Turnbewegung</note>
+                    <linkGrp>
+                        <ptr target="I/14#1538" type="page"/>
+                        <ptr target="III/9#428" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010818">
+                    <idno type="mega">1013769</idno>
+                    <persName type="reg">
+                        <name>Jahwe</name>
+                    </persName>
+                    <note>Name für den israelitisch-jüdischen Gott</note>
+                    <linkGrp>
+                        <ptr target="I/14#377" type="page"/>
+                        <ptr target="I/14#1296" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002348">
+                    <idno type="mega">1013773</idno>
+                    <persName type="reg">
+                        <name>Jaime Alfonso genannt El Barbut auch oder El Barbudo</name>
+                    </persName>
+                    <birth>1783</birth>
+                    <death>1824</death>
+                    <note>spanischer Räuberhauptmann</note>
+                    <linkGrp>
+                        <ptr target="IV/12#488" type="page"/>
+                        <ptr target="IV/12#787" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010819">
+                    <idno type="mega">1013772</idno>
+                    <persName type="reg">
+                        <surname>Jaime&#160;II</surname>
+                        <forename>el Justo</forename>
+                    </persName>
+                    <birth>1267</birth>
+                    <death>1327</death>
+                    <note>König von Aragón (seit 1291) und Sizilien (1285–1296)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#506" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002349">
+                    <idno type="mega">1013779</idno>
+                    <persName type="reg">
+                        <surname>Jakob</surname>
+                        <forename>Ludwig Heinrich von</forename>
+                    </persName>
+                    <birth>1759</birth>
+                    <death>1827</death>
+                    <note>deutscher Philosoph, Jurist und Staatsrat</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000010896">
+                    <idno type="mega">1013778</idno>
+                    <persName type="reg">
+                        <name>Jakob</name>
+                    </persName>
+                    <note>Gestalt aus der Bibel; der dritte der Erzväter Israels</note>
+                    <linkGrp>
+                        <ptr target="IV/12#23" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002350">
+                    <idno type="mega">1013792</idno>
+                    <persName type="reg">
+                        <surname>Jakowasch</surname>
+                        <forename>Charles Louis</forename>
+                    </persName>
+                    <note>Emigrant in London</note>
+                    <linkGrp>
+                        <ptr target="III/9#939" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002351">
+                    <idno type="mega">1013806</idno>
+                    <persName type="reg">
+                        <surname>James</surname>
+                        <forename>Edward</forename>
+                    </persName>
+                    <birth>1807</birth>
+                    <death>1867</death>
+                    <note>britischer Jurist, Liberaler, Mitglied des Parlaments (1865–1867)</note>
+                    <linkGrp>
+                        <ptr target="III/13#498" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002352">
+                    <idno type="mega">1013807</idno>
+                    <persName type="reg">
+                        <surname>James</surname>
+                        <forename>Edwin</forename>
+                    </persName>
+                    <birth>1797</birth>
+                    <death>1861</death>
+                    <note>amerikanischer Botaniker, Geologe und Arzt</note>
+                    <linkGrp>
+                        <ptr target="II/11#1475" type="page"/>
+                        <ptr target="II/11#1476" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002353">
+                    <idno type="mega">1013808</idno>
+                    <persName type="reg">
+                        <surname>James</surname>
+                        <forename>Edwin John</forename>
+                    </persName>
+                    <birth>1812</birth>
+                    <death>1882</death>
+                    <note>englischer Rechtsanwalt, liberaler Politiker, Mitglied des Parlaments
+                        (1859–1861); später Reiseschriftsteller</note>
+                    <linkGrp>
+                        <ptr target="III/9#133" type="page"/>
+                        <ptr target="III/10#231" type="page"/>
+                        <ptr target="III/11#191" type="page"/>
+                        <ptr target="III/11#927" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002354">
+                    <idno type="mega">1013811</idno>
+                    <persName type="reg">
+                        <surname>James</surname>
+                        <forename>Sir Henry</forename>
+                    </persName>
+                    <birth>1803</birth>
+                    <death>1877</death>
+                    <note>britischer Offizier, Geodäsist und Mathematiker</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000010820">
+                    <idno type="mega">1013802</idno>
+                    <persName type="reg">
+                        <name>James</name>
+                    </persName>
+                    <note>Bekannter von Strohn</note>
+                    <linkGrp>
+                        <ptr target="III/9#410" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010823">
+                    <idno type="mega">1013821</idno>
+                    <persName type="reg">
+                        <name>James Edward Stuart</name>
+                    </persName>
+                    <birth>1688</birth>
+                    <death>1766</death>
+                    <note>als James&#160;III Thronprätendent von Großbritannien; Sohn von
+                        James&#160;II.</note>
+                    <linkGrp>
+                        <ptr target="IV/12#274" type="page"/>
+                        <ptr target="IV/12#275" type="page"/>
+                        <ptr target="IV/12#277" type="page"/>
+                        <ptr target="IV/12#283" type="page"/>
+                        <ptr target="IV/12#300" type="page"/>
+                        <ptr target="IV/12#1186" type="page"/>
+                        <ptr target="IV/12#1187" type="page"/>
+                        <ptr target="IV/12#1190" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010821">
+                    <idno type="mega">1013818</idno>
+                    <persName type="reg">
+                        <name>James&#160;I</name>
+                    </persName>
+                    <birth>1566</birth>
+                    <death>1625</death>
+                    <note>König von England (seit 1603); als James VI König von Schottland (seit
+                        1567); Sohn von Mary Stuart</note>
+                    <linkGrp>
+                        <ptr target="I/14#1039" type="page"/>
+                        <ptr target="II/15#600" type="page"/>
+                        <ptr target="II/15#1215" type="page"/>
+                        <ptr target="III/11#747" type="page"/>
+                        <ptr target="IV/12#74–76" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010822">
+                    <idno type="mega">1013819</idno>
+                    <persName type="reg">
+                        <name>James&#160;II</name>
+                    </persName>
+                    <birth>1633</birth>
+                    <death>1701</death>
+                    <note>König von England und als James&#160;VII König von Schottland (1685–1688);
+                        zweiter Sohn von Charles&#160;I.</note>
+                    <linkGrp>
+                        <ptr target="I/14#1045" type="page"/>
+                        <ptr target="I/14#1101" type="page"/>
+                        <ptr target="I/14#1257" type="page"/>
+                        <ptr target="IV/12#263" type="page"/>
+                        <ptr target="IV/12#274" type="page"/>
+                        <ptr target="IV/12#1211" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002355">
+                    <idno type="mega">1013828</idno>
+                    <persName type="reg">
+                        <surname>Janežič</surname>
+                        <forename>Anton</forename>
+                    </persName>
+                    <birth>1828</birth>
+                    <death>1869</death>
+                    <note>slovenischer Philologe aus Kärnten</note>
+                    <linkGrp>
+                        <ptr target="IV/12#968" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002356">
+                    <idno type="mega">1013835</idno>
+                    <persName type="reg">
+                        <surname>Janotyckh von Adlerstein</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth>1811</birth>
+                    <death>1863</death>
+                    <note>österreichischer Publizist und Musiklehrer aus Prag</note>
+                    <linkGrp>
+                        <ptr target="IV/12#952" type="page"/>
+                        <ptr target="IV/12#954" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010826">
+                    <idno type="mega">1013840</idno>
+                    <persName type="reg">
+                        <surname>Jansen</surname>
+                        <forename>Cornelius</forename>
+                    </persName>
+                    <birth>1585</birth>
+                    <death>1638</death>
+                    <note>niederländischer katholischer Theologe, Bischof; Begründer des
+                        Jansenismus</note>
+                    <linkGrp>
+                        <ptr target="IV/12#1297" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002357">
+                    <idno type="mega">1013845</idno>
+                    <persName type="reg">
+                        <name>Janson, Julij Eduardovič (Янсонъ)</name>
+                    </persName>
+                    <birth>1835</birth>
+                    <death>1893</death>
+                    <note>russischer Staatsbeamter und Statistiker</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000010897">
+                    <idno type="mega">1013848</idno>
+                    <persName type="reg">
+                        <name>Janus</name>
+                    </persName>
+                    <note>altrömische Gottheit; dargestellt mit Doppelgesicht, jedes nach einer
+                        anderen Seite gewandt</note>
+                    <linkGrp>
+                        <ptr target="III/10#1065" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010824">
+                    <idno type="mega">1013823</idno>
+                    <persName type="reg">
+                        <name>Jan&#160;II Kazimierz</name>
+                    </persName>
+                    <birth>1609</birth>
+                    <death>1672</death>
+                    <note>Wahlkönig von Polen (1648–1668)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#85" type="page"/>
+                        <ptr target="IV/12#86" type="page"/>
+                        <ptr target="IV/12#260" type="page"/>
+                        <ptr target="IV/12#263" type="page"/>
+                        <ptr target="IV/12#1122" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010825">
+                    <idno type="mega">1013824</idno>
+                    <persName type="reg">
+                        <name>Jan&#160;III Sobieski</name>
+                    </persName>
+                    <birth>1629</birth>
+                    <death>1696</death>
+                    <note>Wahlkönig von Polen seit 1674, Oberbefehlshaber der polnisch-deutschen
+                        Truppen 1683 vor Wien im Krieg mit den Osmanen, schlug diese im gleichen
+                        Jahr in der Schlacht am Kahlenberg</note>
+                    <linkGrp>
+                        <ptr target="I/14#426" type="page"/>
+                        <ptr target="III/9#1088" type="page"/>
+                        <ptr target="IV/12#263" type="page"/>
+                        <ptr target="IV/12#270" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002358">
+                    <idno type="mega">1013850</idno>
+                    <persName type="reg">
+                        <name>Janžul, Ivan Ivanovič (Янжулъ)</name>
+                    </persName>
+                    <birth>1846</birth>
+                    <death>1914</death>
+                    <note>Finanzwissenschaftler, Professor in Moskau</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000002359">
+                    <idno type="mega">1013853</idno>
+                    <persName type="reg">
+                        <surname>Japing</surname>
+                        <forename>Justus</forename>
+                    </persName>
+                    <note>Kaufmann in Osnabrück</note>
+                    <linkGrp>
+                        <ptr target="III/9#69" type="page"/>
+                        <ptr target="III/9#70" type="page"/>
+                        <ptr target="III/9#206" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002360">
+                    <idno type="mega">1013852</idno>
+                    <persName type="reg">
+                        <name>Japing, Helene geb. Siebel</name>
+                    </persName>
+                    <note>Tochter von Carl August Siebel, seit August 1858 Ehefrau von Justus
+                        Japing</note>
+                    <linkGrp>
+                        <ptr target="III/9#69" type="page"/>
+                        <ptr target="III/9#206" type="page"/>
+                        <ptr target="III/9#748" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002361">
+                    <idno type="mega">1013858</idno>
+                    <persName type="reg">
+                        <surname>Jardine</surname>
+                        <forename>David</forename>
+                    </persName>
+                    <birth>1794</birth>
+                    <death>1860</death>
+                    <note>englischer Jurist, Richter in London (1839–1860) Verfasser von Schriften
+                        zu historischen und juristischen Themen</note>
+                    <linkGrp>
+                        <ptr target="III/11#18" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002362">
+                    <idno type="mega">1013865</idno>
+                    <persName type="reg">
+                        <surname>Jastrow</surname>
+                        <forename>Ignaz</forename>
+                    </persName>
+                    <birth>1856</birth>
+                    <death>1937</death>
+                    <note>deutscher Ökonom, Politiker und Historiker</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000010827">
+                    <idno type="mega">1013876</idno>
+                    <persName type="reg">
+                        <surname>Javorskij</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                    <birth>1658</birth>
+                    <death>1722</death>
+                    <note>ukrainischer Geistlicher und Theologe; Patriarchatsstellvertreter
+                        (1700–1721), Präses des Heiligen Synods (seit 1721)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#22" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010829">
+                    <idno type="mega">1013887</idno>
+                    <persName type="reg">
+                        <name>Jean Ier</name>
+                    </persName>
+                    <birth>1371</birth>
+                    <death>1419</death>
+                    <note>Herzog von Burgund (seit 1404); Sohn von Philippe&#160;II de Bourgogne</note>
+                    <linkGrp>
+                        <ptr target="IV/12#525" type="page"/>
+                        <ptr target="IV/12#1286" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010830">
+                    <idno type="mega">1013885</idno>
+                    <persName type="reg">
+                        <name>Jean Ier</name>
+                    </persName>
+                    <note>Graf von Ponthieu</note>
+                    <linkGrp>
+                        <ptr target="IV/12#575" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010828">
+                    <idno type="mega">1013899</idno>
+                    <persName type="reg">
+                        <name>Jean de Berry</name>
+                    </persName>
+                    <birth>1340</birth>
+                    <death>1416</death>
+                    <note>Sohn von König Jean&#160;II, jüngerer Bruder von Charles V; Mitglied im
+                        Regentschaftsrat für seinen minderjährigen Neffen Charles&#160;VI; Herzog von
+                        Berry und Auvergne (seit 1360)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#525" type="page"/>
+                        <ptr target="IV/12#1285" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010833">
+                    <idno type="mega">1013906</idno>
+                    <persName type="reg">
+                        <name>Jeanne d’Arc</name>
+                    </persName>
+                    <birth>1410</birth>
+                    <death>1431</death>
+                    <note>französische Nationalheldin; als Ketzerin verbrannt</note>
+                    <linkGrp>
+                        <ptr target="IV/12#526" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010831">
+                    <idno type="mega">1013890</idno>
+                    <persName type="reg">
+                        <name>Jean&#160;II</name>
+                    </persName>
+                    <note>Dauphin du Viennois (seit 1307)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#567" type="page"/>
+                        <ptr target="IV/12#1305" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010832">
+                    <idno type="mega">1013893</idno>
+                    <persName type="reg">
+                        <surname>Jean&#160;II</surname>
+                        <forename>le Bon</forename>
+                    </persName>
+                    <birth>1319</birth>
+                    <death>1364</death>
+                    <note>König von Frankreich (seit 1350)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#517" type="page"/>
+                        <ptr target="IV/12#518" type="page"/>
+                        <ptr target="IV/12#523" type="page"/>
+                        <ptr target="IV/12#1284" type="page"/>
+                        <ptr target="IV/12#1285" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002367">
+                    <idno type="mega">1013931</idno>
+                    <persName type="reg">
+                        <surname>Jefferson</surname>
+                        <forename>Thomas</forename>
+                    </persName>
+                    <birth>1743</birth>
+                    <death>1826</death>
+                    <note>amerikanischer Staatsmann; Verfasser der Unabhängigkeitserklärung von 1776
+                       ; Präsident der USA (1801–1809)</note>
+                    <linkGrp>
+                        <ptr target="III/13#11" type="page"/>
+                        <ptr target="III/13#691" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010834">
+                    <idno type="mega">1013934</idno>
+                    <persName type="reg">
+                        <name>Jeffreys, George, 1st&#160;Baron Jeffreys</name>
+                    </persName>
+                    <birth>1644</birth>
+                    <death>1689</death>
+                    <note>englischer Jurist, Tory, übte hohe Richterämter aus</note>
+                    <linkGrp>
+                        <ptr target="I/14#333" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002368">
+                    <idno type="mega">1013948</idno>
+                    <persName type="reg">
+                        <name>Jellačič von Bužim, Joseph, Graf</name>
+                    </persName>
+                    <birth>1801</birth>
+                    <death>1859</death>
+                    <note>österreichischer Militär kroatischer Herkunft; 1848 Befehlshaber
+                        vorwiegend aus Kroaten bestehender kaisertreuer Truppen im Kampf gegen die
+                        aufständischen Ungarn und den Wiener Oktoberaufstand</note>
+                    <linkGrp>
+                        <ptr target="IV/12#983" type="page"/>
+                        <ptr target="IV/12#988–990" type="page"/>
+                        <ptr target="IV/12#992" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002369">
+                    <idno type="mega">1013957</idno>
+                    <persName type="reg">
+                        <surname>Jenkin</surname>
+                        <forename>Henry Charles Fleeming</forename>
+                    </persName>
+                    <birth>1833</birth>
+                    <death>1885</death>
+                    <note>englischer Ingenieur</note>
+                    <linkGrp>
+                        <ptr target="IV/31#571" type="page"/>
+                        <ptr target="IV/31#967" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010835">
+                    <idno type="mega">1013958</idno>
+                    <persName type="reg">
+                        <name>Jenkins</name>
+                    </persName>
+                    <note>amerikanischer Erfinder</note>
+                    <linkGrp>
+                        <ptr target="I/31#892" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010898">
+                    <idno type="mega">1013959</idno>
+                    <persName type="reg">
+                        <name>Jenkins</name>
+                    </persName>
+                    <note>sprichwörtliche Gestalt des Kriechers und Schmeichlers</note>
+                    <linkGrp>
+                        <ptr target="III/9#86" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002370">
+                    <idno type="mega">1013963</idno>
+                    <persName type="reg">
+                        <name>Jenkinson, Robert Banks, 2nd&#160;Earl of Liverpool</name>
+                    </persName>
+                    <birth>1770</birth>
+                    <death>1828</death>
+                    <note>britischer Staatsmann, ein Führer der Tories; hatte verschiedene
+                        Ministerposten inne, Premierminister (1812–1827)</note>
+                    <linkGrp>
+                        <ptr target="I/14#124" type="page"/>
+                        <ptr target="I/14#142" type="page"/>
+                        <ptr target="I/14#215" type="page"/>
+                        <ptr target="I/14#333" type="page"/>
+                        <ptr target="I/14#450" type="page"/>
+                        <ptr target="I/14#1078" type="page"/>
+                        <ptr target="IV/12#88" type="page"/>
+                        <ptr target="IV/12#902" type="page"/>
+                        <ptr target="IV/12#940" type="page"/>
+                        <ptr target="IV/12#942" type="page"/>
+                        <ptr target="IV/12#1255" type="page"/>
+                        <ptr target="IV/12#1467" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010836">
+                    <idno type="mega">1013964</idno>
+                    <persName type="reg">
+                        <name>Jenks</name>
+                    </persName>
+                    <note>amerikanischer Erfinder</note>
+                    <linkGrp>
+                        <ptr target="I/31#892" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002371">
+                    <idno type="uri">http://d-nb.info/gnd/1019461284</idno>
+                    <idno type="mega">1013975</idno>
+                    <persName type="reg">
+                        <surname>Jent</surname>
+                        <forename>Louis</forename>
+                    </persName>
+                    <note>Schweizer Buchhändler und Verleger, Herausgeber der Tageszeitung „Der
+                        Bund“</note>
+                    <linkGrp>
+                        <ptr target="III/10#528" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002372">
+                    <idno type="mega">1013977</idno>
+                    <persName type="reg">
+                        <name>Jep de Estaings</name>
+                    </persName>
+                    <note>spanischer Räuberhauptmann</note>
+                    <linkGrp>
+                        <ptr target="IV/12#787" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010837">
+                    <idno type="mega">1013980</idno>
+                    <persName type="reg">
+                        <name>Jeremias&#160;II. Tranos</name>
+                    </persName>
+                    <birth>1536</birth>
+                    <death>1595</death>
+                    <note>Patriarch von Konstantinopel (1572–1578, 1580–1584, seit 1587)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#21" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010838">
+                    <idno type="mega">1013981</idno>
+                    <persName type="reg">
+                        <name>Jeremias&#160;III.</name>
+                    </persName>
+                    <note>Patriarch von Konstantinopel (1716–1726, 1732/1733)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#33" type="page"/>
+                        <ptr target="IV/12#1102" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002373">
+                    <idno type="uri">http://d-nb.info/gnd/11711572X</idno>
+                    <idno type="mega">1013987</idno>
+                    <persName type="reg">
+                        <surname>Jerrold</surname>
+                        <forename>Douglas William</forename>
+                    </persName>
+                    <birth>1803</birth>
+                    <death>1857</death>
+                    <note>englischer Schriftsteller und Humorist</note>
+                    <linkGrp>
+                        <ptr target="I/14#55" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010899">
+                    <idno type="mega">1013990</idno>
+                    <persName type="reg">
+                        <name>Jesaja</name>
+                    </persName>
+                    <note>einer der großen Propheten aus dem Alten Testament</note>
+                    <linkGrp>
+                        <ptr target="II/15#324" type="page"/>
+                        <ptr target="II/15#1088" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010839" role="mythological">
+                    <idno type="mega">1013995</idno>
+                    <persName type="reg">
+                        <name>Jesus Christus</name>
+                    </persName>
+                    <linkGrp>
+                        <ptr target="II/15#1184" type="page"/>
+                        <ptr target="II/15#1259" type="page"/>
+                        <ptr target="III/9#466" type="page"/>
+                        <ptr target="III/9#478" type="page"/>
+                        <ptr target="III/9#553" type="page"/>
+                        <ptr target="III/9#898" type="page"/>
+                        <ptr target="III/10#215" type="page"/>
+                        <ptr target="III/10#1066" type="page"/>
+                        <ptr target="III/11#537" type="page"/>
+                        <ptr target="III/11#1158" type="page"/>
+                        <ptr target="III/13#1003" type="page"/>
+                        <ptr target="IV/12#24" type="page"/>
+                        <ptr target="IV/12#32" type="page"/>
+                        <ptr target="IV/12#345" type="page"/>
+                        <ptr target="IV/12#350" type="page"/>
+                        <ptr target="IV/12#1093" type="page"/>
+                        <ptr target="IV/12#1094" type="page"/>
+                        <ptr target="IV/12#1099–1101" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002374">
+                    <idno type="mega">1014000</idno>
+                    <persName type="reg">
+                        <surname>Jevons</surname>
+                        <forename>William Stanley</forename>
+                    </persName>
+                    <birth>1835</birth>
+                    <death>1882</death>
+                    <note>englischer Ökonom und Logiker; englischer Ökonom und Philosoph, einer der
+                        Begründer der Grenznutzentheorie, Professor in Manchester und London</note>
+                    <linkGrp>
+                        <ptr target="II/15#13" type="page"/>
+                        <ptr target="II/15#1004" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010840">
+                    <idno type="mega">1014003</idno>
+                    <persName type="reg">
+                        <surname>Jimenéz y Cisneros</surname>
+                        <forename>Francisco</forename>
+                    </persName>
+                    <birth>1436</birth>
+                    <death>1517</death>
+                    <note>spanischer Kirchenfürst und Staatsmann; Erzbischof von Toledo (seit 1495),
+                        Kardinal, Großinquisitor</note>
+                    <linkGrp>
+                        <ptr target="IV/12#508" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002375">
+                    <idno type="mega">1014002</idno>
+                    <persName type="reg">
+                        <surname>Jiménez</surname>
+                        <forename>Domingo</forename>
+                    </persName>
+                    <note>spanischer Politiker; Progressist; 1840 Minister</note>
+                    <linkGrp>
+                        <ptr target="IV/12#868" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002376">
+                    <idno type="mega">1014005</idno>
+                    <persName type="reg">
+                        <name>Jiraldo</name>
+                    </persName>
+                    <note>spanischer Politiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#496" type="page"/>
+                        <ptr target="IV/12#497" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010841">
+                    <idno type="mega">1014012</idno>
+                    <persName type="reg">
+                        <name>Joachim Ernst</name>
+                    </persName>
+                    <birth>1595</birth>
+                    <death>1671</death>
+                    <note>Herzog von Schleswig-Holstein-Plön (seit 1622)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#48" type="page"/>
+                        <ptr target="IV/12#1111" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010842">
+                    <idno type="mega">1014013</idno>
+                    <persName type="reg">
+                        <name>Joachim Friedrich</name>
+                    </persName>
+                    <birth>1546</birth>
+                    <death>1608</death>
+                    <note>Kurfürst von Brandenburg (seit 1598)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#85" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010843">
+                    <idno type="mega">1014009</idno>
+                    <persName type="reg">
+                        <name>Joachim&#160;V.</name>
+                    </persName>
+                    <note>griechisch-orthodoxer Patriarch von Antiochia (seit 1581); weilte 1586 in
+                        Moskau</note>
+                    <linkGrp>
+                        <ptr target="IV/12#21" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002379">
+                    <idno type="mega">1014054</idno>
+                    <persName type="reg">
+                        <name>Johann</name>
+                    </persName>
+                    <birth>1782</birth>
+                    <death>1859</death>
+                    <note>Erzherzog von Österreich; durch Wahl der Frankfurter Nationalversammlung
+                        deutscher Reichsverweser (Juni 1848 bis Dezember 1849)</note>
+                    <linkGrp>
+                        <ptr target="III/10#82" type="page"/>
+                        <ptr target="III/13#227" type="page"/>
+                        <ptr target="III/13#918" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010845">
+                    <idno type="mega">1014076</idno>
+                    <persName type="reg">
+                        <name>Johann Adolf</name>
+                    </persName>
+                    <birth>1634</birth>
+                    <death>1704</death>
+                    <note>Herzog von Schleswig-Holstein-Plön (seit 1671)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#48" type="page"/>
+                        <ptr target="IV/12#53" type="page"/>
+                        <ptr target="IV/12#1111" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010846">
+                    <idno type="mega">1014075</idno>
+                    <persName type="reg">
+                        <name>Johann Adolf</name>
+                    </persName>
+                    <birth>1575</birth>
+                    <death>1616</death>
+                    <note>Herzog von Holstein-Gottorp (seit 1590); Erzbischof von Bremen (1585–1596)
+                       ; Bischof von Lübeck (1586–1608)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#57" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010847">
+                    <idno type="mega">1014079</idno>
+                    <persName type="reg">
+                        <surname>Johann Friedrich&#160;I.</surname>
+                        <forename>der Großmütige</forename>
+                    </persName>
+                    <birth>1503</birth>
+                    <death>1554</death>
+                    <note>Kurfürst von Sachsen (1532–1547)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#70" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010848">
+                    <idno type="mega">1014082</idno>
+                    <persName type="reg">
+                        <name>Johann Georg&#160;I.</name>
+                    </persName>
+                    <birth>1585</birth>
+                    <death>1656</death>
+                    <note>Kurfürst von Sachsen (seit 1611)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#81" type="page"/>
+                        <ptr target="IV/12#1121" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010849">
+                    <idno type="mega">1014085</idno>
+                    <persName type="reg">
+                        <name>Johann Sigismund</name>
+                    </persName>
+                    <birth>1572</birth>
+                    <death>1620</death>
+                    <note>Kurfürst von Brandenburg (seit 1608), Herzog von Preußen (seit
+                        1618)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#75" type="page"/>
+                        <ptr target="IV/12#85" type="page"/>
+                        <ptr target="IV/12#1120" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010850">
+                    <idno type="mega">1014086</idno>
+                    <persName type="reg">
+                        <name>Johann Wilhelm</name>
+                    </persName>
+                    <birth>1562</birth>
+                    <death>1609</death>
+                    <note>Herzog von Jülich-Kleve-Berg (seit 1592)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#75" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010851">
+                    <idno type="mega">1014087</idno>
+                    <persName type="reg">
+                        <name>Johann Wilhelm</name>
+                    </persName>
+                    <birth>1658</birth>
+                    <death>1716</death>
+                    <note>Herzog von Jülich und Berg (seit 1680), Kurfürst Pfalzgraf bei Rhein (seit
+                        1690, Kurlinie Pfalz-Neuburg)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#270" type="page"/>
+                        <ptr target="IV/12#1185" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010852">
+                    <idno type="mega">1014088</idno>
+                    <persName type="reg">
+                        <surname>Johann Wilhelm Friso</surname>
+                        <forename>Prinz von Oranien</forename>
+                    </persName>
+                    <birth>1687</birth>
+                    <death>1711</death>
+                    <note>Fürst aus dem Hause Nassau-Dietz; Fürst von Oranien-Nassau (seit 1702) ;
+                        Erbstatthalter von Friesland</note>
+                    <linkGrp>
+                        <ptr target="IV/12#278" type="page"/>
+                        <ptr target="IV/12#1187" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010900">
+                    <idno type="mega">1014090</idno>
+                    <persName type="reg">
+                        <name>Johanna</name>
+                    </persName>
+                    <note>Gestalt aus dem Drama „Die Jungfrau von Orleans“ von Friedrich von
+                        Schiller</note>
+                    <linkGrp>
+                        <ptr target="III/10#734" type="page"/>
+                        <ptr target="III/10#736" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010901">
+                    <idno type="mega">1014103</idno>
+                    <persName type="reg">
+                        <name>Johannes der Täufer</name>
+                    </persName>
+                    <note>in der Bibel ein Prediger und Vorläufer Jesu</note>
+                    <linkGrp>
+                        <ptr target="III/9#282" type="page"/>
+                        <ptr target="III/9#466" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010855">
+                    <idno type="mega">1014104</idno>
+                    <persName type="reg">
+                        <name>Johannes von Damaskus</name>
+                    </persName>
+                    <note>griechischer Theologe und Kirchenlehrer; lebte seit vor 700 in einem
+                        Kloster bei Jerusalem</note>
+                    <linkGrp>
+                        <ptr target="IV/12#26" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010856">
+                    <idno type="mega">1014107</idno>
+                    <persName type="reg">
+                        <name>Johannes&#160;I. Chrysostomos</name>
+                    </persName>
+                    <note>griechischer Kirchenlehrer und Patriarch von Konstantinopel (398–404);
+                        bedeutender Prediger der griechischen Kirche</note>
+                    <linkGrp>
+                        <ptr target="IV/12#24" type="page"/>
+                        <ptr target="IV/12#26" type="page"/>
+                        <ptr target="IV/12#781" type="page"/>
+                        <ptr target="IV/12#1421" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010857">
+                    <idno type="mega">1014109</idno>
+                    <persName type="reg">
+                        <name>Johannes&#160;V. Eleemon</name>
+                    </persName>
+                    <note>griechischer Theologe aus Zypern; Patriarch von Alexandria (seit
+                        610)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#26" type="page"/>
+                        <ptr target="IV/12#27" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010858">
+                    <idno type="mega">1014110</idno>
+                    <persName type="reg">
+                        <name>Johannes&#160;XI. Bekkos</name>
+                    </persName>
+                    <birth>1230</birth>
+                    <death>1297</death>
+                    <note>byzantinischer Theologe; Patriarch von Konstantinopel (1275–1282)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#19" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010853">
+                    <idno type="mega">1014058</idno>
+                    <persName type="reg">
+                        <name>Johann&#160;III.</name>
+                    </persName>
+                    <birth>1537</birth>
+                    <death>1592</death>
+                    <note>König von Schweden (seit 1568)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#72" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010854">
+                    <idno type="mega">1014062</idno>
+                    <persName type="reg">
+                        <name>Johann&#160;VII. Blankenfeld</name>
+                    </persName>
+                    <death>1527</death>
+                    <note>Erzbischof von Riga (seit 1524), Bischof von Reval (seit 1514) und Dorpat
+                        (seit 1518)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#72" type="page"/>
+                        <ptr target="IV/12#1119" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010902">
+                    <idno type="mega">1014122</idno>
+                    <persName type="reg">
+                        <name>John Bull</name>
+                    </persName>
+                    <note>Titelgestalt aus der Satire „The history of John Bull“ von John Arbuthnot,
+                        der zum Inbegriff des englischen Nationalcharakters wurde</note>
+                    <linkGrp>
+                        <ptr target="I/14#14" type="page"/>
+                        <ptr target="I/14#61" type="page"/>
+                        <ptr target="I/14#65" type="page"/>
+                        <ptr target="I/14#88" type="page"/>
+                        <ptr target="I/14#92" type="page"/>
+                        <ptr target="I/14#109" type="page"/>
+                        <ptr target="I/14#131" type="page"/>
+                        <ptr target="I/14#259" type="page"/>
+                        <ptr target="I/14#260" type="page"/>
+                        <ptr target="I/14#353" type="page"/>
+                        <ptr target="I/14#413" type="page"/>
+                        <ptr target="I/14#506" type="page"/>
+                        <ptr target="I/14#753" type="page"/>
+                        <ptr target="I/14#781" type="page"/>
+                        <ptr target="I/14#996" type="page"/>
+                        <ptr target="I/14#1023" type="page"/>
+                        <ptr target="I/14#1026" type="page"/>
+                        <ptr target="I/14#1045" type="page"/>
+                        <ptr target="I/14#1070" type="page"/>
+                        <ptr target="I/14#1083" type="page"/>
+                        <ptr target="I/14#1198" type="page"/>
+                        <ptr target="I/14#1327" type="page"/>
+                        <ptr target="I/14#1508" type="page"/>
+                        <ptr target="I/31#125" type="page"/>
+                        <ptr target="I/31#144" type="page"/>
+                        <ptr target="III/9#77" type="page"/>
+                        <ptr target="III/9#81" type="page"/>
+                        <ptr target="III/9#121" type="page"/>
+                        <ptr target="III/9#376" type="page"/>
+                        <ptr target="III/9#406" type="page"/>
+                        <ptr target="III/9#477" type="page"/>
+                        <ptr target="III/10#166" type="page"/>
+                        <ptr target="III/11#56" type="page"/>
+                        <ptr target="III/11#623" type="page"/>
+                        <ptr target="III/11#624" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002380">
+                    <idno type="mega">1014140</idno>
+                    <persName type="reg">
+                        <surname>Johnson</surname>
+                        <forename>Andrew</forename>
+                    </persName>
+                    <birth>1808</birth>
+                    <death>1875</death>
+                    <note>amerikanischer Staatsmann; Demokrat; Gouverneur des Staates Tennessee
+                        (1853–1857 und 1862–1865) Senator (1857–1862); einer der Führer der
+                        Nordstaaten im Amerikanischen Bürgerkrieg (1861–1865), Vizepräsident
+                        (1864/1865) und Präsident der USA (1865–1869), Verfechter einer friedlichen
+                        Übereinkunft mit den Südstaaten</note>
+                    <linkGrp>
+                        <ptr target="III/13#419" type="page"/>
+                        <ptr target="III/13#420" type="page"/>
+                        <ptr target="III/13#427" type="page"/>
+                        <ptr target="III/13#430" type="page"/>
+                        <ptr target="III/13#432" type="page"/>
+                        <ptr target="III/13#434" type="page"/>
+                        <ptr target="III/13#456" type="page"/>
+                        <ptr target="III/13#466" type="page"/>
+                        <ptr target="III/13#483" type="page"/>
+                        <ptr target="III/13#497" type="page"/>
+                        <ptr target="III/13#650" type="page"/>
+                        <ptr target="III/13#1127" type="page"/>
+                        <ptr target="III/13#1132" type="page"/>
+                        <ptr target="III/13#1139" type="page"/>
+                        <ptr target="III/13#1145" type="page"/>
+                        <ptr target="III/13#1164" type="page"/>
+                        <ptr target="III/13#1174" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010860">
+                    <idno type="mega">1014135</idno>
+                    <persName type="reg">
+                        <name>Johnson</name>
+                    </persName>
+                    <note>Polizeikommissar in Ballarat (Australien)</note>
+                    <linkGrp>
+                        <ptr target="I/14#178" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010861">
+                    <idno type="mega">1014146</idno>
+                    <persName type="reg">
+                        <surname>Johnson</surname>
+                        <forename>Samuel</forename>
+                    </persName>
+                    <birth>1709</birth>
+                    <death>1784</death>
+                    <note>englischer Gelehrter und Schriftsteller</note>
+                    <linkGrp>
+                        <ptr target="IV/12#880" type="page"/>
+                        <ptr target="IV/12#1454" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002381">
+                    <idno type="mega">1014149</idno>
+                    <persName type="reg">
+                        <surname>Johnston</surname>
+                        <forename>James Finlay Weir</forename>
+                    </persName>
+                    <birth>1796</birth>
+                    <death>1855</death>
+                    <note>schottischer Chemiker; Schüler von Jöns Jakob Berzelius; Arbeiten zur
+                        Agrochemie und Geologie</note>
+                    <linkGrp>
+                        <ptr target="II/15#605" type="page"/>
+                        <ptr target="II/15#606" type="page"/>
+                        <ptr target="II/15#655" type="page"/>
+                        <ptr target="II/15#657" type="page"/>
+                        <ptr target="II/15#1219" type="page"/>
+                        <ptr target="II/15#1233" type="page"/>
+                        <ptr target="II/15#1234" type="page"/>
+                        <ptr target="IV/31#641" type="page"/>
+                        <ptr target="IV/31#643" type="page"/>
+                        <ptr target="IV/31#649" type="page"/>
+                        <ptr target="IV/31#849" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002382">
+                    <idno type="mega">1014151</idno>
+                    <persName type="reg">
+                        <surname>Johnston</surname>
+                        <forename>Joseph Eggleston</forename>
+                    </persName>
+                    <birth>1807</birth>
+                    <death>1891</death>
+                    <note>amerikanischer General, nahm am Krieg gegen Mexiko (1846–1848) teil;
+                        befehligte während des Amerikanischen Bürgerkriegs die Truppen der
+                        Südstaaten in Virginia (1861/1862), später in Tennessee und
+                        Mississippi</note>
+                    <linkGrp>
+                        <ptr target="III/13#420" type="page"/>
+                        <ptr target="III/13#432" type="page"/>
+                        <ptr target="III/13#756" type="page"/>
+                        <ptr target="III/13#1121–1123" type="page"/>
+                        <ptr target="III/13#1137" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010859">
+                    <idno type="mega">1014116</idno>
+                    <persName type="reg">
+                        <name>John&#160;I genannt John Lackland</name>
+                    </persName>
+                    <birth>1167</birth>
+                    <death>1216</death>
+                    <note>König von England (seit 1199); jüngerer Bruder Richards&#160;I.</note>
+                    <linkGrp>
+                        <ptr target="IV/12#554" type="page"/>
+                        <ptr target="IV/12#1300" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002383">
+                    <idno type="mega">1014154</idno>
+                    <persName type="reg">
+                        <name>Joinville, François, duc d’Orléans, prince de</name>
+                    </persName>
+                    <birth>1818</birth>
+                    <death>1900</death>
+                    <note>französischer Admiral und Politiker; Teilnehmer an der Eroberung Algeriens
+                       ; flüchtete nach der Februarrevolution 1848 nach Großbritannien, nahm
+                        1861/1862 auf seiten der Nordstaaten am Nordamerikanischen Bürgerkrieg teil
+                       ; dritter Sohn von Louis-Philippe&#160;Ier</note>
+                    <linkGrp>
+                        <ptr target="IV/12#967" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002384">
+                    <idno type="mega">1014162</idno>
+                    <persName type="reg">
+                        <name>Jomini, Antoine Henri, baron de</name>
+                    </persName>
+                    <birth>1779</birth>
+                    <death>1869</death>
+                    <note>General, Militärtheoretiker und -historiker schweizerischer Herkunft; seit
+                        1804 in französischen, 1813–1843 in russischen Diensten; lebte danach in
+                        Frankreich, der Schweiz und Belgien</note>
+                    <linkGrp>
+                        <ptr target="I/14#497" type="page"/>
+                        <ptr target="I/14#692" type="page"/>
+                        <ptr target="I/14#694" type="page"/>
+                        <ptr target="III/9#104" type="page"/>
+                        <ptr target="III/9#108" type="page"/>
+                        <ptr target="III/9#778" type="page"/>
+                        <ptr target="III/9#782" type="page"/>
+                        <ptr target="IV/12#950" type="page"/>
+                        <ptr target="IV/12#967" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010903">
+                    <idno type="mega">1014164</idno>
+                    <persName type="reg">
+                        <name>Jon</name>
+                    </persName>
+                    <note>Gestalt aus dem altdänischen Volkslied „Herr Jon“</note>
+                    <linkGrp>
+                        <ptr target="III/11#50" type="page"/>
+                        <ptr target="III/11#780" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002385">
+                    <idno type="mega">1014168</idno>
+                    <persName type="reg">
+                        <surname>Jonas</surname>
+                        <forename>Alexander</forename>
+                    </persName>
+                    <birth>1839</birth>
+                    <death>1912</death>
+                    <note>Buchhändler und Journalist deutscher Herkunft; Sozialist, seit 1878
+                        Redakteur der „New Yorker Volkszeitung“</note>
+                    <linkGrp>
+                        <ptr target="I/31#687" type="page"/>
+                        <ptr target="I/31#707" type="page"/>
+                        <ptr target="I/31#709" type="page"/>
+                        <ptr target="I/31#1133" type="page"/>
+                        <ptr target="I/31#1134" type="page"/>
+                        <ptr target="I/31#1231" type="page"/>
+                        <ptr target="I/31#1234" type="page"/>
+                        <ptr target="II/15#939" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002386">
+                    <idno type="mega">1014169</idno>
+                    <persName type="reg">
+                        <surname>Jonas</surname>
+                        <forename>Ludwig</forename>
+                    </persName>
+                    <birth>1797</birth>
+                    <death>1859</death>
+                    <note>deutscher Theologe; seit 1858 Mitglied des preußischen
+                        Abgeordnetenhauses</note>
+                    <linkGrp>
+                        <ptr target="III/9#290" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010904">
+                    <idno type="mega">1014175</idno>
+                    <persName type="reg">
+                        <name>Jonathan</name>
+                    </persName>
+                    <note>Gestalt aus der Bibel</note>
+                    <linkGrp>
+                        <ptr target="III/9#500" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010862">
+                    <idno type="mega">1014177</idno>
+                    <persName type="reg">
+                        <name>Joncières</name>
+                    </persName>
+                    <note>französischer Journalist, Mitarbeiter der Zeitung „La Patrie“</note>
+                    <linkGrp>
+                        <ptr target="III/10#357" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002389">
+                    <idno type="mega">1014199</idno>
+                    <persName type="reg">
+                        <surname>Jones</surname>
+                        <forename>John Gale</forename>
+                    </persName>
+                    <birth>1769</birth>
+                    <death>1838</death>
+                    <note>britischer Arzt und Politiker</note>
+                    <linkGrp>
+                        <ptr target="I/14#333" type="page"/>
+                        <ptr target="I/14#1497" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002391">
+                    <idno type="mega">1014202</idno>
+                    <persName type="reg">
+                        <surname>Jones</surname>
+                        <forename>Lloyd</forename>
+                    </persName>
+                    <birth>1811</birth>
+                    <death>1886</death>
+                    <note>britischer Politiker, Anhänger Robert Owens und der
+                        Kooperativbewegung</note>
+                    <linkGrp>
+                        <ptr target="III/13#218" type="page"/>
+                        <ptr target="III/13#224" type="page"/>
+                        <ptr target="III/13#297" type="page"/>
+                        <ptr target="III/13#335" type="page"/>
+                        <ptr target="III/13#449" type="page"/>
+                        <ptr target="III/13#451" type="page"/>
+                        <ptr target="III/13#865" type="page"/>
+                        <ptr target="III/13#1021" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002392">
+                    <idno type="mega">1014203</idno>
+                    <persName type="reg">
+                        <surname>Jones</surname>
+                        <forename>Richard</forename>
+                    </persName>
+                    <birth>1790</birth>
+                    <death>1855</death>
+                    <note>englischer Geistlicher und Ökonom; Professor in London und Hailebury
+                        (Haileybury); kritischer Anhänger Ricardos; Vorläufer der historischen
+                        Schule in Großbritannien</note>
+                    <linkGrp>
+                        <ptr target="II/11#641" type="page"/>
+                        <ptr target="II/11#1298" type="page"/>
+                        <ptr target="II/11#1368" type="page"/>
+                        <ptr target="II/12#603" type="page"/>
+                        <ptr target="II/12#978" type="page"/>
+                        <ptr target="II/12#1211" type="page"/>
+                        <ptr target="II/12#1227" type="page"/>
+                        <ptr target="II/12#1242" type="page"/>
+                        <ptr target="II/13#643" type="page"/>
+                        <ptr target="II/13#644" type="page"/>
+                        <ptr target="II/13#660" type="page"/>
+                        <ptr target="II/13#661" type="page"/>
+                        <ptr target="II/13#678" type="page"/>
+                        <ptr target="II/14#345" type="page"/>
+                        <ptr target="II/14#348" type="page"/>
+                        <ptr target="II/14#1027" type="page"/>
+                        <ptr target="II/14#1028" type="page"/>
+                        <ptr target="II/15#262" type="page"/>
+                        <ptr target="II/15#737" type="page"/>
+                        <ptr target="II/15#757" type="page"/>
+                        <ptr target="II/15#1073" type="page"/>
+                        <ptr target="II/15#1080" type="page"/>
+                        <ptr target="II/15#1240" type="page"/>
+                        <ptr target="II/15#1248" type="page"/>
+                        <ptr target="I/31#366" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002393">
+                    <idno type="mega">1014194</idno>
+                    <persName type="reg">
+                        <surname>Jones</surname>
+                        <forename>Sir Harry David</forename>
+                    </persName>
+                    <birth>1791</birth>
+                    <death>1866</death>
+                    <note>britischer General, Militäringenieur; Teilnehmer an den Kriegen gegen
+                        Napoléon&#160;Ier (1810–1814), befehligte 1854 die Truppen im Ostseeraum, 1855
+                        Kommandierender der Pioniertruppen auf der Krim</note>
+                    <linkGrp>
+                        <ptr target="I/14#140" type="page"/>
+                        <ptr target="I/14#224" type="page"/>
+                        <ptr target="I/14#229" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002395">
+                    <idno type="mega">1014205</idno>
+                    <persName type="reg">
+                        <surname>Jones</surname>
+                        <forename>William</forename>
+                    </persName>
+                    <birth>1806</birth>
+                    <death>1873</death>
+                    <note>englischer Uhrmacher, Priester, Chartist; 1839 ein Organisator des
+                        Bergarbeiteraufstandes in Wales; zu lebenslänglicher Verbannung nach
+                        Australien verurteilt</note>
+                    <linkGrp>
+                        <ptr target="I/14#678" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010863">
+                    <idno type="mega">1014179</idno>
+                    <persName type="reg">
+                        <name>Jones</name>
+                    </persName>
+                    <note>ein Leiter der Société mutuelle in Paris</note>
+                    <linkGrp>
+                        <ptr target="III/13#143" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010864">
+                    <idno type="mega">1014186</idno>
+                    <persName type="reg">
+                        <surname>Jones</surname>
+                        <forename>Charles</forename>
+                    </persName>
+                    <note>englischer Beamter</note>
+                    <linkGrp>
+                        <ptr target="III/13#571" type="page"/>
+                        <ptr target="III/13#1281" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002388">
+                    <idno type="mega">1014197</idno>
+                    <persName type="reg">
+                        <name>Jones, Jane geb. Atherley</name>
+                    </persName>
+                    <note>Ehefrau von Ernest Jones</note>
+                    <linkGrp>
+                        <ptr target="I/14#678" type="page"/>
+                        <ptr target="I/14#1462" type="page"/>
+                        <ptr target="III/11#301" type="page"/>
+                        <ptr target="III/11#1037" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002390">
+                    <idno type="mega">1014200</idno>
+                    <persName type="reg">
+                        <name>Jones, John Paul eigtl. John Younger</name>
+                    </persName>
+                    <birth>1747</birth>
+                    <death>1792</death>
+                    <note>gebürtig aus Schottland; Seemann in der Karibik; seit 1775 amerikanischer
+                        Marineoffizier, gilt als Begründer der USA-Flotte; Teilnahme am
+                        Unabhängigkeitskrieg gegen Großbritannien, 1788 als Konteradmiral in
+                        russischen Diensten im Schwarzen Meer, verließ diese aber nach Kränkungen
+                        und Verleumdungen schon Anfang 1789</note>
+                    <linkGrp>
+                        <ptr target="I/14#736" type="page"/>
+                        <ptr target="I/14#737" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002394">
+                    <idno type="mega">1014194</idno>
+                    <persName type="reg">
+                        <name>Jones, Sir John Thomas, 1st Baronet</name>
+                    </persName>
+                    <birth>1783</birth>
+                    <death>1843</death>
+                    <note>britischer General und Militärschriftsteller; Teilnehmer am
+                        Unabhängigkeitskrieg in Spanien (1808–1814)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#677" type="page"/>
+                        <ptr target="IV/12#680" type="page"/>
+                        <ptr target="IV/12#1224" type="page"/>
+                        <ptr target="IV/12#1364" type="page"/>
+                        <ptr target="IV/12#1365" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002396">
+                    <idno type="mega">1014208</idno>
+                    <persName type="reg">
+                        <name>Jones-Brydges, Sir Harford, 1st Baronet</name>
+                    </persName>
+                    <birth>1764</birth>
+                    <death>1847</death>
+                    <note>britischer Diplomat, Reiseschriftsteller und Publizist</note>
+                    <linkGrp>
+                        <ptr target="IV/12#166" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002387">
+                    <idno type="mega">1014190</idno>
+                    <persName type="reg">
+                        <surname>Jones</surname>
+                        <forename>Ernest</forename>
+                    </persName>
+                    <persName type="alt">
+                        <surname>Jones</surname>
+                        <forename>Charles Ernest</forename>
+                    </persName>
+                    <birth>1819</birth>
+                    <death>1869</death>
+                    <note>englischer Rechtsanwalt, Dichter und Publizist; Redakteur bzw. Herausgeber
+                        chartistischer Zeitungen; Mitglied des Bundes der Kommunisten ;
+                        Chartistenführer (linker Flügel), Redakteur der Zeitung „The Northern Star“,
+                        Herausgeber der Wochenschriften „Notes to the People“ und „The People’s
+                        Paper“; seit 1864 Korrespondent der IAA</note>
+                    <linkGrp>
+                        <ptr target="I/14#310" type="page"/>
+                        <ptr target="I/14#337–339" type="page"/>
+                        <ptr target="I/14#384" type="page"/>
+                        <ptr target="I/14#610" type="page"/>
+                        <ptr target="I/14#678" type="page"/>
+                        <ptr target="I/14#863" type="page"/>
+                        <ptr target="I/14#992" type="page"/>
+                        <ptr target="I/14#1094" type="page"/>
+                        <ptr target="I/14#1120" type="page"/>
+                        <ptr target="I/14#1153" type="page"/>
+                        <ptr target="I/14#1155" type="page"/>
+                        <ptr target="I/14#1180" type="page"/>
+                        <ptr target="I/14#1236" type="page"/>
+                        <ptr target="I/14#1240" type="page"/>
+                        <ptr target="I/14#1264" type="page"/>
+                        <ptr target="I/14#1304" type="page"/>
+                        <ptr target="I/14#1422" type="page"/>
+                        <ptr target="I/14#1423" type="page"/>
+                        <ptr target="I/14#1430" type="page"/>
+                        <ptr target="I/31#430" type="page"/>
+                        <ptr target="I/31#436" type="page"/>
+                        <ptr target="I/31#440" type="page"/>
+                        <ptr target="I/31#441" type="page"/>
+                        <ptr target="I/31#443" type="page"/>
+                        <ptr target="I/31#446" type="page"/>
+                        <ptr target="I/31#451–453" type="page"/>
+                        <ptr target="I/31#1165" type="page"/>
+                        <ptr target="I/31#1201" type="page"/>
+                        <ptr target="I/31#1209" type="page"/>
+                        <ptr target="I/31#1211" type="page"/>
+                        <ptr target="I/31#1214" type="page"/>
+                        <ptr target="III/9#25" type="page"/>
+                        <ptr target="III/9#61" type="page"/>
+                        <ptr target="III/9#84" type="page"/>
+                        <ptr target="III/9#211" type="page"/>
+                        <ptr target="III/9#216" type="page"/>
+                        <ptr target="III/9#217" type="page"/>
+                        <ptr target="III/9#221" type="page"/>
+                        <ptr target="III/9#293" type="page"/>
+                        <ptr target="III/9#303" type="page"/>
+                        <ptr target="III/9#602" type="page"/>
+                        <ptr target="III/9#619" type="page"/>
+                        <ptr target="III/9#635" type="page"/>
+                        <ptr target="III/9#696" type="page"/>
+                        <ptr target="III/9#763" type="page"/>
+                        <ptr target="III/9#862" type="page"/>
+                        <ptr target="III/9#969" type="page"/>
+                        <ptr target="III/10#219" type="page"/>
+                        <ptr target="III/10#231" type="page"/>
+                        <ptr target="III/10#239" type="page"/>
+                        <ptr target="III/10#240" type="page"/>
+                        <ptr target="III/10#244" type="page"/>
+                        <ptr target="III/10#297" type="page"/>
+                        <ptr target="III/10#328" type="page"/>
+                        <ptr target="III/10#329" type="page"/>
+                        <ptr target="III/10#340" type="page"/>
+                        <ptr target="III/10#347" type="page"/>
+                        <ptr target="III/10#388" type="page"/>
+                        <ptr target="III/10#533" type="page"/>
+                        <ptr target="III/10#609" type="page"/>
+                        <ptr target="III/10#626" type="page"/>
+                        <ptr target="III/10#629" type="page"/>
+                        <ptr target="III/10#844" type="page"/>
+                        <ptr target="III/10#855" type="page"/>
+                        <ptr target="III/10#960" type="page"/>
+                        <ptr target="III/10#861" type="page"/>
+                        <ptr target="III/10#863" type="page"/>
+                        <ptr target="III/10#876" type="page"/>
+                        <ptr target="III/10#907" type="page"/>
+                        <ptr target="III/10#932" type="page"/>
+                        <ptr target="III/10#940" type="page"/>
+                        <ptr target="III/10#989" type="page"/>
+                        <ptr target="III/10#1133" type="page"/>
+                        <ptr target="III/11#20" type="page"/>
+                        <ptr target="III/11#301" type="page"/>
+                        <ptr target="III/11#464" type="page"/>
+                        <ptr target="III/11#706" type="page"/>
+                        <ptr target="III/11#1036" type="page"/>
+                        <ptr target="III/13#38" type="page"/>
+                        <ptr target="III/13#74" type="page"/>
+                        <ptr target="III/13#95" type="page"/>
+                        <ptr target="III/13#99" type="page"/>
+                        <ptr target="III/13#105" type="page"/>
+                        <ptr target="III/13#142" type="page"/>
+                        <ptr target="III/13#155" type="page"/>
+                        <ptr target="III/13#157" type="page"/>
+                        <ptr target="III/13#185" type="page"/>
+                        <ptr target="III/13#192" type="page"/>
+                        <ptr target="III/13#193" type="page"/>
+                        <ptr target="III/13#218" type="page"/>
+                        <ptr target="III/13#219" type="page"/>
+                        <ptr target="III/13#222–224" type="page"/>
+                        <ptr target="III/13#233" type="page"/>
+                        <ptr target="III/13#239" type="page"/>
+                        <ptr target="III/13#246" type="page"/>
+                        <ptr target="III/13#272" type="page"/>
+                        <ptr target="III/13#273" type="page"/>
+                        <ptr target="III/13#276" type="page"/>
+                        <ptr target="III/13#288" type="page"/>
+                        <ptr target="III/13#296" type="page"/>
+                        <ptr target="III/13#297" type="page"/>
+                        <ptr target="III/13#318" type="page"/>
+                        <ptr target="III/13#322" type="page"/>
+                        <ptr target="III/13#327" type="page"/>
+                        <ptr target="III/13#332" type="page"/>
+                        <ptr target="III/13#335" type="page"/>
+                        <ptr target="III/13#406" type="page"/>
+                        <ptr target="III/13#411" type="page"/>
+                        <ptr target="III/13#413" type="page"/>
+                        <ptr target="III/13#422" type="page"/>
+                        <ptr target="III/13#429" type="page"/>
+                        <ptr target="III/13#434" type="page"/>
+                        <ptr target="III/13#437" type="page"/>
+                        <ptr target="III/13#439" type="page"/>
+                        <ptr target="III/13#443" type="page"/>
+                        <ptr target="III/13#446" type="page"/>
+                        <ptr target="III/13#449" type="page"/>
+                        <ptr target="III/13#451–453" type="page"/>
+                        <ptr target="III/13#468" type="page"/>
+                        <ptr target="III/13#469" type="page"/>
+                        <ptr target="III/13#498" type="page"/>
+                        <ptr target="III/13#544" type="page"/>
+                        <ptr target="III/13#557" type="page"/>
+                        <ptr target="III/13#596" type="page"/>
+                        <ptr target="III/13#614" type="page"/>
+                        <ptr target="III/13#642" type="page"/>
+                        <ptr target="III/13#658" type="page"/>
+                        <ptr target="III/13#659" type="page"/>
+                        <ptr target="III/13#661" type="page"/>
+                        <ptr target="III/13#662" type="page"/>
+                        <ptr target="III/13#673" type="page"/>
+                        <ptr target="III/13#716" type="page"/>
+                        <ptr target="III/13#785" type="page"/>
+                        <ptr target="III/13#789" type="page"/>
+                        <ptr target="III/13#797" type="page"/>
+                        <ptr target="III/13#845" type="page"/>
+                        <ptr target="III/13#847" type="page"/>
+                        <ptr target="III/13#885" type="page"/>
+                        <ptr target="III/13#986" type="page"/>
+                        <ptr target="III/13#987" type="page"/>
+                        <ptr target="III/13#909" type="page"/>
+                        <ptr target="III/13#914" type="page"/>
+                        <ptr target="III/13#923" type="page"/>
+                        <ptr target="III/13#930" type="page"/>
+                        <ptr target="III/13#939" type="page"/>
+                        <ptr target="III/13#963" type="page"/>
+                        <ptr target="III/13#967" type="page"/>
+                        <ptr target="III/13#986" type="page"/>
+                        <ptr target="III/13#987" type="page"/>
+                        <ptr target="III/13#1010" type="page"/>
+                        <ptr target="III/13#1021" type="page"/>
+                        <ptr target="III/13#1029–1031" type="page"/>
+                        <ptr target="III/13#1109" type="page"/>
+                        <ptr target="III/13#1114" type="page"/>
+                        <ptr target="III/13#1116" type="page"/>
+                        <ptr target="III/13#1128" type="page"/>
+                        <ptr target="III/13#1143" type="page"/>
+                        <ptr target="III/13#1147" type="page"/>
+                        <ptr target="III/13#1155" type="page"/>
+                        <ptr target="III/13#1156" type="page"/>
+                        <ptr target="III/13#1171" type="page"/>
+                        <ptr target="III/13#1267" type="page"/>
+                        <ptr target="III/13#1281" type="page"/>
+                        <ptr target="III/13#1331" type="page"/>
+                        <ptr target="III/13#1337–1341" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002397">
+                    <idno type="mega">1014210</idno>
+                    <persName type="reg">
+                        <surname>Jongh van Arkel</surname>
+                        <forename>R. de</forename>
+                    </persName>
+                    <note>Publizist</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000002398">
+                    <idno type="mega">1014215</idno>
+                    <persName type="reg">
+                        <surname>Joplin</surname>
+                        <forename>Thomas</forename>
+                    </persName>
+                    <birth>1790</birth>
+                    <death>1847</death>
+                    <note>britischer Bankier und Ökonom</note>
+                    <linkGrp>
+                        <ptr target="II/14#290" type="page"/>
+                        <ptr target="II/14#300" type="page"/>
+                        <ptr target="II/14#304" type="page"/>
+                        <ptr target="II/14#890" type="page"/>
+                        <ptr target="II/14#936" type="page"/>
+                        <ptr target="II/14#943" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002399">
+                    <idno type="mega">1014222</idno>
+                    <persName type="reg">
+                        <surname>Jordan</surname>
+                        <forename>Wilhelm</forename>
+                    </persName>
+                    <birth>1819</birth>
+                    <death>1904</death>
+                    <note>deutscher Dichter und Theologe; 1848/49 Mitglied der Frankfurter
+                        Nationalversammlung</note>
+                    <linkGrp>
+                        <ptr target="I/14#1465" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010866">
+                    <idno type="mega">1014245</idno>
+                    <persName type="reg">
+                        <name>Joseph Ferdinand</name>
+                    </persName>
+                    <birth>1692</birth>
+                    <death>1699</death>
+                    <note>Kurprinz von Bayern</note>
+                    <linkGrp>
+                        <ptr target="IV/12#272" type="page"/>
+                        <ptr target="IV/12#273" type="page"/>
+                        <ptr target="IV/12#1185" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010867">
+                    <idno type="mega">1014246</idno>
+                    <persName type="reg">
+                        <name>Joseph Klemens</name>
+                    </persName>
+                    <birth>1671</birth>
+                    <death>1723</death>
+                    <note>Herzog von Bayern; Kurfürst und Erzbischof von Köln (seit 1688), durch
+                        Reichsacht 1706–1714 unterbrochen; Fürstbischof von Regensburg (1685–1717),
+                        Freising (1685–1694) und Lüttich (seit 1694)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#274" type="page"/>
+                        <ptr target="IV/12#280" type="page"/>
+                        <ptr target="IV/12#1186" type="page"/>
+                        <ptr target="IV/12#1187" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010868">
+                    <idno type="mega">1014239</idno>
+                    <persName type="reg">
+                        <name>Joseph&#160;I.</name>
+                    </persName>
+                    <birth>1678</birth>
+                    <death>1711</death>
+                    <note>römisch-deutscher Kaiser (seit 1705), römisch-deutscher König (seit 1690),
+                        König von Ungarn (seit 1687) und Böhmen (seit 1705)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#272–276" type="page"/>
+                        <ptr target="IV/12#285" type="page"/>
+                        <ptr target="IV/12#295" type="page"/>
+                        <ptr target="IV/12#1186" type="page"/>
+                        <ptr target="IV/12#1187" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010869">
+                    <idno type="mega">1014240</idno>
+                    <persName type="reg">
+                        <name>Joseph&#160;I. Galesiotes</name>
+                    </persName>
+                    <note>Patriarch von Konstantinopel (1267–1275)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#19" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002401">
+                    <idno type="mega">1014242</idno>
+                    <persName type="reg">
+                        <name>Joseph&#160;II.</name>
+                    </persName>
+                    <birth>1741</birth>
+                    <death>1790</death>
+                    <note>römisch-deutscher Kaiser (seit 1765), römisch-deutscher König (seit 1764),
+                        König von Ungarn und von Böhmen (seit 1780); römisch-deutscher Kaiser seit
+                        1765. Die nach ihm benannten „josephinischen Reformen“ in Österreich
+                        scheiterten nach seinem Tode</note>
+                    <linkGrp>
+                        <ptr target="I/14#67" type="page"/>
+                        <ptr target="I/14#789" type="page"/>
+                        <ptr target="I/14#1537" type="page"/>
+                        <ptr target="I/31#76" type="page"/>
+                        <ptr target="I/31#185" type="page"/>
+                        <ptr target="I/31#187" type="page"/>
+                        <ptr target="I/31#188" type="page"/>
+                        <ptr target="I/31#223" type="page"/>
+                        <ptr target="I/31#225" type="page"/>
+                        <ptr target="I/31#826" type="page"/>
+                        <ptr target="I/31#978" type="page"/>
+                        <ptr target="I/31#986" type="page"/>
+                        <ptr target="IV/12#293" type="page"/>
+                        <ptr target="IV/12#315" type="page"/>
+                        <ptr target="IV/12#705" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010870">
+                    <idno type="mega">1014241</idno>
+                    <persName type="reg">
+                        <name>Joseph&#160;II.</name>
+                    </persName>
+                    <death>1439</death>
+                    <note>Patriarch von Konstantinopel (seit 1416)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#19" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002400">
+                    <idno type="mega">1014231</idno>
+                    <persName type="reg">
+                        <name>José Salomé</name>
+                    </persName>
+                    <note>1823 spanischer Geistlicher</note>
+                    <linkGrp>
+                        <ptr target="IV/12#779" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010865">
+                    <idno type="mega">1014230</idno>
+                    <persName type="reg">
+                        <name>José&#160;I</name>
+                    </persName>
+                    <birth>1714</birth>
+                    <death>1777</death>
+                    <note>König von Portugal (seit 1750)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#293" type="page"/>
+                        <ptr target="IV/12#511" type="page"/>
+                        <ptr target="IV/12#1283" type="page"/>
+                        <ptr target="IV/12#1315" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002402">
+                    <idno type="mega">1014256</idno>
+                    <persName type="reg">
+                        <name>Josíka von Branyicskai, Miklós, Baron</name>
+                    </persName>
+                    <birth>1794</birth>
+                    <death>1865</death>
+                    <note>ungarischer Schriftsteller und Politiker; lebte nach 1849 in Belgien und
+                        Deutschland</note>
+                    <linkGrp>
+                        <ptr target="IV/12#953" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002403">
+                    <idno type="mega">1014261</idno>
+                    <persName type="reg">
+                        <surname>Jottrand</surname>
+                        <forename>Lucien Léopold</forename>
+                    </persName>
+                    <birth>1804</birth>
+                    <death>1877</death>
+                    <note>belgischer Jurist und Publizist; Präsident der Association démocratique in
+                        Brüssel 1847/1848; 1847/1848 Präsident der Association démocratique in
+                        Brüssel; Redakteur des „Débat Social“</note>
+                    <linkGrp>
+                        <ptr target="I/31#884" type="page"/>
+                        <ptr target="III/10#340" type="page"/>
+                        <ptr target="III/10#346" type="page"/>
+                        <ptr target="III/10#374" type="page"/>
+                        <ptr target="III/10#375" type="page"/>
+                        <ptr target="III/10#631" type="page"/>
+                        <ptr target="III/10#831" type="page"/>
+                        <ptr target="III/10#947" type="page"/>
+                        <ptr target="III/10#952" type="page"/>
+                        <ptr target="III/10#977–979" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002404">
+                    <idno type="mega">1014263</idno>
+                    <persName type="reg">
+                        <surname>Joubert</surname>
+                        <forename>Jules</forename>
+                    </persName>
+                    <note>französischer Physiker</note>
+                    <linkGrp>
+                        <ptr target="IV/31#923" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010871">
+                    <idno type="mega">1014264</idno>
+                    <persName type="reg">
+                        <surname>Joubert</surname>
+                        <forename>Pierre</forename>
+                    </persName>
+                    <birth>1715</birth>
+                    <death>1780</death>
+                    <note>französischer Geistlicher, Schriftsteller und Historiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#316" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002405">
+                    <idno type="mega">1014271</idno>
+                    <persName type="reg">
+                        <surname>Joule</surname>
+                        <forename>James Prescott</forename>
+                    </persName>
+                    <birth>1818</birth>
+                    <death>1889</death>
+                    <note>englischer Physiker, Privatgelehrter und Brauereibesitzer; Arbeiten zu
+                        Elektromagnetismus und Wärme; stellte 1841 das später nach ihm benannte
+                        Gesetz auf, wonach die Wärmewirkung des elektrischen Stromes proportional
+                        dem Widerstand und dem Quadrat der Stromstärke ist; formulierte ein Jahr
+                        nach Rober Mayer (1843) das Energieprinzip und bestimmte genauer als dieser
+                        das mechanische Wärmeäquivalent, fand 1852 gemeinsam mit William Thomson den
+                        sog. Joule-Thomson-Effekt (Temperaturerniedrigung bei schneller Ausdeh&#160;nung
+                        von Gasen)</note>
+                    <linkGrp>
+                        <ptr target="IV/31#472" type="page"/>
+                        <ptr target="IV/31#521" type="page"/>
+                        <ptr target="IV/31#564" type="page"/>
+                        <ptr target="IV/31#565" type="page"/>
+                        <ptr target="IV/31#581" type="page"/>
+                        <ptr target="IV/31#582" type="page"/>
+                        <ptr target="IV/31#613" type="page"/>
+                        <ptr target="IV/31#885" type="page"/>
+                        <ptr target="IV/31#886" type="page"/>
+                        <ptr target="IV/31#917" type="page"/>
+                        <ptr target="IV/31#920" type="page"/>
+                        <ptr target="IV/31#964" type="page"/>
+                        <ptr target="IV/31#972" type="page"/>
+                        <ptr target="IV/31#988" type="page"/>
+                        <ptr target="IV/31#990" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002406">
+                    <idno type="mega">1014278</idno>
+                    <persName type="reg">
+                        <surname>Jourdan</surname>
+                        <forename>Louis</forename>
+                    </persName>
+                    <birth>1810</birth>
+                    <death>1881</death>
+                    <note>französischer Publizist und Schriftsteller, Anhänger Saint-Simons, später
+                        Bonapartist; seit 1849 Redakteur der Zeitung „Le Siècle“ (Paris)</note>
+                    <linkGrp>
+                        <ptr target="III/11#10" type="page"/>
+                        <ptr target="III/11#29" type="page"/>
+                        <ptr target="III/11#682" type="page"/>
+                        <ptr target="III/11#740" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002407">
+                    <idno type="mega">1014281</idno>
+                    <persName type="reg">
+                        <surname>Jourdier</surname>
+                        <forename>Auguste</forename>
+                    </persName>
+                    <birth>1822</birth>
+                    <death>1875</death>
+                    <note>französischer Agronom</note>
+                    <linkGrp>
+                        <ptr target="II/11#199" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002408">
+                    <idno type="mega">1014282</idno>
+                    <persName type="reg">
+                        <surname>Journet</surname>
+                        <forename>Jean</forename>
+                    </persName>
+                    <birth>1799</birth>
+                    <death>1861</death>
+                    <note>französischer Schriftsteller und Sozialist; Anhänger von Charles
+                        Fourier</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000002409">
+                    <idno type="mega">1014284</idno>
+                    <persName type="reg">
+                        <surname>Jovellanos</surname>
+                        <forename>Gaspar Melchor de</forename>
+                    </persName>
+                    <birth>1744</birth>
+                    <death>1811</death>
+                    <note>spanischer Politiker, Schriftsteller und Jurist; aufgeklärter Reformer ;
+                        1797/1798 Justizminister; stand an der Spitze der radikalen Minderheit in
+                        der Obersten Zentraljunta (1808–1810)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#371" type="page"/>
+                        <ptr target="IV/12#601" type="page"/>
+                        <ptr target="IV/12#602" type="page"/>
+                        <ptr target="IV/12#610" type="page"/>
+                        <ptr target="IV/12#611" type="page"/>
+                        <ptr target="IV/12#634" type="page"/>
+                        <ptr target="IV/12#647" type="page"/>
+                        <ptr target="IV/12#648" type="page"/>
+                        <ptr target="IV/12#654" type="page"/>
+                        <ptr target="IV/12#655" type="page"/>
+                        <ptr target="IV/12#659–661" type="page"/>
+                        <ptr target="IV/12#663" type="page"/>
+                        <ptr target="IV/12#687" type="page"/>
+                        <ptr target="IV/12#717–731" type="page"/>
+                        <ptr target="IV/12#743" type="page"/>
+                        <ptr target="IV/12#748" type="page"/>
+                        <ptr target="IV/12#751–753" type="page"/>
+                        <ptr target="IV/12#788" type="page"/>
+                        <ptr target="IV/12#1025" type="page"/>
+                        <ptr target="IV/12#1026" type="page"/>
+                        <ptr target="IV/12#1042" type="page"/>
+                        <ptr target="IV/12#1260" type="page"/>
+                        <ptr target="IV/12#1334" type="page"/>
+                        <ptr target="IV/12#1341" type="page"/>
+                        <ptr target="IV/12#1351" type="page"/>
+                        <ptr target="IV/12#1354" type="page"/>
+                        <ptr target="IV/12#1357" type="page"/>
+                        <ptr target="IV/12#1377–1379" type="page"/>
+                        <ptr target="IV/12#1381" type="page"/>
+                        <ptr target="IV/12#1384" type="page"/>
+                        <ptr target="IV/12#1404–1406" type="page"/>
+                        <ptr target="IV/12#1410" type="page"/>
+                        <ptr target="IV/12#1411" type="page"/>
+                        <ptr target="IV/12#1414–1416" type="page"/>
+                        <ptr target="IV/12#1422" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002410">
+                    <idno type="mega">1014288</idno>
+                    <persName type="reg">
+                        <surname>Joynes</surname>
+                        <forename>James Leigh</forename>
+                    </persName>
+                    <birth>1853</birth>
+                    <death>1893</death>
+                    <note>britischer Journalist und Übersetzer; führendes Mitglied der Social
+                        Democratic Federation</note>
+                    <linkGrp>
+                        <ptr target="I/31#658" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010844">
+                    <idno type="mega">1014020</idno>
+                    <persName type="reg">
+                        <name>João&#160;V</name>
+                    </persName>
+                    <birth>1689</birth>
+                    <death>1750</death>
+                    <note>König von Portugal (seit 1705)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#272" type="page"/>
+                        <ptr target="IV/12#289" type="page"/>
+                        <ptr target="IV/12#293" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002377">
+                    <idno type="mega">1014021</idno>
+                    <persName type="reg">
+                        <name>João&#160;VI</name>
+                    </persName>
+                    <birth>1767</birth>
+                    <death>1826</death>
+                    <note>König von Portugal (seit 1816; Regent seit 1792); Gemahl von Carlota
+                        Joaquina de Boubón</note>
+                    <linkGrp>
+                        <ptr target="IV/12#694" type="page"/>
+                        <ptr target="IV/12#1276" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010905">
+                    <idno type="mega">1014296</idno>
+                    <persName type="reg">
+                        <name>Juan Español</name>
+                    </persName>
+                    <note>Inbegriff des spanischen Nationalcharakters</note>
+                    <linkGrp>
+                        <ptr target="IV/12#741" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010874">
+                    <idno type="mega">1014297</idno>
+                    <persName type="reg">
+                        <name>Juan José de Austria</name>
+                    </persName>
+                    <birth>1629</birth>
+                    <death>1679</death>
+                    <note>spanischer Feldherr; illegitimer Sohn Felipes&#160;IV.</note>
+                    <linkGrp>
+                        <ptr target="IV/12#422" type="page"/>
+                        <ptr target="IV/12#437" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010872">
+                    <idno type="mega">1014294</idno>
+                    <persName type="reg">
+                        <name>Juan de Albret</name>
+                    </persName>
+                    <birth>1469</birth>
+                    <death>1516</death>
+                    <note>südfranzösischer Adliger, Gemahl (seit 1484) der Erbin von Navarra; verlor
+                        1512 Obernavarra an Spanien</note>
+                    <linkGrp>
+                        <ptr target="IV/12#71" type="page"/>
+                        <ptr target="IV/12#507" type="page"/>
+                        <ptr target="IV/12#510" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010873">
+                    <idno type="mega">1014295</idno>
+                    <persName type="reg">
+                        <name>Juan de Austria</name>
+                    </persName>
+                    <birth>1545</birth>
+                    <death>1578</death>
+                    <note>spanischer Feldherr; illegitimer Sohn Carlos’ I; seit 1576
+                        Generalstatthalter der Niederlande</note>
+                    <linkGrp>
+                        <ptr target="IV/12#71" type="page"/>
+                        <ptr target="IV/12#510" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010881">
+                    <idno type="mega">1014301</idno>
+                    <persName type="reg">
+                        <surname>Juana</surname>
+                        <forename>la Loca</forename>
+                    </persName>
+                    <birth>1479</birth>
+                    <death>1555</death>
+                    <note>Königin von Kastilien (seit 1504); Gemahlin Felipes&#160;I, nach dem Tod ihres
+                        Gemahls (1506) psychisch krank, durch Regenten vertreten (1506–1516 ihren
+                        Vater, danach ihren Sohn Carlos&#160;I)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#67" type="page"/>
+                        <ptr target="IV/12#507" type="page"/>
+                        <ptr target="IV/12#1281" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010879">
+                    <idno type="mega">1014299</idno>
+                    <persName type="reg">
+                        <name>Juana de Castro verw. de Haro</name>
+                    </persName>
+                    <note>seit 1354 illegitime Gemahlin Pedros&#160;I, nach kurzer Zeit verstoßen</note>
+                    <linkGrp>
+                        <ptr target="IV/12#421" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010880">
+                    <idno type="mega">1014300</idno>
+                    <persName type="reg">
+                        <name>Juana de Portugal</name>
+                    </persName>
+                    <birth>1439</birth>
+                    <death>1475</death>
+                    <note>Königin von Kastilien; zweite Gemahlin Enriques&#160;IV (seit 1455)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#421" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010878">
+                    <idno type="mega">1014298</idno>
+                    <persName type="reg">
+                        <name>Juana genannt La Beltraneja</name>
+                    </persName>
+                    <birth>1462</birth>
+                    <death>1530</death>
+                    <note>Infantin von Kastilien; Tochter Enriques&#160;IV aus zweiter Ehe mit Juana de
+                        Portugal</note>
+                    <linkGrp>
+                        <ptr target="IV/12#421" type="page"/>
+                        <ptr target="IV/12#1256" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002411">
+                    <idno type="mega">1014302</idno>
+                    <persName type="reg">
+                        <name>Juanito</name>
+                    </persName>
+                    <note>aufständischer Monarchist während des Liberalen Trienniums
+                        (1820–1823)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#801" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010875">
+                    <idno type="mega">1014291</idno>
+                    <persName type="reg">
+                        <name>Juan&#160;I</name>
+                    </persName>
+                    <birth>1358</birth>
+                    <death>1390</death>
+                    <note>König von Kastilien (seit 1379)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#444" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010876">
+                    <idno type="mega">1014292</idno>
+                    <persName type="reg">
+                        <name>Juan&#160;II</name>
+                    </persName>
+                    <birth>1397</birth>
+                    <death>1479</death>
+                    <note>König von Navarra (seit 1425) und Aragón (seit 1458); Vater
+                        Fernandos&#160;V.</note>
+                    <linkGrp>
+                        <ptr target="IV/12#421" type="page"/>
+                        <ptr target="IV/12#1256" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010877">
+                    <idno type="mega">1014293</idno>
+                    <persName type="reg">
+                        <name>Juan&#160;II</name>
+                    </persName>
+                    <birth>1405</birth>
+                    <death>1454</death>
+                    <note>König von Kastilien (seit 1406/1419)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#421" type="page"/>
+                        <ptr target="IV/12#631" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002413">
+                    <idno type="mega">1014307</idno>
+                    <persName type="reg">
+                        <surname>Juch</surname>
+                        <forename>Ernst</forename>
+                    </persName>
+                    <note>Demokrat, Emigrant in London, 1859–1869 Redakteur, später Eigentümer des
+                        Wochenblattes „Hermann“; deutscher Publizist, Linksliberaler; in den 1850er
+                        Jahren Emigrant in Paris, danach in London, zeitweise Anhänger Gottfried
+                        Kinkels, 1859–1869 Redakteur und später Eigentümer des Wochenblatts
+                        „Hermann“</note>
+                    <linkGrp>
+                        <ptr target="III/9#138" type="page"/>
+                        <ptr target="III/9#348" type="page"/>
+                        <ptr target="III/9#429" type="page"/>
+                        <ptr target="III/9#520" type="page"/>
+                        <ptr target="III/9#1020" type="page"/>
+                        <ptr target="III/11#12" type="page"/>
+                        <ptr target="III/11#178" type="page"/>
+                        <ptr target="III/11#483" type="page"/>
+                        <ptr target="III/11#484" type="page"/>
+                        <ptr target="III/11#506" type="page"/>
+                        <ptr target="III/11#521" type="page"/>
+                        <ptr target="III/11#612" type="page"/>
+                        <ptr target="III/11#677" type="page"/>
+                        <ptr target="III/11#910" type="page"/>
+                        <ptr target="III/11#911" type="page"/>
+                        <ptr target="III/11#1090" type="page"/>
+                        <ptr target="III/11#1256" type="page"/>
+                        <ptr target="III/11#1339" type="page"/>
+                        <ptr target="III/10#65" type="page"/>
+                        <ptr target="III/10#124" type="page"/>
+                        <ptr target="III/10#128" type="page"/>
+                        <ptr target="III/10#132" type="page"/>
+                        <ptr target="III/10#183" type="page"/>
+                        <ptr target="III/10#184" type="page"/>
+                        <ptr target="III/10#198" type="page"/>
+                        <ptr target="III/10#234" type="page"/>
+                        <ptr target="III/10#321" type="page"/>
+                        <ptr target="III/10#324" type="page"/>
+                        <ptr target="III/10#561" type="page"/>
+                        <ptr target="III/10#631" type="page"/>
+                        <ptr target="III/10#685" type="page"/>
+                        <ptr target="III/10#713" type="page"/>
+                        <ptr target="III/10#766" type="page"/>
+                        <ptr target="III/10#827" type="page"/>
+                        <ptr target="III/10#925" type="page"/>
+                        <ptr target="III/13#38" type="page"/>
+                        <ptr target="III/13#57" type="page"/>
+                        <ptr target="III/13#157" type="page"/>
+                        <ptr target="III/13#327" type="page"/>
+                        <ptr target="III/13#331" type="page"/>
+                        <ptr target="III/13#333" type="page"/>
+                        <ptr target="III/13#338" type="page"/>
+                        <ptr target="III/13#339" type="page"/>
+                        <ptr target="III/13#516" type="page"/>
+                        <ptr target="III/13#642" type="page"/>
+                        <ptr target="III/13#740" type="page"/>
+                        <ptr target="III/13#750" type="page"/>
+                        <ptr target="III/13#1027" type="page"/>
+                        <ptr target="III/13#1028" type="page"/>
+                        <ptr target="III/13#1034" type="page"/>
+                        <ptr target="III/13#1036" type="page"/>
+                        <ptr target="III/13#1339" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010882">
+                    <idno type="mega">1014306</idno>
+                    <persName type="reg">
+                        <name>Juch</name>
+                    </persName>
+                    <note>Ehefrau von Ernst Hermann Juch</note>
+                    <linkGrp>
+                        <ptr target="III/13#338" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010906">
+                    <idno type="mega">1014313</idno>
+                    <persName type="reg">
+                        <name>Judas Ischariot</name>
+                    </persName>
+                    <note>nach der Bibel ein Jünger von Jesus, der diesen verriet; Gestalt aus der
+                        Bibel, im Neuen Testament einer der zwölf Jünger Jesu, der diesen durch den
+                        „Judaskuß“ verriet</note>
+                    <linkGrp>
+                        <ptr target="III/9#549" type="page"/>
+                        <ptr target="III/13#1002" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010907">
+                    <idno type="mega">1014317</idno>
+                    <persName type="reg">
+                        <name>Judas Thaddäus</name>
+                    </persName>
+                    <note>Gestalt aus der Bibel; einer der zwölf Jünger (Apostel) Jesu</note>
+                    <linkGrp>
+                        <ptr target="IV/12#23" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010883">
+                    <idno type="mega">1014327</idno>
+                    <persName type="reg">
+                        <name>Jugurtha</name>
+                    </persName>
+                    <note>König von Numidien; bekannt für Grausamkeit und Korruptheit; führte den
+                        Jugurthinischen Krieg mit Rom (112–105 v.&#160;Chr.), wurde besiegt und
+                        ausgeliefert 104 im Triumph durch Rom geführt und hingerichtet</note>
+                    <linkGrp>
+                        <ptr target="III/11#10" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002414">
+                    <idno type="mega">1014330</idno>
+                    <persName type="reg">
+                        <surname>Jukes</surname>
+                        <forename>Joseph Beete</forename>
+                    </persName>
+                    <birth>1811</birth>
+                    <death>1869</death>
+                    <note>englischer Geologe; Direktor des britischen geologischen Dienstes in
+                        Irland (ab 1850) und Mitglied der Royal Society, London (ab 1853)</note>
+                    <linkGrp>
+                        <ptr target="IV/31#242–244" type="page"/>
+                        <ptr target="IV/31#627" type="page"/>
+                        <ptr target="IV/31#628" type="page"/>
+                        <ptr target="IV/31#630" type="page"/>
+                        <ptr target="IV/31#631" type="page"/>
+                        <ptr target="IV/31#649" type="page"/>
+                        <ptr target="IV/31#657" type="page"/>
+                        <ptr target="IV/31#658" type="page"/>
+                        <ptr target="IV/31#679" type="page"/>
+                        <ptr target="IV/31#682" type="page"/>
+                        <ptr target="IV/31#691" type="page"/>
+                        <ptr target="IV/31#805" type="page"/>
+                        <ptr target="IV/31#822" type="page"/>
+                        <ptr target="IV/31#823" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010884">
+                    <idno type="mega">1014340</idno>
+                    <persName type="reg">
+                        <surname>Julian</surname>
+                        <forename>El Conde</forename>
+                    </persName>
+                    <note>Statthalter in Andalusien zur Spätzeit des westgotischen Königtums Ende
+                        des 7./Anfang des 8.&#160;Jh.</note>
+                    <linkGrp>
+                        <ptr target="IV/12#747" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002415">
+                    <idno type="mega">1014345</idno>
+                    <persName type="reg">
+                        <surname>Julien</surname>
+                        <forename>Alexis Anastay</forename>
+                    </persName>
+                    <birth>1840</birth>
+                    <death>1919</death>
+                    <note>US-amerikanischer Geologe, Naturforscher und Lehrer; Mitglied der New York
+                        Academie (ab 1867)</note>
+                    <linkGrp>
+                        <ptr target="IV/31#809" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010885">
+                    <idno type="mega">1014347</idno>
+                    <persName type="reg">
+                        <name>Juliette</name>
+                    </persName>
+                    <linkGrp>
+                        <ptr target="III/10#528" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010886">
+                    <idno type="mega">1014353</idno>
+                    <persName type="reg">
+                        <name>Julius&#160;II.</name>
+                    </persName>
+                    <birth>1443</birth>
+                    <death>1513</death>
+                    <note>Papst seit 1503</note>
+                    <linkGrp>
+                        <ptr target="IV/12#67" type="page"/>
+                        <ptr target="IV/12#68" type="page"/>
+                        <ptr target="IV/12#1118" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010887">
+                    <idno type="mega">1014354</idno>
+                    <persName type="reg">
+                        <name>Julius&#160;III.</name>
+                    </persName>
+                    <birth>1487</birth>
+                    <death>1555</death>
+                    <note>Papst seit 1550</note>
+                    <linkGrp>
+                        <ptr target="IV/12#68" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="ed_vnh_3w4_kz">
+                    <persName type="reg">
+                        <surname>Jung</surname>
+                        <forename/>
+                    </persName>
+                    <birth>1866</birth>
+                    <death/>
+                    <note>Tochter von Hermann Francis und Sarah Jung</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000002417">
+                    <idno type="mega">1014370</idno>
+                    <persName type="reg">
+                        <surname>Jung</surname>
+                        <forename>Hermann </forename>
+                    </persName>
+                    <birth>1830</birth>
+                    <death>1901</death>
+                    <note>Schweizer Uhrmacher; lebte seit Mitte der 1850er Jahre in London ;
+                        Mitglied des Generalrats der IAA und Korrespondierender Sekretär für die
+                        Schweiz (1864–1872), Schatzmeister (1871/1872), Vizepräsident der Londoner
+                        Konferenz (1865), Präsident der Kongresse in Genf (1866), Brüssel (1868) und
+                        Basel (1869) sowie der Londoner Konferenz (1871); 1871/1872 Mitglied des
+                        British Federal Council, schloß sich dessen reformistischem Flügel an ;
+                        spä&#160;ter in britischen Trade Unions aktiv</note>
+                    <linkGrp>
+                        <ptr target="III/13#113" type="page"/>
+                        <ptr target="III/13#116" type="page"/>
+                        <ptr target="III/13#150" type="page"/>
+                        <ptr target="III/13#156" type="page"/>
+                        <ptr target="III/13#324" type="page"/>
+                        <ptr target="III/13#328" type="page"/>
+                        <ptr target="III/13#341" type="page"/>
+                        <ptr target="III/13#344" type="page"/>
+                        <ptr target="III/13#347–349" type="page"/>
+                        <ptr target="III/13#384" type="page"/>
+                        <ptr target="III/13#394" type="page"/>
+                        <ptr target="III/13#401" type="page"/>
+                        <ptr target="III/13#403" type="page"/>
+                        <ptr target="III/13#410" type="page"/>
+                        <ptr target="III/13#422" type="page"/>
+                        <ptr target="III/13#429" type="page"/>
+                        <ptr target="III/13#491" type="page"/>
+                        <ptr target="III/13#538" type="page"/>
+                        <ptr target="III/13#547" type="page"/>
+                        <ptr target="III/13#561" type="page"/>
+                        <ptr target="III/13#573" type="page"/>
+                        <ptr target="III/13#591" type="page"/>
+                        <ptr target="III/13#593" type="page"/>
+                        <ptr target="III/13#597" type="page"/>
+                        <ptr target="III/13#605" type="page"/>
+                        <ptr target="III/13#642" type="page"/>
+                        <ptr target="III/13#647" type="page"/>
+                        <ptr target="III/13#649" type="page"/>
+                        <ptr target="III/13#662" type="page"/>
+                        <ptr target="III/13#663" type="page"/>
+                        <ptr target="III/13#669" type="page"/>
+                        <ptr target="III/13#670" type="page"/>
+                        <ptr target="III/13#673" type="page"/>
+                        <ptr target="III/13#790" type="page"/>
+                        <ptr target="III/13#805" type="page"/>
+                        <ptr target="III/13#808" type="page"/>
+                        <ptr target="III/13#841" type="page"/>
+                        <ptr target="III/13#842" type="page"/>
+                        <ptr target="III/13#846" type="page"/>
+                        <ptr target="III/13#869" type="page"/>
+                        <ptr target="III/13#1018" type="page"/>
+                        <ptr target="III/13#1023" type="page"/>
+                        <ptr target="III/13#1024" type="page"/>
+                        <ptr target="III/13#1030" type="page"/>
+                        <ptr target="III/13#1039" type="page"/>
+                        <ptr target="III/13#1040" type="page"/>
+                        <ptr target="III/13#1044–1047" type="page"/>
+                        <ptr target="III/13#1095" type="page"/>
+                        <ptr target="III/13#1096" type="page"/>
+                        <ptr target="III/13#1105" type="page"/>
+                        <ptr target="III/13#1106" type="page"/>
+                        <ptr target="III/13#1128" type="page"/>
+                        <ptr target="III/13#1135" type="page"/>
+                        <ptr target="III/13#1153" type="page"/>
+                        <ptr target="III/13#1166" type="page"/>
+                        <ptr target="III/13#1192" type="page"/>
+                        <ptr target="III/13#1208" type="page"/>
+                        <ptr target="III/13#1237" type="page"/>
+                        <ptr target="III/13#1245" type="page"/>
+                        <ptr target="III/13#1250" type="page"/>
+                        <ptr target="III/13#1252" type="page"/>
+                        <ptr target="III/13#1270" type="page"/>
+                        <ptr target="III/13#1271" type="page"/>
+                        <ptr target="III/13#1283" type="page"/>
+                        <ptr target="III/13#1300" type="page"/>
+                        <ptr target="III/13#1302" type="page"/>
+                        <ptr target="III/13#1303" type="page"/>
+                        <ptr target="III/13#1305" type="page"/>
+                        <ptr target="III/13#1310" type="page"/>
+                        <ptr target="III/13#1312" type="page"/>
+                        <ptr target="III/13#1316" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002418">
+                    <idno type="mega">1014374</idno>
+                    <persName type="reg">
+                        <surname>Jung</surname>
+                        <forename>Rudolf Christian</forename>
+                    </persName>
+                    <note>deutscher Kaufmann, betrieb ein Geschäft in Paris</note>
+                    <linkGrp>
+                        <ptr target="III/9#63" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="ed_kyz_h2t_sy">
+                    <idno type="mega">1030806</idno>
+                    <persName type="reg">
+                        <surname>Jung</surname>
+                        <forename>Sarah</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ehefrau von Hermann Francis Jung</note>
+                    <linkGrp>
+                        <ptr target="III/13#593" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002416">
+                    <idno typ="uri">http://d-nb.info/gnd/117234478</idno>
+                    <idno type="mega">1014369</idno>
+                    <persName type="reg">
+                        <surname>Jung</surname>
+                        <forename>Georg Gottlob</forename>
+                    </persName>
+                    <birth>1814</birth>
+                    <death>1886</death>
+                    <note>deutscher Jurist, Politiker und Publizist; Mitgründer und Gerant der
+                        „Rheinischen Zeitung“ (Köln); Abgeordneter der preußischen
+                        Nationalversammlung(ein Führer der Linken); später Nationalliberaler ;
+                        deutscher Jurist und Publizist, Junghegelianer; Mitglied des preußischen
+                        Abgeordnetenhauses (1863–1876), Mitglied der Fortschrittspartei, seit 1866
+                        Nationalliberaler</note>
+                    <linkGrp>
+                        <ptr target="III/9#531" type="page"/>
+                        <ptr target="III/13#33" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002419">
+                    <idno type="mega">1014381</idno>
+                    <persName type="reg">
+                        <surname>Jungmann</surname>
+                        <forename>Eduard Julius</forename>
+                    </persName>
+                    <birth>1815</birth>
+                    <death>1862</death>
+                    <note>preußischer Artillerieoffizier, zeitweilig in türkischen und
+                        schleswig-holsteinischen Diensten</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000002420">
+                    <idno type="mega">1014393</idno>
+                    <persName type="reg">
+                        <name>Junot, Andoche, duc d’Abrantès</name>
+                    </persName>
+                    <birth>1771</birth>
+                    <death>1813</death>
+                    <note>französischer Militär und Diplomat; zwischen 1805 und 1811 mehrfach als
+                        Diplomat oder Truppenbefehlshaber auf der Iberischen Halbinsel</note>
+                    <linkGrp>
+                        <ptr target="IV/12#595" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="ed_tgz_vrp_fz">
+                    <persName type="reg">
+                        <surname>Jupiter-Scapin</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Spitzname des Dominique Dufour de Pradt für Napoleon Ier</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000010889">
+                    <idno type="mega">1014406</idno>
+                    <persName type="reg">
+                        <surname>Jurieu</surname>
+                        <forename>Pierre</forename>
+                    </persName>
+                    <birth>1637</birth>
+                    <death>1713</death>
+                    <note>französischer Pfarrer und protestantischer Theologe</note>
+                    <linkGrp>
+                        <ptr target="IV/12#550" type="page"/>
+                        <ptr target="IV/12#1299" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010890">
+                    <idno type="mega">1014410</idno>
+                    <persName type="reg">
+                        <surname>Justi</surname>
+                        <forename>Johann Heinrich Gottlob von</forename>
+                    </persName>
+                    <birth>1720</birth>
+                    <death>1771</death>
+                    <note>deutscher Schriftsteller, Kameralist, Bergrat</note>
+                    <linkGrp>
+                        <ptr target="I/31#983" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002421">
+                    <idno type="mega">1014422</idno>
+                    <persName type="reg">
+                        <surname>Juta</surname>
+                        <forename>Carel</forename><?oxy_comment_start author="lindenberg" timestamp="20170210T101551+0100" comment="lt. Wikipedia: Jan Carel Juta"?>
+                        <?oxy_comment_end?></persName>
+                    <birth>1824</birth>
+                    <death>1886</death>
+                    <note>holländischer Kaufmann, Buchhändler in Kapstadt, seit 1853 Ehemann von
+                        Marx’ Schwester Louise</note>
+                    <linkGrp>
+                        <ptr target="III/9#260" type="page"/>
+                        <ptr target="III/9#316" type="page"/>
+                        <ptr target="III/9#318" type="page"/>
+                        <ptr target="III/9#319" type="page"/>
+                        <ptr target="III/9#324" type="page"/>
+                        <ptr target="III/9#335" type="page"/>
+                        <ptr target="III/9#346" type="page"/>
+                        <ptr target="III/9#347" type="page"/>
+                        <ptr target="III/9#578" type="page"/>
+                        <ptr target="III/9#590" type="page"/>
+                        <ptr target="III/9#927" type="page"/>
+                        <ptr target="III/9#979" type="page"/>
+                        <ptr target="III/9#981" type="page"/>
+                        <ptr target="III/9#989" type="page"/>
+                        <ptr target="III/9#998" type="page"/>
+                        <ptr target="III/9#1015" type="page"/>
+                        <ptr target="III/9#1017" type="page"/>
+                        <ptr target="III/9#1018" type="page"/>
+                        <ptr target="III/10#10" type="page"/>
+                        <ptr target="III/10#14" type="page"/>
+                        <ptr target="III/10#21" type="page"/>
+                        <ptr target="III/10#23" type="page"/>
+                        <ptr target="III/10#41" type="page"/>
+                        <ptr target="III/10#649" type="page"/>
+                        <ptr target="III/10#654" type="page"/>
+                        <ptr target="III/10#662" type="page"/>
+                        <ptr target="III/10#664" type="page"/>
+                        <ptr target="III/10#680" type="page"/>
+                        <ptr target="III/11#288" type="page"/>
+                        <ptr target="III/11#1022" type="page"/>
+                        <ptr target="III/13#303" type="page"/>
+                        <ptr target="III/13#311" type="page"/>
+                        <ptr target="III/13#581" type="page"/>
+                        <ptr target="III/13#674" type="page"/>
+                        <ptr target="III/13#996" type="page"/>
+                        <ptr target="III/13#1005" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002422">
+                    <idno type="mega">1014419</idno>
+                    <persName type="reg">
+                        <surname>Juta</surname>
+                        <forename>Carl</forename>
+                    </persName>
+                    <birth>1855</birth>
+                    <death>1900</death>
+                    <note>Sohn von Carel und Louise Juta, Neffe von Marx</note>
+                    <linkGrp>
+                        <ptr target="III/9#346" type="page"/>
+                        <ptr target="III/9#1015" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002423">
+                    <idno type="mega">1014420</idno>
+                    <persName type="reg">
+                        <surname>Juta</surname>
+                        <forename>Emilie</forename>
+                    </persName>
+                    <note>Tochter von Carel und Louise Juta, Nichte von Marx</note>
+                    <linkGrp>
+                        <ptr target="III/9#346" type="page"/>
+                        <ptr target="III/9#1015" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002424">
+                    <idno type="mega">1014421</idno>
+                    <persName type="reg">
+                        <surname>Juta</surname>
+                        <forename>Henry Hubert</forename>
+                    </persName>
+                    <birth>1857</birth>
+                    <death>1930</death>
+                    <note>Sohn von Carel und Louise Juta, Neffe von Marx</note>
+                    <linkGrp>
+                        <ptr target="III/9#346" type="page"/>
+                        <ptr target="III/9#347" type="page"/>
+                        <ptr target="III/9#1015" type="page"/>
+                        <ptr target="III/9#1016" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="ed_ejj_ll1_1z">
+                    <persName type="reg">
+                        <surname>Juta</surname>
+                        <forename>Hubertus Johannes</forename>
+                        <?oxy_comment_start author="lindenberg" timestamp="20170221T170415+0100" comment="nach III-12"?></persName>
+                    <?oxy_comment_end?>
+                    <birth>1796</birth>
+                    <death>1870</death>
+                    <note>Gemeindekassierer in Zaltbommel, Vater von Carel Juta, Bevollmächtigter
+                        von Louise Juta</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000002425">
+                    <idno type="mega">1014424</idno>
+                    <persName type="reg">
+                        <name>Juta, Louise geb. Marx</name>
+                    </persName>
+                    <birth>1821</birth>
+                    <death>1893</death>
+                    <note>Schwester von Marx, Ehefrau von Carel Juta</note>
+                    <linkGrp>
+                        <ptr target="III/9#346" type="page"/>
+                        <ptr target="III/9#347" type="page"/>
+                        <ptr target="III/9#578" type="page"/>
+                        <ptr target="III/9#1015" type="page"/>
+                        <ptr target="III/9#1017" type="page"/>
+                        <ptr target="III/9#1018" type="page"/>
+                        <ptr target="III/11#288" type="page"/>
+                        <ptr target="III/11#1022" type="page"/>
+                        <ptr target="III/13#476" type="page"/>
+                        <ptr target="III/13#578" type="page"/>
+                        <ptr target="III/13#1180" type="page"/>
+                        <ptr target="III/13#1286" type="page"/>
+                        <ptr target="III/13#1290" type="page"/>
+                        <ptr target="III/13#1291" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002426">
+                    <idno type="mega">1014426</idno>
+                    <persName type="reg">
+                        <name>Juta, Maria geb. Offers</name>
+                    </persName>
+                    <birth>1792</birth>
+                    <death>1879</death>
+                    <note>Mutter von Carel Juta</note>
+                    <linkGrp>
+                        <ptr target="III/9#346" type="page"/>
+                        <ptr target="III/9#1015" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000010891">
+                    <idno type="mega">1014427</idno>
+                    <persName type="reg">
+                        <name>Juvenal</name>
+                    </persName>
+                    <note>Bischof von Jerusalem (422-458)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#21" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002412">
+                    <idno type="mega">1014303</idno>
+                    <persName type="reg">
+                        <surname>Juárez GarciaJuárez</surname>
+                        <forename>BenitoBenito Pablo</forename>
+                    </persName>
+                    <birth>1806</birth>
+                    <death>1872</death>
+                    <note>liberaler Reformer; mexikanischer Staatsmann; Führer der liberalen Partei
+                        während des Bürgerkriegs (1858–1860) und der französischen Intervention
+                        (1861–1867); Präsident der Republik Mexiko seit 1858</note>
+                    <linkGrp>
+                        <ptr target="III/11#715" type="page"/>
+                        <ptr target="III/13#390" type="page"/>
+                        <ptr target="III/13#1330" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002363">
+                    <idno type="mega">1013871</idno>
+                    <persName type="reg">
+                        <surname>Jáuregui</surname>
+                        <forename>Andrés</forename>
+                    </persName>
+                    <note>Abgeordneter der Cortes von Cádiz (1810–1813) für Kuba</note>
+                    <linkGrp>
+                        <ptr target="IV/12#497" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002365">
+                    <idno type="mega">1013873</idno>
+                    <persName type="reg">
+                        <surname>Jáuregui</surname>
+                        <forename>Manuel Francisco</forename>
+                    </persName>
+                    <note>spanischer Militär; 1821 militärisches und politisches Oberhaupt von
+                        Cádiz</note>
+                    <linkGrp>
+                        <ptr target="IV/12#471" type="page"/>
+                        <ptr target="IV/12#734" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002364">
+                    <idno type="mega">1013872</idno>
+                    <persName type="reg">
+                        <name>Jáuregui, Gaspar de genannt El Pastor</name>
+                    </persName>
+                    <birth>1791</birth>
+                    <death>1844</death>
+                    <note>spanischer Militär und liberaler Politiker; Guerillaführer im
+                        Unabhängigkeitskrieg (1808–1814)</note>
+                    <linkGrp>
+                        <ptr target="IV/12#408" type="page"/>
+                        <ptr target="IV/12#608" type="page"/>
+                        <ptr target="IV/12#800" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002345">
+                    <idno type="mega">1013745</idno>
+                    <persName type="reg">
+                        <surname>Jäger</surname>
+                        <forename>Eugen</forename>
+                    </persName>
+                    <birth>1842</birth>
+                    <death>1926</death>
+                    <note>deutscher Verleger und Publizist; Mitglied des Reichstags
+                        (1898–1918)</note>
+                    <linkGrp>
+                        <ptr target="II/14#710" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002346">
+                    <idno type="mega">1013754</idno>
+                    <persName type="reg">
+                        <surname>Jähns</surname>
+                        <forename>Maximilian</forename>
+                    </persName>
+                    <birth>1837</birth>
+                    <death>1900</death>
+                    <note>preußischer Offizier und Militärschriftsteller</note>
+                </person>
+                <person xml:id="pdrPo.001.004.000002378">
+                    <idno type="mega">1014027</idno>
+                    <persName type="reg">
+                        <name>Jócano</name>
+                    </persName>
+                    <note>spanischer Politiker</note>
+                    <linkGrp>
+                        <ptr target="IV/12#660" type="page"/>
+                    </linkGrp>
+                </person>
+                <person xml:id="pdrPo.001.004.000002366">
+                    <idno type="mega">1013929</idno>
+                    <persName type="reg">
+                        <surname>Jędrzejowski</surname>
+                        <forename>Bolesław Antoni</forename>
+                    </persName>
+                    <birth>1867</birth>
+                    <death>1914</death>
+                    <note>polnischer Publizist und Politiker; emigrierte 1891 nach London ;
+                        Redakteur des „Przedświt“</note>
+                    <linkGrp>
+                        <ptr target="II/14#1020" type="page"/>
+                    </linkGrp>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

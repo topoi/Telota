@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00194" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>188</idno>Sigismund Ludwig Borkheim an Karl Marx in
+                                        London. London, Dienstag, 13. November 1866</title>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                                        veröffentlicht.</edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>IISG</institution>
+                                                <collection>Marx-Engels-Nachlass</collection>
+                                                <idno><idno type="shelfmark">D 442/D I 112
+                                                  Fotosign.&#160;9665.</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Bogen mittelstarkem,
+                                                  weißem Papier im Format
+                                                  257&#160;×&#160;203&#160;mm. Wasserzeichen: „I
+                                                  &amp; F H 1866“. Aufdruck der Firma „Schröder
+                                                  &amp; Schyler &amp; C<hi rendition="#sup">o</hi>“
+                                                  auf der ersten Seite links oben (siehe
+                                                  {{Br.&#160;4}}). Die erste Seite hat Borkheim
+                                                  vollständig beschrieben, die übrigen drei sind
+                                                  leer. Schreibmaterial: schwarze Tinte.
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(((nSchröder
+                                                  &amp; Schyler &amp; C<hi rendition="#sup">o</hi>)))<?oxy_custom_end?><?oxy_comment_start author="lindenberg" timestamp="20170418T160559+0200" comment="(((nSchröder &amp; Schyler &amp; Co))) Noch mit dem Register verbinen"?>
+                                                  <?oxy_comment_end?></p>
+                                        </physDesc>
+                                </msDesc>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName>
+                                        <placeName>London</placeName>
+                                        <date when="1866-11-13"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName>London</placeName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:40:11Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingAct">
+                                <opener><dateline sameAs="MBDatumszeile"><pb/>
+                                                <hi rendition="#i">6<hi rendition="#mPrint">5,
+                                                  Fenchurch Street, E.C.&#160;</hi></hi></dateline><dateline sameAs="MBDatumszeile"><hi rendition="#i"><hi rendition="#mPrint">London,</hi></hi> 13 Nov
+                                                1866</dateline><salute sameAs="MBAnrede">Lieber Marx, </salute></opener>
+                                <p sameAs="MBTextohneEinzug">Ich lade Sie ein, Donnerstag den 22sten
+                                        d.M. 6.30 p.m. bei mir zu speisen. Sie werden den
+                                        Generalkonsul in St. Francisco, Herrn <persName key="ed_ykf_pvh_yx">W<hi rendition="#sup">m</hi>
+                                                Booker</persName> antreffen, eine diplomatische
+                                        Person, der Sie <seg type="comment"><orig>als
+                                                  Urquhartite</orig><note xml:id="f39420ad-e431-4734-a066-7428c60f8438">Marx
+                                                  und Engels schätzten die Aktivitäten <persName key="pdrPo.001.004.000004861">David
+                                                  Urquharts</persName>  in erster Linie unter dem
+                                                  Aspekt seiner Kritik der britischen
+                                                  Russlandpolitik. Marx publizierte dazu auch in
+                                                  urquhartistischen Presseorganen. (Siehe dazu
+                                                  MEGA²&#160;I/12. S._984/985.)</note></seg> dem
+                                        Namen nach bekannt sind.</p>
+                                <closer sameAs="MBUnterschrift">Der Ihrige<lb/>S. Borkheim.</closer>
+                                <p sameAs="MBAdresse">D<hi rendition="#sup">r</hi> C. Marx<lb/>2.
+                                        Modena Villas<lb/>Maitland Park<lb/>Haverstock Hill </p>
+                        </div>
+                </body>
+        </text>
+</TEI>

@@ -1,0 +1,349 @@
+/* Briefheader */
+
+p#nachweis {
+    font-size: 0.8em;
+    margin: 0 0 0.5em 0;
+}
+
+p#beilage-info {
+    font-size: 0.8em;
+}
+
+/* Lediglich erschlossene Briefe */
+div.erschlossen {
+    position: relative;
+    font-style: italic;
+}
+
+div.erschlossen span.fussnotenpfeil {
+    display: block;
+    position: absolute;
+    top: -12px;
+    left: 0;
+    height: 50px;
+    width: 80px;
+    background: url('../images/brieffussnote_bg.png') top left no-repeat;
+}
+
+div.erschlossen span.label {
+    font-weight: bold;
+}
+
+/* Hinweis zum erschlossenen Brief in Briefübersicht */
+p.erschlossen {
+    font-style: italic;
+}
+
+/* Struktur */
+
+div.transkription ul {
+    list-style-type: disc;
+    margin: 1em 0 1em 2em;  
+}
+
+div.transkription ol {
+    list-style-type: decimal;
+    margin: 1em 0 1em 2em;  
+}
+
+
+
+/* Folioangaben */
+
+div#content span.folio {
+    display: block;
+    position: absolute;
+    left: -2em;
+    width: 2em;
+    margin-top: -1.6em;
+    padding: 0.1em 0 0.1em 0.3em;
+    font-size: 0.8em;
+    background-color: white;
+}
+
+div#content span.folio a,
+div#content p.folio a {
+    color: black;
+}
+
+div#content p.folio {
+    width: 2em;
+    margin-top: 2.5em;
+    margin-bottom: -6em;
+    margin-left: -1.5em;
+    padding: 0.1em 0 0.1em 0.3em;
+    font-size: 0.8em;
+    background-color: white;
+}
+
+div#content span.folio.druck a {
+    font-style: italic;
+    color: gray;
+}
+
+div#content p.folio a.facs {
+    line-height: 0.9;
+    font-family: FontAwesome;
+    font-size: 2.5em;
+    color: #AC4D00;
+}
+
+/* Sachanmerkungen */
+
+ .transkription span.fussnote {
+    display: none;
+}
+
+span.fussnote a.close {
+    cursor: pointer;
+    font-style: normal;
+    display: block;
+    margin-top: 1em;
+    text-align: right;
+
+}
+
+span.tooltip {
+    text-decoration: none;
+    color: black;
+    cursor: help;
+    border-bottom: 1px dashed gray;
+/*   background-color: #e0e0e0;*/
+}
+
+span.tooltip:hover,
+span.tooltip.active {
+    background-color: #F7DFD9;
+}
+
+span.tooltip:hover span.tooltip,
+span.tooltip:active span.tooltip {
+    background-color: #F4EBE8;
+}
+
+span.tooltip:hover > span.fussnote,
+span.tooltip.active > span.fussnote {
+    display: block;
+    position: absolute;
+    right: -19.5em;
+    width: 17em; 
+    min-height: 1.3em;
+    margin: -1.5em 0 0 4em;
+    padding: 0.5em;
+    color: black;
+    background-color: white;
+    font-size: .8em;
+    text-decoration: none;
+    z-index: 1000;
+    cursor: auto;
+    font-family: PTSans, Frutiger, "Frutiger Linotype", Univers, Corbel, "DejaVu Sans Condensed", "Liberation Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-variant: normal;
+}
+
+span.fussnotenpfeil {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: -12px;
+    height: 50px;
+    width: 13px;
+    background: url('../images/fussnote_bg.png') top left no-repeat;
+}
+
+span.close {
+    position: relative;
+    display: block;
+    width: 1em;
+    color: gray;
+}
+
+span.tooltip:hover span.fussnote span.orig {
+    font-style: normal;
+    font-weight: bold;
+}
+
+/* Modifikationen für Sachanmerkungen im Tageskalender */
+
+div#tageskalender span.fussnote {
+    right: -17.5em;
+    width: 15em;
+}
+
+div#tageskalender div.tageskalenderLinks span.fussnote {
+    right: -36.5em;
+}
+
+/* Verweise */
+
+span.rs a.erschlossenerBrief,
+span.rs a.brief {
+    padding: 0 0 0 0.3em;
+    font-family: FontAwesome;
+    font-size: 1em;
+    color: gray;
+}
+
+div#content span.rs a:hover {
+    text-decoration: none;
+    color: #AC4D00;
+}
+
+span.rs a span {
+    display: none;    
+}
+
+/* Textbearbeitungen durch den Autor */
+
+th, td {
+    border: 1px dashed gray;
+    padding: 0.3em;
+}
+
+/* Disable Table Border in "Editorische Hinweise" /about */
+
+.about_page th, .about_page td {
+    border: 0;
+} 
+
+span.autorenfussnote {
+
+}
+
+span.autorenfussnote:before {
+    content: " (Anmerkung des Autors: ";
+}
+
+span.autorenfussnote:after {
+    content: ") ";
+}
+
+span.unterstrichen {
+    text-decoration: underline;
+}
+
+span.doppeltunterstrichen {
+    text-decoration: underline;
+    border-bottom: 1px solid #000;
+}
+
+span.hochgestellt {
+   position: relative;
+   vertical-align: baseline;
+   top: -0.4em;
+   font-size: 0.8em;
+}
+
+span.gestrichen {
+    text-decoration: line-through;
+}
+
+span.kursiv {
+    font-style: italic;
+}
+
+div#content div.transkription p.randstrich {
+    border-left: 3px solid #000;
+    margin-left: -9px;
+    padding-left: 6px;
+    margin-bottom: 0;
+    padding-bottom: 1em;
+    
+}
+
+span.del, span.sic {
+    text-decoration: line-through;
+    color: RGB(145, 46, 46);
+}
+
+em.editorergaenzung {
+    border-bottom: 2px dotted rgb(0, 0, 0);
+    font-style: normal;
+}
+
+span.add.tooltip, span.corr, span.add {
+    color: #216B11;
+    border-bottom: none;
+}
+
+span.add.tooltip:hover,
+span.add.tooltip.active{
+    background-color: #EEF4ED; 
+}
+
+span.add:hover span.fussnote,
+span.add.active span.fussnote {
+    background-color: silver;
+}
+
+span.add:hover span.fussnotenpfeil,
+span.add.active span.fussnotenpfeil {
+    background: url('../images/fussnote_bg_silver.png') top left no-repeat;
+}
+
+/* für @place-Fussnoten in Sachanmerkungen */
+span.add span.tooltip span.fussnote,
+span.tooltip span.add span.fussnote {
+    margin-top: -5em;
+    z-index: 100000;
+}
+
+span.add:hover span.tooltip span.fussnote,
+span.tooltip:hover span.add span.fussnote {
+    display: none;
+}
+
+span.add:hover span.tooltip:hover span.fussnote,
+span.tooltip:hover span.add:hover span.fussnote {
+    display: block;
+}
+
+span.add:hover span.tooltip span.fussnote {
+    background-color: white;
+}
+
+span.add:hover span.tooltip span.fussnotenpfeil {
+    background: url('../images/fussnote_bg.png') top left no-repeat;
+}
+
+/* Textbearbeitungen durch den Herausgeber */
+
+span.unclear {
+    color: #5F5F5F;
+}
+
+span.unclear span.symbol {
+    font-style: italic;
+    color: #5F5F5F;
+}
+
+span.choice span.ed_sic, span.supplied, span.corr {
+    font-style: normal;
+    font-family: PTSans, Frutiger, "Frutiger Linotype", Univers, Corbel, "DejaVu Sans Condensed", "Liberation Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: .9em;
+}
+
+span.surplus {
+    color: #5F5F5F;
+    text-decoration: line-through;
+}
+
+span.sic span.symbol {
+    text-decoration: none;
+}
+
+span.quote {
+    font-style: normal;
+}
+
+/* Sonstiges */
+
+.filepath {
+    font-family: PTSans;
+    font-size: 0.8em;
+    color: #5F5F5F;
+}
+
+.mPrint {
+    font-variant: small-caps;
+    font-size: 1.1em;
+}

@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00124" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>120</idno>Friedrich Engels an Karl Marx in London. Manchester, Montag, 11. Juni 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1613/D III 384</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format 273&#160;×&#160;223&#160;mm.
+                            Engels hat die erste und vierte Seite vollständig beschrieben, die
+                            zweite und dritte sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von Eduard
+                            <?oxy_comment_start author="strauss" timestamp="20170615T124636+0200" comment="(((nBernstein,Ed.)))"?>Bernsteins<?oxy_comment_end?>
+                            Hand: Nummerierung des Briefes bzw. der beschriebenen Seiten:
+                            „312,1“bzw. „312,2“ und „31,1“ bzw. „31,2“ (gestrichen). Eine Streichung
+                            („“ bis „“). Redaktionelle Vermerke.</p><p>Von Heinrich
+                            <?oxy_comment_start author="strauss" timestamp="20170615T124708+0200" comment="(((nDietz,H.)))"?>Dietz’<?oxy_comment_end?>
+                            Hand: Nummerierung des Briefes: „851“ (gestrichen).</p><p>Von unbekannter Hand: Vermerk mit Bleistift „Vierling“ auf der ersten Seite oben links,
+                            Anstreichungen („“ und „“Z.&#160;49–52 und 64–67) auf der zweiten
+                            Seite.</p><p>Engels beantwortet Marx' Brief vom 9.&#160;Juni 1866 (Marx an Engels, 9.6.1866). Marx antwortete
+                            ihm am 20.&#160;Juni 1866 (Marx an Engels, 20.6.1866).</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1973</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: gekürzt: Bw&#160;3 (1913). S.&#160;325–327</bibl>.</witness><witness><bibl>vollständig: MEGA<hi rendition="#sup">1</hi> III/3 (1930). S.&#160;339/340.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1866-06-11"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:30Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Manchr 11 Juni 1866</dateline><salute sameAs="MBAnrede">Lieber Mohr</salute></opener><p sameAs="MBTextohneEinzug"><anchor type="verweisziel" xml:id="start_mdt_z5m_qz"/>Die Kiste
+                    Bordeaux geht heute Abend an Dich ab. Es ist sehr guter Wein vom <persName key="pdrPo.001.004.000000542">Borkheim</persName><anchor type="verweisziel" xml:id="stop_mdt_z5m_qz"/>. Ich hätte ihn Dir früher geschickt aber die
+                    Jungen hier haben es theilweise wegen Überbeschäftigung verbummelt. Die Adresse
+                    hatten sie längst von mir fertig geschrieben in der Hand. Hoffentlich wird der,
+                    &amp; regelmäßige Bewegung Dir gut thun. <seg type="comment"><orig>Was meinst Du
+                            wenn Du auf eine 8&#160;Tage herkämst, meinetwegen Ende ds, &amp; dann
+                            gleich mit dem Gelde in den ersten Tagen Juli wieder nach Hause
+                            könntest? Dabei könntest Du <persName key="pdrPo.001.004.000001969">Gumpert</persName> einmal gründlich konsultiren.</orig><note xml:id="f23ac8f1-92ba-44d3-b14d-c27c9202ba3f">Siehe dazu <ref target="B00128/#start_wvp_lzl_qz">Marx an Engels,
+                                20.6.<?oxy_comment_start author="reichhoff" timestamp="20170421T125648+0200" comment="{{Br. 124.5–9}}"?>1866<?oxy_comment_end?></ref>.
+                        </note></seg></p><p sameAs="MBTextmitEinzug">Wir sind hier an der Bankfallirerei noch so eben ohne Schaden
+                    vorbeigekommen. <seg type="comment"><orig><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><expan resp="editor" sameAs="dottet_underline"><persName key="pdrPo.001.004.000001214"><?oxy_custom_end?>Dr<ex>onke</ex></persName></expan> sagte mir
+                            selbst daß er bei <orgName key="ed_ag2_sxm_2z">Barnedt</orgName><?oxy_comment_start author="lindenberg" timestamp="20170407T113141+0200" comment="verlinkt Firmenregister
+Hoare Barnett &amp; Co./ 1664-1884"?>
+                            <?oxy_comment_end?> etwas drin sei, aber mehr durch die Nothwendigkeit
+                            seinen Banker zu wechseln, er habe dort £&#160;3000.– Credit gehabt –
+                            doch war er auch Actionär &amp; daran verliert er.</orig><note xml:id="a8857c18-eca8-467a-a756-cb190ef91cd5">Siehe <ref target="B00120/#start_uy4_v1m_qz">Marx an Engels,
+                                7.6.<?oxy_comment_start author="reichhoff" timestamp="20170421T130724+0200" comment="{{Br. 116.12–14}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    <seg type="comment"><orig><persName key="pdrPo.001.004.000001314">Eichhoff</persName> hat auch die Ehre gehabt daß sein Banker
+                            fallirt hat &amp; er mit £&#160;16.– in die Patsche gekommen. Der macht
+                            sich wenig daraus, wenn er einen fälligen Wechsel nicht bezahlen kann so
+                            läßt ers eben bleiben.</orig><note xml:id="a80c6914-5630-4831-97ad-a3d7d3c871ca">Siehe MEGA²&#160;III/13.
+                            Br.&#160;287.13–18 und Wilhelm Eichhoff an Engels, 16.&#160;März 1867
+                            (IISG, Marx-Engels-Nachlass, Sign._L_1342/L__III_204).
+                            (((lEichhoff,Wilhelm an Engels, 16.&#160;März 1867 (IISG,
+                            Marx-Engels-Nachlass, Sign._L_1342/L__III_204) ))) </note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Herr G.&#160;<persName key="pdrPo.001.004.000002501">Kinkel</persName> hat den Ruf nach
+                            Zürich nun schon jedes Jahr in Circulation gesetzt, sollten die Züricher
+                            in der That zuletzt wirklich dran glauben müssen?</orig><note xml:id="c2b4d681-c621-419c-9d6a-788a9903280f">Siehe <ref target="B00123/#start_ytj_tdm_qz">Marx an Engels,
+                                9.6.<?oxy_comment_start author="reichhoff" timestamp="20170421T132941+0200" comment="{{Br. 119.37}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p><p sameAs="MBTextmitEinzug">In Deutschland sieht es täglich revolutionärer aus. In Berlin &amp;
+                    Barmen ziehen die stillgesetzten Arbeiter in Haufen drohend durch die Straßen.
+                        <persName key="pdrPo.001.004.000001409">G.&#160;Ermen</persName> der Freitag
+                    wiederkam, erzählte mir er habe sich auf der Coblenzer Rheinbrücke mit einem
+                    x-beliebigen preuß. Lieutnant in Unterredung über den Krieg eingelassen, der
+                    Mann sei sehr zweifelhaft über den Ausfall der Sache gewesen, habe sowohl die
+                    Leute als die Führung der Östr. für besser als die preuß. anerkannt, &amp; auf
+                        <persName key="pdrPo.001.004.000001409">G.&#160;E.'s</persName> Frage: wie
+                    es gehen würde wenn die Preußen geklopft würden, geantwortet: Dann kriegen wir
+                    Revolution. Ein andrer Philister erzählte mir in Köln aus guter Quelle gehört zu
+                    haben daß die Landwehr compagnieweise unter die Linie vertheilt werden &amp; die
+                    Landwehrregimenter wieder mit Linie aufgefüllt werden sollten; der Befehl sei
+                    heraus. Jedenfalls muß <pb/> die Armee in einem Zustand sein, der einen Erfolg
+                    nur dann erwarten läßt wenn die Östreicher <hi rendition="#u">zuerst</hi> über
+                    die Gränze rücken &amp; das scheinen sie diesmal platterdings nicht zu wollen.
+                    Aber auch die Preußen wollen eben deßwegen nicht los. So kann der Zustand sich
+                    noch eine 8&#160;Tage hinziehen bis die Situation so gespannt wird daß sie
+                    reißt.</p><p sameAs="MBTextmitEinzug">Wunderschön ist die geschichtliche Ironie die sich an dem <persName key="pdrPo.001.004.000000441">Bismark</persName> abspielt. In demselben Augenblick wo er liberale Phrasen macht, muß er absolutistische Handlungen begehn. Er wird in einem Athemzuge die deutsche Reichsverfassung proclamiren &amp; die preußische Verfassung suspendiren (die Ordonnanzen sind schon fertig). Gute Idee, den <persName key="pdrPo.001.004.000003392">Bonaparte</persName> gegen die Bürger spielen wollen mit den Junkern hinter sich statt der Bauern!</p><p sameAs="MBTextmitEinzug">Die Landwehr wird in diesem Krieg den Preußen ebenso gefährlich wie 1806
+                    die Polen, die auch über ⅓ der Armee ausmachten, &amp; die ganze Geschichte
+                    schon vor der Schlacht desorganisirten. Nur daß die Landwehr, statt zu
+                    debandiren, rebelliren wird nach der Niederlage.</p><p sameAs="MBTextmitEinzug">Das ganze linke Rheinufer ist von Truppen entblößt, in Luxemburg stehn
+                    nur 2&#160;Landwehrregimenter &amp; die Festung soll im Stillen schon ausgeräumt
+                    werden; in Saarlouis steht bloß ein noch nicht vollständiges Landwehrbataillon.
+                    Von der<persName key="pdrPo.001.004.000002166">
+                        <?oxy_comment_start author="lindenberg" timestamp="20161223T155114+0100" comment="verlinkt zu  August Freiherr von der Heydt "?>Heydt<?oxy_comment_end?></persName>
+                    <del> &amp; Op <sic ana="#break-off"/></del> soll durch <persName key="pdrPo.001.004.000003535"><?oxy_comment_start author="lindenberg" timestamp="20161223T154813+0100" comment="verlinkt zu Oppenheim, Abraham
+
+{{{Der Kölner Bankier Abraham Freiherr von Oppenheim (1804-1878), dem mit seinem Bruder Simon Freiherr von Oppenheim (1803-1880) das Kölner Bankhaus Salomon Oppenheim gehörte}}}
+"?>Oppenheim<?oxy_comment_end?></persName>
+                    den Handel wegen der Saarbrücker Kohlenwerke <add>&amp; Staatsbahn</add> fertig
+                    bringen damit sie Geld bekommen, auch soll die westfäl. Staatsbahn an die
+                    bergisch märkische Bahn verkauft werden. <seg type="comment"><orig>Die
+                            Darlehnskassenscheine sind von der pr. Bank dem Staat auf seine <hi rendition="#u">Köln Mindener Actien</hi> vorgeschossen worden,
+                            weiter hatte die Sache keinen Zweck. Dabei stecken die Berliner
+                            Banquiers alle mit der Regierung zusammen.</orig><note xml:id="fcf0ff3a-da5f-4bcf-9b51-b6d7e6ae0674">Siehe <ref target="B00003/#nspz_432_xx">Erl. zu Engels an Marx,
+                                4.1.<?oxy_comment_start author="reichhoff" timestamp="20170512T151021+0200" comment="{{Erl. 2h}}"?>1866<?oxy_comment_end?>.</ref></note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Ich glaube in 14&#160;Tagen geht es in Preußen los.</orig><note xml:id="f7efce9d-3e24-4d01-96e1-88379dea3acd">
+                            <p rend="endnote text">Zu Marx’ und Engels’ Einschätzung des kommenden
+                                Krieges zwischen Preußen und Österreich siehe ihren Briefwechsel von
+                                April bis Juni 1866 (ab <ref target="B00081">Engels an Marx,
+                                    2.4.<?oxy_comment_start author="reichhoff" timestamp="20170403T181902+0200" comment="{{Br. 78}}"?>1866<?oxy_comment_end?></ref>).
+                                - Der Zentralrat der IAA erörterte sein Verhältnis zum Krieg in den
+                                Sitzungen am 19. und 26.&#160;Juni (siehe The_Minute Book 1864–1866.
+                                In: MEGA²&#160;I/20. S.&#160;424 und 427/428) sowie am 3. und
+                                17.&#160;Juli 1866 (ebenda. S.&#160;429/430 und 435). (((lThe_Minute
+                                Book 1864–1866. In: MEGA²&#160;I/20. S._265–450))) Marx nahm an
+                                diesen Sitzungen teil. - Engels brachte seine Position zum Krieg in
+                                der fünfteiligen Artikelserie „Notes on the war in Germany“ zum
+                                Ausdruck, anonym veröffentlicht in „The Manchester Guardian“
+                                (((zThe_Manchester Guardian))) zwischen 20.&#160;Juni und
+                                6.&#160;Juli 1866 (MEGA²&#160;I/20. S.&#160;206–223 und 1205). Siehe
+                                auch <ref target="B00125/#fea1b6e7-864d-4c78-ab8c-74c4578f26b2">Erl. zu
+                                    H. Morrell Acton an Engels,
+                                    18.6.<?oxy_comment_start author="reichhoff" timestamp="20170512T151456+0200" comment="{{Erl. 121a}}"?>1866<?oxy_comment_end?>.</ref>
+                                (((lEngels,Friedrich: Notes on the War (1866). In: MEGA²&#160;I/20.
+                                S.&#160;206–223))) </p>
+                        </note></seg> Wenn diese Gelegenheit vorübergeht ohne benutzt zu werden, &amp; wenn die Leute sich dies gefallen lassen, dann können wir ruhig einpacken mit unsern <expan resp="editor" sameAs="dottet_underline">revolut<ex>ionären</ex></expan> Siebensachen &amp; uns auf die höhere Theorie werfen.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig><persName key="pdrPo.001.004.000004595">Stieber</persName> ist Feldpolizeichef, organisirt das „Complott
+                                <persName key="pdrPo.001.004.000000470">Blind</persName>“ &amp; hat
+                            zu diesem Zweck unsern Freund <persName key="pdrPo.001.004.000001893">Greif</persName> wieder nach London geschickt. Kann man ihn nicht
+                            durchkeilen lassen?</orig>
+                        <note xml:id="b5fa5313-7ac5-4495-88a8-f4c6b531d808">
+                            <p rend="endnote text">Bismarck hatte nach dem Anschlag auf seine Person
+                                (siehe <ref target="B00108/#ace7d864-4443-421f-86ed-39d0fe717f07">Erl.
+                                    zu Engels an Marx,
+                                    9.5.<?oxy_comment_start author="reichhoff" timestamp="20170512T151652+0200" comment="{{Erl._104c}}"?>1866<?oxy_comment_end?></ref>)
+                                den an der Vorbereitung des Kölner Kommunistenprozesses (1852)
+                                maßgeblich beteiligten <persName key="pdrPo.001.004.000004595">Wilhelm Stieber</persName> vor Beginn des Deutschen Krieges aus
+                                dem einstweiligen Ruhestand wieder zurück in den Staatsdienst
+                                geholt, machte ihn zum Feldpolizeidirektor und übertrug ihm als
+                                Geheimen Regierungsrat von 1866 bis 1873 das
+                                „Central-Nachrichten-Bureau“ im Preußischen Staatsministerium, damit
+                                praktisch die Leitung der preußischen Geheimpolizei. (Siehe Haalck:
+                                Wilhelm Stieber. S.&#160;97–103; Schoeps: Agenten. S._71–104;
+                                Dokumente aus geheimen Archiven. Bd._5. S._154.) (((lHaalck,Jörgen:
+                                Wilhelm Stieber. In: Berliner Heimat. 1958. H. 3. S.&#160;97–103)))
+                                (((lSchoeps,Julius H.: Agenten, Spitzel, Flüchtlinge. Wilhelm
+                                Stieber und die demokratische Emigration in London. In:
+                                Schallenberger,Horst; Helmut Schrey_(Hg.): Im Gegenstrom. Für Helmut
+                                Hirsch zum Siebzigsten. Bielefeld_1977. S._761–104))) (((lDokumente
+                                aus geheimen Archiven. Bd._5. Die Polizeikonferenzen deutscher
+                                Staaten 1851–1866. Präliminardokumente, Protokolle und Anlagen.
+                                Weimar_1993 (Veröffentlichungen des Brandenburgischen
+                                Landeshauptarchivs Potsdam. Bd. _27) ))) - Der preußische
+                                Polizeibeamte <persName key="pdrPo.001.004.000001893">Carl
+                                    Greiff</persName> war schon 1851 als Agent nach London
+                                abgestellt worden, um Belastungsmaterial für den Kölner
+                                Kommunistenprozeß zu beschaffen. (Dokumente aus geheimen Archiven.
+                                Bd._5. S.&#160;65; Hundt: Geschichte des Bundes der Kommunisten.
+                                S.&#160;737, 743/744.) (((lDokumente aus geheimen Archiven. Bd. 5)))
+                                (((lHundt,Martin:_Geschichte des Bundes der Kommunisten))) </p>
+                        </note>
+                    </seg></p><p sameAs="MBTextmitEinzug">Beste Grüße.</p><closer sameAs="MBUnterschrift">Dein<lb/>F. E. </closer></div></body></text></TEI>

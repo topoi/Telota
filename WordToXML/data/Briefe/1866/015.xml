@@ -1,0 +1,295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00016" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>15</idno>Wilhelm Liebknecht an Karl Marx in London. Leipzig,
+                    Donnerstag, 18. Januar 1866</title>
+            </titleStmt>
+            <editionStmt>
+                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">f. 1 op. 5 d. 1630</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            286&#160;×&#160;222&#160;mm. Die ersten drei Seiten hat Liebknecht
+                            vollständig beschrieben, die vierte nur zu einem Drittel.
+                            Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von Liebknechts Hand: Anstreichung mit Tinte am linken Rand der dritten
+                            Seite.</p>
+                        <p>Von unbekannter Hand (vermutlich D. B. Rjazanov)
+                            <?oxy_comment_start author="lindenberg" timestamp="20170420T140827+0200" comment="(((nRjazanov,D.))) Noch mit Register verbinden"?>:<?oxy_comment_end?>
+                            auf der ersten Seite oben links mit Blaustift die Jahresangabe
+                            „1866“.</p>
+                        <p>Liebknecht beantwortet den Brief von Marx, geschrieben am 15.&#160;Januar
+                            1866 (Marx an W. Liebknecht, 15.1.1866).</p>
+                        <p>Die Beilage („the enclosed letter“) ist nicht überliefert. Siehe
+                            Erl.&#160;</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000002822">Wilhelm Liebknecht</persName>
+                    <placeName>Leipzig</placeName>
+                    <date when="1866-01-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:38:20Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener><dateline sameAs="MBDatumszeile"><pb/> 10 Bayrische Strasse.<lb/><seg type="comment"><orig>(<hi rendition="#u">Mark my new
+                                Adress!!</hi>)</orig><note xml:id="f1da8a7d-f6f2-44cb-8111-40835023990f">Diese Adresse avisiert
+                                    <persName key="pdrPo.001.004.000002822">Liebknecht</persName> in
+                                seinem Brief an Marx vom 26.&#160;Dezember 1865 (MEGA²&#160;III/13.
+                                Br.&#160;350.1–2). In Marx’ Notizbuch von Dezember 1864 bis Juni
+                                1870 ist die Adresse von fremder Hand (vermutlich Jenny Marx,
+                                Tochter) notiert worden (RGASPI, Sign. f.&#160;1, op.&#160;1,
+                                d.&#160;1797. [S.&#160;33] von hinten). (((lMarx:Notizbuch von
+                                Dezember 1864 bis Juni 1870 (RGASPI, Sign. f.&#160;1, op.&#160;1,
+                                d.&#160;1797).))) </note></seg><lb/>Jan. 18, 1866.</dateline><salute sameAs="MBAnrede">Dear Williams!</salute></opener>
+                <p sameAs="MBTextohneEinzug">I received<seg type="comment"><orig> your
+                            note</orig><note xml:id="nktc_hkw_ty">Siehe <ref target="B00011/#start_vtj_qcw_mz">Marx an W. Liebknecht,
+                                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170408T150538+0200" comment="{{Br. 10.13–19}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    yesterday, together with <seg type="comment"><orig>the Papers</orig><note xml:id="nurf_lkw_ty">“The Workmans Advocate” (London). (((zThe_Workmans
+                            Advocate))) </note></seg> and <seg type="comment"><orig>the
+                            Cards.</orig><note xml:id="nusc_nkw_ty">International Working Men’s
+                            Association. Member’s Annual Subscription Card [for 1866]. [London
+                            1865]. Siehe <ref target="B00011/#cb864592-8d8a-4a93-b073-8383b8d607bc">Erl. zu Marx an W. Liebknecht, 15.1.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170512T133056+0200" comment="{Erl. 10c}}."?></note><?oxy_comment_end?></seg></p>
+                <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_uxx_ctk_nz"/><anchor type="verweisziel" xml:id="start_kmz_c5k_nz"/><anchor type="verweisziel" xml:id="start_gp1_hky_nz"/>To morrow I have a private
+                    interview with <seg type="comment"><orig>the President of the
+                            “Arbeiterbildungsverein”</orig><note xml:id="f5c87beb-8be4-4ce9-9a7d-b05ac8756b3d"><persName key="pdrPo.001.004.000000303">August Bebel</persName>; er war von
+                            1865-1872 Erster Vorsitzender des Arbeiterbildungsvereins in
+                            Leipzig.</note></seg> about the I.&#160;A. <seg type="comment"><orig>There is no doubt, we shall have a branch here before a fortnight
+                            is over,</orig><note xml:id="e418a193-b613-442d-9c63-c138bcb04639">Marx
+                            verlas den Brief <persName key="pdrPo.001.004.000002822">Liebknechts</persName> in der Sitzung des Zentralrats am
+                            23.&#160;Januar 1866 (The_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+                            S.&#160;381.7–9). (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+                            S._265–450))) </note></seg> but I hope <hi rendition="#u">more</hi> is
+                    to be done, and we shall be able to get a footing in the <hi rendition="#u">Central Committee</hi> of the German Arbeiterbildungsverein.<anchor type="verweisziel" xml:id="stop_kmz_c5k_nz"/>
+                    <anchor type="verweisziel" xml:id="stop_uxx_ctk_nz"/>(<persName key="pdrPo.001.004.000004342">Schulze’s</persName> creation!). In a few days
+                    I shall go to Berlin, and make arrangements; <hi rendition="#u">there</hi>
+                    everything is going splendidly.<anchor type="verweisziel" xml:id="stop_gp1_hky_nz"/></p>
+                <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_nf3_c3k_nz"/><anchor type="verweisziel" xml:id="start_yfb_trk_nz"/><seg type="comment"><orig>Did you receive a letter from Berlin</orig><note xml:id="naq1_1mc_5y">Der <ref target="B00011/#start_q4f_42l_nz">Brief
+                                von <persName key="pdrPo.001.004.000003187">Sigfrid Meyer</persName>
+                                an Marx, geschrieben vor dem 15. Januar 1866,</ref> ist nicht
+                            überliefert. Siehe <ref target="B00011/#start_q4f_42l_nz">Marx an W.
+                                Liebknecht,
+                                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170408T150832+0200" comment="{Br. 10.49–50}}"?>1866<?oxy_comment_end?></ref>.
+                            In seiner Antwort hatte Marx sechs Mitgliedskarten der IAA nach Berlin
+                            geschickt (siehe <ref target="B00011/#cb864592-8d8a-4a93-b073-8383b8d607bc">Erl. zu Marx
+                                an W. Liebknecht,
+                            15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170512T133130+0200" comment="{{Erl. 10c}}"?>)<?oxy_comment_end?>.
+                                <persName key="pdrPo.001.004.000002822">Liebknecht</persName> selbst
+                            hatte Marx und Engels mehrmals über einen Bedarf am „Manifest“
+                            (((l[Marx,Karl, Friedrich Engels:] Manifest der Kommunistischen Partei.
+                            London (1848) ))) in der deutschen Arbeiterbewegung geschrieben. Siehe
+                            MEGA²_III/13. Br. 206.54–60, Br._210.59–63 und Br._241.50–53).
+                            (((lMEGA²_III/13))) </note></seg> about <seg type="comment"><orig>the
+                            old “Manifest”?</orig><note xml:id="nm4z_zyc_5y">[Karl Marx, Friedrich
+                            Engels:] Manifest der Kommunistischen Partei. London (1848). Siehe <ref target="B00007">Marx an J. Ph. Becker, zwischen 9. und
+                                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170410T084509+0200" comment="Br. 6.13–20, 66–68}}"?>1866<?oxy_comment_end?></ref>.
+                            (((l[Marx,Karl, Friedrich Engels:] Manifest der Kommunistischen Partei.
+                            London (1848) ))) </note></seg>
+                    <persName key="ed_tb1_wmb_wy">Quenstedt</persName>, who emerges from his
+                    mysterious <seg type="comment"><orig><persName key="ed_vq1_1v1_wy">Mrs.&#160;Harris</persName>-State into stern reality,</orig><note xml:id="b68e793c-c402-4868-95f2-fe5224cf5d6e">Anspielung auf <persName key="ed_vq1_1v1_wy">Mrs. Harris</persName>, eine Gestalt aus
+                                <persName key="pdrPo.001.004.000001153">Charles Dickens</persName>
+                            Roman “The Life and Adventures of Martin Chuzzlewit”, (((lDickens:The
+                            Life and Adventures of Martin Chuzzlewit))) welche in Wirklichkeit nicht
+                            existiert und mit der eine andere Figur Scheindialoge
+                        führt.</note></seg>
+                    <seg type="comment"><orig>intends paying the greater part of the
+                            costs,</orig><note xml:id="b44fa070-2aed-48c2-9549-adc3cfe885c7"><persName key="pdrPo.001.004.000002822">Liebknechts</persName>
+                            Bekannter, der Jurist <persName key="ed_tb1_wmb_wy">Matthias
+                                Quenstedt</persName>, interessierte sich für die Ideen von Marx.
+                            (Siehe MEGA²&#160;III/12. Br.&#160;415.18–22 und MEGA²&#160;III/13.
+                            Br.&#160;206.54–61.) (((lMEGA²&#160;III/12))) (((lMEGA²&#160;III/13)))
+                        </note></seg>
+                    <expan resp="editor" sameAs="dottet_underline">Mey<ex>er</ex></expan> and other
+                    will defray the remainder. <anchor type="verweisziel" xml:id="stop_yfb_trk_nz"/>If you did <hi rendition="#u">not</hi> receive the letter, <seg type="comment"><orig><hi rendition="#u">write at once</hi>, whether you still give
+                            your permission for the reprinting,</orig><note xml:id="nchb_j4c_5y">Die
+                            direkte Bitte <persName key="pdrPo.001.004.000003187">Meyers</persName>
+                            , das „Manifest“ nachdrucken zu dürfen, ist nicht überliefert. Im Brief
+                            von <persName key="pdrPo.001.004.000003075">Jenny Marx</persName> an
+                            Meyer, geschrieben vermutlich am 29 Januar 1866, hat er die Genehmigung
+                            dazu erhalten (siehe <ref target="B00026/#start_wp3_nvw_mz">Jenny Marx
+                                an S. Meyer, vermutlich etwa
+                                29.1.<?oxy_comment_start author="reichhoff" timestamp="20170408T172755+0200" comment="{{Br. 25.12–14}}"?>1866<?oxy_comment_end?></ref>).
+                            - Die Broschüre erschien, etwa im Februar 1866, unter dem Titel: [Karl
+                            Marx, Friedrich Engels:] Manifest der Kommunistischen Partei.
+                            Veröffentlicht im Februar 1848. London. Neu herausgegeben durch Sigfrid
+                            Meyer. Im Selbstverlage (Druck von Gustav Muthschall in Berlin) 1866.
+                            (((l[Marx, Karl, Friedrich Engels:] Manifest der Kommunistischen Partei.
+                            Veröffentlicht im Februar 1848. London. Neu herausgegeben durch Sigfrid
+                            Meyer. (Berlin) 1866))) </note></seg> and whether you don’t wish to
+                    write a short Preface?<anchor type="verweisziel" xml:id="stop_nf3_c3k_nz"/></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Last Sunday</orig><note xml:id="d529924c-246d-4e5a-9e26-e15060dccec4">14.&#160;Januar
+                            1866.</note></seg>, <persName key="pdrPo.001.004.000002209">Hofstetten</persName>
+                    came to see me; at first I intended throwing him downstairs but he had such a
+                    rueful countenance, and said <seg type="comment"><orig>Pater peccavi</orig><note xml:id="nglw_1yc_5y">Vater, ich habe gesündigt (lat.). Die Bibel. Das Neue
+                                    Testament. Lukas 15,21. (((lDie Bibel))) </note></seg>
+                        in such a pitiful manner, that I could not stick to my purpose.
+                    He walked about my room for <hi rendition="#uu">6</hi> hours! and smoked <hi rendition="#uu">9</hi> cigars to the horror of my <persName key="pdrPo.001.004.000002819">wife</persName>, and only when he had put No.&#160;10
+                    into his mouth <seg type="comment"><orig>he mustered courage enough, to ask me,
+                            if there was <pb/> a chance of our writing again for the Social <bibl sameAs="zzSD">Democrat</bibl>. <hi rendition="#u">I gave him no
+                                hope</hi>.</orig><note xml:id="b173400b-1e37-4f42-870a-a93bc936bbf1">Seit der Gründung des
+                            Berliner „Social-Demokraten“ (((zDerSocial-Demokrat))), dessen erste
+                            Nummer am 15.&#160;Dezember 1864 erschienen war, hatten Marx, Engels
+                            sowie <persName key="pdrPo.001.004.000002822">Liebknecht</persName> und
+                            Gleichgesinnte an der Zeitung mitgearbeitet. Zum Bruch von Marx und
+                            Engels mit der Redaktion kam es schon im Februar 1865, nachdem in der
+                            Zeitung Artikel erschienen waren, die dem Ansehen der IAA schadeten. Am
+                            18.&#160;Februar 1865 kam es zur endgültigen Kündigung ihrer Mitarbeit.
+                            Siehe Karl Marx/Friedrich Engels: Erklärung. An die Redaktion des
+                            „Social-Demokraten“. In: MEGA²&#160;I/20. S.&#160;109 und 1045–1047
+                            sowie MEGA²&#160;III/13. Br.&#160;142. (((lMarx,Karl/Engels,Friedrich:
+                            Erklärung. An die Redaktion des „Social-Demokraten“. In:
+                            MEGA²&#160;I/20. S.&#160;109 und 1045–1047))) (((MEGA² III/13))))
+                            Liebknecht trat Anfang März 1865 aus der Redaktion des Blattes aus
+                            (siehe ebenda. Br.&#160;173).</note></seg></p>
+                <p>And yet,—might we not use the paper as a, so to say “officious” organ? <persName key="pdrPo.001.004.000002209">H<ex>ofstetten</ex></persName> would give <hi rendition="#u">any</hi> written declaration or bond, that might be required.
+                    I think the Soc. Dem. might do some service for the Int. Associat. and your name
+                    would not have to be mentioned in the affair. Of course, you know that it has
+                    broken off all connexion with <persName key="pdrPo.001.004.000000311"><hi rendition="#u">B.</hi> Becker</persName> (who calls himself a “dead
+                    lion”, being modest for the first time in his life, and forgetting that a living
+                    ass is worth more than a dead lion) and with the rotten remains of <persName key="pdrPo.001.004.000002711">Lassalle’s</persName> “glorious creation”. <hi rendition="#u">Tell me <hi rendition="#uu">immediately</hi> your opinion on
+                        this point</hi> so that I may act accordingly in Berlin.</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig><hi rendition="#u">Without our
+                                direct or indirect help</hi> the S.<bibl sameAs="zzSD">D. </bibl>
+                            must go to the dogs very soon, that <persName key="pdrPo.001.004.000002209">Hofst.</persName> told me himself.—He
+                            gave me <hi rendition="#u">proofs</hi>, that the paper is not <hi rendition="#u">now</hi> in the pay of the Government.—</orig><note xml:id="bc98c84f-4c03-4188-8ce6-8c659bd8a0e5">Siehe <ref target="B00036/#start_oss_jxw_mz">Marx an Engels,
+                                10.2.<?oxy_comment_start author="reichhoff" timestamp="20170408T173215+0200" comment="{{Br. 33.54–56}}"?>1866<?oxy_comment_end?>.</ref></note></seg></p>
+                <p sameAs="MBTextmitEinzug">As I am not quite sure, whether your letter will reach
+                    me <hi rendition="#u">here, I should advise you to send a </hi><hi rendition="#uu">second</hi><hi rendition="#u"> note (just containing the
+                        necessary hints about H. and without mentioning names) </hi><hi rendition="#uu">to <persName key="pdrPo.001.004.000003187">Sigfr.&#160;Meyer</persName></hi><hi rendition="#u">, 6
+                        Ritterstrasse</hi>
+                    <seg type="comment"><orig>(Ritterstr.)</orig><note xml:id="b83cde77-7857-4ada-b8b7-a5ebd24ade8d">Die Wiederholung
+                            „(Ritterstr.)“ in deutscher Schrift.</note></seg>
+                    <hi rendition="#u">Berlin</hi>, where I shall live.</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_udy_llq_pz"/>The Deutsche <bibl sameAs="zzDeutsches Wochenblatt">Wochenblatt</bibl> (of <persName key="pdrPo.001.004.000001300">Eckardt</persName>) has brought the
+                            Manifest of the Int. Ass. (last week)</orig><anchor type="verweisziel" xml:id="stop_udy_llq_pz"/><note xml:id="e418f926-2f84-48cf-8833-4dfe162019c0">[Karl Marx:] Ein
+                            englisches Arbeiter-Manifest, veröffentlicht von der voriges Jahr zu
+                            London zum ersten Male zusammengetretenen „working men’s international
+                            association“. In: Deutsches Wochenblatt. Mannheim. Nr.&#160;2,
+                            7.&#160;Januar 1866. S.&#160;12/13. (((l[Marx,Karl:]Ein englisches
+                            Arbeiter-Manifest, veröffentlicht von der voriges Jahr zu London zum
+                            ersten Male zusammengetretenen „working men’s international
+                            association“. In: Deutsches Wochenblatt. Mannheim. Nr.&#160;2,
+                            7.&#160;Januar 1866. S.&#160;12/13))) Die Übersetzung weist Abweichungen
+                            vom „Manifest an die arbeitende Klasse Europas“ (MEGA² I/20.
+                            S.&#160;16–25) auf, das Marx selbst aus dem Englischen übersetzt hatte.
+                            (Siehe ebenda. S.&#160;922/923 und 926/927.) (((l[Marx,Karl:]Manifest an
+                            die arbeitende Klasse Europas. In: MEGA²&#160;I/20. S.&#160;16–25))))
+                        </note></seg> and <seg type="comment"><orig>the “Coburger <bibl sameAs="zzCoburger Arbeiterzeitung">Arbeiterzeitung”</bibl> (once
+                                <persName key="pdrPo.001.004.000004342">Schulze’isch</persName>, but
+                            recovered lately) the <hi rendition="#u">Statutes</hi>.</orig><note xml:id="bb97b813-1d1b-4e19-bc39-eaab0481e69b">[Karl Marx:]
+                            Reglements-Entwurf der internationalen Arbeiterassociation. Section
+                            Genf. In: Allgemeine Deutsche Arbeiter-Zeitung. Coburg. Nr.&#160;159,
+                            14.&#160;Januar 1866. Beil. zu Nr.&#160;13 der Fliegenden Blätter für
+                            die deutschen Arbeiter. S.&#160;84 [896]; Nr.&#160;160, 21.&#160;Januar
+                            1866. S.&#160;902/903. (((lMarx, Karl:] Reglements-Entwurf der
+                            internationalen Arbeiterassociation. Section Genf. In: Allgemeine
+                            Deutsche Arbeiter-Zeitung. Coburg. Nr.&#160;159, 14.&#160;Januar 1866.
+                            Beil. zu Nr.&#160;13 der Fliegenden Blätter für die deutschen Arbeiter.
+                            S.&#160;84 [896]; Nr.&#160;160, 21.&#160;Januar 1866. S.&#160;902/903)))
+                        </note></seg> That looks well.</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>As for <persName key="pdrPo.001.004.000001300">Eckardt</persName> I have told you
+                            already, that he will take <hi rendition="#u">anything</hi> from you and
+                                <expan resp="editor" sameAs="dottet_underline">E<ex>ngels</ex></expan>,</orig><note xml:id="nqvl_jws_gy"><persName key="pdrPo.001.004.000002822">Liebknecht</persName> schrieb über das
+                            Angebot <persName key="pdrPo.001.004.000001300">Ludwig
+                                Eckardts</persName> Marx am 14.&#160;November 1865 (MEGA². III/13.
+                            Br.&#160;336.14–16). Zu Marx’ und Engels’ Reaktion darauf siehe ebenda.
+                            Br.&#160;341.26–30 und Br._345.7–10). Es ist auch nicht ausgeschlossen,
+                            dass Marx seine 1864 in London erschienene Broschüre „Address and
+                            Provisional Rules of the Working Men’s International Association“
+                            (((l[Marx,Karl:]_Address and Provisional Rules of the Working Men’s
+                            International Association [London]_1864))) <persName key="pdrPo.001.004.000001300">Eckardt</persName> geschickt hatte.
+                            (Siehe Eckert,Georg: Das „Deutsche Wochenblatt“ und die Internationale
+                            Arbeiter-Assoziation. S.&#160;582/583.) (((lEckert:_Das „Deutsche
+                            Wochenblatt“ und die Internationale Arbeiter-Assoziation.))) Am
+                            14.&#160;April 1866 erinnerte <persName key="pdrPo.001.004.000002822">Liebknecht</persName> Marx daran, dass das „Deutsche Wochenblatt“
+                            zur Verfügung von Marx und Engels stehe (<ref target="B00092/#start_wqg_zxw_mz">W. Liebknecht an Marx,
+                                14.4.<?oxy_comment_start author="reichhoff" timestamp="20170408T174731+0200" comment="{{Br. 89.68–71}}"?>1866<?oxy_comment_end?></ref>).
+                            (((zDeutsches_Wochenblatt))) </note></seg> and that he should be most
+                    happy if he were to get a good Review of <seg type="comment"><orig>your
+                            Economy,</orig><note xml:id="nadt_lws_gy">Gemeint ist hier Karl Marx:
+                            Das Kapital; siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx
+                                an J. Ph. Becker, zwischen 9. und 15.1.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170512T133202+0200" comment="{{Erl. 6b}}."?>
+                            <?oxy_comment_end?>(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))</note></seg>
+                    which—Heaven be praised—seems to be forthcoming at last.</p>
+                <p sameAs="MBTextmitEinzug" rendition="#mMM">Is
+                        <?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?><seg type="comment"><orig><?oxy_custom_end?><persName key="pdrPo.001.004.000001706"><hi rendition="#u">Gammage</hi>’s</persName> History of Chartism</orig><note xml:id="cd6d4133-4632-4fab-aaf2-0103391482af">R[obert] G[eorge] Gammage:
+                            The History of the Chartist Movement. From its Commencement down to the
+                            present Time. Pt.&#160;1. London [u._a.] 1854. (((lGammage, R[obert]
+                            G[eorge]: The History of the Chartist Movement. From its Commencement
+                            down to the present Time. Pt.&#160;1. London [u._a.] 1854.)))
+                        </note></seg> tolerable?</p>
+                <p sameAs="MBTextmitEinzug" rendition="#mMM">Do you know <seg type="comment"><orig><persName key="pdrPo.001.004.000004197">Sargent’s</persName>
+                            “Rob. Owen and his Social Philosophy”, Smith and Elder 1865?</orig>
+                        <note xml:id="ada3025d-704f-4ed9-b47b-d5ca28bfcb50">
+                            <p rend="endnote text">William Lucas Sargant: Robert Owen, and his
+                                social Philosophy. London 1860. (((Sargant, William Lucas: Robert
+                                Owen, and his social Philosophy. London 1860.))) - <persName key="pdrPo.001.004.000002822">Liebknecht</persName> wiederholt
+                                hier die Frage nach zwei Büchern, die er Marx bereits im Dezember
+                                1865 gestellt hatte. (Siehe MEGA²&#160;III/13. Br.&#160;350.28–32.)
+                            </p>
+                        </note>
+                    </seg></p>
+                <p rend="MBTextOhneEinzug">Apropos,—if it were possible at all, that the Workman’s
+                        <bibl sameAs="zzThe Workman’s Advocate">Adv.</bibl> could pay anything, <hi rendition="#u">be it ever so little</hi>, I should be very glad, as I am
+                    sadly in want of funds. <seg type="comment"><orig>My lexicographic Scheme has
+                            ended in smoke,</orig><note xml:id="d7dda3f9-cba6-429e-a975-78d3f58f3d20"><persName key="pdrPo.001.004.000002822">Liebknecht</persName> hatte gehofft,
+                            in Leipzig eine Stelle als Lexikograph zu bekommen. Siehe ebenda.
+                            Br.&#160;350.20–27 und Br._351.40–45).</note></seg> the bookseller that
+                    was to undertake the work, withdrew; and I am not sorry, for I should have had
+                    to work from morning to night.</p>
+                <p sameAs="MBTextmitEinzug">We are pretty well; unfortunately we have lost our
+                    servant, and so I have to be maid for all work till the new girl comes. Our new
+                    lodging is very nice. I repeat the Adr. 10 Bayrische Strasse.</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>In a few days you will get the
+                            first <pb/> volume of a sensation-novel: Jefferson Davis, written by
+                                <persName key="ed_ptw_dzb_wy">a friend of
+                            mine</persName>,</orig><note xml:id="c371b0f6-fef0-4d34-9d17-9a99ed47e2de">Bernhard Heßlein:
+                            Jefferson Davis. Social-politischer Roman aus dem amerikanischen
+                            Bürgerkriege. Theil_1–3. Leipzig_1866/1867.) (((lHeßlein,Bernhard:
+                            Jefferson Davis. Social-politischer Roman aus dem amerikanischen
+                            Bürgerkriege. Theil_1–3. Leipzig_1866/1867))) </note></seg> who would
+                    like to see it mentioned in some paper. I do what I am asked to do, and <hi rendition="#u">you</hi> do what you like. <persName key="pdrPo.001.004.000001296">Eccarius</persName> might bring a <hi rendition="#u">line</hi> about it; tell it him and send him the enclosed
+                    letter, <hi rendition="#u">but don’t forget to write the adress on it.</hi> (I
+                    shall write for the <seg type="comment"><orig>W.A.</orig><note xml:id="c9e9378c-89d3-4e5f-9f79-82ff619ce2ca">„The Workman’s Advocate“
+                            (London). (((zThe_Workman’s_Advocate))) </note></seg> whether it pays or
+                    not.)</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>My wife</orig><note xml:id="f6c9f007-003f-4eb4-b231-aaf716363a03"><persName key="pdrPo.001.004.000002819">Ernestine Liebknecht</persName>.
+                        </note></seg> begs to be kindly remembered to the whole house Williams, and
+                    so does your</p>
+                <closer sameAs="MBUnterschrift"><signed>J. Miller. </signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

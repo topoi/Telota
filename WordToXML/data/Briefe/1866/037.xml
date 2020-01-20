@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00040" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>37</idno>Karl Marx an Friedrich Engels in Manchester. London, Mittwoch,
+                    14. Februar 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 4439/L VI 572</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            225&#160;×&#160;179&#160;mm. Prägevignette „Extra Super“. Marx hat die
+                            erste Seite vollständig beschrieben, die übrigen drei sind leer.
+                            Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von Eduard <persName key="Bernstein">Bernsteins</persName> Hand:
+                            Nummerierung des Briefes: „5“.</p>
+                        <p>Marx beantwortet einen nicht überlieferten Brief von Engels, geschrieben
+                            am 13. oder 14.&#160;Februar 1866 („Herzlichsten Dank für ...“).</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 1937</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913).
+                        S.&#160;294/295.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                    <date when="1866-02-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName>Manchester</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:38:38Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener><dateline sameAs="MBDatumszeile"><pb/> 14 Febr. 1866</dateline><salute sameAs="MBAnrede">Lieber Fred,</salute></opener>
+                <p sameAs="MBTextohneEinzug">Herzlichsten Dank für die erste Hälfte der 50&#160;l.
+                    Note.</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_e3j_rc4_mz"/>Was den <persName key="ed_ts3_qm2_sy">„Wiener“</persName> angeht, so schrieb ich ihm Dir zu schreiben,
+                            long since.</orig><note xml:id="nxxz_dhz_5y">Zu Marx’ Briefwechsel mit
+                                <orgName key="ed_zmj_ltj_wx">Arnold Hilberg’s Verlag</orgName> siehe
+                                <ref target="B00002/#a132d1e9-b7e3-484b-91d0-adbdbc98a799">Erl. zu
+                                A. Hilberg's Verlag an Marx, 2.1.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170516T135114+0200" comment="{{Erl. 1ab}}."?>
+                            <?oxy_comment_end?>Sein Brief an Hilberg’s Verlag vom 15.&#160;Januar
+                            1866 ist nicht überliefert. Siehe <ref target="B00015">A. Hilberg’s
+                                Verlag an Marx,
+                                18.1.<?oxy_comment_start author="reichhoff" timestamp="20170411T113452+0200" comment="{{Br. 14.5–7}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                    Ich habe mich ihm zu allem willig erklärt, ausser daß ich nicht wisse, ob ich
+                    fähig, under present circumstances, Beitrag für <seg type="comment"><orig>die
+                            erste <bibl sameAs="zzInternationale Revue">Nummer</bibl>
+                        </orig><note xml:id="nlx5_x3z_5y">Internationale Revue. (((zInternationale
+                            Revue))) </note></seg>zu liefern.<anchor type="verweisziel" xml:id="stop_e3j_rc4_mz"/></p>
+                <p sameAs="MBTextmitEinzug">Der Karbunkelhund ist in Arbeit, doch hoffe ich ihn in
+                    ein paar Tagen los zu sein.</p>
+                <p sameAs="MBTextmitEinzug">In Preussen gehts toll zu. Doch die Geduld unsrer
+                    Freunde ist groß. Wenn <persName key="pdrPo.001.004.000000441">Bismarck</persName> sie nach Hause schickt, löst sich vor der Hand alles in
+                    Festessen u. <seg type="comment"><orig>Kappel-Klassenmann</orig><note xml:id="niws_3kz_5y"><persName key="pdrPo.001.004.000000915">Johann
+                                Classen-Kappelmann</persName>
+                        </note></seg> auf. Dagegen kann längres Sitzen der Kammer bös wirken.</p>
+                <closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u1}</hi>-->Salut<lb/>D<lb/>KM
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

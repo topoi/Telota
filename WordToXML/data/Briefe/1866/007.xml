@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00008" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>7</idno>César De Paepe an Karl Marx in London. Brüssel, Sonntag, 14. Januar 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 21 op. 1 d. 156/2</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt dünnem, weißem Papier im Format 137&#160;×&#160;212&#160;mm. De
+                            Paepe hat beide Seiten vollständig beschrieben. Schreibmaterial:
+                            schwarze Tinte.</p><p/><p>Die Beilage („le billet ci-inclus“) ist nicht überliefert.</p><p>Marx hat den Brief auf der Sitzung des Zentralrats der IAA am 23.&#160;Januar 1866 verlesen
+                            (The_Minute Book 1864–1866. In: MEGA²_I/20.S. 381.10–13). (((lThe_Minute
+                            Book 1864–1866. In: MEGA²_I/20. S._265–450)))</p></physDesc></msDesc><listWit><witness><bibl>Erstveröffentlichung: in russischer Übersetzung: Переписка С. Де Папа (1970).
+                            S.&#160;418–421</bibl>.</witness><witness><bibl>in der Sprache des Originals: Documents relatifs aux militants Belges de l’Association Internationale des Travailleurs (1986). S.&#160;25–28.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000001133">César De Paepe</persName><placeName>Brüssel</placeName><date when="1866-01-14"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction>
+                <note><?oxy_custom_start type="oxy_content_highlight" color="153,255,255"?>De Paepe
+                    beantwortet einen nicht überlieferten Brief von Marx, geschrieben am
+                    11.&#160;Januar 1866 („votre lettre“).<?oxy_custom_end?></note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:13Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> Bruxelles, le 14 Janvier, 66.</dateline>
+                    <salute sameAs="MBAnrede">Mon cher citoyen Marx,</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug">Je vois, par votre lettre du 11 Courant, que vous vous
+                    plaignez amèrement de <seg type="comment"><orig>n’avoir pas reçu de réponse à
+                            votre première lettre</orig><note xml:id="f7dc5727-ec28-4487-a04b-61ec95cf5132">Der Brief von Marx an
+                                <persName key="pdrPo.001.004.000001133">De Paepe</persName> ist
+                            nicht später als mit 21.&#160;November 1865 zu datieren
+                            (MEGA²&#160;III/13. Br.&#160;344). Die Antwort De Paepes, geschrieben
+                            zwischen 21.&#160;November 1865 und 11.&#160;Januar 1866, ist nicht
+                            überliefert.</note></seg> et que vous avez pris cela de mauvaise part.
+                    Croyez-le bien, citoyen, si je n’ai pas répondu immédiatement à votre 1<hi rendition="#sup">ère</hi> lettre, c’est tout bonnement parce que je ne
+                    pensais pas que cette réponse pressait, et parce que je me disais qu’il valait
+                    mieux retarder un peu cette réponse afin de pouvoir vous faire part du résultat
+                    de <seg type="comment"><orig>l’appel que nous devons adresser aux ouvriers
+                            belges et vous faire connaître le vote de la section belge</orig><note xml:id="c9d3cc7f-e6d3-4e91-a1f5-7ab3f51f9d1e">Die Section belge de
+                            l’A.I.T., gegründet im Juli 1865.</note></seg> sur diverses propositions
+                    à l’ordre du jour dans son sein. Je vous dirai ensuite, citoyen, que mes
+                    nombreuses occupations (car il faut savoir que <seg type="comment"><orig>j’ai
+                            entrepris de continuer mes études</orig><note xml:id="c5257e21-f020-425f-a284-8594ecded0a4">De Paepe studierte zuerst
+                            Jura, später Medizin und wurde 1872 Doktor der Medizin. Siehe <bibl sameAs="zotero-604880-K4ZPJRJ6" type="secondary">Documents relatifs
+                                aux militants belges.</bibl> S.&#160;25. (((lDocuments relatifs aux
+                            militants belges.)))</note></seg> tout en continuant à me mêler de
+                    typographie et même un peu de journalisme) que mes nombreuses occupations ont
+                    été pour beaucoup dans la détermination que j’avait prises de remettre à plus
+                    tard ma réponse à votre lettre. Veuillez donc m’excuser de ma négligence, ou
+                    même de mon manque de convenance.</p>
+                <p sameAs="MBTextmitEinzug">La section belge n’est donc pour rien dans tout cela,
+                    mon cher citoyen; et elle n’entend pas du tout avoir d’autre représentant que
+                    vous près du <seg type="comment"><orig>comité central,</orig><note xml:id="e1cfaa2b-c6b8-4a0a-bcd6-197e74cbe15e"> Siehe <ref target="B00007/#ndyw_svh_4y">Erl. zu Marx an J. Ph. Becker, zwischen
+                                9.u.15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170509T140916+0200" comment="{{Erl. 6d}}."?>
+                            <?oxy_comment_end?></note></seg> elle n’en veut pas d’autre que vous.
+                    Nous savons que vous êtes avant tout socialiste, qu’à vos yeux la politique pure
+                    n’est rien ou du moins est peu de chose en présence de l’importance de la
+                    question économique et sociale; nous savons que, comme nous, vous n’acceptez les
+                    demi-mesures, les demi-réformes, que comme des transitions, et que vous placez
+                    la solution de la question sociale dans l’extinction complète du parasitisme et
+                    du paupérisme, du bourgeoisisme et du prolétariat, dans la suppresssion de tous
+                    les prélèvements opérés par le capital et la propriété sur le travail, dans la
+                    grande association <pb/> agricole et industrielle, dans l’entrée du sol et des
+                    immeubles a la collectivité . Or, dans toutes ces questions, nous pensons comme
+                    vous (du moins la plupart d’entre nous); qui donc, mieux que vous, pourrait nous
+                    représenter? – <seg type="comment"><orig>Le citoyen <persName key="pdrPo.001.004.000002885">Longuet</persName> est un homme très
+                            estimable à nos yeux et pour moi personnellement c’est un ami (veuillez
+                            lui présenter mes salutations cordiales); mais la section belge ne voit
+                            pas du tout l’utilité qu’il y aurait de vous remplacer par le citoyen
+                                <persName key="pdrPo.001.004.000002885">Longuet</persName>, qui n’a
+                            fait en définitive qu’habiter la Belgique pendant quelque temps, tout
+                            comme vous. Nous désirons ardemment vous voir conserver vos fonctions de
+                            représentant de la section belge.</orig><note xml:id="e8b4ef72-3a37-42e3-b6c9-366d6303a710">Marx schlug am
+                            16.&#160;Januar 1866 vor, ihn von der Funktion als zeitweiligen
+                            Korrespondierenden Sekretär für Belgien zu entbinden und durch <persName key="pdrPo.001.004.000002885">Charles Longuet</persName> zu
+                            ersetzen. Seiner Bitte wurde einstimmig entsprochen (siehe The_Minute
+                            Book 1864–1866. In: MEGA²&#160;I/20. S.&#160;380.8–9). (((lThe_Minute
+                            Book 1864–1866. In: MEGA²&#160;I/20. S._265–450))) </note></seg></p>
+                <p sameAs="MBTextmitEinzug">Mais parlons d’autre chose. La section belge ne s’est
+                    guère accrue; nous sommes toujours ici une soixantaine, pas plus; mais, <seg type="comment"><orig>comme vous l’avez vu peut-être, nous venons de nous
+                            fédérer avec l’association <hi rendition="#u">le
+                            Peuple</hi>,</orig><note xml:id="nrch_fl5_4y">Die Organisation „Le
+                            Peuple. Association de la démocratie militante“ endstand 1861 als
+                            Vereinigung von Studenten und Arbeitern. Sie war eine der zahl- und
+                            einflussreichsten Organisationen in Belgien. Viele Mitglieder hatten
+                            sich der IAA angeschlossen. <p/>Am 30. Dezember 1865 schlug <persName key="pdrPo.001.004.000001133">De Paepe</persName> in der Sitzung der
+                            Section belge de l’A.I.T. vor, die Section belge und Le Peuple zu
+                            vereinigen, um die Kräfte zu bündeln. Dieser Vorschlag wurde einstimmig
+                            beschlossen. Siehe Association Internationale des Travailleurs. Section
+                            belge. Fondée à Bruxelles le 17 juillet 1865. Procès-verbaux des
+                            Séances. Séance du 30 décembre 1865 (IISG, Jung-Nachlass, Sign. 138).
+                            (((lJung-Nachlass, Sign. 138, IISG))) Der Bericht darüber erschien in
+                            dem Organ von Le Peuple: A nos abonnés. A nos lecteurs. In: La Tribune
+                            du Peuple. Bruxelles. Nr. 1, 7. Januar 1866. S. 1/2. (((lA nos abonnés.
+                            A nos lecteurs. In: La Tribune du Peuple. Bruxelles. Nr. 1, 7. Januar
+                            1866. S. 1/2))) Die Zeitung wurde zum Organ der IAA in Belgien und
+                            erschien seit dem 28. Januar 1866 mit dem Untertitel „Journal de la
+                            Société: Le Peuple, Organe de l’Association Internationale des
+                            Travailleurs“. Siehe Documents relatifs aux militants belges. S. 27 und
+                            MEGA²_I/20. S. 1444. (((lDocuments relatifs aux militants belges)))
+                            (((lMEGA²_I/20))) </note></seg> et nous espérons beaucoup de cette
+                    fédération. La<hi rendition="#u"> Tribune du </hi><bibl sameAs="zzLa Tribune du Peuple"><hi rendition="#u">Peuple</hi></bibl> est
+                    l’organe de ladite société <hi rendition="#u">le Peuple</hi>, de sorte que la<hi rendition="#u"> Tribune</hi> devient l’organe de la section belge de l’<hi rendition="#u">Internationale</hi>. <seg type="comment"><orig>Sous peu vous
+                            trouverez dans ledit journal l’appel des membres de l’<hi rend="italic"><hi rendition="#u">Internationale</hi></hi> à tous les
+                            prolétaires belges.</orig><note xml:id="nlms_4jv_4y">Der Aufruf erschien
+                            erst 1868. Siehe Documents relatifs aux militants belges. S._ 27.
+                            (((lDocuments relatifs aux militants belges))) </note></seg> A propos de
+                        <hi rendition="#u">Tribune</hi>, <seg type="comment"><orig>le <hi rendition="#u">Workmans </hi><bibl sameAs="zzThe Workman’s Advocate"><hi rendition="#u">advocate</hi></bibl> paraît-il
+                            encore,</orig><note xml:id="a5864047-0ff0-4cab-ba90-0098a68aa98a">Zu
+                            „The Workman’s Advocate“ siehe  <ref target="B00007/#nmrb_qzn_4y">Erl.
+                                zu Marx an J. Ph. Becker, zwischen 9. und 15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170509T142120+0200" comment="{{Erl. 6f}}."?>
+                            <?oxy_comment_end?> (((zThe Workman’s Advocate))) </note></seg> nous
+                    n’en avons jamais reçu un seul numéro; dans les 2&#160;journaux que l’on vous
+                    envoie d’ici, il en y a un destiné au <hi rendition="#u">Workmans advocate</hi>,
+                    l’autre à vous personnellement. Ne pourriez-vous pas nous indiquer les titres et
+                    les adresses <seg type="comment"><orig>des divers <bibl sameAs="zzJournal de l’Association Internationale des Travailleurs">organes</bibl><bibl sameAs="zzDer Vorbote"> </bibl></orig><note xml:id="ntz3_cxb_dy">„Journal de l’Association Internationale des
+                            Travailleurs. Section de la Suisse romande“ (Genf) (((zJournal de
+                            l’Association Internationale des Travailleurs. Section de la Suisse
+                            romande))) und „Der Vorbote“ (Genf). (((zDer Vorbote))) </note></seg> de
+                        <seg type="comment"><orig>la section suisse et de la section
+                            allemande,</orig><note xml:id="nayj_vxx_py">Zur Bildung der Section
+                            française de Genève de l’A.I.T. und der Deutschen Section Genf der IAA
+                            siehe <ref target="B00007/#d2800d63-c8c5-47ca-9850-daa256487b96">Erl. zu
+                                Marx an J. Ph. Becker, zwischen 9. und
+                            15.1.1866</ref>.<?oxy_comment_start author="lindenberg" timestamp="20170509T142423+0200" comment="{{Erl. 6gg}}"?></note><?oxy_comment_end?></seg>
+                    afin de pouvoir faire l’échange.</p>
+                <p sameAs="MBTextmitEinzug">A l’avenir citoyen, la section belge se servira de la
+                        <hi rendition="#u">Tribune</hi> du <bibl sameAs="zzLa Tribune du Peuple">peuple</bibl> pour correspondre avec vous, à moins que les choses à vous
+                    communiquer ne soient pas de celles qui puissent se dire par-dessus les toits.
+                        <seg type="comment"><orig>Ces correspondances se trouveront à la fin du
+                            journal sous ce titre: <hi rendition="#u">Correspondance</hi>. – Au
+                            citoyen M. à Londres. Voilà pour vous. – Lorsque nous nous adresserons
+                            au citoyen <persName key="pdrPo.001.004.000001279">Dupont</persName>,
+                                <expan resp="editor" sameAs="dottet_underline">repr<ex>ésentant</ex></expan> de la section française, nous
+                            mettrons: Au citoyen D. à Londres.</orig><note xml:id="dd75b59a-df22-4ff6-b935-5aee307cad47">Solche Berichte waren in
+                            der Zeitung „La Tribune du Peuple“ (Brüssel) nicht zu ermitteln. (((zLa
+                            Tribune du Peuple))) </note></seg> – Ce sera une économie.</p>
+                <p sameAs="MBTextmitEinzug">Auriez-vous la bonté, citoyen, de passer à notre brave
+                    ami <persName key="pdrPo.001.004.000001279">Dupont</persName>, le billet
+                    ci-inclus. Le citoyen Dupont m’avait chargé d’une mission pour lui, et
+                    concernant une affaire qui le regarde personnellement; il trouvera ici la
+                    réponse.</p>
+                <p sameAs="MBTextmitEinzug">Voici l’adresse de notre secrétaire-correspondant:
+                        <persName key="pdrPo.001.004.000004883">A.&#160;Vandenhouten</persName>,
+                    quai aux Semences, 9, à Bruxelles. – Présentez mes respects à votre dame et à
+                    vos demoiselles, et serrez pour moi la main à nos amis de Londres.</p>
+                <closer sameAs="MBUnterschrift">César De Paepe. </closer>
+            </div></body></text></TEI>

@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00094" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>91</idno>Louis Kugelmann an Karl Marx in London.
+                                        Hannover, Sonntag, 15., und Mittwoch, 25. April 1866</title>
+                        </titleStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>RGASPI</institution>
+                                                <idno><idno type="shelfmark">f. 1 op. 5 d.
+                                                  1651</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Bogen mittelstarkem,
+                                                  weißem Papier im Format
+                                                  285&#160;×&#160;217&#160;mm. Prägung:
+                                                  „Dr.&#160;L.&#160;Kglm“. Die ersten zwei Seiten
+                                                  hat Kugelmann vollständig beschrieben, die dritte
+                                                  zur Hälfte, die vierte Seite ist leer. Das zweite
+                                                  Datum, „25/4.“, steht am linken Rand der ersten
+                                                  Seite. Schreibmaterial: schwarze Tinte.</p>
+                                                <p>Von unbekannter Hand: Nummerierung  des Briefes
+                                                  bzw. der beschriebenen Seiten: „23a“ bis „23c“. </p>
+                                                <p>Kugelmann beantwortet den Brief von Marx vom
+                                                  6.&#160;April 1866 (Marx an L. Kugelmann,
+                                                  6.4.1866).</p>
+                                                <p>Datierung in der Erstveröffentlichung:
+                                                  15.&#160;April 1866.</p>
+                                                <p>Marx beantwortet den Brief am 23.&#160;August
+                                                  1866 (Marx an L. Kugelmann, 23.8.1866). </p>
+                                        </physDesc>
+                                </msDesc>
+                                <listWit>
+                                        <witness><bibl>Erstveröffentlichung, auszugsweise (2.
+                                                  Absatz): Hundt: Louis Kugelmann (1974).
+                                                  S.&#160;170/171</bibl>.</witness>
+                                        <witness><bibl>vollständig wird der Brief hier erstmals
+                                                  veröffentlicht.</bibl></witness>
+                                </listWit>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000002616">Louis
+                                                Kugelmann</persName>
+                                        <placeName>Hannover</placeName>
+                                        <date from="1866-04-15" to="1866-04-25" cert="high"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName>London</placeName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:39:11Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingAct">
+                                <opener>
+                                        <dateline sameAs="MBDatumszeile"><pb/> Hannover, 15. April
+                                                1866</dateline>
+                                        <salute sameAs="MBAnrede">Verehrter Freund!</salute>
+                                </opener>
+                                <p sameAs="MBTextohneEinzug">Herzlichsten Glückwunsch Ihnen und
+                                        namentlich uns zu Ihrer Genesung! Aber jetzt sein Sie auch
+                                        hübsch vorsichtig u. sorgen Sie für regelmäßige Diät,
+                                        Verdauung und Bewegung. Besser, daß Ihre Arbeit durch
+                                        gewissenhafte Sorge für Ihre Gesundheit, als durch stets neu
+                                        provocirte Krankheiten etwas verzögert wird. –<seg type="comment"><orig> Ihrer Frau <persName key="pdrPo.001.004.000003075">Gemahlin</persName>
+                                                  bitte ich noch meinen verbindlichsten Dank für
+                                                  Brief und Bild zu sagen.</orig><note xml:id="c64903c0-d0bf-4e5a-8030-1d6bddd81aad">Siehe <ref target="B00080">J. Marx an L.
+                                                  Kugelmann,
+                                                  1.4.<?oxy_comment_start author="reichhoff" timestamp="20170320T170125+0100" comment="{{Br. 77}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        25/4. <seg type="comment"><orig>Die Antwort meines
+                                                  City-Correspondenten kreuzte meine letzte Anfrage
+                                                  nach Ihrem Befinden, weil jener Herr sich damals
+                                                  in Frankreich befand.</orig><note xml:id="e630d6d9-2f1a-4b05-a8bc-e3d26086c1ed">Vermutlich <persName key="pdrPo.001.004.000011173">Theodor
+                                                  Menke</persName>. Siehe <ref target="B00079">L.
+                                                  Kugelmann an Marx,
+                                                  30.3.<?oxy_comment_start author="reichhoff" timestamp="20170418T163326+0200" comment="{{Br. 76.7–10}}"?>1866<?oxy_comment_end?></ref>.
+                                                </note></seg> – <seg type="comment"><orig>Die
+                                                  aufgegebenen Adressen theilte ich Freund <persName key="pdrPo.001.004.000011173">Menke</persName>
+                                                  mit.</orig><note xml:id="d84f9594-104d-4556-b724-39c1c9f355a9">Siehe <ref target="B00086/#start_uwn_d15_4z">Marx
+                                                  an L. Kugelmann,
+                                                  6.4.<?oxy_comment_start author="reichhoff" timestamp="20170418T163609+0200" comment="{{Br. 83.17–23}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        Weitere Nachrichten von ihm fehlen mir noch. – <anchor type="verweisziel" xml:id="start_mcn_z4m_qz"/>Den
+                                                „<bibl sameAs="zzDer Vorbote">Vorbote“</bibl> dessen
+                                        erste NN<hi rendition="#sup">o</hi> mir <persName key="pdrPo.001.004.000002822">Liebknecht</persName>
+                                        sandte, so wie Workmans <bibl sameAs="zzThe Workman’s Advocate">advocate</bibl>
+                                        habe ich bestellt u. werde, so viel es bei den hiesigen
+                                        unentwickelten Verhältnissen möglich ist, für deren
+                                        Verbreitung sorgen.&#160;– Auf eine buchhändlerische Anfrage
+                                        meinerseits <seg type="comment"><orig>nach dem „<bibl sameAs="zzThe Commonwealth">Commonwealth“</bibl>,
+                                                  welches Blatt mir Ihre Frau Gemahlin als „Organ
+                                                  der neugebildeten Arbeiterpartei mit sämmtlichen
+                                                  Cooperativ-Gesellschaften sowie auch der Intern.
+                                                  Assoc.“ bezeichnete,</orig><note xml:id="f33cea0e-4fb4-43df-817e-01c0709a1b7b">Siehe <ref target="B00049/#start_fgg_slr_pz">J.
+                                                  Marx an L. Kugelmann, zwischen 23. und
+                                                  26.2.<?oxy_comment_start author="reichhoff" timestamp="20170418T171032+0200" comment="{{Br. 46.25–29}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        kam von London die Antwort, daß <hi rendition="#u">dies
+                                                Blatt nicht bekannt sei</hi> (Workm. <bibl sameAs="zzThe Workman’s Advocate">advoc. </bibl>
+                                        wohl), ich <hi rendition="#u">bitte Sie</hi>
+                                        <pb/>
+                                        <hi rendition="#u">um <expan resp="editor" sameAs="dottet_underline">gef</expan>l. Angabe,
+                                                wie das Blatt zu bestellen</hi>?<anchor type="verweisziel" xml:id="stop_mcn_z4m_qz"/></p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Sie wollen
+                                                  über die deutschen Verhältnisse von mir
+                                                  hören?</orig><note xml:id="ce7c41f9-7aa5-4749-afa1-c49bc0a4a300">Siehe <ref target="B00086/#start_vsg_fnr_pz">Marx
+                                                  an L. Kugelmann,
+                                                  6.4.<?oxy_comment_start author="reichhoff" timestamp="20170418T172411+0200" comment="{{Br. 83.47}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        Meine Ansicht, wie ich sie mir nach eigener Beobachtung u.
+                                        aus der Presse gebildet, resümirt sich kurz etwa so:
+                                        Vollständige Bereitwilligkeit der bürgerlichen Parteiführer
+                                        die Regierung anzutreten, wenn die jetzt herrschenden
+                                        Parteien Ihnen freiwillig oder durch Zufall den Platz
+                                        räumen. Moralische Entrüstung und tugendhafte Resolutionen
+                                        gegen die <persName key="pdrPo.001.004.000000441">Bismarkschen</persName> Reformpläne, trotzdem
+                                        sofortige Bereitwilligkeit zu einem Bismarkschen Parlament
+                                        zu wählen, ohne Programm, saft- u. kraftlos, wie es nur sein
+                                        kann, in der Hoffnung durch die „Macht der Überzeugung“ das
+                                        jetzige Regime fortzuschwatzen. Ich sagte den hiesigen
+                                        Leithämmeln in Presse etc man möge, wenn man von einem
+                                        Parlamente etwas erwarten wolle, schon jetzt für eine
+                                        allgemeine Volksbewaffnung agitiren, wofür in den
+                                        Annexionsgelüsten Preußens jetzt den Regierungen gegenüber
+                                        ein Grund vorliege. Antwort: Die Polizei werde es nicht
+                                        gestatten. – Kurz vollständige Unfähigkeit der bürgerlichen
+                                        Parteien sich der Herrschaft zu bemächtigen, die, wie sie
+                                        glauben durch die Macht der Verhältnisse ihnen von selbst
+                                        zufallen müsse. „Revolution wollen wir nicht machen“ ist das
+                                        stets wiederholte Bekenntniß, <pb/> so werden sie denn
+                                        willig oder unwillig der jeweiligen Macht gehorchen. – Wo
+                                        nebenbei durch die momentane Constellation ein Geschäftchen
+                                        zu machen ist, wirds gemacht. <seg type="comment"><orig>So
+                                                  mit der Cöln-Mindener Eisenbahn Gesellschaft,
+                                                  wodurch die Regierung in Preussen einstweilen aus
+                                                  der fast zur Capitulation drängenden Klemme erlöst
+                                                  ist.&#160;–</orig><note xml:id="e5192bea-c575-4ce5-adda-456154fb8661">Siehe <ref target="B00003/#nspz_432_xx">Erl. zu
+                                                  Engels an Marx,
+                                                  4.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170518T132439+0200" comment="{{Erl. 2h}}."?></note><?oxy_comment_end?></seg></p>
+                                <p sameAs="MBTextmitEinzug">Welchen Einfluß vermuthen Sie von den,
+                                        anscheinend auf dem Baumwollmarkt herannahenden Krisen auf
+                                        die englischen Verhältnisse?</p>
+                                <p sameAs="MBTextmitEinzug">Herzlichen Gruß!</p>
+                                <closer sameAs="MBUnterschrift">Der Ihrige<lb/>LKugelmann<lb/>Dr
+                                </closer>
+                        </div>
+                </body>
+        </text>
+</TEI>

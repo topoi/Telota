@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00175" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>170a</idno>Karl Marx an Collet Dobson Collet in London. London,
+                    Samstag, 26. September 1866</title>
+            </titleStmt>
+            <editionStmt>
+                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">Original in Privatbesitz; Kopie: f. 1 op. 1 d.
+                                7346</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen festem, weißem Papier im Format
+                            225&#160;×&#160;176&#160;mm. Marx hat die ersten drei Seiten vollständig
+                            beschrieben, die vierte zu zwei Dritteln. Schreibmaterial: schwarze
+                            Tinte.  </p>
+                        <p>Marx beantwortet den Brief Collets vom 15.&#160;September 1866
+                            (Br.&#160;169), Collet antwortete ihm am 27.&#160;September 1866
+                            (Br.&#160;172).</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                    <date when="1866-09-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="pdrPo.001.004.000000956">Collet Dobson Collet</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:39:59Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> 1, Modena Villas, Maitland Park.<lb/>26
+                        Sept. 1866</dateline>
+                    <salute sameAs="MBAnrede">My Dear Sir,</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug">Consequent upon my absence from London, I received <seg type="comment"><orig>your letter d.d. Sept.&#160;15</orig><note xml:id="e6ae0f15-18d8-4949-8f1d-0a90f1444ed1">Siehe <ref target="B00173">C. D. Collet an
+                                <?oxy_comment_start author="reichhoff" timestamp="20170406T123406+0200" comment="{{Br. 169}}"?>Marx<?oxy_comment_end?>,
+                                15.9.1866</ref>. Marx beantwortet im Folgenden <persName key="pdrPo.001.004.000000956">Collets</persName>
+                        Fragen.</note></seg> only to-day.</p>
+                <p rend="MBTextMitEinzug">1) The members of the Prussian Lower House are <hi rendition="#u">paid</hi>, but the members of the electoral colleges are <hi rendition="#u">not</hi>.</p>
+                <p rend="MBTextMitEinzug">2) The costs of election are defrayed out of the <hi rendition="#u">provincial</hi> (resp. <hi rendition="#u">communal</hi>)
+                    Exchequers. From the nature of the proceeding, they cannot amount to much. The
+                        <add>limits of the</add> electoral ditricts are prescribed by law, each
+                    electoral district is again divided into numerous smaller districts. Aliquot
+                    parts of the population choose <add>each</add> one member for Parliament.</p>
+                <p rend="MBTextMitEinzug">3) There is <hi rendition="#u">no qualification</hi>
+                    required for a man to become either a member of Parliament (Lower House) or
+                        <del> to <sic ana="#break-off"/></del> a member of the electoral
+                    colleges.&#160;</p>
+                <p rend="MBTextMitEinzug"><pb/> 4) The <hi rendition="#u">primary voters</hi>
+                    include all men from the age of 25&#160;years who pay any <hi rendition="#u">direct</hi> tax. Certain direct taxes are paid by almost everybody, even
+                    servants. All <hi rendition="#u">primary</hi> voters are divided into <hi rendition="#u">three classes</hi>, formed in this way:</p>
+                <p rend="MBTextMitEinzug">The <hi rendition="#u">direct taxes</hi> paid by the
+                    primary voters say of one electoral district are summed together. This total sum
+                    of direct taxes is divided into <hi rendition="#u">3&#160;equal parts</hi>. The
+                    first part is <subst>
+                        <del>composed</del>
+                        <add>made up</add>
+                    </subst>
+                    <subst>
+                        <del>of</del>
+                        <add>by</add>
+                    </subst> individuals who pay most direct taxes, the second by those who stand
+                    next <subst>
+                        <del>in</del>
+                        <add>on</add>
+                    </subst> the scale of taxation, and the third by the remainder of the primary
+                    voters. The respective contributors to every part form one electoral class. Each
+                    of the three electoral classes so formed elects <hi rendition="#u">the same
+                        number of secondary electors</hi> who form the electoral body that finally
+                    nominates the members of Parliament.</p>
+                <p rend="MBTextMitEinzug">5) The middle body or electoral fulfils no other
+                    function.</p>
+                <p rend="MBTextMitEinzug">6) I do not exactly <del rendition="#ow">rember<sic ana="#break-off"/></del> remember for what number of years the deputies
+                    are elected. If I am not greatly mistaken, <seg type="comment"><orig>the English
+                            “7&#160;years”&#160;<pb/> were introduced under the reactionnary
+                            Government of <persName key="pdrPo.001.004.000003008">Manteuffel</persName>.</orig><note xml:id="ncmp_snr_3z">Für das
+                            Preußische Abgeordnetenhaus betrug die Wahlperiode damals 3
+                            Jahre.</note></seg></p>
+                <p rend="MBTextMitEinzug">7) The modes of election <del rendition="#s">in
+                            G<ex>ermany</ex></del><sic ana="#break-off"/> throughout Germany are far
+                    from uniform. Generally. However, the system of double elections prevails.</p>
+                <p rend="MBTextMitEinzug">In <hi rendition="#u">Bavaria</hi> f.i. every man, having
+                    reached the age of 25&#160;years, and paying any direct tax, is an elector.
+                    Every district is subdivided into smaller ones, and each of them chooses a
+                    certain member of <hi rendition="#u">electors</hi>, but <hi rendition="#u">without the Prussian division of classes</hi>. For every 31,500 primary
+                    voters, there is one member of Parliament. The <hi rendition="#u">communal</hi>
+                    elections in Bavaria are regulated by the same <subst>
+                        <del>laws</del>
+                        <add>law</add>
+                    </subst> as the parliamentary ones.</p>
+                <p rend="MBTextMitEinzug">8) Cases of electoral bribery are absolutely unknown in
+                        <hi rendition="#u">all</hi> German states.</p>
+                <p rend="MBTextMitEinzug">9) The <hi rendition="#u">daily attendance</hi> of members
+                    of Parliament is rigorously enforced. No member&#160;<pb/> can stay away without
+                    the permission of the President of the Lower House, and he can give no leave of
+                    absence except in <add place="superlinear">such</add> cases <del rendition="#s"><unclear reason="covered" cert="low">forever</unclear></del><sic ana="#break-off"/> as malady etc. <add place="intralinear">There exists no
+                        such thing as
+                        a<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?> “count
+                        out”<?oxy_custom_end?>.</add></p>
+                <p rend="MBTextMitEinzug">10) The ministers, or other public functionaries, <del>
+                        <unclear reason="illegible" cert="low">m</unclear>
+                        <sic ana="#break-off"/></del> are eligible as members of the Lower House,
+                    but they can assist (in person or by official <hi rendition="#u">remplaçants</hi>), and take part <choice>
+                        <sic>in,</sic>
+                        <corr cert="high">in</corr>
+                    </choice> the debates, without being members. In the latter case they are, of
+                    course, excluded from voting</p>
+                <closer sameAs="MBUnterschrift">Yours very truly<lb/>Karl Marx </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00050" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>47</idno>Hermann Jung an Karl Marx in London. London, Dienstag, 27.
+                    Februar 1866</title>
+            </titleStmt>
+            <editionStmt>
+                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">f. 21 op. 1 d. 76/5</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, blauem Papier im Format
+                            228&#160;×&#160;182&#160;mm. Die ersten drei Seiten hat Jung vollständig
+                            beschrieben, die vierte zur Hälfte. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von unbekannter Hand: Vermerk mit Tinte auf der ersten Seite oben links:
+                            „27/2&#160;66“.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords><term key="ed_jtl_xrw_ww">Internationale Arbeiter Assoziation (IAA, A.I.T., I.W.M.A.)</term></keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000002417">Hermann Jung</persName>
+                    <placeName>London</placeName>
+                    <date when="1866-02-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:38:44Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> 4 Charles Street.<lb/>Northampton
+                        Square.</dateline>
+                    <salute sameAs="MBAnrede">Cher Marx.</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug"><anchor type="verweisziel" xml:id="start_gbp_k4y_nz"/><anchor type="verweisziel" xml:id="start_lrk_r4y_nz"/>J’ai écrit à
+                        <persName key="pdrPo.001.004.000000317">Becker</persName> une très longue
+                    lettre de 8&#160;pages<anchor type="verweisziel" xml:id="stop_gbp_k4y_nz"/>; par
+                    suite d’une erreur, je pense, je n’ai pas reçu le 2<hi rendition="#sup">d</hi>
+                        N<hi rendition="#sup">o</hi> du <bibl sameAs="zzDer Vorbote">Vorbote</bibl>;
+                        <persName key="ed_l54_cks_xy">Lessner</persName> l’a reçu, mais pas en assez
+                    grande quantité pour m’en donner même un seul exemplaire &amp; encore moins pour
+                    en donner aux quelques abonnés que j’ai faits.<anchor type="verweisziel" xml:id="stop_lrk_r4y_nz"/></p>
+                <p sameAs="MBTextmitEinzug">Pour en revenir à ma lettre: <seg type="comment"><orig>j’y parle de l’affaire <persName key="pdrPo.001.004.000004915">Vésinier</persName></orig><note xml:id="fcf6ec0b-c02c-4398-ac3b-eeacf8232ce6">Siehe <ref target="B00004">Marx an Engels,
+                                5.1.<?oxy_comment_start author="reichhoff" timestamp="20170315T145623+0100" comment="{{Br. 3}}"?>1866<?oxy_comment_end?></ref>.</note></seg>,
+                    du Reform League &amp;c, &amp;c; en un mot, une revue générale. Le conseil
+                    central m’a l’air d’être atteint d’une maladie incurable, dès qu’il s’agit de
+                    finances; voilà déjà 3&#160;fois que je demande quand «<hi rendition="#u">l’appel pour les fonds</hi>» sera lancé &amp;, au risque d’être importun,
+                    je ferai encore la même demande ce soir: <pb/>
+                    <persName key="pdrPo.001.004.000002885"><anchor type="verweisziel" xml:id="start_pgc_zl4_mz"/>Longuet</persName> est revenu, de Paris,
+                    paraît-il, &amp; non pas d’Allemagne; il a amené avec lui un des étudiants du
+                        <seg type="comment"><orig>Congrès de Liège</orig><note xml:id="f32fa761-d2fa-4bcd-a1a9-39500bb5c9a5">Siehe <ref target="B00003/#fdf0e9a1-43c7-49a4-953f-de75b43bccda">Erl. zu Engels
+                                an Marx, 4.1.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170516T172238+0200" comment="{{Erl. 2g}}."?></note><?oxy_comment_end?></seg>,
+                    nommé <persName key="pdrPo.001.004.000002648">Lafargue</persName>, qui connait
+                    bien notre association à Paris &amp; qui en apporte de très bonnes
+                        nouvelles.<anchor type="verweisziel" xml:id="stop_pgc_zl4_mz"/></p>
+                <p sameAs="MBTextmitEinzug">Dans nos tournées <hi rendition="#u">propagandistes</hi>, <persName key="pdrPo.001.004.000001279">Dupont</persName>
+                    &amp; moi avons fait connaissance d’un Italien nommé <seg type="comment"><orig><persName key="ed_rsv_nk3_yy">Ortica</persName>,</orig><note xml:id="nqd5_z5v_vy"><persName key="ed_rsv_nk3_yy">Ortiga</persName>.
+                        </note></seg> que nous avons <seg type="comment"><orig>proposé comme membre
+                            du conseil central,</orig><note xml:id="nlxb_2vv_vy"> Siehe die
+                            Protokolle der Sitzungen des Zentralrats der IAA vom 13. und
+                            20.&#160;Februar 1866 (The_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+                            S.&#160;386.9 und 387.22–24). (((lThe_Minute Book 1864–1866. In:
+                            MEGA²&#160;I/20. S._265–450))) </note></seg> il dit qu’il nous mettra en
+                    rapport avec l’Italie; nous avons aussi fait connaissance avec <seg type="comment"><orig>le <persName key="ed_erg_rjw_wx">frère</persName>
+                            <persName key="pdrPo.001.004.000003552">d’Orsini</persName>,</orig><note xml:id="f1525bbe-dadd-49e1-8ae2-e94e28e1a1ce"><persName key="ed_erg_rjw_wx">Cesare Orsini</persName>. </note></seg>
+                    <seg type="comment"><orig>lui aussi nous promet de nous mettre en relation avec
+                            des socialistes en Italie;</orig><note xml:id="a08d9385-d4be-4b97-9575-84a27dd7b21b">Siehe die Protokolle der
+                            Sitzungen des Zentralrats der IAA vom 13. und 20.&#160;März 1866
+                            (The_Minute Book 1864–1866. In: MEGA²&#160;I/20. S.&#160;393.18–19 und
+                            394.7–14). (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+                            S._265–450))) </note></seg> lorsque nous lui parlâmes de <seg type="comment"><orig>Wolff</orig><note xml:id="nudj_bwv_vy"><persName key="pdrPo.001.004.000005182">Luigi Wolff</persName>. </note></seg>
+                    &amp; de <persName key="pdrPo.001.004.000002665">Lama</persName>, il dit que
+                        <seg type="comment"><orig>cela suffisait pour empêcher tout socialiste
+                            italien de s’en mettre.</orig><note xml:id="nps3_lwv_vy">Siehe <ref target="B00075/#start_jyy_s1y_nz">Marx an Engels,
+                                24.3.<?oxy_comment_start author="reichhoff" timestamp="20170412T111803+0200" comment="{{Br. 72.39–74}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Si vous pouviez assister à la
+                            séance ce soir,</orig><note xml:id="f1665cbe-21c6-4702-930d-bf2d9df33c69">Marx nahm erst an der
+                            Sitzung des Zentralrats der IAA am 13.&#160;März 1866 wieder teil. Siehe
+                                <ref target="B00075/#start_ygp_bby_nz">Marx an Engels,
+                                24.3.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170412T111854+0200" comment="{{Br. 72.25–29}} "?>
+                            und<?oxy_comment_end?> The_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+                            S.&#160;392/393. (((lThe_Minute Book 1864–1866. In: MEGA²&#160;I/20.
+                            S._265–450))) </note></seg> j’en serais charmé, car nous les aurons tous
+                    là <pb/> Quant au <seg type="comment"><orig>journal:</orig><note xml:id="fd2522f9-6e93-4abb-8ccb-c861748e754c">„The Commonwealth“
+                            (London). (((zTheCommonwealth))) </note></seg> je suis dégouté d’être
+                    directeur; il est impossible de rester honnête homme sans offenser tout le
+                    monde; enfin hier, j’ai dit que je demanderais ma démission au «half-yearly
+                    meeting», dans quinze jours. <persName key="pdrPo.001.004.000002770"><expan resp="editor" sameAs="dottet_underline">L<ex>e</ex></expan>
+                        <expan resp="editor" sameAs="dottet_underline">L<ex>ubez</ex></expan></persName> continue toujours ses intrigues auprès
+                    des démocrates français et le seul moyen qui nous reste, à <persName key="pdrPo.001.004.000001279">Dupont</persName> &amp; à moi, c’est de
+                    toujours nous mettre sur son chemin, comme nous l’avons fait avec <seg type="comment"><orig>la branche française</orig><note xml:id="ef14508b-ee83-4347-b2f6-6745531df9d0">Siehe <ref target="B00004/#b67c4504-42c6-422c-ac87-3b4ae9f7e6fc">Erl. zu Marx
+                                an Engels, 5.1.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170516T172536+0200" comment="{{Erl. 3b}}."?></note><?oxy_comment_end?></seg>,
+                    alors nous lui aurons bientôt enlevé tout pouvoir de nous nuire.</p>
+                <p sameAs="MBTextmitEinzug">Je serais charmé de vos nouvelles, surtout si ces
+                    nouvelles m’apprenaient que vous <pb/> êtes entièrement rétabli.</p>
+                <p sameAs="MBTextmitEinzug">Mes amitiés à votre dame &amp; à votre aimable famille
+                    &amp; en attendant le plaisir de vous voir. Je vous</p>
+                <closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u1}</hi>-->salue
+                        fraternellement<lb/>H<hi rendition="#sup">n</hi> Jung.</closer>
+                <p sameAs="MBAdresse">27 Febr. 1866.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

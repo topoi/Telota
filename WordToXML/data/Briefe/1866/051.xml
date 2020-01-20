@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00054" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>51</idno>Friedrich Engels an Karl Marx in London. Manchester, Montag, 5. März 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1602/D III 373</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+              116&#160;×&#160;181&#160;mm, abgetrennt von einem Bogen. Wasserzeichen: „[A Pirie
+              &amp;] Sons“. Die Prägung ist nicht deutlich erkennbar, vermutlich: „London Superfine“
+              und ein Wappenschild. Die erste Seite hat Engels vollständig beschrieben, die zweite
+              zu zwei Dritteln. Schreibmaterial: schwarze Tinte.</p>
+            <p>Von Eduard
+              <?oxy_comment_start author="strauss" timestamp="20170613T104406+0200" comment="(((nBernstein,Ed.)))"?>Bernsteins<?oxy_comment_end?>
+              Hand: Nummerierung des Briefes bzw. der beschriebenen Seiten: „302,1“bzw. „302,2“ und
+              „10,1“ bzw. „10,2“ (gestrichen). </p>
+            <p>Von Heinrich
+              <?oxy_comment_start author="strauss" timestamp="20170613T104439+0200" comment="(((nDietz,H.)))"?>Dietz’<?oxy_comment_end?>
+              Hand: Nummerierung des Briefes: „831“ (gestrichen).</p>
+            <p>Von unbekannter Hand: Vermerk mit Bleistift auf der ersten Seite oben links:
+              „Vierling“. </p>
+            <p>Engels beantwortet Marx' Brief vom 2.&#160;März 1866 (Marx an Engels, 2.3.1866). Marx
+              antwortete darauf am 6.&#160;März 1866 (Marx an Engels, 6.3.1866).</p>
+          </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1942</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw&#160;3 (1913). S.&#160;299.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1866-03-05"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:46Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Manchester 5 März 1866.</dateline><salute sameAs="MBAnrede">Lieber Mohr</salute></opener><p sameAs="MBTextohneEinzug"><persName key="pdrPo.001.004.000001969">Gumpert</persName> ist
+          décidément der Meinung daß Du sobald Dein Zustand es irgend erlaubt auf mindestens
+          4&#160;Wochen an die See gehst, &amp; jedenfalls eine Luftveränderung vornimmst. Wie ist
+          es nun? Willst Du hier in der Nähe in ein Seebad gehn (meinetwegen Lytham oder Blackpool
+          oder New Brighton) oder an der Südküste. Darüber mache Dein mind auf &amp; komm im
+          ersteren Fall hierher. Das Geld schaffe ich für den Zweck, &amp; wie ich Dir versprochen
+          auch noch etwas mehr. Diese ewigen Rückfälle von Karbunkeln müssen endlich einmal
+          aufhören, sonst kannst Du weder arbeiten noch sonst zu etwas kommen. <seg type="comment"><orig>Also entschließ Dich.</orig><note xml:id="a9fd0c5d-779b-4626-bf9f-71889bd4804c">Vom 15.&#160;März bis 8.&#160;April 1866 weilte Marx zur Erholung in Margate. Siehe
+                <ref target="B00066">Marx an Engels,
+              16.3.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170412T143843+0200" comment="{{Br._62.4}} "?> und<?oxy_comment_end?>
+              <ref target="B00067">Marx an J. Marx, 16.3.1866</ref>
+              <?oxy_comment_start author="reichhoff" timestamp="20170412T144121+0200" comment="{{Br._63.4}}"?>
+              <?oxy_comment_end?>bzw. <ref target="B00086">Marx an L. Kugelmann,
+                6.4.<?oxy_comment_start author="reichhoff" timestamp="20170412T144236+0200" comment="{{Br._83.4}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00093">J. Marx an Engels, nach
+                14.4.<?oxy_comment_start author="reichhoff" timestamp="20170315T152735+0100" comment="{{Br._90}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Meine Beiträge für die <bibl sameAs="zzThe Commonwealth">Commonw.</bibl></orig><note xml:id="ndzl_xdc_wy">Siehe
+                <ref target="B00039/#start_ozw_bcz_nz">Marx an Engels,
+                13.2.<?oxy_comment_start author="reichhoff" timestamp="20170412T144620+0200" comment="{{Br. 36.41–44}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          hast Du selbst verdorben indem Du außer <seg type="comment"><orig>der
+              Polengeschichte</orig><note xml:id="nwbn_fdc_wy">Siehe <ref target="B00004/#a099d127-3ab3-4126-bcd4-b1896c4d8ccd">Erl. zu Marx an Engels,
+                5.1.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170517T090156+0200" comment="{{Erl._3h}}."?></note><?oxy_comment_end?></seg>
+          noch was über Preußen haben wolltest. Dadurch wurde das eine unterbrochen, &amp; das andre
+          doch nicht <del> zu <sic ana="#break-off"/></del> rechtzeitig zu Stande gebracht. <seg type="comment"><orig>Der Canvass für das Geld für die Schilleranstalt</orig><note xml:id="a635543c-fb65-430e-b3b1-013fe4aeecba">Zur Geldsammlung für die
+              Schiller-Anstalt siehe <ref target="B00023/#fc3f9388-7bd7-4578-a28a-5dd02725afee">Erl.
+                zu S. Nördlinger an Engels, 26.1.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170517T091710+0200" comment="{{Erl. 22a}}."?></note><?oxy_comment_end?></seg>
+          wovon ich Dir erzählte, kam mir plötzlich über den&#160;<pb/> Pelz &amp; ich war vorige
+          Woche jeden Abend dadurch abgehalten, muß auch jetzt gleich wieder fort. In 14&#160;Tagen
+          denk ich drüber weg zu sein, <seg type="comment"><orig>jedenfalls aber diese Woche einen
+              Polen Artikel zu schicken.</orig><note xml:id="b293008a-b76d-48b5-9dc6-76c257ed58d1">Der erste von Engels’ Artikeln „What have the working classes to do with
+              Poland?&#160;I.“, unterzeichnet mit „Frederic Engels“, erschien in: The Commonwealth.
+              London. Nr.&#160;159, 24.&#160;März 1866. S.&#160;5. Siehe auch <ref target="B00066">Marx an Engels,
+                16.3.<?oxy_comment_start author="reichhoff" timestamp="20170412T144735+0200" comment="{{Br. 62.7–9}}"?>1866<?oxy_comment_end?></ref>.
+              (((lEngels,Friedrich:What have the working classes to do with Poland?&#160;I.
+              [Unterzeichnet:] Frederic Engels. In: The Commonwealth. London. Nr.&#160;159,
+              24.&#160;März 1866. S.&#160;5))) </note></seg></p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Schöne Enthüllungen aus Jamaica.</orig><note xml:id="ny1x_1fc_wy">Der Aufstand der befreiten Sklaven auf Jamaika
+              (Morant-Bay-Aufstand) wegen katastrophaler Lebensbedingungen war im Oktober 1865
+              ausgebrochen. Die Briten schlugen ihn blutig nieder. Siehe auch MEGA²&#160;III/13.
+              Br.&#160;340.23–24. In der „Times“ erschienen am 3. und 5.&#160;März 1866 neben
+              Leitartikeln Korrespondentenberichte zu den Grausamkeiten bei der Niederschlagung: The
+              outbreak in Jamaica. (From our special correspondent.) Nr.&#160;25_436, 3.&#160;März
+              1866. S.&#160;9-11; A mountain ride in Jamaica. (From our special correspondent.)
+              Nr.&#160;25_437, 5.&#160;März 1866. S.&#160;9. (((lThe outbreak in Jamaica. (From our
+              special correspondent.). In: TheTimes. London. Nr.&#160;25_436, 3.&#160;März 1866.
+              S.&#160;9-11))) (((lA_mountain ride in Jamaica. (From our special correspondent.). In:
+              The Times. London. Nr.&#160;25_437, 5.&#160;März 1866. S.&#160;9.))) </note></seg> Und
+          die Blamage der <bibl sameAs="zzThe Times">Times</bibl> damit &amp; der <seg type="comment"><orig>Resignation von <persName key="pdrPo.001.004.000004124">Russell</persName>.</orig><note xml:id="ny5p_cfc_wy">
+              <persName key="pdrPo.001.004.000004124">Lord John Russell</persName> ( trat erst im
+              Juni 1866 im Zusammenhang mit dem Widerstand gegen die Reformbill <persName key="pdrPo.001.004.000001797">Gladstones</persName> zurück.</note></seg> Das Blatt
+          geht sehr rasch down.</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Lies wo möglich die Erklärung der Kölnmindener
+              Direction wegen des schofeln Geschäfts.</orig><note xml:id="c077e9b9-3901-43cd-94ba-e775386eb1f2">Zum Vertrag zwischen der Regierung
+                <persName key="pdrPo.001.004.000000441">Bismarck</persName> und der Direktion der
+                <orgName key="ed_zjk_2qt_sy">Köln-Mindener-Eisenbahn-Gesellschaft</orgName> siehe
+                <ref target="B00003/#nspz_432_xx">Erl. zu Engels an Marx, 4.1.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170517T090931+0200" comment="{{Erl. 2h}}."?>
+              <?oxy_comment_end?>Im beim Vertragsschluss übergangenen Abgeordnetenhaus hatte sich
+              Widerstand gegen den Vertrag geregt. Eine angeblich von der Direktion der
+              Bahngesellschaft veröffentlichte Erklärung über seine Aufhebung erwies sich aber als
+              Gerücht.</note></seg> Das sei soweit sie betheiligt bloß <hi rendition="#u">privatrechtlicher Natur</hi>, sobald <seg type="comment"><orig>der König</orig><note xml:id="ntsr_zfc_wy"><persName key="pdrPo.001.004.000005131">Wilhelm I.</persName>
+            </note></seg> es ratificirt, habe <hi rendition="#u">der</hi> die staatsrechtliche Seite
+          auszufressen. Mit andern Worten, die Bourgeois in Köln wollen selbst gar keine Verfassung
+          haben.</p><p sameAs="MBTextmitEinzug">Viele Grüße an die ladies.</p><closer sameAs="MBUnterschrift"><salute>Dein <lb/></salute><signed>F. E. </signed></closer></div></body></text></TEI>

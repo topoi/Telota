@@ -1,0 +1,38 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00079" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>76</idno>Louis Kugelmann an Karl Marx in London. Hannover, Freitag, 30. März 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 1649</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              286&#160;×&#160;217&#160;mm. Prägung: „Dr.&#160;L.&#160;Kglm.“ Die erste Seite hat
+              Kugelmann vollständig beschrieben, die übrigen drei sind leer. Schreibmaterial:
+              schwarze Tinte.</p>
+            <p>Von unbekannter Hand: Nummerierung des Briefes bzw. der beschriebenen Seite: „22a“. </p>
+            <p><?oxy_comment_start author="strauss" timestamp="20170613T101333+0200" comment="(((nMarx.J.)))"?>Jenny
+              Marx<?oxy_comment_end?> benachrichtigte Kugelmann am 1.&#160;April 1866 (J. Marx an
+              Kugelmann, 1.4.1866) vom Erhalt seines Briefes, den sie Marx dann nach Margate
+              weiterschickte. Marx beantwortet den Brief am 6.&#160;April 1866 (Marx an L.
+              Kugelmann, 6.4.1866).</p>
+          </physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName><placeName>Hannover</placeName><date when="1866-03-30"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:02Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Hannover, 30. März 1866</dateline><salute sameAs="MBAnrede">Hochverehrter Freund!</salute></opener><p sameAs="MBTextohneEinzug">Vor allen Dingen bitte ich Sie, oder eine von Ihren Damen um <hi rendition="#u">recht baldige</hi> Nachricht über Ihr
+                                        Befinden, <seg type="comment"><orig>die letzte durch Ihre
+                                                  Frau <persName key="pdrPo.001.004.000003075">Gemahlin</persName> empfangene war einigermassen
+                                                  allarmirend.</orig><note xml:id="c881f6c1-b963-4673-82c2-5b64a8cb1b66"><ref target="B00049"><?oxy_comment_start author="reichhoff" timestamp="20170415T114247+0200" comment="{{Br. 46}}"?>Siehe
+                                                  J. Marx an L. Kugelmann,
+                                                  26.2.1866<?oxy_comment_end?></ref>.</note></seg>
+                                        –</p><p sameAs="MBTextmitEinzug">Einliegende <expan resp="editor" sameAs="dottet_underline">r<ex>eichstaler</ex></expan>&#160;10.– als Beitrag von Freund Theor. Hch. <persName key="pdrPo.001.004.000011173">Menke</persName> – Hamburg als Jahresbeitrag <seg type="comment"><orig>für die durch mich empfangene Card of membership (Intern. work. men
+              assoc.).</orig><note xml:id="d68e35e3-193d-43a0-b8bb-3a3d118cb00b">Siehe <ref target="B00012/#start_yy2_qzt_4z">Marx an L. Kugelmann,
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170415T114602+0200" comment="{{Br. 11.9}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00011/#cb864592-8d8a-4a93-b073-8383b8d607bc">Erl. zu Marx an W.
+                Liebknecht, 15.1.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170517T170227+0200" comment="{{Erl. 10c}}."?></note><?oxy_comment_end?></seg>
+          Er reiste gestern hier durch nach Paris, wo er in Geschäften 4&#160;Wochen verweilen muß.
+          – <seg type="comment"><orig>Könnten Sie mir dort eine oder einige Adressen von Mitgliedern
+              der Intern. assoc. aufgeben mit denen er in Verbindung treten könnte?</orig><note xml:id="e3d36ca1-bebf-4281-b30e-8632e115f578">Siehe <ref target="B00086/#start_uwn_d15_4z">Marx an L. Kugelmann,
+              6.4.1866</ref><?oxy_comment_start author="reichhoff" timestamp="20170415T115007+0200" comment="{{Br. 83.17–23}}"?>.<?oxy_comment_end?></note></seg>
+          –</p><p sameAs="MBTextmitEinzug"><persName key="pdrPo.001.004.000011173">Menke</persName> ist zwar häufig
+                                        auf Reisen, für den wahrscheinlichen Fall aber, daß er <seg type="comment"><orig>bei Ihrem Aufenthalt im
+                                                  Hamburg,</orig><note xml:id="e8207900-0222-4647-8bdd-d4217ed9cbbd">Siehe <ref target="B00012/#start_w23_4yx_nz">Marx
+                                                  an L. Kugelmann,
+                                                  15.1.<?oxy_comment_start author="reichhoff" timestamp="20170415T115326+0200" comment="{{Br. 11.34–35}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        zu Hause ist, bittet er Sie sehr, bei ihm fürlieb zu nehmen.
+                                        – Sie werden in ihm und seiner <seg type="comment"><orig>Frau</orig><note xml:id="dbc56668-eaa8-42a5-9e30-5bf16265410c"><persName key="ed_hwl_c5f_1z">Menke,
+                                                  Ehefrau</persName>
+                                                </note></seg> liebe Menschen finden. – Vielleicht
+                                        sind Sie so gütig mir zuvor Ihren Reiseplan mitzutheilen.
+                                        –</p><p sameAs="MBTextmitEinzug">Mit nochmaliger Bitte um <hi rendition="#u">baldigste</hi> Nachricht und freundlicher Empfehlung an Ihre geschätzte Frau Gemahlin</p><closer sameAs="MBUnterschrift"><salute>stets der Ihrige <lb/></salute><signed>LKugelmann Dr </signed></closer></div></body></text></TEI>

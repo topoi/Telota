@@ -1,0 +1,373 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00170" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>166</idno>Johann Georg Eccarius an Karl Marx in London. Genf, Mittwoch, 5., und Donnerstag, 6. September 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 21 op. 1 d. 13/2</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus zwei Blättern dünnem, weißem Papier im Format 133&#160;×&#160;186 bzw. 188&#160;mm. Die ersten Seiten der beiden Blätter hat Eccarius vollständig beschrieben und selbst numeriert, die Rückseiten sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von unbekannter Hand (vermutlich von David Borisoviи Rjazanov): die Jahresangabe „1866“ auf der ersten Seite oben rechts mit lilafarbenem Stift.</p><p>Archivsignatur des ИМЭ auf den beschriebenen Seiten: „Rj 1754a“. bzw. „Rj 1755b“.</p><p>Die Schreibweise wurde nicht berichtigt.</p></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000001296">Johann Georg
+                                                Eccarius</persName>
+                                        <placeName>Genf</placeName>
+                                        <date from="1866-09-05" to="1866-09-06" cert="high"/>
+                                </correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:56Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                                <opener>
+                                        <dateline sameAs="MBDatumszeile"><pb/>1<pb/> La Brasserie de
+                                                Treiber, la Terrassière Genève<lb/>Sept.
+                                                5.</dateline>
+                                        <salute sameAs="MBAnrede">Lieber Marx,</salute>
+                                </opener>
+                                <p sameAs="MBTextohneEinzug">in einer Art bin ich sehr froh daß Du
+                                        nicht hier bist. Das geschwätzige Franzosenpack macht uns
+                                        viel zu schaffen und wir haben Niemanden der sie ein bischen
+                                        zusammen hauen kann. <seg type="comment"><orig>Drei Tage
+                                                  sind verflossen und wir haben mit knapper Mühe die
+                                                  Statuten passirt.</orig><note xml:id="d4f59ad7-ef4a-4c6d-9c6d-3f8355b4b5a1">
+                                                  <p rend="endnote text">Gemäß dem Beschluss der
+                                                  Londoner Konferenz der IAA (25.–29.&#160;September
+                                                  1865) sollte der Kongress in Genf das Programm und
+                                                  die organisatorischen Prinzipien der IAA
+                                                  bestätigen (siehe Minutes of the London
+                                                  Conference. In: MEGA² I/20. S.&#160;466.23–28).
+                                                  (((lMinutes of the London Conference of the
+                                                  International Working Men's Association
+                                                  September_25–29, 1865. In: MEGA²&#160;I/20.
+                                                  S.&#160;453–476))) - Zu Auseinandersetzungen um
+                                                  Grundsätze der IAA kam es in einigen Fragen mit
+                                                  französischen und Schweizer
+                                                  Kommissionsmitgliedern, die proudhonistische
+                                                  Auffassungen vertraten. Diese Debatten
+                                                  konzentrierten sich auf die Bedingungen für die
+                                                  Mitgliedschaft in der IAA (siehe auch
+                                                  Z.&#160;19–39). Es wurde des weiteren versucht,
+                                                  die Vollmachten des Zentralrats einzuschränken. -
+                                                  Nach Diskussion in der Plenarsitzung des
+                                                  Kongresses am 5.&#160;September 1866 wurden die
+                                                  Statuten der IAA einstimmig beschlossen; siehe
+                                                  Association_lnternationale des Travailleurs.
+                                                  Compte rendu du Congrès de Genève (1866). In:
+                                                  MEGA²&#160;I/20. S.&#160;658/659.
+                                                  (((lAssociation_lnternationale des Travailleurs.
+                                                  Compte rendu du Congrès de Genève (1866). In:
+                                                  MEGA²&#160;I/20. S.&#160;648–680))) (Zur
+                                                  Veröffentlichungsgeschichte siehe MEGA²&#160;I/20.
+                                                  S.&#160;1253–1259.) </p>
+                                                </note></seg>
+                                        <seg type="comment"><orig>Die Wahl des <expan resp="editor" sameAs="dottet_underline">Generalsekretär</expan>
+                                                  durch den Kongress ist durchgefallen.</orig><note xml:id="nark_hlj_3z">Die Empfehlung des
+                                                  Zentralrats, den Generalsekretär durch den
+                                                  Kongress wählen zu lassen, wurde abgelehnt. Siehe
+                                                  dazu Association lnternationale des Travailleurs.
+                                                  Compte rendu du Congrès de Genève (1866). In:
+                                                  MEGA²_I/20. S. 658.15–23 sowie MEGA²_I/20. S.
+                                                  1251/1252. (((lAssociation_lnternationale des
+                                                  Travailleurs. Compte rendu du Congrès de Genève
+                                                  (1866). In: MEGA²_I/20. S. 649–679)))</note></seg>
+                                        Ich war der einzige der dafür sprach <persName key="pdrPo.001.004.000001027">Cremer</persName>
+                                        drückte privatim dagegen aus, die andern verhielten sich
+                                        neutral. <seg type="comment"><orig>Die Londoner</orig><note xml:id="nak3_plj_3z">Siehe <ref target="B00167/#ebc8cea7-6d2d-416a-81ab-1128d56577c4">Erl. zu Marx an J. Ph. Becker,
+                                                  31.8.<?oxy_comment_start author="reichhoff" timestamp="20170519T115909+0200" comment="{{Erl. 163b}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                                        ausser mir hatten einen harten Kampf mit den Parisern. <seg type="comment"><orig>Die Pariser</orig><note xml:id="c6f1b53e-20a3-48ae-bcbb-11635d635fe7">
+                                                  Siehe Association lnternationale des Travailleurs.
+                                                  Compte rendu du Congrès de Genève (1866). In:
+                                                  MEGA²&#160;I/20. S.&#160;651.
+                                                  (((lAssociation_lnternationale des Travailleurs.
+                                                  Compte rendu du Congrès de Genève (1866). In:
+                                                  MEGA²&#160;I/20. S.&#160;649–679))) </note></seg>
+                                        <seg type="comment"><orig>bestanden auf jährlichen
+                                                  Kongressen unsere Leute waren dagegen sie wurden
+                                                  mit großer Mehrzahl überstimmt. Der Kongreß
+                                                  bestimmt Zeit &amp; Ort des nächsten Kongresses,
+                                                  dem Generalrath bleibt es überlassen, Falls
+                                                  Umstände es erheischen, ihn zu
+                                                  verlegen.</orig><note xml:id="d48bb12b-c265-4ca2-a283-5dd93c6c77f4">Zu
+                                                  Diskussion und Beschluss über die Einberufung des
+                                                  nächsten Kongresses der IAA siehe ebenda.
+                                                  S.&#160;658.24–36 und S._658.45–659.6 sowie
+                                                  MEGA²&#160;I/20. Erl. 239.24–30 und Erl.
+                                                  24–26.</note></seg> Auf <persName key="pdrPo.001.004.000001654">Fribourgs</persName>
+                                        Antrag versammeln sich die Delegirten aus eigener
+                                        Machtvollkommenheit – pleine droit – ohne spezielle
+                                        Einladung des Generalraths. Unsere älteren Landsleute hier
+                                        sind wahre Knoten, der Gelehrte Haß ist noch nicht
+                                        ausgestorben. <anchor type="verweisziel" xml:id="start_vq3_sz4_rz"/>Ich habe heute einen
+                                        harten Kampf gehabt, &amp; ich bin so heiser daß ich kaum
+                                        sprechen kann. <seg type="comment"><orig>In der Statuten
+                                                  Kommission</orig><note xml:id="ngz5_4mj_3z">Zur
+                                                  Diskussion über eine Mitgliedschaft in der IAA
+                                                  siehe ebenda. S.&#160;659.26–40. Siehe auch <ref target="B00176">Marx an Engels,
+                                                  26.9.1866</ref><?oxy_comment_start author="roth" timestamp="20170425T122538+0200" comment="{{Br. 171.9–21}}."?>.<?oxy_comment_end?>
+                                                  (((lAssociation_lnternationale des Travailleurs.
+                                                  Compte rendu du Congrès de Genève (1866). In:
+                                                  MEGA²&#160;I/20. S.&#160;648–680)))</note></seg>
+                                        schlug <persName key="pdrPo.001.004.000001278">Duplex</persName> daß nur Travailleurs productive
+                                        fähig sein sollten Mitglieder zu werden. <persName key="pdrPo.001.004.000001010">Coullery</persName>
+                                        opponirte, <seg type="comment"><orig><persName key="pdrPo.001.004.000000317">Becker</persName></orig><note xml:id="nmrk_qmj_3z"><persName key="pdrPo.001.004.000000317">Johann Philipp
+                                                  Becker</persName>. </note></seg> &amp; <persName key="pdrPo.001.004.000000814">Carter</persName>
+                                        sprachen zu Gunsten von Kopfarbeitern, <persName key="pdrPo.001.004.000001654">Fribourg</persName>
+                                        schlug vor wer sein Brod durch eine Arbeit verdient wird als
+                                        Arbeiter betrachtet. Dieses ging durch ich konnte Nichts
+                                        dagegen machen. Bei der Uebersetzung und Redaktion, die mir,
+                                                <persName key="pdrPo.001.004.000001010">Coullery</persName>, &amp; <seg type="comment"><orig>einem Züricher</orig><note xml:id="ae20d0bc-3d01-4f65-88f9-86706694c6c3"><persName key="pdrPo.001.004.000000665">Karl
+                                                  Bürkli</persName>. Siehe auch {{Z.&#160;44}}.
+                                                </note></seg> zu fiel opponirte ich wieder, die
+                                        Definition des Arbeiter wollte ich beseitigt wissen, es
+                                        wurde nur ein anderes Anhängsel gemacht, daß wer mitarbeitet
+                                        an der Emanzipation der Arbeiter auch zulässig sein soll. In
+                                        der Plenar Versammlung stellte <persName key="pdrPo.001.004.000001296">ich</persName> &amp;
+                                                <persName key="pdrPo.001.004.000001027">Cremer</persName> den Antrag „wer mit unsern
+                                        Grundsätzen übereinstimmt kann Mitglied werden“ eine lange
+                                        und heftige Debatte entstand, der Gelehrten Haß wurde laut,
+                                                <persName key="pdrPo.001.004.000001278">Duplex</persName> fürchtet sich vor den Advokaten,
+                                        die Pariser vor den Spionen, ich räusperte mich auf so gut
+                                        ich konnte appellirte an das junge Deutschland, <expan resp="editor" sameAs="dottet_underline">ein<ex>i</ex>ge</expan> fühlen sich dadurch
+                                        bewogen für meinen Antrag zu sprechen ich <expan resp="editor" sameAs="dottet_underline">besta<ex>n</ex>d</expan> darauf daß wenn sie
+                                        nicht im Stande seien Schufte fern zu halten so seien sie
+                                        nicht im Stande die Bewegung zu leiten, wir brachten die
+                                        Franzosen so weit daß sie sich zufrieden stellten mit dem
+                                        proviso das jede Sektion für die Moral ihrer Mitglieder
+                                        verantwortlich ist.<anchor type="verweisziel" xml:id="stop_vq3_sz4_rz"/>
+                                        <seg type="comment"><orig>Die französische Uebersetzung, in
+                                                  der hiesigen Zeitung, von §&#160;7 der Statuten
+                                                  hatte die Franzosen irre geführt. Centralorgane,
+                                                  heißt dort organ special mit einigen Auslassungen
+                                                  der begleitenden Worte, dieses wurde <pb/>2<pb/>
+                                                  ausgelegt als wenn es Zeitungen
+                                                  bedeute.</orig><note xml:id="nhpy_twj_3z">Vermutlich gemeint: [Marx, Karl:] Règlements
+                                                  provisoire. [Trad. par le Bureau de Paris de
+                                                  l’A.I.T.]. In: Journal de l’Association
+                                                  Internationale des Travailleurs. Genève. Nr._1,
+                                                  17._Dezember 1865. S._2. - In Artikel&#160;7 der
+                                                  „Provisional Rules of the International Working
+                                                  Men’s Association“ von Marx ging es um die
+                                                  Notwendigkeit, die Arbeiter in jedem Lande zu
+                                                  vereinigen und sie dann durch „zentrale nationale
+                                                  Gremien“ vertreten zu lassen. (Siehe Karl Marx:
+                                                  Provisional Rules of the International Working
+                                                  Men's Association. In: MEGA²&#160;I/20.
+                                                  S.&#160;15.5–17). Siehe dazu MEGA²&#160;I/20.
+                                                  Erl.&#160;240.11-12 und ebenda, S.&#160;1252.
+                                                  Siehe auch <ref target="B00102/#f87e530a-6847-4733-9eeb-d1cd48ea7512">Erl. zu H. Jung an Marx, 2.5.<?oxy_comment_start author="reichhoff" timestamp="20170519T120124+0200" comment="{{Erl._98e}}"?>1866<?oxy_comment_end?>.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                                                  <?oxy_custom_end?></ref>(((lMarx,Karl:Provisional
+                                                  Rules of the International Working Men's
+                                                  Association. In: MEGA²&#160;I/20. S.&#160;13–15)))
+                                                  Siehe auch oben, {{Z.&#160;19–39}}. </note></seg>
+                                        Der Züricher &amp; ich mußten unsere ganze Beredsamkeit
+                                        aufbieten um den <persName key="pdrPo.001.004.000001010">Coullerey</persName>, der deutsch versteht zu
+                                        überzeugen. Sobald er <seg type="comment"><orig>die deutsche
+                                                  Fassung</orig><note xml:id="cb75e7e4-b11c-4bbf-9a86-6fe2ae493611">
+                                                  <p rend="endnote text"> Karl Marx: Provisorische
+                                                  Bestimmungen der Internationalen
+                                                  Arbeiterassoziation. In: MEGA²&#160;I/20.
+                                                  S.&#160;54–56. (((lMarx,Karl:Provisorische
+                                                  Bestimmungen der Internationalen
+                                                  Arbeiterassoziation. In: MEGA²&#160;I/20.
+                                                  S.&#160;54–56))) - Sehr wahrscheinlich wurde hier
+                                                  <persName key="pdrPo.001.004.000000317">Johann
+                                                  Philipp Beckers</persName> Publikation benutzt:
+                                                  [Karl Marx:] Provisorische Bestimmungen der
+                                                  Internationalen Arbeiter-Association. In: Der
+                                                  Vorbote. Genf. Jg.&#160;1. Nr.&#160;4, April 1866.
+                                                  S.&#160;63/64; Nr.&#160;5, Mai 1866. S.&#160;74/75
+                                                  (siehe MEGA²&#160;I/20. S.&#160;993/994, 996).
+                                                  (((l[Marx,Karl:]Provisorische Bestimmungen der
+                                                  Internationalen Arbeiter-Association. In: Der
+                                                  Vorbote. Genf. Jg.&#160;1. Nr.&#160;4, April 1866.
+                                                  S.&#160;63/64; Nr.&#160;5, Mai 1866.
+                                                  S.&#160;74/75))) </p>
+                                                </note></seg> mit der französischen verglich sah er
+                                        den Irrthum ein. <seg type="comment"><orig>In der Plenar
+                                                  Sitzung legte er es den Franzosen aus.</orig><note xml:id="b117d634-cf78-4f26-97a9-d361f4fb8ede">Siehe Association_lnternationale des
+                                                  Travailleurs. Compte rendu du Congrès de Genève
+                                                  (1866). In: MEGA²&#160;I/20. S.&#160;658.9–11.
+                                                  (((lAssociation_lnternationale des Travailleurs.
+                                                  Compte rendu du Congrès de Genève (1866). In:
+                                                  MEGA²&#160;I/20. S.&#160;649–679))) </note></seg>
+                                        <seg type="comment"><orig><persName key="pdrPo.001.004.000001654">Fribourg</persName>
+                                                  entgegnete daß sie <supplied cert="high">in</supplied> Frankreich keine solche Organe
+                                                  bilden könnten, aber der Nachsatz stopped
+                                                  him.</orig><note xml:id="nsnt_hxj_3z">Siehe
+                                                  ebenda. S.&#160;659.15–25 und Erl._339.9 sowie
+                                                  Archer: The First International in France.
+                                                  S.&#160;12/13, 70. (((lArcher:The First
+                                                  International in France)))</note></seg></p>
+                                <p rend="MBTextMitEinzug">Ich bin neugierig wie es morgen gehen
+                                        wird, <seg type="comment"><orig>wenn unsere Vorschläge zur
+                                                  Diskussion kommen.</orig><note xml:id="cffdc0dc-e288-47a8-b2ee-2ab50a912f5e">
+                                                  <p rend="endnote text">In der Plenarsitzung des
+                                                  Kongresses am 6.&#160;September 1866 begann die
+                                                  Diskussion zum Programm der IAA. Siehe
+                                                  Association_lnternationale des Travailleurs.
+                                                  Compte rendu du Congrès de Genève (1866). In:
+                                                  MEGA²&#160;I/20. S.&#160;660–667.
+                                                  (((lAssociation_lnternationale des Travailleurs.
+                                                  Compte rendu du Congrès de Genève (1866). In:
+                                                  MEGA²&#160;I/20. S.&#160;649–679))) Siehe weiter
+                                                  MEGA²&#160;I/20. Erl._ 660.10–11. </p>
+                                                </note></seg>
+                                        <seg type="comment"><orig>Die Pariser haben Foliopakete über
+                                                  die Fragen sie haben sie gelesen,</orig><note xml:id="d646cef9-eb28-40c1-b956-46367fc46536">Association_lnternationale des Travailleurs.
+                                                  Compte rendu du Congrès de Genève (1866). In:
+                                                  MEGA²&#160;I/20. S.&#160;656.20–21, 26–27.
+                                                  (((lAssociation_lnternationale des Travailleurs.
+                                                  Compte rendu du Congrès de Genève (1866). In:
+                                                  MEGA²&#160;I/20. S.&#160;649–679))) Die
+                                                  Denkschrift „Congrès de Genève. Mémoire des
+                                                  délégués français“ (Bruxelles 1866) wurde von
+                                                  Mitgliedern des Bureau de Paris de l'A.I.T. im
+                                                  August 1866 zum Kongress erarbeitet und war
+                                                  proudhonistisch geprägt. Siehe dazu auch <ref target="B00183/#start_nsc_gy4_rz">Marx an L.
+                                                  Kugelmann,
+                                                  9.10.1866</ref><?oxy_comment_start author="roth" timestamp="20170425T123153+0200" comment="{{Br. 178.24–43}}. "?>.<?oxy_comment_end?>
+                                                  (((lCongrès de Genève. Mémoire des délégués
+                                                  français. Bruxelles 1866))) </note></seg> es ist
+                                        weitschweifiger Schund, wahrscheinlich werden amendements
+                                        machen. <anchor type="verweisziel" xml:id="start_pxd_phr_5z"/>Die Genfer hatten auch Lust, sich selbst <seg type="comment"><orig>die Denkschrift</orig><note xml:id="c19c5470-02e6-45e3-9a4a-d06e2e242a5f">
+                                                  [Johann Philipp Becker:] Denkschrift der deutschen
+                                                  Abtheilung (Genf) der Internationalen
+                                                  Arbeiterassociation. In: Der Vorbote. Genf.
+                                                  Jg.&#160;1. Nr.&#160;2, Februar 1866.
+                                                  S.&#160;26–31; Nr.&#160;3, März 1866.
+                                                  S.&#160;44/45; Nr.&#160;4, April 1866.
+                                                  S.&#160;57–60; Nr.&#160;5, Mai 1866.
+                                                  S.&#160;75–77; Nr.&#160;6, Juni 1866.
+                                                  S.&#160;86–89; Nr.&#160;7, Juli 1866.
+                                                  S.&#160;107–109; Nr.&#160;8, August 1866.
+                                                  S.&#160;121–123. Siehe auch MEGA²&#160;I/20.
+                                                  Erl._660.10–11. (((lBecker,Johann
+                                                  Philipp:Denkschrift der deutschen Abtheilung
+                                                  (Genf) der Internationalen Arbeiterassociation.
+                                                  In: Der Vorbote. Genf. Jg.&#160;1. Nr.&#160;2,
+                                                  Februar 1866. S.&#160;26–31; Nr.&#160;3, März
+                                                  1866. S.&#160;44/45; Nr.&#160;4, April 1866.
+                                                  S.&#160;57–60; Nr.&#160;5, Mai 1866.
+                                                  S.&#160;75–77; Nr.&#160;6, Juni 1866.
+                                                  S.&#160;86–89; Nr.&#160;7, Juli 1866.
+                                                  S.&#160;107–109; Nr.&#160;8, August 1866.
+                                                  S.&#160;121–123))) </note></seg> vorzulesen und
+                                        einzubringen, ich glaube ich habe sie von ihrem Vorhaben
+                                                abgebracht.<anchor type="verweisziel" xml:id="stop_pxd_phr_5z"/> les grandes, très
+                                        important questions economique du <persName key="pdrPo.001.004.000004773">Tolain</persName>
+                                        werden uns wahrscheinlich etwas zu schaffen machen. I am
+                                        almost sick &amp; tired of the Congress.</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Die
+                                                  Notizen</orig><note xml:id="nzst_4zj_3z">Siehe
+                                                  Congress of Working Men. In: The Times. London.
+                                                  Nr._25_593, 3._September 1866. S. 5; Congress of
+                                                  Working Men at Geneva. In: The Daily News. London.
+                                                  Nr._6343, 3._September 1866. S._2. Der Wortlaut
+                                                  beider Artikel stimmt weitgehend überein;
+                                                  möglicherweise stammen sie von <persName key="pdrPo.001.004.000001296">Eccarius</persName>.
+                                                  (((lCongress of Working Men. In: The Times.
+                                                  London. Nr._25_593, 3._September 1866. S. 5)))
+                                                  (((lCongress of Working Men at Geneva. In: The
+                                                  Daily News. London. Nr._6343, 3._September 1866.
+                                                  S._2))) Siehe auch Association lnternationale des
+                                                  Travailleurs. Compte rendu du Congrès de Genève
+                                                  (1866). In: MEGA²_I/20. S._658.4–6 und Erl. sowie
+                                                  Minutes of the General Council 1866/1867. In:
+                                                  MEGA²_I/20. S._483.18–22 und Erl. (((lAssociation
+                                                  lnternationale des Travailleurs. Compte rendu du
+                                                  Congrès de Genève (1866). In: MEGA²_I/20. S.
+                                                  649–679))) (((lMinutes of the General Council
+                                                  1866/1867. In: MEGA²_I/20.
+                                                S._477–591)))</note></seg> in der <bibl sameAs="zzThe Times">Times</bibl>, Daily <bibl sameAs="zzThe Daily News">News</bibl>, &amp; <seg type="comment"><orig><bibl sameAs="zzThe Daily Telegraph">Telegraph</bibl>,</orig><note xml:id="nzwk_qzj_3z">„The Daily Telegraph”
+                                                  (London). (((zThe_Daily_Telegraph)))</note></seg>
+                                        machen unsern Leuten hier sehr viel Vergnügen.
+                                                Mr&#160;<persName key="pdrPo.001.004.000001027">Cremer</persName> claims the initiative, he was
+                                        going to do it himself, but he had no time but he told
+                                                <persName key="pdrPo.001.004.000001603">Fox</persName> to do it who may have made a pound
+                                        by it. He told me to night <seg type="comment"><orig>I ought
+                                                  to have sent a report</orig><note xml:id="ndnw_h2k_3z">In der folgenden Woche
+                                                  erschien der Beitrag „The International Workmen’s
+                                                  Congress in Geneva“ (Reynolds’s Newspaper. London.
+                                                  Nr._840, 16._September 1866. S._6). Der Beitrag
+                                                  ist ein Nachdruck des ungezeichneten Artikels
+                                                  „The_International Workmen’s Congress in Geneva“
+                                                  aus „The_Bee-Hive Newspaper“, Nr._257, S._7 vom
+                                                  15._September 1866 und stammt damit wahrscheinlich
+                                                  nicht von <persName key="pdrPo.001.004.000001296">Eccarius</persName>. (((lThe International
+                                                  Workmen’s Congress in Geneva. In: Reynolds’s
+                                                  Newspaper. London. Nr._840, 16._September 1866.
+                                                  S._6 /UT:A Weekly Journal of Politics History,
+                                                  Literature, and General Intelligence.))) (((lThe
+                                                  International Workmen’s Congress in Geneva. In:
+                                                  The Bee-Hive Newspaper“. Nr._257, 15._September
+                                                  1866. S._7/VQL))) </note></seg> to <seg type="comment"><orig><bibl sameAs="zzReynolds’s Newspaper">Reynolds</bibl></orig><note xml:id="nsnf_f2k_3z">„Reynolds’s_Newspaper (London). (((zReynolds’s
+                                                  Newspaper)))</note></seg> they would have taken,
+                                        or tell <persName key="pdrPo.001.004.000002774">Leno</persName> to send slips to the dailies.</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Über die vom
+                                                  <persName key="pdrPo.001.004.000002417">Jung</persName> angeregte Geldfrage</orig><note xml:id="na2y_bnk_3z">Siehe <ref target="B00168">H.
+                                                  Jung an Marx,
+                                                  5.9.<?oxy_comment_start author="roth" timestamp="20170425T123504+0200" comment="{{Br. 164.13–16}}."?>1866<?oxy_comment_end?></ref>.
+                                                </note></seg> muß ich bemerken daß ich freilich <seg type="comment"><orig>meiner Frau</orig><note xml:id="ea31ba0e-e941-42fc-bb5c-8ae2755163fa"><persName key="pdrPo.001.004.000010455">Eccarius,
+                                                  Ehefrau</persName>. </note></seg> nur
+                                        12&#160;Schillinge zu hause ließ, ich selbst hatte zwei
+                                        Pfund nachdem das Ticket bezahlt aber es wurde mir
+                                        versprochen daß sie im Laufe der Woche 1&#160;£ haben
+                                        sollte, welches ich <seg type="comment"><orig>vorigen
+                                                  Freitag</orig><note xml:id="ae4182d1-5b64-46f1-9cd6-0d67ccdfb28d">31.&#160;August 1867.</note></seg> Abend zu
+                                        erheben gedachte. <seg type="comment"><orig>Ich glaube nicht
+                                                  daß ich vor Ende nächster Woche zurück kehren
+                                                  werde. <persName key="ed_rr5_4hk_wy">Lawrence</persName> &amp; ich wollen unterweges,
+                                                  hauptsächlich in Paris mit den Schneidern
+                                                  anbinden.</orig><note xml:id="nixb_v4k_3z"><persName key="pdrPo.001.004.000001296">Eccarius</persName> und <persName key="ed_rr5_4hk_wy">Mathew Lawrence</persName>
+                                                  kamen vor dem 18. September 1866 über Paris nach
+                                                  London zurück. Beide waren in der an diesem Tag
+                                                  stattfindenden Generalratsitzung der IAA anwesend.
+                                                  Siehe Minutes of the General Council 1866/1867.
+                                                  In: MEGA²_I/20. S. 479.23–24 und 480.10–19.
+                                                  (((lMinutes of the General Council 1866/1867. In:
+                                                  MEGA²_I/20. S._477–591)))</note></seg> (Die
+                                        Schneidergesellschaft wird vielleicht etwas vergüten. <seg type="comment"><orig>Morgen werden wir eine
+                                                  Unterredung mit den hiesigen Schneidern
+                                                  haben.</orig><note xml:id="nswr_z4k_3z"><persName key="ed_rr5_4hk_wy">Lawrence</persName> und
+                                                  <persName key="pdrPo.001.004.000001296">Eccarius</persName> traten am 5. September 1866
+                                                  auf einer internationalen Schneiderversammlung in
+                                                  Genf auf. Siehe Minutes of the General Council
+                                                  1866/1867. In: MEGA²_I/20. S. 480.20–21 und Erl.
+                                                  sowie ebenda, S. 1197 (((lMinutes of the General
+                                                  Council 1866/1867. In: MEGA²_I/20.
+                                                  S._477–591)))</note></seg> Meine <persName key="pdrPo.001.004.000010455">Frau</persName> muß
+                                        daher etwas für die nächste Woche bekommen wenn es irgend
+                                        möglich ist, denn wir haben nirgends Kredit als für die
+                                        Miethe.</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_jdw_s44_rz"/><persName key="pdrPo.001.004.000002417">Jung</persName> wurde mit 45 aus 54&#160;Stimmen
+                                                  gewählt.<anchor type="verweisziel" xml:id="stop_jdw_s44_rz"/></orig><note xml:id="nnsv_dpk_3z"><persName key="pdrPo.001.004.000002417">Hermann
+                                                  Jung</persName> wurde zum Vorsitzenden des Genfer
+                                                  Kongresses gewählt. Siehe
+                                                  Association_lnternationale des Travailleurs.
+                                                  Compte rendu du Congrès de Genève (1866). In:
+                                                  MEGA²_I/20. S. 655.25–27.
+                                                  (((lAssociation_lnternationale des Travailleurs.
+                                                  Compte rendu du Congrès de Genève (1866). In:
+                                                  MEGA²_I/20. S. 649–679)))</note></seg>
+                                        <seg type="comment"><orig><persName key="pdrPo.001.004.000001278">Dupleix</persName>
+                                                  &amp; <persName key="pdrPo.001.004.000000317">Becker</persName> sind Vice <expan resp="editor" sameAs="dottet_underline">Pr<ex>äsidenten</ex></expan></orig><note xml:id="njhm_wpk_3z">Siehe ebenda. S.
+                                                  655.28–29.</note></seg>
+                                        <persName key="pdrPo.001.004.000001010">Coullerey</persName>, <seg type="comment"><orig>ein
+                                                  Pole,</orig><note xml:id="nj44_1qk_3z"><persName key="ed_k11_4w1_mz">Joseph Card</persName>.
+                                                </note></seg>
+                                        <seg type="comment"><orig>ein Franzose,</orig><note xml:id="ny3n_cqk_3z"><persName key="ed_mjq_rq1_mz">Antoine-Marie Bourdon</persName>. </note></seg>
+                                        und <persName key="ed_ksb_ssd_xx">Moll</persName> von Köln
+                                        &amp; Solingen <seg type="comment"><orig>sind
+                                                  Schriftführer.</orig><note xml:id="neds_lqk_3z">Siehe ebenda. S.&#160;655.30–31.</note></seg>
+                                        (Wir werden photographirt)</p>
+                                <p sameAs="MBTextmitEinzug">J'espere ma lecture sera interesant.</p>
+                                <closer sameAs="MBUnterschrift">Gruß Deines J.George
+                                        Eccarius.</closer>
+                                <p sameAs="MBAdresse">Donnerstag</p>
+                                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig><persName key="pdrPo.001.004.000001654">Fribourg</persName>
+                                                  macht uns ein schönes Büdget heute Morgen im
+                                                  Comité. Er macht einen Code Napoleon für die
+                                                  Internationale-<expan resp="editor" sameAs="dottet_underline">Sec<ex>tion</ex></expan>&#160;III</orig><note xml:id="nexx_5qk_3z">Vermutlich meint <persName key="pdrPo.001.004.000001296">Eccarius</persName>
+                                                  hier die „Règlements spéciaux votés au Congrès de
+                                                  Genève (1866)“ (MEGA² I/20. S.&#160;646/647);
+                                                  siehe dazu auch Association_lnternationale des
+                                                  Travailleurs. Compte rendu du Congrès de Genève
+                                                  (1866). In: MEGA²&#160;I/20. S.&#160;660.6–9 und
+                                                  ebenda, S._1742–1744. Die Diskussion und
+                                                  Beschlußfassung dazu erfolgten am
+                                                  8.&#160;September 1866 (siehe ebenda.
+                                                  S.&#160;674–676). (((lRèglements spéciaux votés au
+                                                  Congrès de Genève (1866). Von Paul Lafargue rnit
+                                                  Unterstutzung von Laura Marx redigierte
+                                                  französische Fassung. In: MEGA² I/20.
+                                                  S.&#160;646/647))) (((lAssociation_lnternationale
+                                                  des Travailleurs. Compte rendu du Congrès de
+                                                  Genève (1866). In: MEGA²&#160;I/20.
+                                                  S.&#160;649–679)))</note></seg></p>
+                        </div></body></text></TEI>

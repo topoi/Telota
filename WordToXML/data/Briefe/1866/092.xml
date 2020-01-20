@@ -1,0 +1,39 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00096" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>92</idno>Sigismund Ludwig Borkheim an Karl Marx in London. London, Samstag, 21. April 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 440/D I 110.
+                            Fotosign.&#160;9663</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            261&#160;×&#160;204&#160;mm; vom zweiten Blatt des Bogens ist unten
+                            rechts ein Stück Papier abgerissen worden, so dass die rechte Höhe des
+                            Bogens nur 157&#160;mm beträgt. Wasserzeichen: „I &amp; F&#160;H 1865“.
+                            Aufdruck der Firma
+                            <?oxy_comment_start author="strauss" timestamp="20170613T102755+0200" comment="(((nFirmaSchröder ...)))"?>Schröder
+                            &amp; Schÿler &amp; C<hi rendition="#sup">o</hi><?oxy_comment_end?> auf
+                            der ersten Seite (siehe S. L. Borkheim an Marx, 8.1.1866). Borkheim hat
+                            die erste Seite vollständig beschrieben, die übrigen drei Seiten sind
+                            leer. Schreibmaterial: schwarze Tinte. </p>
+                        <p>Marx’ Antwort vom 23.&#160;April 1866 (siehe S. L. Borkheim an Marx,
+                            26.4.1866: „Dank für Ihre Zeilen vom 23sten“) ist nicht überliefert.
+                        </p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1652</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName><placeName>London</placeName><date when="1866-04-21"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:12Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/>
+                        <hi rendition="#mPrint"><hi rendition="#i"><hi rendition="#mPrint">65,
+                                    Fenchurch Street, E.C.&#160;</hi></hi></hi></dateline><dateline sameAs="MBDatumszeile"><hi rendition="#mPrint"><hi rendition="#i">London,</hi></hi>  21
+                        April 1866.</dateline><salute sameAs="MBAnrede">Lieber Marx,</salute></opener><p sameAs="MBTextohneEinzug">Ich wollte Ihnen die Mittheilung persönlich machen, die ich nun abschicke.</p><p sameAs="MBTextmitEinzug">Seit 4<hi rendition="#sup">ten</hi> d.&#160;M. bin ich Vater eines mit
+                    großer Schwierigkeit – zwei der ersten accoucheurs und Zangen – zur Welt
+                    gebrachten <seg type="comment"><orig>Jungen.</orig><note xml:id="d5734b39-c454-4acf-83d0-6e12241f20ae"><persName key="pdrPo.001.004.000010218">Frederick Borkheim.</persName> Siehe
+                                <bibl sameAs="zotero-604880-JC4NASZ7" type="secondary">Gemkow:
+                                Sigismund Ludwig
+                            Borkheim.</bibl><?oxy_comment_start author="roth" timestamp="20170505T144339+0200" comment="(((lGemkow,Heinrich:_Sigismund Ludwig Borkheim.Hamburg_2003)))"?></note><?oxy_comment_end?></seg>
+                    Er war zu breitschultrig und dickköpfig. Der <seg type="comment"><orig>Mutter</orig><note xml:id="cec9c9a3-1569-494a-a6ae-27081b3b0fd1"><persName key="pdrPo.001.004.000000541">Hannah Borkheim</persName>.
+                        </note></seg> Zustand bessert sich langsam aber deutlich; der Kleine ist
+                    kreuzfidel!</p><p sameAs="MBTextmitEinzug">Die herzlichsten Grüße von uns Beiden an Ihre Lieben. Lassen Sie sich doch mal sehen.</p><closer sameAs="MBUnterschrift">Freundlichst grüßend<lb/>Borkheim </closer></div></body></text></TEI>

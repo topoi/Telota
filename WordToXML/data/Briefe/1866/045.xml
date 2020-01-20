@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00048" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>45</idno>Louis Kugelmann an Karl Marx in London. Hannover, Freitag, 23. Februar 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 1640</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              283&#160;×&#160;218&#160;mm. Prägung „Dr.&#160;L.&#160;Kglm.“ Die erste Seite hat
+              Kugelmann vollständig beschrieben, die zweite zur Hälfte, die übrigen beiden Seiten
+              sind leer. Schreibmaterial: schwarze Tinte.</p>
+            <p>Von unbekannter Hand: Nummerierung des Briefes bzw. der beschriebenen Seiten: „21a“
+              bzw. „21b“. </p>
+            <p>Die Antwort erhielt Kugelmann von
+              <?oxy_comment_start author="strauss" timestamp="20170613T104309+0200" comment="(((nMarx,J.)))"?>Jenny
+              Marx<?oxy_comment_end?> mit ihrem Brief vom 26.&#160;Februar 1866 (J. Marx an L.
+              Kugelmann, zw. 23. u. 26.2.1866).</p>
+          </physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName><placeName>Hannover</placeName><date when="1866-02-23"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:43Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Hannover, 23. Febr. 1866</dateline><salute sameAs="MBAnrede">Mein hochverehrter Freund!</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><orig>Längst hätte ich Ihnen meine große Freude
+              über das Versprechen Sie bald hier zu sehen, ausgesprochen,</orig><note xml:id="e4eec819-9bc9-4e3b-a3d7-01d39fdef502">Siehe <ref target="B00012/#start_w23_4yx_nz">Marx an L. Kugelmann,
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170412T110206+0200" comment="{{Br. 11.35}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          hätte ich nicht gewünscht Ihnen irgend etwas von allgemeinem Interesse mittheilen zu
+          können. Da dieser Wunsch nun durch die Ohnmacht der Thatsachen nicht in Erfüllung geht,
+            <seg type="comment"><orig>so gestatten Sie mir, Sie an Ihr freundliches Versprechen, mir
+              bald wieder zu schreiben erinnern zu dürfen.</orig><note xml:id="dca9a953-9c8b-4add-86ba-12e69618614e">Siehe <ref target="B00012/#start_csg_yyx_nz">Marx an L. Kugelmann,
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170412T110415+0200" comment="{{Br. 11.7–8}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          – Ich hoffe dann Näheres <seg type="comment"><orig>über Ihre Reise nach
+              Hamburg</orig><note xml:id="bf53e2e1-8fdb-455d-8887-2e7876133087">Marx beabsichtigte,
+              das Manuskript des „Kapitals“ selbst zum Verleger <persName key="pdrPo.001.004.000003135">Meißner</persName> nach Hamburg zu bringen. Siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an J. Ph. Becker,
+                zwischen 9. und 15.1.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170516T152249+0200" comment="{{Erl._6b}}."?>
+              <?oxy_comment_end?>(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867))) </note></seg> zu
+          hören. – Kommen Sie über Cöln, so wird Herr <persName key="ed_pgt_nf1_kz">H.B.&#160;Hellwitz</persName>, Breitestr.&#160;6. es sich zur Ehre schätzen, wenn Sie
+          seine Gastfreundschaft annehmen wollen. – Dieser Herr, ein reicher Kaufmann, dessen Ideen
+          den Kreis der bürgerlichen Anschauung überschreiten, trägt sich mit einem
+          pseudo-socialistischen Projecte (Leinenfabrikation im großen Maaßstabe unter Betheiligung
+          der Arbeiter am Gewinne), dessen <persName key="pdrPo.001.004.000004342">Schulze-Delitzsche</persName> Billigung er bereits gefunden, welches auch mit Ihnen zu
+          berathen ich ihm rieth. –</p><p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Heute ist der Landtag in Berlin geschlossen,
+              nachdem er wieder den Beweis der Regierungsunfähigkeit der Bourgeoisie
+              geliefert.</orig><note xml:id="e7164234-959f-4fe0-b325-2428f92a3cfb">Am 23. Februar
+              1866 wurde die am 15. Januar eröffnete Landtagssession durch die Regierung bereits
+              wieder geschlossen. Im schwebenden Verfassungskonflikt gelang noch immer keine
+              Einigung zwischen Regierung und liberaler Landtagsmehrheit.</note></seg>&#160;–
+            <persName key="pdrPo.001.004.000000359">v.&#160;Bennigsen</persName>, Präsident <seg type="comment"><orig>des National-Vereins,</orig><note xml:id="b104eb5e-2cc3-41dd-a8e8-532d3ed998c7">Der Deutsche Nationalverein
+              (1859–1867).</note></seg> erkannte, auf mein Vorhalten, kürzlich an, daß die
+          bürgerlichen Partheien durch Vernachlässigung des Proletariats sehr <pb/> gefehlt haben. –
+          Das fortschrittliche Bürgerthum ist aber noch nicht fußtrittlich genug behandelt um sich
+          mit dem Proletariate so weit einzulassen, daß es ihm gestattet seine Kämpfe auszufechten,
+          um wie 1830 u 1848 sie am folgenden Tage zu verrathen. –</p><p sameAs="MBTextmitEinzug">Wo bestellt man den „<bibl sameAs="zzDer Vorbote">Vorboten“</bibl>? Direct bei <persName key="pdrPo.001.004.000000317">Becker</persName> in Genf, auf Buchhändlerweg?</p><p rend="ie">Da Sie nun im März kommen wollen, so hoffe ich bald Spezielles über Ihre Reise zu hören, auch wann Sie hier und in Hamburg einzutreffen gedenken. Mit herzlichen Grüssen</p><closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u1}</hi>-->der Ihrige<lb/>LKugelmann<lb/>Dr </closer></div></body></text></TEI>

@@ -1,0 +1,1031 @@
+@font-face {
+    font-family: 'PTSans';
+    src: url('../fonts/PTC55F-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PTSans';
+    src: url('../fonts/PTS56F-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PTSans';
+    src: url('../fonts/PTC75F-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+} 
+
+@font-face {
+    font-family: 'PTSerif';
+/*    src: url('../fonts/PTF55F-webfont.woff') format('woff');*/
+    src: url('../fonts/PT_Serif-Web-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PTSerif';
+    src: url('../fonts/PTF56F-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PTSerif';
+    src: url('../fonts/PTF75F-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PTSerif';
+    src: url('../fonts/PTF76F-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('../fonts/fontawesome-webfont.eot?v=4.3.0');
+  src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.3.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff2?v=4.3.0') format('woff2'), url('../fonts/fontawesome-webfont.woff?v=4.3.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.3.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.3.0#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: PTSerif;
+    font-size: 100%;
+    background-color: #5F5F5F;
+ }
+
+a {
+    color: #AC4D00;
+    text-decoration: none;
+}
+
+div#content a:hover {
+    text-decoration: underline;
+}
+
+div#content div.index a:hover {
+    text-decoration: none;
+}
+
+div.outerLayer {
+    width: 100%;
+}
+
+/* NAVBAR */
+
+div#navbar {
+    position: relative;
+    background-color: black;
+    color: white;
+}
+
+div#navbar a {
+    color: white;
+}
+
+div#navbar h1 {
+    padding: 1em 0 1em 0;
+}
+
+nav {
+    float: right;
+    font-size: 1em;
+}
+
+nav a {
+    float: left;
+    display: block;
+    padding: 1em;
+}
+
+nav a:hover,
+nav a.current {
+    background-color: #AC4D00; 
+}
+
+nav a.search {
+    padding: 0.6em 1em 0.6em 1em;
+}
+
+nav a.search:after {
+    font-family: FontAwesome;
+    font-size: 1.8em;
+    content: "\f002";
+}
+
+nav a.search span {
+    display: none;
+}
+
+div#navbar .grid_7 {
+    position: relative;
+}
+
+img#beta {
+    position: absolute;
+    top: -10px;
+    right: 10%;
+    z-index: 100000;
+}
+
+/* HEADER */
+
+div#header {
+    position: relative;
+    min-height: 11em;
+    background-color: white;
+}
+
+div#header div.grid_15 {
+    position: relative;
+}
+
+div#subnavbar ul {
+    clear: both;
+    height: 1.4em;
+    border-bottom: 1px #5f5f5f solid;
+}
+
+h1 + div#subnavbar ul {
+    border-bottom: none;
+}
+
+div#header li {
+    float: left;
+    padding: 0.3em 0.4em 0.3em 0.4em;
+    font-family: PTSans;
+    font-size: 0.8em;
+}
+
+header {
+    position: relative;
+}
+
+#subnavbar {
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+#subnavbar a.prev span,
+#subnavbar a.next span {
+    display: none;
+}
+
+#subnavbar a.prev:after,
+#subnavbar a.next:after {
+    padding: 0.3em;
+    font-family: "FontAwesome";    
+}
+
+div#subnavbar a.current {
+    padding: 0.2em 0.3em 0.2em 0.3em;
+}
+
+div#subnavbar a.current,
+#subnavbar a.prev:hover:after,
+#subnavbar a.next:hover:after {
+    background-color: #ac4d00;
+    color: white;
+}
+
+#subnavbar a.prev:after {
+    content: "\f053";
+}
+
+#subnavbar a.next:after {
+    content: "\f054";
+}
+
+#subnavbar li.label {
+    padding-left: 0;
+}
+
+div#header h1 {
+    font-size: 2em;
+    font-weight: normal;
+    margin: 2.2em 2.5em 0.5em 0;
+}
+
+div#subnavbar + h1 {
+    margin: 0 2em 0.5em 0;
+}
+
+div#header h2 + h1 {
+    margin-top: 0.5em;
+} 
+
+div#header h2 {
+    margin-top: 3em;
+    font-weight: normal;
+    font-style: italic;
+}
+
+div#subnavbar h2 {
+    display: inline;
+    font-family: PTSans;
+    font-style: normal;
+    font-size: 0.8em;  
+}
+
+div#subnavbar ul {
+    
+} 
+
+/* Metaangaben */
+
+div#meta {
+    position: absolute;
+    right: 0.7em;
+    bottom: 0.2em;
+    width: 20em;
+    z-index: 10000;
+    text-align: right;
+    font-family: PTSans;
+    font-size: 0.8em;
+}
+
+div#meta h2 {
+    display: inline;
+    font-size: 1em;
+    font-weight: normal;
+    font-style: normal;
+    color: gray;
+    vertical-align: middle;
+}
+
+div#meta span {
+    font-family: FontAwesome;
+    font-size: 1.5em;
+    color: gray;
+    vertical-align: middle;
+}
+
+div#meta:hover span,
+div#meta:hover h2 {
+    color: #ac4d00; 
+}
+
+div.invisible {
+    width: 100%;    
+}
+
+div.visible {
+    position: absolute;
+    right: 0;
+    bottom: -0.1em;
+    width: 16em;
+    text-align: right;
+}
+
+div.invisible {
+    display: none;
+    margin-top: -1em;
+    padding: 0 0.5em 0 0.5em;
+    text-align: left;
+    background-color: white;
+}
+
+div#meta:hover div.invisible {
+    display: block;
+    position: absolute;
+    top: 0.9em;
+    right: 0;
+    padding: 1em;
+    background-color: white;
+}
+
+div#meta div.invisible li {
+    font-size: 1em;
+    padding: 0;
+}
+
+div#meta div.invisible ul,
+div#meta div.invisible p {
+    overflow: hidden;
+    display: block;
+    padding: 0 0 0.5em 0;
+} 
+
+/* Linked Letters */
+div#LinkedLetters {
+    position: absolute;
+    top: 2.7em;
+    right: 0.7em;
+    font-family: PTSans;
+    font-size: 0.8em;   
+    z-index: 10000;
+}
+
+div#LinkedLetters:hover div.invisible {
+    display: block;
+    position: absolute;
+    top: 0.8em;
+    right: 0;
+    width: 19em;
+    margin-top: 0.3em;
+    padding: 1em;
+    background-color: #F4DFD0;
+}
+
+div#LinkedLetters div.invisible span.arrow {
+    position: absolute;
+    top: -1em;
+    right: 0;
+    width: 21em;
+    height: 1em;
+    background-color: transparent;
+}
+
+div#LinkedLetters div.invisible span.arrow:before {
+position: absolute;
+top: 0;
+right: 0;
+content: "";
+-webkit-transform:rotate(360deg);
+border-style: solid;
+border-width: 0 37.5px 15px 37.5px;
+border-color: transparent transparent #F4DFD0 transparent;
+}
+
+div#linkedLetters span {
+     color: gray;
+}
+
+div#linkedLetters:hover span {
+     color: #ac4d00;
+}
+
+div#linkedLetters li {
+    font-size: 1em;
+    padding: 0.3em 0 0.3em 0;
+}
+
+div#linkedLetters p.hint {
+    margin-top: 1.4em;
+    border-top: 1px solid gray;
+    padding: 0.5em 0 0 0;
+    font-size: 0.8em;
+    clear: both;
+}
+/* Ansichtswechsel */
+
+ul#viewSwitch {
+    margin-top: 1em;
+}
+
+ul#viewSwitch li {
+    float: left;
+    margin-right: 0.3em;
+    font-family: PTSans;
+    font-size: 0.8em;
+    background-color: #e8e8e8;
+}
+
+ul#viewSwitch a {
+    display: block;
+    padding: 0 0.3em 0 0.3em;
+    color: #3a3a3a;
+}
+
+ul#viewSwitch li.current {
+    background-color: #d0d0d0;
+}
+
+
+/* ################ CONTENT ############## */
+
+div#content {
+    position: relative;
+    background-color: #d0d0d0;
+}
+
+div#content div.container_16,
+div#content div.container_12 {
+    padding: 2em 0 2em 0;
+    min-height: 25em;
+}
+
+div.box {
+    position: relative;
+    margin-bottom: 1em;
+}
+
+div.whitebox {
+    background-color: white;    
+}
+
+div.graybox {
+    font-family: PTSans;
+    font-size: 0.9em;
+    /* background-color: #b1b1b1; */
+    background-color: #dddddd;
+    color: #333;
+}
+
+div.boxInner {
+    position: relative;
+    padding: 1em;
+}
+
+div#content p {
+    line-height: 1.4;
+    margin-bottom: 1em;
+}
+
+ul#browselinks {
+    position: fixed;
+    top: 50%;
+    width: 960px;
+    list-style-type: none;
+}
+
+ul#browselinks a span {
+    display: none;
+}
+
+ul#browselinks a:after {
+    font-family: FontAwesome;
+    font-size: 4em;
+    color: silver;
+}
+
+div#content ul#browselinks a:hover {
+    text-decoration: none;    
+}
+
+ul#browselinks a:hover:after {
+    color: #ac4d00;
+}
+
+ul#browselinks li a.prev:after {
+    position: absolute;
+    left: -1em;
+    content: "\f053";
+}
+
+ul#browselinks li a.next:after {
+    position: absolute;
+    right: -1em;
+    content: "\f054";
+}
+
+span.hi,
+span.highlight {
+    background-color: yellow;
+}
+
+/* ############# FOOTER ############## */
+
+div#footer {
+    min-height: 15em;
+    background-color: #5f5f5f;
+    color: white;
+    font-family: PTSans;
+    font-size: 0.8em;
+}
+
+div#footer h3 {
+    margin: 0 0 0.5em 0;
+    font-weight: normal;
+    font-size: 1.3em;
+}
+
+div#footer li {
+    list-style-type: disc;
+    margin-left: 1em;
+}
+
+div#footer a {
+    color: white;
+}
+
+footer {
+    padding: 3em 0 2em 0;
+}
+
+
+/* Briefeindex */
+
+div.box h2 {
+    font-size: 1.4em;
+    font-weight: normal;
+}
+
+div.box h3 {
+    margin: 0 0 0.5em 0;
+    font-size: 1.2em;
+}
+
+div.boxInner div {
+    margin-bottom: 2em;
+}
+
+div#content div.box a p {
+    margin: 1em 0 0 0;
+    color: black
+}
+
+div.filter {
+    position: relative;
+    display: block;
+    min-height: 10em;
+    font-family: PTSans;
+    font-size: 0.8em;
+}
+
+div.filter.jahre {
+    margin-top: 3em;
+}
+
+div.filter a {
+    color: #222;
+}
+
+div.filter.jahre li {
+    float: left;
+    height: 1.7em;
+    margin: 0.1em 0.1em 0.1em 0; 
+    padding: 0 1.2em 0 0;
+}
+
+div.filter.jahre li {
+    margin: 0.1em 0 0.1em 0; 
+    padding: 0 1.2em 0 0;
+}
+
+div.filter ul a{
+    display: block;
+    width: 100%;
+    padding: 0.3em;
+    color: #222;
+}
+
+div#content div.filter ul a:hover,
+div#content div.filter ul li.current a {
+    color: white;
+    text-decoration: none;    
+}
+
+div.filter ul li.current {
+    border-radius: 3px;
+    background-color: #ac4d00;
+    color: white;
+    font-weight: bold;
+}
+
+div.filter ul li:hover {
+    border-radius: 3px;
+    background-color: #ac4d00;
+    color: white;
+}
+
+div.filter ul li.current:hover {
+    background: url('http://telotadev.bbaw.de/schleiermacher/website/gfx/delete_filter.png') center right no-repeat;
+    background-color: #ac4d00;
+    color: white;
+}
+
+div#content select {
+    position: relative;
+    width: 100%;
+    padding: 0.3em;
+}
+
+div#content option {
+
+}
+
+div#content input[type='submit'] {
+    display: block;
+    margin: 0.5em 0 0 0;
+    border: none;
+    border-radius: 0.3em;
+    padding: 0.3em;
+    background-color: gray;
+    color: white;
+    font-weight: bold;
+}
+
+div#content input[type='submit']:hover {
+    background-color: #ac4d00;
+    color: white;
+    cursor: pointer;
+}
+
+/* Register */
+
+input,
+select {
+    position: relative;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    margin-top: 0.5em;
+    padding: 0.4em;
+    width: 100%;
+}
+
+input[type='submit']{
+    width: auto;
+}
+
+input,
+select {
+    border: 1px solid #7F9DB9;
+    border-radius: 0.2em;
+}
+
+input:focus,
+select:focus {
+    border: 1px solid #ac4d00;
+} 
+
+input.custom-combobox-input {
+	width: 25em;
+}
+input#personid {
+    display: none;
+}
+
+form.register input[type='reset'] {
+    position: absolute;
+    top: 3.7em;
+    right: 1.25em;
+    width: auto;
+    border: none;
+    padding: 0.3em;
+    background-color: white;
+    color: gray;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+.ui-menu {
+    width: 200px;
+    border: 1px solid #444;
+    background-color: #FFF;
+    list-style: none outside none;
+    font-family: Arial, Sans;
+    font-size: 0.8em;
+}
+
+ul.ui-autocomplete {
+	width: 20em;
+	background-color: white;
+	color: red;
+}
+
+ul.ui-autocomplete li {
+    padding: 0.3em;
+}
+
+ul.ui-autocomplete li a {
+	color: black;
+}
+
+ul.ui-autocomplete li:hover {
+    background-color: silver;
+}
+
+span.ui-helper-hidden-accessible {
+    display: none;
+}
+
+div#content div.letterbar {
+    clear: both;
+    overflow: hidden;
+    margin: 1em 0 1em 0;
+    border-top: 1px solid silver;
+    padding: 0.5em 0 0 0;
+    font-family: PTSans, Arial, Sans; 
+}
+
+div#content div.letterbar p {
+    margin: 0;
+    font-size: 0.8em;
+    color: gray;
+}
+
+div.letterbar li {
+    float: left;
+}
+
+div.letterbar li a {
+    display: block;
+    padding: 0.3em;    
+}
+
+div#content div.letterbar li a:hover {
+    background-color: #AC4D00;
+    color: white;
+    text-decoration: none;
+}
+
+div.hinweise {
+    font-size: 0.8em;
+    font-family: PTSans;    
+}
+
+div.hinweise ul {
+    list-style-type: disc;
+    margin: 1em;
+}
+
+div.hinweise ul li {
+    margin: 0 0 0.2em 0;
+}
+
+li.erschlossen a {
+    color: #D1996E;
+}
+
+li.erschlossen span {
+    font-family: FontAwesome;
+}
+
+ul.altNames li,
+ul.altNames span {
+    float: left;
+    margin-right: 0.4em;
+}
+
+ul.altNames {
+    clear: both;
+    overflow: hidden;
+    padding-top: 0.5em;
+    border-top: 1px solid silver;
+}
+
+ul.altNames + ul.altNames {
+    border-top: none;
+    padding-top: 0;
+}
+
+/* PAGEBROWSER */
+div.pageNav {
+    position: relative;
+    height: 2.5em;
+}
+
+span.resultcount {
+    font-family: PTSans;
+    color: gray;
+}
+
+span.pageBrowser {
+    position: absolute;
+    top: 0;
+    left: 38%;
+}
+
+div#content span.pageBrowser select {
+    width: 4em;
+    margin: 0;
+    padding: 0;
+}
+
+span.pageBrowser a i {
+    color: #AC4D00;
+}
+
+span.pageBrowser a:hover {
+    text-decoration: none;
+}
+
+span.pageBrowser i {
+    font-size: 1.5em;
+    color: silver;
+    margin: 0em 0.3em 0 0.3em;
+    padding: 0.2em 0 0 0;
+    line-height: 0;
+}
+
+span.pageBrowser span.hidden {
+    display: none;
+}
+
+div#pageReferences {
+    font-family: PTSans;
+    font-size: 0.9em;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+div#pageReferences h4 {
+    padding: 0.3em;
+    margin: 0 0 1em 0;
+    cursor: pointer;
+    background-color: #e0e0e0;
+}
+
+div#pageReferences p {
+    font-style: italic;
+}
+
+ul.folioReferences, 
+ul.pageReferences {
+    overflow: hidden;
+}
+
+ul.folioReferences li {
+    float: left;
+}
+
+ul.pageReferences li {
+    float: left;
+    padding-right: 0.5em;
+}
+
+ul.pageReferences li:after {
+    content: ", ";
+}
+
+ul.pageReferences li:last-child:after {
+    content: "";
+}
+
+ul.pageReferences a {
+}
+
+.bold {
+    font-weight: bold;
+}
+
+header.correspondent_prov_em3_3sd_ms {
+    background: url("http://telotadev.bbaw.de/avhr/resources/images/headliner-soemmerring.jpg") right -2em no-repeat;
+    height: 200px;
+}
+
+header.correspondent_prov_wsy_hnl_tt {
+    background: url("http://telotadev.bbaw.de/avhr/resources/images/headliner-meyen.jpg") right -2em no-repeat;
+    height: 200px;
+}
+
+header.correspondent_prov_zdf_jlm_ks {
+    background: url("http://telotadev.bbaw.de/avhr/resources/images/headliner-willdenow.jpg") right -2em no-repeat;
+    height: 200px;
+}
+
+header.correspondent_prov_ok1_jwq_ls {
+    background: url("http://telotadev.bbaw.de/avhr/resources/images/headliner-kunth.jpg") right -2em no-repeat;
+    height: 200px;
+}
+
+div.hide-class {
+    line-height: 1.4;
+}
+
+div.boxInner div.introInner {
+    margin: 0;
+}
+
+div#content div#letterIntro.container_16 {
+    min-height: 0;
+    padding-bottom: 0;
+}
+
+.personEntry {
+    font-size: 0.9em;
+}
+
+/* table.letters in indexes */
+
+table.letters {
+    width: 100%;
+}
+
+table.letters tr {
+    border-bottom: 1px solid silver;
+}
+
+table.letters tr.conjectured {
+    color: #555;
+}
+
+table.letters a.conjectured:after {
+    content: " (erschlossen)";
+}
+
+table.letters a.conjectured {
+    color: #C97E44;
+}
+
+table.letters td,
+table.letters th {
+    padding: 0.3em;
+}
+
+table.letters th {
+    font-weight: bold;
+}
+
+table.letters tr.clickable-row:hover {
+    background-color: #e0e0e0;
+    cursor: pointer;
+}
+
+table.letters td.idno {
+    width: 50px;
+}
+
+table.letters td.date {
+    width: 130px;
+}
+
+a.bibl {
+    font-variant: small-caps;
+}
+
+div#content div.teaser {
+    padding-top: 10em;
+}
+
+div#content div.teaser img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 300px;
+    height: 145px;
+}
+
+div#content div.teaser-12 {
+    padding-top: 17em;
+}
+
+div#content div.teaser-12 img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 700px;
+    height: 250px;
+}
+
+div#content div.teaser-6 {
+    padding-top: 12em;
+}
+
+div.teaser-6 img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 340px;
+    height: 170px;
+}   
+
+.teaser h2,
+.teaser-wide h2 {
+    margin-bottom: 0.5em;
+}
+
+div#content div.subjectIntro {
+    position: relative;
+    height: 318px;
+    margin-left: 67%;
+}
+
+div#content div.subjectIntro img {
+    position: absolute;
+    left: -630px;
+    top: 0;
+    width: 620px;
+    height: 350px;
+}
+
+h2.section {
+   clear: both;
+   width: 100%; 
+   text-align: center; 
+   border-bottom: 1px solid gray; 
+   line-height: 0.1em;
+   margin: 2em 0 2em 0;
+   color: gray;
+   font-size: 1.2em;
+   font-weight: normal;
+}
+
+div:first-child > h2.section {
+    margin-top: 0.3em;
+}
+
+h2.section span { 
+    background: #D0D0D0; 
+    padding:0 10px; 
+}
+
+.impressum ul {
+    margin: 1em 0 2em 2em;   
+}
+
+.impressum li {
+    margin-bottom: 0.3em;
+}

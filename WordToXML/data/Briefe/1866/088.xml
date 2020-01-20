@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00091" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>88</idno>Friedrich Engels an Karl Marx in Margate. Manchester, Freitag, 13. April 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1608/D III 377</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              256&#160;×&#160;203&#160;mm. Die erste Seite hat Engels vollständig beschrieben, die
+              zweite zu zwei Dritteln, die übrigen zwei sind leer. Schreibmaterial: schwarze
+              Tinte.</p>
+            <p>Von Eduard
+              <?oxy_comment_start author="strauss" timestamp="20170613T101943+0200" comment="(((nBernstein,Ed.)))"?>Bernsteins<?oxy_comment_end?>
+              Hand: Nummerierung des Briefes bzw. der beschriebenen Seiten: „306,1“ bzw. „306,2“ und
+              „22,1“ bzw. „22,2“ (gestrichen). Redaktionelle Vermerke und Streichungen. </p>
+            <p>Von Heinrich
+              <?oxy_comment_start author="strauss" timestamp="20170613T102008+0200" comment="(((nDietz,H.)))"?>Dietz’<?oxy_comment_end?>
+              Hand: Nummerierung des Briefes: „842“ (gestrichen).</p>
+            <p>Von unbekannter Hand: Vermerk mit Bleistift auf der ersten Seite oben links:
+              „Collin“. </p>
+            <p>Marx beantwortet den Brief am 23.&#160;April 1866 (Marx an Engels, 23.4.1866).</p>
+          </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1960</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: gekürzt: Bw&#160;3 (1913). S.&#160;312/313</bibl>.</witness><witness><bibl>vollständig: MEGA<hi rendition="#sup">1</hi> III/3 (1930). S.&#160;326/327.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1866-04-13"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>Margate</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:10Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+        <opener>
+          <dateline sameAs="MBDatumszeile"><pb/> 13 April 1866.</dateline>
+          <salute sameAs="MBAnrede">Lieber Mohr</salute>
+        </opener>
+        <anchor type="verweisziel" xml:id="start_iwj_ntq_pz"/>
+        <p sameAs="MBTextohneEinzug">Ich schicke heute, <seg type="comment"><orig>da ich nicht genau
+              weiß ob Du Dich augenblicklich in Margate befindest,</orig><note xml:id="a1646369-7ed9-4b27-93e1-3db3488e102d">Marx kehrte aus Margate nach London am
+              8.&#160;April 1866 zurück.</note></seg> an <persName key="pdrPo.001.004.000003075">Deine Frau</persName>
+        </p>
+        <p>
+          <table>
+            <row>
+              <cell rend="MBTextmitEinzug">E/R</cell>
+              <cell rend="MBTextmitEinzug">13&#160;430</cell>
+              <cell rend="MBTextmitEinzug">Manchester</cell>
+              <cell rend="MBTextmitEinzug">21 </cell>
+              <cell rend="MBTextmitEinzug">Jan 1865</cell>
+              <cell rend="MBTextmitEinzug">—</cell>
+              <cell rend="MBTextmitEinzug">£</cell>
+              <cell rend="MBTextmitEinzug">&#160;10,–</cell>
+              <cell rend="MBTextmitEinzug"/>
+              <cell rend="MBTextmitEinzug"/>
+            </row>
+            <row>
+              <cell rend="MBTextmitEinzug">E/P</cell>
+              <cell rend="MBTextmitEinzug">43&#160;331,</cell>
+              <cell rend="MBTextmitEinzug">"</cell>
+              <cell rend="MBTextmitEinzug">20.</cell>
+              <cell rend="MBTextmitEinzug">&#160;"&#160;&#160;&#160;&#160;"</cell>
+              <cell rend="MBTextmitEinzug">—</cell>
+              <cell rend="MBTextmitEinzug">"</cell>
+              <cell rend="MBTextmitEinzug">&#160;<hi rendition="#u">10,–</hi></cell>
+              <cell rend="MBTextmitEinzug"><hi rendition="#uu">£</hi></cell>
+              <cell rend="MBTextmitEinzug"><hi rendition="#uu">20,–</hi></cell>
+            </row>
+          </table>
+        </p>
+        <p rend="MBTextOhneEinzug"><seg type="comment"><orig>&amp; theile ihr mit daß ich Dir
+              Anzeige davon gemacht.<anchor type="verweisziel" xml:id="stop_iwj_ntq_pz"/></orig><note xml:id="ca0729b0-af1f-41f8-8a04-0cf8e79adf53">Siehe <ref target="B00093">J. Marx an Engels,
+                14.4.<?oxy_comment_start author="reichhoff" timestamp="20170418T133608+0200" comment="{{Br. 90.2}}"?>1866<?oxy_comment_end?></ref>.
+              Engels‘ Brief an <persName key="pdrPo.001.004.000003075">Jenny Marx</persName>,
+              geschrieben am 13.&#160;April 1866, ist nicht überliefert.</note></seg></p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Also der Suffrage universel coup
+                <persName key="pdrPo.001.004.000000441">Bismarks</persName> ist gemacht wenn auch
+              ohne seinen <persName key="pdrPo.001.004.000002711">Lassalle</persName>.</orig><note xml:id="f45ba477-85ee-4677-b618-ee3030c7822b">Siehe <ref target="B00089/#start_i25_mkq_pz">Engels an Marx,
+                10.4.<?oxy_comment_start author="reichhoff" timestamp="20170418T134522+0200" comment="{{Br. 86.28–30}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00089/#ea078a25-97c7-44bc-914d-edc4942498e9">Erl. zu Engels an Marx,
+                10.4.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170518T111539+0200" comment="{{Erl. 86e}}."?>
+              <?oxy_comment_end?>Das allgemeine Stimmrecht war auch eine Grundforderung <persName key="pdrPo.001.004.000002711">Ferdinand Lassalles</persName>. </note></seg> Wie es
+          den Anschein hat wird der deutsche Bürger nach einigem Sträuben darauf eingehn, denn der
+          Bonapartismus ist doch die wahre Religion der modernen Bourgeoisie. Es wird mir immer
+          klarer daß die Bourgeoisie nicht das Zeug hat selbst direct zu herrschen, &amp; daß daher,
+          wo nicht eine Oligarchie wie hier <add>in England</add> es übernehmen kann Staat &amp;
+          Gesellschaft gegen gute Bezahlung im Interesse der Bourgeoisie zu leiten, eine
+          bonapartistische Halbdictatur die normale Form ist; <del> indem hier auf <sic ana="#break-off"/></del> die großen <add>materiellen</add> Interessen der Bourgeoisie
+          führt sie durch selbst gegen die Bourgeoisie, läßt ihr aber keinen Theil an der Herrschaft
+          selbst. Andrerseits ist diese Dictatur selbst wieder gezwungen diese materiellen
+          Interessen <del rendition="#s">zu<sic ana="#break-off"/></del> der Bourgeoisie widerwillig
+            <del rendition="#s">aufzu<sic ana="#break-off"/></del> zu adoptiren. <anchor type="verweisziel" xml:id="start_ppg_bv2_qz"/>So haben wir jetzt den Monsieur Bismark
+          wie er das Programm des Nationalvereins adoptirt. Das Durchführen ist freilich etwas ganz
+          Anderes, allein am deutschen Bürger scheitert B. schwerlich. Ein eben zurückgekommener
+          Deutscher erzählt er habe schon viele gefunden die auf diesen Köder angebissen hätten, die
+          Karlsruher sollen nach <seg type="comment"><orig>Reuter</orig><note xml:id="cb41da88-89cf-4759-a080-009f6531aa04">
+              <orgName key="ed_o5c_rfr_bz">Reuters</orgName>, Telegraphenagentur in London.
+            </note></seg> (vide unten) die Geschichte adoptirt haben, &amp; die gränzenlose
+          Verlegenheit der Köln. <bibl sameAs="zzKZ">Ztg.</bibl> über die Geschichte zeigt deutlich
+          auf die kommende Schwenkung.<anchor type="verweisziel" xml:id="stop_ppg_bv2_qz"/></p>
+        <p sameAs="MBTextmitEinzug">Daß <persName key="pdrPo.001.004.000000441">B.</persName> aber
+          direkte Abmachungen mit den Russen hat, dafür beweisen wieder erstens die <expan resp="editor" sameAs="dottet_underline">Thatsache<ex>n</ex></expan> daß <seg type="comment"><orig>nicht nur die <bibl sameAs="zzThe Times">Times</bibl>,</orig><note xml:id="d5716f5c-d791-468f-974e-aaf8c960fd42">Zum Leitartikel in der „Times“
+              (((zTimes))) siehe <ref target="B00089/#start_s2y_skq_pz">Engels an Marx,
+                10.4.1866</ref>
+              <?oxy_comment_start author="reichhoff" timestamp="20170418T134718+0200" comment="{{Br. 86.23–26}}"?>
+              <?oxy_comment_end?>und <ref target="B00089/#eef19ce8-828a-4392-9f56-96900a83d596">Erl.
+                zu Engels an Marx, 10.4.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170518T111756+0200" comment="{{Erl. 86c}}."?></note><?oxy_comment_end?></seg>
+          sondern <seg type="comment"><orig>auch <hi rendition="#u"><orgName key="ed_o5c_rfr_bz">Reuter</orgName></hi> für Preußen zu lügen anfängt, ganz gegen <expan resp="editor" sameAs="dottet_underline">s<ex>eine</ex></expan> Gewohnheit. In den
+              Übersetzungsfehlern von denen die <expan resp="editor" sameAs="dottet_underline">Telegr<ex>amme.</ex></expan>
+              <pb/> Jetzt mehr wie je wimmeln, ist Methode. Bis vor Kurzem <hi rendition="#u">gegen</hi> Preußen. Jetzt gegen Oestreich. R. <expan resp="editor" sameAs="dottet_underline">telegr<ex>aphirt</ex></expan>: Oestreich wolle nur auf den
+              Plan eingehen wenn <hi rendition="#u">alle</hi> östr. Provinzen (also auch die <hi rendition="#u">außerdeutschen</hi>) vertreten würden.</orig><note xml:id="e7612309-4027-4b94-84c5-7bde73c0de20">Siehe Berlin, April_10. In: The_Times.
+              London 25_469, 11._April 1866. S._12. Rubrik: Latest Intelligence. (Reuter’s
+              Telegrams). (((lBerlin, April_10. In: The_Times. London 25_469, 11._April 1866. S._12.
+              Rubrik: Latest Intelligence. (Reuter’s Telegrams) ))).</note></seg> Im deutschen
+          Original steht bloß: unter Voraussetzung der Vertretung auch der östreichischen
+          Landestheile. – Ferner: <seg type="comment"><orig>Nach der Bromberger <bibl sameAs="zzBromberger Ztg">Ztg</bibl> &amp; Ostsee <bibl sameAs="zzOstsee Ztg">Ztg</bibl> (diese ist russ. Organ) sammeln die Russen stets mehr Truppen in den
+              südwestl. Provinzen vom <expan resp="editor" sameAs="dottet_underline">K<ex>öni</ex>gr</expan><ex>eich</ex> Polen bis an den Pruth &amp; zwar sehr langsam
+              &amp; im Stillen;</orig><note xml:id="nc34_1f5_cz">Siehe hierzu Rußland. In Bromberger
+              Zeitung. Nr. 82, 8. April 1866. S. 2; Rußland. Ebenda. Nr. 83, 10. April 1866. S. 2;
+              Rußland und Polen. Von der Polnischen Grenze, 26. März. In: Ostsee-Zeitung. Stettin.
+              Nr. 149, 27. März 1866. S. 2; Rußland und Polen. Von der Polnischen Grenze, 9. April.
+              Ebenda. Nr. 165, 10. April 1866. S. 2. (((lRußland. In Bromberger Zeitung. Nr. 82, 8.
+              April 1866. S. 2))) (((lRußland. In Bromberger Zeitung. Nr. 83, 10. April 1866. S.
+              2))) (((lRußland und Polen. Von der Polnischen Grenze, 26. März. In:
+              Ostsee-Zeitung.und Börsen-Nachrichten der Ostsee. Stettin. Nr. 149, 27. März 1866. S.
+              2)))</note></seg> die Soldaten erwarten Alle mit Preußen gegen Oestr. loszugehn, &amp;
+          die an der Warta wiederholen daß sie bestimmt sind Posen zu besetzen damit die Preußen
+          dort wegmarschiren können.</p>
+        <p sameAs="MBTextmitEinzug">Die Russen können <del> den Preußen <sic ana="#break-off"/></del> übrigens <add>den Preußen</add> schon Schleswig Holstein provisorisch
+          überlassen, da durch den <seg type="comment"><orig>Wiener Frieden</orig><note xml:id="d8b95c0b-d5d6-419e-895e-9597b9f66492">Der Friede von Wien - Vertrag der
+              Siegermächte Österreich und Preußen mit Dänemark, geschlossen am 30.&#160;Oktober
+              1864.</note></seg> und die Annexion ja die Hauptsache für sie gerettet wird: der <seg type="comment"><orig>Londoner Vertrag</orig><note xml:id="a60eaa4a-1ac2-4d8b-bf75-a27174d6c11a">Am 8.&#160;Mai 1852 unterzeichneten die
+              Vertreter Russlands, Österreichs, Großbritanniens, Frankreichs, Preußens sowie
+              Schwedens und Dänemarks in London einen auch als Zweites Londoner Protokoll
+              bezeichneten Vertrag über die Integrität und die Erbfolge in der dänischen
+              Monarchie.</note></seg> &amp; damit die Erbfolge in <hi rendition="#u">Dänemark</hi>.
+          Wenn sie den <seg type="comment"><orig>Sund</orig><note xml:id="f1247429-0fc5-47ac-be3f-f2221d22384d">deutsche Bezeichnung für den Öresund,
+              die Meerenge zwischen der dänischen Insel Seeland und Schweden.</note></seg> haben,
+          was liegt ihnen an Kiel?</p>
+        <p sameAs="MBTextmitEinzug">Du thust jedenfalls am Besten in Margate zu bleiben bis Du an
+          der <expan resp="editor" sameAs="dottet_underline">betreff<ex>enden</ex></expan> Stelle
+            <hi rendition="#u">gar Nichts</hi> mehr spürst &amp; überhaupt einen entschiednen
+          Umschwung zum Bessern constatirst.</p>
+        <p sameAs="MBTextmitEinzug">Schreib bald.</p>
+        <closer sameAs="MBUnterschrift">Dein<lb/>F. E. </closer>
+      </div></body></text></TEI>

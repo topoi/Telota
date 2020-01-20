@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00129" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>125</idno>W. Cripps an Friedrich Engels in Manchester. Manchester, Freitag, 29. Juni 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                                        <msIdentifier>
+                                                <institution>IISG</institution>
+                                                <collection>Marx-Engels-Nachlass</collection>
+                                                <idno><idno type="shelfmark"><?oxy_comment_start author="lindenberg" timestamp="20170420T152642+0200" comment="L 966-967 Cripps, W. 1865-1866.
+
+Die Stelle zeigt  zwar 2 Briefe von Cripps an, aber man kann nicht über einen Mausklick zu ihnen gelangen.
+
+Das funkioniert erst bei der Signatur:
+
+M 17  Schiller-Anstalt in Manchester . Einladungen an Engels. 1865-1870, deutsch.
+23 S.
+
+11a
+"?>L
+                                                  967<?oxy_comment_end?>/M 11a/3 Fotosign.
+                                                  MD&#160;15a–b.</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Blatt mittelstarkem,
+                                                  weißem Papier im Format
+                                                  128&#160;×&#160;201&#160;mm. Wasserzeichen: „J
+                                                  All[xxx] Super [xxx]“. Aufdruck:
+                                                  „Schiller-Anstalt“ auf der ersten Seite oben in
+                                                  der Mitte. Die Einladung füllt zwei Drittel der
+                                                  ersten Seite des Blattes, die zweite Seite ist
+                                                  leer. Schreibmaterial: schwarze Tinte. [III/13.
+                                                  S.&#160;1075] [vgl. Zb Davisson – E., 4. Juni
+                                                  1867, Br.&#160;267]</p>
+                                                <p>Von Engels’ Hand: auf dem frei gebliebenen Teil
+                                                  der ersten Seite und auf einem Drittel der zweiten
+                                                  Seite die Skizze mit Bleistift einer
+                                                  geographischen Karte in der Umgebung von Sadowa
+                                                  [Königgrätz]; auf den übrigen zwei Dritteln der
+                                                  zweiten Seite Notizen zur Schlacht bei Sadowa, mit
+                                                  Bleistift quergeschrieben, vermutlich als
+                                                  Vorbereitung für einen weiteren Artikel über den
+                                                  Deutschen Krieg 1866 (siehe Erl.&#160;120h und
+                                                  121a), der jedoch nicht erschien. Siehe MEGA<hi rend="bold superscript">2</hi> I/20. S.&#160;1205.
+                                                  [als Abbildung bringen]</p>
+                                                <p>Archivsignatur des SPD-Archivs oben auf der
+                                                  zweiten Seite: „II 18 C III 7 c III“.</p>
+                                        </physDesc>
+                                        <additional>
+                                                <listBibl>
+                                                  <bibl>RGASPI f. 1 op. 1 d. 1974</bibl>
+                                                </listBibl>
+                                        </additional>
+                                </msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000001032">W. Cripps</persName><placeName>Manchester</placeName><date when="1866-06-29"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:33Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct">
+                                <p sameAs="MBTextohneEinzug" rendition="#mPrint"><pb/>
+                                        <seg type="comment"><orig>
+                                                  <hi rend="smallcaps">Schiller-Anstalt.</hi></orig><note xml:id="f1dbb7c6-14d1-45e7-b901-3b019622e8d1">
+                                                  Siehe <ref target="B00023/#fc3f9388-7bd7-4578-a28a-5dd02725afee">Erl. zu S. Nördlinger an Engels,
+                                                  26.1.<?oxy_comment_start author="reichhoff" timestamp="20170512T152538+0200" comment="{{Erl. 22a}}"?>1866<?oxy_comment_end?></ref>.</note></seg><lb/>------------------------ </p>
+                                <opener>
+                                        <salute sameAs="MBAnrede"><hi rend="smallcaps"><hi rendition="#mPrint">Herr</hi></hi> F.
+                                                Engels.</salute>
+                                </opener>
+                                <p sameAs="MBTextohneEinzug"><hi rend="smallcaps"><hi rendition="#mPrint">wird hiermit gebeten einer
+                                                  Sitzung</hi></hi>
+                                        <expan resp="editor" sameAs="dottet_underline">d<ex>er</ex></expan> Billard-Abthlg am Sonnabend
+                                                <expan resp="editor" sameAs="dottet_underline">d<ex>em</ex></expan> 30<hi rendition="#sup">sten</hi> &#160;Juni Nachmittags 2½&#160;Uhr.
+                                                <lb/><hi rend="smallcaps"><hi rendition="#mPrint">beizuwohnen</hi></hi>. </p>
+                                <p rend="MBTextOhneEinzug"><hi rendition="#mPrint"><hi rendition="#i">Manchester, den</hi></hi> 29<hi rendition="#mPrint"><hi rendition="#i">ten</hi></hi>
+                                        Juni <hi rendition="#mPrint">1866.</hi></p>
+                                <closer sameAs="MBUnterschrift">W. Cripps.<lb/><hi rend="smallcaps"><hi rendition="#mPrint">Schriftführer.</hi></hi></closer>
+                                <p rend="MBTextOhneEinzug"><hi rend="smallcaps"><hi rendition="#mPrint">Vorlagen.</hi></hi><lb/>-----------------</p>
+                                <p rend="MBTextOhneEinzug">Geschäftliches<lb/>Rechnungen. <pb/>
+                                </p>
+                        </div></body></text></TEI>

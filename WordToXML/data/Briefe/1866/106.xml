@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00110" xml:lang="de"><teiHeader><fileDesc><titleStmt>
+                                <title><idno>106</idno>Albert F. Haufe an Karl Marx in London.
+                                        London, Samstag, 12. Mai 1866</title>
+                        </titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 21 op. 1 d. 85/2</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt festem, weißem Papier im Format 112&#160;×&#160;177&#160;mm.
+                                                  Prägung auf der zweiten Seite: eine Krone auf
+                                                  einem Schild. Haufe hat beide Seiten vollständig
+                                                  beschrieben. Schreibmaterial: schwarze Tinte.</p><p>Von unbekannter Hand: Datumsangabe „12/5 66“ mit Tinte auf der ersten Seite oben rechts.</p></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                                        <persName key="ed_fnn_3qj_wx">Albert F. Haufe</persName>
+                                        <placeName>London</placeName>
+                                        <date when="1866-05-12"/>
+                                </correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:39:21Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><salute sameAs="MBAnrede"><pb/> Lieber Herr Marx!</salute></opener><p sameAs="MBTextohneEinzug"><seg type="comment"><orig>In Folge meiner Abreise heute Abend nach
+                                                  Edinburg</orig><note xml:id="d781c1ab-2f6b-4198-9cc9-f92ac577896e">Siehe <ref target="B00109/#e53e04f3-f22b-42ac-b722-cffa6d4319f0">Erl. zu Marx an Engels,
+                                                  10.5.<?oxy_comment_start author="reichhoff" timestamp="20170510T120206+0200" comment="{{Erl. 105o}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        wünschte ich Sie gern zu sprechen. Es sind nämlich 7 von den
+                                        eingeführten Schneidern nach London gekommen; ihre Reise ist
+                                        von einer deutschen Gesellschaft in Edinburg bezahlt worden,
+                                        wir haben ihnen etwas Unterstützung gegeben und sie sind
+                                        alle schon in Arbeit gebracht in der City. Ich habe ein
+                                        Protocol von ihren Aussagen aufgenommen, welches eine
+                                        offenbare Contrakt Verletzung herausstellt es ist von
+                                        sämmtlichen Arbeitern und einen Dolmetscher unterzeichnet
+                                        und bietet mir eine gute Unterlage für eine gerichtliche
+                                        Einleitung, nur wünschte ich Ihren Rath wer der geeigneste
+                                        Kläger sein soll, und in welchem Gerichtshofe unsere Klage
+                                        gegen den Meister am schnellsten befördert wird ob sich der
+                                        dortige Consul vielleicht unserer Sache annehmen würde. Es
+                                        scheint mir daß wenn die Meister in Edinburg vogelfrei
+                                        Contrakte verletzen können daß sie es mit den <pb/> andern
+                                        noch engagirten Leuten ebenso machen, sie würden daher wenn
+                                        sie alle sich über England verliefen den verschiedenen
+                                        Schneidergesellschaften zur Last werden da sie alle geldlos
+                                        nach Schottland gekommen sind. Da man ihnen eine Copie von
+                                        dem Contrakte verweigert hat sind sie in eine schwierige
+                                        Lage versetzt indem sie sich an Niemanden halten können.
+                                        Meine Mission ist also ihnen womöglichst eine Copie zu
+                                        erzwingen. Sollte es in ihren Kräften stehen mir etwas Rath
+                                        zu ertheilen so ersuche ich Sie mir ein paar Zeilen nach
+                                        Edinburg zu schicken und selbige am Montag vor 5&#160;Uhr zu
+                                        postiren daß ich sie am Dienstag morgen dort erhalten
+                                        könnte</p><p rend="MBTextMitEinzug">Meine Adresse in Edinburg ist Albert Haufe in care of <persName key="ed_zwy_kkm_gz">Mr.&#160;M'Whinnie</persName>,
+                                        Burdens Coffee House 129. High Street, Edinburgh.</p><closer sameAs="MBUnterschrift">Ich verbleibe achtungswürdig<lb/>Ihr A. Haufe.</closer><p sameAs="MBAdresse">12/5/ 66. </p></div></body></text></TEI>

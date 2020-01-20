@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00003" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>2</idno>Friedrich Engels an Karl Marx in London. Manchester,
+                    Donnerstag, 4. Januar 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 1597/D III 342</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format
+                            273&#160;×&#160;222&#160;mm. Wasserzeichen: „A Pirie &amp; Sons“. Die
+                            erste Seite hat Engels vollständig beschrieben, die dritte etwa zu einem
+                            Viertel, die zweite und vierte Seite sind leer. Schreibmaterial:
+                            schwarze Tinte.</p>
+                        <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung des
+                            Briefes bzw. der beschriebenen Seiten: „271,1“ bzw. „271,2“ und „1,1“
+                            bzw. „1,2“ (gestrichen). Redaktionelle Vermerke.</p>
+                        <p>Von <persName key="pdrPo.001.004.000001156">Heinrich Dietz’</persName> Hand: Nummerierung des Briefes:
+                            „762“ (gestrichen).</p>
+                        <p/>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 1923</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl>Erstveröffentlichung: gekürzt: Bw&#160;3 (1913).
+                            S.&#160;287/288</bibl>.</witness>
+                    <witness><bibl>vollständig: MEGA<hi rendition="#sup">1</hi> III/3 (1930).
+                            S.&#160;301/302.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName>Manchester</placeName>
+                    <date when="1866-01-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next">Marx’ Antwort vom 5.&#160;Januar 1866</ref>
+                </correspContext>
+                <note>Der Brief wurde von Engels versehentlich mit „1865“ datiert. Die korrekte
+                    Datierung ergibt sich aus dem Inhalt des Briefes, mit dem Engels Marx’ Brief vom
+                    26.&#160;Dezember 1865 beantwortet (MEGA² III/13. Br.&#160;351) und aus <ref target="B00004">Marx’ Antwort vom 5.&#160;Januar
+                    1866.</ref><?oxy_comment_start author="roth" timestamp="20170609T094602+0200" comment=" ({{Br. 3}})."?></note>
+                <?oxy_comment_end?>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:38:04Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener><dateline sameAs="MBDatumszeile"><pb/> Manchr 4 Jan<hi rendition="#sup">r</hi>
+                        <choice>
+                            <sic>1865</sic>
+                            <corr cert="high">1866</corr>
+                        </choice>.</dateline><salute sameAs="MBAnrede">Lieber
+                    Mohr</salute></opener>
+                <p sameAs="MBTextohneEinzug"><anchor type="verweisziel" xml:id="start_rtx_cp4_mz"/>Inl. £&#160;10.– in 2&#160;<expan resp="editor" sameAs="dottet_underline">B<ex>ank of</ex></expan> England Noten. <seg type="comment"><orig>Wie
+                            ists mit dem Wechsel wegen landlord? Gib mir Betrag &amp; Verfalltag auf
+                            damit ich mich danach einrichten kann.<anchor type="verweisziel" xml:id="stop_rtx_cp4_mz"/></orig><note xml:id="c6113235-8cac-4055-8d62-db81a7fbad62">Siehe MEGA² III/13.
+                            Br.&#160;341.5–8 und <ref target="B00004/#start_rqq_gk4_mz">Marx an
+                                Engels,
+                                5.1.<?oxy_comment_start author="reichhoff" timestamp="20170407T134044+0200" comment="{{Br. 3.4–7}}"?>1866<?oxy_comment_end?>.</ref></note></seg></p>
+                <p sameAs="MBTextmitEinzug">Die malitiöse Zusammenstellung des Soc. <bibl sameAs="zzSD">Dem.</bibl> Drecks <subst>
+                        <del>durch</del>
+                        <add>in</add>
+                    </subst> der <persName key="pdrPo.001.004.000004342">Schultze
+                        Delitzschianischen</persName>
+                    <seg type="comment"><orig>Brochüre</orig><note xml:id="eecfded5-a64b-4125-8b34-f481b162db52">[Eugen Richter:] Die
+                            Geschichte der Social-demokratischen Partei in Deutschland seit dem Tode
+                            Ferdinand Lassalle’s. (Zusammengestellt und actenmäßig belegt aus den
+                            beiden Organen der Partei, dem „Social-Demokrat“ in Berlin und dem
+                            „Nordstern“ in Hamburg.) Berlin 1865. (((lRichter,Eugen: Die Geschichte
+                            der Social-demokratischen Partei in Deutschland seit dem Tode Ferdinand
+                            Lassalle’s. (Zusammengestellt und actenmäßig belegt aus den beiden
+                            Organen der Partei, dem „Social-Demokrat“ in Berlin und dem „Nordstern“
+                            in Hamburg.) Berlin 1865))) Marx dürfte von dieser Broschüre aus dem
+                            Brief <persName key="pdrPo.001.004.000002822">Wilhelm
+                                Liebknechts</persName> an ihn (MEGA²&#160;III/13.
+                            Br.&#160;350.44–47) erfahren haben.</note></seg> war mir bereits von
+                    Berlin anonym zugeschickt, es ist immer gut so ein Resumé mit den Auszügen zu
+                    haben. <seg type="comment"><orig>Sch. Delitzsch hat auch anzeigen lassen daß er
+                            dieser Tage eine Antwort an <persName key="pdrPo.001.004.000002711">Lassalle</persName> drucken läßt worin er ihn vernichten
+                            wird.</orig>
+                        <note xml:id="f6aee1b5-17b4-4c24-8a3d-62846e58b48b">
+                            <p rend="endnote text">Siehe Von Schulze-Delitzsch ist eine kleine
+                                Schrift&#160;… In: Allgemeine Zeitung. Augsburg. Nr.&#160;1,
+                                1.&#160;Januar 1866. S.&#160;3. (((lVon_Schulze_Delitzsch ist eine
+                                kleine Schrift.&#160;In: Allgemeine Zeitung. Augsburg. Nr.&#160;1,
+                                1.&#160;Januar 1866. S.&#160;3.))) (((lMEGA²&#160;III/13))) -
+                                [Hermann] Schulze-Delitzsch: Die Abschaffung des geschäftlichen
+                                Risico durch Herrn Lassalle. Ein neues Kapitel zum Deutschen
+                                Arbeiterkatechismus. Berlin 1866. (((lSchulze-Delitzsch, [Hermann]:
+                                Die Abschaffung des geschäftlichen Risico durch Herrn Lassalle. Ein
+                                neues Kapitel zum Deutschen Arbeiterkatechismus. Berlin 1866))) </p>
+                        </note>
+                    </seg><seg type="comment"><orig>Daß <persName key="ed_k4n_vl2_jy">Rakowitz</persName> an der Schwindsucht gestorben wirst Du auch
+                            schon wissen, <persName key="pdrPo.001.004.000001177">Mamsell
+                                Dönniges</persName> ist also wohl wieder in the market, if ever she
+                            was fairly out of it.</orig><note xml:id="b86b506b-b792-48fe-bb8d-e6d9e7e52c3e"><persName key="ed_k4n_vl2_jy">Iancu Racowiţă</persName> verwundete im August
+                            1864 <persName key="pdrPo.001.004.000002711">Ferdinand
+                                Lassalle</persName> im Duell tödlich.</note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Auch die Rede des Hrn
+                                <persName key="ed_u1d_b1x_ry">Held</persName> ist mir von Berlin
+                            zugeschickt.</orig><note xml:id="d1325a16-073e-4d1c-b85b-c77dbdb9354b"><persName key="ed_u1d_b1x_ry">Friedrich Wilhelm Held</persName>
+                            sollte auf der sozialdemokratischen Versammlung in Berlin am
+                            26.&#160;Dezember 1865 sprechen. Der Bericht über diese Versammlung:
+                            „*Berlin, 27.&#160;Dec. Social-Demokratische Parteiversammlung.“
+                            erschien in: Der Social-Demokrat. Berlin. Nr.&#160;231,
+                            28.&#160;Dezember 1865. S.&#160;3/4. (((l*Berlin, 27.&#160;Dec.
+                            Social-Demokratische Parteiversammlung._In:_Der Social-Demokrat. Berlin.
+                            Nr.&#160;231, 28.&#160;Dezember 1865. S.&#160;3/4.)))</note></seg> Der
+                    richtige Berliner Lump.</p>
+                <p sameAs="MBTextmitEinzug">Monsieur <persName key="pdrPo.001.004.000003392">Bonaparte</persName> geht sehr entschieden den Krebsgang. <seg type="comment"><orig>Die Geschichten in der Armee wegen Mexico</orig><note xml:id="efd562b2-07c7-4e78-8802-70833e3d4561">Die französische
+                            Intervention in Mexiko 1861-1867.</note></seg> sind sehr ernsthaft,
+                    &amp; <seg type="comment"><orig>die Studentengeschichten in Paris</orig><note xml:id="fdf0e9a1-43c7-49a4-953f-de75b43bccda">Im Dezember 1865 und
+                            Januar 1866 kam es in Frankreich zu Studentenunruhen, nachdem Teilnehmer
+                            des Internationalen Studentenkongresses, Ende Oktober 1865 in Liège, aus
+                            Pariser Hochschulen ausgeschlossen worden waren. Einer von ihnen war
+                            Marx‘ späterer Schwiegersohn <persName key="pdrPo.001.004.000002648">Paul Lafargue</persName>, der im Februar 1866 nach London kam.
+                            Siehe dazu <ref target="B00050/#start_pgc_zl4_mz">H. Jung an Marx,
+                                27.2.<?oxy_comment_start author="reichhoff" timestamp="20170407T135452+0200" comment="{{Br. 47.16–18}}"?>1866<?oxy_comment_end?></ref></note></seg>
+                    auch. Es ist sehr wichtig, daß die Pariser Studenten sich auf die Seite des
+                    Proletariats schlagen, so confus es auch in ihren Köpfen dabei aussehen mag. Die
+                    École polytechnique wird bald genug folgen. Es wäre wunderbar schön wenn der
+                    Schuft noch seinen eignen downfall erlebte, &amp; es sieht jetzt fast so aus.
+                    Auch mit <persName key="pdrPo.001.004.000000441">Bismark</persName> wird es
+                    täglich fauler, &amp; wenn ihm <seg type="comment"><orig>die Kölner
+                            Schweinhunde</orig><note xml:id="nspz_432_xx"> Am 18.&#160;Juli 1865
+                            wurde zwischen der Regierung <persName key="pdrPo.001.004.000000441">Bismarck</persName> und der <orgName key="ed_zjk_2qt_sy">Köln-Mindener-Eisenbahn-Gesellschaft</orgName> ein Vertrag
+                            geschlossen. Die preußische Regierung verkaufte aus Staatsbesitz Aktien
+                            im Wert von 13&#160;Millionen Talern an die Gesellschaft ohne
+                            Genehmigung des Abgeordnetenhauses, was der Regierung am Parlament
+                            vorbei einen ansehnlichen Betrag verschaffte. </note></seg> nicht aus
+                    der Sauce geholfen hätten, so wäre er wahrscheinlich schon jetzt klatsch. </p>
+                <p sameAs="MBTextmitEinzug">Ich bin begierig auf das nächste Parlament, das
+                    Zusammenbrechen der alten Parteien muß jetzt doch rasch vorangehn. <seg type="comment"><orig><persName key="pdrPo.001.004.000000612">John Bright</persName> is
+                            evidently bidding for office – seine gestrige Rede habe ich freilich
+                            noch nicht gelesen.</orig><note xml:id="e32c698b-7a28-4ea2-a3ff-ff503509d55b"><persName key="pdrPo.001.004.000000612">John Bright</persName> sprach auf dem
+                            Meeting in Rochdale über die Parlamentsreform in Großbritannien. Siehe
+                            Mr.&#160;Bright at Rochdale. In: The Times. London. Nr.&#160;25_386,
+                            4.&#160;Januar 1866. S.&#160;9. (((lMr.&#160;Bright at Rochdale. In: The
+                            Times. London. Nr.&#160;25_386, 4.&#160;Januar 1866. S.&#160;9.)))
+                        </note></seg></p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Hast Du <persName key="pdrPo.001.004.000004841">Tyndalls</persName>: Heat considered
+                            as a mode of motion gelesen?</orig><note xml:id="cf32f241-8fff-4892-acd3-1250caf519d2">John Tyndall: Heat
+                            considered as a mode of motion. 2_ed., with add. and ill. London_1865.
+                            Im Brief ist vermutlich von dieser 2. Aufl. des erstmals 1863
+                            erschienenen Werkes die Rede. (((lTyndall,John:_Heat considered as a
+                            mode of motion._2_ed. London_1865))) Zum Interesse an Tyndalls
+                            physikalischen Versuchen siehe auch MEGA²&#160;III/13.
+                            Br.&#160;101.63–66, Br._132.63–66 und Br._171.31–33) sowie <ref target="B00025/#start_pqh_j44_mz">J. Marx an J. Ph. Becker,
+                                29.1.<?oxy_comment_start author="reichhoff" timestamp="20170407T141405+0200" comment="({{Br. 24.25–31}})"?>1866<?oxy_comment_end?></ref>.
+                            Der Titel „Heat. A mode of motion“ (4._ed. London 1870) stand
+                            wahrscheinlich in Marx‘ Bibliothek (siehe MEGA²&#160;IV/32.
+                            Nr.&#160;1340). Engels äußert sich zu <persName key="pdrPo.001.004.000004841">Tyndall</persName> in „Dialektik der
+                            Natur“ (MEGA²&#160;I/26. S.&#160;12, 27 und 59). (((lEngels,Friedrich:
+                            Dialektik der Natur. MEGA²&#160;I/26))) </note></seg> Wo nicht, so
+                    solltest Du es thun. Es ist <pb/> auf diesem Gebiet enorm viel gethan, &amp; die
+                    Sache fängt an eine rationelle Gestalt anzunehmen; die Atomentheorie wird so auf
+                    die Spitze getrieben daß sie bald zusammenbrechen muß.</p>
+                <p sameAs="MBTextmitEinzug">Vergiß nicht mir den <bibl sameAs="zzThe Workman’s Advocate">Workmans Adv.</bibl> &amp; die <bibl sameAs="zzThe Free Press">Free Press</bibl> zu schicken.</p>
+                <p sameAs="MBTextmitEinzug">Beste Grüße &amp; Glückwünsche zum neuen Jahr an Deine
+                    Familie.</p>
+                <closer sameAs="MBUnterschrift"><salute>Dein <lb/></salute><signed>F. E. </signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>
