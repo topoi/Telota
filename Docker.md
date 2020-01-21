@@ -55,6 +55,7 @@ docker build -t my-first-image .
 im Ordner, in welchem sich das Docker-Image befindet ausprobieren!
 Am besten ein leeres File, weil sonst der Inhalt des gesamten Ordners als Image erzeugt wird!!              
 
+https://linuxconfig.org/how-to-build-a-docker-image-using-a-dockerfile              
 
 ------------------------------------------------------------------------------------------
 https://hub.docker.com/u/jupyter/   
