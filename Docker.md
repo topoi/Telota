@@ -57,9 +57,6 @@ Am besten ein leeres File, weil sonst der Inhalt des gesamten Ordners als Image 
 
 https://linuxconfig.org/how-to-build-a-docker-image-using-a-dockerfile              
 
-------------------------------------------------------------------------------------------
-https://hub.docker.com/u/jupyter/   
-
 
 ### Install docker linux:       
 *apt install docker.io*       
@@ -85,6 +82,11 @@ wichtig: docker wird nicht als root ausgeführt:
 *"The Docker daemon binds to a Unix socket instead of a TCP port. By default that Unix socket is owned by the user root and  other users can only access it using sudo. The Docker daemon always runs as the root user.*
 
 *If you don’t want to preface the docker command with sudo, create a Unix group called docker and add users to it. When the   Docker daemon starts, it creates a Unix socket accessible by members of the docker group."*  
+
+
+# Jupyter               
+https://hub.docker.com/u/jupyter/   
+
 
 ### Jupyter-Hub Installation   
 
