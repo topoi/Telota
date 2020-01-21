@@ -20,6 +20,15 @@ docker pull nginx
 Ein Container existiert nur so lange wie der Prozeß im Container dauert!                        
 daher zeigt docker ps nichts an, aber docker ps -a                      
 
+
+Port Mapping:           
+docker run host:container....                   
+
+
+
+
+
+------------------------------------------------------------------------------------------
 https://hub.docker.com/u/jupyter/   
 
 
