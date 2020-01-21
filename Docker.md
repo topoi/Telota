@@ -1,6 +1,24 @@
 ## Installation und Anwendung von Docker
 
-https://www.youtube.com/watch?v=fqMOX6JJhGo
+https://www.youtube.com/watch?v=fqMOX6JJhGo                 
+
+https://docs.docker.com/install/linux/docker-ce/ubuntu/                 
+https://hub.docker.com/             
+https://kodekloud.com/p/docker-labs             
+
+Kommando:              
+
+docker ps               
+docker run docker/whalesay cowsay Hello-World!              
+docker ps -a            
+docker rm hopeful_buck              
+docker images                       
+docker rmi nginx                    
+docker run nginx                    
+docker pull nginx                               
+
+Ein Container existiert nur so lange wie der Prozeß im Container dauert!                        
+daher zeigt docker ps nichts an, aber docker ps -a                      
 
 https://hub.docker.com/u/jupyter/   
 
