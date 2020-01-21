@@ -30,9 +30,30 @@ docker run host:container....
 
 ### Daten sichern:                      
 wenn der Container gelöscht wird, dann sind auch die Daten weg! Hilfe:              
-docker run -v /path-to-local-folder:path-container <image>              
+docker run -v /path-to-local-folder:path-container <image>                          
+            --> die Directory wird in lokalen Pfad gemounted
 
+### genaue Untersuchung des Containers:             
+docker inspect <name,id>                        
+docker logs <name,id>               
 
+## Docker Environment Variablen                 
+python script app.py welches Hintergrundfarbe ändert:                   
+color = os.environ.get('APP_COLOR') -->                     
+export APP_COLOR=blue; python app.py    
+app.py --> Docker Image: webapp-color                 
+**docker run -e APP_COLOR=blue webapp-color**              
+
+## Create own image
+**Dockerfile**: Instruction Argument
+alle Dockerfiles müssen mit *FROM* beginnen z.B. FROM Ubuntu (also von einem anderen Image)                 
+
+erzeuge Image:                               
+docker build -t my-first-image .                
+
+**WICHTIG!**    
+im Ordner, in welchem sich das Docker-Image befindet ausprobieren!
+Am besten ein leeres File, weil sonst der Inhalt des gesamten Ordners als Image erzeugt wird!!              
 
 
 ------------------------------------------------------------------------------------------
