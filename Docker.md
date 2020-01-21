@@ -6,6 +6,8 @@ https://docs.docker.com/install/linux/docker-ce/ubuntu/
 https://hub.docker.com/             
 https://kodekloud.com/p/docker-labs             
 
+ausführlicher:                      
+https://kodekloud.com/courses/docker-for-the-absolute-beginner-hands-on/lectures/4554686
 Kommando:              
 
 docker ps               
