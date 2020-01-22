@@ -8,6 +8,7 @@ https://kodekloud.com/p/docker-labs
 
 ausführlicher:                      
 https://kodekloud.com/courses/docker-for-the-absolute-beginner-hands-on/lectures/4554686                    
+https://u.group/thinking/how-to-put-jupyter-notebooks-in-a-dockerfile/
 
 
 Kommandos:                            
@@ -57,7 +58,19 @@ docker build -t my-first-image .
 
 **WICHTIG!**    
 im Ordner, in welchem sich das Docker-Image befindet ausprobieren!
-Am besten ein leeres File, weil sonst der Inhalt des gesamten Ordners als Image erzeugt wird!!              
+Am besten ein leeres File, weil sonst der Inhalt des gesamten Ordners als Image erzeugt wird          
+
+### Beispiel für ein Image, welches ein Python Script startet                       
+
+starte mit vorhandenen Image (ubuntu)                       
+um den Container laufen zu lassen, wird die bash gestartet und die Parameter -it hinzugefügt um im Container Befehle                
+ausführen zu können:                
+docker run -it ubuntu bash
+root@123:/#   apt-get update                    
+root@123:/#   apt-get install -y python                     
+root@123:/#   apt-get install -y python-pip
+root@123:/#   pip install flask
+root@123:/#
 
 https://linuxconfig.org/how-to-build-a-docker-image-using-a-dockerfile              
 
