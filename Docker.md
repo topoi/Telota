@@ -7,7 +7,9 @@ https://hub.docker.com/
 https://kodekloud.com/p/docker-labs             
 
 ausführlicher:                      
-https://kodekloud.com/courses/docker-for-the-absolute-beginner-hands-on/lectures/4554686                    
+https://kodekloud.com/courses/docker-for-the-absolute-beginner-hands-on/lectures/4554686       
+
+Notebooks im Dockerfile:                        
 https://u.group/thinking/how-to-put-jupyter-notebooks-in-a-dockerfile/
 
 
