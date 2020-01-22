@@ -24,6 +24,9 @@ docker rmi nginx
 docker run nginx                    
 docker pull nginx                               
 
+stoppe und lösche alle Container:               
+docker stop $(docker ps -a -q)                  
+docker rm $(docker ps -a -q)                    
 Ein Container existiert nur so lange wie der Prozeß im Container dauert!                        
 daher zeigt docker ps nichts an, aber docker ps -a                      
 
