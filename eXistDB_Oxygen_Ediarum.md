@@ -147,6 +147,11 @@ span.unterstrichen {
     text-decoration: underline;
 }
 ```
+bei der Angabe von relativen Pfaden in transcription.xql ergibt sich folgendes Problem:        
+http://exist.2174344.n4.nabble.com/XSLT-processing-failing-in-trunk-build-td4659645.html       
+
+https://github.com/eXist-db/exist/releases
+
 ### Liste mit Unicode characters:       
 https://www.codetable.net/unicodecharacters?page=14      
 
