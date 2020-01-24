@@ -12,6 +12,9 @@ https://kodekloud.com/courses/docker-for-the-absolute-beginner-hands-on/lectures
 Notebooks im Dockerfile:                        
 https://u.group/thinking/how-to-put-jupyter-notebooks-in-a-dockerfile/
 
+eXistDB im Dockerfile:              
+https://hub.docker.com/r/existdb/existdb/tags/
+
 
 Kommandos:                            
 
