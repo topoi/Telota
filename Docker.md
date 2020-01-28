@@ -82,6 +82,16 @@ root@123:/#
 
 https://linuxconfig.org/how-to-build-a-docker-image-using-a-dockerfile              
 
+## Docker Compose:                  
+docker run -d --name=redis redis                
+docker run -d --name=db postgres
+
+docker pull docker/example-voting-app-vote                  
+docker run -d --name=vote -p 5000:80 docker/example-voting-app-vote                 
+
+docker pull h0tbird/result-app                  
+docker run -d --name=result -p 5001:80 result-app                       
+
 
 ### Install docker linux:       
 *apt install docker.io*       
