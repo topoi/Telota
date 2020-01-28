@@ -92,6 +92,9 @@ docker run -d --name=vote -p 5000:80 docker/example-voting-app-vote
 docker pull h0tbird/result-app                  
 docker run -d --name=result -p 5001:80 result-app                       
 
+docker pull dockersamples/worker                
+docker run -d --name=worker dockersamples/worker:latest                 
+
 
 ### Install docker linux:       
 *apt install docker.io*       
