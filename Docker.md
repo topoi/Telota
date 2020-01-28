@@ -161,11 +161,6 @@ services:
       networks:
          - front-end
          - back-end
-        
-        
-        
-        
-        
 ```
 
 
