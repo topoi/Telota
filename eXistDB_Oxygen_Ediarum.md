@@ -9,6 +9,8 @@ https://exist-db.org/exist/apps/doc/basic-installation
 #### 1.2.1 in lokalem Installationspfad:   
 uninstall.jar   
 
+### error messages eXist DB
+/usr/local/eXist-db/webapp/WEB-INF/logs
 
 ### 1.2. eXist DB releases
 https://github.com/eXist-db/exist/releases
