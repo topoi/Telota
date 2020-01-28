@@ -87,13 +87,44 @@ docker run -d --name=redis redis
 docker run -d --name=db postgres
 
 docker pull docker/example-voting-app-vote                  
-docker run -d --name=vote -p 5000:80 docker/example-voting-app-vote                 
+docker run -d --name=vote -p 5000:80 *--link redis:redis* docker/example-voting-app-vote                 
 
 docker pull h0tbird/result-app                  
-docker run -d --name=result -p 5001:80 result-app                       
+docker run -d --name=result -p 5001:80 *--link db:db* result-app                       
 
 docker pull dockersamples/worker                
-docker run -d --name=worker dockersamples/worker:latest                 
+docker run -d --name=worker *--link db:db --link redis:redis*  dockersamples/worker:latest                 
+
+*--link X:Y* nicht mehr Standard (wird abgeschafft!  --> Lösung Docker Swarm und Networking)                                    
+
+docker compose file (docker-compose.yml):
+
+```yml
+redis:
+ image: redis
+db:
+ image: postgres
+vote:
+ image: docker/example-voting-app-vote
+ ports:
+  - 5000:80
+ links:
+    - redis
+result:
+ image: h0tbird/result-app
+ ports:
+  - 5001:80
+ links:
+  - db
+worker:
+ image: dockersamples/worker
+ links:
+  - redis
+  - db
+```
+
+apt  install docker-compose
+docker-compose up
 
 
 ### Install docker linux:       
