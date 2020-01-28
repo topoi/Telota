@@ -126,6 +126,48 @@ worker:
 apt  install docker-compose
 docker-compose up
 
+alernativ 
+
+```yml
+build: ./vote/example-voting-app/vote
+```
+anstelle von 
+
+```yml
+build: ./vote/example-voting-app/vote
+```
+
+docker compose versions 
+
+```yml
+version: 2
+services:
+   redis:
+      image: redis
+      
+      networks:
+        - back-end
+   db:
+      image: postgres
+      networks:
+        - back-end
+   vote:
+      image: voting-app
+      networks:
+         - front-end
+         - back-end
+  result:
+      image: result
+      networks:
+         - front-end
+         - back-end
+        
+        
+        
+        
+        
+```
+
 
 ### Install docker linux:       
 *apt install docker.io*       
