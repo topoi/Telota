@@ -44,6 +44,21 @@ https://github.com/telota/existance
 
 sudo -H pip3 install texttable         falls "ModuleNotFoundError: No module named 'texttable'"          
 
+Einschub: nginx installieren:           
+sudo apt update          
+sudo apt install nginx        
+sudo ufw app list        
+sudo ufw allow 'Nginx HTTP'        
+sudo ufw status          
+systemctl status apache2.service        
+systemctl stop apache2.service          
+sudo ufw status          
+sudo ufw allow 'Nginx HTTP'        
+sudo ufw status          
+sudo ufw enable          
+sudo ufw default deny         
+sudo ufw status          
+
 
 ## 2.Oxygen   
 https://www.oxygenxml.com/    
