@@ -37,6 +37,14 @@ sudo /usr/local/eXist-db/bin/client.sh -u admin -P telota -m /db/projects/goedel
 upload folder (-d):              
 bin/client.sh -d -m /db/movies -p /home/exist/xml/movies         
 /usr/local/eXist-db/bin/client.sh -u admin -P telota -d -m /db/projects/xmledit_goedel/data/web2020 -p web2017
+
+
+### existance installieren:        
+https://github.com/telota/existance          
+
+sudo -H pip3 install texttable         falls "ModuleNotFoundError: No module named 'texttable'"          
+
+
 ## 2.Oxygen   
 https://www.oxygenxml.com/    
 
