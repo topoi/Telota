@@ -187,11 +187,11 @@ Schemata entsprechen (Reguläre Ausdrücke):
 
 Mit dem Python-Skript `oxgarage_rest_call.py` werden **alle** `.docx`-Dateien
 in dem Verzeichnis in dem das Skript liegt über den OxGarage-Web-Service
-(http://oxgarage.oucs.ox.ac.uk:8080) nach TEI konvertiert. Die Datei
+(https://oxgarage2.tei-c.org/) nach TEI konvertiert. **Die Datei
 `oxgarage_rest_call.py` muss also im gleichen Verzeichnis liegen, wie die zu
 transformierenden Briefe oder Zeugenbeschreibungen. Das Verzeichnis sollte
 außer den zu transformierenden Briefen/Zeugenbeschreibungen und dem
-Python-Skript `oxgarage_rest_call.py` keine weiteren Dateien enthalten.
+Python-Skript `oxgarage_rest_call.py` keine weiteren Dateien enthalten.**
 
 **Achtung:** Eventuell vorhandene XML-Dateien werden ohne Nachfrage
 überschrieben!
