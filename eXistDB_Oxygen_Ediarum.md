@@ -188,3 +188,6 @@ https://www.fileformat.info/info/unicode/char/search.htm
 
 Find Unicode Character:       
 https://shapecatcher.com/
+
+## Ediarum Anpassung mit eXist DB 5.2.0:     
+https://www.oueta.com/linux/extract-pkg-and-mpkg-files-with-xar-on-linux/       
