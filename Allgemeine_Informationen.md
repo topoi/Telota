@@ -1,3 +1,7 @@
+*** add branch...***
+https://redmine.bbaw.de/projects/team-all/wiki/Git
+
+
 *** Überblick "Digitale Editonen" ***   
 Folien der IDE-Summer School "Digitale Edition":    
 https://www.i-d-e.de/aktivitaeten/schools/summer-school-2017/materialien-summer-school-2017/    
