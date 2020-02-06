@@ -281,9 +281,11 @@ https://notebooks.gesis.org/binder/v2/gh/topoi/Telota/master
 
 
 ## Debugging:                       
+A)                      
 wenn            
 /.docker/config.json: permission denied                             
 
 dann:                   
 sudo chown "$USER":"$USER" /home/"$USER"/.docker -R                     
-sudo chmod g+rwx "/home/$USER/.docker" -R                   
+sudo chmod g+rwx "/home/$USER/.docker" -R                                
+B)
