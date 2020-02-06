@@ -1,0 +1,500 @@
+    9  cd ..
+   10  cd gits/
+   11  ssh git
+   12  ssh narndt@git.bbaw.de
+   13  ssh -T narndt@git.bbaw.de
+   14  ssh git2
+   15  ssh xmldev
+   16  git clone ediarum.BASE.edit.git 
+   17  git clone ssh git ediarum.BASE.edit.git
+   18  git clone ssh://narndt@git.bbaw.de/ediarum.BASE.edit.git
+   19  git clone ssh://narndt@git.bbaw.de/ediarum.OVP.edit.git
+   20  git remote -v
+   21  git clone ssh://narndt@git.bbaw.de/ediarum.BASE.edit.git
+   22  ssh git
+   23  git clone narndt@git/ediarum.BASE.edit.git
+   24  git clone narndt@git.bbaw.de/ediarum.BASE.edit
+   25  git clone ssh://narndt@git/ediarum.BASE.edit
+   26  git clone ssh://narndt@git/ediarum.BASE.edit.git
+   27  git clone ssh://narndt@git/git/ediarum.BASE.edit.git
+   28  ll
+   29  cd workspace/gits/ediarum.BASE.edit/
+   30  git status
+   31  cd ..
+   32  ll
+   33  git clone ssh:/narndt@git/git/ediarum.REGISTER.git
+   34  git clone ssh:/narndt@git.bbaw.de/git/ediarum.REGISTER.git
+   35  git clone ssh://narndt@git/git/ediarum.REGISTER.git
+   36  git clone ssh://narndt@git/git/ediarum.OVP.edit.git
+   37  git clone ssh://narndt@git/git/ediarum.DB.git
+   38  git clone ssh://narndt@git/git/ediarum_context_standalone.git
+   39  git clone ssh://narndt@git/git/ediarum_existdb_java.git
+   40  git clone ssh://narndt@git/git/ediarum_PDF.git
+   41  ll
+   42  cd workspace/gits/
+   43  git clone ssh://narndt@git.bbaw.de/git/ediarum.AVHR.edit.git
+   44  ll
+   45  ll
+   46  ll
+   47  ll
+   48  G:
+   49  G:/
+   50  ll
+   51  cd G:
+   52  ll
+   53  cd gits
+   54  ll
+   55  ll
+   56  ll
+   57  java -version
+   58  ant -v
+   59  ant -v
+   60  ll
+   61  cd ediarum.OVP.edit/
+   62  ant -p
+   63  ant -p
+   64  ant -p
+   65  cd ediarum.OVP.edit/
+   66  git branch -a
+   67  git pull
+   68  git status
+   69  git checkout ovp_dev.xpr
+   70  git add build.properties 
+   71  git commit -m"build.properties für Laptop angepasst"
+   72  git config --global user.email "narndt@bbaw.de"
+   73  git config --global user.name "Nadine Arndt"
+   74  git commit -m"build.properties für Laptop angepasst"
+   75  git status
+   76  git pull
+   77  git status
+   78  git clone ssh://narndt@git.bbaw.de/git/ediarum.BASE.edit.git
+   79  cd ..
+   80  git clone ssh://narndt@git.bbaw.de/git/ediarum.BASE.edit.git
+   81  git clone ssh://narndt@git.bbaw.de/git/ediarum.OVP.edit
+   82  cd ediarum.OVP.edit/
+   83  git branch -a
+   84  git checkout dev
+   85  git branch -a
+   86  git checkout master
+   87  git clone dev
+   88  git checkout dev
+   89  git clone dev
+   90  git pull dev
+   91  git pull origin dev
+   92  cd ..
+   93  cd ediarum_ovp/
+   94  git branch -a
+   95  git pull
+   96  git log
+   97  git checkout master
+   98  git log
+   99  git checkout dev
+  100  git remote -v
+  101  cd ..
+  102  cd..
+  103  cd ..
+  104  ssh://narndt@git.bbaw.de/srv/git
+  105  narndt@git.bbaw.de
+  106  ssh://narndt@git.bbaw.de
+  107  ss narndt@git.bbaw.de
+  108  ssh narndt@git.bbaw.de
+  109  ll
+  110  g:
+  111  cd g:
+  112  ll
+  113  git clone ssh://narndt@git.bbaw.de/git/ediarum.OVP.edit.git
+  114  cd ediarum.OVP.edit/
+  115  git branch -a
+  116  git pull origin dev
+  117  git branch -a
+  118  git checkout de
+  119  git checkout dev
+  120  git branch -a
+  121  git pull
+  122  git remote -v
+  123  ll
+  124  ll
+  125  cd ediarum.BASE.edit/
+  126  git branch -a
+  127  git checkout t10953
+  128  git status
+  129  git log
+  130  git clone ssh://narndt@git.bbaw.de/git/ediarum.GUIDE.git
+  131  cd ..
+  132  git clone ssh://narndt@git.bbaw.de/git/ediarum.GUIDE.git
+  133  git clone ssh://narndt@git.bbaw.de/git/ediarum.MSDESC.git
+  134  ssh narndt@dev.bbaw.de
+  135  ssh narndt@dev.bbaw.de/ediarum
+  136  ssh narndt@xmldev.bbaw.de
+  137  ssh narndt@xmldev.bbaw.de/ediarum
+  138  ssh narndt@xmldev.bbaw.de
+  139  ssh narndt@git.bbaw.de
+  140  ssh narndt@xmldev.bbaw.de
+  141  ssh narndt@xmldev.bbaw.de/ediarum
+  142  ssh narndt@xmledit.bbaw.de
+  143  ssh narndt@xmlpublic.bbaw.de
+  144  ssh narndt@xmldev.bbaw.de
+  145  ssh narndt@xmldev.bbaw.de
+  146  ssh narndt@xmldev.bbaw.de
+  147  ssh narndt@xmldev.bbaw.de
+  148  ssh narndt@xmldev.bbaw.de
+  149  a:
+  150  c/
+  151  A:/
+  152  CD A:
+  153  A:
+  154  ll
+  155  cd ..
+  156  dir
+  157  a:
+  158  /a
+  159  cd ediarum.BASE.edit/
+  160  cd ..
+  161  ll
+  162  git clone ssh://narndt@git.bbaw.de/git/ediarum_schleiermacher.git
+  163  cd ediarum.BASE.edit/
+  164  git status
+  165  cd ..
+  166  git clone ssh://narndt@git.bbaw.de/git/ediarum.MEGA.edit.git
+  167  cd ediarum.BASE.edit/
+  168  git log
+  169  dir
+  170  cd ediarum.MSDESC/
+  171  git status
+  172  dit checkout dev
+  173  git checkout dev
+  174  git branch -a
+  175  git checkout -b develop
+  176  git checkout -b t13103 develop
+  177  git status
+  178  git status
+  179  git status
+  180  git add resources/copy_attr.xsl 
+  181  git commit -m"Datei aufgeräumt"
+  182  git status
+  183  git add ediarum.MSDESC.framework 
+  184  git commit -m"Schrift und Hand: Aktionen jeweils angepasst, Neu: Verweis auf Hand (allgemein)"
+  185  git status
+  186  git add css/standard_msDesc.less 
+  187  git commit -m"Layout für Schriftart und Hände angepasst"
+  188  git status
+  189  git pull develop
+  190  git push develop
+  191  git push
+  192  git checkout develop
+  193  git push develop
+  194  git branch -a
+  195  git push origin develop
+  196  git push develop t13103
+  197  git push t13103
+  198  git push origin t13103
+  199  cd ediarum.MSDESC/
+  200  git status
+  201  git branch -a
+  202  git add -A
+  203  git checkout t13103
+  204  git status
+  205  git add -A
+  206  git commit -am"Fehler #13103: Schriftarten & Händer überarbeitet"
+  207  cd ..
+  208  cd ediarum.OVP.edit/
+  209  git status
+  210  git checkout -b t13104 dev
+  211  git status
+  212  git add -A
+  213  git status
+  214  git commit -m"Ordner umgeräumt"
+  215  git status
+  216  git status
+  217  git add -A
+  218  git status
+  219  git commit -m"inetrne Glossar-Verweise wieder möglich"
+  220  git status
+  221  git status
+  222  git add -A
+  223  git status
+  224  git commit -m"Fremdsprachige Textabschnitte um Lat erweitert"
+  225  git status
+  226  git status
+  227  git add -A
+  228  git commit -m"Liber Pharetrae als neues Quelle eingebunden (über MFL-Einträge), dementsprechend kleinere Anpassungen, Link ebenfalls korrigiert"
+  229  git statu
+  230  git status
+  231  git status
+  232  git add -A
+  233  git status
+  234  git commit -m"Verweis auf libPha aus Editiontext jetzt möglich"
+  235  git status
+  236  git status
+  237  git status
+  238  git add -A
+  239  git commit -m"Zwischen-Commit für Primärquellenregisterarbeiten"
+  240  git status
+  241  cd ..
+  242  git clone shh://git.bbaw.de/git/ediarum_cagb.git
+  243  git clone ssh://git.bbaw.de/git/ediarum_cagb.git
+  244  git clone ssh://git.bbaw.de/git//ediarum_cagb.git
+  245  git clone ssh://narndt@git.bbaw.de/git/ediarum_cagb.git
+  246  git clone ssh://narndt@git/git/ediarum_cagb.git
+  247  cd ediarum.OVP.edit/
+  248  git status
+  249  git ckeckout -- ovp.xpr
+  250  git checkout -- ovp.xpr
+  251  git status
+  252  cd ..
+  253  cd ediarum.MSDESC/
+  254  git checkout develop
+  255  git merge --no-ff t13103
+  256  git commit
+  257  git status
+  258  git push
+  259  git push --set-upstream origin develop
+  260  git remote
+  261  cd ..
+  262  cd ediarum.OVP.edit/
+  263  git remote
+  264  cd ..
+  265  cd ediarum.MSDESC/
+  266  git remote
+  267  git pull
+  268  git pull
+  269  git pull origin develop
+  270  git push origin develop
+  271  git status
+  272  cd ..
+  273  cd ediarum.OVP.edit/
+  274  git status
+  275  git checkout -- ovp.xpr
+  276  git status
+  277  git push
+  278  git push --set-upstream origin t13104
+  279  git remote
+  280  git brnach -a
+  281  git branch -a
+  282  cd ediarum.OVP.edit/
+  283  git status
+  284  git status
+  285  git statu
+  286  git status
+  287  git add -A
+  288  git status
+  289  git commit -m"Zotero-Schnittstellen aktualisiert (nach neuen Vorgaben seitens des Projekts)"
+  290  git status
+  291  git push
+  292  git push
+  293  git status
+  294  git checkout dev
+  295  git merge --no-ff t13104
+  296  git status
+  297  git push
+  298  git status
+  299  git checkout -b release-v1-3-1 dev
+  300  git status
+  301  git add -A
+  302  git commit -m"Changelog aktualisiert"
+  303  git status
+  304  git status
+  305  git ckeckout CHANGELOG.txt
+  306  git checkout CHANGELOG.txt
+  307  git status
+  308  git add -A
+  309  git status
+  310  git commit -m"gitignor aktualisiert"
+  311  git status
+  312  cd ..
+  313  cd ediarum.MSDESC/
+  314  git status
+  315  git branch -a
+  316  git checkout t13103
+  317  git status
+  318  git status
+  319  git add -A
+  320  git commit -m"Schrift + Registerverweis wieder aktiviert"
+  321  git status
+  322  git checkout develop
+  323  git merge --no-ff t13103
+  324  git push
+  325  git push --set-upstream origin develop
+  326  git status
+  327  git status
+  328  cd ..
+  329  cd ediarum.OVP.edit/
+  330  git status
+  331  git status
+  332  git add -A
+  333  git commit -m"Projekt auf Addon gestellt"
+  334  git status
+  335  git status
+  336  git checkout dev
+  337  git merge --no-ff release-v1-3-1
+  338  git status
+  339  git push
+  340  git checkout master
+  341  git push
+  342  git merge --no-ff dev
+  343  git log --merge
+  344  git status
+  345  git diff
+  346  git add CHANGELOG.txt 
+  347  git status
+  348  git rm build.properties 
+  349  git rm update.xml 
+  350  git status
+  351  git commit
+  352  git status
+  353  git push
+  354  git tag v1.3.1
+  355  git push --tags
+  356  git status
+  357  git log
+  358  git push
+  359  git checkout dev
+  360  git branch- b
+  361  git branch -a
+  362  git branch -d release-v1-3-1
+  363  git branch -a
+  364  git branch -d t13104
+  365  git branch -a
+  366  git status
+  367  cd ..
+  368  cd ediarum.MSDESC/
+  369  git branch -a
+  370  git status
+  371  git checkout master
+  372  git merge --no-ff develop
+  373  git push
+  374  git status
+  375  git branch -a
+  376  git branch -d t13103
+  377  git branch -a
+  378  git push origin :t13103
+  379  git branch -a
+  380  cd ..
+  381  cd ediarum.OVP.edit/
+  382  git branch -a
+  383  git push origin :t13104
+  384  git branch -a
+  385  cd ediarum.BASE.edit/
+  386  mkdir parla
+  387  ll
+  388  cd parla/
+  389  git clone https://github.com/clarin-eric/parla-clarin.git
+  390  git pull
+  391  cd ..
+  392  rm -r parla
+  393  ll
+  394  cd parla-clarin/
+  395  git pull
+  396  cd ediarum.REGISTER/
+  397  git pull
+  398  git pull origin changes_gordon_2020
+  399  git branch -a
+  400  git checkout changes_gordon_2020 
+  401  git pull
+  402  git checkout master
+  403  git checkout -b t13139 master
+  404  git status
+  405  git add -am'Schema um @type-Werte ergänzt'
+  406  git add -A
+  407  git status
+  408  git commit -m'Schema um @type-Werte ergänzt'
+  409  git status
+  410  git status
+  411  git status
+  412  git status
+  413  git add _A
+  414  git add -A
+  415  git status
+  416  git commit -m"CSS für @type-Werte angepasst"
+  417  git status
+  418  git push t13139
+  419  git push origin t13139
+  420  git branch -a
+  421  git checkout changes_gordon_2020 
+  422  git pull
+  423  git pull
+  424  git checkout t13139 
+  425  git status
+  426  git status
+  427  git commit -a -m "Unterorte können sortiert werden"
+  428  git status
+  429  git add resources/sort_unterorte.xsl 
+  430  git status
+  431  git add resources/sort_unterorte.xsl 
+  432  git status
+  433  git commit -m"new file: sortiereUnterorte"
+  434  git status
+  435  git pull
+  436  git branch --set-upstream-to=origin/t13139
+  437  git branch -a
+  438  git status
+  439  git push
+  440  git status
+  441  git checkout changes_gordon_2020 
+  442  git pull
+  443  git status
+  444  git status
+  445  git add -A
+  446  git commit -m"Kommentar für Unterort"
+  447  git status
+  448  git push
+  449  git status
+  450  git checkout t13139
+  451  git checkout changes_gordon_2020 
+  452  cd ediarum.REGISTER/
+  453  git checkout t13139
+  454  git status
+  455  git checkout css/standard.css
+  456  git status
+  457  git brnach -a
+  458  git branch -a
+  459  git checkout develop
+  460  git pull
+  461  git merge changes_gordon_2020 
+  462  git status
+  463  git push
+  464  git merge  --no-ff changes_gordon_2020 
+  465  git checkout t13139
+  466  git pull origin develop
+  467  git add -a -m "Schema für weitere Werte angepasst"
+  468  git add -A
+  469  git commit -m "Schema für weitere @type-Werte angepasst"
+  470  git status
+  471  git add -A
+  472  git commit -m"CSS angepasst"
+  473  git status
+  474  git add -A
+  475  git commit -m"Aktion für neue Werte angepasst"
+  476  git status
+  477  git push
+  478  git checkout develop
+  479  git merge --no-ff t13139
+  480  git push
+  481  git branch -d changes_gordon_2020 
+  482  git branch -d t13139
+  483  git branch -a
+  484  git push origin :t13139
+  485  git push origin :changes_gordon_2020
+  486  git branch -a
+  487  git checkout master
+  488  git merge --no-ff develop
+  489  git status
+  490  git push
+  491  git checkout -b release-v1.0.2
+  492  git status
+  493  git add -a
+  494  git add -A
+  495  git commit -m"Changelog"
+  496  git push
+  497  git push --set-upstream origin release-v1.0.2 
+  498  git checkout master
+  499  git merge --no-ff release-v1.0.2 
+  500  git tag v1.0.2
+  501  git push
+  502  git push tag
+  503  git push --tags
+  504  git branch -a
+  505  git branch -d release-v1.0.2 
+  506  git branch -a
+  507  history
+  508  history > test.txt
