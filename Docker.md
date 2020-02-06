@@ -13,8 +13,8 @@ Notebooks im Dockerfile:
 https://u.group/thinking/how-to-put-jupyter-notebooks-in-a-dockerfile/
 
 eXistDB im Dockerfile:              
-https://hub.docker.com/r/existdb/existdb/tags/
-
+https://hub.docker.com/r/existdb/existdb/tags/              
+docker run -it -d -p 8080:8080 -p 8443:8443 --name exist existdb/existdb:5.2.0                  
 
 Kommandos:                            
 
