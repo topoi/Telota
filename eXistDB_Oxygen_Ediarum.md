@@ -191,3 +191,7 @@ https://shapecatcher.com/
 
 ## Ediarum Anpassung mit eXist DB 5.2.0:     
 https://www.oueta.com/linux/extract-pkg-and-mpkg-files-with-xar-on-linux/       
+
+xar file bearbeiten:          
+7za a ediarum.db-3.2.5.445.xar test.txt          
+7za e ediarum.db-3.2.5.445.xar modules/config.xqm      
