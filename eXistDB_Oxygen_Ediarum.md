@@ -198,4 +198,5 @@ xar file bearbeiten:
 
 namespaces:         
 https://www.w3.org/TR/2014/WD-xpath-functions-31-20140424/xpath-functions-31-diff.html#func-map-new  
-
+Änderungen 4.4. -> 5.2:       
+https://github.com/eXist-db/exist/issues/2626#issuecomment-480319383       
