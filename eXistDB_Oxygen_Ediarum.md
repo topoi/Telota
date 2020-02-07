@@ -195,3 +195,7 @@ https://www.oueta.com/linux/extract-pkg-and-mpkg-files-with-xar-on-linux/
 xar file bearbeiten:                 
 7za e ediarum.db-3.2.5.445.xar modules/config.xqm   
 7za a ediarum.db-3.2.5.445.xar modules/config.xqm
+
+namespaces:         
+https://www.w3.org/TR/2014/WD-xpath-functions-31-20140424/xpath-functions-31-diff.html#func-map-new  
+
