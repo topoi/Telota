@@ -52,6 +52,6 @@ sudo -u postgres psql memphis_project < /home/gordon/Memphis/current_db/20190923
 sudo -i -u postgres  
 [postgres]$ cd /var/lib/postgres/tmp    
 [postgres]$ initdb -D /var/lib/postgres/data    
-
+wenn Fehler kommt dann evtl.:  
 export LC_ALL="en_US.UTF-8"  
 export LC_CTYPE="en_US.UTF-8"  
