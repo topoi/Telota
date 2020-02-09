@@ -43,3 +43,14 @@ dropdb 'database name'
 
 *- Import SQL File into DB   memphis_project; user: postgres)    
 sudo -u postgres psql memphis_project < /home/gordon/Memphis/current_db/20190923memphis.sql   
+
+## wenn systemctl start postgresql fails:  
+
+# mv /var/lib/postgres/data /var/lib/postgres/olddata  
+# mkdir /var/lib/postgres/data /var/lib/postgres/tmp  
+# chown postgres:postgres /var/lib/postgres/data /var/lib/postgres/tmp  
+[postgres]$ cd /var/lib/postgres/tmp    
+[postgres]$ initdb -D /var/lib/postgres/data    
+
+export LC_ALL="en_US.UTF-8"  
+export LC_CTYPE="en_US.UTF-8"  
