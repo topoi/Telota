@@ -4,11 +4,12 @@ https://www.computernetworkingnotes.com/linux-tutorials/how-to-install-and-use-7
 
 *** add branch...***   
 https://redmine.bbaw.de/projects/team-all/wiki/Git
+https://redmine.bbaw.de/projects/ediarum/wiki/Projektentwicklung
 
 
 *** Überblick "Digitale Editonen" ***   
 Folien der IDE-Summer School "Digitale Edition":    
-https://www.i-d-e.de/aktivitaeten/schools/summer-school-2017/materialien-summer-school-2017/    
+https://www.i-d-e.de/aktivitaeten/schools/summer-school-2017/materialien-summer-school-2017/     
 
 *** Formate DTABf und TEI ***   
 DTABf:      
