@@ -1,3 +1,6 @@
+## Git Projekt für ediarum bearbeiten:       
+https://redmine.bbaw.de/projects/ediarum/wiki/Projektentwicklung  
+
 ## 1. eXist DB   
 ### 1.1 eXistDB installieren
 
