@@ -41,6 +41,8 @@ upload folder (-d):
 bin/client.sh -d -m /db/movies -p /home/exist/xml/movies         
 /usr/local/eXist-db/bin/client.sh -u admin -P telota -d -m /db/projects/xmledit_goedel/data/web2020 -p web2017
 
+### 1.6.Datenspeicher  
+/usr/local/eXist-db/webapp/WEB-INF/data/fs/db/projects  
 
 ### existance installieren:        
 https://github.com/telota/existance          
