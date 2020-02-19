@@ -9,8 +9,12 @@ https://linuxize.com/post/install-java-on-ubuntu-18-04/
 https://exist-db.org/exist/apps/doc/basic-installation
 
 ### 1.2. eXistDB de-installieren
+#### lokal auf Arbeitsrechner (in eXistDB Ordner):          
+java -jar eXist-db-setup-4.4.0.jar
+
 #### 1.2.1 in lokalem Installationspfad:   
 uninstall.jar   
+
 
 ### error messages eXist DB
 /usr/local/eXist-db/webapp/WEB-INF/logs
