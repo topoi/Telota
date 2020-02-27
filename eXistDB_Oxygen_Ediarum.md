@@ -1,4 +1,15 @@
 ### ExistDB Backup mit Github
+
+```xml
+<job type="system" class="org.exist.storage.ConsistencyCheckTask" cron-trigger="0 17 * * * ?">      
+      <!-- the output directory. paths are relative to the data dir -->         
+      <parameter name="output" value="export"/>        
+      <parameter name="zip" value="no"/>          
+      <parameter name="backup" value="yes"/>      
+      <parameter name="incremental" value="yes"/>      
+      <parameter name="incremental-check" value="no"/>      
+</job>         
+```
 Script zu bestimmter Zeit ausführen (cron):
 https://askubuntu.com/questions/2368/how-do-i-set-up-a-cron-job
 
