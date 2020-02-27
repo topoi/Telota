@@ -1,5 +1,6 @@
 ### ExistDB Backup mit Github
-Script zu bestimmter Zeit ausführen (cron)
+Script zu bestimmter Zeit ausführen (cron):
+https://askubuntu.com/questions/2368/how-do-i-set-up-a-cron-job
 
 push2git.sh:        
 
