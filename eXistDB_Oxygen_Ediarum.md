@@ -1,5 +1,5 @@
 ### ExistDB Backup mit Github
-
+Script zu bestimmter Zeit ausführen (cron)
 
 push2git.sh:        
 
