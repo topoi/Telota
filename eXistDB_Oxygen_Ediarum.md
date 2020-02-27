@@ -1,3 +1,24 @@
+### ExistDB Backup mit Github
+
+
+push2git.sh:        
+
+rm -rf backupfiles       
+latest_file=$(ls -t | head -n 1)        
+scp -rp "$latest_file" backupfiles      
+git add backupfiles      
+git commit -m "Backup from $(date)"          
+git push       
+
+ssh-keygen -t rsa -b 4096 -C "gfischer@bbaw.de"                
+cd /root/.ssh/id_rsa.pub      
+less /root/.ssh/id_rsa.pub         
+eval "$(ssh-agent -s)"        
+ssh-add ~/.ssh/id_rsa         
+ssh -T git@github.com         
+
+https://help.github.com/en/github/authenticating-to-github/testing-your-ssh-connection
+
 ## Git Projekt für ediarum bearbeiten:       
 https://redmine.bbaw.de/projects/ediarum/wiki/Projektentwicklung  
 
