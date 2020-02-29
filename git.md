@@ -1,4 +1,4 @@
-*** git credential store ***
+*** git credential store ***  
 https://git-scm.com/docs/git-credential-store  
 
 sudo git config credential.helper store  
