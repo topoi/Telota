@@ -1,3 +1,6 @@
+*** git credential store ***
+https://git-scm.com/docs/git-credential-store
+
 *** regular expressions tester ***    
 https://regex101.com/  
 
