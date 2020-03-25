@@ -6,6 +6,10 @@ xmldev
 xmledit   
 xmlpublic   
 
+### From Home Office
+chmod 700 known_hosts (bbaw_hosts etc)  
+ssh -A gfischer@git.bbaw.de (Passwort für Ziel-Server)  
+
 ### Kommado in der Konsole (Achtung /root/.ssh!!)
 ssh git.bbaw.de   
 cd /git   
