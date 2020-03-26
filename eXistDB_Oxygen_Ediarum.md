@@ -108,7 +108,10 @@ https://www.oxygenxml.com/
 Achtun: für xql den Dateityp ändern!! (in Optionen -> Dateityp)       
 
 Achtung: wichtig welche Java Dist:           
-Linux 64-bit (Includes OpenJDK 12.0.1)       
+Linux 64-bit (Includes OpenJDK 12.0.1)    
+
+install Java on arch Linux:   
+https://www.tecmint.com/install-java-on-arch-linux/
 
 Strg + S: Datei abspeichern   
 Strg + Shift + C: Neue Transformation anwenden
