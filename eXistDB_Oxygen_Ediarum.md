@@ -110,8 +110,11 @@ Achtun: für xql den Dateityp ändern!! (in Optionen -> Dateityp)
 Achtung: wichtig welche Java Dist:           
 Linux 64-bit (Includes OpenJDK 12.0.1)    
 
-install Java on arch Linux:   
-https://www.tecmint.com/install-java-on-arch-linux/
+install Java on Arch-Linux:   
+https://www.tecmint.com/install-java-on-arch-linux/         
+
+check and switch java Versions on Arch-Linux:         
+https://wiki.archlinux.org/index.php/Java#List_compatible_Java_environments_installed           
 
 Strg + S: Datei abspeichern   
 Strg + Shift + C: Neue Transformation anwenden
