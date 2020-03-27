@@ -36,7 +36,10 @@ https://redmine.bbaw.de/projects/ediarum/wiki/Projektentwicklung
 
 ## 1. eXist DB   
 ### 1.1 eXistDB installieren
-
+**Wichtig**  
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk/bin    
+export PATH=$PATH:/usr/lib/jvm/java-8-openjdk     
+ 
 https://linuxize.com/post/install-java-on-ubuntu-18-04/
 
 https://exist-db.org/exist/apps/doc/basic-installation
