@@ -69,6 +69,9 @@ setze JAVA_HOME=/usr/lib/jvm/java-\*\*-openjdk
 dann in Installationspfad (z.B. /usr/local/eXistDB:   
 bin/client.sh   
 
+#### 1.3.3 character encoding
+-Dfile.encoding=UTF-8
+
 ### 1.4. Backup der Datenbank:     
 bin/backup.sh -u admin -p fischer -b /db/projects/project1/ -d /var/backup/sunday         
 z.B.:          
