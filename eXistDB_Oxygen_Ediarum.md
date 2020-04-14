@@ -78,7 +78,16 @@ z.B.:
 sudo /usr/local/eXist-db/bin/backup.sh -u admin -p telota -b /db/projects/goedel/data -d /var/backup/         
 
 ### 1.5.Daten hochladen:   
+in /home/gordon/cluster_preussen/exist/exist  
+sudo /usr/local/eXist-db431/bin/client.sh -u admin -P fischer -d -m /db/projects/avhr/web -p web  
+oder   
+sudo /usr/local/eXist-db431/bin/client.sh -u admin -P fischer -d -m /db/projects/avhr/web -p /home/gordon/cluster_preussen/exist/exist/web  
+
 sudo /usr/local/eXist-db/bin/client.sh -u admin -P fischer -d -m /db/projects/ -p /home/gordon/cluster_preussen/xmledit_backup/full20200403-0712/db/projects/avhr/
+
+
+
+
 
 bin/client.sh -u admin -P fischer -m /db/projects/project1/data/ -p /usr/local/eXist-db/conf.xml         
      z.B.:                
