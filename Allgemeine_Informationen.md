@@ -1,3 +1,7 @@
+*** desktop film mit Ton ***  
+recordmydesktop --device hw:2,0
+
+
 *** git credential store ***  
 https://git-scm.com/docs/git-credential-store
 
