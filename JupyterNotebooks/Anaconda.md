@@ -1,3 +1,9 @@
+bei Fehlern mit font
+sudo fc-cache -f -v
+
+
+
+
 https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart
 
 RunAnaconda.sh  
