@@ -5,3 +5,6 @@ sudo git config credential.helper store
 git push https://github.com/anneherz/ProM.git    
 
 git push https://github.com/topoi/NavigatorVersion1   
+
+wenn 403:
+git config credential.username 'anneherz'
